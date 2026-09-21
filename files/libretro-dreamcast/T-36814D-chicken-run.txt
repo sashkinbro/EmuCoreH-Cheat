@@ -1,0 +1,16 @@
+// Infinite Sprouts
+01150FB8 00000063
+// Have All Gold Medals
+01150F7A 00000303
+// Have All Gold Medals (Continued)
+02150F7C 03030303
+// Have All Gold Medals (Continued)
+01150F80 00000003
+// Unlock All Levels
+01150F6E 00000101
+// Unlock All Levels (Continued)
+02150F70 01010101
+// Unlock All Levels (Continued)
+02150F74 01010101
+// Unlock All Levels (Continued)
+01150F78 00000101

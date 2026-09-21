@@ -1,0 +1,28 @@
+// Infinite Health P1
+01556158 000000C8
+// No Health P1
+01556158 00000000
+// 75% Health P1 (Continued)
+01556158 00000096
+// 50% Health P1 (Continued)
+01556158 00000064
+// 25% Health P1 (Continued)
+01556158 00000032
+// 1-Hit Death P1 (Continued)
+01556158 00000001
+// Infinite Power P1
+015F1850 00000090
+// No Power P1
+015F1850 00000000
+// Infinite Health P2
+01556A8C 000000C8
+// No Health P2
+01556A8C 00000000
+// 75% Health P2 (Continued)
+01556A8C 00000096
+// 50% Health P2 (Continued)
+01556A8C 00000064
+// 25% Health P2 (Continued)
+01556A8C 00000032
+// 1-Hit Death P2 (Continued)
+01556A8C 00000001

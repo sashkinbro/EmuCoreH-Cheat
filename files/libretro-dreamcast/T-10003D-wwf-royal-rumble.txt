@@ -1,0 +1,26 @@
+// Enable Vince McMahon
+0177F960 00000001
+// Enable Shane McMahon
+0177F964 00000001
+// Exhibition Mode Codes-P1 Infinite Health
+014C2396 00004396
+// Exhibition Mode Codes-P1 Infinite Health (Continued)
+014C239A 00004396
+// Exhibition Mode Codes-P1 Infinite Super Specials
+014C23AA 0000437A
+// Exhibition Mode Codes-P1 Infinite A+B Special
+014C23B6 00004270
+// Exhibition Mode Codes-P1 Infinite A+B Special (Continued)
+024C23BA 00014270
+// Exhibition Mode Codes-P1 Infinite B+X Special
+014C23C6 00004270
+// Exhibition Mode Codes-P1 Infinite B+X Special (Continued)
+024C23CA 00014270
+// Exhibition Mode Codes-P1 Infinite X+A Special
+014C23D6 00004270
+// Exhibition Mode Codes-P1 Infinite X+A Special (Continued)
+024C23DA 00014270
+// Exhibition Mode Codes-Stop Timer
+01081C32 00000009
+// Exhibition Mode Codes-Extra Time
+01081C30 00007101

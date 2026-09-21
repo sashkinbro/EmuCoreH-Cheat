@@ -1,0 +1,22 @@
+// Pong Codes-P1 Needs 1 for 11 (Continued)
+0194CC60 0000000A
+// Pong Codes-P1 Needs 1 for 15 (Continued)
+0194CC60 0000000E
+// Pong Codes-P1 Score Modifier (Replace FF's with below code)
+0194CC60 000000FF
+// Pong Codes-P2 Needs 1 for 11 (Continued)
+0194CC64 0000000A
+// Pong Codes-P2 Needs 1 for 15 (Continued)
+0194CC64 0000000E
+// Pong Codes-P2 Score Modifier (Replace FF's with below code)
+0194CC64 000000FF
+// Super Breakout Codes-Infinite Lives
+017BE024 00000001
+// Super Breakout Codes-P1 999 Score
+007BE040 00000099
+// Super Breakout Codes-P1 999 Score (Continued)
+007BE045 00000009
+// Super Breakout Codes-P2 999 Score
+007BE041 00000099
+// Super Breakout Codes-P2 999 Score (Continued)
+007BE046 00000009

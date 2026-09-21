@@ -1,0 +1,12 @@
+// Infinite Lives
+010DD2BC 00000006
+// Max Coins
+010DD2BA 00000019
+// 1 Frog Needed To Complete Level (Continued)
+0107EAE0 00000004
+// 2 Frogs Needed To Complete Level (Continued)
+0107EAE0 00000003
+// 3 Frogs Needed To Complete Level (Continued)
+0107EAE0 00000002
+// 4 Frogs Needed To Complete Level (Continued)
+0107EAE0 00000001

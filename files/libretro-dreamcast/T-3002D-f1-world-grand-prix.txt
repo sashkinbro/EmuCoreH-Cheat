@@ -1,0 +1,44 @@
+// Points Modifier-Team Arrows (Replace FF's with below code)
+01212E58 0000FFFF
+// Points Modifier-Salo (Replace FF's with below code)
+01212FF8 0000FFFF
+// Points Modifier-Team Benetton (Replace FF's with below code)
+01213128 0000FFFF
+// Points Modifier-Fisichella (Replace FF's with below code)
+01213188 0000FFFF
+// Points Modifier-Wurz (Replace FF's with below code)
+012132C8 0000FFFF
+// Points Modifier-Team Ferrari (Replace FF's with below code)
+012133F8 0000FFFF
+// Points Modifier-M. Schumacher (Replace FF's with below code)
+01213458 0000FFFF
+// Points Modifier-Irvine (Replace FF's with below code)
+01213598 0000FFFF
+// Points Modifier-Team Jordan (Replace FF's with below code)
+012136C8 0000FFFF
+// Points Modifier-Damon Hill (Replace FF's with below code)
+01213728 0000FFFF
+// Points Modifier-R. Schumacher (Replace FF's with below code)
+01213868 0000FFFF
+// Points Modifier-Team Maclaren (Replace FF's with below code)
+01213998 0000FFFF
+// Points Modifier-Coulthard (Replace FF's with below code)
+012139F8 0000FFFF
+// Points Modifier-Hakkinen (Replace FF's with below code)
+01213B38 0000FFFF
+// Points Modifier-Team Sauber (Replace FF's with below code)
+01214208 0000FFFF
+// Points Modifier-Alesi (Replace FF's with below code)
+01214268 0000FFFF
+// Points Modifier-Herbert (Replace FF's with below code)
+012143A8 0000FFFF
+// Points Modifier-Team Stewart (Replace FF's with below code)
+012144D8 0000FFFF
+// Points Modifier-Barrichello (Replace FF's with below code)
+01214538 0000FFFF
+// Points Modifier-Team Williams (Replace FF's with below code)
+01214A78 0000FFFF
+// Points Modifier-Williams Driver (Replace FF's with below code)
+01214AD8 0000FFFF
+// Points Modifier-Frentzen (Replace FF's with below code)
+01214C18 0000FFFF

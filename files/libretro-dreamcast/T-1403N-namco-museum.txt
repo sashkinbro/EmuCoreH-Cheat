@@ -1,0 +1,22 @@
+// Dig Dug Codes-Infinite Lives P1
+000DEE58 00000004
+// Dig Dug Codes-Infinite Lives P2
+000DEEBC 00000004
+// Galaga Codes-Infinite Lives P1
+000C77C8 00000004
+// Galaga Codes-Infinite Lives P2
+000C77CC 00000004
+// Pac-Man Codes-Infinite Lives P1
+000F47F4 00000003
+// Pac-Man Codes-Infinite Lives P2
+000F47F8 00000003
+// Pac-Man Codes-Super Speed
+010BDA30 00000003
+// Ms. Pac-Man Codes-Infinite Lives P1
+000F47F4 00000003
+// Ms. Pac-Man Codes-Infinite Lives P2
+000F47F8 00000003
+// Ms. Pac-Man Codes-Super Speed
+010F4E68 00000003
+// Pole Position Codes-Infinite Time
+00120B93 00000063

@@ -1,0 +1,18 @@
+// Infinite/Max Energy (Continued)
+017D6346 000000C8
+// Hella Setek (Continued)
+017D6348 0000FFFF
+// Infinite Magic Rings (Continued)
+017D634A 000000FF
+// Max Attack (Continued)
+017D633C 000000C8
+// Max Fight Experience (Continued)
+017D6342 000000C8
+// Max Body Resistance (Continued)
+017D633E 000000C8
+// Max Speed (Continued)
+017D633A 000000C8
+// Max Dodge (Continued)
+017D6340 000000C8
+// Max Mana (Continued)
+017D6342 000000C8

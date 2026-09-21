@@ -1,0 +1,4 @@
+// Points Modifier P1 (Replace FF's with below code)
+01EABB00 0000FFFF
+// Points Modifier P2 (Replace FF's with below code)
+01EB0180 0000FFFF

@@ -1,0 +1,6 @@
+// Points Modifier P1 (Replace FF's with below code)
+011BA0E0 0000FFFF
+// Always Place 1st P1
+011BA35C 00000000
+// Max Medallions P1
+011BA138 0000000B

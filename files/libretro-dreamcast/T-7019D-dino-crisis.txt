@@ -1,0 +1,274 @@
+// Infinite Health
+012E3E2C 000004B0
+// Infinite Ammo
+010E9FAE 00000009
+// Extra Ammo
+0006AA24 00000001
+// Infinite Item Usage
+010EA59A 00000009
+// Extra Items
+000EA598 00000001
+// Clear Time Is 0:00:00
+022EBD80 00000000
+// Used 0 Continues
+002EBD86 00000005
+// Haven't Saved
+002EBD7F 00000000
+// Have All Weapons (Regina)
+012EBE64 0000FFFF
+// Have All Items (Regina)
+012EBE70 0000FFFF
+// Supplies Modifier Codes (Regina)-Slot 1 (Replace FF's with below code)
+002EC188 000000FF
+// Supplies Modifier Codes (Regina)-Slot 2 (Replace FF's with below code)
+002EC18C 000000FF
+// Supplies Modifier Codes (Regina)-Slot 3 (Replace FF's with below code)
+002EC190 000000FF
+// Supplies Modifier Codes (Regina)-Slot 4 (Replace FF's with below code)
+002EC194 000000FF
+// Supplies Modifier Codes (Regina)-Slot 5 (Replace FF's with below code)
+002EC198 000000FF
+// Supplies Modifier Codes (Regina)-Slot 6 (Replace FF's with below code)
+002EC19C 000000FF
+// Supplies Modifier Codes (Regina)-Slot 7 (Replace FF's with below code)
+002EC1A0 000000FF
+// Supplies Modifier Codes (Regina)-Slot 8 (Replace FF's with below code)
+002EC1A4 000000FF
+// Supplies Modifier Codes (Regina)-Slot 9 (Replace FF's with below code)
+002EC1A8 000000FF
+// Supplies Modifier Codes (Regina)-Slot 10 (Replace FF's with below code)
+002EC1AC 000000FF
+// Max Supplies Codes (Regina)-Slot 1
+002EC189 000000FF
+// Max Supplies Codes (Regina)-Slot 2
+002EC18D 000000FF
+// Max Supplies Codes (Regina)-Slot 3
+002EC191 000000FF
+// Max Supplies Codes (Regina)-Slot 4
+002EC195 000000FF
+// Max Supplies Codes (Regina)-Slot 5
+002EC199 000000FF
+// Max Supplies Codes (Regina)-Slot 6
+002EC19D 000000FF
+// Max Supplies Codes (Regina)-Slot 7
+002EC1A1 000000FF
+// Max Supplies Codes (Regina)-Slot 8
+002EC1A5 000000FF
+// Max Supplies Codes (Regina)-Slot 9
+002EC1A9 000000FF
+// Max Supplies Codes (Regina)-Slot 10
+002EC1AD 000000FF
+// Max Supplies Modifier Codes (Regina)-Slot 1 (Replace FF's with below code)
+012EC188 0000FFFF
+// Max Supplies Modifier Codes (Regina)-Slot 2 (Replace FF's with below code)
+012EC18C 0000FFFF
+// Max Supplies Modifier Codes (Regina)-Slot 3 (Replace FF's with below code)
+012EC190 0000FFFF
+// Max Supplies Modifier Codes (Regina)-Slot 4 (Replace FF's with below code)
+012EC194 0000FFFF
+// Max Supplies Modifier Codes (Regina)-Slot 5 (Replace FF's with below code)
+012EC198 0000FFFF
+// Max Supplies Modifier Codes (Regina)-Slot 6 (Replace FF's with below code)
+012EC19C 0000FFFF
+// Max Supplies Modifier Codes (Regina)-Slot 7 (Replace FF's with below code)
+012EC1A0 0000FFFF
+// Max Supplies Modifier Codes (Regina)-Slot 8 (Replace FF's with below code)
+012EC1A4 0000FFFF
+// Max Supplies Modifier Codes (Regina)-Slot 9 (Replace FF's with below code)
+012EC1A8 0000FFFF
+// Max Supplies Modifier Codes (Regina)-Slot 10 (Replace FF's with below code)
+012EC1AC 0000FFFF
+// Elevator Hall Chest Max Item Codes-Slot 1
+002EBEA1 000000FE
+// Elevator Hall Chest Max Item Codes-Slot 2
+002EBEA5 000000FE
+// Elevator Hall Chest Max Item Codes-Slot 3
+002EBEA9 000000FE
+// Elevator Hall Chest Max Item Codes-Slot 4
+002EBEAD 000000FE
+// Elevator Hall Chest Max Item Codes-Slot 5
+002EBEB1 000000FE
+// Elevator Hall Chest Max Item Codes-Slot 6
+002EBEB5 000000FE
+// Elevator Hall Chest Max Item Codes-Slot 7
+002EBEB9 000000FE
+// Elevator Hall Chest Max Item Codes-Slot 8
+002EBEBD 000000FE
+// Elevator Hall Chest Max Item Codes-Slot 9
+002EBEC1 000000FE
+// Elevator Hall Chest Max Item Codes-Slot 10
+002EBEC5 000000FE
+// Elevator Hall Chest Item Modifier Codes-Slot 1 (Replace FF's with below code)
+002EBEA0 000000FF
+// Elevator Hall Chest Item Modifier Codes-Slot 2 (Replace FF's with below code)
+002EBEA4 000000FF
+// Elevator Hall Chest Item Modifier Codes-Slot 3 (Replace FF's with below code)
+002EBEA8 000000FF
+// Elevator Hall Chest Item Modifier Codes-Slot 4 (Replace FF's with below code)
+002EBEAC 000000FF
+// Elevator Hall Chest Item Modifier Codes-Slot 5 (Replace FF's with below code)
+002EBEB0 000000FF
+// Elevator Hall Chest Item Modifier Codes-Slot 6 (Replace FF's with below code)
+002EBEB4 000000FF
+// Elevator Hall Chest Item Modifier Codes-Slot 7 (Replace FF's with below code)
+002EBEB8 000000FF
+// Elevator Hall Chest Item Modifier Codes-Slot 8 (Replace FF's with below code)
+002EBEBC 000000FF
+// Elevator Hall Chest Item Modifier Codes-Slot 9 (Replace FF's with below code)
+002EBEC0 000000FF
+// Elevator Hall Chest Item Modifier Codes-Slot 10 (Replace FF's with below code)
+002EBEC4 000000FF
+// Elevator Hall Chest Max Item Modifier Codes-Slot 1 (Replace FF's with below code)
+012EBEA0 0000FEFF
+// Elevator Hall Chest Max Item Modifier Codes-Slot 2 (Replace FF's with below code)
+012EBEA4 0000FEFF
+// Elevator Hall Chest Max Item Modifier Codes-Slot 3 (Replace FF's with below code)
+012EBEA8 0000FEFF
+// Elevator Hall Chest Max Item Modifier Codes-Slot 4 (Replace FF's with below code)
+012EBEAC 0000FEFF
+// Elevator Hall Chest Max Item Modifier Codes-Slot 5 (Replace FF's with below code)
+012EBEB0 0000FEFF
+// Elevator Hall Chest Max Item Modifier Codes-Slot 6 (Replace FF's with below code)
+012EBEB4 0000FEFF
+// Elevator Hall Chest Max Item Modifier Codes-Slot 7 (Replace FF's with below code)
+012EBEB8 0000FEFF
+// Elevator Hall Chest Max Item Modifier Codes-Slot 8 (Replace FF's with below code)
+012EBEBC 0000FEFF
+// Elevator Hall Chest Max Item Modifier Codes-Slot 9 (Replace FF's with below code)
+012EBEC0 0000FEFF
+// Elevator Hall Chest Max Item Modifier Codes-Slot 10 (Replace FF's with below code)
+012EBEC4 0000FEFF
+// Control Room Hall Chest Max Item Codes-Slot 1
+002EC001 000000FE
+// Control Room Hall Chest Max Item Codes-Slot 2
+002EC005 000000FE
+// Control Room Hall Chest Max Item Codes-Slot 3
+002EC009 000000FE
+// Control Room Hall Chest Max Item Codes-Slot 4
+002EC00D 000000FE
+// Control Room Hall Chest Max Item Codes-Slot 5
+002EC011 000000FE
+// Control Room Hall Chest Max Item Codes-Slot 6
+002EC015 000000FE
+// Control Room Hall Chest Max Item Codes-Slot 7
+002EC019 000000FE
+// Control Room Hall Chest Max Item Codes-Slot 8
+002EC01D 000000FE
+// Control Room Hall Chest Max Item Codes-Slot 9
+002EC021 000000FE
+// Control Room Hall Chest Max Item Codes-Slot 10
+002EC025 000000FE
+// Control Room Hall Chest Item Modifier Codes-Slot 1 (Replace FF's with below code)
+002EC000 000000FF
+// Control Room Hall Chest Item Modifier Codes-Slot 2 (Replace FF's with below code)
+002EC004 000000FF
+// Control Room Hall Chest Item Modifier Codes-Slot 3 (Replace FF's with below code)
+002EC008 000000FF
+// Control Room Hall Chest Item Modifier Codes-Slot 4 (Replace FF's with below code)
+002EC00C 000000FF
+// Control Room Hall Chest Item Modifier Codes-Slot 5 (Replace FF's with below code)
+002EC010 000000FF
+// Control Room Hall Chest Item Modifier Codes-Slot 6 (Replace FF's with below code)
+002EC014 000000FF
+// Control Room Hall Chest Item Modifier Codes-Slot 7 (Replace FF's with below code)
+002EC018 000000FF
+// Control Room Hall Chest Item Modifier Codes-Slot 8 (Replace FF's with below code)
+002EC01C 000000FF
+// Control Room Hall Chest Item Modifier Codes-Slot 9 (Replace FF's with below code)
+002EC020 000000FF
+// Control Room Hall Chest Item Modifier Codes-Slot 10 (Replace FF's with below code)
+002EC024 000000FF
+// Control Room Hall Chest Item Modifier Codes-Slot 1 (Replace FF's with below code)
+012EC000 0000FEFF
+// Control Room Hall Chest Item Modifier Codes-Slot 2 (Replace FF's with below code)
+012EC004 0000FEFF
+// Control Room Hall Chest Item Modifier Codes-Slot 3 (Replace FF's with below code)
+012EC008 0000FEFF
+// Control Room Hall Chest Item Modifier Codes-Slot 4 (Replace FF's with below code)
+012EC00C 0000FEFF
+// Control Room Hall Chest Item Modifier Codes-Slot 5 (Replace FF's with below code)
+012EC010 0000FEFF
+// Control Room Hall Chest Item Modifier Codes-Slot 6 (Replace FF's with below code)
+012EC014 0000FEFF
+// Control Room Hall Chest Item Modifier Codes-Slot 7 (Replace FF's with below code)
+012EC018 0000FEFF
+// Control Room Hall Chest Item Modifier Codes-Slot 8 (Replace FF's with below code)
+012EC01C 0000FEFF
+// Control Room Hall Chest Item Modifier Codes-Slot 9 (Replace FF's with below code)
+012EC020 0000FEFF
+// Control Room Hall Chest Item Modifier Codes-Slot 10 (Replace FF's with below code)
+012EC024 0000FEFF
+// Item/Chest Modifier Codes
+01000000 00000000
+// 00 - Nothing
+01000000 00000000
+// 01 - Shotgun
+01000000 00000000
+// 02 - Shotgun Custom
+01000000 00000000
+// 03 - Shotgun & Stock
+01000000 00000000
+// 04 - Shotgun Custom & Stock
+01000000 00000000
+// 05 - Handgun
+01000000 00000000
+// 06 - Handgun & Sight
+01000000 00000000
+// 07 - Handgun Custom
+01000000 00000000
+// 08 - Handgun Custom & Sight
+01000000 00000000
+// 09 - Grenade Gun
+01000000 00000000
+// 0A - Grenade Gun Custom
+01000000 00000000
+// 0B - Shotgun Parts
+01000000 00000000
+// 0C - Shotgun Stocks
+01000000 00000000
+// 0D - Handgun Sights
+01000000 00000000
+// 0E - Handgun Slides
+01000000 00000000
+// 0F - Grenade Gun Parts
+01000000 00000000
+// 10 - Shotgun Bullets
+01000000 00000000
+// 11 - Slug Bullets
+01000000 00000000
+// 12 - Dart S
+01000000 00000000
+// 13 - Dart M
+01000000 00000000
+// 14 - Dart L
+01000000 00000000
+// 15 - Poison Dart
+01000000 00000000
+// 16 - 9mm Parabellum
+01000000 00000000
+// 17 - 40 S&W Bullets
+01000000 00000000
+// 18 - Grenade Bullets
+01000000 00000000
+// 19 - Heat Bullets
+01000000 00000000
+// 1A - Grenades
+01000000 00000000
+// 1B - Hemostat
+01000000 00000000
+// 1C - Med Pak S
+01000000 00000000
+// 1D - Med Pak M
+01000000 00000000
+// 1E - Med Pak L
+01000000 00000000
+// 1F - ?
+01000000 00000000
+// 20 - Aid 20
+01000000 00000000
+// 21 - Recovery Aid
+01000000 00000000
+// 22 - Intensifier
+01000000 00000000
+// 23 - Multiplier
+01000000 00000000

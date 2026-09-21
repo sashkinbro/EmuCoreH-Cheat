@@ -1,0 +1,60 @@
+// P1 Infinite Health
+0136DECC 00003840
+// P2 Infinite Health
+0136E4D8 00003840
+// Infinite Time
+0136DC44 00000063
+// Infinite Cash
+02390D18 000F423F
+// Max Groove Points
+0236E284 000F423F
+// Always Rank S
+0236E288 000000FF
+// Always Rank S (Continued)
+0136E28C 00000000
+// Max S Rank
+0036E288 000000FF
+// Max A Rank
+0036E289 000000FF
+// Max B Rank
+0036E28A 000000FF
+// Max C Rank
+0036E28B 000000FF
+// Max D Rank
+0036E28C 000000FF
+// P1 No Health
+0136DECC 00000000
+// P2 No Health
+0136E4D8 00000000
+// Hit Anywhere
+0109E212 00000009
+// Infinite Special P1 (Continued)
+0036DF81 00000090
+// No Special P1 (Continued)
+0036DF81 00000000
+// Infinite Special P2 (Continued)
+0036E58D 00000090
+// No Special P2 (Continued)
+0036E58D 00000000
+// 1 Hit for Max Special (Capcom Groove) (Both Players)
+010A0104 00000018
+// Max Special (SNK Groove)(Both players)
+000A5BA0 000000FF
+// P1 Can Do Specials (And Throws) In Mid-air (Continued)
+0136DF18 00000000
+// P2 Can Do Specials (And Throws) In Mid-air (Continued)
+0136E524 00000000
+// Both Players Can Do Specials (And Throws) In Mid-air
+000A265A 00000000
+// P1 Can Throw More Than 1 Projectile At A Time (Continued)
+0136DF70 00000100
+// P1 Cant Throw Projectiles (Continued)
+0136DF70 00000000
+// P2 Can Throw More Than 1 Projectile At A Time (Continued)
+0136E57C 00000000
+// P2 Cant Throw Projectiles (Continued)
+0136E57C 00000100
+// P1 Rapid Attacks (Continued)
+0136E230 00000000
+// Enable All Characters
+0107032E 0000E1FF

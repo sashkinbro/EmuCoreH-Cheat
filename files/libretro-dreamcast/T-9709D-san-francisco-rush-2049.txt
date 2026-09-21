@@ -1,0 +1,32 @@
+// Stunt Points Modifier (Replace FF's with below code)
+0114FBF8 0000FFFF
+// Enable Mission Track
+0012C79C 00000001
+// Enable Presidio
+0012C79D 00000001
+// Enable Disco Track
+0012C7A7 00000001
+// Enable Oasis Track
+0012C7A8 00000001
+// Enable Warehouse Track
+0012C7A9 00000001
+// Enable Gauntlet Track
+0012C7AA 00000001
+// Intermediate Circuit
+0012C819 00000001
+// Advanced Circuit
+0012C81A 00000001
+// Extreme Circuit
+0012C81B 00000001
+// All Terrain Tires
+0012C86F 00000001
+// Off Road Tires
+0012C870 00000001
+// Light Alloy Frame
+0012C883 00000001
+// Standard Alloy Frame
+0012C884 00000001
+// Heavy Alloy Frame
+0012C885 00000001
+// P1 Invisible
+0114D388 00000008

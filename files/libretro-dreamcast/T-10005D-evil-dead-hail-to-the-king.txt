@@ -1,0 +1,216 @@
+// Infinite Health (Ash)
+017AD778 00000064
+// Infinite Ammo Knowbys Pistol
+017AE2CC 000003E7
+// Infinite Fuel Chainsaw
+017AE3D6 000000FF
+// Chainsaw With Damascene Steel Blade
+017AE3D2 0000000D
+// Slot 1 Codes-Activator
+017ADA8A 00000000
+// Slot 1 Codes-Activator (Continued)
+017ADA92 00000000
+// Slot 1 Codes-Max Item
+017ADA9C 000003E7
+// Slot 1 Codes-Modifier (Replace FF's with below code)
+017ADA8E 000000FF
+// Slot 2 Codes-Activator
+017ADAB2 00000000
+// Slot 2 Codes-Activator (Continued)
+017ADABA 00000001
+// Slot 2 Codes-Max Item
+017ADAC4 000003E7
+// Slot 2 Codes-Modifier (Replace FF's with below code)
+017ADAB6 000000FF
+// Slot 3 Codes-Activator
+017ADADA 00000000
+// Slot 3 Codes-Activator (Continued)
+017ADAE2 00000002
+// Slot 3 Codes-Max Item
+017ADAEC 000003E7
+// Slot 3 Codes-Modifier (Replace FF's with below code)
+017ADADE 000000FF
+// Slot 4 Codes-Activator
+017ADB02 00000000
+// Slot 4 Codes-Activator (Continued)
+017ADB0A 00000003
+// Slot 4 Codes-Max Item
+017ADB14 000003E7
+// Slot 4 Codes-Modifier (Replace FF's with below code)
+017ADB06 000000FF
+// Slot 5 Codes-Activator
+017ADB2A 00000000
+// Slot 5 Codes-Activator (Continued)
+017ADB32 00000004
+// Slot 5 Codes-Max Item
+017ADB3C 000003E7
+// Slot 5 Codes-Modifier (Replace FF's with below code)
+017ADB2E 000000FF
+// Slot 6 Codes-Activator
+017ADB52 00000000
+// Slot 6 Codes-Activator (Continued)
+017ADB5A 00000005
+// Slot 6 Codes-Max Item
+017ADB64 000003E7
+// Slot 6 Codes-Modifier (Replace FF's with below code)
+017ADB56 000000FF
+// Slot 7 Codes-Activator
+017ADB7A 00000000
+// Slot 7 Codes-Activator (Continued)
+017ADB82 00000006
+// Slot 7 Codes-Max Item
+017ADB8C 000003E7
+// Slot 7 Codes-Modifier (Replace FF's with below code)
+017ADB7E 000000FF
+// Slot 8 Codes-Activator
+017ADBA2 00000000
+// Slot 8 Codes-Activator (Continued)
+017ADBAA 00000007
+// Slot 8 Codes-Max Item
+017ADBB4 000003E7
+// Slot 8 Codes-Modifier (Replace FF's with below code)
+017ADBA6 000000FF
+// Slot 9 Codes-Activator
+017ADBCA 00000000
+// Slot 9 Codes-Activator (Continued)
+017ADBD2 00000008
+// Slot 9 Codes-Max Item
+017ADBDC 000003E7
+// Slot 9 Codes-Modifier (Replace FF's with below code)
+017ADBCE 000000FF
+// Slot 10 Codes-Activator
+017ADBF2 00000000
+// Slot 10 Codes-Activator (Continued)
+017ADBFA 00000009
+// Slot 10 Codes-Max Item
+017ADC04 000003E7
+// Slot 10 Codes-Modifier (Replace FF's with below code)
+017ADBF6 000000FF
+// Slot 11 Codes-Activator
+017ADB1A 00000000
+// Slot 11 Codes-Activator (Continued)
+017ADB22 0000000A
+// Slot 11 Codes-Max Item
+017ADC2C 000003E7
+// Slot 11 Codes-Modifier (Replace FF's with below code)
+017ADC1E 000000FF
+// Slot 12 Codes-Activator
+017ADB42 00000000
+// Slot 12 Codes-Activator (Continued)
+017ADB4A 0000000B
+// Slot 12 Codes-Max Item
+017ADC54 000003E7
+// Slot 12 Codes-Modifier (Replace FF's with below code)
+017ADC46 000000FF
+// Slot 1 Codes-Activator
+017AE084 00000000
+// Slot 1 Codes-Activator (Continued)
+017AE08C 00000000
+// Slot 1 Codes-Max Item
+017AE094 000003E7
+// Slot 1 Codes-Modifier (Replace FF's with below code)
+017AE088 000000FF
+// Slot 2 Codes-Activator
+017AE09C 00000000
+// Slot 2 Codes-Activator (Continued)
+017AE0A4 00000001
+// Slot 2 Codes-Max Item
+017AE0BC 000003E7
+// Slot 2 Codes-Modifier (Replace FF's with below code)
+017AE0A0 000000FF
+// Slot 3 Codes-Activator
+017AE0D4 00000000
+// Slot 3 Codes-Activator (Continued)
+017AE0DC 00000002
+// Slot 3 Codes-Max Item
+017AE0E4 000003E7
+// Slot 3 Codes-Modifier (Replace FF's with below code)
+017AE0D8 000000FF
+// Slot 4 Codes-Activator
+017AE0EC 00000000
+// Slot 4 Codes-Activator (Continued)
+017AE0F4 00000003
+// Slot 4 Codes-Max Item
+017AE10C 000003E7
+// Slot 4 Codes-Modifier (Replace FF's with below code)
+017AE0F0 000000FF
+// Slot 5 Codes-Activator
+017AE124 00000000
+// Slot 5 Codes-Activator (Continued)
+017AE12C 00000004
+// Slot 5 Codes-Max Item
+017AE134 000003E7
+// Slot 5 Codes-Modifier (Replace FF's with below code)
+017AE128 000000FF
+// Slot 6 Codes-Activator
+017AE13C 00000000
+// Slot 6 Codes-Activator (Continued)
+017AE144 00000005
+// Slot 6 Codes-Max Item
+017AE15C 000003E7
+// Slot 6 Codes-Modifier (Replace FF's with below code)
+017AE140 000000FF
+// Slot 7 Codes-Activator
+017AE174 00000000
+// Slot 7 Codes-Activator (Continued)
+017AE17C 00000006
+// Slot 7 Codes-Max Item
+017AE184 000003E7
+// Slot 7 Codes-Modifier (Replace FF's with below code)
+017AE178 000000FF
+// Slot 8 Codes-Activator
+017AE18C 00000000
+// Slot 8 Codes-Activator (Continued)
+017AE194 00000007
+// Slot 8 Codes-Max Item
+017AE1AC 000003E7
+// Slot 8 Codes-Modifier (Replace FF's with below code)
+017AE190 000000FF
+// Slot 9 Codes-Activator
+017AE1C4 00000000
+// Slot 9 Codes-Activator (Continued)
+017AE1CC 00000008
+// Slot 9 Codes-Max Item
+017AE1D4 000003E7
+// Slot 9 Codes-Modifier (Replace FF's with below code)
+017AE1C8 000000FF
+// Slot 10 Codes-Activator
+017AE1DC 00000000
+// Slot 10 Codes-Activator (Continued)
+017AE1E4 00000009
+// Slot 10 Codes-Max Item
+017AE1FC 000003E7
+// Slot 10 Codes-Modifier (Replace FF's with below code)
+017AE1E0 000000FF
+// Slot 11 Codes-Activator
+017AE214 00000000
+// Slot 11 Codes-Activator (Continued)
+017AE21C 0000000A
+// Slot 11 Codes-Max Item
+017AE224 000003E7
+// Slot 11 Codes-Modifier (Replace FF's with below code)
+017AE218 000000FF
+// Slot 12 Codes-Activator
+017AE22C 00000000
+// Slot 12 Codes-Activator (Continued)
+017AE234 0000000B
+// Slot 12 Codes-Max Item
+017AE24C 000003E7
+// Slot 12 Codes-Modifier (Replace FF's with below code)
+017AE230 000000FF
+// Slot 13 Codes-Activator
+017AE264 00000000
+// Slot 13 Codes-Activator (Continued)
+017AE26C 0000000C
+// Slot 13 Codes-Max Item
+017AE274 000003E7
+// Slot 13 Codes-Modifier (Replace FF's with below code)
+017AE268 000000FF
+// Slot 14 Codes-Activator
+017AE17C 00000000
+// Slot 14 Codes-Activator (Continued)
+017AE184 0000000D
+// Slot 14 Codes-Max Item
+017AE29C 000003E7
+// Slot 14 Codes-Modifier (Replace FF's with below code)
+017AE280 000000FF

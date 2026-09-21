@@ -1,0 +1,48 @@
+// Infinite Shield (All Levels)
+010C4EDA 00000009
+// Infinite Health (All Levels-Enemies Too)
+01021050 00000009
+// Infinite N-Tech (Energy All Levels)
+0116E706 00000009
+// Infinite Laser Ammo (All Levels)
+010C4B7C 00000009
+// Junkyard A Codes-Infinite N-Tech Energy
+016E6054 00000078
+// Junkyard A Codes-Infinite Health
+016E6060 000000C8
+// Junkyard A Codes-Infinite Shield
+016E6050 00000032
+// Junkyard A Codes-Infinite Laser Ammo
+016DC848 0000001E
+// Junkyard B Codes-Infinite N-Tech Energy
+01721A04 00000078
+// Junkyard B Codes-Infinite Health
+01721A10 000000C8
+// Junkyard B Codes-Infinite Shield
+01721A00 00000032
+// Junkyard B Codes-Infinite Laser Ammo
+017178F8 0000001E
+// Junkyard C Codes-Infinite N-Tech Energy
+016FEDF4 00000078
+// Junkyard C Codes-Infinite Health
+016FEE00 000000C8
+// Junkyard C Codes-Infinite Shield
+01721A00 00000032
+// Junkyard C Codes-Infinite Laser Ammo
+016F5188 0000001E
+// Junkyard D Codes-Infinite N-Tech Energy
+0170C384 00000078
+// Junkyard D Codes-Infinite Health
+0170C390 000000C8
+// Junkyard D Codes-Infinite Shield
+0170C380 00000032
+// Junkyard D Codes-Infinite Laser Ammo
+01702728 0000001E
+// Dockyards A Codes-Infinite N-Tech Energy
+01749ADC 00000078
+// Dockyards A Codes-Infinite Health
+01749AE8 000000C8
+// Dockyards A Codes-Infinite Shield
+01749AD8 00000032
+// Dockyards A Codes-Infinite Laser Ammo
+0173FEE8 0000001E

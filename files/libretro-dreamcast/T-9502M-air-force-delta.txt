@@ -1,0 +1,6 @@
+// Infinite Money
+01278B60 0000FFFF
+// Infinite Armor
+012E7C44 000010FF
+// Infinite Missiles
+012E7C34 00000032

@@ -1,0 +1,8 @@
+// Infinite Health
+00D60EAD 0000001E
+// Infinite Air
+002E7612 000000E1
+// Flying Rayman (Press A) (Continued)
+00D60F17 00000040
+// Have Swinging Power Up
+00D95414 0000006D

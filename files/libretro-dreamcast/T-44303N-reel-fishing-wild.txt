@@ -1,0 +1,194 @@
+// Unlock Lake Codes-Japan/River Source
+001CD02C 00000001
+// Unlock Lake Codes-Japan/Mountain Lake
+001CDC34 00000001
+// Unlock Lake Codes-N.Amer/Pond
+001CE83C 00000001
+// Unlock Lake Codes-N.Amer/Reservoir
+001CF444 00000001
+// Unlock Lake Codes-N.Amer/Mtn River
+001D004C 00000001
+// Unlock Lake Codes-N.Amer/Highland River
+001D0C54 00000001
+// Unlock Lake Codes-Canada/Lake
+001D2464 00000001
+// Unlock Lake Codes-Australia/River
+001D306C 00000001
+// Unlock Lake Codes-N.Zealand/River #1
+001D3C74 00000001
+// Unlock Lake Codes-N.Zealand/River #2
+001D487C 00000001
+// Unlock Lake Codes-S.Am./Amazon Tributary
+001D5484 00000001
+// Unlock Lake Codes-S.Am./Amazon Mid-River
+001D608C 00000001
+// Unlock Lake Codes-S.Am./Pantanal Bog
+001D6C94 00000001
+// Have Rod Codes-Basic Trout UL
+001D789C 00000001
+// Have Rod Codes-All-round Trout L
+001D789D 00000001
+// Have Rod Codes-Super Trout M
+001D789E 00000001
+// Have Rod Codes-Standard/Bass ML
+001D789F 00000001
+// Have Rod Codes-Competitor/Bass M
+001D78A0 00000001
+// Have Rod Codes-Long Range/Bass MH
+001D78A1 00000001
+// Have Rod Codes-Heavy Bass H
+001D78A2 00000001
+// Have Rod Codes-Ultra-heavy Bass H
+001D78A3 00000001
+// Have Rod Codes-Expert M
+001D78A4 00000001
+// Have Rod Codes-Professional H
+001D78A5 00000001
+// Have Rod Codes-Unknown
+001D78A6 00000001
+// Have Rod Codes-Tournament Master UH
+001D78A7 00000001
+// Have Reel & Lines Codes-Trout 2lb & Reel
+001D78A8 00000001
+// Have Reel & Lines Codes-Trout 4lb & Reel
+001D78A9 00000001
+// Have Reel & Lines Codes-Trout 6lb & Reel
+001D78AA 00000001
+// Have Reel & Lines Codes-Trout 8lb & Reel
+001D78AB 00000001
+// Have Reel & Lines Codes-Trout 10lb & Reel
+001D78AC 00000001
+// Have Reel & Lines Codes-Trout 12lb & Reel
+001D78AD 00000001
+// Have Reel & Lines Codes-Trout 16lb & Reel
+001D78AE 00000001
+// Have Reel & Lines Codes-Trout 20lb & Reel
+001D78AF 00000001
+// Have Reel & Lines Codes-Trout 30lb & Reel
+001D78B0 00000001
+// Have Reel & Lines Codes-Bass Line 2lb & Reel
+001D78B1 00000001
+// Have Reel & Lines Codes-Bass Line 4lb & Reel
+001D78B2 00000001
+// Have Reel & Lines Codes-Bass Line 6lb & Reel
+001D78B3 00000001
+// Have Reel & Lines Codes-Bass Line 8lb & Reel
+001D78B4 00000001
+// Have Reel & Lines Codes-Bass Line 10lb & Reel
+001D78B5 00000001
+// Have Reel & Lines Codes-Bass Line 12lb & Reel
+001D78B6 00000001
+// Have Reel & Lines Codes-Bass Line 16lb & Reel
+001D78B7 00000001
+// Have Reel & Lines Codes-Bass Line 20lb & Reel
+001D78B8 00000001
+// Have Reel & Lines Codes-Monster 20lb & Reel
+001D78B9 00000001
+// Have Reel & Lines Codes-Monster 22lb & Reel
+001D78BA 00000001
+// Have Reel & Lines Codes-Monster 26lb & Reel
+001D78BB 00000001
+// Have Reel & Lines Codes-Monster 30lb & Reel
+001D78BC 00000001
+// Have Reel & Lines Codes-Steel Line & Reel
+001D78BD 00000001
+// Have Reel & Lines Codes-Unknown
+001D78BE 00000001
+// Have Reel & Lines Codes-Carbon Nano Tube
+001D78BF 00000001
+// Have Lure Codes-Pencil Bait A
+001D78C0 00000001
+// Have Lure Codes-Pencil Bait B
+001D78C1 00000001
+// Have Lure Codes-Pencil Bait C
+001D78C2 00000001
+// Have Lure Codes-Bopper A
+001D78C3 00000001
+// Have Lure Codes-Bopper B
+001D78C4 00000001
+// Have Lure Codes-Bopper C
+001D78C5 00000001
+// Have Lure Codes-Floating Minnow A
+001D78C6 00000001
+// Have Lure Codes-Floating Minnow B
+001D78C7 00000001
+// Have Lure Codes-Floating Minnow C
+001D78C8 00000001
+// Have Lure Codes-Suspended Minnow A
+001D78C9 00000001
+// Have Lure Codes-Suspended Minnow B
+001D78CA 00000001
+// Have Lure Codes-Suspended Minnow C
+001D78CB 00000001
+// Have Lure Codes-Deep Diver A
+001D78CC 00000001
+// Have Lure Codes-Deep Diver B
+001D78CD 00000001
+// Have Lure Codes-Deep Diver C
+001D78CE 00000001
+// Have Lure Codes-Crank Bait A
+001D78CF 00000001
+// Have Lure Codes-Crank Bait B
+001D78D0 00000001
+// Have Lure Codes-Crank Bait C
+001D78D1 00000001
+// Have Lure Codes-Vibration A
+001D78D2 00000001
+// Have Lure Codes-Vibration B
+001D78D3 00000001
+// Have Lure Codes-Vibration C
+001D78D4 00000001
+// Have Lure Codes-Metal Jig A
+001D78D5 00000001
+// Have Lure Codes-Metal Jig B
+001D78D6 00000001
+// Have Lure Codes-Metal Jig C
+001D78D7 00000001
+// Have Lure Codes-Spoon A
+001D78D8 00000001
+// Have Lure Codes-Spoon B
+001D78D9 00000001
+// Have Lure Codes-Spoon C
+001D78DA 00000001
+// Have Lure Codes-Spinner A
+001D78DB 00000001
+// Have Lure Codes-Spinner B
+001D78DC 00000001
+// Have Lure Codes-Spinner C
+001D78DD 00000001
+// Have Lure Codes-Frog A
+001D78DE 00000001
+// Have Lure Codes-Frog B
+001D78DF 00000001
+// Have Lure Codes-Frog C
+001D78E0 00000001
+// Have Lure Codes-Super Spoon A
+001D78E1 00000001
+// Have Lure Codes-Super Spoon B
+001D78E2 00000001
+// Have Lure Codes-Super Spoon C
+001D78E3 00000001
+// Have Lure Codes-Super Bopper A
+001D78E4 00000001
+// Have Lure Codes-Super Bopper B
+001D78E5 00000001
+// Have Lure Codes-Super Bopper C
+001D78E6 00000001
+// Have Lure Codes-Super Pencil Bait A
+001D78E7 00000001
+// Have Lure Codes-Super Pencil Bait B
+001D78E8 00000001
+// Have Lure Codes-Super Pencil Bait C
+001D78E9 00000001
+// Have Lure Codes-Spoon D
+001D78ED 00000001
+// Have Lure Codes-Spoon E
+001D78EE 00000001
+// Have Lure Codes-Spoon F
+001D78EF 00000001
+// Have Lure Codes-All Lures (Continued)
+011D78E8 00000101
+// Have Lure Codes-All Lures (Continued)
+011D78EE 00000101
+// Have Lure Codes-All Lures (Continued)
+001D78ED 00000001

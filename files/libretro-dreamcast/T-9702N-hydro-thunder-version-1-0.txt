@@ -1,0 +1,22 @@
+// Infinite Boost P1
+01256446 00004090
+// Infinite Boost P2
+01256766 00004090
+// Always Place 1st P1
+0125643C 00000001
+// Low Lap Time
+022597B8 00000000
+// Infinite Time
+022597BC 41C80000
+// Enable All Tracks And Boats
+0126B8D0 00000001
+// Enable All Tracks And Boats (Continued)
+0126B8D4 00000001
+// Enable All Tracks And Boats (Continued)
+0126B8D8 00000001
+// Enable All Tracks And Boats (Continued)
+0126B8DC 00000001
+// Enable All Tracks And Boats (Continued)
+0126B8E0 00000001
+// Enable All Tracks And Boats (Continued)
+0126B8E4 00000001

@@ -1,0 +1,16 @@
+// Infinite Lives P1
+0127E140 00000009
+// Infinite Bombs P1
+0127E142 00000009
+// Score Modifier P1 (Replace FF's with below code)
+0127E144 0000FFFF
+// Max Score P1
+0227E144 05F5E0FF
+// Infinite Lives P2
+0127E1F4 00000009
+// Infinite Bombs P2
+0127E1F6 00000009
+// Score Modifier P2 (Replace FF's with below code)
+0127E1F8 0000FFFF
+// Max Score P2
+0227E1F8 05F5E0FF

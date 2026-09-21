@@ -1,0 +1,18 @@
+// Boxer Mode
+0109BD28 00000001
+// Infinite Health-Kurt (Normal Mode)
+01037B56 00008906
+// Infinite Health-Kurt (Sniper Mode)
+010397A8 00008900
+// Infinite Health-Max
+0103F5D4 00008905
+// Infinite Health-Dr. Fluke
+0102A5EC 00008907
+// Infinite Ammo (Most Weapons On Pickup)
+0103572E 00000009
+// Infinite Ammo (Chain Gun On Pickup)
+010370B4 00000009
+// Infinite Ammo (Chain Gun On Pickup) (Continued)
+01037142 00000009
+// Infinite Jetpack Fuel-Max
+0103E53E 00000009

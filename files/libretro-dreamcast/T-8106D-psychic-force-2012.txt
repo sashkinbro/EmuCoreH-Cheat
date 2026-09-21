@@ -1,0 +1,24 @@
+// Infinite Health P1
+014DA8E2 000003E8
+// No Health P1
+014DA8E2 00000000
+// 75% Health P1 (Continued)
+014DA8E2 000002EE
+// 50% Health P1 (Continued)
+014DA8E2 000001F4
+// 25% Health P1 (Continued)
+014DA8E2 000000FA
+// 1-Hit Death P1 (Continued)
+014DA8E2 00000001
+// Infinite Health P2
+014DA7DA 000003E8
+// No Health P2
+014DA7DA 00000000
+// 75% Health P2 (Continued)
+014DA7DA 000002EE
+// 50% Health P2 (Continued)
+014DA7DA 000001F4
+// 25% Health P2 (Continued)
+014DA7DA 000000FA
+// 1-Hit Death P2 (Continued)
+014DA7DA 00000001

@@ -1,0 +1,12 @@
+// P1 Infinite Health
+0136A4CC 00003840
+// P1 No Health
+0136A4CC 00000000
+// P2 Infinite Health
+0136AAD8 00003840
+// P2 No Health
+0136AAD8 00000000
+// Max Groove Points
+0236A884 000F423F
+// Hella Cash
+0238D318 000F423F

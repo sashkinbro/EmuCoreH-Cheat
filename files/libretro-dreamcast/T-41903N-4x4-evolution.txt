@@ -1,0 +1,4 @@
+// Max Infinite Cash
+0250A4DC FFFFFFFF
+// Max Infinite Cash (Continued)
+025134DC FFFFFFFF

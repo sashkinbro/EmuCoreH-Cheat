@@ -1,0 +1,8 @@
+// Max Money
+029AE10C 0098967F
+// Infinite Money
+019AE10C 0000FFFF
+// Quick Win/Start On Last Lap
+009ACB89 00000003
+// Quick Win/Start On Last Lap (Continued)
+0197EBC0 00000003

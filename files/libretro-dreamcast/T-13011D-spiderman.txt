@@ -1,0 +1,18 @@
+// Infinite Health (Continued)
+0109856C 00000009
+// Infinite Webbing (Continued)
+010960B8 00000009
+// Unlock Storyboards (Continued)
+0120F8E0 00000102
+// All Levels Unlocked (Continued)
+0120F8E2 00000101
+// Unlock All Costumes (Continued)
+0120F90C 00000FFF
+// Unlock All Character Viewer (Continued)
+0220F910 FFFFFFFF
+// Unlock All Movie Viewer (Continued)
+0220F914 FFFFFFFF
+// Unlock All Comic Collection (Continued)
+0220F918 FFFFFFFF
+// Unlock All Game Covers (Continued)
+0220F91C FFFFFFFF

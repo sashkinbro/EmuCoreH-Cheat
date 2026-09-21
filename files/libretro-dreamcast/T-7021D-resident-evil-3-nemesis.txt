@@ -1,0 +1,608 @@
+// Chest Item Modifier Codes  -Slot 1 (Replace FF's with below code)
+00DD95A0 000000FF
+// Chest Item Modifier Codes  -Slot 2 (Replace FF's with below code)
+00DD95A4 000000FF
+// Chest Item Modifier Codes  -Slot 3 (Replace FF's with below code)
+00DD95A8 000000FF
+// Chest Item Modifier Codes  -Slot 4 (Replace FF's with below code)
+00DD95AC 000000FF
+// Chest Item Modifier Codes  -Slot 5 (Replace FF's with below code)
+00DD95B0 000000FF
+// Chest Item Modifier Codes  -Slot 6 (Replace FF's with below code)
+00DD95B4 000000FF
+// Chest Item Modifier Codes  -Slot 7 (Replace FF's with below code)
+00DD95B8 000000FF
+// Chest Item Modifier Codes  -Slot 8 (Replace FF's with below code)
+00DD95BC 000000FF
+// Chest Item Modifier Codes  -Slot 9 (Replace FF's with below code)
+00DD95C0 000000FF
+// Chest Item Modifier Codes  -Slot 10 (Replace FF's with below code)
+00DD95C4 000000FF
+// Chest Item Modifier Codes  -Slot 11 (Replace FF's with below code)
+00DD95C8 000000FF
+// Chest Item Modifier Codes  -Slot 12 (Replace FF's with below code)
+00DD95CC 000000FF
+// Chest Item Modifier Codes  -Slot 13 (Replace FF's with below code)
+00DD95D0 000000FF
+// Chest Item Modifier Codes  -Slot 14 (Replace FF's with below code)
+00DD95D4 000000FF
+// Chest Item Modifier Codes  -Slot 15 (Replace FF's with below code)
+00DD95D8 000000FF
+// Chest Item Modifier Codes  -Slot 16 (Replace FF's with below code)
+00DD95DC 000000FF
+// Chest Item Modifier Codes  -Slot 17 (Replace FF's with below code)
+00DD95E0 000000FF
+// Chest Item Modifier Codes  -Slot 18 (Replace FF's with below code)
+00DD95E4 000000FF
+// Chest Item Modifier Codes  -Slot 19 (Replace FF's with below code)
+00DD95E8 000000FF
+// Chest Item Modifier Codes  -Slot 20 (Replace FF's with below code)
+00DD95EC 000000FF
+// Chest Item Modifier Codes  -Slot 21 (Replace FF's with below code)
+00DD95F0 000000FF
+// Chest Item Modifier Codes  -Slot 22 (Replace FF's with below code)
+00DD95F4 000000FF
+// Chest Item Modifier Codes  -Slot 23 (Replace FF's with below code)
+00DD95F8 000000FF
+// Chest Item Modifier Codes  -Slot 24 (Replace FF's with below code)
+00DD95FC 000000FF
+// Chest Item Modifier Codes  -Slot 25 (Replace FF's with below code)
+00DD9600 000000FF
+// Chest Item Modifier Codes  -Slot 26 (Replace FF's with below code)
+00DD9604 000000FF
+// Chest Item Modifier Codes  -Slot 27 (Replace FF's with below code)
+00DD9608 000000FF
+// Chest Item Modifier Codes  -Slot 28 (Replace FF's with below code)
+00DD960C 000000FF
+// Chest Item Modifier Codes  -Slot 29 (Replace FF's with below code)
+00DD9610 000000FF
+// Chest Item Modifier Codes  -Slot 30 (Replace FF's with below code)
+00DD9614 000000FF
+// Chest Item Modifier Codes  -Slot 31 (Replace FF's with below code)
+00DD9618 000000FF
+// Chest Item Modifier Codes  -Slot 32 (Replace FF's with below code)
+00DD961C 000000FF
+// Chest Item Modifier Codes  -Slot 33 (Replace FF's with below code)
+00DD9620 000000FF
+// Chest Item Modifier Codes  -Slot 34 (Replace FF's with below code)
+00DD9624 000000FF
+// Chest Item Modifier Codes  -Slot 35 (Replace FF's with below code)
+00DD9628 000000FF
+// Chest Item Modifier Codes  -Slot 36 (Replace FF's with below code)
+00DD962C 000000FF
+// Chest Item Modifier Codes  -Slot 37 (Replace FF's with below code)
+00DD9630 000000FF
+// Chest Item Modifier Codes  -Slot 38 (Replace FF's with below code)
+00DD9634 000000FF
+// Chest Item Modifier Codes  -Slot 39 (Replace FF's with below code)
+00DD9638 000000FF
+// Chest Item Modifier Codes  -Slot 40 (Replace FF's with below code)
+00DD963C 000000FF
+// Chest Item Modifier Codes  -Slot 41 (Replace FF's with below code)
+00DD9640 000000FF
+// Chest Item Modifier Codes  -Slot 42 (Replace FF's with below code)
+00DD9644 000000FF
+// Chest Item Modifier Codes  -Slot 43 (Replace FF's with below code)
+00DD9648 000000FF
+// Chest Item Modifier Codes  -Slot 44 (Replace FF's with below code)
+00DD964C 000000FF
+// Chest Item Modifier Codes  -Slot 45 (Replace FF's with below code)
+00DD9650 000000FF
+// Chest Item Modifier Codes  -Slot 46 (Replace FF's with below code)
+00DD9654 000000FF
+// Chest Item Modifier Codes  -Slot 47 (Replace FF's with below code)
+00DD9658 000000FF
+// Chest Item Modifier Codes  -Slot 48 (Replace FF's with below code)
+00DD965C 000000FF
+// Chest Item Modifier Codes  -Slot 49 (Replace FF's with below code)
+00DD9660 000000FF
+// Chest Item Modifier Codes  -Slot 50 (Replace FF's with below code)
+00DD9664 000000FF
+// Chest Item Modifier Codes  -Slot 51 (Replace FF's with below code)
+00DD9668 000000FF
+// Chest Item Modifier Codes  -Slot 52 (Replace FF's with below code)
+00DD966C 000000FF
+// Chest Item Modifier Codes  -Slot 53 (Replace FF's with below code)
+00DD9670 000000FF
+// Chest Item Modifier Codes  -Slot 54 (Replace FF's with below code)
+00DD9674 000000FF
+// Chest Item Modifier Codes  -Slot 55 (Replace FF's with below code)
+00DD9678 000000FF
+// Chest Item Modifier Codes  -Slot 56 (Replace FF's with below code)
+00DD967C 000000FF
+// Chest Item Modifier Codes  -Slot 57 (Replace FF's with below code)
+00DD9680 000000FF
+// Chest Item Modifier Codes  -Slot 58 (Replace FF's with below code)
+00DD9684 000000FF
+// Chest Item Modifier Codes  -Slot 59 (Replace FF's with below code)
+00DD9688 000000FF
+// Chest Item Modifier Codes  -Slot 60 (Replace FF's with below code)
+00DD968C 000000FF
+// Chest Item Modifier Codes  -Slot 61 (Replace FF's with below code)
+00DD9690 000000FF
+// Chest Item Modifier Codes  -Slot 62 (Replace FF's with below code)
+00DD9694 000000FF
+// Chest Item Modifier Codes  -Slot 63 (Replace FF's with below code)
+00DD9698 000000FF
+// Chest Max Item Codes  -Slot 1
+00DD95A1 00000063
+// Chest Max Item Codes  -Slot 2
+00DD95A5 00000063
+// Chest Max Item Codes  -Slot 3
+00DD95A9 00000063
+// Chest Max Item Codes  -Slot 4
+00DD95AD 00000063
+// Chest Max Item Codes  -Slot 5
+00DD95B1 00000063
+// Chest Max Item Codes  -Slot 6
+00DD95B5 00000063
+// Chest Max Item Codes  -Slot 7
+00DD95B9 00000063
+// Chest Max Item Codes  -Slot 8
+00DD95BD 00000063
+// Chest Max Item Codes  -Slot 9
+00DD95C1 00000063
+// Chest Max Item Codes  -Slot 10
+00DD95C5 00000063
+// Chest Max Item Codes  -Slot 11
+00DD95C9 00000063
+// Chest Max Item Codes  -Slot 12
+00DD95CD 00000063
+// Chest Max Item Codes  -Slot 13
+00DD95D1 00000063
+// Chest Max Item Codes  -Slot 14
+00DD95D5 00000063
+// Chest Max Item Codes  -Slot 15
+00DD95D9 00000063
+// Chest Max Item Codes  -Slot 16
+00DD95DD 00000063
+// Chest Max Item Codes  -Slot 17
+00DD95E1 00000063
+// Chest Max Item Codes  -Slot 18
+00DD95E5 00000063
+// Chest Max Item Codes  -Slot 19
+00DD95E9 00000063
+// Chest Max Item Codes  -Slot 20
+00DD95ED 00000063
+// Chest Max Item Codes  -Slot 21
+00DD95F1 00000063
+// Chest Max Item Codes  -Slot 22
+00DD95F5 00000063
+// Chest Max Item Codes  -Slot 23
+00DD95F9 00000063
+// Chest Max Item Codes  -Slot 24
+00DD95FD 00000063
+// Chest Max Item Codes  -Slot 25
+00DD9601 00000063
+// Chest Max Item Codes  -Slot 26
+00DD9605 00000063
+// Chest Max Item Codes  -Slot 27
+00DD9609 00000063
+// Chest Max Item Codes  -Slot 28
+00DD960D 00000063
+// Chest Max Item Codes  -Slot 29
+00DD9611 00000063
+// Chest Max Item Codes  -Slot 30
+00DD9615 00000063
+// Chest Max Item Codes  -Slot 31
+00DD9619 00000063
+// Chest Max Item Codes  -Slot 32
+00DD961D 00000063
+// Chest Max Item Codes  -Slot 33
+00DD9621 00000063
+// Chest Max Item Codes  -Slot 34
+00DD9625 00000063
+// Chest Max Item Codes  -Slot 35
+00DD9629 00000063
+// Chest Max Item Codes  -Slot 36
+00DD962D 00000063
+// Chest Max Item Codes  -Slot 37
+00DD9631 00000063
+// Chest Max Item Codes  -Slot 38
+00DD9635 00000063
+// Chest Max Item Codes  -Slot 39
+00DD9639 00000063
+// Chest Max Item Codes  -Slot 40
+00DD963D 00000063
+// Chest Max Item Codes  -Slot 41
+00DD9641 00000063
+// Chest Max Item Codes  -Slot 42
+00DD9645 00000063
+// Chest Max Item Codes  -Slot 43
+00DD9649 00000063
+// Chest Max Item Codes  -Slot 44
+00DD964D 00000063
+// Chest Max Item Codes  -Slot 45
+00DD9651 00000063
+// Chest Max Item Codes  -Slot 46
+00DD9655 00000063
+// Chest Max Item Codes  -Slot 47
+00DD9659 00000063
+// Chest Max Item Codes  -Slot 48
+00DD965D 00000063
+// Chest Max Item Codes  -Slot 49
+00DD9661 00000063
+// Chest Max Item Codes  -Slot 50
+00DD9665 00000063
+// Chest Max Item Codes  -Slot 51
+00DD9669 00000063
+// Chest Max Item Codes  -Slot 52
+00DD966D 00000063
+// Chest Max Item Codes  -Slot 53
+00DD9671 00000063
+// Chest Max Item Codes  -Slot 54
+00DD9675 00000063
+// Chest Max Item Codes  -Slot 55
+00DD9679 00000063
+// Chest Max Item Codes  -Slot 56
+00DD967D 00000063
+// Chest Max Item Codes  -Slot 57
+00DD9681 00000063
+// Chest Max Item Codes  -Slot 58
+00DD9685 00000063
+// Chest Max Item Codes  -Slot 59
+00DD9689 00000063
+// Chest Max Item Codes  -Slot 60
+00DD968D 00000063
+// Chest Max Item Codes  -Slot 61
+00DD9691 00000063
+// Chest Max Item Codes  -Slot 62
+00DD9695 00000063
+// Chest Max Item Codes  -Slot 63
+00DD9699 00000063
+// Leon Disc Codes-Infinite Health
+01DD487E 000000C8
+// Item Modifier Codes-Slot 1 (Replace FF's with below code)
+00DD956C 000000FF
+// Item Modifier Codes-Slot 2 (Replace FF's with below code)
+00DD9570 000000FF
+// Item Modifier Codes-Slot 3 (Replace FF's with below code)
+00DD9574 000000FF
+// Item Modifier Codes-Slot 4 (Replace FF's with below code)
+00DD9578 000000FF
+// Item Modifier Codes-Slot 5 (Replace FF's with below code)
+00DD957C 000000FF
+// Item Modifier Codes-Slot 6 (Replace FF's with below code)
+00DD9580 000000FF
+// Item Modifier Codes-Slot 7 (Replace FF's with below code)
+00DD9584 000000FF
+// Item Modifier Codes-Slot 8 (Replace FF's with below code)
+00DD9588 000000FF
+// Max Item Codes-Slot 1
+00DD956D 00000063
+// Max Item Codes-Slot 2
+00DD9571 00000063
+// Max Item Codes-Slot 3
+00DD9575 00000063
+// Max Item Codes-Slot 4
+00DD9579 00000063
+// Max Item Codes-Slot 5
+00DD957D 00000063
+// Max Item Codes-Items Slot 6
+00DD9581 00000063
+// Max Item Codes-Slot 7
+00DD9585 00000063
+// Max Item Codes-Slot 8
+00DD9589 00000063
+// Claire Disc Codes-Infinite Health
+01DD487E 000000C8
+// Item Modifier Codes-Slot 1 (Replace FF's with below code)
+00DD956C 000000FF
+// Item Modifier Codes-Slot 2 (Replace FF's with below code)
+00DD9570 000000FF
+// Item Modifier Codes-Slot 3 (Replace FF's with below code)
+00DD9574 000000FF
+// Item Modifier Codes-Slot 4 (Replace FF's with below code)
+00DD9578 000000FF
+// Item Modifier Codes-Slot 5 (Replace FF's with below code)
+00DD957C 000000FF
+// Item Modifier Codes-Slot 6 (Replace FF's with below code)
+00DD9580 000000FF
+// Item Modifier Codes-Slot 7 (Replace FF's with below code)
+00DD9584 000000FF
+// Item Modifier Codes-Slot 8 (Replace FF's with below code)
+00DD9588 000000FF
+// Item Modifier Codes-Slot 9 (Replace FF's with below code)
+00DD958C 000000FF
+// Item Modifier Codes-Slot 10 (Replace FF's with below code)
+00DD9590 000000FF
+// Max Item Codes-Slot 1
+00DD956D 00000063
+// Max Item Codes-Slot 2
+00DD9571 00000063
+// Max Item Codes-Slot 3
+00DD9575 00000063
+// Max Item Codes-Slot 4
+00DD9579 00000063
+// Max Item Codes-Slot 5
+00DD957D 00000063
+// Max Item Codes-Slot 6
+00DD9581 00000063
+// Max Item Codes-Slot 7
+00DD9585 00000063
+// Max Item Codes-Slot 8
+00DD9589 00000063
+// Max Item Codes-Slot 9
+00DD958D 00000063
+// Max Item Codes-Slot 10
+00DD9591 00000063
+// Item/Chest Modifier Codes
+01000000 00000000
+// 01 - Knife - Hunk, Tofu, Leon, Claire
+01000000 00000000
+// 02 - Handgun - Hunk, Tofu, Leon
+01000000 00000000
+// 03 - Handgun Different - Ada, Hunk, Claire
+01000000 00000000
+// 04 - Custom Handgun - Hunk, Leon
+01000000 00000000
+// 05 - Magnum - Hunk, Leon
+01000000 00000000
+// 06 - Custom Magnum - Hunk, Leon
+01000000 00000000
+// 07 - Shotgun - Hunk, Leon
+01000000 00000000
+// 08 - Custom Shotgun - Hunk, Leon
+01000000 00000000
+// 09 - Grenade Launcher - Claire
+01000000 00000000
+// 0A - Grenade Launcher (Flame Rounds) - Claire
+01000000 00000000
+// 0B - Grenade Launcher (Acid Rounds) - Claire
+01000000 00000000
+// 0C - Bowgun - Claire
+01000000 00000000
+// 0D - Colt S.A.A. - Claire, Leon
+01000000 00000000
+// 0E - Spark Shot - Claire
+01000000 00000000
+// 0F - Sub Machine Gun - Leon
+01000000 00000000
+// 10 - Flamethrower - Leon
+01000000 00000000
+// 11 - Rocket Launcher - Claire, Leon
+01000000 00000000
+// 12 - Gatling Gun - Claire, Leon
+01000000 00000000
+// 13 - Machine Gun - ???
+01000000 00000000
+// 14 - Handgun Bullets
+01000000 00000000
+// 15 - Shotgun Shells
+01000000 00000000
+// 16 - Magnum Bullets
+01000000 00000000
+// 17 - Fuel
+01000000 00000000
+// 18 - Grenade Rounds
+01000000 00000000
+// 19 - Flame Rounds
+01000000 00000000
+// 1A - Acid Rounds
+01000000 00000000
+// 1B - Machine Gun Bullets
+01000000 00000000
+// 1C - S. Shot Bullets
+01000000 00000000
+// 1D - Bow Gun Bolts
+01000000 00000000
+// 1E - Ink Ribbon
+01000000 00000000
+// 1F - Small Key
+01000000 00000000
+// 20 - Hand Gun Parts
+01000000 00000000
+// 21 - Magnum Parts
+01000000 00000000
+// 22 - Shotgun Parts
+01000000 00000000
+// 23 - First Aid Spray
+01000000 00000000
+// 24 - Chemical FR-W09
+01000000 00000000
+// 25 - Chemical AC-W24
+01000000 00000000
+// 26 - Green Herb
+01000000 00000000
+// 27 - Red Herb
+01000000 00000000
+// 28 - Blue Herb
+01000000 00000000
+// 29 - Mixed Herb (Green)
+01000000 00000000
+// 2A - Mixed Herb (Red&Green)
+01000000 00000000
+// 2B - Mixed Herb (Blue&Green)
+01000000 00000000
+// 2C - Mixed Herb (?)
+01000000 00000000
+// 2D - Mixed Herb (?)
+01000000 00000000
+// 2E - Mixed Herb (?)
+01000000 00000000
+// 2F - Lighter
+01000000 00000000
+// 30 - Lock Pick
+01000000 00000000
+// 31 - Picture
+01000000 00000000
+// 32 - Valve Handle
+01000000 00000000
+// 33 - Red Jewel
+01000000 00000000
+// 34 - Red Card Key
+01000000 00000000
+// 35 - Blue Card Key
+01000000 00000000
+// 36 - Serpent Stone
+01000000 00000000
+// 37 - Jaguar Stone
+01000000 00000000
+// 38 - Blue Stone
+01000000 00000000
+// 39 - Blue Stone (?)
+01000000 00000000
+// 3A - Eagle Stone
+01000000 00000000
+// 3B - Bishop Plug
+01000000 00000000
+// 3C - Rook Plug
+01000000 00000000
+// 3D - Knight Plug
+01000000 00000000
+// 3E - King Plug
+01000000 00000000
+// 3F - W. Box Key
+01000000 00000000
+// 40 - Detonator
+01000000 00000000
+// 41 - Plastic Bomb
+01000000 00000000
+// 42 - Bomb&Detonator
+01000000 00000000
+// 43 - Crank
+01000000 00000000
+// 44 - Film
+01000000 00000000
+// 45 - Film (?)
+01000000 00000000
+// 46 - Film (?)
+01000000 00000000
+// 47 - Unicorn Medal
+01000000 00000000
+// 48 - Eagle Medal
+01000000 00000000
+// 49 - Wolf Medal
+01000000 00000000
+// 4A - G. Cogwheel
+01000000 00000000
+// 4B - Manhole Opener
+01000000 00000000
+// 4C - Main Fuse
+01000000 00000000
+// 4D - Fuse Case
+01000000 00000000
+// 4E - Vaccine
+01000000 00000000
+// 4F - Vaccine Cart.
+01000000 00000000
+// 50 - Film
+01000000 00000000
+// 51 - Base Vaccine
+01000000 00000000
+// 52 - G-Virus
+01000000 00000000
+// 53 - Special Key
+01000000 00000000
+// 54 - Joint S Plug
+01000000 00000000
+// 55 - Joint N Plug
+01000000 00000000
+// 56 - Cord
+01000000 00000000
+// 57 - Film
+01000000 00000000
+// 58 - Cabin Key
+01000000 00000000
+// 59 - Precinct Key (blue)
+01000000 00000000
+// 5A - Precinct Key (red)
+01000000 00000000
+// 5B - Precinct Key (?)
+01000000 00000000
+// 5C - Precinct Key (green)
+01000000 00000000
+// 5D - C. Panel Key (red)
+01000000 00000000
+// 5E - C. Panel Key (yellow)
+01000000 00000000
+// 5F - P. Room Key
+01000000 00000000
+// 60 - MO Disk
+01000000 00000000
+// 61 - Lab Card Key
+01000000 00000000
+// 62 - Master Key
+01000000 00000000
+// 63 - Platform Key
+01000000 00000000
+// 64 - No Item
+01000000 00000000
+// 65 - No Item
+01000000 00000000
+// 66 - No Item
+01000000 00000000
+// 67 - No Item
+01000000 00000000
+// 68 - Chris's Diary
+01000000 00000000
+// 69 - Mail to Chris
+01000000 00000000
+// 6A - Memo to Leon
+01000000 00000000
+// 6B - Police Memorandum
+01000000 00000000
+// 6C - Operation Report 1
+01000000 00000000
+// 6D - Mail to the Chief
+01000000 00000000
+// 6E - Mail to the Chief (?)
+01000000 00000000
+// 6F - Secretary's Diary A
+01000000 00000000
+// 70 - Secretary's Diary B
+01000000 00000000
+// 71 - Operation Report 2
+01000000 00000000
+// 72 - User Registration
+01000000 00000000
+// 73 - Film A
+01000000 00000000
+// 74 - Film B
+01000000 00000000
+// 75 - Film C
+01000000 00000000
+// 76 - Patrol Report
+01000000 00000000
+// 77 - Watchman's Diary
+01000000 00000000
+// 78 - Chief's Diary
+01000000 00000000
+// 79 - Sewer Manager Diary
+01000000 00000000
+// 7A - Sewer Manager Fax
+01000000 00000000
+// 7B - Film D
+01000000 00000000
+// 7C - Vaccine Synthesis
+01000000 00000000
+// 7D - Lab Security Manual
+01000000 00000000
+// 7E - P-Epsilon Report
+01000000 00000000
+// 7F - Rookie Files
+01000000 00000000
+// 80 - Rookie Files (?)
+01000000 00000000
+// 81 - No Item
+01000000 00000000
+// 82 - Spade Key
+01000000 00000000
+// 83 - Diamond Key
+01000000 00000000
+// 84 - Desk Key
+01000000 00000000
+// 85 - Heart Key
+01000000 00000000
+// 86 - Club Key
+01000000 00000000
+// 87 - Virgin Heart
+01000000 00000000
+// 88 - Square Crank
+01000000 00000000
+// 89 - Down Key
+01000000 00000000
+// 8A - Up Key
+01000000 00000000
+// 8B - Locker Key
+01000000 00000000

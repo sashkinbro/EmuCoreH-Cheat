@@ -1,0 +1,72 @@
+// Infinite Funds
+022E2428 05F5E0FF
+// Unlock Everything
+012E242C 0000FFFF
+// P1 Max Special Power
+002E36C1 00000028
+// P1 No Special Power
+002E36C1 00000000
+// P1 Infinite Armor
+002E36FA 00000064
+// P1 No Armor
+002E36FA 00000000
+// P1 75% Armor (Continued)
+002E36FA 0000004B
+// P1 50% Armor (Continued)
+002E36FA 00000032
+// P1 25% Armor (Continued)
+002E36FA 00000019
+// P1 1-Hit No Armor (Continued)
+002E36FA 00000001
+// P1 Heavy Damage
+002E36B8 00000090
+// P1 No Damage
+002E36B8 00000000
+// P1 75% Damage (Continued)
+002E36B8 00000024
+// P1 50% Damage (Continued)
+002E36B8 00000048
+// P1 25% Damage (Continued)
+002E36B8 0000006C
+// P1 Needs 1 Win To Win (Continued)
+002E36D2 00000001
+// P1 Needs 1 Win To Win (Continued)
+002E36D4 00000001
+// P1 Never Wins
+002E36D2 00000000
+// P1 Never Wins (Continued)
+002E36D4 00000000
+// P2 Max Special Power
+002E36C3 00000028
+// P2 No Special Power
+002E36C3 00000000
+// P2 Infinite Armor
+002E36FB 00000064
+// P2 No Armor
+002E36FB 00000000
+// P2 75% Armor (Continued)
+002E36FB 0000004B
+// P2 50% Armor (Continued)
+002E36FB 00000032
+// P2 25% Armor (Continued)
+002E36FB 00000019
+// P2 1-Hit No Armor (Continued)
+002E36FB 00000001
+// P2 Heavy Damage
+002E36B9 00000090
+// P2 No Damage
+002E36B9 00000000
+// P2 75% Damage (Continued)
+002E36B9 00000024
+// P2 50% Damage (Continued)
+002E36B9 00000048
+// P2 25% Damage (Continued)
+002E36B9 0000006C
+// P2 Needs 1 Win To Win (Continued)
+002E36DA 00000001
+// P2 Needs 1 Win To Win (Continued)
+002E36DC 00000001
+// P2 Never Wins
+002E36DA 00000000
+// P2 Never Wins (Continued)
+002E36DC 00000000

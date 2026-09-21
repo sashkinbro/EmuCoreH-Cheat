@@ -1,0 +1,6 @@
+// Never Gain Water
+018E727E 00000000
+// Score Modifier (Replace FF's with below code)
+018E7254 0000FFFF
+// Max Score
+028E7254 0098967F

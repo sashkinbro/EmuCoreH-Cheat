@@ -1,0 +1,12 @@
+// Infinite Force Bombs P1
+00316EB5 00000063
+// Infinite Lives P1
+00316EB4 00000063
+// Hella Score Multiplier P1
+0128A7F8 0000FFFF
+// Infinite Force Bombs P2
+0031762D 00000063
+// Infinite Lives P2
+0031762C 00000063
+// Hella Score Multiplier P2
+0128A7FC 0000FFFF

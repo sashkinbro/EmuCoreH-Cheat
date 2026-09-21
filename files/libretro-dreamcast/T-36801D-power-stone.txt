@@ -1,0 +1,52 @@
+// Infinite Health P1
+017EB298 000000F0
+// Play As Valgas P1
+017F0254 00000009
+// No Health P1
+017EB298 00000000
+// 75% Health P1 (Continued)
+017EB298 000000B4
+// 50% Health P1 (Continued)
+017EB298 00000078
+// 25% Health P1 (Continued)
+017EB298 0000003C
+// 1-Hit Death P1 (Continued)
+017EB298 00000001
+// Have All Stones P1
+017EB2F4 00000707
+// Have No Stones P1
+017EB2F4 00000000
+// Infinite Power Up P1
+017EB2B8 00000938
+// No Power Up P1
+017EB2B8 00000000
+// Infinite Health P2
+017F2568 000000F0
+// No Health P2
+017F2568 00000000
+// 75% Health P2 (Continued)
+017F2568 000000B4
+// 50% Health P2 (Continued)
+017F2568 00000078
+// 25% Health P2 (Continued)
+017F2568 0000003C
+// 1-Hit Death P2 (Continued)
+017F2568 00000001
+// Have All Stones P2
+017F25C4 00000707
+// No Stones P2
+017F25C4 00000000
+// Infinite Power Up P2
+017F2588 00000938
+// No Power Up P2
+017F2588 00000000
+// Hit Anywhere (Both Players) 
+01020850 00000008
+// All Attacks Hurt P1
+0108E242 00005EC1
+// All Attacks Hurt P1 (Continued)
+027F4754 0C7EB298
+// All Attacks Hurt P2
+0108E242 00005EC1
+// All Attacks Hurt P2 (Continued)
+027F4754 0C7F2568

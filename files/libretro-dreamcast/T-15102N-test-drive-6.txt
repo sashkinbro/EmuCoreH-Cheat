@@ -1,0 +1,2 @@
+// Infinite Money
+0111FBA0 0000FFFF

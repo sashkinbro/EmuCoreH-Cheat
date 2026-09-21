@@ -1,0 +1,64 @@
+// Infinite Violator Ammo
+012C0538 000003E7
+// Infinite Shotgun Shells
+012C0534 00000063
+// Infinite Cadeaux Ammo
+012C053C 000003E7
+// Infinite 9mm Ammo
+012C0540 000003E7
+// Have The Prophecy
+012B713C 00000003
+// Have Jack's Journal
+012B7140 00000003
+// Have Teddy Bear
+012B7144 00000003
+// Have Book Of Shadows
+012B7148 00000003
+// Have Accumulator
+012B714C 00000003
+// Have Enseigne
+012B7150 00000003
+// Have Asson
+012B7154 00000003
+// Have SMG
+012B7158 00000003
+// Have Flashlight
+012B715C 00000003
+// Have Engineers Key
+012B7160 00000003
+// Have Flambeau
+012B7164 00000003
+// Have Handgun
+012B7168 00000003
+// Have Shotgun
+012B716C 00000003
+// Have Key Card
+012B7170 00000003
+// Have Violator
+012B7174 00000003
+// Have Marteau
+012B7178 00000003
+// Have Baton
+012B717C 00000003
+// Have MP 909
+012B7180 00000003
+// Have Shotgun 2
+012B7184 00000003
+// Have Retractor
+012B7188 00000003
+// Have Spare
+012B718C 00000003
+// Have Calabash
+012B7190 00000003
+// Have Spare
+012B7194 00000003
+// Have Spare
+012B7198 00000003
+// Have Prism
+012B719C 00000003
+// Have L'Eclipser-La Lune
+012B71A0 00000003
+// Have L'Eclipser-La Soleil
+012B71A4 00000003
+// Have L'Eclipser-La Lame
+012B71A8 00000003

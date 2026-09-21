@@ -1,0 +1,12 @@
+// Infinite Ammo (All Guns-Level 1)
+01411924 000003E7
+// Infinite Ammo (All Guns-All Levels)
+010533D0 00000009
+// Extra Ammo (All Guns-All Levels)
+010533CE 00000001
+// Infinite Health (Level 1)
+014118CA 00000400
+// Infinite Health (All Levels) 
+0104253C 00000009
+// Infinite Health (All Levels)  (Continued)
+0103E95E 00000009

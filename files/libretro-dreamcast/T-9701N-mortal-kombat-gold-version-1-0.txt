@@ -1,0 +1,166 @@
+// Infinite Time
+01325A24 00000063
+// Wins Modifier P1 (Replace FF's with below code)
+0131336C 0000FFFF
+// Infinite Health P1
+02313364 3F800000
+// No Health P1
+02313364 00000000
+// P1 Needs 1 Win To Win (Continued)
+01313388 00000001
+// P1 Never Wins
+01313388 00000000
+// Character Modifier P1 (Replace FF's with below code)
+013133D0 000000FF
+// Play As Meat P1
+013133F0 00000001
+// Wins Modifier P2 (Replace FF's with below code) (Continued)
+01313370 0000FFFF
+// Infinite Health P2
+02313368 3F800000
+// No Health P2
+02313368 00000000
+// P2 Needs 1 Win To Win (Continued)
+0131338C 00000001
+// P2 Never Wins
+0131338C 00000000
+// Character Modifier P2 (Replace FF's with below code)
+013133D8 000000FF
+// Play As Meat P2
+013133F4 00000001
+// Danger Mode
+01333318 00000001
+// Easy Endings
+01333320 00000001
+// High Punch Fatality
+01333324 00000001
+// Low Punch Fatality
+01333328 00000001
+// Down+High Punch Pit Fatality
+0133332C 00000001
+// Kombat Kode Modifier (Replace FF's with below code)
+01333330 000000FF
+// All Attacks Hurt P1
+01134358 00000008
+// All Attacks Hurt P1 (Continued)
+01137396 00000008
+// All Attacks Hurt P2
+01134358 00000018
+// All Attacks Hurt P2 (Continued)
+01137396 00000018
+// Hit Anywhere (Both Players) 
+0113384C 00000008
+// Enable Kombat Theater Ending Codes-Cyrax
+003347D0 00000001
+// Enable Kombat Theater Ending Codes-Mileena
+003347D1 00000001
+// Enable Kombat Theater Ending Codes-Kitana
+003347D2 00000001
+// Enable Kombat Theater Ending Codes-Kung Lao
+003347D3 00000001
+// Enable Kombat Theater Ending Codes-Baraka
+003347D4 00000001
+// Enable Kombat Theater Ending Codes-Sonya Blade
+003347D5 00000001
+// Enable Kombat Theater Ending Codes-Jax
+003347D6 00000001
+// Enable Kombat Theater Ending Codes-Liu Kang
+003347D7 00000001
+// Enable Kombat Theater Ending Codes-Johnny Cage
+003347D8 00000001
+// Enable Kombat Theater Ending Codes-Sub Zero
+003347D9 00000001
+// Enable Kombat Theater Ending Codes-Reiko
+003347DA 00000001
+// Enable Kombat Theater Ending Codes-Jarek
+003347DB 00000001
+// Enable Kombat Theater Ending Codes-Raiden
+003347DC 00000001
+// Enable Kombat Theater Ending Codes-Tanya
+003347DD 00000001
+// Enable Kombat Theater Ending Codes-Scorpion
+003347DE 00000001
+// Enable Kombat Theater Ending Codes-Kai
+003347DF 00000001
+// Enable Kombat Theater Ending Codes-Reptile
+003347E0 00000001
+// Enable Kombat Theater Ending Codes-Shinnok
+003347E1 00000001
+// Enable Kombat Theater Ending Codes-Fujin
+003347E2 00000001
+// Enable Kombat Theater Ending Codes-Quan Chi
+003347E3 00000001
+// Enable Kombat Theater Ending Codes-Sektor
+003347E5 00000001
+// Enable Kombat Theater Ending Codes-Enable All Endings
+01164116 00002970
+// Character Modifier Codes
+01000000 00000000
+// 0F - Goro
+01000000 00000000
+// 11 - Noob Saibot
+01000000 00000000
+// 16 - Sektor
+01000000 00000000
+// Kombat Kode Modifier Code
+01000000 00000000
+// 00 - Nothing
+01000000 00000000
+// 01 - ?
+01000000 00000000
+// 02 - Throwing Disabled
+01000000 00000000
+// 03 - Max Damage Disabled
+01000000 00000000
+// 04 - Max Throw Disabled
+01000000 00000000
+// 05 - Unlimited Run
+01000000 00000000
+// 06 - Free Weapon
+01000000 00000000
+// 07 - Random Weapons
+01000000 00000000
+// 08 - Armed And Dangerous
+01000000 00000000
+// 09 - Many Weapons
+01000000 00000000
+// 0A - Silent Kombat
+01000000 00000000
+// 0B - Explosive Kombat
+01000000 00000000
+// 0C - No Power
+01000000 00000000
+// 0E - Weapon Kombat
+01000000 00000000
+// 0F - Noob Saibot Mode
+01000000 00000000
+// 10 - Red Rain
+01000000 00000000
+// 11 - Goro's Lair
+01000000 00000000
+// 12 - The Well
+01000000 00000000
+// 13 - ?
+01000000 00000000
+// 14 - The Tomb
+01000000 00000000
+// 15 - Wind World
+01000000 00000000
+// 16 - Reptile's Lair
+01000000 00000000
+// 17 - Shaolin Temple
+01000000 00000000
+// 18 - Living Forest
+01000000 00000000
+// 19 - Prison
+01000000 00000000
+// 1A - Ice Pit
+01000000 00000000
+// 1B - The Church
+01000000 00000000
+// 1C - ?
+01000000 00000000
+// 1D - The Soul Chamber
+01000000 00000000
+// 1E - Ladder Stage
+01000000 00000000

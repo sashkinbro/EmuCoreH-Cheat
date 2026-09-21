@@ -1,0 +1,66 @@
+// Point Modifier-Driver Rank 1 (Replace FF's with below code)
+01D06B20 0000FFFF
+// Point Modifier-Driver Rank 2 (Replace FF's with below code)
+01D06B24 0000FFFF
+// Point Modifier-Driver Rank 3 (Replace FF's with below code)
+01D06B28 0000FFFF
+// Point Modifier-Driver Rank 4 (Replace FF's with below code)
+01D06B2C 0000FFFF
+// Point Modifier-Driver Rank 5 (Replace FF's with below code)
+01D06B30 0000FFFF
+// Point Modifier-Driver Rank 6 (Replace FF's with below code)
+01D06B34 0000FFFF
+// Point Modifier-Driver Rank 7 (Replace FF's with below code)
+01D06B38 0000FFFF
+// Point Modifier-Driver Rank 8 (Replace FF's with below code)
+01D06B3C 0000FFFF
+// Point Modifier-Driver Rank 9 (Replace FF's with below code)
+01D06B40 0000FFFF
+// Point Modifier-Driver Rank 11 (Replace FF's with below code)
+01D06B48 0000FFFF
+// Point Modifier-Driver Rank 10 (Replace FF's with below code)
+01D06B44 0000FFFF
+// Point Modifier-Driver Rank 12 (Replace FF's with below code)
+01D06B4C 0000FFFF
+// Point Modifier-Driver Rank 13 (Replace FF's with below code)
+01D06B50 0000FFFF
+// Point Modifier-Driver Rank 14 (Replace FF's with below code)
+01D06B54 0000FFFF
+// Point Modifier-Driver Rank 15 (Replace FF's with below code)
+01D06B58 0000FFFF
+// Point Modifier-Driver Rank 16 (Replace FF's with below code)
+01D06B5C 0000FFFF
+// Point Modifier-Driver Rank 17 (Replace FF's with below code)
+01D06B60 0000FFFF
+// Point Modifier-Driver Rank 18 (Replace FF's with below code)
+01D06B64 0000FFFF
+// Point Modifier-Driver Rank 19 (Replace FF's with below code)
+01D06B68 0000FFFF
+// Point Modifier-Driver Rank 20 (Replace FF's with below code)
+01D06B6C 0000FFFF
+// Point Modifier-Driver Rank 21 (Replace FF's with below code)
+01D06B70 0000FFFF
+// Point Modifier-Driver Rank 22 (Replace FF's with below code)
+01D06B74 0000FFFF
+// Point Modifier-Team Rank 1 (Replace FF's with below code)
+01D06BA4 0000FFFF
+// Point Modifier-Team Rank 2 (Replace FF's with below code)
+01D06BA8 0000FFFF
+// Point Modifier-Team Rank 3 (Replace FF's with below code)
+01D06BAC 0000FFFF
+// Point Modifier-Team Rank 4 (Replace FF's with below code)
+01D06BB0 0000FFFF
+// Point Modifier-Team Rank 5 (Replace FF's with below code)
+01D06BB4 0000FFFF
+// Point Modifier-Team Rank 6 (Replace FF's with below code)
+01D06BB8 0000FFFF
+// Point Modifier-Team Rank 7 (Replace FF's with below code)
+01D06BBC 0000FFFF
+// Point Modifier-Team Rank 8 (Replace FF's with below code)
+01D06BC0 0000FFFF
+// Point Modifier-Team Rank 9 (Replace FF's with below code)
+01D06BC4 0000FFFF
+// Point Modifier-Team Rank 10 (Replace FF's with below code)
+01D06BC8 0000FFFF
+// Point Modifier-Team Rank 11 (Replace FF's with below code)
+01D06BCC 0000FFFF

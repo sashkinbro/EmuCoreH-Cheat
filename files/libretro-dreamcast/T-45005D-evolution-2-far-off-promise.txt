@@ -1,0 +1,50 @@
+// Infinite Money
+01228CDC 0000FFFF
+// Mag Codes-Infinite HP
+0126D3BC 0000270F
+// Mag Codes-Max HP
+0126D3D8 0000270F
+// Mag Codes-Infinite FP
+0126D3C0 0000270F
+// Mag Codes-Max FP
+0126D3DC 0000270F
+// Mag Codes-Max TP
+0126D3C2 0000270F
+// Mag Codes-Exp Modifier (FFFF For Quick Level Gain) (Replace FF's with below code)
+0126D41C 0000FFFF
+// Linear Codes-Infinite HP
+0126D430 0000270F
+// Linear Codes-Max HP
+0126D44C 0000270F
+// Linear Codes-Infinite FP
+0126D434 0000270F
+// Linear Codes-Max FP
+0126D450 0000270F
+// Linear Codes-Max TP
+0126D436 0000270F
+// Linear Codes-Exp Modifier (FFFF For Quick Level Gain)
+0126D490 0000FFFF
+// Gre Codes-Exp Modifier (FFFF For Quick Level Gain)
+0126D504 0000FFFF
+// Gre Codes-Infinite HP
+0126D4A4 0000270F
+// Gre Codes-Max HP
+0126D4C0 0000270F
+// Gre Codes-Infinite FP
+0126D4A8 0000270F
+// Gre Codes-Max FP
+0126D4C4 0000270F
+// Gre Codes-Max TP
+0126D4AA 0000270F
+// Pepper Codes-Exp Modifier (FFFF For Quick Level Gain)
+0126D5EC 0000FFFF
+// Pepper Codes-Infinite HP
+0126D5A8 0000270F
+// Pepper Codes-Max HP
+0126D58C 0000270F
+// Pepper Codes-Infinite FP
+0126D590 0000270F
+// Pepper Codes-Max FP
+0126D5AC 0000270F
+// Pepper Codes-Max TP
+0126D592 0000270F

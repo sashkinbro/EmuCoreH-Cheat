@@ -1,0 +1,56 @@
+// Quick Score Gain
+01127BA0 0000FFFF
+// Max Score
+02127BA0 0001869F
+// Infinite Time
+02128018 00078000
+// Max Wheels
+0112803C 0000270F
+// Have Scooter Park Goals Complete Codes-Level Clear-10000 Points
+00137FEC 00000001
+// Have Scooter Park Goals Complete Codes-Grind 600 Feet
+0013802C 00000001
+// Have Scooter Park Goals Complete Codes-Extreme Score-30000
+0013806C 00000001
+// Have Scooter Park Goals Complete Codes-Pull A 6000 Point Combo
+001380AC 00000001
+// Have Scooter Park Goals Complete Codes-Earn 100 Bonus Seconds
+001380EC 00000001
+// Have Scooter Park Goals Complete Codes-Get 30 Wheels
+0013812C 00000001
+// Have Schoolz Out Goals Complete Codes-Level Clear-15000 Points
+00137FF0 00000001
+// Have Schoolz Out Goals Complete Codes-Grind 700 Feet
+00138030 00000001
+// Have Schoolz Out Goals Complete Codes-Exterem Score-45000
+00138070 00000001
+// Have Schoolz Out Goals Complete Codes-Pull A 7000 Point Combo
+001380B0 00000001
+// Have Schoolz Out Goals Complete Codes-Earn 100 Bonus Seconds
+001380F0 00000001
+// Have Schoolz Out Goals Complete Codes-Get 30 Wheels
+00138130 00000001
+// Have Clock Tower Goals Complete Codes-Level Clear-20000 Points
+00137FF4 00000001
+// Have Clock Tower Goals Complete Codes-Grind 800 Feet
+00138034 00000001
+// Have Clock Tower Goals Complete Codes-Extreme Score-60000
+00138074 00000001
+// Have Clock Tower Goals Complete Codes-Pull A 8000 Point Combo
+001380B4 00000001
+// Have Clock Tower Goals Complete Codes-Earn 100 Bonus Seconds
+001380F4 00000001
+// Have Clock Tower Goals Complete Codes-Get 40 Wheels
+00138134 00000001
+// Have Sky Fortress Goals Complete Codes-Fortress 1
+00137FF8 00000001
+// Have Sky Fortress Goals Complete Codes-Fortress 2
+00138038 00000001
+// Have Sky Fortress Goals Complete Codes-Fortress 3
+00138078 00000001
+// Have Sky Fortress Goals Complete Codes-Fortress 4
+001380B8 00000001
+// Have Sky Fortress Goals Complete Codes-Fortress 5
+001380F8 00000001
+// Have Sky Fortress Goals Complete Codes-Fortress 6
+00138138 00000001

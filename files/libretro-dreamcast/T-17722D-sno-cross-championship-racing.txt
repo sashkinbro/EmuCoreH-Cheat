@@ -1,0 +1,6 @@
+// Infinite Money
+01DE634C 0000FFFF
+// Max Money
+02DE634C 000F423F
+// Max Points
+01DE6348 0000270F

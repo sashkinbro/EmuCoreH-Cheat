@@ -1,0 +1,168 @@
+// Unlock All Wrestler Codes-New Japan
+02355BD4 001E001D
+// Unlock All Wrestler Codes-New Japan (Continued)
+02355BD8 00130000
+// Unlock All Wrestler Codes-New Japan (Continued)
+02355BDC 00010014
+// Unlock All Wrestler Codes-New Japan (Continued)
+02355BE0 00080007
+// Unlock All Wrestler Codes-New Japan (Continued)
+02355BE4 00160015
+// Unlock All Wrestler Codes-New Japan (Continued)
+02355BE8 001F0002
+// Unlock All Wrestler Codes-New Japan (Continued)
+02355BEC 00060020
+// Unlock All Wrestler Codes-New Japan (Continued)
+02355BF0 00040005
+// Unlock All Wrestler Codes-New Japan (Continued)
+02355BF4 000B0003
+// Unlock All Wrestler Codes-New Japan (Continued)
+02355BF8 000A0019
+// Unlock All Wrestler Codes-New Japan (Continued)
+02355BFC 001B0009
+// Unlock All Wrestler Codes-New Japan (Continued)
+02355C00 001C001A
+// Unlock All Wrestler Codes-All Japan
+02355F54 003F0000
+// Unlock All Wrestler Codes-All Japan (Continued)
+02355F58 00640040
+// Unlock All Wrestler Codes-All Japan (Continued)
+02355F5C 002B0028
+// Unlock All Wrestler Codes-All Japan (Continued)
+02355F60 0041003D
+// Unlock All Wrestler Codes-All Japan (Continued)
+02355F64 00420032
+// Unlock All Wrestler Codes-All Japan (Continued)
+02355F68 00430034
+// Unlock All Wrestler Codes-All Japan (Continued)
+02355F6C 00350044
+// Unlock All Wrestler Codes-All Japan (Continued)
+02355F70 00390036
+// Unlock All Wrestler Codes-All Japan (Continued)
+02355F74 00380037
+// Unlock All Wrestler Codes-All Japan (Continued)
+02355F78 FFFF003A
+// Unlock All Wrestler Codes-Michinoku
+023569E4 FFFF0055
+// Unlock All Wrestler Codes-Toryumon
+02356D5C 005B0000
+// Unlock All Wrestler Codes-Toryumon (Continued)
+02356D60 00700057
+// Unlock All Wrestler Codes-Toryumon (Continued)
+02356D64 00590056
+// Unlock All Wrestler Codes-Toryumon (Continued)
+02356D68 0058005A
+// Unlock All Wrestler Codes-Toryumon (Continued)
+02356D6C 0000FFFF
+// Unlock All Wrestler Codes-FREE
+023577E4 00650076
+// Unlock All Wrestler Codes-FREE (Continued)
+023577E8 006600B9
+// Unlock All Wrestler Codes-FREE (Continued)
+023577EC 006A0067
+// Unlock All Wrestler Codes-FREE (Continued)
+023577F0 00690068
+// Unlock All Wrestler Codes-FREE (Continued)
+023577F4 006B006D
+// Unlock All Wrestler Codes-FREE (Continued)
+023577F8 0090006C
+// Unlock All Wrestler Codes-FREE (Continued)
+023577FC 00720071
+// Unlock All Wrestler Codes-FREE (Continued)
+02357800 00740073
+// Unlock All Wrestler Codes-FREE (Continued)
+02357804 00620075
+// Unlock All Wrestler Codes-FREE (Continued)
+02357808 006F00B4
+// Unlock All Wrestler Codes-FREE (Continued)
+0235780C 00540053
+// Unlock All Wrestler Codes-FREE (Continued)
+02357810 0000FFFF
+// Unlock All Wrestler Codes-WWF
+02357B64 008B0000
+// Unlock All Wrestler Codes-WWF (Continued)
+02357B68 00790077
+// Unlock All Wrestler Codes-WWF (Continued)
+02357B6C 007A0078
+// Unlock All Wrestler Codes-WWF (Continued)
+02357B70 008D008C
+// Unlock All Wrestler Codes-WWF (Continued)
+02357B74 007B007C
+// Unlock All Wrestler Codes-WWF (Continued)
+02357B78 007F0082
+// Unlock All Wrestler Codes-WWF (Continued)
+02357B7C 00880087
+// Unlock All Wrestler Codes-WWF (Continued)
+02357B80 0089008E
+// Unlock All Wrestler Codes-WWF (Continued)
+02357B84 FFFF008A
+// Unlock All Wrestler Codes-WCW
+02357EE8 008F0091
+// Unlock All Wrestler Codes-WCW (Continued)
+02357EEC 009700A0
+// Unlock All Wrestler Codes-WCW (Continued)
+02357EF0 009A0099
+// Unlock All Wrestler Codes-WCW (Continued)
+02357EF4 00920093
+// Unlock All Wrestler Codes-WCW (Continued)
+02357EF8 009B0094
+// Unlock All Wrestler Codes-WCW (Continued)
+02357EFC 00980095
+// Unlock All Wrestler Codes-WCW (Continued)
+02357F00 009C0096
+// Unlock All Wrestler Codes-WCW (Continued)
+02357F04 009D00DB
+// Unlock All Wrestler Codes-WCW (Continued)
+02357F08 009F009E
+// Unlock All Wrestler Codes-WCW (Continued)
+02357F0C 0000FFFF
+// Unlock All Wrestler Codes-Triple A
+02358268 00A50000
+// Unlock All Wrestler Codes-Triple A (Continued)
+0235826C 00A100A4
+// Unlock All Wrestler Codes-Triple A (Continued)
+02358270 00A300A2
+// Unlock All Wrestler Codes-Triple A (Continued)
+02358274 0000FFFF
+// Unlock All Wrestler Codes-RINGS
+023585EC 00A600AC
+// Unlock All Wrestler Codes-RINGS (Continued)
+023585F0 00A700A8
+// Unlock All Wrestler Codes-RINGS (Continued)
+023585F4 00AA00A9
+// Unlock All Wrestler Codes-RINGS (Continued)
+023585F8 FFFF00AB
+// Unlock All Wrestler Codes-Pancrase
+0235896C 00AD0000
+// Unlock All Wrestler Codes-Pancrase (Continued)
+02358970 00AF00AE
+// Unlock All Wrestler Codes-Pancrase (Continued)
+02358974 FFFF00B0
+// Unlock All Wrestler Codes-Pride & K-1
+02359080 00BE00C8
+// Unlock All Wrestler Codes-Pride & K-1 (Continued)
+02359084 00C200C1
+// Unlock All Wrestler Codes-Pride & K-1 (Continued)
+02359088 00C000BF
+// Unlock All Wrestler Codes-Pride & K-1 (Continued)
+0235908C 00C4007D
+// Unlock All Wrestler Codes-Pride & K-1 (Continued)
+02359090 00C600C5
+// Unlock All Wrestler Codes-Pride & K-1 (Continued)
+02359094 FFFF00C7
+// Unlock All Wrestler Codes-Joshi Puro
+023593F4 00C900D3
+// Unlock All Wrestler Codes-Joshi Puro (Continued)
+023593F8 00CC00CA
+// Unlock All Wrestler Codes-Joshi Puro (Continued)
+023593FC 00CD00D1
+// Unlock All Wrestler Codes-Joshi Puro (Continued)
+02359400 00D000CB
+// Unlock All Wrestler Codes-Joshi Puro (Continued)
+02359404 00CF00CE
+// Unlock All Wrestler Codes-Joshi Puro (Continued)
+02359408 FFFF00D2
+// Unlock All Wrestler Codes-Legend
+02359778 00D600D5
+// Unlock All Wrestler Codes-Legend (Continued)
+0235977C 0000FFFF

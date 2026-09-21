@@ -1,0 +1,8 @@
+// Infinite Shields
+0132E85C 00000064
+// Infinite Time
+02571488 4333CCCA
+// Infinite Boost
+0132E8BE 000044A2
+// Max Score
+022828CC 05F5E0FF

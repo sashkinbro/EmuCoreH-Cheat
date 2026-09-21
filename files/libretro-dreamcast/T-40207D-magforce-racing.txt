@@ -1,0 +1,8 @@
+// Lap Time Always 00:00:00
+01A77AE0 00000000
+// Low Timer
+01A7ABDC 00000000
+// Always 1st Place
+00A7A770 00000001
+// Start On Last Lap
+00A7A771 00000004

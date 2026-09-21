@@ -1,0 +1,8 @@
+// Infinite Credits
+0111E81C 00000009
+// Infinite Health Potions
+01DF64F6 00000005
+// Infinite Ammo-Hand Cannon
+01DF64F8 00000005
+// Infinite Gernades
+01DF64FA 00000005

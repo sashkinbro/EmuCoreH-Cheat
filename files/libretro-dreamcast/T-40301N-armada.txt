@@ -1,0 +1,6 @@
+// Infinite Credits
+01D28EF0 0000FFFF
+// Infinite Power Pods
+01D28F2C 00000003
+// Quick Level Gain
+01D28EEE 00000090

@@ -1,0 +1,56 @@
+// Infinite Max Cash
+02E14824 0098967F
+// All Bikes Unlocked
+01E1493C 0000FFFF
+// All Tracks Unlocked
+02E14940 FFFFFFFF
+// All Tracks Unlocked (Continued)
+01E14944 0000FFFF
+// Have Licenses Passed Codes-Basic I
+01E14814 00000004
+// Have Licenses Passed Codes-Basic II
+01E14818 00000004
+// Have Licenses Passed Codes-Full
+01E1481C 00000004
+// Have Licenses Passed Codes-Advance
+01E14820 00000004
+// Have Tests Completed Codes-Basic Start & Stop 1
+01E147C4 00000001
+// Have Tests Completed Codes-Basic Cornering 1
+01E147C8 00000001
+// Have Tests Completed Codes-Basic Cornering 2
+01E147CC 00000001
+// Have Tests Completed Codes-Basic Cornering 3
+01E147D0 00000001
+// Have Tests Completed Codes-Full Lap
+01E147D4 00000001
+// Have Tests Completed Codes-Basic Start & Stop 2
+01E147D8 00000001
+// Have Tests Completed Codes-Advance Conering 1
+01E147DC 00000001
+// Have Tests Completed Codes-Bike Control 1
+01E147E0 00000001
+// Have Tests Completed Codes-Accuracy 1
+01E147E4 00000001
+// Have Tests Completed Codes-Accuracy 2
+01E147E8 00000001
+// Have Tests Completed Codes-Bike Control 2
+01E147EC 00000001
+// Have Tests Completed Codes-Bike Control 3
+01E147F0 00000001
+// Have Tests Completed Codes-Advance Conering 2
+01E147F4 00000001
+// Have Tests Completed Codes-Maneuvering 1
+01E147F8 00000001
+// Have Tests Completed Codes-Maneuvering 2
+01E147FC 00000001
+// Have Tests Completed Codes-High Speed Control 1
+01E14800 00000001
+// Have Tests Completed Codes-High Speed Accuracy 1
+01E14804 00000001
+// Have Tests Completed Codes-High Speed Control 2
+01E14808 00000001
+// Have Tests Completed Codes-Maneuvering 3
+01E1480C 00000001
+// Have Tests Completed Codes-High Speed Control 3
+01E14810 00000001

@@ -1,0 +1,502 @@
+// Max HP
+01924F44 0000270F
+// Infinite HP
+01924F48 0000270F
+// Max MP
+01924F4C 0000270F
+// Infinite MP
+01924F50 0000270F
+// Max Level
+01924EF0 000003E7
+// Quick Level Gain
+02924F40 05F5E0FF
+// Max Infinite Mith
+02925A74 05F50EFF
+// Max STR
+02924D3C 461C3C00
+// Max DEX
+02924D44 461C3C00
+// Max INT
+02924D40 461C3C00
+// Max DMG
+01924DC8 0000270F
+// Max AR
+02924F68 0000270F
+// Max DUR
+02924F70 0000270F
+// Max PAR
+02924F78 0000270F
+// Max MAG
+01924F54 0000270F
+// IMP A
+02924E0C 00FF00FF
+// Hear S
+01924D88 000000FF
+// Have 99 Black Orbs
+01924F7A 00000063
+// Have 99 Red Orbs
+01924F7C 00000063
+// Have 99 Blue Orbs
+01924F7E 00000063
+// Have 99 Green Orbs
+01924F80 00000063
+// Max CRIT%
+01924E08 000003E7
+// Max CRIT Multi
+01924E0A 000003E7
+// Equipped Item Modifier Codes-Right Hand (Replace FF's with below code)
+01925164 000000FF
+// Equipped Item Modifier Codes-Neck (Replace FF's with below code)
+0192516C 000000FF
+// Equipped Item Modifier Codes-Left Finger (Replace FF's with below code)
+01925174 000000FF
+// Equipped Item Modifier Codes-Chest (Replace FF's with below code)
+0192517C 000000FF
+// Equipped Item Modifier Codes-Hip (Replace FF's with below code)
+01925184 000000FF
+// Equipped Item Modifier Codes-Head (Replace FF's with below code)
+0192518C 000000FF
+// Equipped Item Modifier Codes-Ear (Replace FF's with below code)
+01925194 000000FF
+// Equipped Item Modifier Codes-Right Finger (Replace FF's with below code)
+0192519C 000000FF
+// Equipped Item Modifier Codes-Left Hand (Replace FF's with below code)
+019251A4 000000FF
+// Equipped Item Modifier Codes-Back (Replace FF's with below code)
+019251AC 000000FF
+// Equipped Item Modifier Codes-Feet (Replace FF's with below code)
+019251B4 000000FF
+// Sidebar Modifier Codes-Slot 1 (Replace FF's with below code)
+019252F4 000000FF
+// Sidebar Modifier Codes-Slot 2 (Replace FF's with below code)
+019252FC 000000FF
+// Sidebar Modifier Codes-Slot 3 (Replace FF's with below code)
+01925304 000000FF
+// Sidebar Modifier Codes-Slot 4 (Replace FF's with below code)
+0192530C 000000FF
+// Sidebar Modifier Codes-Slot 5 (Replace FF's with below code)
+01925314 000000FF
+// Sidebar Modifier Codes-Slot 6 (Replace FF's with below code)
+0192531C 000000FF
+// Item/Equipment Modifier Codes
+01000000 00000000
+// 00 - Nothing
+01000000 00000000
+// 01 - Ruselb's Head
+01000000 00000000
+// 02 - Shoedle's Head
+01000000 00000000
+// 03 - Skull Statue Key
+01000000 00000000
+// 04 - Sacred Medallions
+01000000 00000000
+// 0B - Short Sword
+01000000 00000000
+// 0C - Sabre
+01000000 00000000
+// 0D - Rapier
+01000000 00000000
+// 0E - Scimitor
+01000000 00000000
+// 0F - Gladius
+01000000 00000000
+// 10 - Lightning Dagger
+01000000 00000000
+// 11 - Falchion
+01000000 00000000
+// 12 - Blazing Sword
+01000000 00000000
+// 13 - Long Sword
+01000000 00000000
+// 14 - Broad Sword
+01000000 00000000
+// 15 - Elemental Sword
+01000000 00000000
+// 16 - Mythril Blade
+01000000 00000000
+// 17 - Bastard Sword
+01000000 00000000
+// 18 - Wind Hilt
+01000000 00000000
+// 19 - Flame Mountains
+01000000 00000000
+// 1A - Dragon Blade
+01000000 00000000
+// 1B - Folks
+01000000 00000000
+// 1C - Soulbreaker Clone
+01000000 00000000
+// 1D - Two Handed Sword
+01000000 00000000
+// 1E - Stone Crusher
+01000000 00000000
+// 1F - Knockdown Hammer
+01000000 00000000
+// 20 - Claymore
+01000000 00000000
+// 21 - Demon Punisher
+01000000 00000000
+// 22 - Great Sword
+01000000 00000000
+// 23 - Harkuring Sword
+01000000 00000000
+// 24 - Oriental Sword
+01000000 00000000
+// 25 - Elf Rapier
+01000000 00000000
+// 26 - Orge Sword
+01000000 00000000
+// 27 - Folaris Sword
+01000000 00000000
+// 28 - Wicked Sword
+01000000 00000000
+// 29 - Medieval Blade
+01000000 00000000
+// 2A - Breast Plate
+01000000 00000000
+// 2B - Half Plate
+01000000 00000000
+// 2C - Light Plate
+01000000 00000000
+// 2D - Brigandine
+01000000 00000000
+// 2E - Field Armor
+01000000 00000000
+// 2F - Curizer Armor
+01000000 00000000
+// 30 - Field Armor Modified
+01000000 00000000
+// 31 - Silver Knight's
+01000000 00000000
+// 32 - Emerald Knight's
+01000000 00000000
+// 33 - Gold Knight's
+01000000 00000000
+// 34 - Shadow Knight's
+01000000 00000000
+// 35 - Rose Knight's
+01000000 00000000
+// 36 - Saphire Knight's
+01000000 00000000
+// 37 - Sky Knight's
+01000000 00000000
+// 38 - Ruby Knight's
+01000000 00000000
+// 39 - Caesar's Plate
+01000000 00000000
+// 3A - Heavy Plate
+01000000 00000000
+// 3B - Gothic Lily
+01000000 00000000
+// 3C - Gothic Eagle
+01000000 00000000
+// 3D - Gothic Lion
+01000000 00000000
+// 3E - Gothic Bull
+01000000 00000000
+// 3F - Gothic Dragon
+01000000 00000000
+// 40 - Gothic Demon
+01000000 00000000
+// 41 - Gothic Morfa
+01000000 00000000
+// 42 - Gothic Heaven
+01000000 00000000
+// 43 - Gothic Ocean
+01000000 00000000
+// 45 - Buckler
+01000000 00000000
+// 46 - Round Shield
+01000000 00000000
+// 47 - Silver Knight's Shield
+01000000 00000000
+// 48 - Emerald Knight's Shield
+01000000 00000000
+// 49 - Gold Knight's Shield
+01000000 00000000
+// 4A - Shadow Knight's Shield
+01000000 00000000
+// 4B - Rose Knight's Shield
+01000000 00000000
+// 4C - Saphire Knight's Shield
+01000000 00000000
+// 4D - Sky Knight's Shield
+01000000 00000000
+// 4E - Ruby Knight's Shield
+01000000 00000000
+// 4F - Large Shield
+01000000 00000000
+// 50 - Kite Shield
+01000000 00000000
+// 51 - Giant Shield
+01000000 00000000
+// 52 - Gothic Lily
+01000000 00000000
+// 53 - Gothic Eagle
+01000000 00000000
+// 54 - Gothic Lion
+01000000 00000000
+// 55 - Gothic Bull
+01000000 00000000
+// 56 - Gothic Dragon
+01000000 00000000
+// 57 - Gothic Demon
+01000000 00000000
+// 58 - Gothic Morfa
+01000000 00000000
+// 59 - Gothic Heaven
+01000000 00000000
+// 5A - Gothic Ocean
+01000000 00000000
+// 5C - Sacred
+01000000 00000000
+// 5D - Hood
+01000000 00000000
+// 5E - Storm Hood
+01000000 00000000
+// 5F - Silver Knight's
+01000000 00000000
+// 60 - Emerald Knight's
+01000000 00000000
+// 61 - Gold Knight's
+01000000 00000000
+// 62 - Shadow Knight's
+01000000 00000000
+// 63 - Rose Knight's
+01000000 00000000
+// 64 - Saphire Knight's
+01000000 00000000
+// 65 - Sky Knight's
+01000000 00000000
+// 66 - Ruby Knight's
+01000000 00000000
+// 67 - Full Helmet
+01000000 00000000
+// 68 - Great Helmet
+01000000 00000000
+// 69 - Gothic Lily
+01000000 00000000
+// 6A - Gothic Eagle
+01000000 00000000
+// 6B - Gothic Lion
+01000000 00000000
+// 6C - Gothic Bull
+01000000 00000000
+// 6D - Gothic Dragon
+01000000 00000000
+// 6E - Gothic Demon
+01000000 00000000
+// 6F - Gothic Morfa
+01000000 00000000
+// 70 - Gothic Heaven
+01000000 00000000
+// 71 - Gothic Ocean
+01000000 00000000
+// 73 - Boots
+01000000 00000000
+// 74 - Speed Boots
+01000000 00000000
+// 75 - Wilderness Boots
+01000000 00000000
+// 76 - Leather Boots
+01000000 00000000
+// 77 - Silent Boots
+01000000 00000000
+// 78 - Ironguard Boots
+01000000 00000000
+// 79 - Heavy Boots
+01000000 00000000
+// 7A - Protection Belt
+01000000 00000000
+// 7B - Guarding Belt
+01000000 00000000
+// 7C - Clothes Belt
+01000000 00000000
+// 7D - Rabbit Buckle
+01000000 00000000
+// 7E - Turtle Buckle
+01000000 00000000
+// 7F - Soul Buckle
+01000000 00000000
+// 80 - Ring Of Power
+01000000 00000000
+// 81 - Ring Of Wisdom
+01000000 00000000
+// 82 - Accurate Ring
+01000000 00000000
+// 83 - Ring Of Toughness
+01000000 00000000
+// 84 - Ring Of Mana
+01000000 00000000
+// 85 - Knight's Ring
+01000000 00000000
+// 86 - Wizard's Ring
+01000000 00000000
+// 87 - Miracle Ring
+01000000 00000000
+// 88 - Sword Ring
+01000000 00000000
+// 89 - Holy Ring
+01000000 00000000
+// 8A - Critical Ring
+01000000 00000000
+// 8B - Clash Ring
+01000000 00000000
+// 8C - Impact Ring
+01000000 00000000
+// 8D - Protection Ring
+01000000 00000000
+// 8E - Fire Ring
+01000000 00000000
+// 8F - Cold Ring
+01000000 00000000
+// 90 - Thunder Ring
+01000000 00000000
+// 91 - Pervent Ring
+01000000 00000000
+// 92 - Strike Ring
+01000000 00000000
+// 93 - Speed Ring
+01000000 00000000
+// 94 - Time Ring
+01000000 00000000
+// 95 - Ring Of Stone
+01000000 00000000
+// 96 - Pierce Of Ear
+01000000 00000000
+// 97 - Pierce Of Echo
+01000000 00000000
+// 98 - Pierce Of Trap
+01000000 00000000
+// 99 - Pierce Of Item
+01000000 00000000
+// 9A - Fine Necklace
+01000000 00000000
+// 9B - Immortal Pendant
+01000000 00000000
+// 9C - Magic Charm
+01000000 00000000
+// 9D - Meiji Charm
+01000000 00000000
+// 9E - Boost Charm
+01000000 00000000
+// 9F - Prevent Tailsman
+01000000 00000000
+// A0 - Dark Tailsman
+01000000 00000000
+// A1 - Hell Tailsman
+01000000 00000000
+// A2 - Immune Stone
+01000000 00000000
+// A3 - Soul Tailsman
+01000000 00000000
+// A4 - Revitate Cape
+01000000 00000000
+// A5 - Soul Cape
+01000000 00000000
+// A6 - Fire Coat
+01000000 00000000
+// A7 - Cold Coat
+01000000 00000000
+// A8 - Thunder Coat
+01000000 00000000
+// A9 - Magic Resist Coat
+01000000 00000000
+// AA - Silver Cloak
+01000000 00000000
+// AB - Emerald Cloak
+01000000 00000000
+// AC - Gold Cloak
+01000000 00000000
+// AD - Shadow Cloak
+01000000 00000000
+// AE - Pink Cloak
+01000000 00000000
+// AF - Saphire Cloak
+01000000 00000000
+// B0 - Sky Cloak
+01000000 00000000
+// B1 - Ruby Cloak
+01000000 00000000
+// B2 - The Book Of Recall
+01000000 00000000
+// B3 - The Book Of Wind
+01000000 00000000
+// B4 - The Book Of Visions
+01000000 00000000
+// B5 - The Book Of Walls
+01000000 00000000
+// B6 - The Book Of Fire
+01000000 00000000
+// B7 - The Book Of The Dead
+01000000 00000000
+// B8 - The Book Of Black Magic
+01000000 00000000
+// B9 - Healing Potion (Large - Full)
+01000000 00000000
+// BA - Healing Potion (Large - 75%)
+01000000 00000000
+// BB - Healing Potion (Large - Half)
+01000000 00000000
+// BC - Healing Potion (Large - 25%)
+01000000 00000000
+// BD - Empty Bottle (Large)
+01000000 00000000
+// BE - Healing Potion (Med - Full)
+01000000 00000000
+// BF - Healing Potion (Med - Half)
+01000000 00000000
+// C0 - Empty Bottle (Medium)
+01000000 00000000
+// C1 - Healing Potion (Small)
+01000000 00000000
+// C2 - Empty Bottle (Small)
+01000000 00000000
+// C3 - Elixir
+01000000 00000000
+// C6 - Refresh Stone
+01000000 00000000
+// C9 - Heat Potion
+01000000 00000000
+// CC - Freezing Potion
+01000000 00000000
+// CF - Lucky Potion
+01000000 00000000
+// D2 - Immortal Potion
+01000000 00000000
+// D5 - Magic Crystal
+01000000 00000000
+// D6 - Lockpick
+01000000 00000000
+// D7 - Pickaxe
+01000000 00000000
+// D8 - Decoding Scroll
+01000000 00000000
+// D9 - Decoding Book
+01000000 00000000
+// DA - Handbell
+01000000 00000000
+// DB - Transform Book
+01000000 00000000
+// DC - Ground Thunder
+01000000 00000000
+// DD - Firewall Trap
+01000000 00000000
+// DE - Electricity Trap
+01000000 00000000
+// E0 - Walled-in Trap
+01000000 00000000
+// E1 - Alarm Trap
+01000000 00000000
+// E3 - Mithrill Mineral
+01000000 00000000
+// E4 - Mithrill Mineral
+01000000 00000000
+// E5 - Mithrill Mineral
+01000000 00000000
+// E6 - Mithrill Mineral
+01000000 00000000
+// E7 - Efreet Wall
+01000000 00000000
+// E8 - Thunder Wall
+01000000 00000000

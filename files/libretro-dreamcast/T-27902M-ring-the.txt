@@ -1,0 +1,146 @@
+// Infinite Health
+011FD524 00000064
+// S-Item Modifier Codes-Slot 1 (Replace FF's with below code)
+011FD50C 000000FF
+// S-Item Modifier Codes-Slot 2 (Replace FF's with below code)
+011FD50E 000000FF
+// S-Item Modifier Codes-Slot 3 (Replace FF's with below code)
+011FD510 000000FF
+// S-Item Modifier Codes-Slot 4 (Replace FF's with below code)
+011FD512 000000FF
+// S-Item Modifier Codes-Slot 5 (Replace FF's with below code)
+011FD514 000000FF
+// S-Item Modifier Codes-Slot 6 (Replace FF's with below code)
+011FD516 000000FF
+// S-Item Modifier Codes-Slot 7 (Replace FF's with below code)
+011FD518 000000FF
+// S-Item Modifier Codes-Slot 8 (Replace FF's with below code)
+011FD51A 000000FF
+// S-Item Modifier Codes-Slot 9 (Replace FF's with below code)
+011FD51C 000000FF
+// S-Item Modifier Codes-Slot 10 (Replace FF's with below code)
+011FD51E 000000FF
+// S-Item Modifier Codes-Slot 11 (Replace FF's with below code)
+011FD520 000000FF
+// S-Item Modifier Codes-Slot 12 (Replace FF's with below code)
+011FD522 000000FF
+// Chest Item Modifier Codes-Slot 1 (Replace FF's with below code)
+018787CC 000000FF
+// Chest Item Modifier Codes-Slot 2 (Replace FF's with below code)
+018787D0 000000FF
+// Chest Item Modifier Codes-Slot 3 (Replace FF's with below code)
+018787D4 000000FF
+// Chest Item Modifier Codes-Slot 4 (Replace FF's with below code)
+018787D8 000000FF
+// Chest Item Modifier Codes-Slot 5 (Replace FF's with below code)
+018787DC 000000FF
+// Chest Item Modifier Codes-Slot 6 (Replace FF's with below code)
+018787E0 000000FF
+// Chest Item Modifier Codes-Slot 7 (Replace FF's with below code)
+018787E4 000000FF
+// Chest Item Modifier Codes-Slot 8 (Replace FF's with below code)
+018787E8 000000FF
+// Chest Item Modifier Codes-Slot 9 (Replace FF's with below code)
+018787EC 000000FF
+// Chest Item Modifier Codes-Slot 10 (Replace FF's with below code)
+018787F0 000000FF
+// Chest Item Modifier Codes-Slot 11 (Replace FF's with below code)
+018787F4 000000FF
+// Chest Item Modifier Codes-Slot 12 (Replace FF's with below code)
+018787F8 000000FF
+// Chest Item Modifier Codes-Slot 13 (Replace FF's with below code)
+018787FC 000000FF
+// Chest Item Modifier Codes-Slot 14 (Replace FF's with below code)
+01878800 000000FF
+// Chest Item Modifier Codes-Slot 15 (Replace FF's with below code)
+01878804 000000FF
+// Chest Item Modifier Codes-Slot 16 (Replace FF's with below code)
+01878808 000000FF
+// Chest Max Item Codes-Slot 1
+018787CE 000003E7
+// Chest Max Item Codes-Slot 2
+018787D2 000003E7
+// Chest Max Item Codes-Slot 3
+018787D6 000003E7
+// Chest Max Item Codes-Slot 4
+018787DA 000003E7
+// Chest Max Item Codes-Slot 5
+018787DE 000003E7
+// Chest Max Item Codes-Slot 6
+018787E2 000003E7
+// Chest Max Item Codes-Slot 7
+018787E6 000003E7
+// Chest Max Item Codes-Slot 8
+018787EA 000003E7
+// Chest Max Item Codes-Slot 9
+018787EE 000003E7
+// Chest Max Item Codes-Slot 10
+018787F2 000003E7
+// Chest Max Item Codes-Slot 11
+018787F6 000003E7
+// Chest Max Item Codes-Slot 12
+018787FA 000003E7
+// Chest Max Item Codes-Slot 13
+018787FE 000003E7
+// Chest Max Item Codes-Slot 14
+01878802 000003E7
+// Chest Max Item Codes-Slot 15
+01878806 000003E7
+// Chest Max Item Codes-Slot 16
+0187880A 000003E7
+// Item Modifier Codes
+01000000 00000000
+// 01 - Handgun
+01000000 00000000
+// 02 - Katana
+01000000 00000000
+// 03 - Shotgun
+01000000 00000000
+// 04 - Assault Rifle
+01000000 00000000
+// 05 - Grenade Launcher
+01000000 00000000
+// 06 - Rocket Launcher
+01000000 00000000
+// 08 - Handgun Ammo
+01000000 00000000
+// 0B - Shotgun Ammo
+01000000 00000000
+// 0C - Assault Rifle
+01000000 00000000
+// 0D - Grenades
+01000000 00000000
+// 0E - Napalm Bombs
+01000000 00000000
+// 11 - Rocket Missiles
+01000000 00000000
+// 13 - Healing Jelly
+01000000 00000000
+// 14 - Healing Jelly Plus
+01000000 00000000
+// 15 - Healing Jelly Ex
+01000000 00000000
+// 16 - Small Battery
+01000000 00000000
+// 19 - Lab Member Card LV. 1
+01000000 00000000
+// 1C - Key To Reference Room
+01000000 00000000
+// 1F - Silver Ring
+01000000 00000000
+// 25 - Lab Member Card LV. 2
+01000000 00000000
+// 26 - Emergency Power Key
+01000000 00000000
+// 27 - Small Key
+01000000 00000000
+// 28 - Emergency Power Key
+01000000 00000000
+// 29 - Small Key
+01000000 00000000
+// 2A - 8mm Film
+01000000 00000000
+// 2B - Key To Audio/Visual Room
+01000000 00000000
+// 2F - Flashlight
+01000000 00000000

@@ -1,0 +1,4 @@
+// Infinite Bullets
+0129BF60 000003E7
+// Infinite Bombs & Torpedoes
+0129BF62 000003E7

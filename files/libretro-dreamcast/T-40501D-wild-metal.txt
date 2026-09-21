@@ -1,0 +1,8 @@
+// Score Modifier (Replace FF's with below code)
+019F14E4 0000FFFF
+// Max Score
+029F14E4 05F5E0FF
+// Max Accuracy Hits & Turret Skill Shots
+019D562A 0000270F
+// Max Accuracy Shots
+019D5628 0000270F

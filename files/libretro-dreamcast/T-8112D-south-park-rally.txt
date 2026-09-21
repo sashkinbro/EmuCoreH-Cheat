@@ -1,0 +1,8 @@
+// Infinite Credits
+000E2A51 00000005
+// Have All Cheats/Characters
+020D96B8 FFFFFFFF
+// Enable All Races
+010D96BC 0000FFFF
+// Have Most Tracks
+010D96C0 0000FFFF

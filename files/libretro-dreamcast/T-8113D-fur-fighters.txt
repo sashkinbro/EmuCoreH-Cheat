@@ -1,0 +1,194 @@
+// VLF Facility Codes-Infinite Ammo-Pistol
+01E026D4 0000270F
+// VLF Facility Codes-Infinite Ammo-Shotgun
+01E026D6 0000270F
+// VLF Facility Codes-Infinite Ammo-Bomb Launcher
+01E026D8 0000270F
+// VLF Facility Codes-Infinite Ammo-Rockets
+01E026DA 0000270F
+// VLF Facility Codes-Infinite Ammo-Freeze Gun
+01E026DC 0000270F
+// VLF Facility Codes-Infinite Ammo-Plasma Blaster
+01E026DE 0000270F
+// VLF Facility Codes-Infinite Ammo-Neutron Gun
+01E026E0 0000270F
+// Saving Juanita Codes-Infinite Ammo-Pistol
+01853814 0000270F
+// Saving Juanita Codes-Infinite Ammo-Shotgun
+01853816 0000270F
+// Saving Juanita Codes-Infinite Ammo-Bomb Launcher
+01853818 0000270F
+// Saving Juanita Codes-Infinite Ammo-Rockets
+0185381A 0000270F
+// Saving Juanita Codes-Infinite Ammo-Freeze Gun
+0185381C 0000270F
+// Saving Juanita Codes-Infinite Ammo-Plasma Blaster
+0185381E 0000270F
+// Saving Juanita Codes-Infinite Ammo-Neutron Gun
+01853820 0000270F
+// Cape Canardo Codes-Infinite Ammo-Pistol
+019BDEA4 0000270F
+// Cape Canardo Codes-Infinite Ammo-Shotgun
+019BDEA6 0000270F
+// Cape Canardo Codes-Infinite Ammo-Bomb Launcher
+019BDEA8 0000270F
+// Cape Canardo Codes-Infinite Ammo-Rockets
+019BDEAA 0000270F
+// Cape Canardo Codes-Infinite Ammo-Freeze Gun
+019BDEAC 0000270F
+// Cape Canardo Codes-Infinite Ammo-Plasma Blaster
+019BDEAE 0000270F
+// Cape Canardo Codes-Infinite Ammo-Neutron Gun
+019BDEB0 0000270F
+// VAB Building Codes-Infinite Ammo-Pistol
+01E2E2A4 0000270F
+// VAB Building Codes-Infinite Ammo-Shotgun
+01E2E2A6 0000270F
+// VAB Building Codes-Infinite Ammo-Bomb Launcher
+01E2E2A8 0000270F
+// VAB Building Codes-Infinite Ammo-Freeze Gun
+01E2E2AC 0000270F
+// VAB Building Codes-Infinite Ammo-Plasma Blaster
+01E2E2AE 0000270F
+// VAB Building Codes-Infinite Ammo-Neutron Gun
+01E2E2B0 0000270F
+// Beaver Dam Codes-Infinite Ammo-Pistol
+01B360DC 0000270F
+// Beaver Dam Codes-Infinite Ammo-Shotgun
+01B360DE 0000270F
+// Beaver Dam Codes-Infinite Ammo-Bomb Launcher
+01B360E0 0000270F
+// Beaver Dam Codes-Infinite Ammo-Rockets
+01B360E2 0000270F
+// Beaver Dam Codes-Infinite Ammo-Freeze Gun
+01B360E4 0000270F
+// Beaver Dam Codes-Infinite Ammo-Plasma Blaster
+01B360E6 0000270F
+// Beaver Dam Codes-Infinite Ammo-Neutron Gun
+01B360E8 0000270F
+// Compound Factions Codes-Infinite Ammo-Pistol
+01B12224 0000270F
+// Compound Factions Codes-Infinite Ammo-Shotgun
+01B12226 0000270F
+// Compound Factions Codes-Infinite Ammo-Bomb Launcher
+01B12228 0000270F
+// Compound Factions Codes-Infinite Ammo-Rockets
+01B1222A 0000270F
+// Compound Factions Codes-Infinite Ammo-Freeze Gun
+01B1222C 0000270F
+// Compound Factions Codes-Infinite Ammo-Plasma Blaster
+01B1222E 0000270F
+// Compound Factions Codes-Infinite Ammo-Neutron Gun
+01B12230 0000270F
+// God Machine Valley Codes-Infinite Ammo-Pistol
+01C7C6EC 0000270F
+// God Machine Valley Codes-Infinite Ammo-Shotgun
+01C7C6EE 0000270F
+// God Machine Valley Codes-Infinite Ammo-Bomb Launcher
+01C7C6F0 0000270F
+// God Machine Valley Codes-Infinite Ammo-Rockets
+01C7C6F2 0000270F
+// God Machine Valley Codes-Infinite Ammo-Freeze Gun
+01C7C6F4 0000270F
+// God Machine Valley Codes-Infinite Ammo-Plasma Blaster
+01C7C6F6 0000270F
+// God Machine Valley Codes-Infinite Ammo-Neutron Gun
+01C7C6F8 0000270F
+// Saving Gwynth Codes-Infinite Ammo-Pistol
+01A67C2C 0000270F
+// Saving Gwynth Codes-Infinite Ammo-Shotgun
+01A67C2E 0000270F
+// Saving Gwynth Codes-Infinite Ammo-Bomb Launcher
+01A67C30 0000270F
+// Saving Gwynth Codes-Infinite Ammo-Rockets
+01A67C32 0000270F
+// Saving Gwynth Codes-Infinite Ammo-Freeze Gun
+01A67C34 0000270F
+// Saving Gwynth Codes-Infinite Ammo-Plasma Blaster
+01A67C36 0000270F
+// Saving Gwynth Codes-Infinite Ammo-Neutron Gun
+01A67C38 0000270F
+// Beaver Power Codes-Infinite Ammo-Pistol
+018B29CC 0000270F
+// Beaver Power Codes-Infinite Ammo-Shotgun
+018B29CE 0000270F
+// Beaver Power Codes-Infinite Ammo-Bomb Launcher
+018B29D0 0000270F
+// Beaver Power Codes-Infinite Ammo-Rockets
+018B29D2 0000270F
+// Beaver Power Codes-Infinite Ammo-Freeze Gun
+018B29D4 0000270F
+// Beaver Power Codes-Infinite Ammo-Plasma Blaster
+018B29D6 0000270F
+// Beaver Power Codes-Infinite Ammo-Neutron Gun
+018B29D8 0000270F
+// Quackenheim Museum Codes-Infinite Ammo-Shotgun
+01B9B526 0000270F
+// Quackenheim Museum Codes-Infinite Ammo-Bomb Launcher
+01B9B528 0000270F
+// Quackenheim Museum Codes-Infinite Ammo-Rockets
+01B9B52A 0000270F
+// Quackenheim Museum Codes-Infinite Ammo-Freeze Gun
+01B9B52C 0000270F
+// Quackenheim Museum Codes-Infinite Ammo-Plasma Blaster
+01B9B52E 0000270F
+// Quackenheim Museum Codes-Infinite Ammo-Neutron Gun
+01B9B530 0000270F
+// Quackenheim Museum Codes-Infinite Ammo-Pistol
+01B9B524 0000270F
+// World Quack Center Codes-Infinite Ammo-Pistol
+01B0FC04 0000270F
+// World Quack Center Codes-Infinite Ammo-Shotgun
+01B0FC06 0000270F
+// World Quack Center Codes-Infinite Ammo-Bomb Launcher
+01B0FC08 0000270F
+// World Quack Center Codes-Infinite Ammo-Rockets
+01B0FC0A 0000270F
+// World Quack Center Codes-Infinite Ammo-Freeze Gun
+01B0FC0C 0000270F
+// World Quack Center Codes-Infinite Ammo-Plasma Blaster
+01B0FC0E 0000270F
+// World Quack Center Codes-Infinite Ammo-Neutron Gun
+01B0FC10 0000270F
+// Lower East Quack Codes-Infinite Ammo-Pistol
+01B3CA44 0000270F
+// Lower East Quack Codes-Infinite Ammo-Shotgun
+01B3CA46 0000270F
+// Lower East Quack Codes-Infinite Ammo-Bomb Launcher
+01B3CA48 0000270F
+// Lower East Quack Codes-Infinite Ammo-Rockets
+01B3CA4A 0000270F
+// Lower East Quack Codes-Infinite Ammo-Freeze Gun
+01B3CA4C 0000270F
+// Lower East Quack Codes-Infinite Ammo-Plasma Blaster
+01B3CA4E 0000270F
+// Lower East Quack Codes-Infinite Ammo-Neutron Gun
+01B3CA50 0000270F
+// Village Codes-Infinite Ammo-Pistol
+01A29D9C 0000270F
+// Village Codes-Infinite Ammo-Shotgun
+01A29D9E 0000270F
+// Village Codes-Infinite Ammo-Bomb Launcher
+01A29DA0 0000270F
+// Village Codes-Infinite Ammo-Rockets
+01A29DA2 0000270F
+// Village Codes-Infinite Ammo-Freeze Gun
+01A29DA4 0000270F
+// Village Codes-Infinite Ammo-Plasma Blaster
+01A29DA6 0000270F
+// Village Codes-Infinite Ammo-Neutron Gun
+01A29DA8 0000270F
+// New Quack City Codes-Infinite Ammo-Pistol
+019BA18C 0000270F
+// New Quack City Codes-Infinite Ammo-Shotgun
+019BA18E 0000270F
+// New Quack City Codes-Infinite Ammo-Bomb Launcher
+019BA190 0000270F
+// New Quack City Codes-Infinite Ammo-Rockets
+019BA192 0000270F
+// New Quack City Codes-Infinite Ammo-Freeze Gun
+019BA194 0000270F
+// New Quack City Codes-Infinite Ammo-Plasma Blaster
+019BA196 0000270F
+// New Quack City Codes-Infinite Ammo-Neutron Gun
+019BA198 0000270F

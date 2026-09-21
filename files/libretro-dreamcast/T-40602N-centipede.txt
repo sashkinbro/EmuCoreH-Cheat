@@ -1,0 +1,2 @@
+// Score Modifier (Replace FF's with below code)
+01247A3C 0000FFFF

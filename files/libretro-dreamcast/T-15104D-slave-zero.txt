@@ -1,0 +1,8 @@
+// All Level Codes-Infinite Ammo (All Guns)
+0106C3E2 00000009
+// Mission 01 Codes-Infinite Ammo
+0186EAE0 000003E7
+// Mission 01 Codes-Infinite Energy Cells
+0186EAE4 000003E7
+// Mission 01 Codes-Infinite Rockets
+0186EAE8 000003E7

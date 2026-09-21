@@ -1,0 +1,22 @@
+// Infinite Time-Driving Bronze
+01752A1C 00002E22
+// Infinite Time-Driving Silver
+01754D30 00002E22
+// Infinite Health Codes-Physical Training
+017405F8 000000C8
+// Infinite Health Codes-Combat Tutorial
+01750A9C 000000C8
+// Infinite Health Codes-Combat Silver
+0175052C 000000C8
+// Infinite Health Codes-Combat Gold
+017507B0 000000C8
+// Infinite Health Codes-RTA
+0175EE54 000000C8
+// Infinite Health Codes-The Jump
+01761078 000000C8
+// Infinite Health Codes-Gun Hunt
+0175D494 000000C8
+// Infinite Health Codes-Trouble In The Park
+01754640 000000C8
+// Infinite Health Codes-Nitro Car
+017674FC 000000C8

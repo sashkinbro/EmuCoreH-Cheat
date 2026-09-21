@@ -1,0 +1,44 @@
+// Have All Player Vehicles
+011B0DEC 0000FFFF
+// Have All Secret Vehicles
+011B0DEE 0000FFFF
+// Have All Forward Tracks
+011B0DF4 0000FFFF
+// Have All Reverse Tracks
+011B0DF6 0000FFFF
+// Have All Movies & Slideshows
+011B0DFA 0000FFFF
+// Have All Secrets
+011B0DFE 0000FFFF
+// Stunt Driver Mode Max Points Codes-The Long Jump
+011B4DAC 00000064
+// Stunt Driver Mode Max Points Codes-Twists & Turns 1
+011B4DC0 00000064
+// Stunt Driver Mode Max Points Codes-Single Criss Cross
+011B4DD4 00000064
+// Stunt Driver Mode Max Points Codes-Hump Back Relay
+011B4DE8 00000064
+// Stunt Driver Mode Max Points Codes-Twists & Turns 2
+011B4DFC 00000064
+// Stunt Driver Mode Max Points Codes-Table Top Balloons
+011B4E10 00000064
+// Stunt Driver Mode Max Points Codes-The Barrel Roll
+011B4E24 00000064
+// Stunt Driver Mode Max Points Codes-Twists & Turns 3
+011B4E38 00000064
+// Stunt Driver Mode Max Points Codes-Balloon Slalom
+011B4E4C 00000064
+// Stunt Driver Mode Max Points Codes-Double Criss Cross
+011B4E60 00000064
+// Stunt Driver Mode Max Points Codes-Bumps 'n' Balloons
+011B4E74 00000064
+// Stunt Driver Mode Max Points Codes-Twists & Turns 4
+011B4E88 00000064
+// Stunt Driver Mode Max Points Codes-Barrel Roll Relay
+011B4E9C 00000064
+// Stunt Driver Mode Max Points Codes-The Balloon Bowl
+011B4EB0 00000064
+// Stunt Driver Mode Max Points Codes-Triple Criss Cross
+011B4EC4 00000064
+// Stunt Driver Mode Max Points Codes-Time Always 0:00:00+Start On Lap 2
+02142840 00000000

@@ -1,0 +1,78 @@
+// Arcade Mode Codes-Infinite Health P1
+0129A446 000001B8
+// Arcade Mode Codes-No Health P1
+0129A446 00000000
+// Arcade Mode Codes-75% Health P1 (Continued)
+0129A446 0000014A
+// Arcade Mode Codes-50% Health P1 (Continued)
+0129A446 000000DC
+// Arcade Mode Codes-25% Health P1 (Continued)
+0129A446 0000006E
+// Arcade Mode Codes-1-Hit Death P1 (Continued)
+0129A446 00000001
+// Arcade Mode Codes-Infinite Health P2
+0129A55E 000001B8
+// Arcade Mode Codes-No Health P2
+0129A55E 00000000
+// Arcade Mode Codes-75% Health P2 (Continued)
+0129A55E 0000014A
+// Arcade Mode Codes-50% Health P2 (Continued)
+0129A55E 000000DC
+// Arcade Mode Codes-25% Health P2 (Continued)
+0129A55E 0000006E
+// Arcade Mode Codes-1-Hit Death P2 (Continued)
+0129A55E 00000001
+// Arcade Mode Codes-Start On Last Stage (Continued)
+011109CE 00000009
+// VS Mode Codes-Infinite Health P1
+01296036 000001B8
+// VS Mode Codes-No Health P1
+01296036 00000000
+// VS Mode Codes-75% Health P1 (Continued)
+01296036 0000014A
+// VS Mode Codes-50% Health P1 (Continued)
+01296036 000000DC
+// VS Mode Codes-25% Health P1 (Continued)
+01296036 0000006E
+// VS Mode Codes-1-Hit Death P1 (Continued)
+01296036 00000001
+// VS Mode Codes-Infinite Health P2
+0129614E 000001B8
+// VS Mode Codes-No Health P2
+0129614E 00000000
+// VS Mode Codes-75% Health P2 (Continued)
+0129614E 0000014A
+// VS Mode Codes-50% Health P2 (Continued)
+0129614E 000000DC
+// VS Mode Codes-25% Health P2 (Continued)
+0129614E 0000006E
+// VS Mode Codes-1-Hit Death P2 (Continued)
+0129614E 00000001
+// All Mode Codes-Max Special Meter P1
+0111FC00 00002710
+// All Mode Codes-Max Special Meter P2
+0111FCBC 00002710
+// All Mode Codes-Hit Anywhere (Both Players) 
+0102D652 00000008
+// All Mode Codes-Have All Characters
+01122178 00000002
+// All Mode Codes-Unlock Guilty Gear Mode
+000EFB51 00000003
+// All Mode Codes-Survival Mode Level Modifier (Replace FF's with below code)
+0118305C 000000FF
+// All Mode Codes-All Attacks Hurt P1 (Arcade Mode)
+010313C0 0000DE10
+// All Mode Codes-All Attacks Hurt P1 (Arcade Mode) (Continued)
+02031404 0C29A434
+// All Mode Codes-All Attacks Hurt P2 (Arcade Mode)
+010313C0 0000DE10
+// All Mode Codes-All Attacks Hurt P2 (Arcade Mode) (Continued)
+02031404 0C29A54C
+// All Mode Codes-All Attacks Hurt P1 (VS. Mode)
+010313C0 0000DE10
+// All Mode Codes-All Attacks Hurt P1 (VS. Mode) (Continued)
+02031404 0C296024
+// All Mode Codes-All Attacks Hurt P2 (VS. Mode)
+010313C0 0000DE10
+// All Mode Codes-All Attacks Hurt P2 (VS. Mode) (Continued)
+02031404 0C29613C

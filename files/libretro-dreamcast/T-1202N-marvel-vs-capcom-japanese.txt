@@ -1,0 +1,64 @@
+// Infinite Health P1
+014E986C 00000090
+// No Health P1
+014E986C 00000000
+// 75% Health P1 (Continued)
+014E986C 0000006C
+// 50% Health P1 (Continued)
+014E986C 00000048
+// 25% Health P1 (Continued)
+014E986C 00000024
+// 1-Hit Death P1 (Continued)
+014E986C 00000001
+// Infinite Health P1 Partner
+014EA00C 00000090
+// No Health P1 Partner
+014EA00C 00000000
+// 75% Health P1 Partner (Continued)
+014EA00C 0000006C
+// 50% Health P1 Partner (Continued)
+014EA00C 00000048
+// 25% Health P1 Partner (Continued)
+014EA00C 00000024
+// 1-Hit Death P1 Partner (Continued)
+014EA00C 00000001
+// Infinite Health P2
+014E9C3C 00000090
+// No Health P2
+014E9C3C 00000000
+// 75% Health P2 (Continued)
+014E9C3C 0000006C
+// 50% Health P2 (Continued)
+014E9C3C 00000048
+// 25% Health P2 (Continued)
+014E9C3C 00000024
+// 1-Hit Death P2 (Continued)
+014E9C3C 00000001
+// Infinite Health P2 Partner
+014EA3DC 00000090
+// No Health P2 Partner
+014EA3DC 00000000
+// 75% Health P2 Partner (Continued)
+014EA3DC 0000006C
+// 50% Health P2 Partner (Continued)
+014EA3DC 00000048
+// 25% Health P2 Partner (Continued)
+014EA3DC 00000024
+// 1-Hit Death P2 Partner (Continued)
+014EA3DC 00000001
+// P1 Hyper Combo Level 1
+014E9870 00000001
+// P1 Hyper Combo Level 2
+014E9870 00000002
+// P1 Hyper Combo Level 3
+014E9870 00000003
+// P1 Infinite Guest Attacks
+014EA05E 00000005
+// P1 No Guest Attacks
+014EA05E 00000000
+// P2 Hyper Combo Level 1
+014E9C40 00000001
+// P2 Hyper Combo Level 2
+014E9C40 00000002
+// P2 Hyper Combo Level 3
+014E9C40 00000003

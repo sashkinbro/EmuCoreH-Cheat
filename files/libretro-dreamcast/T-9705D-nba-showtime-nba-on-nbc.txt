@@ -1,0 +1,58 @@
+// Team 1 Score Modifier Codes-1st Quarter (Replace FF's with below code)
+01317C44 0000FFFF
+// Team 1 Score Modifier Codes-2nd Quarter (Replace FF's with below code)
+01317C48 0000FFFF
+// Team 1 Score Modifier Codes-3rd Quarter (Replace FF's with below code)
+01317C4C 0000FFFF
+// Team 1 Score Modifier Codes-4th Quarter (Replace FF's with below code)
+01317C50 0000FFFF
+// Team 2 Score Modifier Codes-1st Quarter (Replace FF's with below code)
+01317C60 0000FFFF
+// Team 2 Score Modifier Codes-2nd Quarter (Replace FF's with below code)
+01317C64 0000FFFF
+// Team 2 Score Modifier Codes-3rd Quarter (Replace FF's with below code)
+01317C68 0000FFFF
+// Team 2 Score Modifier Codes-4th Quarter (Replace FF's with below code)
+01317C6C 0000FFFF
+// Team 2 Score Modifier Codes-Disable Shot Clock
+01317C38 00000FFF
+// Team 2 Score Modifier Codes-Infinite Turbo P1
+01317EA2 000042C8
+// Team 2 Score Modifier Codes-No Turbo P1
+01317EA2 00000000
+// Team 2 Score Modifier Codes-Infinite Turbo P2
+01317EF6 000042C8
+// Team 2 Score Modifier Codes-No Turbo P2
+01317EF6 00000000
+// Team 2 Score Modifier Codes-Infinite Turbo P3
+01317F4A 000042C8
+// Team 2 Score Modifier Codes-No Turbo P3
+01317F4A 00000000
+// Team 2 Score Modifier Codes-Infinite Turbo P4
+01317F9E 000042C8
+// Team 2 Score Modifier Codes-No Turbo P4
+01317F9E 00000000
+// Team 2 Score Modifier Codes-2-Pointer's/Dunk's Score Modifier (Replace FF's with below code)
+0008FA3E 000000FF
+// Team 2 Score Modifier Codes-3-Pointer's Score Modifier (Replace FF's with below code)
+0008FA62 000000FF
+// Team 2 Score Modifier Codes-Free Throw's Score Modifier (Replace FF's with below code)
+0008F658 000000FF
+// Team 2 Score Modifier Codes-Team 1 Always On Fire
+02317CFC 00000000
+// Team 2 Score Modifier Codes-Team 2 Always On Fire
+02317CFC 00000001
+// Team 2 Score Modifier Codes-Always On Fire Modifier
+02317CB8 00000003
+// Team 2 Score Modifier Codes-Always On Fire Modifier (Replace FF's with below code) (Continued)
+02317CB4 000000FF
+// Always On Fire Modifier Code
+01000000 00000000
+// 00 - P1
+01000000 00000000
+// 01 - P2
+01000000 00000000
+// 02 - P3
+01000000 00000000
+// 03 - P4
+01000000 00000000

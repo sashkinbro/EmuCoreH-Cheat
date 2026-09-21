@@ -1,0 +1,6 @@
+// Infinite Armor
+010E46E6 00000009
+// Infinite Ammo (Shotgun)
+010E81E8 00000009
+// Infinite Ammo (9mm Pistol)
+010EA076 00000009

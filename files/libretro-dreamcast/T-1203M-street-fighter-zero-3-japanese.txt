@@ -1,0 +1,40 @@
+// Infinite Health P1
+0117F858 00000090
+// No Health P1
+0117F858 00000000
+// 75% Health P1
+0117F858 00000090
+// 75% Health P1 (Continued)
+0117F858 0000006C
+// 50% Health P1
+0117F858 00000090
+// 50% Health P1 (Continued)
+0117F858 00000048
+// 27% Health P1
+0117F858 00000090
+// 27% Health P1 (Continued)
+0117F858 00000024
+// 1-Hit Death P1
+0117F858 00000090
+// 1-Hit Death P1 (Continued)
+0117F858 00000001
+// Infinite Health P2
+0117FCA4 00000090
+// No Health P2
+0117FCA4 00000000
+// 75% Health P2
+0117FCA4 00000090
+// 75% Health P2 (Continued)
+0117FCA4 0000006C
+// 50% Health P2
+0117FCA4 00000090
+// 50% Health P2 (Continued)
+0117FCA4 00000048
+// 25% Health P2
+0117FCA4 00000090
+// 25% Health P2 (Continued)
+0117FCA4 00000024
+// 1-Hit Death P2
+0117FCA4 00000090
+// 1-Hit Death P2 (Continued)
+0117FCA4 00000001

@@ -1,0 +1,28 @@
+// P1 Infinite Lives
+0164232C 00000003
+// P1 Infinite Bombs
+0164233C 00000003
+// P2 Infinite Lives
+01642330 00000003
+// P2 Infinite Bombs
+01642340 00000003
+// P3 Infinite Lives
+01642334 00000003
+// P3 Infinite Bombs
+01642344 00000003
+// P4 Infinite Lives
+01642338 00000003
+// P4 Infinite Bombs
+01642348 00000003
+// Max Score Multiplier
+016421F8 0000FFFF
+// Max Score Multiplier (Continued)
+01642278 0000FFFF
+// Unlock All Ships
+0164FCB8 000003E0
+// All Gallery Pics (Continued)
+0121BD20 0000FFFF
+// All Secret Options
+0121BD24 0000FFFF
+// All Score Attack Stages
+0121A95C 00000006

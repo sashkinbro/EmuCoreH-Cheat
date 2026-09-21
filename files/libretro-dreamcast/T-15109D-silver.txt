@@ -1,0 +1,20 @@
+// Infinite Money
+017F86B4 0000FFFF
+// 1st Character Codes  -Max Strength 1st Char.
+01C2CDE8 000003E7
+// 1st Character Codes  -Max Range 1st Char.
+01C2CDF0 000003E7
+// 1st Character Codes  -Max HP 1st Character
+01C2CDFC 000003E7
+// 1st Character Codes  -Max HP 1st Character
+01C2CE04 000003E7
+// 1st Character Codes  -Max MP 1st Character
+01C2CE00 000003E7
+// 1st Character Codes  -Max MP 1st Character
+01C2CE08 000003E7
+// 1st Character Codes  -Max Constitution 1st Char.
+01C2CDF8 000003E7
+// 1st Character Codes  -Max Wisdom 1st Char.
+01C2CDF4 000003E7
+// 1st Character Codes  -Max Dexterity 1st Char.
+01C2CDEC 000003E7

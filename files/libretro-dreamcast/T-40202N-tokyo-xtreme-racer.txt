@@ -1,0 +1,8 @@
+// Infinite Money
+011518CC 0000FFFF
+// Have All Rivals Beaten
+011528E0 0000FFFF
+// Have All Rivals Beaten (Continued)
+01152900 0000FFFF
+// Low Time
+021500B0 00000000

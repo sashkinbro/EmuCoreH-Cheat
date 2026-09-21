@@ -1,0 +1,206 @@
+// P1 Only One Shot Recorded
+012A4100 00000001
+// P2 Only One Shot Recorded
+012A4104 00000001
+// P3 Only One Shot Recorded
+012A4108 00000001
+// P4 Only One Shot Recorded
+012A410C 00000001
+// P1 Hella Shots Recorded
+012A4100 00000009
+// P2 Hella Shots Recorded
+012A4104 00000009
+// P3 Hella Shots Recorded
+012A4108 00000009
+// P4 Hella Shots Recorded
+012A410C 00000009
+// Always No Wind
+022B0C18 00000000
+// Have All Characters
+01085940 0000FFFF
+// P1 Character Modifier (Replace FF's with below code)
+011541F0 000000FF
+// P2 Character Modifier (Replace FF's with below code)
+011541F4 000000FF
+// P3 Character Modifier (Replace FF's with below code)
+011541F8 000000FF
+// P4 Character Modifier (Replace FF's with below code)
+011541FC 000000FF
+// P1 Only One Shot Recorded Codes-1st Hole
+01153E28 00000001
+// P1 Only One Shot Recorded Codes-2nd Hole
+01153E2C 00000001
+// P1 Only One Shot Recorded Codes-3rd Hole
+01153E30 00000001
+// P1 Only One Shot Recorded Codes-4th Hole
+01153E34 00000001
+// P1 Only One Shot Recorded Codes-5th Hole
+01153E38 00000001
+// P1 Only One Shot Recorded Codes-6th Hole
+01153E3C 00000001
+// P1 Only One Shot Recorded Codes-7th Hole
+01153E40 00000001
+// P1 Only One Shot Recorded Codes-8th Hole
+01153E44 00000001
+// P1 Only One Shot Recorded Codes-9th Hole
+01153E48 00000001
+// P1 Only One Shot Recorded Codes-10th Hole
+01153E4C 00000001
+// P1 Only One Shot Recorded Codes-11th Hole
+01153E50 00000001
+// P1 Only One Shot Recorded Codes-12th Hole
+01153E54 00000001
+// P1 Only One Shot Recorded Codes-13th Hole
+01153E58 00000001
+// P1 Only One Shot Recorded Codes-14th Hole
+01153E5C 00000001
+// P1 Only One Shot Recorded Codes-15th Hole
+01153E60 00000001
+// P1 Only One Shot Recorded Codes-16th Hole
+01153E64 00000001
+// P1 Only One Shot Recorded Codes-17th Hole
+01153E68 00000001
+// P1 Only One Shot Recorded Codes-18th Hole
+01153E6C 00000001
+// P2 Only One Shot Recorded Codes-1st Hole
+01153F28 00000001
+// P2 Only One Shot Recorded Codes-2nd Hole
+01153F2C 00000001
+// P2 Only One Shot Recorded Codes-3rd Hole
+01153F30 00000001
+// P2 Only One Shot Recorded Codes-4th Hole
+01153F34 00000001
+// P2 Only One Shot Recorded Codes-5th Hole
+01153F38 00000001
+// P2 Only One Shot Recorded Codes-6th Hole
+01153F3C 00000001
+// P2 Only One Shot Recorded Codes-7th Hole
+01153F40 00000001
+// P2 Only One Shot Recorded Codes-8th Hole
+01153F44 00000001
+// P2 Only One Shot Recorded Codes-9th Hole
+01153F48 00000001
+// P2 Only One Shot Recorded Codes-10th Hole
+01153F4C 00000001
+// P2 Only One Shot Recorded Codes-11th Hole
+01153F50 00000001
+// P2 Only One Shot Recorded Codes-12th Hole
+01153F54 00000001
+// P2 Only One Shot Recorded Codes-13th Hole
+01153F58 00000001
+// P2 Only One Shot Recorded Codes-14th Hole
+01153F5C 00000001
+// P2 Only One Shot Recorded Codes-15th Hole
+01153F60 00000001
+// P2 Only One Shot Recorded Codes-16th Hole
+01153F64 00000001
+// P2 Only One Shot Recorded Codes-17th Hole
+01153F68 00000001
+// P2 Only One Shot Recorded Codes-18th Hole
+01153F6C 00000001
+// P3 Only One Shot Recorded Codes-1st Hole
+01154028 00000001
+// P3 Only One Shot Recorded Codes-2nd Hole
+0115402C 00000001
+// P3 Only One Shot Recorded Codes-3rd Hole
+01154030 00000001
+// P3 Only One Shot Recorded Codes-4th Hole
+01154034 00000001
+// P3 Only One Shot Recorded Codes-5th Hole
+01154038 00000001
+// P3 Only One Shot Recorded Codes-6th Hole
+0115403C 00000001
+// P3 Only One Shot Recorded Codes-7th Hole
+01154040 00000001
+// P3 Only One Shot Recorded Codes-8th Hole
+01154044 00000001
+// P3 Only One Shot Recorded Codes-9th Hole
+01154048 00000001
+// P3 Only One Shot Recorded Codes-10th Hole
+0115404C 00000001
+// P3 Only One Shot Recorded Codes-11th Hole
+01154050 00000001
+// P3 Only One Shot Recorded Codes-12th Hole
+01154054 00000001
+// P3 Only One Shot Recorded Codes-13th Hole
+01154058 00000001
+// P3 Only One Shot Recorded Codes-14th Hole
+0115405C 00000001
+// P3 Only One Shot Recorded Codes-15th Hole
+01154060 00000001
+// P3 Only One Shot Recorded Codes-16th Hole
+01154064 00000001
+// P3 Only One Shot Recorded Codes-17th Hole
+01154068 00000001
+// P3 Only One Shot Recorded Codes-18th Hole
+0115406C 00000001
+// P4 Only One Shot Recorded Codes-1st Hole
+01154128 00000001
+// P4 Only One Shot Recorded Codes-2nd Hole
+0115412C 00000001
+// P4 Only One Shot Recorded Codes-3rd Hole
+01154130 00000001
+// P4 Only One Shot Recorded Codes-4th Hole
+01154134 00000001
+// P4 Only One Shot Recorded Codes-5th Hole
+01154138 00000001
+// P4 Only One Shot Recorded Codes-6th Hole
+0115413C 00000001
+// P4 Only One Shot Recorded Codes-7th Hole
+01154140 00000001
+// P4 Only One Shot Recorded Codes-8th Hole
+01154144 00000001
+// P4 Only One Shot Recorded Codes-9th Hole
+01154148 00000001
+// P4 Only One Shot Recorded Codes-10th Hole
+0115414C 00000001
+// P4 Only One Shot Recorded Codes-11th Hole
+01154150 00000001
+// P4 Only One Shot Recorded Codes-12th Hole
+01154154 00000001
+// P4 Only One Shot Recorded Codes-13th Hole
+01154158 00000001
+// P4 Only One Shot Recorded Codes-14th Hole
+0115415C 00000001
+// P4 Only One Shot Recorded Codes-15th Hole
+01154160 00000001
+// P4 Only One Shot Recorded Codes-16th Hole
+01154164 00000001
+// P4 Only One Shot Recorded Codes-17th Hole
+01154168 00000001
+// P4 Only One Shot Recorded Codes-18th Hole
+0115416C 00000001
+// Character Modifier Codes
+01000000 00000000
+// 00 - Nick
+01000000 00000000
+// 01 - Jose
+01000000 00000000
+// 02 - Randy
+01000000 00000000
+// 03 - Akio
+01000000 00000000
+// 04 - William
+01000000 00000000
+// 05 - Robert
+01000000 00000000
+// 06 - Julian
+01000000 00000000
+// 07 - Leopold
+01000000 00000000
+// 08 - Katherine
+01000000 00000000
+// 09 - Elizabeth
+01000000 00000000
+// 0A - Deborah
+01000000 00000000
+// 0B - Swyong
+01000000 00000000
+// 0C - Jeena
+01000000 00000000
+// 0D - Christine
+01000000 00000000
+// 0E - Midori
+01000000 00000000
+// 0F - Mary
+01000000 00000000

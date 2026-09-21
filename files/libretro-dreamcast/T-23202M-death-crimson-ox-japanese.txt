@@ -1,0 +1,22 @@
+// Infinite Credits
+0117D3C0 00000005
+// P1 Infinite Health
+0208D198 40400000
+// P1 Infinite Ammo
+0017D3CD 0000000A
+// P1 Max Score
+0208D1A8 0098967F
+// P1 Quick Level Up
+0108D1A0 00000000
+// P1 Quick Level Up (Continued)
+0108D1A2 000042C8
+// P2 Infinite Health
+0208D19C 40400000
+// P2 Infinite Ammo
+0017D409 0000000A
+// P2 Max Score
+0208D1AC 0098967F
+// P2 Quick Level Up
+0108D1A4 00000000
+// P2 Quick Level Up (Continued)
+0108D1A6 000042C8

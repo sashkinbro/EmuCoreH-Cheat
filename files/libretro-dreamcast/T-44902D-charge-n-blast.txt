@@ -1,0 +1,24 @@
+// P1 Infinite Health
+001551F4 00000064
+// P1 Quick Charge
+021550E4 00020096
+// P1 Max Score
+0215521C 05F5E0FF
+// P2 Infinite Health
+001551F6 00000064
+// P2 Quick Charge
+0215517C 00020096
+// P2 Max Score
+021553C4 05F5E0FF
+// Infinite Credits
+001777A8 00000005
+// Infinite Time
+010163EC 00000009
+// Time Is 0:00:00
+010163CC 00000009
+// P1 Score Modifier (Replace FF's with below code)
+0115521C 0000FFFF
+// P2 Score Modifier (Replace FF's with below code)
+011553C4 0000FFFF
+// Unlock All Characters
+011DA960 0000FFFF

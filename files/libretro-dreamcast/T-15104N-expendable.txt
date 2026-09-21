@@ -1,0 +1,96 @@
+// Infinite Time
+01085BDC 000003E7
+// Score Modifier P1 (Replace FF's with below code)
+011F2CA8 0000FFFF
+// Infinite Grenades P1
+011F2C64 000000FF
+// Infinite Lives P1
+011F2C70 00000063
+// Infinite Heatseeking Missiles P1
+011F2D06 000000FF
+// Infinite Flamethrower P1
+011F2D08 000000FF
+// Infinite Multiple Warhead Rockets P1
+011F2D0A 000000FF
+// Infinite Spyra Missiles P1
+011F2D0C 000000FF
+// Infinite Spread Pulse Cannon P1
+011F2D10 000000FF
+// Infinite Vulcan Cannon Ammo P1
+011F2D12 000000FF
+// Infinite Phantasm Ammo P1
+011F2D16 000000FF
+// Infinite Mines P1
+011F2D18 000000FF
+// Infinite Reclaim Alien Weapon P1
+011F2D1A 000000FF
+// Infinite Laser Guided Missiles P1
+011F2D1C 000000FF
+// Weapon Modifier Slot 1 P1 (Replace FF's with below code)
+011F2D54 000000FF
+// Weapon Modifier Slot 2 P1 (Replace FF's with below code)
+011F2D56 000000FF
+// Weapon Modifier Slot 3 P1 (Replace FF's with below code)
+011F2D58 000000FF
+// Infinite Energy P1
+011F2D5E 00000064
+// Score Modifier P2 (Replace FF's with below code)
+011F2EFC 0000FFFF
+// Infinite Grenades P2
+011F2EB8 000000FF
+// Infinite Lives P2
+011F2EC4 00000063
+// Infinite Heatseeking Missiles P2
+011F2F56 000000FF
+// Infinite Flamethrower P2
+011F2F58 000000FF
+// Infinite Multiple Warhead Rockets P2
+011F2F5A 000000FF
+// Infinite Spyra Missiles P2
+011F2F5C 000000FF
+// Infinite Spread Pulse Cannon P2
+011F2F5E 000000FF
+// Infinite Vulcan Cannon Ammo P2
+011F2F60 000000FF
+// Infinite Phantasm Ammo P2
+011F2F64 000000FF
+// Infinite Mines P2
+011F2F66 000000FF
+// Infinite Reclaim Alien Weapon P2
+011F2F68 000000FF
+// Infinite Laser Guided Missiles P2
+011F2F6A 000000FF
+// Weapon Modifier Slot 1 P2 (Replace FF's with below code)
+011F2FA8 000000FF
+// Weapon Modifier Slot 2 P2 (Replace FF's with below code)
+011F2FAA 000000FF
+// Weapon Modifier Slot 3 P2 (Replace FF's with below code)
+011F2FAC 000000FF
+// Infinite Energy P2
+011F2FB2 00000064
+// Weapon Modifier Codes
+01000000 00000000
+// 00 - Pulse Cannon
+01000000 00000000
+// 01 - Heatseaking Missiles
+01000000 00000000
+// 02 - Flamethrower
+01000000 00000000
+// 03 - Multiple Warhead Rockets
+01000000 00000000
+// 04 - Spyra Missiles
+01000000 00000000
+// 05 - Portable Paricle Accelerator
+01000000 00000000
+// 06 - Spread Pulse Cannon
+01000000 00000000
+// 07 - Vulcan Cannon
+01000000 00000000
+// 08 - Shotgun
+01000000 00000000
+// 09 - Phantasm
+01000000 00000000
+// 0A - Mine
+01000000 00000000
+// 0C - Laser Guided Missiles
+01000000 00000000

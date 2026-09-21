@@ -1,0 +1,10 @@
+// Infinite Credits
+01214368 0000FFFF
+// Have All Vehicles/Movies/Characters
+02214250 03030300
+// Have All Vehicles/Movies/Characters (Continued)
+02214254 03030303
+// Have All Vehicles/Movies/Characters (Continued)
+02214258 01030303
+// Have All Vehicles/Movies/Characters (Continued)
+0121425C 00000101

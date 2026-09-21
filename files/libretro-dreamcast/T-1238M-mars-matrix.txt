@@ -1,0 +1,8 @@
+// P1 Invisible
+0127AEC2 0000FFFF
+// P2 Invisible
+0127A682 0000FFFF
+// Infinite Credits
+010148B6 00000009
+// Infinite Lives
+010322E8 00000009

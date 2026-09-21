@@ -1,0 +1,26 @@
+// Infinite Credits
+0117F9E0 00000004
+// P1 Infinte Health
+0108F7AA 00004040
+// P1 Infinite Ammo
+0017F9ED 0000000A
+// P1 Score Modifier (Replace FF's with below code)
+0108F7B8 0000FFFF
+// P1 Max Score
+0208F7B8 05F5E0FF
+// P1 Quick Level Up
+0108F7B0 00000000
+// P1 Quick Level Up (Continued)
+0108F7B2 00004400
+// P2 Infinite Health
+0108F7AE 00004040
+// P2 Infinite Ammo
+0017FA29 0000000A
+// P2 Score Modifier (Replace FF's with below code)
+0108F7BC 0000FFFF
+// P2 Max Score
+0208F7BC 05F5E0FF
+// P2 Quick Level Up
+0108F7B4 00000000
+// P2 Quick Level Up (Continued)
+0108F7B6 00004400

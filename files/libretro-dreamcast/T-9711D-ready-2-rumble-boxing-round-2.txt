@@ -1,0 +1,52 @@
+// Infinite Money
+01146306 000000F0
+// Infinite Health P1
+0115C35C 00000064
+// Max Power P1
+0215C360 00000064
+// P1 Rumble Level 1
+0115C368 00000030
+// P1 Rumble Level 2
+0115C368 00000060
+// P1 Rumble Level 3
+0115C368 00000090
+// Infinite Health P2
+0115EBBC 00000064
+// Max Power P2
+0115EBC0 00000064
+// P2 Rumble Level 1
+0115EBC8 00000030
+// P2 Rumble Level 2
+0115EBC8 00000060
+// P2 Rumble Level 3
+0115EBC8 00000090
+// Hit Anywhere (Both Players) 
+01088F60 00000009
+// Hit Anywhere (Both Players)  (Continued)
+01089124 00000008
+// 1-Hit/Taunt For Max Rumble (Both Players)
+010C284C 00007130
+// Always Max Power (Both Players)
+010C27B2 00000009
+// Unlock Character Codes-Freak E. Deke
+0115996C 0000001F
+// Unlock Character Codes-Michael Jackson
+01159970 0000001F
+// Unlock Character Codes-G. C. Thunder
+01159974 0000001F
+// Unlock Character Codes-Wild Stubby Corley
+01159978 0000001F
+// Unlock Character Codes-Shaquille O'Neal
+0115997C 0000001F
+// Unlock Character Codes-Freedom Brock
+01159980 0000001F
+// Unlock Character Codes-Rocket Samchav
+01159984 0000001F
+// Unlock Character Codes-Robox Rese4
+01159988 0000001F
+// Unlock Character Codes-MR President
+0115998C 0000001F
+// Unlock Character Codes-First Lady
+01159990 0000001F
+// Unlock Character Codes-Rumbleman
+01159994 0000001F

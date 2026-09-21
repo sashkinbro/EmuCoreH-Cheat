@@ -1,0 +1,6 @@
+// Infinite Lives
+01197400 00000009
+// Infinite Air
+01197398 0000FFFF
+// Score Modifier (Replace FF's with below code)
+01197358 0000FFFF

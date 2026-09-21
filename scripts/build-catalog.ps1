@@ -17,7 +17,8 @@ function Get-TitleKey([string]$value) {
 }
 
 function Get-PreferredSerial([string]$raw) {
-    foreach ($match in [regex]::Matches($raw, "[A-Z0-9]{2,4}-[0-9]{3,5}[A-Z]?")) {
+    # Dreamcast product codes may start with a single letter (T-9701N).
+    foreach ($match in [regex]::Matches($raw, "[A-Z0-9]{1,4}-[0-9]{3,5}[A-Z]?")) {
         $token = $match.Value
         $prefix = $token.Split("-")[0]
         if ($prefix -match "[A-Z]") { return $token }

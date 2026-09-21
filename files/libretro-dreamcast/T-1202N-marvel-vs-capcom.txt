@@ -1,0 +1,64 @@
+// Infinite Health P1
+014EAE2C 00000090
+// Low Health P1
+014EAE2C 00000001
+// No Health P1
+014EAE2C 00000000
+// 75% Health P1 (Continued)
+014EAE2C 0000006C
+// 50% Health P1 (Continued)
+014EAE2C 00000048
+// 25% Health P1 (Continued)
+014EAE2C 00000024
+// 1-Hit Death P1 (Continued)
+014EAE2C 00000001
+// Hyper Combo Level 1 P1
+014EAE30 00000001
+// Hyper Combo Level 2 P1
+014EAE30 00000002
+// Hyper Combo Level 3 P1
+014EAE30 00000003
+// Infinite Quest Attacks P1
+014EAE7E 00000005
+// Infinite Health P1 Partner
+014EB5CC 00000090
+// Low Health P1 Partner
+014EB5CC 00000001
+// No Health P1 Partner
+014EB5CC 00000000
+// 75% Health P1 Partner (Continued)
+014EB5CC 0000006C
+// 50% Health P1 Partner (Continued)
+014EB5CC 00000048
+// 25% Health P1 Partner (Continued)
+014EB5CC 00000024
+// 1-Hit Death P1 Partner (Continued)
+014EB5CC 00000001
+// Infinite Health P2
+014EB1FC 00000090
+// Low Health P2
+014EB1FC 00000001
+// No Health P2
+014EB1FC 00000000
+// 75% Health P2 (Continued)
+014EB1FC 0000006C
+// 50% Health P2 (Continued)
+014EB1FC 00000048
+// 25% Health P2 (Continued)
+014EB1FC 00000024
+// 1-Hit Death (Continued)
+014EB1FC 00000001
+// Infinite Health P2 Partner
+014EB99C 00000090
+// Low Health P2 Partner
+014EB99C 00000001
+// No Health P2 Partner
+014EB99C 00000000
+// 75% Health P2 Partner (Continued)
+014EB99C 0000006C
+// 50% Health P2 Partner (Continued)
+014EB99C 00000048
+// 25% Health P2 Partner (Continued)
+014EB99C 00000024
+// 1-Hit Death P2 Partner (Continued)
+014EB99C 00000001

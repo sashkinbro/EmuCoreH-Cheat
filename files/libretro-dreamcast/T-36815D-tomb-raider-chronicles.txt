@@ -1,0 +1,56 @@
+// All Level Codes-Infinite Oxygen
+01B8C176 00000708
+// All Level Codes-Infinite Small Medipaks
+01B8C2A2 0000FFFF
+// All Level Codes-Infinite Large Medipaks
+01B8C2A4 0000FFFF
+// All Level Codes-Infinite Flares
+01B8C2A6 0000FFFF
+// All Level Codes-Infinite Uzi Ammo
+01B8C2AA 0000FFFF
+// All Level Codes-Infinite Revolver Ammo
+01B8C2AC 0000FFFF
+// All Level Codes-Infinite Shotgun Ammo
+01B8C2AE 0000FFFF
+// All Level Codes-Infinite Wide Shot Shotgun Ammo
+01B8C2B0 0000FFFF
+// All Level Codes-Infinite HK Ammo
+01B8C2B2 0000FFFF
+// All Level Codes-Infinite Grappling Gun Ammo
+01B8C2B4 0000FFFF
+// All Level Codes-Have Uzi
+00B8C27E 00000009
+// All Level Codes-Have Shotgun
+00B8C27F 00000009
+// All Level Codes-Have Grappling Gun
+00B8C280 00000009
+// All Level Codes-Have Revolver
+00B8C282 00000009
+// All Level Codes-Have Laser Sight
+00B8C283 00000009
+// All Level Codes-Have Silencer
+00B8C284 00000009
+// All Level Codes-Have Crowbar
+00B8C286 00000009
+// All Level Codes-Have Infinite Chlorophyl
+00B8C28B 00000009
+// Streets Of Rome Codes-Infinite Health
+015D8602 000003E8
+// Streets Of Rome Codes-Moon Jump
+015D8600 0000FFC0
+// Streets Of Rome Codes-Jumps Go Further
+015D85FE 00000040
+// Streets Of Rome Codes-Jumps Go Much Further
+015D85FE 00000080
+// Streets Of Rome Codes-Jumps Go Helluva Lot Further
+015D85FE 000000C0
+// Trajans Markets Codes-Infinite Health
+01616626 000003E8
+// Trajans Markets Codes-Moon Jump
+01616624 0000FFC0
+// Trajans Markets Codes-Jumps Go Further
+01616622 00000040
+// Trajans Markets Codes-Jumps Go Much Further
+01616622 00000080
+// Trajans Markets Codes-Jumps Go Helluva Lot Further
+01616622 000000C0

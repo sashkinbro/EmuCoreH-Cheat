@@ -1,0 +1,42 @@
+// Team 1 Score Modifier Codes-1st Quarter (Replace FF's with below code)
+0134770C 0000FFFF
+// Team 1 Score Modifier Codes-2nd Quarter (Replace FF's with below code)
+01347710 0000FFFF
+// Team 1 Score Modifier Codes-3rd Quarter (Replace FF's with below code)
+01347714 0000FFFF
+// Team 1 Score Modifier Codes-4th Quarter (Replace FF's with below code)
+01347718 0000FFFF
+// Team 1 Score Modifier Codes-Overtime (Replace FF's with below code)
+0134771C 0000FFFF
+// Team 2 Score Modifier Codes-1st Quarter (Replace FF's with below code)
+01347728 0000FFFF
+// Team 2 Score Modifier Codes-2nd Quarter (Replace FF's with below code)
+0134772C 0000FFFF
+// Team 2 Score Modifier Codes-3rd Quarter (Replace FF's with below code)
+01347730 0000FFFF
+// Team 2 Score Modifier Codes-4th Quarter (Replace FF's with below code)
+01347734 0000FFFF
+// Team 2 Score Modifier Codes-Overtime (Replace FF's with below code)
+01347738 0000FFFF
+// Team 2 Score Modifier Codes-Infinite Turbo P1
+0134760E 000042C8
+// Team 2 Score Modifier Codes-Infinite Turbo P2
+01347646 000042C8
+// Team 2 Score Modifier Codes-Infinite Turbo P3
+0134767E 000042C8
+// Team 2 Score Modifier Codes-Infinite Turbo P4
+013476B6 000042C8
+// Team 2 Score Modifier Codes-No Turbo P1
+0134760E 00000000
+// Team 2 Score Modifier Codes-No Turbo P2
+01347646 00000000
+// Team 2 Score Modifier Codes-No Turbo P3
+0134767E 00000000
+// Team 2 Score Modifier Codes-No Turbo P4
+013476B6 00000000
+// Team 2 Score Modifier Codes-Always 1st Down
+01347770 00000001
+// Team 2 Score Modifier Codes-Always 4th Down
+01347770 00000004
+// Team 2 Score Modifier Codes-Infinite Creation Pts
+01382698 0000002A

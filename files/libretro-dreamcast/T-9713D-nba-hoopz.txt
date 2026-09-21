@@ -1,0 +1,44 @@
+// Infinite Attribute Points
+012650F4 00000014
+// Team 1 Score Modifier Codes-1st Quarter (Replace FF's with below code)
+0190D580 000000FF
+// Team 1 Score Modifier Codes-2nd Quarter (Replace FF's with below code)
+0190D584 000000FF
+// Team 1 Score Modifier Codes-3rd Quarter (Replace FF's with below code)
+0190D588 000000FF
+// Team 1 Score Modifier Codes-4th Quarter (Replace FF's with below code)
+0190D58C 000000FF
+// Team 2 Score Modifier Codes-1st Quarter (Replace FF's with below code)
+0190D59C 000000FF
+// Team 2 Score Modifier Codes-2nd Quarter (Replace FF's with below code)
+0190D5A0 000000FF
+// Team 2 Score Modifier Codes-3rd Quarter (Replace FF's with below code)
+0190D5A4 000000FF
+// Team 2 Score Modifier Codes-4th Quarter (Replace FF's with below code)
+0190D5A8 000000FF
+// Team 2 Score Modifier Codes-Team 1 Guard-Infinite Turbo
+0290D3E8 42C80000
+// Team 2 Score Modifier Codes-Team 1 Forward-Infinite Turbo
+0290D42C 42C80000
+// Team 2 Score Modifier Codes-Team 1 Center-Infinite Turbo
+0290D470 42C80000
+// Team 2 Score Modifier Codes-Team 1 Guard-No Turbo
+0290D3E8 00000000
+// Team 2 Score Modifier Codes-Team 1 Forward-No Turbo
+0290D42C 00000000
+// Team 2 Score Modifier Codes-Team 1 Center-No Turbo
+0290D470 00000000
+// Team 2 Score Modifier Codes-Team 2 Guard-Infinite Turbo
+0290D4B4 42C80000
+// Team 2 Score Modifier Codes-Team 2 Forward-Infinite Turbo
+0290D4F8 42C80000
+// Team 2 Score Modifier Codes-Team 2 Center-Infinite Turbo
+0290D53C 42C80000
+// Team 2 Score Modifier Codes-Team 2 Guard-No Turbo
+0290D4B4 00000000
+// Team 2 Score Modifier Codes-Team 2 Forward-No Turbo
+0290D4F8 00000000
+// Team 2 Score Modifier Codes-Team 2 Center-No Turbo
+0290D53C 00000000
+// Team 2 Score Modifier Codes-Stop Shot Clock Timer
+01095AE6 00000009

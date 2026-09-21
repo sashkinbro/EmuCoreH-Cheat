@@ -1,0 +1,8 @@
+// 1st Player Low Score
+014A6FF8 00000001
+// 1st Player High Score
+014A6FF8 00000006
+// 2nd Player Low Score
+014A6FFC 00000001
+// 2nd Player High Score
+014A6FFC 00000006

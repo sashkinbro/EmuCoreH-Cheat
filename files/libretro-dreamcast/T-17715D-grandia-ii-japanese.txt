@@ -1,0 +1,8 @@
+// Quick Level Gain (Hero)
+01E2E376 000000FF
+// Max HP (Hero)
+02E2E37C 270F270F
+// Max MP (Hero)
+02E2E380 03E703E7
+// Max SP (Hero)
+02E2E384 03E703E7

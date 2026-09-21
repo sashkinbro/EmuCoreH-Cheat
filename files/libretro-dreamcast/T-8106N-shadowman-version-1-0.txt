@@ -1,0 +1,64 @@
+// Infinite Shotgun Shells
+012BFEB4 00000063
+// Infinite Violator Ammo
+012BFEB8 000003E7
+// Infinite Cadeaux Ammo
+012BFEBC 000003E7
+// Infinite 9mm Ammo
+012BFEC0 000003E7
+// Have The Prophecy
+012B6ABC 00000003
+// Have Jack's Journal
+012B6AC0 00000003
+// Have Book Of Shadows
+012B6AC4 00000003
+// Have Teddy Bear
+012B6AC8 00000003
+// Have Accumulator
+012B6ACC 00000003
+// Have Enseigne
+012B6AD0 00000003
+// Have Asson
+012B6AD4 00000003
+// Have SMG
+012B6AD8 00000003
+// Have Flashlight
+012B6ADC 00000003
+// Have Engineers Key
+012B6AE0 00000003
+// Have Flambeau
+012B6AE4 00000003
+// Have Handgun
+012B6AE8 00000003
+// Have Shotgun
+012B6AEC 00000003
+// Have Key Card
+012B6AF0 00000003
+// Have Violator
+012B6AF4 00000003
+// Have Marteau
+012B6AF8 00000003
+// Have Baton
+012B6AFC 00000003
+// Have Mp909
+012B6B00 00000003
+// Have Shotgun 2
+012B6B04 00000003
+// Have Retractor
+012B6B08 00000003
+// Have Spare
+012B6B0C 00000003
+// Have Calabash
+012B6B10 00000003
+// Have Spare
+012B6B14 00000003
+// Have Spare
+012B6B18 00000003
+// Have Prism
+012B6B1C 00000003
+// Have L'Eclipser-La Lune
+012B6B20 00000003
+// Have L'Eclipser-La Soleil
+012B6B24 00000003
+// Have L'Eclipser-La Lame
+012B6B28 00000003

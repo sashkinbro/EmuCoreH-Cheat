@@ -1,0 +1,208 @@
+// Infinite Health P1
+012526AE 0000436F
+// 75% Health P1 (Continued)
+012526AE 00004334
+// 50% Health P1 (Continued)
+012526AE 000042F0
+// 25% Health P1 (Continued)
+012526AE 00004270
+// 1-Hit Death (Continued)
+012526AE 00000000
+// P1 Never Wins
+01252610 00000000
+// P1 Always Wins
+01252610 00000002
+// P1 Needs 1 Win To Win (Continued)
+01252610 00000001
+// Infinite Health P2
+0125AD8A 0000436F
+// 75% Health P2 (Continued)
+0125AD8A 00004334
+// 50% Health P2 (Continued)
+0125AD8A 000042F0
+// 25% Health P2 (Continued)
+0125AD8A 00004270
+// 1-Hit Death P2 (Continued)
+0125AD8A 00000000
+// P2 Never Wins
+0125ACEC 00000000
+// P2 Always Wins
+0125ACEC 00000002
+// P2 Needs 1 Win To Win (Continued)
+0125ACEC 00000001
+// Disable Timer
+0225B79C 00F79564
+// Infinite Points Mission Mode
+0126CC66 00000010
+// Unlock Hwang
+01336DFE 00000001
+// Unlock Yoshimitsu
+01336E0A 00000001
+// Unlock Lizardman
+01336E2A 00000001
+// Unlock Siegfried
+01336E1E 00000001
+// Unlock Rock
+01336E16 00000001
+// Mission Codes-Poisoned P1
+0125BAB8 00000001
+// Mission Codes-Poisoned P1 (Continued)
+0125BAB4 00000004
+// Mission Codes-Severe Poison P1
+0125BAB8 00000001
+// Mission Codes-Severe Poison P1 (Continued)
+0125BAB4 00000007
+// Mission Codes-Deadly Poison P1
+0125BAB8 00000001
+// Mission Codes-Deadly Poison P1 (Continued)
+0125BAB4 00000008
+// Mission Codes-Invisible P1
+0125BAB8 00000001
+// Mission Codes-Invisible P1 (Continued)
+0125BAB4 0000000D
+// Mission Codes-Invisible Weapon P1
+0125BAB8 00000001
+// Mission Codes-Invisible Weapon P1 (Continued)
+0125BAB4 00000020
+// Mission Codes-Untouchable P1
+0125BAB8 00000001
+// Mission Codes-Untouchable P1 (Continued)
+0125BAB4 00000014
+// Mission Codes-Life Up P1
+0125BAB8 00000001
+// Mission Codes-Life Up P1 (Continued)
+0125BAB4 00000005
+// Mission Codes-Poisoned P2
+0125BAB8 00000002
+// Mission Codes-Poisoned P2 (Continued)
+0125BAB4 00000004
+// Mission Codes-Severe Poison P2
+0125BAB8 00000002
+// Mission Codes-Severe Poison P2 (Continued)
+0125BAB4 00000007
+// Mission Codes-Deadly Poison P2
+0125BAB8 00000002
+// Mission Codes-Deadly Poison P2 (Continued)
+0125BAB4 00000008
+// Mission Codes-Invisible P2
+0125BAB8 00000002
+// Mission Codes-Invisible P2 (Continued)
+0125BAB4 0000000D
+// Mission Codes-Invisible Weapon P2
+0125BAB8 00000002
+// Mission Codes-Invisible Weapon P2 (Continued)
+0125BAB4 00000020
+// Mission Codes-Untouchable P2
+0125BAB8 00000002
+// Mission Codes-Untouchable P2 (Continued)
+0125BAB4 00000014
+// Mission Codes-Life Up P2
+0125BAB8 00000002
+// Mission Codes-Life Up P2 (Continued)
+0125BAB4 00000005
+// Mission Codes-Mode Modifier
+0125BAB8 00000003
+// Mission Codes-Mode Modifier (Replace FF's with below code) (Continued)
+0125BAB4 000000FF
+// Mission Codes-Able To Select Same Character (Team Battle)
+010E3378 00000008
+// Mission Codes-Able To Select The Same Costume
+010E32BC 00000008
+// Mission Codes-Able To Select The Same Costume (Continued)
+010E33F6 00000008
+// Mission Codes-Able To Select The Same Costume (Continued)
+010E39E4 00000008
+// Mission Codes-All Attacks Hurt P1
+02013CE0 F328D21A
+// Mission Codes-All Attacks Hurt P1 (Continued)
+02013D4E 8C013D50
+// Mission Codes-All Attacks Hurt P1 (Continued)
+02013D50 436FFFC0
+// Mission Codes-All Attacks Hurt P1 (Continued)
+00011DAE 00000000
+// Mission Codes-All Attacks Hurt P1 (Continued)
+02011DB0 DE1F8976
+// Mission Codes-All Attacks Hurt P1 (Continued)
+02011E30 8C24A958
+// Mission Codes-All Attacks Hurt P2
+02013CE0 F328D21A
+// Mission Codes-All Attacks Hurt P2 (Continued)
+02013D4E 8C013D50
+// Mission Codes-All Attacks Hurt P2 (Continued)
+02013D50 436FFFC0
+// Mission Codes-All Attacks Hurt P2 (Continued)
+00011DAE 00000000
+// Mission Codes-All Attacks Hurt P2 (Continued)
+02011DB0 DE1F8976
+// Mission Codes-All Attacks Hurt P2 (Continued)
+02011E30 8C253034
+// Mission Codes-Stage Modifier (Replace FF's with below code) (Continued)
+0125BA14 000000FF
+// Mission Codes-Hit/Throw Anywhere (Both Players) 
+01018E94 00000008
+// Mode Modifier Code
+01000000 00000000
+// 01 - ?
+01000000 00000000
+// 02 - ?
+01000000 00000000
+// 03 - Repel
+01000000 00000000
+// 04 - Poison
+01000000 00000000
+// 05 - ?
+01000000 00000000
+// 06 - ?
+01000000 00000000
+// 07 - Severe Poison
+01000000 00000000
+// 08 - Deadly Poison
+01000000 00000000
+// 09 - Knock Down
+01000000 00000000
+// 0A - 16 Strikes
+01000000 00000000
+// 0B - ?
+01000000 00000000
+// 0C - ?
+01000000 00000000
+// 0D - Invisible
+01000000 00000000
+// 0E - ?
+01000000 00000000
+// 0F - ?
+01000000 00000000
+// 10 - Force Field Area
+01000000 00000000
+// 11 - ?
+01000000 00000000
+// 12 - ?
+01000000 00000000
+// 13 - Up'n Away
+01000000 00000000
+// 14 - ?
+01000000 00000000
+// 15 - ?
+01000000 00000000
+// 16 - ?
+01000000 00000000
+// 17 - ?
+01000000 00000000
+// 18 - ?
+01000000 00000000
+// 19 - ?
+01000000 00000000
+// 1A - ?
+01000000 00000000
+// 1B - Windy
+01000000 00000000
+// 1C - ?
+01000000 00000000
+// 1D - ?
+01000000 00000000
+// 1E - ?
+01000000 00000000
+// 1F - ?
+01000000 00000000
+// 20 - Invisible Weapon
+01000000 00000000

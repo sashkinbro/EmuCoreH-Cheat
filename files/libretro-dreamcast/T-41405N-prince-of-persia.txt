@@ -1,0 +1,110 @@
+// Infinite Items
+0108A8E0 00000009
+// Max Item Codes-Slot 1
+010CF13E 00000063
+// Max Item Codes-Slot 2
+010CF146 00000063
+// Max Item Codes-Slot 3
+010CF14E 00000063
+// Max Item Codes-Slot 4
+010CF156 00000063
+// Max Item Codes-Slot 5
+010CF15E 00000063
+// Max Item Codes-Slot 6
+010CF166 00000063
+// Max Item Codes-Slot 7
+010CF16E 00000063
+// Max Item Codes-Slot 8
+010CF176 00000063
+// Item Modifier Codes-Slot 1 (Replace FF's with below code)
+010CF140 000000FF
+// Item Modifier Codes-Slot 2 (Replace FF's with below code)
+010CF148 000000FF
+// Item Modifier Codes-Slot 3 (Replace FF's with below code)
+010CF150 000000FF
+// Item Modifier Codes-Slot 4 (Replace FF's with below code)
+010CF158 000000FF
+// Item Modifier Codes-Slot 5 (Replace FF's with below code)
+010CF160 000000FF
+// Item Modifier Codes-Slot 6 (Replace FF's with below code)
+010CF168 000000FF
+// Item Modifier Codes-Slot 7 (Replace FF's with below code)
+010CF170 000000FF
+// Item Modifier Codes-Slot 8 (Replace FF's with below code)
+010CF178 000000FF
+// Max Potion Codes-Slot 1
+010CF17E 00000063
+// Max Potion Codes-Slot 2
+010CF186 00000063
+// Max Potion Codes-Slot 3
+010CF18E 00000063
+// Max Potion Codes-Slot 4
+010CF196 00000063
+// Potion Modifier Codes-Slot 1 (Replace FF's with below code)
+010CF180 000000FF
+// Potion Modifier Codes-Slot 2 (Replace FF's with below code)
+010CF188 000000FF
+// Potion Modifier Codes-Slot 3 (Replace FF's with below code)
+010CF190 000000FF
+// Potion Modifier Codes-Slot 4 (Replace FF's with below code)
+010CF198 000000FF
+// Max Weapon Codes-Slot 1
+010CF19E 00000063
+// Max Weapon Codes-Slot 2
+010CF1A6 00000063
+// Max Weapon Codes-Slot 3
+010CF1AE 00000063
+// Max Weapon Codes-Slot 4
+010CF1B6 00000063
+// Max Weapon Codes-Slot 5
+010CF1BE 00000063
+// Max Weapon Codes-Slot 6
+010CF1C6 00000063
+// Weapon Modifier Codes-Slot 1 (Replace FF's with below code)
+010CF1A0 000000FF
+// Weapon Modifier Codes-Slot 2 (Replace FF's with below code)
+010CF1A8 000000FF
+// Weapon Modifier Codes-Slot 3 (Replace FF's with below code)
+010CF1B0 000000FF
+// Weapon Modifier Codes-Slot 4 (Replace FF's with below code)
+010CF1B8 000000FF
+// Weapon Modifier Codes-Slot 5 (Replace FF's with below code)
+010CF1C0 000000FF
+// Weapon Modifier Codes-Slot 6 (Replace FF's with below code)
+010CF1C8 000000FF
+// Weapon Modifier Codes-Save Anywhere
+010D9A3C 00000004
+// Item Modifier Codes
+01000000 00000000
+// 00 - Nothing
+01000000 00000000
+// 01 - Scimitar
+01000000 00000000
+// 02 - Staff +2
+01000000 00000000
+// 03 - Blades +2
+01000000 00000000
+// 04 - Flame Sword
+01000000 00000000
+// 05 - Bow
+01000000 00000000
+// 06 - Arrow
+01000000 00000000
+// 07 - Arrow
+01000000 00000000
+// 08 - Death Arrow
+01000000 00000000
+// 09 - Arrow
+01000000 00000000
+// 0A - Exploding Arrow
+01000000 00000000
+// 0B - Arrow
+01000000 00000000
+// 0C - Health Stealing Arrow
+01000000 00000000
+// 0D - Arrow
+01000000 00000000
+// 0E - Partial Health Potion
+01000000 00000000
+// 0F - Extra Health Potion
+01000000 00000000

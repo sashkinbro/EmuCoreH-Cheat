@@ -1,0 +1,10 @@
+// Infinite Time (Single Player)
+02EAE878 00000650
+// Low Time P1
+02EAE3C0 00000000
+// Low Time P2
+02EAE430 00000000
+// Low Time P3
+02EAE4A0 00000000
+// Low Time P4
+02EAE510 00000000

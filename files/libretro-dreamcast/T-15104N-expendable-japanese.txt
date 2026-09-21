@@ -1,0 +1,50 @@
+// Infinite Time
+01083F34 000003E7
+// Infinite Lives P1
+011EB018 00000002
+// Infinite Health P1
+011EB106 00000064
+// Infinite Heat-Seekers P1
+011EB0B0 000000FF
+// Infinite Flamethrower P1
+011EB0B2 000000FF
+// Infinite Mult. Warheads P1
+011EB0B4 000000FF
+// Infinite Spyra Missiles P1
+011EB0B6 000000FF
+// Infinite Spread Pulse Cannon P1
+011EB0B8 000000FF
+// Infinite Vulcan Cannon P1
+011EB0BA 000000FF
+// Infinite Phantasm Ammo P1
+011EB0BC 000000FF
+// Infinite Mines P1
+011EB0BE 000000FF
+// Infinite Reclaim Alien Weapon P1
+011EB0C0 000000FF
+// Infinite Laser Guided Missiles P1
+011EB0C2 000000FF
+// Infinite Lives P2
+011EB26C 00000002
+// Infinite Health P2
+011EB35A 00000064
+// Infinite Heat-Seekers P2
+011EB302 000000FF
+// Infinite Flamethrower P2
+011EB304 000000FF
+// Infinite Mult. Warheads P2
+011EB306 000000FF
+// Infinite Spyra Missiles P2
+011EB308 000000FF
+// InfiniteSpread Pulse Cannon P2
+011EB30A 000000FF
+// Infinite Vulcan Cannon P2
+011EB30C 000000FF
+// Infinite Phantasm Ammo P2
+011EB30E 000000FF
+// Infinite Mines P2
+011EB310 000000FF
+// Infinite Reclaim Alien Weapon P2
+011EB312 000000FF
+// Infinite Laser Guided Missiles P2
+011EB314 000000FF

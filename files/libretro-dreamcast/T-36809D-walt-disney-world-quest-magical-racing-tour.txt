@@ -1,0 +1,6 @@
+// Max Faries
+001CF344 00000063
+// Max Speed Coins
+011CF33C 0000001E
+// Start On Last Lap
+001988D4 00000002

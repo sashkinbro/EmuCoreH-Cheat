@@ -1,0 +1,242 @@
+// Max Money
+021A3C84 0098967F
+// Have 99 Traps Cleared
+011A3C90 00000063
+// Stop Timer
+0102E276 00000009
+// Max HP
+021A3CCC 4479C000
+// Infinite HP
+021A3CD0 4479C000
+// Have Hassy
+001A3FA8 00000009
+// Have Chinese Noodles
+001A3FA9 00000009
+// Have Kaiseki
+001A3FAA 00000009
+// Have Ampoule
+001A3FAB 00000009
+// Have Injection
+001A3FAC 00000009
+// Have Intravenous Drip
+001A3FAD 00000009
+// Have Deep Breath
+001A3FAE 00000009
+// Have Relaxation CD
+001A3FAF 00000009
+// Have Nitroglycerine
+001A3FB0 00000009
+// Have Erole Magazine
+001A3FB1 00000009
+// Have Bandage
+001A3FB2 00000009
+// Have Gauze Wrap
+001A3FB3 00000009
+// Have Coagulant
+001A3FB4 00000009
+// Have Beef
+001A3FB5 00000009
+// Have Pork
+001A3FB6 00000009
+// Have Chicken
+001A3FB7 00000009
+// Have Hell Cake
+001A3FB8 00000009
+// Have Amazon
+001A3FB9 00000009
+// Have Gaboie
+001A3FBA 00000009
+// Have Homerun Bat
+001A3FC3 00000009
+// Have Shotgun
+001A3FC4 00000009
+// Have Machine Gun
+001A3FC5 00000009
+// Have Hatchet
+001A3FC6 00000009
+// Have Horror Monitor
+001A3FC7 00000009
+// Have Jimmy's Trophy
+001A3FC8 00000009
+// Have Testimonial
+001A3FC9 00000009
+// Have ID Card
+001A3FCA 00000009
+// Have Memo
+001A3FCB 00000009
+// Have Piece Of Wood
+001A3FCC 00000009
+// Have Randy's Brain
+001A3FCD 00000009
+// Have Wudolla
+001A3FCE 00000009
+// Have Entrance Ticket
+001A3FCF 00000009
+// Have Gasoline
+001A3FD0 00000009
+// Have Potedon Chip
+001A3FD1 00000009
+// Have Biobody
+001A3FD2 00000009
+// Have Iron Heart
+001A3FD3 00000009
+// Have Artificial Brain
+001A3FD4 00000009
+// Have Artifical Plasma
+001A3FD5 00000009
+// Have ER Discount Ticket
+001A3FD6 00000009
+// Have Severed Head
+001A3FD7 00000009
+// Have Sweet Strawberry
+001A3FD8 00000009
+// Have Baked Cake
+001A3FD9 00000009
+// Have Spades Card
+001A3FDA 00000009
+// Have Club Card
+001A3FDB 00000009
+// Have Heart Card
+001A3FDC 00000009
+// Have Diamond Card
+001A3FDD 00000009
+// Have Mary's Key
+001A3FDE 00000009
+// Have Remote
+001A3FDF 00000009
+// Have Baby Bottle
+001A3FE0 00000009
+// Have Rusty Key
+001A3FE1 00000009
+// Have Wrench
+001A3FE2 00000009
+// Have Flame Thrower
+001A3FE3 00000009
+// Have Gas Tank
+001A3FE4 00000009
+// Have Mary Stick
+001A3FE5 00000009
+// Have ID Card
+001A3FE6 00000009
+// Have Code Number
+001A3FE7 00000009
+// Have Calculator
+001A3FE8 00000009
+// Have Sacrifice Mary
+001A3FE9 00000009
+// Have Caution Bomb
+001A3FEA 00000009
+// Have Protector
+001A3FEB 00000009
+// Have Speed Ladder
+001A3FEC 00000009
+// Have Item Sensor
+001A3FED 00000009
+// Have Plaster
+001A3FEE 00000009
+// Have SP Horror Monitor
+001A3FEF 00000009
+// Have Child's Shoes
+001A3FF0 00000009
+// Have Ribbon
+001A3FF1 00000009
+// Have Rubber Snake
+001A3FF2 00000009
+// Have Diary 1
+001A3FF8 00000009
+// Have Diary 2
+001A3FF9 00000009
+// Have Diary 3
+001A3FFA 00000009
+// Have Diary 4
+001A3FFB 00000009
+// Have Diary 5
+001A3FFC 00000009
+// Have Diary 6
+001A3FFD 00000009
+// Have Newspaper 1
+001A3FFE 00000009
+// Have Newspaper 2
+001A3FFF 00000009
+// Have Newspaper 3
+001A4000 00000009
+// Have Newspaper 4
+001A4001 00000009
+// Have Newspaper 1
+001A4002 00000009
+// Have Newspaper 2
+001A4003 00000009
+// Have Classified Ad
+001A4004 00000009
+// Have Hunting Manual 1
+001A4005 00000009
+// Have Hunting Manual 2
+001A4006 00000009
+// Have India's Notes
+001A4007 00000009
+// Have Newspaper
+001A4008 00000009
+// Have Suicide Note
+001A4009 00000009
+// Have Secret Note
+001A400A 00000009
+// Have Green Flyer
+001A400B 00000009
+// Have Red Memo
+001A400C 00000009
+// Have Blue Memo
+001A400D 00000009
+// Have White Memo
+001A400E 00000009
+// Have Newspaper 1
+001A400F 00000009
+// Have Newspaper 2
+001A4010 00000009
+// Have Diary 1
+001A4011 00000009
+// Have Diary 2
+001A4012 00000009
+// Have Diary 3
+001A4013 00000009
+// Have Dave's Note
+001A4014 00000009
+// Have Memo
+001A4015 00000009
+// Unlock Kevin
+021A3CA4 00000000
+// Unlock Randy
+021A3CEC 00000000
+// Unlock Michel
+021A3D10 00000000
+// Eriko Codes-Max HP
+0213ACCC 4479C000
+// Eriko Codes-Infinite HP
+0213ACD0 4479C000
+// Eriko Codes-Never Bleed
+011A3CDE 00000000
+// Eriko Codes-Perfect Heartbeat
+021A3CE0 42480000
+// Kevin Codes-Max HP
+021A3CA8 4479C000
+// Kevin Codes-Infinite HP
+021A3CAC 4479C000
+// Kevin Codes-Never Bleed
+011A3CAA 00000000
+// Kevin Codes-Perfect Heartbeat
+021A3CAC 42480000
+// Randy Codes-Max HP
+021A3CF0 4479C000
+// Randy Codes-Infinite HP
+021A3CF4 4479C000
+// Randy Codes-Never Bleed
+011A3D02 00000000
+// Randy Codes-Perfect Heartbeat
+021A3D04 42480000
+// Michel Codes-Max HP
+021A3D14 4479C000
+// Michel Codes-Infinite HP
+021A3D18 4479C000
+// Michel Codes-Never Bleed
+011A3D26 00000000
+// Michel Codes-Perfect Heartbeat
+021A3A28 42480000

@@ -1,0 +1,6 @@
+// Infinite Gloves
+010B3838 00000063
+// Infinite Coins
+01149F08 00000063
+// Infinite Lives
+01149F18 00000063

@@ -1,0 +1,38 @@
+// P1 Infinite Health
+0117FD98 00000090
+// P1 1-Hit Death (Continued)
+0117FD98 00000000
+// P1 75% Health (Continued)
+0117FD98 0000006C
+// P1 50% Health (Continued)
+0117FD98 00000048
+// P1 25% Health (Continued)
+0117FD98 00000024
+// P1 Max Power
+0117FE86 00000090
+// P1 No Power
+0117FE86 00000000
+// P2 Infinite Health
+011801E4 00000090
+// P2 1-Hit Death (Continued)
+011801E4 00000000
+// P2 75% Health (Continued)
+011801E4 00000063
+// P2 50% Health (Continued)
+011801E4 00000048
+// P2 25% Health (Continued)
+011801E4 00000024
+// P2 Max Power
+011802D2 00000090
+// P2 No Power
+011802D2 00000000
+// Max Exp. World Tour
+0217FE78 0098967F
+// Max Exp. X-Ism
+02188D54 0098967F
+// Max Exp. A-Ism
+02188D58 0098967F
+// Max Exp. V-Ism
+02188D5C 0098967F
+// Hit Anywhere (Both Players) 
+01053A40 00000009

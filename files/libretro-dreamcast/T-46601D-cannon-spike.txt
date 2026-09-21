@@ -1,0 +1,14 @@
+// Score Modifier P1 (Replace FF's with below code)
+01AB494C 0000FFFF
+// Max Score P1
+02AB494C 05F5E0FF
+// Score Modifier P2 (Replace FF's with below code)
+01AB49E0 0000FFFF
+// Max Score P2
+02AB49E0 05F5E0FF
+// Infinite Specials P1
+01AB495C 00000004
+// Infinite Specials P2
+01AB49F0 00000004
+// Infinite Credits
+019F2DA0 00000009

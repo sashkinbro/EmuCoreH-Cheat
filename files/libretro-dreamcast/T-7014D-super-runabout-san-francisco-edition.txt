@@ -1,0 +1,22 @@
+// Have All Missions Scenario A
+02E48780 02020202
+// Have All Missions Scenario A (Continued)
+02E48784 02020202
+// Have All Missions Scenario A (Continued)
+01E48028 0000FFFF
+// Have All Missions Scenario B
+02E4898C 02020202
+// Have All Missions Scenario B (Continued)
+02E48990 02020202
+// Have All Vehicles Scenario B
+01E4802A 0000FFFF
+// Have All Emblems Scenario B
+02E48020 FFFFFFFF
+// Infinite Money
+01E7F628 0000FFFF
+// Infinite Money (Continued)
+01E7F62C 0000FFFF
+// Max Money
+02E7F628 05F5E0FF
+// Max Money (Continued)
+02E7F62C 05F5E0FF

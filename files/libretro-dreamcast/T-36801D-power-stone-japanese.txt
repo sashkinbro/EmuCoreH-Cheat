@@ -1,0 +1,50 @@
+// P1 Character Modifier (Replace FF's with below code)
+017F7D3C 000000FF
+// Infinite Health P1
+017F0180 000000F0
+// No Health P1
+017F0180 00000000
+// 75% Health P1 (Continued)
+017F0180 000000B4
+// 50% Health P1 (Continued)
+017F0180 00000078
+// 25% Health P1 (Continued)
+017F0180 0000003C
+// 1-Hit Death P1 (Continued)
+017F0180 00000001
+// Infinite Health P2
+017F7450 000000F0
+// Low Health P2 (Continued)
+017F7450 00000000
+// 75% Health P2 (Continued)
+017F7450 000000B4
+// 50% Health P2 (Continued)
+017F7450 00000078
+// 25% Health P2 (Continued)
+017F7450 0000003C
+// 1-Hit Death P2 (Continued)
+017F7450 00000001
+// Have All Stones P1
+017F01DC 00000707
+// No Stones P1
+017F01DC 00000000
+// Have All Stones P2
+017F74AC 00000707
+// No Stones P2
+017F74AC 00000000
+// Infinite Power Up P1
+017F01A0 00000938
+// No Power Up P1
+017F01A0 00000000
+// Infinite Power Up P2
+017F7470 00000938
+// No Power Up P2
+017F7470 00000000
+// Character Modifier Code
+01000000 00000000
+// 09 - Valgas
+01000000 00000000
+// 0A - Final Valgas
+01000000 00000000
+// 0C - Kraken
+01000000 00000000

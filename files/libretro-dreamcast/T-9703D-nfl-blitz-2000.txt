@@ -1,0 +1,40 @@
+// Team 1 Score Modifier Codes-1st Quarter (Replace FF's with below code)
+01283A9C 000000FF
+// Team 1 Score Modifier Codes-2nd Quarter (Replace FF's with below code)
+01283AA0 000000FF
+// Team 1 Score Modifier Codes-3rd Quarter (Replace FF's with below code)
+01283AA4 000000FF
+// Team 1 Score Modifier Codes-4th Quarter (Replace FF's with below code)
+01283AA8 000000FF
+// Team 1 Score Modifier Codes-Overtime (Replace FF's with below code)
+01283AAC 000000FF
+// Team 2 Score Modifier Codes-1st Quarter (Replace FF's with below code)
+01283AB8 000000FF
+// Team 2 Score Modifier Codes-2nd Quarter (Replace FF's with below code)
+01283ABC 000000FF
+// Team 2 Score Modifier Codes-3rd Quarter (Replace FF's with below code)
+01283AC0 000000FF
+// Team 2 Score Modifier Codes-4th Quarter (Replace FF's with below code)
+01283AC4 000000FF
+// Team 2 Score Modifier Codes-Overtime (Replace FF's with below code)
+01283AC8 000000FF
+// Team 2 Score Modifier Codes-Infinite Turbo P1
+02284050 42C80000
+// Team 2 Score Modifier Codes-No Turbo P1
+02284050 00000000
+// Team 2 Score Modifier Codes-Infinite Turbo P2
+02284088 42C80000
+// Team 2 Score Modifier Codes-No Turbo P2
+02284088 00000000
+// Team 2 Score Modifier Codes-Infinite Turbo P3
+022840C0 42C80000
+// Team 2 Score Modifier Codes-No Turbo P3
+022840C0 00000000
+// Team 2 Score Modifier Codes-Infinite Turbo P4
+022840F8 42C80000
+// Team 2 Score Modifier Codes-No Turbo P4
+022840F8 00000000
+// Team 2 Score Modifier Codes-Always 1st Down
+01283AFC 00000001
+// Team 2 Score Modifier Codes-Always 4th Down
+01283AFC 00000004

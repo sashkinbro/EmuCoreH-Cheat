@@ -1,0 +1,28 @@
+// Infinite Health P1
+0121B50C 0000012C
+// Infinite Health P2
+0121B574 0000012C
+// No Health P1
+0121B50C 00000000
+// No Health P2
+0121B574 00000000
+// Low Health P1
+0121B50C 00000001
+// Low Health P2
+0121B574 00000001
+// 50% Health P1 (Continued)
+0121B50C 00000096
+// 50% Health P2 (Continued)
+0121B574 00000096
+// 75% Health P1 (Continued)
+0121B50C 000000E1
+// 75% Health P2 (Continued)
+0121B574 000000E1
+// 25% Health P1 (Continued)
+0121B50C 0000004B
+// 25% Health P2 (Continued)
+0121B574 0000004B
+// 1-Hit Death P1 (Continued)
+0121B50C 00000001
+// 1-Hit Death P2 (Continued)
+0121B574 00000001

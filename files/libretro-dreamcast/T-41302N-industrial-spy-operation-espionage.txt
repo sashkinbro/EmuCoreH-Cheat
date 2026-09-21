@@ -1,0 +1,38 @@
+// 1st Character Codes-Infinite HP
+0017E932 00000063
+// 1st Character Codes-Max HP
+0017E934 00000063
+// 1st Character Codes-Infinite SP
+0017E936 00000063
+// 1st Character Codes-Max SP
+0017E938 00000063
+// 2nd Character Codes-Infinite HP
+0017EA4E 00000063
+// 2nd Character Codes-Max HP
+0017EA50 00000063
+// 2nd Character Codes-Infinite SP
+0017EA52 00000063
+// 2nd Character Codes-Max SP
+0017EA54 00000063
+// 3rd Character Codes-Infinite HP
+0017EB6A 00000063
+// 3rd Character Codes-Max HP
+0017EB6C 00000063
+// 3rd Character Codes-Infinite SP
+0017EB6E 00000063
+// 3rd Character Codes-Max SP
+0017EB70 00000063
+// 4th Character Codes-Infinite HP
+0017EC86 00000063
+// 4th Character Codes-Max HP
+0017EC88 00000063
+// 4th Character Codes-Infinite SP
+0017EC8A 00000063
+// 4th Character Codes-Max SP
+0017EC8C 00000063
+// 4th Character Codes-Infinite AP
+00171200 0000270F
+// 4th Character Codes-Infinite Time
+0217125C 00002500
+// 4th Character Codes-Low Mission Timer
+01171258 00000000

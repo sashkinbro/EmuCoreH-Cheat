@@ -1,0 +1,34 @@
+// Infinite Health
+012405C0 000000FF
+// Infinite Lives
+0123ED08 00000005
+// Max Score
+02241C74 0098967F
+// Have All Gems
+0223EECC 01010101
+// Have Cherry
+0123ECE2 00000001
+// Have Strawberry
+0123ECE4 00000001
+// Have Peach
+0123ECE6 00000001
+// Have Pretzel
+0123ECE8 00000001
+// Have Apple
+0123ECEA 00000001
+// Have Pear
+0123ECEC 00000001
+// Have Banana
+0123ECEE 00000001
+// Have Gold Key
+0123ECF0 00000001
+// Have Red Key
+0123ECF2 00000001
+// Have Blue Key
+0123ECF4 00000001
+// Have Green Key
+0123ECF6 00000001
+// Have Purple Key
+0123ECF8 00000001
+// Score Modifier (Replace FF's with below code)
+01241C74 0000FFFF

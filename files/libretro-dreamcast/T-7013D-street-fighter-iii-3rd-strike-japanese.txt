@@ -1,0 +1,28 @@
+// Infinite Health P1
+01EA28C6 000000A0
+// No Health P1
+01EA28C6 00000000
+// Infinite Health P2
+01EA2D32 000000A0
+// No Health P2
+01EA2D32 00000000
+// P1 Easily Stunned
+01EA3162 00000050
+// P1 Never Stunned
+01EA3162 00000000
+// P1 Super Stunned
+01EA315C 00000064
+// P1 Quick Stun Recovery
+01EA315C 00000000
+// P2 Easily Stunned
+01EA3176 00000050
+// P2 Never Stunned
+01EA3176 00000000
+// P2 Super Stunned
+01EA3170 00000050
+// P2 Super Stunned (Continued)
+01EA3170 00000000
+// P2 Super Stunned (Continued)
+01EA3170 00000000
+// Extra System Options
+00E1160F 00000001

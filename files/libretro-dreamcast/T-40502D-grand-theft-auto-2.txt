@@ -1,0 +1,4 @@
+// Infinite Money
+01E990B0 0000FFFF
+// Infinite Lives
+01E97F6C 00000005

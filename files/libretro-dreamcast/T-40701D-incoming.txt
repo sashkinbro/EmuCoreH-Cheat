@@ -1,0 +1,4 @@
+// Infinite Lives
+0140E3FA 00002000
+// Score Modifier (Replace FF's with below code)
+01624784 0000FFFF

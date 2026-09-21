@@ -1,0 +1,34 @@
+// P1 Infinite Health
+01301ED2 000000C8
+// P1 75% Health (Continued)
+01301ED2 00000096
+// P1 50% Health (Continued)
+01301ED2 00000064
+// P1 25% Health (Continued)
+01301ED2 00000032
+// P1 One Hit Kill (Continued)
+01301ED2 00000001
+// P1 Infinite Special
+01301F9C 00000500
+// P1 No Special
+01301F9C 00000000
+// P2 Infinite Health
+013023D2 000000C8
+// P2 75% Health (Continued)
+013023D2 00000096
+// P2 50% Health (Continued)
+013023D2 00000064
+// P2 25% Health (Continued)
+013023D2 00000032
+// P2 One Hit Kill (Continued)
+013023D2 00000001
+// P2 Infinite Special
+0130249C 00000500
+// P2 No Special
+0130249C 00000000
+// Unlock Everything
+02301014 FFFFFFFF
+// Unlock Everything (Continued)
+02301018 FFFFFFFF
+// Unlock Everything (Continued)
+022FBF00 FFFFFFFF

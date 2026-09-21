@@ -1,0 +1,16 @@
+// Infinite Time
+01170D7C 00000004
+// Infinite Stamina P1
+0117177E 00004348
+// Infinite Health P1
+0117177A 00004348
+// Infinite Health P2
+011719CA 00004348
+// Infinite Stamina P2
+011719CE 00004348
+// Infinite Skill Points
+011A977C 0000270F
+// Unlock All Belts/Styles
+0216F5E8 003FFFFF
+// Unlock All Belts/Styles (Continued)
+0216F5EC 003FFFFF

@@ -1,0 +1,26 @@
+// Defender Codes-Infinite Lives P1
+00E65189 00000002
+// Defender Codes-Infinite Lives P2
+00E651C6 00000002
+// Defender Codes-Infinite Smart Bombs P1
+00E6518B 00000003
+// Defender Codes-Infinite Smart Bombs P2
+00E651C8 00000003
+// Defender 2 Codes-Infinite Lives P1
+00E66D9E 00000002
+// Defender 2 Codes-Infinite Lives P2
+00E66DDD 00000002
+// Defender 2 Codes-Infinite Smart Bombs P2
+00E66DDF 00000003
+// Defender 2 Codes-Infinite Smart Bombs P1
+00E66DA0 00000003
+// Joust Codes-Infinite Lives P1
+00E65011 00000004
+// Joust Codes-Infinite Lives P2
+00E6501B 00000004
+// Robotron Codes-Infinite Lives P1
+00E66DAC 00000002
+// Robotron Codes-Infinite Lives P2
+00E66DE8 00000002
+// Sinistar Codes-Infinite Lives
+00E64FBC 00000003

@@ -1,0 +1,4 @@
+// Infinite Money
+0170EC58 0000FFFF
+// Start On 2nd Lap (Continued)
+016B5BCC 00000002

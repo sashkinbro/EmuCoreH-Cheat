@@ -1,0 +1,96 @@
+// Unlock All Characters
+0228C420 FFFFFFFF
+// Unlock All Characters (Continued)
+0228C424 FFFFFFFF
+// Unlock All Characters (Continued)
+0228C430 FFFFFFFF
+// Unlock All Characters (Continued)
+0228C434 FFFFFFFF
+// Infinite Points
+01212C3E 0000270F
+// Max Experience
+01212C3C 00006363
+// P1 Infinite Health
+01268760 00000090
+// P1 No Health
+01268760 00000000
+// 75% Health P1 (Continued)
+01268760 0000006C
+// 50% Health P1 (Continued)
+01268760 00000048
+// 25% Health P1 (Continued)
+01268760 00000024
+// 1-Hit Death P1 (Continued)
+01268760 00000001
+// P2 Infinite Health
+01268D04 00000090
+// P2 No Health
+01268D04 00000000
+// 75% Health P2 (Continued)
+01268D04 0000006C
+// 50% Health P2 (Continued)
+01268D04 00000048
+// 25% Health P2 (Continued)
+01268D04 00000024
+// 1-Hit Death P2 (Continued)
+01268D04 00000001
+// Infinite Health P1 Partner 1
+012692A8 00000090
+// No Health P1 Partner 1
+012692A8 00000000
+// 75% Health P1 Partner 1 (Continued)
+012692A8 0000006C
+// 50% Health P1 Partner 1 (Continued)
+012692A8 00000048
+// 25% Health P1 Partner 1 (Continued)
+012692A8 00000024
+// 1-Hit Death P1 Partner 1 (Continued)
+012692A8 00000001
+// Infinite Health P1 Partner 2
+01269DF0 00000090
+// No Health P1 Partner 2
+01269DF0 00000000
+// 75% Health P1 Partner 2 (Continued)
+01269DF0 0000006C
+// 50% Health P1 Partner 2 (Continued)
+01269DF0 00000048
+// 25% Health P1 Partner 2 (Continued)
+01269DF0 00000024
+// 1-Hit Death P1 Partner 2 (Continued)
+01269DF0 00000001
+// Infinite Health P2 Partner 1
+0126984C 00000090
+// No Health P2 Partner 1
+0126984C 00000000
+// 75% Health P2 Partner 1 (Continued)
+0126984C 0000006C
+// 50% Health P2 Partner 1 (Continued)
+0126984C 00000048
+// 25% Health P2 Partner 1 (Continued)
+0126984C 00000024
+// 1-Hit Death P2 Partner 1 (Continued)
+0126984C 00000001
+// Infinite Health P2 Partner 2
+0126A394 00000090
+// No Health P2 Partner 2
+0126A394 00000000
+// 75% Health P2 Partner 2 (Continued)
+0126A394 0000006C
+// 50% Health P2 Partner 2 (Continued)
+0126A394 00000048
+// 25% Health P2 Partner 2 (Continued)
+0126A394 00000024
+// 1-Hit Death P2 Partner 2 (Continued)
+0126A394 00000001
+// P1 Combo Level Modifier (00-05) (Replace FF's with below code)
+0028964A 000000FF
+// P2 Combo Level Modifier (00-05) (Replace FF's with below code)
+0028964B 000000FF
+// P1 Max Special
+0028964A 00000005
+// P1 No Special
+0028964A 00000000
+// P2 Max Special
+0028964B 00000005
+// P2 No Special
+0028964B 00000000

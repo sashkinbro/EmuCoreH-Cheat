@@ -1,0 +1,112 @@
+// Infinite Time
+01328920 00000063
+// Wins Modifier P1 (Replace FF's with below code)
+01316250 0000FFFF
+// Infinite Health P1
+02316248 3F800000
+// No Health P1
+02316248 00000000
+// P1 Needs 1 Win To Win (Continued)
+0131626C 00000001
+// P1 Never Wins
+0131626C 00000000
+// P1 Character Modifier (Replace FF's with below code)
+013162B4 000000FF
+// P1 Play As Meat
+013162D4 00000001
+// Wins Modifier P2 (Replace FF's with below code)
+01316254 0000FFFF
+// Infinite Health P2
+0231624C 3F800000
+// No Health P2
+0231624C 00000000
+// P2 Needs 1 Win To Win (Continued)
+01316270 00000001
+// P2 Never Wins
+01316270 00000000
+// P2 Character Modifier (Replace FF's with below code)
+013162BC 000000FF
+// P2 Play As Meat
+013162D8 00000001
+// Danger Mode
+01336214 00000001
+// Easy Endings
+0133621C 00000001
+// High Punch Fatality
+01336220 00000001
+// Low Punch Fatality
+01336224 00000001
+// Down+High Punch Pit Fatality
+01336228 00000001
+// Kombat Kode Modifier (Replace FF's with below code)
+0133622C 000000FF
+// Character Modifier Codes
+01000000 00000000
+// 0F - Goro
+01000000 00000000
+// 11 - Noob Saibot
+01000000 00000000
+// 16 - Sektor
+01000000 00000000
+// Kombat Kode Modifier Code
+01000000 00000000
+// 00 - Nothing
+01000000 00000000
+// 01 - ?
+01000000 00000000
+// 02 - Throwing Disabled
+01000000 00000000
+// 03 - Max Damage Disabled
+01000000 00000000
+// 04 - Max Throw Disabled
+01000000 00000000
+// 05 - Unlimited Run
+01000000 00000000
+// 06 - Free Weapon
+01000000 00000000
+// 07 - Random Weapons
+01000000 00000000
+// 08 - Armed And Dangerous
+01000000 00000000
+// 09 - Many Weapons
+01000000 00000000
+// 0A - Silent Kombat
+01000000 00000000
+// 0B - Explosive Kombat
+01000000 00000000
+// 0C - No Power
+01000000 00000000
+// 0E - Weapon Kombat
+01000000 00000000
+// 0F - Noob Saibot Mode
+01000000 00000000
+// 10 - Red Rain
+01000000 00000000
+// 11 - Goro's Lair
+01000000 00000000
+// 12 - The Well
+01000000 00000000
+// 13 - ?
+01000000 00000000
+// 14 - The Tomb
+01000000 00000000
+// 15 - Wind World
+01000000 00000000
+// 16 - Reptile's Lair
+01000000 00000000
+// 17 - Shaolin Temple
+01000000 00000000
+// 18 - Living Forest
+01000000 00000000
+// 19 - Prison
+01000000 00000000
+// 1A - Ice Pit
+01000000 00000000
+// 1B - The Church
+01000000 00000000
+// 1C - ?
+01000000 00000000
+// 1D - The Soul Chamber
+01000000 00000000
+// 1E - Ladder Stage
+01000000 00000000

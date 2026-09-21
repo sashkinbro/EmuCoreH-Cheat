@@ -1,0 +1,44 @@
+// Always Place 1st P1
+013E04AC 00000000
+// Always Place 1st P1 (Continued)
+013AC53C 00000000
+// Always Place 1st P1 (Continued)
+014363DC 00000000
+// Infinite Time
+023AD13C 0000167F
+// Start On Lap 2 (Continued)
+013AC540 00000001
+// Enable Duck
+024449AC 00000001
+// Max Points
+0142ED90 0000FDE8
+// Total Time Is 0:00:00
+023AC55C 00000000
+// Infinite Timer-Hazards & Obstacles
+013AD13C 0000EE16
+// Max Points-Hazards & Obstacles
+0242ED90 0001869F
+// Championship Point Modifier-Ryan (Replace FF's with below code)
+003DC8F0 000000FF
+// Championship Point Modifier-Kate (Replace FF's with below code)
+003DC8F8 000000FF
+// Championship Point Modifier-Max (Replace FF's with below code)
+003DC900 000000FF
+// Championship Point Modifier-Yuki (Replace FF's with below code)
+003DC908 000000FF
+// Championship Point Modifier-Spike (Replace FF's with below code)
+003DC910 000000FF
+// Championship Point Modifier-Matt (Replace FF's with below code)
+003DC918 000000FF
+// Championship Point Modifier-Duck (Replace FF's with below code)
+003DC920 000000FF
+// Lap 1 Time Is 0:00:00
+023AC564 00000000
+// Lap 2 Time Is 0:00:00
+023AC568 00000000
+// Lap 3 Time Is 0:00:00
+023AC56C 00000000
+// All Heats Availible
+01444040 00000003
+// Enable Duck Heats
+01444324 00000001

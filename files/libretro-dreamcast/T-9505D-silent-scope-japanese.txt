@@ -1,0 +1,16 @@
+// Silent Scope (Import) Codes-Infinite Life
+011B068C 000000F0
+// Silent Scope (Import) Codes-Infinite Bullets
+011B06B6 00000005
+// Silent Scope (Import) Codes-Infinite Time
+011B05E6 000003E7
+// Silent Scope (Import) Codes-Infinite Credits
+011F30B4 00000005
+// Silent Scope (Import) Codes-Score Modifier (Replace FF's with below code)
+011B0668 0000FFFF
+// Silent Scope (Import) Codes-Max Score
+021B0668 05F5E0FF
+// Silent Scope (Import) Codes-Max Hits (Training)
+01267198 000003E7
+// Silent Scope (Import) Codes-Low Overall Time
+021B05E0 00000000

@@ -1,0 +1,232 @@
+// Tony Hawk Codes-Have 50 Video Tapes
+01186000 00000032
+// Tony Hawk Codes-Have Warehouse Tapes
+00186004 000000FF
+// Tony Hawk Codes-Have School Tapes
+00186005 000000FF
+// Tony Hawk Codes-Have All Mall Tapes
+00186006 000000FF
+// Tony Hawk Codes-Have Gold Medal Skate Park
+00186007 000000FF
+// Tony Hawk Codes-Have All Minneapolis Tapes
+00186008 000000FF
+// Tony Hawk Codes-Have All Downhill Jam Phoenix
+00186009 000000FF
+// Tony Hawk Codes-Have Gold Medal Burnside Portland
+0018600A 000000FF
+// Tony Hawk Codes-Have Streets Sanfrancisco Tapes
+0018600B 000000FF
+// Tony Hawk Codes-Have Gold Medal Roswell
+0018600C 000000FF
+// Bob Burnquist Codes-Have 50 Video Tapes
+0118600E 00000032
+// Bob Burnquist Codes-Have Warehouse Tapes
+00186012 000000FF
+// Bob Burnquist Codes-Have School Tapes
+00186013 000000FF
+// Bob Burnquist Codes-Have All Mall Tapes
+00186014 000000FF
+// Bob Burnquist Codes-Have Gold Medal Skate Park
+00186015 000000FF
+// Bob Burnquist Codes-Have All Minneapolis Tapes
+00186016 000000FF
+// Bob Burnquist Codes-Have All Downhill Jam Phoenix
+00186017 000000FF
+// Bob Burnquist Codes-Have Gold Medal Burnside Portland
+00186018 000000FF
+// Bob Burnquist Codes-Have Streets Sanfrancisco Tapes
+00186019 000000FF
+// Bob Burnquist Codes-Have Gold Medal Roswell
+0018601A 000000FF
+// Geoff Rowley Codes-Have 50 Video Tapes
+0118601C 00000032
+// Geoff Rowley Codes-Have Warehouse Tapes
+00186020 000000FF
+// Geoff Rowley Codes-Have School Tapes
+00186021 000000FF
+// Geoff Rowley Codes-Have All Mall Tapes
+00186022 000000FF
+// Geoff Rowley Codes-Have Gold Medal Skate Park
+00186023 000000FF
+// Geoff Rowley Codes-Have All Minneapolis Tapes
+00186024 000000FF
+// Geoff Rowley Codes-Have All Downhill Jam Phoenix
+00186025 000000FF
+// Geoff Rowley Codes-Have Gold Medal Burnside Portland
+00186026 000000FF
+// Geoff Rowley Codes-Have Streets Sanfrancisco Tapes
+00186027 000000FF
+// Geoff Rowley Codes-Have Gold Medal Roswell
+00186028 000000FF
+// Bucky Lasek Codes-Have 50 Video Tapes
+0118602A 00000032
+// Bucky Lasek Codes-Have Warehouse Tapes
+0018602E 000000FF
+// Bucky Lasek Codes-Have School Tapes
+0018602F 000000FF
+// Bucky Lasek Codes-Have All Mall Tapes
+00186030 000000FF
+// Bucky Lasek Codes-Have Gold Medal Skate Park
+00186031 000000FF
+// Bucky Lasek Codes-Have All Minneapolis Tapes
+00186032 000000FF
+// Bucky Lasek Codes-Have All Downhill Jam Phoenix
+00186033 000000FF
+// Bucky Lasek Codes-Have Gold Medal Burnside Portland
+00186034 000000FF
+// Bucky Lasek Codes-Have Streets Sanfrancisco Tapes
+00186035 000000FF
+// Bucky Lasek Codes-Have Gold Medal Roswell
+00186036 000000FF
+// Chad Muska Codes-Have 50 Video Tapes
+01186038 00000032
+// Chad Muska Codes-Have Warehouse Tapes
+0018603C 000000FF
+// Chad Muska Codes-Have School Tapes
+0018603D 000000FF
+// Chad Muska Codes-Have All Mall Tapes
+0018603E 000000FF
+// Chad Muska Codes-Have Gold Medal Skate Park
+0018603F 000000FF
+// Chad Muska Codes-Have All Minneapolis Tapes
+00186040 000000FF
+// Chad Muska Codes-Have All Downhill Jam Phoenix
+00186041 000000FF
+// Chad Muska Codes-Have Gold Medal Burnside Portland
+00186042 000000FF
+// Chad Muska Codes-Have Streets Sanfrancisco Tapes
+00186043 000000FF
+// Chad Muska Codes-Have Gold Medal Roswell
+00186044 000000FF
+// Kareem Campbell Codes-Have 50 Video Tapes
+01186046 00000032
+// Kareem Campbell Codes-Have Warehouse Tapes
+0018604A 000000FF
+// Kareem Campbell Codes-Have School Tapes
+0018604B 000000FF
+// Kareem Campbell Codes-Have All Mall Tapes
+0018604C 000000FF
+// Kareem Campbell Codes-Have Gold Medal Skate Park
+0018604D 000000FF
+// Kareem Campbell Codes-Have All Minneapolis Tapes
+0018604E 000000FF
+// Kareem Campbell Codes-Have All Downhill Jam Phoenix
+0018604F 000000FF
+// Kareem Campbell Codes-Have Gold Medal Burnside Portland
+00186050 000000FF
+// Kareem Campbell Codes-Have Streets Sanfrancisco Tapes
+00186051 000000FF
+// Kareem Campbell Codes-Have Gold Medal Roswell
+00186052 000000FF
+// Andrew Reynolds Codes-Have 50 Video Tapes
+01186054 000000FF
+// Andrew Reynolds Codes-Have Warehouse Tapes
+00186058 000000FF
+// Andrew Reynolds Codes-Have School Tapes
+00186059 000000FF
+// Andrew Reynolds Codes-Have All Mall Tapes
+0018605A 000000FF
+// Andrew Reynolds Codes-Have Gold Medal Skate Park
+0018605B 000000FF
+// Andrew Reynolds Codes-Have All Minneapolis Tapes
+0018605C 000000FF
+// Andrew Reynolds Codes-Have All Downhill Jam Phoenix
+0018605D 000000FF
+// Andrew Reynolds Codes-Have Gold Medal Burnside Portland
+0018605E 000000FF
+// Andrew Reynolds Codes-Have Streets Sanfrancisco Tapes
+0018605F 000000FF
+// Andrew Reynolds Codes-Have Gold Medal Roswell
+00186060 000000FF
+// Rune Glifberg Codes-Have 50 Video Tapes
+01186062 00000032
+// Rune Glifberg Codes-Have Warehouse Tapes
+00186066 000000FF
+// Rune Glifberg Codes-Have School Tapes
+00186067 000000FF
+// Rune Glifberg Codes-Have All Mall Tapes
+00186068 000000FF
+// Rune Glifberg Codes-Have Gold Medal Skate Park
+00186069 000000FF
+// Rune Glifberg Codes-Have All Minneapolis Tapes
+0018606A 000000FF
+// Rune Glifberg Codes-Have All Downhill Jam Phoenix
+0018606B 000000FF
+// Rune Glifberg Codes-Have Gold Medal Burnside Portland
+0018606C 000000FF
+// Rune Glifberg Codes-Have Streets Sanfrancisco Tapes
+0018606D 000000FF
+// Rune Glifberg Codes-Have Gold Medal Roswell
+0018606E 000000FF
+// Jamie Thomas Codes-Have 50 Video Tapes
+01186070 00000032
+// Jamie Thomas Codes-Have Warehouse Tapes
+00186074 000000FF
+// Jamie Thomas Codes-Have School Tapes
+00186075 000000FF
+// Jamie Thomas Codes-Have All Mall Tapes
+00186076 000000FF
+// Jamie Thomas Codes-Have Gold Medal Skate Park
+00186077 000000FF
+// Jamie Thomas Codes-Have All Minneapolis Tapes
+00186078 000000FF
+// Jamie Thomas Codes-Have All Downhill Jam Phoenix
+00186079 000000FF
+// Jamie Thomas Codes-Have Gold Medal Burnside Portland
+0018607A 000000FF
+// Jamie Thomas Codes-Have Streets Sanfrancisco Tapes
+0018607B 000000FF
+// Jamie Thomas Codes-Have Gold Medal Roswell
+0018607C 000000FF
+// Elissa Steamer Codes-Have 50 Video Tapes
+0118607E 00000032
+// Elissa Steamer Codes-Have Warehouse Tapes
+00186082 000000FF
+// Elissa Steamer Codes-Have School Tapes
+00186083 000000FF
+// Elissa Steamer Codes-Have All Mall Tapes
+00186084 000000FF
+// Elissa Steamer Codes-Have Gold Medal Skate Park
+00186085 000000FF
+// Elissa Steamer Codes-Have All Minneapolis Tapes
+00186086 000000FF
+// Elissa Steamer Codes-Have All Downhill Jam Phoenix
+00186087 000000FF
+// Elissa Steamer Codes-Have Gold Medal Burnside Portland
+00186088 000000FF
+// Elissa Steamer Codes-Have Streets Sanfrancisco Tapes
+00186089 000000FF
+// Elissa Steamer Codes-Have Gold Medal Roswell
+0018608A 000000FF
+// Officer Dick Codes-Have 50 Video Tapes
+0118608C 00000032
+// Officer Dick Codes-Have Warehouse Tapes
+00186090 000000FF
+// Officer Dick Codes-Have School Tapes
+00186091 000000FF
+// Officer Dick Codes-Have All Mall Tapes
+00186092 000000FF
+// Officer Dick Codes-Have Gold Medal Skate Park
+00186093 000000FF
+// Officer Dick Codes-Have All Minneapolis Tapes
+00186094 000000FF
+// Officer Dick Codes-Have All Downhill Jam Phoenix
+00186095 000000FF
+// Officer Dick Codes-Have Gold Medal Burnside Portland
+00186096 000000FF
+// Officer Dick Codes-Have Streets Sanfrancisco Tapes
+00186097 000000FF
+// Officer Dick Codes-Have Gold Medal Roswell
+00186098 000000FF
+// Misc. Codes-Level Select 
+01185E64 00000001
+// Misc. Codes-Random Start Locations Or Enabled Skip To Restart Locations
+01185E6C 00000001
+// Misc. Codes-Slo Mo Mode
+01185E7C 00000001
+// Misc. Codes-Ether Mode
+01185E7E 00000001
+// Misc. Codes-Big Head Mode
+01185E80 00000001
+// Misc. Codes-Full Special Meter
+01185E88 00000001

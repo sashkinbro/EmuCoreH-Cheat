@@ -1,0 +1,100 @@
+// Unlock T-2 Jet Trainer
+01010650 00000001
+// Unlock T-4 Jet Trainer
+0101066C 00000001
+// Unlock F-1 Support Fighter
+01010688 00000001
+// Unlock F-2A Support Fighter
+010106A4 00000001
+// Unlock F-2B Support Fighter
+010106C0 00000001
+// Unlock F-4J Navy Fighter
+010106DC 00000001
+// Unlock F-4EJ Fighter
+010106F8 00000001
+// Unlock F-4EJ+ Fighter
+01010714 00000001
+// Unlock F-15J Fighter
+01010730 00000001
+// Unlock F-15DJ Fighter
+0101074C 00000001
+// Unlock F-104J Fighter
+01010768 00000001
+// Unlock F-14A Navy Fighter
+010107A0 00000001
+// Unlock F-15A Fighter
+010107BC 00000001
+// Unlock F/A-18C Navy Fighter
+010107F4 00000001
+// Unlock F-15DJ Aggressor
+0101082C 00000001
+// Unlock F-16 Aggressor
+01010864 00000001
+// Unlock F-14A Testbed
+01010880 00000001
+// Unlock F-15DJ Aggressor 2
+0101089C 00000001
+// Unlock F/A-18C Aggressor
+010108B8 00000001
+// Unlock T-3 Special Color
+010108D4 00000001
+// Unlock XF-3 Super Recipro Fighter
+010108F0 00000001
+// Unlock Level 2
+014B8DC0 00000001
+// Unlock Level 3
+014B8DC4 00000001
+// Unlock Level 4
+014B8DC8 00000001
+// Unlock Level 5
+014B8DCC 00000001
+// Unlock Level 6
+014B8DD0 00000001
+// Unlock Level 7
+014B8DD4 00000001
+// Unlock Level 8
+014B8DD8 00000001
+// Unlock Level 9
+014B8DDC 00000001
+// Unlock Level 10
+014B8DE0 00000001
+// Unlock Level 11
+014B8DE4 00000001
+// Unlock Level 12
+014B8DE8 00000001
+// Unlock Level 13
+014B8DEC 00000001
+// Unlock Level 14
+014B8DF0 00000001
+// Unlock Level 15
+014B8DF4 00000001
+// Unlock Level 16
+014B8DF8 00000001
+// Unlock Level 17
+014B8DFC 00000001
+// Unlock Level 18
+014B8E00 00000001
+// Unlock Level 19
+014B8E04 00000001
+// Unlock Level 20
+014B8E08 00000001
+// Unlock Level 21
+014B8E0C 00000001
+// Unlock Level 22
+014B8E10 00000001
+// Unlock Level 23
+014B8E14 00000001
+// Unlock Level 24
+014B8E18 00000001
+// Unlock Level 25
+014B8E1C 00000001
+// Unlock Level 26
+014B8E20 00000001
+// Unlock Level 27
+014B8E24 00000001
+// Unlock Level 28
+014B8E28 00000001
+// Unlock Level 29
+014B8E2C 00000001
+// Unlock Level 30
+014B8E30 00000001

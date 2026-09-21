@@ -1,0 +1,4 @@
+// Infinite Money
+011AE120 0000FFFF
+// Enable All Cars
+011AE11E 00000001

@@ -1,0 +1,4 @@
+// Always P1 Turn
+01E23BF4 00000000
+// Always P2 Turn
+01E23BF4 00000001

@@ -1,0 +1,16 @@
+// Score Modifier (Replace FF's with below code)
+011B0808 0000FFFF
+// Max Score
+021B0808 05F5E0FF
+// Max Hits (Training)
+01267338 000003E7
+// Never Reload
+011B0856 00000005
+// Low Overall Time
+021B0780 00000000
+// Infinite Credits
+011F3254 00000005
+// Infinite Health
+011B082C 000000F0
+// Infinite Time
+011B0786 0000003B

@@ -1,0 +1,48 @@
+// All Level Codes-Infinite Armor
+01108E7C 00000009
+// All Level Codes-Infinite Armor (Continued)
+01109104 00000009
+// All Level Codes-Infinite Ammo (Primary Weapon)
+01107780 00000009
+// All Level Codes-Extra Ammo (Primary Weapon)
+0010777E 00000001
+// All Level Codes-Low Heat
+011073CC 00000009
+// All Level Codes-Low Heat (Continued)
+0110744A 00000009
+// All Level Codes-Low Barrel Heat
+01107992 00000009
+// All Level Codes-Infinite Ammo (Special)
+01107916 00000009
+// All Level Codes-Extra Ammo (Special)
+00107914 00000001
+// Level 1 Codes-Infinite Armor
+01776268 00000384
+// Level 1 Codes-Infinite Ammo Primary
+01776564 00000063
+// Level 1 Codes-Infinite Ammo Special
+01776568 00000063
+// Level 1 Codes-Low Heat
+0177655C 00000000
+// Level 1 Codes-Low Barrel Heat
+01776566 00000000
+// Level 2 Codes-Infinite Armor
+01830C48 00000384
+// Level 2 Codes-Infinite Ammo Primary
+01830F44 00000063
+// Level 2 Codes-Infinite Ammo Special
+01830F48 00000063
+// Level 2 Codes-Low Heat
+01830F3C 00000000
+// Level 2 Codes-Low Barrel Heat
+01830F46 00000000
+// Level 9 Codes-Infinite Ammo Primary
+019326C4 00000063
+// Level 9 Codes-Infinite Ammo Special
+019326C8 00000063
+// Level 9 Codes-Low Heat
+019326BC 00000000
+// Level 9 Codes-Low Barrel Heat
+019326C6 00000000
+// Level 9 Codes-Infinite Armor
+019323C8 00000384

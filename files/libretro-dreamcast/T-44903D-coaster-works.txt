@@ -1,0 +1,24 @@
+// Unlock All Parks (Continued)
+0012034B 00000003
+// Unlock All Parks (Continued)
+0112034C 00000303
+// Unlock All Parks (Continued)
+0112034E 00000303
+// Unlock All Parks (Continued)
+00120350 00000003
+// 999 Memory Loss Riders
+0111FA96 000003E7
+// 999 Blacked Out Riders
+0111FA98 000003E7
+// 999 Thrown Up Riders
+0111FA9A 000003E7
+// 999 Queasy Riders
+0111FA9C 000003E7
+// 99 MPH Score
+0111FA9E 0000009F
+// 10 G Score
+0111FAA0 00000064
+// 999 Thrill Score
+0111FAA2 000003E7
+// 999 Safety Score
+0111FAA4 000003E7

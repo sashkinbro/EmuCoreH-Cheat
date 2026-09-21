@@ -1,0 +1,28 @@
+// Arcade Mode Codes-Infinite Health P1
+014184F0 00000090
+// Arcade Mode Codes-Infinite Health P2
+0141890C 00000090
+// Arcade Mode Codes-No Health P1
+014184F0 00000000
+// Arcade Mode Codes-No Health P2
+0141890C 00000000
+// Arcade Mode Codes-75% Health P1 (Continued)
+014184F0 0000006C
+// Arcade Mode Codes-50% Health P1 (Continued)
+014184F0 00000048
+// Arcade Mode Codes-25% Health P1 (Continued)
+014184F0 00000024
+// Arcade Mode Codes-75% Health P2 (Continued)
+0141890C 0000006C
+// Arcade Mode Codes-50% Health P2 (Continued)
+0141890C 00000048
+// Arcade Mode Codes-25% Health P2 (Continued)
+0141890C 00000024
+// Arcade Mode Codes-Infinite Stand P1
+01418D28 00000050
+// Arcade Mode Codes-Infinite Stand P2
+01419144 00000050
+// Arcade Mode Codes-No Stand P1
+01418D28 00000000
+// Arcade Mode Codes-No Stand P2
+01419144 00000000

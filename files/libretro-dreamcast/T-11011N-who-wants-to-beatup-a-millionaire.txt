@@ -1,0 +1,8 @@
+// Infinite Fortune Cookies
+01EEE9F0 00000001
+// Infinite Chickens
+01EEE9F4 00000001
+// Infinite Ying Yangs
+01EEE9F8 00000001
+// Easy Beatings P1
+01EEE9E6 00000000

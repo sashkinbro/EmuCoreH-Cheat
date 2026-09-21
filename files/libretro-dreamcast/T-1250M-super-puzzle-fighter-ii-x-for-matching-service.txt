@@ -1,0 +1,12 @@
+// P1 Always Wins (Press the L Trigger) (Continued)
+0160010C 00000001
+// P1 Max Score
+026004AC 0098967F
+// P2 Always Wins (Press the L Trigger) (Continued)
+0160010C 00000002
+// P2 Max Score
+026008AC 0098967F
+// P1 Score Modifier (Replace FF's with below code)
+016004AC 0000FFFF
+// P2 Score Modifier (Replace FF's with below code)
+016008AC 0000FFFF

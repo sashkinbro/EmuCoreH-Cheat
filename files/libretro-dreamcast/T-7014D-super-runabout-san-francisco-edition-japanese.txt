@@ -1,0 +1,4 @@
+// Infinite Time
+02D3E290 00003832
+// Low Clear Time
+02D3E294 00000140

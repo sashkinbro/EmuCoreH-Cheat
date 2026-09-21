@@ -1,0 +1,40 @@
+// Whoville Codes-Have All Shuffling The 05Mail
+00621D48 00000005
+// Whoville Codes-Have All Snowmen Smashed
+00621D26 0000000A
+// Whoville Codes-Have Painting The Mayors Posters
+00621D27 0000000A
+// Whoville Codes-Have Launching Eggs Into Houses
+00621D28 0000000A
+// Whoville Codes-Have All Squashing All Gifts
+01621CBC 000001F4
+// WhoForest Codes-Have Making Xmas Trees Droop
+00621D29 0000000A
+// WhoForest Codes-Have Replacing The Candles On The Cake
+00621D2A 0000000A
+// WhoForest Codes-Putting Beehives In Cabins
+00621D2B 0000000A
+// WhoForest Codes-Have All Squashing All Gifts
+01621CBE 000002EE
+// The Dump Missions Codes-Have Stealing Food From Birds
+00621D2C 0000000A
+// The Dump Missions Codes-Have Feeding The Computer With Robot Parts
+00621D2D 0000000A
+// The Dump Missions Codes-Have Conducting The Stinky Gas To WhoBris Shack
+00621D2E 0000000A
+// The Dump Missions Codes-Have All Squashing All Gifts
+01621CC0 000002EE
+// Wholake Codes-Have All Putting Thistles In Shorts
+00621D46 0000000A
+// Wholake Codes-Have All Sabotaging The Tents
+00621D47 0000000A
+// Wholake Codes-Have All Squashing All Gifts
+01621CC2 000003E8
+// Wholake Codes-All Gifts Broken
+01621CBA 00000BB8
+// Wholake Codes-All Gifts Broken (Continued)
+02621CBC 02EE01F4
+// Wholake Codes-All Gifts Broken (Continued)
+02621CC0 03E802EE
+// Wholake Codes-Max Rotten Eggs
+01621CB8 000000C8

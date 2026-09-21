@@ -1,0 +1,28 @@
+// P1 Infinite Lives
+0064232C 00000003
+// P1 Infinite Force Bombs
+0064233C 00000003
+// P2 Infinite Lives
+00642330 00000003
+// P2 Infinite Force Bombs
+00642340 00000003
+// P3 Infinite Lives
+00642334 00000003
+// P3 Infinite Force Bombs
+00642344 00000003
+// P4 Infinite Lives
+00642338 00000003
+// P4 Infinite Force Bombs
+00642348 00000003
+// Hella Score Multiplier
+016421F8 0000FFFF
+// Hella Score Multiplier (Continued)
+01642278 0000FFFF
+// Have All Gallery Pics (Continued)
+0121C120 0000FFFF
+// All Stages Unlocked (Score Attack)
+0021AD5C 00000006
+// Unlock All Secret Options
+0021C124 000000FF
+// Unlock All Ships
+0164FCB8 000003E0

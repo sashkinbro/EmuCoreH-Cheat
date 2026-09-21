@@ -1,0 +1,6 @@
+// Infinite Afterburners (Continued)
+015FF3D4 00006400
+// Infinite Counters (Continued)
+015FF3D8 00000032
+// Have Hella Kills (Continued)
+01DF0570 000003E7

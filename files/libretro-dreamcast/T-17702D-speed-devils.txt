@@ -1,0 +1,4 @@
+// Infinite Money
+0116A838 0000FFFF
+// Infinite Points
+0116A83C 0000FFFF
