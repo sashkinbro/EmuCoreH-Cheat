@@ -1,0 +1,14 @@
+// Able To Save Unbeatable Custom Puzzles (Continued)
+010330C0 00000009
+// Normal Battle Mode Codes-P1 Mice Modifier (Replace FF's with below code)
+011AF500 0000FFFF
+// Normal Battle Mode Codes-P2 Mice Modifier (Replace FF's with below code)
+011AF504 0000FFFF
+// Normal Battle Mode Codes-P3 Mice Modifier (Replace FF's with below code)
+011AF508 0000FFFF
+// Normal Battle Mode Codes-P4 Mice Modifier (Replace FF's with below code)
+011AF50C 0000FFFF
+// Team Battle Mode Codes-Team 1 Mice Modifier (Replace FF's with below code)
+011AF520 0000FFFF
+// Team Battle Mode Codes-Team 2 Mice Modifier (Replace FF's with below code)
+011AF524 0000FFFF

@@ -1,0 +1,18 @@
+// Always First
+01341DC0 00000000
+// Start On Last Lap
+01261DE4 00000002
+// Start On Last Lap (Continued)
+012628E8 00000001
+// Stop Countdown Timer
+01044ACC 00000009
+// Time Is 0:00:00
+01044AF0 00000009
+// Time Is 0:00:00 (Continued)
+01030352 00000009
+// Reverse Countdown Timer
+01044ACA 00007301
+// Unlock All Cars
+0128E0F0 0000FFFF
+// Turbo Boost (Press A) (Continued)
+01341D86 00003FFF

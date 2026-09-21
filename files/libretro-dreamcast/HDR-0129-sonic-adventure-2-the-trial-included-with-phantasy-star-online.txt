@@ -1,0 +1,18 @@
+// Infinite Lives
+010AE87C 00000009
+// Extra Lives
+01049DD0 00007101
+// Max Rings
+010AE880 000003E7
+// Rings Worth Modifier (Replace FF's with below code)
+01049E8E 000073FF
+// Score Modifier (Replace FF's with below code)
+010AE89C 0000FFFF
+// Max Score
+020AE89C 05F5E0FF
+// Minutes Modifier (Replace FF's with below code)
+000AE852 000000FF
+// Seconds Modifier (Replace FF's with below code)
+000AE853 000000FF
+// Centi-seconds Modifier (Replace FF's with below code)
+000AE854 000000FF

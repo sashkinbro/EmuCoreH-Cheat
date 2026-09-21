@@ -1,0 +1,18 @@
+// Infinite Game Time
+011EC4B4 00000980
+// Max Cash
+021EC4C8 0098967F
+// Max Fare
+022A641C 000F423F
+// Infinite Passenger Time
+011EC4EC 00000589
+// Disable Arrow Indicators
+002A5014 00000001
+// Disable Distination Indicators
+002A5010 00000001
+// Enable Expert Mode
+002A5010 00000001
+// Enable Expert Mode (Continued)
+002A5014 00000001
+// Crazy Box Finished+Enable The Bike
+01288204 0000FFFF

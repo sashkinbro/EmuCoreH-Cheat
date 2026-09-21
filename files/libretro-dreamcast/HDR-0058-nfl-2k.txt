@@ -1,0 +1,74 @@
+// Away Team Score Modifier (Replace FF's with below code)
+017947E0 0000FFFF
+// Away Team Infinite Time-Outs
+017947E4 00000003
+// Away Team No Time-Outs
+017947E4 00000000
+// Home Team Score Modifier (Replace FF's with below code)
+017947F0 0000FFFF
+// Home Team Infinite Time-Outs
+017947F4 00000003
+// Home Team No Time-Outs
+017947F4 00000000
+// Touch Down's Score Modifier (Replace FF's with below code)
+0013F108 000000FF
+// Extra Point's Score Modifier (Replace FF's with below code)
+0013E148 000000FF
+// 2-Point Conversion's Score Modifier (Replace FF's with below code)
+0013E1A8 000000FF
+// Safety's Score Modifier (Replace FF's with below code)
+0013E20A 000000FF
+// Field Goal's Score Modifier (Replace FF's with below code)
+0013E2A6 000000FF
+// Character Creation Codes-Max Speed
+0275834C 3F800000
+// Character Creation Codes-Max Agility
+02758350 3F800000
+// Character Creation Codes-Max Jumping
+02758354 3F800000
+// Character Creation Codes-Max Upper Body Strength
+02758358 3F800000
+// Character Creation Codes-Max Lower Body Strength
+0275835C 3F800000
+// Character Creation Codes-Max Hold On To Ball
+02758368 3F800000
+// Character Creation Codes-Max Break Tackle
+0275836C 3F800000
+// Character Creation Codes-Max Aggressiveness
+02758380 3F800000
+// Character Creation Codes-Max Pass Fake Ability/Pass Accuracy
+02758388 3F800000
+// Character Creation Codes-Max Pass Arm Strength
+0275838C 3F800000
+// Character Creation Codes-Max Pass Read Coverage
+02758390 3F800000
+// Character Creation Codes-Max BallHandler Power Moves
+02758394 3F800000
+// Character Creation Codes-Max BallHandler Finesse Moves/Run Fake Ability
+02758398 3F800000
+// Character Creation Codes-Max Catch
+0275839C 3F800000
+// Character Creation Codes-Max Get Open Run Route
+027583A0 3F800000
+// Character Creation Codes-Max Run Blocking
+027583A4 3F800000
+// Character Creation Codes-Max Pass Blocking
+027583A8 3F800000
+// Character Creation Codes-Max Tackle
+027583AC 3F800000
+// Character Creation Codes-Max Def Pass Rush
+027583B0 3F800000
+// Character Creation Codes-Max Def Run Support
+027583B4 3F800000
+// Character Creation Codes-Max Block
+027583B8 3F800000
+// Character Creation Codes-Max Coverage
+027583BC 3F800000
+// Character Creation Codes-Max Kick Power
+027583C0 3F800000
+// Character Creation Codes-Max Kick Accuracy
+027583C4 3F800000
+// Character Creation Codes-Max Punt Power
+027583CC 3F800000
+// Character Creation Codes-Max Punt Accuracy
+027583D0 3F800000

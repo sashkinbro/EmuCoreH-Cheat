@@ -1,0 +1,22 @@
+// Infinite Credits
+0127CA40 00000005
+// Max Money
+024F18B0 000F423F
+// Max Points
+024F1888 000F423F
+// Unlock All Extras
+022783FC FFFFFFFF
+// Unlock All Titles
+02278400 FFFFFFFF
+// 20 Baskets-3 Point Shoot Out
+015221FC 00000014
+// 99 Hits-Computer Practice
+015200D4 00000063
+// Max Running Bar-Touchdown Derby
+025218E4 0000FFFF
+// Max Touchdowns-Touchdown Derby
+01521808 00000002
+// Max Touchdowns-Touchdown Derby (Continued)
+0152180C 00000000
+// Max Points-Long Shoot
+0252186C 000F423F

@@ -1,0 +1,10 @@
+// Infinite Cash
+0224CA38 05F5E0FF
+// Infinite Health Eliot
+0124CCC8 00000032
+// Infinite Health Dog
+0124CCCA 00000032
+// Infinite Pistol Ammo
+0124CC98 0000000F
+// Infinite Arrows Dog
+0124CCB2 00000006

@@ -1,0 +1,14 @@
+// Stop Game Time
+0101DD40 00000009
+// Infinite Passenger Time
+011EADE8 000007FF
+// Max Fare
+022B1034 0098967F
+// Max Total Earned
+022B102C 05F5E0FF
+// Crazy Pyramid Complete
+0228CEAC FFFFFFFF
+// Unlock All Cabbies, Maps & Vehicles
+0028CE98 000000FF
+// Crazy Speed (Press B) (Continued)
+01173B1A 000045FF

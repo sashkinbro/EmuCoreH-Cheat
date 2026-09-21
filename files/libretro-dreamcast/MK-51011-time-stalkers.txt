@@ -1,0 +1,4 @@
+// Infinite Money
+01378108 0000FFFF
+// Infinite Hunger Meter
+012E5A9A 00000009

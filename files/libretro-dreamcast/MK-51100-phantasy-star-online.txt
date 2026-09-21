@@ -1,0 +1,966 @@
+// Infinite HP
+02043020 0009412B
+// Infinite HP (Continued)
+0204301C 84CC0601
+// Infinite HP (Continued)
+02007018 A4E30F4F
+// Infinite HP (Continued)
+02043024 A4810E0F
+// Infinite HP (Continued)
+0200700C 8CF2AFA1
+// Infinite HP (Continued)
+02007014 A6A2DBEF
+// Infinite HP (Continued)
+02007004 4CF3180E
+// Infinite HP (Continued)
+02007010 0009412B
+// Infinite HP (Continued)
+02007000 0F74062D
+// Infinite HP (Continued)
+02007008 89429864
+// Infinite HP & 1-Hit Enemy Death 
+0204301C 84CC0601
+// Infinite HP & 1-Hit Enemy Death  (Continued)
+02007018 A4E30F4F
+// Infinite HP & 1-Hit Enemy Death  (Continued)
+02043024 A4810E0F
+// Infinite HP & 1-Hit Enemy Death  (Continued)
+0200700C 8CF2AFA1
+// Infinite HP & 1-Hit Enemy Death  (Continued)
+02007014 A6A2DBEF
+// Infinite HP & 1-Hit Enemy Death  (Continued)
+02007004 4CF3180E
+// Infinite HP & 1-Hit Enemy Death  (Continued)
+02007010 0009412B
+// Infinite HP & 1-Hit Enemy Death  (Continued)
+02007000 0F74062D
+// Infinite HP & 1-Hit Enemy Death  (Continued)
+02043020 0009412B
+// Infinite HP & 1-Hit Enemy Death  (Continued)
+02007008 0C829861
+// Infinite TP
+011C50CE 00000009
+// Super Stats Multiple Modifier (00-32)  (Replace FF's with below code)
+01022DC2 000070FF
+// Money Doesnt Go Down
+010431E0 00000009
+// Drop Money, Or Buy Something, To Gain More
+010431DE 0000305C
+// All Items In Shops Are Free 
+01148BDA 0000E000
+// Infinite Item Usage
+010D27EA 00000009
+// Infinite Item Usage (Continued)
+01150386 00000009
+// Infinite Item Usage (Continued)
+0115038E 00000009
+// Infinite Item Usage (Continued)
+01150390 00000009
+// Extra Items
+010D27E8 0000315C
+// Level 100 After 1 Battle
+01027EAA 00001437
+// Gain Exp Modifier Per Battle
+01027E8C 00009E55
+// Gain Exp Modifier Per Battle (Continued)
+01027E96 00006EED
+// Gain Exp Modifier Per Battle (Continued) (Replace FF's with below code)
+01027F3A 0000FFFF
+// Save To A Different Memory Card 
+01162472 00000018
+// Save To A Different Memory Card  (Continued)
+011621AC 00000008
+// Save To A Different Memory Card  (Continued)
+011621B8 00000018
+// Saved Time Modifier (In Seconds)
+02160CDC 6402D301
+// Saved Time Modifier (In Seconds) (Continued)
+02160CE0 0009A002
+// Saved Time Modifier (In Seconds) (Continued) (Replace FF's with below code)
+02160CE4 00FFFFFF
+// Have All Max Level Techniques (Not Saveable)
+0118AF1C 0000E00E
+// Have All Max Level Techniques (Not Saveable) (Continued)
+011C4F46 0000E00E
+// Have All Max Level Techniques (Not Saveable) (Continued)
+0118634A 0000E00E
+// Have All Max Level Techniques (Not Saveable) (Continued)
+01186398 0000EE0E
+// Have All Max Level Techniques (Not Saveable) (Continued)
+0118B1D6 0000E50E
+// Have All Max Level Techniques (Not Saveable) (Continued)
+010C5344 0000E50E
+// Have All Max Level Techniques 
+020351B8 0414E10E
+// Have All Max Level Techniques  (Continued)
+010351BC 00006033
+// All Difficulty Levels Open Offline
+010D77F8 00000008
+// All Difficulty Levels Open Offline (Continued)
+010D7E0C 00000008
+// All Difficulty Levels Open Offline (Continued)
+010D7E46 00000008
+// God Of Equip/Items/Techniques 
+0113C6BA 00000018
+// God Of Equip/Items/Techniques  (Continued)
+011C4AC8 00000008
+// God Of Equip/Items/Techniques  (Continued)
+011C525E 00000008
+// God Of Grinding 
+010691E6 00000008
+// Grind Weapon To Change Its Attribute 
+01069208 000001C6
+// Walk Thru Walls/Doors
+010230D2 00000018
+// Walk Thru Walls/Doors (Continued)
+0102311A 00000008
+// Walk Thru Walls/Doors (Continued)
+010231E4 00000018
+// Walk Thru Walls/Doors (Continued)
+01023308 00000018
+// Walk Thru Walls/Doors (Continued)
+01023362 00000008
+// Walk Thru Walls/Doors (Continued)
+0102342C 00000018
+// Walk Thru Walls/Doors (Continued)
+0104A05E 00000018
+// Attack Anything, Or Get Hit Once For Max Photon Blast
+02163310 81119013
+// Able To Play 'Greyed Out' Jobs At Hunters Guild
+011A95F0 00000018
+// Cant Drop Weapons 
+010215AA 00000018
+// Target NPC's With Any Technique From Technique Menu (In Level Or Town) 
+010C5688 00000000
+// Target NPC's With Any Technique From Technique Menu (In Level Or Town)  (Continued)
+020C568C 10000000
+// Target NPC's With Any Technique From Technique Menu (In Level Or Town)  (Continued)
+010C50D0 0000E102
+// Target NPC's With Any Technique From Technique Menu (In Level Or Town)  (Continued)
+010C5842 00000008
+// Target NPC's With Any Technique From Technique Menu (In Level Or Town)  (Continued)
+020C539C 0009EA0F
+// Mag Codes-Always Give Items To MAG 
+0116E5DC 0000E840
+// Mag Codes-Give Mag 1 Item To Level Up DEF
+011DF4BC 0000EE64
+// Mag Codes-Give Mag 1 Item To Level Up POW
+011DF564 0000EE64
+// Mag Codes-Give Mag 1 Item To Level Up DEX
+011DF60C 0000EE64
+// Mag Codes-Give Mag 1 Item To Level Up MIND
+011DF6B4 0000EE64
+// Mag Codes-Give Mag 1 Item For Max DEF
+011DF522 0000E014
+// Mag Codes-Give Mag 1 Item For Max DEF (Continued)
+021DF524 70884018
+// Mag Codes-Give Mag 1 Item For Max POW
+011DF5CA 0000E014
+// Mag Codes-Give Mag 1 Item For Max POW (Continued)
+021DF5CC 70884018
+// Mag Codes-Give Mag 1 Item For Max DEX
+011DF672 0000E014
+// Mag Codes-Give Mag 1 Item For Max DEX (Continued)
+021DF674 70884018
+// Mag Codes-Give Mag 1 Item For Max MIND
+011DF71A 0000E014
+// Mag Codes-Give Mag 1 Item For Max MIND (Continued)
+021DF71C 70884018
+// Mag Codes-Enable Special Events Mode Modifier  (Replace FF's with below code)
+010189DE 0000E0FF
+// Mag Codes-Anti-Resta PK/All Healing Fills You To Your Max
+0104304A 0000014D
+// Have Difficulty Cleared Codes  -Normal
+02493E80 C2CB1201
+// Have Difficulty Cleared Codes  -Normal (Continued)
+02493E84 00BDFFC0
+// Have Difficulty Cleared Codes  -Hard
+02493F00 C2CB1201
+// Have Difficulty Cleared Codes  -Hard (Continued)
+02493F04 00BDFFC0
+// Have Difficulty Cleared Codes  -Very Hard
+02493F80 C2CB1201
+// Have Difficulty Cleared Codes  -Very Hard (Continued)
+02493F84 00BDFFC0
+// By far one of the most wanted codes for this game. You must agree to the following: GSCCC is not responsible for lost data and/or misuse of the code, as with all codes of this nature, there could be a bug, but we have tried to work everything out. Here's how to use this code.-Super Item Usage/Duplication
+010D27EA 00000009
+// By far one of the most wanted codes for this game. You must agree to the following: GSCCC is not responsible for lost data and/or misuse of the code, as with all codes of this nature, there could be a bug, but we have tried to work everything out. Here's how to use this code.-Super Item Usage/Duplication (Continued)
+01150386 00000009
+// By far one of the most wanted codes for this game. You must agree to the following: GSCCC is not responsible for lost data and/or misuse of the code, as with all codes of this nature, there could be a bug, but we have tried to work everything out. Here's how to use this code.-Super Item Usage/Duplication (Continued)
+0115038E 00000009
+// By far one of the most wanted codes for this game. You must agree to the following: GSCCC is not responsible for lost data and/or misuse of the code, as with all codes of this nature, there could be a bug, but we have tried to work everything out. Here's how to use this code.-Super Item Usage/Duplication (Continued)
+01150390 00000009
+// By far one of the most wanted codes for this game. You must agree to the following: GSCCC is not responsible for lost data and/or misuse of the code, as with all codes of this nature, there could be a bug, but we have tried to work everything out. Here's how to use this code.-Super Item Usage/Duplication (Continued)
+01150478 00000009
+// By far one of the most wanted codes for this game. You must agree to the following: GSCCC is not responsible for lost data and/or misuse of the code, as with all codes of this nature, there could be a bug, but we have tried to work everything out. Here's how to use this code.-Super Item Usage/Duplication (Continued)
+0115047A 00000009
+// By far one of the most wanted codes for this game. You must agree to the following: GSCCC is not responsible for lost data and/or misuse of the code, as with all codes of this nature, there could be a bug, but we have tried to work everything out. Here's how to use this code.-Super Item Usage/Duplication (Continued)
+011E19F2 00000009
+// Saved Time Modifier Code
+01000000 00000000
+// 000000 - 0 Hours, 0 Minutes & 0 Seconds
+01000000 00000000
+// 004650 - 5 Hours, 0 Minutes & 0 Seconds
+01000000 00000000
+// 008CA0 - 10 Hours, 0 Minutes & 0 Seconds
+01000000 00000000
+// 011940 - 20 Hours, 0 Minutes & 0 Seconds
+01000000 00000000
+// 023280 - 40 Hours, 0 Minutes & 0 Seconds
+01000000 00000000
+// 046500 -  80 Hours, 0 Minutes & 0 Seconds
+01000000 00000000
+// 08CA00 - 160 Hours, 0 Minutes & 0 Seconds
+01000000 00000000
+// 119400 - 320 Hours, 0 Minutes & 0 Seconds
+01000000 00000000
+// 36EE7F - 999 Hours, 59 Minutes & 59 Seconds
+01000000 00000000
+// Custom - To make your own, take the number of hours you want times 3600 and add it to the number of minutes you want times 60 and finally add the number of seconds you want for your final total. Then convert that decimal number to hex and there you have the digits to use in place of the ??????.
+01000000 00000000
+// Item Modifier Code
+01000000 00000000
+// 000100 - Saber
+01000000 00000000
+// 010100 - Brand
+01000000 00000000
+// 020100 - Buster
+01000000 00000000
+// 030100 - Pallasch
+01000000 00000000
+// 040100 - Gladius
+01000000 00000000
+// 050100 - DB's SABER
+01000000 00000000
+// 060100 - KALADGOLG
+01000000 00000000
+// 070100 - DURANDAL
+01000000 00000000
+// 000200 - Sword
+01000000 00000000
+// 010200 - Gigush
+01000000 00000000
+// 020200 - Breaker
+01000000 00000000
+// 030200 - Claymore
+01000000 00000000
+// 040200 - Calibur
+01000000 00000000
+// 050200 - FLOWEN'S SWORD
+01000000 00000000
+// 060200 - LAST SURVIVOR
+01000000 00000000
+// 070200 - DRAGON SLAYER
+01000000 00000000
+// 000300 - Dagger
+01000000 00000000
+// 010300 - Knife
+01000000 00000000
+// 020300 - Blade
+01000000 00000000
+// 030300 - Edge
+01000000 00000000
+// 040300 - Ripper
+01000000 00000000
+// 050300 - BLADE DANCE
+01000000 00000000
+// 060300 - BLOODY ART
+01000000 00000000
+// 070300 - CROSS SCAR
+01000000 00000000
+// 000400 - Partisan
+01000000 00000000
+// 010400 - Halbert
+01000000 00000000
+// 020400 - Glaive
+01000000 00000000
+// 030400 - Berdys
+01000000 00000000
+// 040400 - Gungnir
+01000000 00000000
+// 050400 - BRIONAC
+01000000 00000000
+// 060400 - VJAYA
+01000000 00000000
+// 070400 - GAE BOLG
+01000000 00000000
+// 000500 - Slicer
+01000000 00000000
+// 010500 - Spinner
+01000000 00000000
+// 020500 - Cutter
+01000000 00000000
+// 030500 - Sawcer
+01000000 00000000
+// 040500 - Diska
+01000000 00000000
+// 050500 - SLICER OF ASSASSIN
+01000000 00000000
+// 060500 - DISKA OF LIBERATOR
+01000000 00000000
+// 070500 - DISKA OF BRAVEMEN
+01000000 00000000
+// 000600 - Handgun
+01000000 00000000
+// 010600 - Autogun
+01000000 00000000
+// 020600 - Lockgun
+01000000 00000000
+// 030600 - Railgun
+01000000 00000000
+// 040600 - Raygun
+01000000 00000000
+// 050600 - VARISTA
+01000000 00000000
+// 060600 - CUSTOM RAY Ver.00
+01000000 00000000
+// 070600 - BRAVACE
+01000000 00000000
+// 000700 - Rifle
+01000000 00000000
+// 010700 - Sniper
+01000000 00000000
+// 020700 - Blaster
+01000000 00000000
+// 030700 - Beam
+01000000 00000000
+// 040700 - Laser
+01000000 00000000
+// 050700 - VISK'235W
+01000000 00000000
+// 060700 - WALS'MK2
+01000000 00000000
+// 070700 - JUSTY'23ST
+01000000 00000000
+// 000800 - Mechgun
+01000000 00000000
+// 010800 - Assault
+01000000 00000000
+// 020800 - Repeater
+01000000 00000000
+// 030800 - Gatling
+01000000 00000000
+// 040800 - Vulcan
+01000000 00000000
+// 050800 - M&A60 VISE
+01000000 00000000
+// 060800 - H&S25 JUSTICE
+01000000 00000000
+// 070800 - L&K15 COMBAT
+01000000 00000000
+// 000900 - Shot
+01000000 00000000
+// 010900 - Spread
+01000000 00000000
+// 020900 - Cannon
+01000000 00000000
+// 030900 - Launcher
+01000000 00000000
+// 040900 - Arms
+01000000 00000000
+// 050900 - CRUSH BULLET
+01000000 00000000
+// 060900 - METEOR SMASH
+01000000 00000000
+// 070900 - FINAL IMPACT
+01000000 00000000
+// 000A00 - Cane
+01000000 00000000
+// 010A00 - Stick
+01000000 00000000
+// 020A00 - Mace
+01000000 00000000
+// 030A00 - Club
+01000000 00000000
+// 040A00 - CLUB OF LACONIUM
+01000000 00000000
+// 050A00 - MACE OF ADAMAN
+01000000 00000000
+// 060A00 - CLUB OF ZUMIURAN
+01000000 00000000
+// 000B00 - Rod
+01000000 00000000
+// 010B00 - Pole
+01000000 00000000
+// 020B00 - Pillar
+01000000 00000000
+// 030B00 - Striker
+01000000 00000000
+// 040B00 - BATTLE VERGE
+01000000 00000000
+// 050B00 - BRAVE HAMMER
+01000000 00000000
+// 060B00 - ALIVE AQHU
+01000000 00000000
+// 000C00 - Wand
+01000000 00000000
+// 010C00 - Staff
+01000000 00000000
+// 020C00 - Baton
+01000000 00000000
+// 030C00 - Scepter
+01000000 00000000
+// 040C00 - FIRE SCEPTER:AGNI
+01000000 00000000
+// 050C00 - ICE STAFF:DAGON
+01000000 00000000
+// 060C00 - STORM VAND:INDRA
+01000000 00000000
+// 000D00 - PHOTON CLAW
+01000000 00000000
+// 010D00 - SILENCE CLAW
+01000000 00000000
+// 000E00 - DOUBLE SABER
+01000000 00000000
+// 010E00 - STAG CUTLERY
+01000000 00000000
+// 020E00 - TWIN BRAND
+01000000 00000000
+// 000F00 - BRAVE KNUCKLE
+01000000 00000000
+// 010F00 - ANGRY FIST
+01000000 00000000
+// 020F00 - GOD HAND
+01000000 00000000
+// 030F00 - SONIC KNUCKLE
+01000000 00000000
+// 001000 - OROTIAGITO
+01000000 00000000
+// 011000 - AGITO (1975 Dousetsu - real)
+01000000 00000000
+// 021000 - AGITO (1983 Dousetsu)
+01000000 00000000
+// 031000 - AGITO (2001 Kikoku)
+01000000 00000000
+// 041000 - AGITO (1991 Kikoku)
+01000000 00000000
+// 051000 - AGITO (1977 Jou'un)
+01000000 00000000
+// 061000 - AGITO (1980 Tengai)
+01000000 00000000
+// 001100 - SOUL EATER
+01000000 00000000
+// 011100 - SOUL BANISH
+01000000 00000000
+// 001200 - SPREAD NEEDLE
+01000000 00000000
+// 001300 - HOLY RAY
+01000000 00000000
+// 001400 - INFERNO BAZOOKA
+01000000 00000000
+// 001500 - FLAME VISIT
+01000000 00000000
+// 001600 - AKIKO'S FRYING PAN
+01000000 00000000
+// 001700 - C-SORCERER'S CANE
+01000000 00000000
+// 001800 - S-BEAT'S BLADE
+01000000 00000000
+// 001900 - P-ARMS'S BLADE
+01000000 00000000
+// 001A00 - DELSABER'S BUSTER
+01000000 00000000
+// 001B00 - C-BRINGER'S RIFLE
+01000000 00000000
+// 001D00 - PSYCHO WAND
+01000000 00000000
+// 001E00 - HEAVEN PUNISHER
+01000000 00000000
+// 001F00 - LAVIS CANNON
+01000000 00000000
+// 002000 - VICTOR AXE
+01000000 00000000
+// 002100 - CHAIN SAWD
+01000000 00000000
+// 002200 - CADUCEUS
+01000000 00000000
+// 002300 - STING TIP
+01000000 00000000
+// 002400 - MAGICAL PIECE
+01000000 00000000
+// 002500 - TECHNICAL CROZIER
+01000000 00000000
+// 002600 - SUPPRESSED GUN
+01000000 00000000
+// 000101 - Frame
+01000000 00000000
+// 010101 - Armor
+01000000 00000000
+// 020101 - Psy Armor
+01000000 00000000
+// 030101 - Giga Frame
+01000000 00000000
+// 040101 - Soul Frame
+01000000 00000000
+// 050101 - Cross Armor
+01000000 00000000
+// 060101 - Solid Frame
+01000000 00000000
+// 070101 - Brave Armor
+01000000 00000000
+// 080101 - Hyper Frame
+01000000 00000000
+// 090101 - Grand Armor
+01000000 00000000
+// 0A0101 - Shock Frame
+01000000 00000000
+// 0B0101 - King's Frame
+01000000 00000000
+// 0C0101 - Dragon Frame
+01000000 00000000
+// 0D0101 - Absorb Armor
+01000000 00000000
+// 0E0101 - Protect Frame
+01000000 00000000
+// 0F0101 - General Armor
+01000000 00000000
+// 100101 - Perfect Frame
+01000000 00000000
+// 110101 - Valiant Frame
+01000000 00000000
+// 120101 - Imperial Armor
+01000000 00000000
+// 130101 - Holiness Armor
+01000000 00000000
+// 140101 - Guardian Armor
+01000000 00000000
+// 150101 - Divinity Armor
+01000000 00000000
+// 160101 - Ultimate Frame
+01000000 00000000
+// 170101 - Celestial Armor
+01000000 00000000
+// 180101 - HUNTER FIELD
+01000000 00000000
+// 190101 - RANGER FIELD
+01000000 00000000
+// 1A0101 - FORCE FIELD
+01000000 00000000
+// 1B0101 - REVIVAL GARMENT
+01000000 00000000
+// 1C0101 - SPIRIT GARMENT
+01000000 00000000
+// 1D0101 - STINK FRAME
+01000000 00000000
+// 1E0101 - D-PARTS Ver1.01
+01000000 00000000
+// 1F0101 - D-PARTS Ver2.10
+01000000 00000000
+// 200101 - PARASITE WEAR:De Rol
+01000000 00000000
+// 210101 - PARASITE WEAR:Nelgal
+01000000 00000000
+// 220101 - PARASITE WEAR:Vajulla
+01000000 00000000
+// 230101 - SENSE PLATE
+01000000 00000000
+// 240101 - GRAVITON PLATE
+01000000 00000000
+// 250101 - ATTRIBUTE PLATE
+01000000 00000000
+// 260101 - FLOWEN'S FRAME
+01000000 00000000
+// 270101 - CUSTOM FRAME Ver.00
+01000000 00000000
+// 280101 - DB's ARMOR
+01000000 00000000
+// 000201 - Barrier
+01000000 00000000
+// 010201 - Shield
+01000000 00000000
+// 020201 - Core Shield
+01000000 00000000
+// 030201 - Giga Shield
+01000000 00000000
+// 040201 - Soul Barrier
+01000000 00000000
+// 050201 - Hard Shield
+01000000 00000000
+// 060201 - Brave Barrier
+01000000 00000000
+// 070201 - Solid Shield
+01000000 00000000
+// 080201 - Flame Barrier
+01000000 00000000
+// 090201 - Plasma Barrier
+01000000 00000000
+// 0A0201 - Freeze Barrier
+01000000 00000000
+// 0B0201 - Psychic Barrier
+01000000 00000000
+// 0C0201 - General Shield
+01000000 00000000
+// 0D0201 - Protect Barrier
+01000000 00000000
+// 0E0201 - Glorious Shield
+01000000 00000000
+// 0F0201 - Imperial Barrier
+01000000 00000000
+// 100201 - Guardian Sword
+01000000 00000000
+// 110201 - Divinity Barrier
+01000000 00000000
+// 120201 - Ultimate Shield
+01000000 00000000
+// 130201 - Spiritual Shield
+01000000 00000000
+// 140201 - Celestial Shield
+01000000 00000000
+// 150201 - INVISIBLE GUARD
+01000000 00000000
+// 160201 - SACRED GUARD
+01000000 00000000
+// 170201 - S-PARTS Ver1.16
+01000000 00000000
+// 180201 - S-PARTS Ver2.01
+01000000 00000000
+// 190201 - LIGHT RELIEF
+01000000 00000000
+// 1A0201 - SHIELD OF DELSABER
+01000000 00000000
+// 1B0201 - FORCE WALL
+01000000 00000000
+// 1C0201 - RANGER WALL
+01000000 00000000
+// 1D0201 - HUNTER WALL
+01000000 00000000
+// 1E0201 - ATTRIBUTE WALL
+01000000 00000000
+// 1F0201 - SECRET GEAR
+01000000 00000000
+// 200201 - COMBAT GEAR
+01000000 00000000
+// 210201 - PROTO REGENE GEAR
+01000000 00000000
+// 220201 - REGENERATE GEAR
+01000000 00000000
+// 230201 - REGENE GEAR ADV.
+01000000 00000000
+// 240201 - FLOWEN'S SHIELD
+01000000 00000000
+// 250201 - CUSTOM BARRIER Ver.00
+01000000 00000000
+// 260201 - DB'S SHIELD
+01000000 00000000
+// 000301 - Knight/Power
+01000000 00000000
+// 010301 - General/Power
+01000000 00000000
+// 020301 - Ogre/Power
+01000000 00000000
+// 030301 - God/Power
+01000000 00000000
+// 040301 - Priest/Mind
+01000000 00000000
+// 050301 - General/Mind
+01000000 00000000
+// 060301 - Angel/Mind
+01000000 00000000
+// 070301 - God/Mind
+01000000 00000000
+// 080301 - Marksman/Arm
+01000000 00000000
+// 090301 - General/Arm
+01000000 00000000
+// 0A0301 - Elf/Arm
+01000000 00000000
+// 0B0301 - God/Arm
+01000000 00000000
+// 0C0301 - Thief/Legs
+01000000 00000000
+// 0D0301 - General/Legs
+01000000 00000000
+// 0E0301 - Elf/Legs
+01000000 00000000
+// 0F0301 - God/Legs
+01000000 00000000
+// 100301 - Digger/HP
+01000000 00000000
+// 110301 - General/HP
+01000000 00000000
+// 120301 - Dragon/HP
+01000000 00000000
+// 130301 - God/HP
+01000000 00000000
+// 140301 - Magician/TP
+01000000 00000000
+// 150301 - General/TP
+01000000 00000000
+// 160301 - Angle/TP
+01000000 00000000
+// 170301 - God/TP
+01000000 00000000
+// 180301 - Warrior/Body
+01000000 00000000
+// 190301 - General/Body
+01000000 00000000
+// 1A0301 - Metal/Body
+01000000 00000000
+// 1B0301 - God/Body
+01000000 00000000
+// 1C0301 - Angel/Luck
+01000000 00000000
+// 1D0301 - God/Luck
+01000000 00000000
+// 1E0301 - Master/Ability
+01000000 00000000
+// 1F0301 - Hero/Ability
+01000000 00000000
+// 200301 - God/Ability
+01000000 00000000
+// 210301 - Resist/Fire
+01000000 00000000
+// 220301 - Resist/Flame
+01000000 00000000
+// 230301 - Resist/Burning
+01000000 00000000
+// 240301 - Resist/Cold
+01000000 00000000
+// 250301 - Resist/Freeze
+01000000 00000000
+// 260301 - Resist/Blizzard
+01000000 00000000
+// 270301 - Resist/Shock
+01000000 00000000
+// 280301 - Resist/Thunder
+01000000 00000000
+// 290301 - Resist/Storm
+01000000 00000000
+// 2A0301 - Resist/Light
+01000000 00000000
+// 2B0301 - Resist/Saint
+01000000 00000000
+// 2C0301 - Resist/Holy
+01000000 00000000
+// 2D0301 - Resist/Dark
+01000000 00000000
+// 2E0301 - Resist/Evil
+01000000 00000000
+// 2F0301 - Resist/Devil
+01000000 00000000
+// 300301 - All/Resist
+01000000 00000000
+// 310301 - Super/Resist
+01000000 00000000
+// 320301 - Perfect/Resist
+01000000 00000000
+// 330301 - HP/Restorate
+01000000 00000000
+// 340301 - HP/Generate
+01000000 00000000
+// 350301 - HP/Revival
+01000000 00000000
+// 360301 - TP/Restorate
+01000000 00000000
+// 370301 - TP/Generate
+01000000 00000000
+// 380301 - TP/Revival
+01000000 00000000
+// 390301 - PB/Amplifier
+01000000 00000000
+// 3A0301 - PB/Generate
+01000000 00000000
+// 3B0301 - PB/Create
+01000000 00000000
+// 3C0301 - Wizard/Technique
+01000000 00000000
+// 3D0301 - Devil/Technique
+01000000 00000000
+// 3E0301 - God/Technique
+01000000 00000000
+// 3F0301 - General/Battle
+01000000 00000000
+// 400301 - Devil/Battle
+01000000 00000000
+// 410301 - God/Battle
+01000000 00000000
+// 420301 - State/Maintenance
+01000000 00000000
+// 430301 - Trap/Search
+01000000 00000000
+// 000002 - Mag
+01000000 00000000
+// 000102 - Varuna
+01000000 00000000
+// 000202 - Mitra
+01000000 00000000
+// 000302 - Surya
+01000000 00000000
+// 000402 - Vayu
+01000000 00000000
+// 000502 - Varaha
+01000000 00000000
+// 000602 - Kama
+01000000 00000000
+// 000702 - Ushasu
+01000000 00000000
+// 000802 - Apsaras
+01000000 00000000
+// 000902 - Kumara
+01000000 00000000
+// 000A02 - Kaitabha
+01000000 00000000
+// 000B02 - Tapas
+01000000 00000000
+// 000C02 - Bhirava
+01000000 00000000
+// 000D02 - Kalki
+01000000 00000000
+// 000E02 - Rudra
+01000000 00000000
+// 000F02 - Marutah
+01000000 00000000
+// 001002 - Yaksa
+01000000 00000000
+// 001102 - Sita
+01000000 00000000
+// 001202 - Garuda
+01000000 00000000
+// 001302 - Nandin
+01000000 00000000
+// 001402 - Ashvinau
+01000000 00000000
+// 001502 - Ribhava
+01000000 00000000
+// 001602 - Soma
+01000000 00000000
+// 001702 - Ila
+01000000 00000000
+// 001802 - Durga
+01000000 00000000
+// 001902 - Vritra
+01000000 00000000
+// 001A02 - Namuci
+01000000 00000000
+// 001B02 - Sumba
+01000000 00000000
+// 001C02 - Naga
+01000000 00000000
+// 001D02 - Pitri
+01000000 00000000
+// 001E02 - Kabanda
+01000000 00000000
+// 001F02 - Ravana
+01000000 00000000
+// 002002 - Marica
+01000000 00000000
+// 002102 - Soniti
+01000000 00000000
+// 002202 - Preta
+01000000 00000000
+// 002302 - Andhaka
+01000000 00000000
+// 002402 - Bana
+01000000 00000000
+// 002502 - Naraka
+01000000 00000000
+// 002602 - Madhu
+01000000 00000000
+// 002702 - Churel
+01000000 00000000
+// 002802 - RoboChao
+01000000 00000000
+// 002902 - Opa-Opa
+01000000 00000000
+// 002A02 - Pian
+01000000 00000000
+// 002B02 - Chao
+01000000 00000000
+// 000003 - Monomate
+01000000 00000000
+// 010003 - Dimate
+01000000 00000000
+// 020003 - Trimate
+01000000 00000000
+// 000103 - Monofluid
+01000000 00000000
+// 010103 - Difluid
+01000000 00000000
+// 020103 - Trifluid
+01000000 00000000
+// ??0203 - Disk:Foie Lv.??+1
+01000000 00000000
+// 000303 - Sol Atomizer
+01000000 00000000
+// 000403 - Moon Atomizer
+01000000 00000000
+// 000503 - Star Atomizer
+01000000 00000000
+// 000603 - Antidote
+01000000 00000000
+// 010603 - Antiparalysis
+01000000 00000000
+// 000703 - Telepipe
+01000000 00000000
+// 000803 - Trap Vision
+01000000 00000000
+// 000903 - Scape Doll
+01000000 00000000
+// 000A03 - Monogrinder
+01000000 00000000
+// 010A03 - Digrinder
+01000000 00000000
+// 020A03 - Trigrinder
+01000000 00000000
+// 000B03 - Power Material
+01000000 00000000
+// 010B03 - Mind Material
+01000000 00000000
+// 020B03 - Evade Material
+01000000 00000000
+// 030B03 - HP Material
+01000000 00000000
+// 040B03 - TP Material
+01000000 00000000
+// 050B03 - Def Material
+01000000 00000000
+// 060B03 - Hit Material
+01000000 00000000
+// 070B03 - Luck Material
+01000000 00000000
+// 000C03 - Cell Of MAG 502
+01000000 00000000
+// 010C03 - Cell Of MAG 213
+01000000 00000000
+// 020C03 - Parts Of RoboChao
+01000000 00000000
+// 030C03 - Heart Of Opa Opa
+01000000 00000000
+// 040C03 - Heart Of Pian
+01000000 00000000
+// 050C03 - Heart Of Chao
+01000000 00000000
+// 000D03 - Sorcerer's Right Arm
+01000000 00000000
+// 010D03 - S-beat's Arms
+01000000 00000000
+// 020D03 - P-arm's Arms
+01000000 00000000
+// 030D03 - Delsaber's Right Arm
+01000000 00000000
+// 040D03 - C-bringer's Right Arm
+01000000 00000000
+// 050D03 - Delsaber's Left Arm
+01000000 00000000
+// 060D03 - Book Of KATANA1
+01000000 00000000
+// 070D03 - Book Of KATANA2
+01000000 00000000
+// 080D03 - Book Of KATANA3
+01000000 00000000
+// Special Events Mode Modifier Code
+01000000 00000000
+// 00 - Normal Mode
+01000000 00000000
+// 01 - Christmas Mode
+01000000 00000000
+// 02 - 21st Century Mode
+01000000 00000000
+// 03 - Valentine's Day Mode
+01000000 00000000
+// 04 - Easter Mode
+01000000 00000000
+// 05 - Halloween Mode
+01000000 00000000
+// 06 - Sonic Mode
+01000000 00000000

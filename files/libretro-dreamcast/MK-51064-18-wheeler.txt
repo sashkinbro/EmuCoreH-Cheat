@@ -1,0 +1,20 @@
+// Infinite Time-Arcade
+01076418 00000009
+// Infinite Time-Arcade (Continued)
+010A0256 00000009
+// Infinite Time-Parking
+010680D6 00000009
+// Infinite Time-Parking (Continued)
+01065276 00000009
+// Infinite Time-Parking (Continued)
+0106535C 00000009
+// Time Is 0:00:00-Parking
+010680E8 00000009
+// Infinite Time-Score Attack
+010BDEDA 00000009
+// Max Money
+022736D0 05F5E0FF
+// Never Lose Money
+01077E74 00000009
+// Infinite Money
+012736D0 0000FFFF

@@ -1,0 +1,56 @@
+// Home Team Score Modifier (Replace FF's with below code)
+01161450 000000FF
+// Away Team Score Modifier (Replace FF's with below code)
+01161454 000000FF
+// Home Team Stats Modifier Codes-Shots (Replace FF's with below code)
+017C782C 000000FF
+// Home Team Stats Modifier Codes-Power Play Made (Replace FF's with below code)
+017C7830 000000FF
+// Home Team Stats Modifier Codes-Power Play Attempts (Replace FF's with below code)
+017C7832 000000FF
+// Home Team Stats Modifier Codes-Short Handed Made (Replace FF's with below code)
+017C7834 000000FF
+// Home Team Stats Modifier Codes-Short Handed Attempts (Replace FF's with below code)
+017C7836 000000FF
+// Home Team Stats Modifier Codes-One Timers Made (Replace FF's with below code)
+017C7838 000000FF
+// Home Team Stats Modifier Codes-One Timers Attempts (Replace FF's with below code)
+017C783A 000000FF
+// Home Team Stats Modifier Codes-Breakaways Made (Replace FF's with below code)
+017C783C 000000FF
+// Home Team Stats Modifier Codes-Breakaways Attempts (Replace FF's with below code)
+017C783E 000000FF
+// Home Team Stats Modifier Codes-Passing Made (Replace FF's with below code)
+017C7840 000000FF
+// Home Team Stats Modifier Codes-Passing Attempts (Replace FF's with below code)
+017C7842 000000FF
+// Home Team Stats Modifier Codes-Body Checks (Replace FF's with below code)
+017C7844 000000FF
+// Home Team Stats Modifier Codes-Penalty Minutes (Replace FF's with below code)
+017C7848 000000FF
+// Away Team Stats Modifier Codes-Shots (Replace FF's with below code)
+017C784A 000000FF
+// Away Team Stats Modifier Codes-Power Play Made (Replace FF's with below code)
+017C784E 000000FF
+// Away Team Stats Modifier Codes-Power Play Attempts (Replace FF's with below code)
+017C7850 000000FF
+// Away Team Stats Modifier Codes-Short Handed Made (Replace FF's with below code)
+017C7852 000000FF
+// Away Team Stats Modifier Codes-Short Handed Attempts (Replace FF's with below code)
+017C7854 000000FF
+// Away Team Stats Modifier Codes-One Timers Made (Replace FF's with below code)
+017C7856 000000FF
+// Away Team Stats Modifier Codes-One Timers Attempts (Replace FF's with below code)
+017C7858 000000FF
+// Away Team Stats Modifier Codes-Breakaways Made (Replace FF's with below code)
+017C785A 000000FF
+// Away Team Stats Modifier Codes-Breakaways Attempts (Replace FF's with below code)
+017C785C 000000FF
+// Away Team Stats Modifier Codes-Passing Made (Replace FF's with below code)
+017C785E 000000FF
+// Away Team Stats Modifier Codes-Passing Attempts (Replace FF's with below code)
+017C7860 000000FF
+// Away Team Stats Modifier Codes-Body Checks (Replace FF's with below code)
+017C7862 000000FF
+// Away Team Stats Modifier Codes-Penalty Minutes (Replace FF's with below code)
+017C7866 000000FF

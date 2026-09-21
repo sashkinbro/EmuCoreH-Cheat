@@ -1,0 +1,6 @@
+// Points Modifier (Replace FF's with below code)
+011BADC4 0000FFFF
+// Infinite Lives
+01258070 00000003
+// Infinite Side Arm Ammo
+0128D404 000000C8

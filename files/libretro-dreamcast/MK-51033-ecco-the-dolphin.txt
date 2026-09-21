@@ -1,0 +1,4 @@
+// Unlock All Levels
+023ABE54 FFFFFFFF
+// Unlock All Levels (Continued)
+013ABE58 0000000F

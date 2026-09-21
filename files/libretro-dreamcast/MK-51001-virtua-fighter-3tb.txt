@@ -1,0 +1,38 @@
+// Infinite Time
+0129BCD8 00000780
+// Infinite Health P1
+011FF02A 000000C9
+// No Health P1
+011FF02A 00000000
+// 75% Health P1 (Continued)
+011FF02A 00000096
+// 50% Health P1 (Continued)
+011FF02A 00000064
+// 25% Health P1 (Continued)
+011FF02A 00000032
+// 1-Hit Death P1 (Continued)
+011FF02A 00000001
+// P1 Needs 1 Win To Win (Continued)
+0029BCDE 00000003
+// P1 Needs 2 Wins To Win (Continued)
+0029BCDE 00000002
+// P1 Never Wins
+0129BCDE 00000000
+// Infinite Health P2
+012013D2 000000C9
+// No Health P2
+012013D2 00000000
+// 75% Health P2 (Continued)
+012013D2 00000096
+// 50% Health P2 (Continued)
+012013D2 00000064
+// 25% Health P2 (Continued)
+012013D2 00000032
+// 1-Hit Death P2 (Continued)
+012013D2 00000001
+// P2 Needs 1 Win To Win (Continued)
+0029BCDF 00000003
+// P2 Needs 2 Wins To Win (Continued)
+0029BCDF 00000002
+// P2 Never Wins
+0029BCDF 00000000

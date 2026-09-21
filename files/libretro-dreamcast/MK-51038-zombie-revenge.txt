@@ -1,0 +1,14 @@
+// Free Play Mode
+015228EC 000000FF
+// Red Blood Mode
+01522900 00000001
+// Character Modifier P1 (Replace FF's with below code)
+016B5374 000000FF
+// Points Modifier P1 (Replace FF's with below code)
+012470FC 0000FFFF
+// Infinite Health P1
+0124710C 00000100
+// Points Modifier P2 (Replace FF's with below code)
+01247100 0000FFFF
+// Infinite Health P2
+01247110 00000100

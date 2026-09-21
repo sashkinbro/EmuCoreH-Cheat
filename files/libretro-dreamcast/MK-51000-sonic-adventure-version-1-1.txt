@@ -1,0 +1,20 @@
+// Max Rings
+01756C64 000003E7
+// Infinite Lives
+01756C60 00000009
+// Low Time
+00756C62 00000000
+// Max Emblems
+021C9510 000000FF
+// Enable Tails & Knuckles
+0179D9E2 00000101
+// Enable Amy & E-102 'Y'
+0179D9E4 00000101
+// Enable Big & Super Sonic
+0179D9E6 00000101
+// Have All Characters
+0179D9E2 00000101
+// Have All Characters (Continued)
+0279D9E4 01010101
+// Debug Menu
+01756C5C 00000000

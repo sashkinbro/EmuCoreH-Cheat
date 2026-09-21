@@ -1,0 +1,110 @@
+// Away Team Score Modifier (Replace FF's with below code)
+018816D4 0000FFFF
+// Away Team Infinite Time-Outs
+018816D8 00000003
+// Away Team No Time-Outs
+018816D8 00000000
+// Home Team Score Modifier (Replace FF's with below code)
+018816E4 0000FFFF
+// Home Team Infinite Time-Outs
+018816E8 00000003
+// Home Team No Time-Outs
+018816E8 00000000
+// Touch Down's Score Modifier (Replace FF's with below code)
+001CECA8 000000FF
+// Extra Point's Score Modifier (Replace FF's with below code)
+001CDB68 000000FF
+// 2-Point Conversion's Score Modifier (Replace FF's with below code)
+001CDBC8 000000FF
+// Safety's Score Modifier (Replace FF's with below code)
+001CDC2A 000000FF
+// Field Goal's Score Modifier (Replace FF's with below code)
+001CDCC8 000000FF
+// Can Sign More Than 54 Players
+01056354 00000008
+// Disable Other Teams Declining/Or Making A Counter Offer To Your Trades
+01058D08 00000008
+// Can Still Trade If It Puts You Over Your Salary Cap
+01058540 00000008
+// Can Still Trade If It Puts The Other Team Over Their Salary Cap
+0105851C 00000008
+// Can Re-Sign A Player Beyond Salary Cap
+010563FE 00000008
+// Always Trade When Team You Are Trading To Is Getting Short On Players
+01058904 00000018
+// Allow Infinite Offers To A Player Per Week
+01056422 00000018
+// Can Still Trade If Your Team Would Have Too Many Players
+01058884 00000008
+// Can Still Trade If The Other Team Would Have Too Many Players
+010588AE 00000008
+// Can Talk To Another Team About One Set Of Players At A Time And More Than Once Per Week
+0105828A 00000009
+// Can Trade Injured Players 
+010582DC 00000018
+// Can Trade Players Who Have Just Became Injured
+01058644 00000018
+// Can Trade Players Who Have Just Became Injured (Continued)
+010587BE 00000018
+// Can Make Infinite Trade Offers To A Team In A Week
+01058B2A 00000008
+// Your Offer Is Never Declined/Nor Is Declined With A Counter Offer
+01056220 00000018
+// Other Team Never Feels Its Not A Serious Offer
+01056166 00000018
+// Can Start Negotiations With Someone You've Already Contacted
+010F9B6C 00000018
+// Character Creation Codes-Max Speed
+0074F2E2 00000064
+// Character Creation Codes-Max Agility
+0074F2E3 00000064
+// Character Creation Codes-Max Jumping
+0074F2E7 00000064
+// Character Creation Codes-Max Upper Body Strength
+0074F2E5 00000064
+// Character Creation Codes-Max Lower Body Strength
+0074F2E6 00000064
+// Character Creation Codes-Max Hold On To Ball
+0074F2E9 00000064
+// Character Creation Codes-Max Break Tackle
+0074F2EA 00000064
+// Character Creation Codes-Max Aggressiveness
+0074F2EF 00000064
+// Character Creation Codes-Max Pass Fake Ability/Pass Accuracy
+0074F2F1 00000064
+// Character Creation Codes-Max Pass Arm Strength
+0074F2F2 00000064
+// Character Creation Codes-Max Pass Read Coverage
+0074F2F3 00000064
+// Character Creation Codes-Max BallHandler Power Moves
+0074F2F4 00000064
+// Character Creation Codes-Max BallHandler Finesse Moves/Run Fake Ability
+0074F2F5 00000064
+// Character Creation Codes-Max Catch
+0074F2F6 00000064
+// Character Creation Codes-Max Get Open Run Route
+0074F2F7 00000064
+// Character Creation Codes-Max Run Blocking
+0074F2F8 00000064
+// Character Creation Codes-Max Pass Blocking
+0074F2F9 00000064
+// Character Creation Codes-Max Tackle
+0074F2FA 00000064
+// Character Creation Codes-Max Def Pass Rush
+0074F2FB 00000064
+// Character Creation Codes-Max Def Run Support
+0074F2FC 00000064
+// Character Creation Codes-Max Block Thrown Ball
+0074F2FD 00000064
+// Character Creation Codes-Max Coverage
+0074F2FE 00000064
+// Character Creation Codes-Max Kick Power
+0074F2FF 00000064
+// Character Creation Codes-Max Kick Accuracy
+0074F300 00000064
+// Character Creation Codes-Max Punt Power
+0074F302 00000064
+// Character Creation Codes-Max Punt Accuracy
+0074F303 00000064
+// Character Creation Codes-Max All Stats
+0174F2E2 00006464

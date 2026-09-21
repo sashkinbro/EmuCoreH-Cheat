@@ -1,0 +1,4 @@
+// Max Rings
+0175B748 000003E7
+// Infinite Lives
+0175B744 000003E7

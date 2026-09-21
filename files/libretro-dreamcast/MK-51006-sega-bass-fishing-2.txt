@@ -1,0 +1,80 @@
+// Always Low Line Tension
+01097E44 0000F38D
+// Always Low Line Tension (Continued)
+01097E4C 0000F237
+// Hook Fish A LOT Easier 
+0101B5C2 00000008
+// Never Hook Off
+010183BC 00000008
+// Never Line Break
+010183A0 00000008
+// A. Taylor Max Fish Caught Codes-Lake Eagle-Beaver Docks (Continued)
+0131BD18 00000063
+// A. Taylor Max Fish Caught Codes-Lake Eagle-Deer Creek (Continued)
+0131B250 00000063
+// A. Taylor Max Fish Caught Codes-Lake Eagle-Anderson Bridge (Continued)
+0131C7E0 00000063
+// A. Taylor Max Fish Caught Codes-Lake Eagle-Eagle Dam (Continued)
+0131AC20 00000063
+// A. Taylor Max Fish Caught Codes-Lake Eagle-Cormorant Cove (Continued)
+0131B108 00000063
+// J. Robinson Max Fish Caught Codes-Lake Eagle-Beaver Docks (Continued)
+0131D2B0 00000063
+// J. Robinson Max Fish Caught Codes-Lake Eagle-Deer Creek (Continued)
+0131CFE0 00000063
+// J. Robinson Max Fish Caught Codes-Lake Eagle-Anderson Bridge (Continued)
+0131C8D0 00000063
+// J. Robinson Max Fish Caught Codes-Lake Eagle-Eagle Dam (Continued)
+0131CF80 00000063
+// J. Robinson Max Fish Caught Codes-Lake Eagle-Cormorant Cove (Continued)
+0131DC80 00000063
+// M. Brown Max Fish Caught Codes-Lake Eagle-Beaver Docks (Continued)
+0131BC58 00000063
+// M. Brown Max Fish Caught Codes-Lake Eagle-Deer Creek (Continued)
+0131DAD8 00000063
+// M. Brown Max Fish Caught Codes-Lake Eagle-Anderson Bridge (Continued)
+0131D7E8 00000063
+// M. Brown Max Fish Caught Codes-Lake Eagle-Eagle Dam (Continued)
+0131AD70 00000063
+// M. Brown Max Fish Caught Codes-Lake Eagle-Cormorant Cove (Continued)
+0131B450 00000063
+// J. Axion Max Fish Caught Codes-Lake Eagle-Beaver Docks (Continued)
+0131CD80 00000063
+// J. Axion Max Fish Caught Codes-Lake Eagle-Deer Creek (Continued)
+0131BBB8 00000063
+// J. Axion Max Fish Caught Codes-Lake Eagle-Anderson Bridge (Continued)
+0131CC40 00000063
+// J. Axion Max Fish Caught Codes-Lake Eagle-Eagle Dam (Continued)
+0131B860 00000063
+// J. Axion Max Fish Caught Codes-Lake Eagle-Cormorant Cove (Continued)
+0131BF50 00000063
+// J. Carter Max Fish Caught Codes-Lake Eagle-Beaver Docks (Continued)
+0131CAD0 00000063
+// J. Carter Max Fish Caught Codes-Lake Eagle-Deer Creek (Continued)
+0131DBA8 00000063
+// J. Carter Max Fish Caught Codes-Lake Eagle-Anderson Bridge (Continued)
+0131DED8 00000063
+// J. Carter Max Fish Caught Codes-Lake Eagle-Eagle Dam (Continued)
+0131D6E0 00000063
+// J. Carter Max Fish Caught Codes-Lake Eagle-Cormorant Cove (Continued)
+0131CBC0 00000063
+// E. Smith Max Fish Caught Codes-Lake Eagle-Beaver Docks (Continued)
+0131B998 00000063
+// E. Smith Max Fish Caught Codes-Lake Eagle-Deer Creek (Continued)
+0131B9E0 00000063
+// E. Smith Max Fish Caught Codes-Lake Eagle-Anderson Bridge (Continued)
+0131B890 00000063
+// E. Smith Max Fish Caught Codes-Lake Eagle-Eagle Dam (Continued)
+0131B2E8 00000063
+// E. Smith Max Fish Caught Codes-Lake Eagle-Cormorant Cove (Continued)
+0131AB88 00000063
+// N. Sakura Max Fish Caught Codes-Lake Eagle-Beaver Docks (Continued)
+0131CCA0 00000063
+// N. Sakura Max Fish Caught Codes-Lake Eagle-Deer Creek (Continued)
+0131D178 00000063
+// N. Sakura Max Fish Caught Codes-Lake Eagle-Anderson Bridge (Continued)
+0131CCE0 00000063
+// N. Sakura Max Fish Caught Codes-Lake Eagle-Eagle Dam (Continued)
+0131BB00 00000063
+// N. Sakura Max Fish Caught Codes-Lake Eagle-Cormorant Cove (Continued)
+0131BE30 00000063

@@ -1,0 +1,312 @@
+// 1st Created Character Codes-Max Ballhandling
+02707C4C 41200000
+// 1st Created Character Codes-Max Passing
+02707C50 41200000
+// 1st Created Character Codes-Max Free Throws
+02707C54 41200000
+// 1st Created Character Codes-Max Shooting
+02707C58 41200000
+// 1st Created Character Codes-Max 3 Point Shooting
+02707C5C 41200000
+// 1st Created Character Codes-Max Dunking
+02707C60 41200000
+// 1st Created Character Codes-Max Low Post
+02707C64 41200000
+// 1st Created Character Codes-Max Offensive Rebound
+02707C68 41200000
+// 1st Created Character Codes-Max Defensive Rebound
+02707C6C 41200000
+// 1st Created Character Codes-Max Shot Blocking
+02707C70 41200000
+// 1st Created Character Codes-Max Steals
+02707C74 41200000
+// 1st Created Character Codes-Max Speed
+02707C78 41200000
+// 1st Created Character Codes-Max Stamina
+02707C7C 41200000
+// 2nd Created Character Codes-Max Ballhandling
+02707DC4 41200000
+// 2nd Created Character Codes-Max Passing
+02707DC8 41200000
+// 2nd Created Character Codes-Max Free Throws
+02707DCC 41200000
+// 2nd Created Character Codes-Max Shooting
+02707DD0 41200000
+// 2nd Created Character Codes-Max 3 Point Shooting
+02707DD4 41200000
+// 2nd Created Character Codes-Max Dunking
+02707DD8 41200000
+// 2nd Created Character Codes-Max Low Post
+02707DDC 41200000
+// 2nd Created Character Codes-Max Offensive Rebound
+02707DE0 41200000
+// 2nd Created Character Codes-Max Defensive Rebound
+02707DE4 41200000
+// 2nd Created Character Codes-Max Shot Blocking
+02707DE8 41200000
+// 2nd Created Character Codes-Max Steals
+02707DEC 41200000
+// 2nd Created Character Codes-Max Speed
+02707DF0 41200000
+// 2nd Created Character Codes-Max Stamina
+02707DF4 41200000
+// 3rd Created Character Codes-Max Ballhandling
+02707F3C 41200000
+// 3rd Created Character Codes-Max Passing
+02707F40 41200000
+// 3rd Created Character Codes-Max Free Throws
+02707F44 41200000
+// 3rd Created Character Codes-Max Shooting
+02707F48 41200000
+// 3rd Created Character Codes-Max 3 Point Shooting
+02707F4C 41200000
+// 3rd Created Character Codes-Max Dunking
+02707F50 41200000
+// 3rd Created Character Codes-Max Low Post
+02707F54 41200000
+// 3rd Created Character Codes-Max Offensive Rebound
+02707F58 41200000
+// 3rd Created Character Codes-Max Defensive Rebound
+02707F5C 41200000
+// 3rd Created Character Codes-Max Shot Blocking
+02707F60 41200000
+// 3rd Created Character Codes-Max Steals
+02707F64 41200000
+// 3rd Created Character Codes-Max Speed
+02707F68 41200000
+// 3rd Created Character Codes-Max Stamina
+02707F6C 41200000
+// 4th Created Character Codes-Max Ballhandling
+027080B4 41200000
+// 4th Created Character Codes-Max Passing
+027080B8 41200000
+// 4th Created Character Codes-Max Free Throws
+027080BC 41200000
+// 4th Created Character Codes-Max Shooting
+027080C0 41200000
+// 4th Created Character Codes-Max 3 Point Shooting
+027080C4 41200000
+// 4th Created Character Codes-Max Dunking
+027080C8 41200000
+// 4th Created Character Codes-Max Low Post
+027080CC 41200000
+// 4th Created Character Codes-Max Offensive Rebound
+027080D0 41200000
+// 4th Created Character Codes-Max Defensive Rebound
+027080D4 41200000
+// 4th Created Character Codes-Max Shot Blocking
+027080D8 41200000
+// 4th Created Character Codes-Max Steals
+027080DC 41200000
+// 4th Created Character Codes-Max Speed
+027080E0 41200000
+// 4th Created Character Codes-Max Stamina
+027080E4 41200000
+// 5th Created Character Codes-Max Ballhandling
+0270822C 41200000
+// 5th Created Character Codes-Max Passing
+02708230 41200000
+// 5th Created Character Codes-Max Free Throws
+02708234 41200000
+// 5th Created Character Codes-Max Shooting
+02708238 41200000
+// 5th Created Character Codes-Max 3 Point Shooting
+0270823C 41200000
+// 5th Created Character Codes-Max Dunking
+02708240 41200000
+// 5th Created Character Codes-Max Low Post
+02708244 41200000
+// 5th Created Character Codes-Max Offensive Rebound
+02708248 41200000
+// 5th Created Character Codes-Max Defensive Rebound
+0270824C 41200000
+// 5th Created Character Codes-Max Shot Blocking
+02708250 41200000
+// 5th Created Character Codes-Max Steals
+02708254 41200000
+// 5th Created Character Codes-Max Speed
+02708258 41200000
+// 5th Created Character Codes-Max Stamina
+0270825C 41200000
+// 6th Created Character Codes-Max Ballhandling
+027083A4 41200000
+// 6th Created Character Codes-Max Passing
+027083A8 41200000
+// 6th Created Character Codes-Max Free Throws
+027083AC 41200000
+// 6th Created Character Codes-Max Shooting
+027083B0 41200000
+// 6th Created Character Codes-Max 3 Point Shooting
+027083B4 41200000
+// 6th Created Character Codes-Max Dunking
+027083B8 41200000
+// 6th Created Character Codes-Max Low Post
+027083BC 41200000
+// 6th Created Character Codes-Max Offensive Rebound
+027083C0 41200000
+// 6th Created Character Codes-Max Defensive Rebound
+027083C4 41200000
+// 6th Created Character Codes-Max Shot Blocking
+027083C8 41200000
+// 6th Created Character Codes-Max Steals
+027083CC 41200000
+// 6th Created Character Codes-Max Speed
+027083D0 41200000
+// 6th Created Character Codes-Max Stamina
+027083D4 41200000
+// 7th Created Character Codes-Max Ballhandling
+0270851C 41200000
+// 7th Created Character Codes-Max Passing
+02708520 41200000
+// 7th Created Character Codes-Max Free Throws
+02708524 41200000
+// 7th Created Character Codes-Max Shooting
+02708528 41200000
+// 7th Created Character Codes-Max 3 Point Shooting
+0270852C 41200000
+// 7th Created Character Codes-Max Dunking
+02708530 41200000
+// 7th Created Character Codes-Max Low Post
+02708534 41200000
+// 7th Created Character Codes-Max Offensive Rebound
+02708538 41200000
+// 7th Created Character Codes-Max Defensive Rebound
+0270853C 41200000
+// 7th Created Character Codes-Max Shot Blocking
+02708540 41200000
+// 7th Created Character Codes-Max Steals
+02708544 41200000
+// 7th Created Character Codes-Max Speed
+02708548 41200000
+// 7th Created Character Codes-Max Stamina
+0270854C 41200000
+// 8th Created Character Codes-Max Ballhandling
+02708694 41200000
+// 8th Created Character Codes-Max Passing
+02708698 41200000
+// 8th Created Character Codes-Max Free Throws
+0270869C 41200000
+// 8th Created Character Codes-Max Shooting
+027086A0 41200000
+// 8th Created Character Codes-Max 3 Point Shooting
+027086A4 41200000
+// 8th Created Character Codes-Max Dunking
+027086A8 41200000
+// 8th Created Character Codes-Max Low Post
+027086AC 41200000
+// 8th Created Character Codes-Max Offensive Rebound
+027086B0 41200000
+// 8th Created Character Codes-Max Defensive Rebound
+027086B4 41200000
+// 8th Created Character Codes-Max Shot Blocking
+027086B8 41200000
+// 8th Created Character Codes-Max Steals
+027086BC 41200000
+// 8th Created Character Codes-Max Speed
+027086C0 41200000
+// 8th Created Character Codes-Max Stamina
+027086C4 41200000
+// 9th Created Character Codes-Max Ballhandling
+0270880C 41200000
+// 9th Created Character Codes-Max Passing
+02708810 41200000
+// 9th Created Character Codes-Max Free Throws
+02708814 41200000
+// 9th Created Character Codes-Max Shooting
+02708818 41200000
+// 9th Created Character Codes-Max 3 Point Shooting
+0270881C 41200000
+// 9th Created Character Codes-Max Dunking
+02708820 41200000
+// 9th Created Character Codes-Max Low Post
+02708824 41200000
+// 9th Created Character Codes-Max Offensive Rebound
+02708828 41200000
+// 9th Created Character Codes-Max Defensive Rebound
+0270882C 41200000
+// 9th Created Character Codes-Max Shot Blocking
+02708830 41200000
+// 9th Created Character Codes-Max Steals
+02708834 41200000
+// 9th Created Character Codes-Max Speed
+02708838 41200000
+// 9th Created Character Codes-Max Stamina
+0270883C 41200000
+// 10th Created Character Codes-Max Ballhandling
+02708984 41200000
+// 10th Created Character Codes-Max Passing
+02708988 41200000
+// 10th Created Character Codes-Max Free Throws
+0270898C 41200000
+// 10th Created Character Codes-Max Shooting
+02708990 41200000
+// 10th Created Character Codes-Max 3 Point Shooting
+02708994 41200000
+// 10th Created Character Codes-Max Dunking
+02708998 41200000
+// 10th Created Character Codes-Max Low Post
+0270899C 41200000
+// 10th Created Character Codes-Max Offensive Rebound
+027089A0 41200000
+// 10th Created Character Codes-Max Defensive Rebound
+027089A4 41200000
+// 10th Created Character Codes-Max Shot Blocking
+027089A8 41200000
+// 10th Created Character Codes-Max Steals
+027089AC 41200000
+// 10th Created Character Codes-Max Speed
+027089B0 41200000
+// 10th Created Character Codes-Max Stamina
+027089B4 41200000
+// 11th Created Character Codes-Max Ballhandling
+02708AFC 41200000
+// 11th Created Character Codes-Max Passing
+02708B00 41200000
+// 11th Created Character Codes-Max Free Throws
+02708B04 41200000
+// 11th Created Character Codes-Max Shooting
+02708B08 41200000
+// 11th Created Character Codes-Max 3 Point Shooting
+02708B0C 41200000
+// 11th Created Character Codes-Max Dunking
+02708B10 41200000
+// 11th Created Character Codes-Max Low Post
+02708B14 41200000
+// 11th Created Character Codes-Max Offensive Rebound
+02708B18 41200000
+// 11th Created Character Codes-Max Defensive Rebound
+02708B1C 41200000
+// 11th Created Character Codes-Max Shot Blocking
+02708B20 41200000
+// 11th Created Character Codes-Max Steals
+02708B24 41200000
+// 11th Created Character Codes-Max Speed
+02708B28 41200000
+// 11th Created Character Codes-Max Stamina
+02708B2C 41200000
+// 12th Created Character Codes-Max Ballhandling
+02708C74 41200000
+// 12th Created Character Codes-Max Passing
+02708C78 41200000
+// 12th Created Character Codes-Max Free Throws
+02708C7C 41200000
+// 12th Created Character Codes-Max Shooting
+02708C80 41200000
+// 12th Created Character Codes-Max 3 Point Shooting
+02708C84 41200000
+// 12th Created Character Codes-Max Dunking
+02708C88 41200000
+// 12th Created Character Codes-Max Low Post
+02708C8C 41200000
+// 12th Created Character Codes-Max Offensive Rebound
+02708C90 41200000
+// 12th Created Character Codes-Max Defensive Rebound
+02708C94 41200000
+// 12th Created Character Codes-Max Shot Blocking
+02708C98 41200000
+// 12th Created Character Codes-Max Steals
+02708C9C 41200000
+// 12th Created Character Codes-Max Speed
+02708CA0 41200000
+// 12th Created Character Codes-Max Stamina
+02708CA4 41200000

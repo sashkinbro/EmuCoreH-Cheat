@@ -1,0 +1,8 @@
+// Max Infinite Rings
+010DB270 000003E7
+// Max Score
+020DB294 05F5E0FF
+// Infinite Lives
+010DB26C 00000004
+// Stop Timer
+01052C18 00000009

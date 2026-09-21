@@ -1,0 +1,14 @@
+// Infinite Credits
+0027D740 00000005
+// Infinite Money
+014F25B0 0000FFFF
+// Max Money
+024F25B0 000F423F
+// Points Modifier (Replace FF's with below code)
+014F2588 0000FFFF
+// Max Points
+024F2588 000F423F
+// Unlock Everything (Version 1)
+022790FC FFFFFFFF
+// Unlock Everything (Version 1) (Continued)
+02279100 FFFFFFFF

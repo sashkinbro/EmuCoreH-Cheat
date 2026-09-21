@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "libretro-dreamcast",
+      "name": "libretro-database Dreamcast cheats",
+      "author": "libretro-database contributors and the original Dreamcast cheat authors",
+      "url": "https://github.com/libretro/libretro-database",
+      "commit": "6a23a64fea8b0498e69ab534dda1c602ed064544",
+      "rawUrl": "https://raw.githubusercontent.com/libretro/libretro-database/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "notes": "The Dreamcast cheat folder is imported whole. Each converted pack lists the disc product codes taken from the Redump metadata DAT of the same revision, so a pack is offered only for the discs it was written for. Blocks using unsupported code types, repeats or enable codes are excluded."
+    }
+  ]
+}

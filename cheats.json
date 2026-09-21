@@ -1,0 +1,1163 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-09-21T17:55:25Z",
+    "entries":  [
+                    {
+                        "id":  "libretro-dreamcast-mk-51064-18-wheeler-japanese",
+                        "title":  "18 Wheeler (Japanese)",
+                        "serials":  [
+                                        "MK-51064",
+                                        "HDR-0080"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "4 libretro Dreamcast cheat blocks for MK-51064, HDR-0080.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51064-18-wheeler-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51064-18-wheeler-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/18%20Wheeler%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  4,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51064-18-wheeler",
+                        "title":  "18 Wheeler",
+                        "serials":  [
+                                        "MK-51064",
+                                        "HDR-0080"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "10 libretro Dreamcast cheat blocks for MK-51064, HDR-0080.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51064-18-wheeler.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51064-18-wheeler.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/18%20Wheeler.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  10,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0003-blue-stinger-japanese",
+                        "title":  "Blue Stinger (Japanese)",
+                        "serials":  [
+                                        "HDR-0003"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "5 libretro Dreamcast cheat blocks for HDR-0003.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0003-blue-stinger-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0003-blue-stinger-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Blue%20Stinger%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  5,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0003-blue-stinger",
+                        "title":  "Blue Stinger",
+                        "serials":  [
+                                        "HDR-0003"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "34 libretro Dreamcast cheat blocks for HDR-0003.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0003-blue-stinger.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0003-blue-stinger.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Blue%20Stinger.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  34,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-54040-buggy-heat-japanese",
+                        "title":  "Buggy Heat (Japanese)",
+                        "serials":  [
+                                        "MK-54040"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "1 libretro Dreamcast cheat blocks for MK-54040.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-54040-buggy-heat-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-54040-buggy-heat-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Buggy%20Heat%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  1,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0039-chu-chu-rocket",
+                        "title":  "Chu Chu Rocket",
+                        "serials":  [
+                                        "HDR-0039",
+                                        "HDR-0048",
+                                        "MK-51049"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "7 libretro Dreamcast cheat blocks for HDR-0039, HDR-0048, MK-51049.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0039-chu-chu-rocket.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0039-chu-chu-rocket.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Chu%20Chu%20Rocket.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  7,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51160-confidential-mission",
+                        "title":  "Confidential Mission",
+                        "serials":  [
+                                        "MK-51160",
+                                        "HDR-0160"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "9 libretro Dreamcast cheat blocks for MK-51160, HDR-0160.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51160-confidential-mission.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51160-confidential-mission.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Confidential%20Mission.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  9,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51035-crazy-taxi-2-crazy-taxi-2-japanese",
+                        "title":  "Crazy Taxi 2 - Crazy Taxi 2 (Japanese)",
+                        "serials":  [
+                                        "MK-51035",
+                                        "HDR-0053",
+                                        "MK-51136",
+                                        "HDR-0159"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "7 libretro Dreamcast cheat blocks for MK-51035, HDR-0053, MK-51136, HDR-0159.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51035-crazy-taxi-2-crazy-taxi-2-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51035-crazy-taxi-2-crazy-taxi-2-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Crazy%20Taxi%202%20-%20Crazy%20Taxi%202%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  7,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51035-crazy-taxi",
+                        "title":  "Crazy Taxi",
+                        "serials":  [
+                                        "MK-51035",
+                                        "HDR-0053"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "9 libretro Dreamcast cheat blocks for MK-51035, HDR-0053.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51035-crazy-taxi.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51035-crazy-taxi.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Crazy%20Taxi.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  9,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51037-daytona-usa-2001-japanese",
+                        "title":  "Daytona USA 2001 (Japanese)",
+                        "serials":  [
+                                        "MK-51037",
+                                        "HDR-0106"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "9 libretro Dreamcast cheat blocks for MK-51037, HDR-0106.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51037-daytona-usa-2001-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51037-daytona-usa-2001-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Daytona%20USA%202001%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  9,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51037-daytona-usa",
+                        "title":  "Daytona USA",
+                        "serials":  [
+                                        "MK-51037",
+                                        "HDR-0106"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "7 libretro Dreamcast cheat blocks for MK-51037, HDR-0106.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51037-daytona-usa.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51037-daytona-usa.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Daytona%20USA.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  7,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51013-dynamite-cop",
+                        "title":  "Dynamite Cop",
+                        "serials":  [
+                                        "MK-51013"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "9 libretro Dreamcast cheat blocks for MK-51013.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51013-dynamite-cop.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51013-dynamite-cop.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Dynamite%20Cop.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  9,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51033-ecco-the-dolphin",
+                        "title":  "Ecco The Dolphin",
+                        "serials":  [
+                                        "MK-51033",
+                                        "HDR-0103"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "2 libretro Dreamcast cheat blocks for MK-51033, HDR-0103.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51033-ecco-the-dolphin.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51033-ecco-the-dolphin.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Ecco%20The%20Dolphin.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  2,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0100-f355-challenge-passione-rossa-japanese",
+                        "title":  "F355 Challenge-Passione Rossa (Japanese)",
+                        "serials":  [
+                                        "HDR-0100"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "7 libretro Dreamcast cheat blocks for HDR-0100.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0100-f355-challenge-passione-rossa-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0100-f355-challenge-passione-rossa-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/F355%20Challenge-Passione%20Rossa%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  7,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0100-f355-challenge-passione-rossa",
+                        "title":  "F355 Challenge-Passione Rossa",
+                        "serials":  [
+                                        "HDR-0100"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "7 libretro Dreamcast cheat blocks for HDR-0100.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0100-f355-challenge-passione-rossa.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0100-f355-challenge-passione-rossa.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/F355%20Challenge-Passione%20Rossa.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  7,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51154-fighting-vipers-2-european",
+                        "title":  "Fighting Vipers 2 (European)",
+                        "serials":  [
+                                        "MK-51154",
+                                        "HDR-0133"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "25 libretro Dreamcast cheat blocks for MK-51154, HDR-0133.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51154-fighting-vipers-2-european.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51154-fighting-vipers-2-european.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Fighting%20Vipers%202%20(European).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  25,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51154-fighting-vipers-2-japanese",
+                        "title":  "Fighting Vipers 2 (Japanese)",
+                        "serials":  [
+                                        "MK-51154",
+                                        "HDR-0133"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "25 libretro Dreamcast cheat blocks for MK-51154, HDR-0133.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51154-fighting-vipers-2-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51154-fighting-vipers-2-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Fighting%20Vipers%202%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  25,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0101-giant-gram-2000-japanese",
+                        "title":  "Giant Gram 2000 (Japanese)",
+                        "serials":  [
+                                        "HDR-0101"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "8 libretro Dreamcast cheat blocks for HDR-0101.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0101-giant-gram-2000-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0101-giant-gram-2000-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Giant%20Gram%202000%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  8,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0047-godzilla-generations-maximum-impact-japanese",
+                        "title":  "Godzilla Generations-Maximum Impact (Japanese)",
+                        "serials":  [
+                                        "HDR-0047"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "4 libretro Dreamcast cheat blocks for HDR-0047.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0047-godzilla-generations-maximum-impact-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0047-godzilla-generations-maximum-impact-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Godzilla%20Generations-Maximum%20Impact%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  4,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51050-maken-x",
+                        "title":  "Maken X",
+                        "serials":  [
+                                        "MK-51050"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "10 libretro Dreamcast cheat blocks for MK-51050.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51050-maken-x.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51050-maken-x.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Maken%20X.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  10,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51004-nba-2k",
+                        "title":  "NBA 2K",
+                        "serials":  [
+                                        "MK-51004",
+                                        "HDR-0069"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "230 libretro Dreamcast cheat blocks for MK-51004, HDR-0069.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51004-nba-2k.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51004-nba-2k.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/NBA%202K.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  230,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0150-nba-2k1",
+                        "title":  "NBA 2K1",
+                        "serials":  [
+                                        "HDR-0150"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "176 libretro Dreamcast cheat blocks for HDR-0150.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0150-nba-2k1.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0150-nba-2k1.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/NBA%202K1.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  176,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51178-nba-2k2",
+                        "title":  "NBA 2K2",
+                        "serials":  [
+                                        "MK-51178",
+                                        "HDR-0197"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "156 libretro Dreamcast cheat blocks for MK-51178, HDR-0197.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51178-nba-2k2.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51178-nba-2k2.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/NBA%202K2.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  156,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0058-nfl-2k",
+                        "title":  "NFL 2K",
+                        "serials":  [
+                                        "HDR-0058",
+                                        "HDR-0141"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "37 libretro Dreamcast cheat blocks for HDR-0058, HDR-0141.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0058-nfl-2k.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0058-nfl-2k.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/NFL%202K.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  37,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0144-nfl-2k1",
+                        "title":  "NFL 2K1",
+                        "serials":  [
+                                        "HDR-0144"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "56 libretro Dreamcast cheat blocks for HDR-0144.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0144-nfl-2k1.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0144-nfl-2k1.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/NFL%202K1.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  56,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0196-nfl-2k2",
+                        "title":  "NFL 2K2",
+                        "serials":  [
+                                        "HDR-0196"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "55 libretro Dreamcast cheat blocks for HDR-0196.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0196-nfl-2k2.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0196-nfl-2k2.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/NFL%202K2.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  55,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51025-nhl-2k",
+                        "title":  "NHL 2K",
+                        "serials":  [
+                                        "MK-51025"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "28 libretro Dreamcast cheat blocks for MK-51025.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51025-nhl-2k.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51025-nhl-2k.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/NHL%202K.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  28,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51102-outtrigger",
+                        "title":  "Outtrigger",
+                        "serials":  [
+                                        "MK-51102",
+                                        "HDR-0118"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "5 libretro Dreamcast cheat blocks for MK-51102, HDR-0118.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51102-outtrigger.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51102-outtrigger.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Outtrigger.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  5,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51100-phantasy-star-online-european",
+                        "title":  "Phantasy Star Online (European)",
+                        "serials":  [
+                                        "MK-51100",
+                                        "HDR-0129"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "483 libretro Dreamcast cheat blocks for MK-51100, HDR-0129.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51100-phantasy-star-online-european.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51100-phantasy-star-online-european.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Phantasy%20Star%20Online%20(European).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  483,
+                        "updatedAt":  "2026-09-21T17:55:24Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51100-phantasy-star-online-japanese",
+                        "title":  "Phantasy Star Online (Japanese)",
+                        "serials":  [
+                                        "MK-51100",
+                                        "HDR-0129"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "485 libretro Dreamcast cheat blocks for MK-51100, HDR-0129.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51100-phantasy-star-online-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51100-phantasy-star-online-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Phantasy%20Star%20Online%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  485,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51100-phantasy-star-online-v2-european",
+                        "title":  "Phantasy Star Online v2 (European)",
+                        "serials":  [
+                                        "MK-51100",
+                                        "HDR-0129"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "376 libretro Dreamcast cheat blocks for MK-51100, HDR-0129.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51100-phantasy-star-online-v2-european.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51100-phantasy-star-online-v2-european.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Phantasy%20Star%20Online%20v2%20(European).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  376,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51100-phantasy-star-online-v2-japanese",
+                        "title":  "Phantasy Star Online v2 (Japanese)",
+                        "serials":  [
+                                        "MK-51100",
+                                        "HDR-0129"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "392 libretro Dreamcast cheat blocks for MK-51100, HDR-0129.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51100-phantasy-star-online-v2-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51100-phantasy-star-online-v2-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Phantasy%20Star%20Online%20v2%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  392,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51100-phantasy-star-online-v2",
+                        "title":  "Phantasy Star Online v2",
+                        "serials":  [
+                                        "MK-51100",
+                                        "HDR-0129"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "388 libretro Dreamcast cheat blocks for MK-51100, HDR-0129.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51100-phantasy-star-online-v2.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51100-phantasy-star-online-v2.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Phantasy%20Star%20Online%20v2.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  388,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51100-phantasy-star-online",
+                        "title":  "Phantasy Star Online",
+                        "serials":  [
+                                        "MK-51100",
+                                        "HDR-0129"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "483 libretro Dreamcast cheat blocks for MK-51100, HDR-0129.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51100-phantasy-star-online.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51100-phantasy-star-online.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Phantasy%20Star%20Online.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  483,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0113-power-smash-sega-professional-tennis-japanese",
+                        "title":  "Power Smash-Sega Professional Tennis (Japanese)",
+                        "serials":  [
+                                        "HDR-0113"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "5 libretro Dreamcast cheat blocks for HDR-0113.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0113-power-smash-sega-professional-tennis-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0113-power-smash-sega-professional-tennis-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Power%20Smash-Sega%20Professional%20Tennis%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  5,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51061-quake-iii-arena",
+                        "title":  "Quake III Arena",
+                        "serials":  [
+                                        "MK-51061"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "12 libretro Dreamcast cheat blocks for MK-51061.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51061-quake-iii-arena.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51061-quake-iii-arena.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Quake%20III%20Arena.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  12,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51021-red-dog-superior-fire-power",
+                        "title":  "Red Dog-Superior Fire Power",
+                        "serials":  [
+                                        "MK-51021"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "3 libretro Dreamcast cheat blocks for MK-51021.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51021-red-dog-superior-fire-power.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51021-red-dog-superior-fire-power.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Red%20Dog-Superior%20Fire%20Power.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  3,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51192-rez-europe",
+                        "title":  "Rez (Europe)",
+                        "serials":  [
+                                        "MK-51192",
+                                        "HDR-0178"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "2 libretro Dreamcast cheat blocks for MK-51192, HDR-0178.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51192-rez-europe.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51192-rez-europe.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Rez%20(Europe).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  2,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51092-samba-de-amigo",
+                        "title":  "Samba De Amigo",
+                        "serials":  [
+                                        "MK-51092",
+                                        "HDR-0063"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "2 libretro Dreamcast cheat blocks for MK-51092, HDR-0063.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51092-samba-de-amigo.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51092-samba-de-amigo.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Samba%20De%20Amigo.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  2,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51006-sega-bass-fishing-2",
+                        "title":  "Sega Bass Fishing 2",
+                        "serials":  [
+                                        "MK-51006"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "40 libretro Dreamcast cheat blocks for MK-51006.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51006-sega-bass-fishing-2.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51006-sega-bass-fishing-2.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Sega%20Bass%20Fishing%202.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  40,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51053-sega-gt",
+                        "title":  "Sega GT",
+                        "serials":  [
+                                        "MK-51053"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "4 libretro Dreamcast cheat blocks for MK-51053.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51053-sega-gt.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51053-sega-gt.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Sega%20GT.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  4,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0104-sega-marine-fishing",
+                        "title":  "Sega Marine Fishing",
+                        "serials":  [
+                                        "HDR-0104"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "3 libretro Dreamcast cheat blocks for HDR-0104.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0104-sega-marine-fishing.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0104-sega-marine-fishing.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Sega%20Marine%20Fishing.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  3,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51019-sega-rally-2",
+                        "title":  "Sega Rally 2",
+                        "serials":  [
+                                        "MK-51019",
+                                        "HDR-0010"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "2 libretro Dreamcast cheat blocks for MK-51019, HDR-0010.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51019-sega-rally-2.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51019-sega-rally-2.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Sega%20Rally%202.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  2,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0073-sega-tetris-japanese",
+                        "title":  "Sega Tetris (Japanese)",
+                        "serials":  [
+                                        "HDR-0073"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "2 libretro Dreamcast cheat blocks for HDR-0073.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0073-sega-tetris-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0073-sega-tetris-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Sega%20Tetris%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  2,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51059-shenmue",
+                        "title":  "Shenmue",
+                        "serials":  [
+                                        "MK-51059"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "10 libretro Dreamcast cheat blocks for MK-51059.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51059-shenmue.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51059-shenmue.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Shenmue.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  10,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51000-sonic-adventure-japanese",
+                        "title":  "Sonic Adventure (Japanese)",
+                        "serials":  [
+                                        "MK-51000",
+                                        "HDR-0001"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "2 libretro Dreamcast cheat blocks for MK-51000, HDR-0001.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51000-sonic-adventure-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51000-sonic-adventure-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Sonic%20Adventure%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  2,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51000-sonic-adventure-2-sonic-adventure-2-european-sonic-adventure-2-japanese",
+                        "title":  "Sonic Adventure 2 - Sonic Adventure 2 (European) - Sonic Adventure 2 (Japanese)",
+                        "serials":  [
+                                        "MK-51000",
+                                        "HDR-0001",
+                                        "MK-51117",
+                                        "HDR-0165"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "4 libretro Dreamcast cheat blocks for MK-51000, HDR-0001, MK-51117, HDR-0165.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51000-sonic-adventure-2-sonic-adventure-2-european-sonic-adventure-2-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51000-sonic-adventure-2-sonic-adventure-2-european-sonic-adventure-2-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Sonic%20Adventure%202%20-%20Sonic%20Adventure%202%20(European)%20-%20Sonic%20Adventure%202%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  4,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0129-sonic-adventure-2-the-trial-included-with-phantasy-star-online",
+                        "title":  "Sonic Adventure 2-The Trial (Included With Phantasy Star Online)",
+                        "serials":  [
+                                        "HDR-0129"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "9 libretro Dreamcast cheat blocks for HDR-0129.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0129-sonic-adventure-2-the-trial-included-with-phantasy-star-online.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0129-sonic-adventure-2-the-trial-included-with-phantasy-star-online.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Sonic%20Adventure%202-The%20Trial%20(Included%20With%20Phantasy%20Star%20Online).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  9,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51000-sonic-adventure-version-1-0",
+                        "title":  "Sonic Adventure Version 1.0",
+                        "serials":  [
+                                        "MK-51000",
+                                        "HDR-0001"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "10 libretro Dreamcast cheat blocks for MK-51000, HDR-0001.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51000-sonic-adventure-version-1-0.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51000-sonic-adventure-version-1-0.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Sonic%20Adventure%20Version%201.0.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  10,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51000-sonic-adventure-version-1-1",
+                        "title":  "Sonic Adventure Version 1.1",
+                        "serials":  [
+                                        "MK-51000",
+                                        "HDR-0001"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "10 libretro Dreamcast cheat blocks for MK-51000, HDR-0001.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51000-sonic-adventure-version-1-1.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51000-sonic-adventure-version-1-1.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Sonic%20Adventure%20Version%201.1.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  10,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51060-sonic-shuffle",
+                        "title":  "Sonic Shuffle",
+                        "serials":  [
+                                        "MK-51060",
+                                        "HDR-0125"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "10 libretro Dreamcast cheat blocks for MK-51060, HDR-0125.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51060-sonic-shuffle.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51060-sonic-shuffle.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Sonic%20Shuffle.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  10,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51051-space-channel-5",
+                        "title":  "Space Channel 5",
+                        "serials":  [
+                                        "MK-51051",
+                                        "HDR-0029",
+                                        "HDR-0140"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "3 libretro Dreamcast cheat blocks for MK-51051, HDR-0029, HDR-0140.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51051-space-channel-5.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51051-space-channel-5.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Space%20Channel%205.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  3,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0153-sports-jam-japanese",
+                        "title":  "Sports Jam (Japanese)",
+                        "serials":  [
+                                        "HDR-0153"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "11 libretro Dreamcast cheat blocks for HDR-0153.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0153-sports-jam-japanese.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0153-sports-jam-japanese.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Sports%20Jam%20(Japanese).cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  11,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0153-sports-jam",
+                        "title":  "Sports Jam",
+                        "serials":  [
+                                        "HDR-0153"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "7 libretro Dreamcast cheat blocks for HDR-0153.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0153-sports-jam.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0153-sports-jam.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Sports%20Jam.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  7,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51011-time-stalkers",
+                        "title":  "Time Stalkers",
+                        "serials":  [
+                                        "MK-51011"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "2 libretro Dreamcast cheat blocks for MK-51011.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51011-time-stalkers.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51011-time-stalkers.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Time%20Stalkers.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  2,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51020-toy-commander",
+                        "title":  "Toy Commander",
+                        "serials":  [
+                                        "MK-51020"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "2 libretro Dreamcast cheat blocks for MK-51020.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51020-toy-commander.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51020-toy-commander.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Toy%20Commander.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  2,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0067-typing-of-the-dead-the",
+                        "title":  "Typing Of The Dead, The",
+                        "serials":  [
+                                        "HDR-0067",
+                                        "HDR-0085"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "15 libretro Dreamcast cheat blocks for HDR-0067, HDR-0085.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0067-typing-of-the-dead-the.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0067-typing-of-the-dead-the.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Typing%20Of%20The%20Dead%2C%20The.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  15,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51001-virtua-fighter-3tb",
+                        "title":  "Virtua Fighter 3tb",
+                        "serials":  [
+                                        "MK-51001",
+                                        "HDR-0002",
+                                        "HDR-0017"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "19 libretro Dreamcast cheat blocks for MK-51001, HDR-0002, HDR-0017.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51001-virtua-fighter-3tb.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51001-virtua-fighter-3tb.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Virtua%20Fighter%203tb.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  19,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51054-virtua-tennis",
+                        "title":  "Virtua Tennis",
+                        "serials":  [
+                                        "MK-51054",
+                                        "MK-51186"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "29 libretro Dreamcast cheat blocks for MK-51054, MK-51186.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51054-virtua-tennis.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51054-virtua-tennis.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Virtua%20Tennis.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  29,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0157-world-series-baseball-2k1",
+                        "title":  "World Series Baseball 2K1",
+                        "serials":  [
+                                        "HDR-0157"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "2 libretro Dreamcast cheat blocks for HDR-0157.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0157-world-series-baseball-2k1.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0157-world-series-baseball-2k1.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/World%20Series%20Baseball%202K1.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  2,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-hdr-0198-world-series-baseball-2k2",
+                        "title":  "World Series Baseball 2K2",
+                        "serials":  [
+                                        "HDR-0198"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "41 libretro Dreamcast cheat blocks for HDR-0198.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/HDR-0198-world-series-baseball-2k2.txt",
+                        "packPath":  "files/libretro-dreamcast/HDR-0198-world-series-baseball-2k2.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/World%20Series%20Baseball%202K2.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  41,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-mk-51038-zombie-revenge",
+                        "title":  "Zombie Revenge",
+                        "serials":  [
+                                        "MK-51038",
+                                        "HDR-0026"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "7 libretro Dreamcast cheat blocks for MK-51038, HDR-0026.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/MK-51038-zombie-revenge.txt",
+                        "packPath":  "files/libretro-dreamcast/MK-51038-zombie-revenge.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Zombie%20Revenge.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  7,
+                        "updatedAt":  "2026-09-21T17:55:25Z"
+                    }
+                ]
+}

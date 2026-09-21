@@ -1,0 +1,82 @@
+// Infinite Outs
+01FA50B8 00000000
+// 1 Out And You Are Out (Continued)
+01FA50B8 00000002
+// 2 Outs And You Are Out (Continued)
+01FA50B8 00000001
+// Infinite Balls
+01FA50BC 00000000
+// 1 Ball And You Walk (Continued)
+01FA50BC 00000003
+// 2 Balls And You Walk (Continued)
+01FA50BC 00000002
+// 3 Balls And You Walk (Continued)
+01FA50BC 00000001
+// Infinite Strikes
+01FA50C0 00000000
+// 1 Strike And You Are Out (Continued)
+01FA50C0 00000002
+// 2 Strikes And You Are Out (Continued)
+01FA50C0 00000002
+// Trades Never Rejected
+0107E73A 00000008
+// Home Team Score Modifier Codes-1st Inning (Replace FF's with below code)
+01F76CFA 000000FF
+// Home Team Score Modifier Codes-2nd Inning (Replace FF's with below code)
+01F76D02 000000FF
+// Home Team Score Modifier Codes-3rd Inning (Replace FF's with below code)
+01F76D0A 000000FF
+// Home Team Score Modifier Codes-4th Inning (Replace FF's with below code)
+01F76D12 000000FF
+// Home Team Score Modifier Codes-5th Inning (Replace FF's with below code)
+01F76D1A 000000FF
+// Home Team Score Modifier Codes-6th Inning (Replace FF's with below code)
+01F76D22 000000FF
+// Home Team Score Modifier Codes-7th Inning (Replace FF's with below code)
+01F76D2A 000000FF
+// Home Team Score Modifier Codes-8th Inning (Replace FF's with below code)
+01F76D32 000000FF
+// Home Team Score Modifier Codes-9th Inning (Replace FF's with below code)
+01F76D3A 000000FF
+// Home Team Score Modifier Codes-10th Inning (Replace FF's with below code)
+01F76D42 000000FF
+// Home Team Score Modifier Codes-11th Inning (Replace FF's with below code)
+01F76D4A 000000FF
+// Home Team Score Modifier Codes-12th Inning (Replace FF's with below code)
+01F76D52 000000FF
+// Home Team Score Modifier Codes-13th Inning (Replace FF's with below code)
+01F76D5A 000000FF
+// Home Team Score Modifier Codes-14th Inning (Replace FF's with below code)
+01F76D62 000000FF
+// Home Team Score Modifier Codes-15th Inning (Replace FF's with below code)
+01F76D6A 000000FF
+// Away Team Score Modifier Codes-1st Inning (Replace FF's with below code)
+01F77DDA 000000FF
+// Away Team Score Modifier Codes-2nd Inning (Replace FF's with below code)
+01F77DE2 000000FF
+// Away Team Score Modifier Codes-3rd Inning (Replace FF's with below code)
+01F77DEA 000000FF
+// Away Team Score Modifier Codes-4th Inning (Replace FF's with below code)
+01F77DF2 000000FF
+// Away Team Score Modifier Codes-5th Inning (Replace FF's with below code)
+01F77DFA 000000FF
+// Away Team Score Modifier Codes-6th Inning (Replace FF's with below code)
+01F77E02 000000FF
+// Away Team Score Modifier Codes-7th Inning (Replace FF's with below code)
+01F77E0A 000000FF
+// Away Team Score Modifier Codes-8th Inning (Replace FF's with below code)
+01F77E12 000000FF
+// Away Team Score Modifier Codes-9th Inning (Replace FF's with below code)
+01F77E1A 000000FF
+// Away Team Score Modifier Codes-10th Inning (Replace FF's with below code)
+01F77E22 000000FF
+// Away Team Score Modifier Codes-11th Inning (Replace FF's with below code)
+01F77E2A 000000FF
+// Away Team Score Modifier Codes-12th Inning (Replace FF's with below code)
+01F77E32 000000FF
+// Away Team Score Modifier Codes-13rd Inning (Replace FF's with below code)
+01F77E3A 000000FF
+// Away Team Score Modifier Codes-14th Inning (Replace FF's with below code)
+01F77E42 000000FF
+// Away Team Score Modifier Codes-15th Inning (Replace FF's with below code)
+01F77E4A 000000FF

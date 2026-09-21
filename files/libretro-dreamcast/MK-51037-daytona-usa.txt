@@ -1,0 +1,14 @@
+// Time Is 0:00:00
+0103096A 00000009
+// Time Is 0:00:00 (Continued)
+0104600C 00000009
+// Stop Countdown Timer
+01045FE8 00000009
+// Always First
+013441C0 00000000
+// Unlock All Cars
+012903C0 0000FFFF
+// Reverse Countdown Timer
+01045FE6 00007301
+// Turbo Boost (Press A) (Continued)
+01344186 00003FFF

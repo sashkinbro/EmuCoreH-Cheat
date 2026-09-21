@@ -1,0 +1,24 @@
+// Infinite Ammo
+0105A700 00000009
+// Single Player Tier 1 Codes-Infinite Health
+01317E98 000003E7
+// Single Player Tier 1 Codes-Infinite Ammo (Machinegun)
+013DDCF8 00000063
+// Single Player Tier 1 Codes-Infinite Ammo (Shotgun)
+013DDCFC 00000063
+// Single Player Tier 1 Codes-Infinite Ammo (Rocket Launcher)
+013DDD04 00000063
+// Single Player Tier 1 Codes-Infinite Ammo (Plasma Gun)
+013DDD10 00000063
+// Single Player Stats Codes-Max Accuracy
+0151EF44 000000C8
+// Single Player Stats Codes-Max Impressive
+0151EF48 000000C8
+// Single Player Stats Codes-Max Excellent
+0151EF4C 000000C8
+// Single Player Stats Codes-Max Gauntlet
+0151EF50 000000C8
+// Single Player Stats Codes-Max Frags
+0151EF54 000000C8
+// Single Player Stats Codes-Max Perfect
+0151EF58 000000C8

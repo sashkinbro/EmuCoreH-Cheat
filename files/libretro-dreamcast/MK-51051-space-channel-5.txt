@@ -1,0 +1,6 @@
+// 100% View Rating After 1 Dance
+01010118 00000009
+// Infinite Hearts
+0101FAF0 00000009
+// Infinite Hearts (Continued)
+01021ED0 00000009

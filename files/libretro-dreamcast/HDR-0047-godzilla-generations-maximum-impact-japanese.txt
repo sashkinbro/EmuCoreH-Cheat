@@ -1,0 +1,8 @@
+// Max Score
+022071E4 0098967F
+// Score Modifier (Replace FF's with below code)
+012071E4 0000FFFF
+// Beat Level Quick (Press B) (Continued)
+012071B0 00000000
+// Infinite Credits
+002071EC 0000000A

@@ -1,0 +1,4 @@
+// Max Points
+021ED4E0 05F5E0FF
+// Points Modifier (Replace FF's with below code)
+011ED4E0 0000FFFF

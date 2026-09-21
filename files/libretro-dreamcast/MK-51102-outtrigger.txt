@@ -1,0 +1,10 @@
+// Infinite Ammo (All Weapons & Everyone)
+01091E6C 00000009
+// Stop Timers
+010C2332 00000009
+// Quick Win
+008101C9 00000000
+// Score Modifier (Replace FF's with below code)
+018101DC 0000FFFF
+// Max Score
+028101DC 05F5E0FF

@@ -1,0 +1,68 @@
+// Have Car Key
+0024FA0F 00000001
+// Have Jacob's Safe Key
+0024FA0E 00000001
+// Have Clone Room Key
+0024FA0D 00000001
+// Have Plant Card
+0024FA0C 00000001
+// Have Tank Card
+0024FA0B 00000001
+// Have Pasta
+0024FA0A 00000001
+// Have Steak
+0024FA09 00000001
+// Have Sushi
+0024FA08 00000001
+// Have Santa Suit
+0024FA07 00000001
+// Have Game Token
+0024FA06 00000001
+// Have Stair Key
+0024FA05 00000001
+// Have Bermuda ATM Card
+0024FA04 00000001
+// Have Yucatan ATM Card
+0024FA03 00000001
+// Have Kimra Bank Card
+0024FA02 00000001
+// Have Jacob's Disk
+0024FA01 00000001
+// Have Chris' ID Card
+0024FA00 00000001
+// Have Small Hassy
+0024F9FF 00000002
+// Have Large Hassy
+0024F9FE 00000002
+// Have Sandwich
+0024F9FD 00000002
+// Have Hotdog
+0024F9FC 00000002
+// Have Hamburger
+0024F9FB 00000002
+// Infinite Pistol Ammo
+0124FB9C 0000000F
+// Infinite Money
+0124F93C 0000FFFF
+// Eliot Codes-Have Ray Gun
+0024F998 00000001
+// Eliot Codes-Have Laser Gun
+0024F997 00000001
+// Eliot Codes-Have Acid Gun
+0024F996 00000001
+// Eliot Codes-Have Napalm Gun
+0024F995 00000001
+// Eliot Codes-Have Shotgun
+0024F994 00000001
+// Eliot Codes-Have Bazooka
+0024F993 00000001
+// Eliot Codes-Have Plasma Gun
+0024F992 00000001
+// Eliot Codes-Have Handgun
+0024F991 00000001
+// Eliot Codes-Infinite Health
+0124FBCC 00000038
+// Dog Codes-Infinite Health
+0124FBCE 00000038
+// Dog Codes-Infinite Arrows
+0124FBB6 00000006

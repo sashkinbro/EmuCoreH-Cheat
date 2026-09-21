@@ -1,0 +1,50 @@
+// P1 Infinite Health
+01169346 000000D2
+// P1 75% Health (Continued)
+01169346 0000009C
+// P1 50% Health (Continued)
+01169346 00000068
+// P1 25% Health (Continued)
+01169346 00000034
+// P1 One Hit Kill (Continued)
+01169346 00000001
+// P1 Instant Death
+01169346 00000000
+// P1 Infinite Armor
+0116A228 00000000
+// P1 No Armor (Continued)
+0116A228 000000FF
+// P2 Infinite Health
+01171C8A 000000D2
+// P2 75% Health (Continued)
+01171C8A 0000009C
+// P2 50% Health (Continued)
+01171C8A 00000068
+// P2 25% Health (Continued)
+01171C8A 00000034
+// P2 One Hit Kill (Continued)
+01171C8A 00000001
+// P2 Instant Death
+01171C8A 00000000
+// P2 Infinite Armor
+01172B6C 00000000
+// P2 No Armor (Continued)
+01172B6C 000000FF
+// P1 Never Wins
+001E634C 00000000
+// P2 Never Wins
+001E634D 00000000
+// Infinite Round Timer
+011E62FC 00000B32
+// Time Is 0:00:00
+021E630C 00000000
+// Start On Last Level (Continued)
+011E6354 00000009
+// Unlock Kuhn
+0015E78C 00000001
+// Unlock Delsol
+0015E78D 00000001
+// Unlock BM
+0015E78E 00000001
+// Unlock All Characters
+0215E78C 00010101

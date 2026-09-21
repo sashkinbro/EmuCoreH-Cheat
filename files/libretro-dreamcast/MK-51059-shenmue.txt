@@ -1,0 +1,20 @@
+// Have All Items
+01221AA6 00000101
+// Infinite Money
+01220A38 0000FFFF
+// Max Money
+02220A38 05F5E0FF
+// All Punches Mastered
+01221B9C 00000064
+// All Kicks Mastered
+01221BD6 00000064
+// All Throws Mastered
+01221C38 00000064
+// Infinite Health
+0171C19C 000000C8
+// Stop Timer
+0119E990 00000009
+// Unlock 70 Man Battle 
+013C6624 00000001
+// All Music Unlocked
+0130A0BC 00000101

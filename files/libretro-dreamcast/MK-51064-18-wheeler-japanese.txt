@@ -1,0 +1,8 @@
+// Arcade Mode Codes-Stop Game Timer
+0103B52C 00000009
+// Arcade Mode Codes-Stop Parking Timer
+0105EFC6 00000009
+// Parking Mode Codes-Stop Timer
+01030992 00000009
+// Parking Mode Codes-Stop Timer (Continued)
+0102E41E 00000009

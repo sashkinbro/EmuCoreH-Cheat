@@ -1,0 +1,30 @@
+// Infinite Credits
+002C43FC 00000003
+// P1 Infinite Health
+002C3E5E 00000005
+// P2 Infinite Health
+002C4066 00000005
+// Enable Big Head Mode
+002C09D8 00000003
+// Infinite Golden Hands Time
+012C09F0 000000C8
+// P1 Item Modifier (Replace FF's with below code)
+012C404C 000000FF
+// P2 Item Modifier (Replace FF's with below code)
+012C4050 000000FF
+// P3 Item Modifier (Replace FF's with below code)
+012C4054 000000FF
+// P4 Item Modifier (Replace FF's with below code)
+012C4058 000000FF
+// Item Modifier Code
+01000000 00000000
+// 11 - Tranquilzer
+01000000 00000000
+// 12 - Golden Hands
+01000000 00000000
+// 13 - Molotv Cocktail
+01000000 00000000
+// 14 - Sulphuric Acid
+01000000 00000000
+// 15 - Pain Killer
+01000000 00000000

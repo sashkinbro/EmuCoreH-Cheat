@@ -1,0 +1,58 @@
+// Infinite Money
+012FBC58 0000FFFF
+// Max Money
+022FBC58 0098967F
+// P1 Quick Win (Continued)
+01287B10 00000003
+// P1 Never Wins (Continued)
+01287B10 00000000
+// P2 Quick Win (Continued)
+01287B14 00000003
+// P2 Never Wins (Continued)
+01287B14 00000000
+// Have All Outfits
+0240C308 0FFFFFFF
+// Have All Outfits (Continued)
+0140C30C 0000FFFF
+// Unlock The Master (Continued)
+01185350 00000001
+// Unlock Tinbergen (Continued)
+01185354 00000001
+// Unlock Euler (Continued)
+01185358 00000001
+// Unlock Tesla (Continued)
+0118535C 00000001
+// Unlock Altman (Continued)
+01185360 00000001
+// Unlock Singth (Continued)
+01185364 00000001
+// Unlock Costa (Continued)
+01185368 00000001
+// Unlock Ventura (Continued)
+0118536C 00000001
+// Unlock Inoue (Continued)
+01185370 00000001
+// Unlock King (Continued)
+01185374 00000001
+// Unlock Sweden (Continued)
+011AC174 00000001
+// Unlock Germany (Continued)
+011AC178 00000001
+// Unlock Russia (Continued)
+011AC17C 00000001
+// Unlock Spain (Continued)
+011AC180 00000001
+// Unlock Japan (Continued)
+011AC184 00000001
+// Able To Select The Same Player
+010AEA1C 00000009
+// Able To Select The Same Player (Continued)
+010AEB98 00000009
+// Able To Select The Same Player (Continued)
+010AABA2 00000009
+// Able To Select The Same Player (Continued)
+010AAAE2 00000009
+// Able To Select The Same Player (Continued)
+010AEAD4 00000009
+// Able To Select The Same Player (Continued)
+010AD4F8 00000009

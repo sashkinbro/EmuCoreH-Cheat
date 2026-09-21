@@ -1,0 +1,6 @@
+// Max Items Available
+01106E88 000003E7
+// Max Points (Arcade)
+01106A50 0000270F
+// Infinite Time (Arcade)
+01106A5E 000042C8

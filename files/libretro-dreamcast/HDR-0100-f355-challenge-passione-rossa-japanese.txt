@@ -1,0 +1,14 @@
+// Always Place 1st
+01306868 00000000
+// Infinite Time
+0130B224 00000F78
+// Enable Fiorano
+01324908 00000001
+// Enable Nurburgring
+0132490C 00000001
+// Enable Laguna-Seca
+01324910 00000001
+// Enable Sepang
+01324914 00000001
+// Enable Atlanta
+01324918 00000001

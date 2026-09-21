@@ -1,0 +1,4 @@
+// Away Team Score Modifier (Replace FF's with below code)
+0199E188 0000FFFF
+// Home Team Score Modifier (Replace FF's with below code)
+0199E18C 0000FFFF

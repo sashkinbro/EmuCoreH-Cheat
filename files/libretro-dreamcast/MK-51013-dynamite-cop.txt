@@ -1,0 +1,18 @@
+// Infinite Credits
+01368920 00000009
+// Infinite Health P1
+0136506A 00000080
+// All Power Ups P1
+01366574 00000005
+// Score Modifier P1 (Replace FF's with below code)
+0136659C 0000FFFF
+// Max Score P1
+0236659C 05F5E0FF
+// Infinite Health P2
+01366686 00000070
+// All Power Ups P2
+01367B90 00000005
+// Score Modifier P2 (Replace FF's with below code)
+01367BB8 0000FFFF
+// Max Score P2
+02367BB8 05F5E0FF
