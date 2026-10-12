@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-12T15:15:59Z",
+    "generatedAt":  "2026-10-12T15:39:43Z",
     "entries":  [
                     {
                         "id":  "libretro-dreamcast-t-36803n-102-dalmations-puppies-to-the-rescue",
@@ -18,7 +18,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  33,
-                        "updatedAt":  "2026-10-12T15:15:20Z"
+                        "updatedAt":  "2026-10-12T15:39:08Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51064-18-wheeler",
@@ -37,7 +37,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  10,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:08Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51064-18-wheeler-japanese",
@@ -56,7 +56,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:20Z"
+                        "updatedAt":  "2026-10-12T15:39:08Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9706d-4-wheel-thunder",
@@ -75,7 +75,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  5,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:08Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-41903n-4x4-evolution",
@@ -93,7 +93,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:08Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40202d-aerowings",
@@ -112,7 +112,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:08Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40209d-aerowings-2-airstrike",
@@ -131,7 +131,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  50,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:08Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9502m-air-force-delta",
@@ -150,7 +150,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:08Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51171-alien-front-online",
@@ -168,7 +168,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  49,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:08Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-15112d-alone-in-the-dark-the-new-nightmare-pal",
@@ -180,14 +180,14 @@
                         "authors":  [
                                         "Dreamcast Cheat Database contributors (bucanero)"
                                     ],
-                        "description":  "11 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
+                        "description":  "12 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
                         "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/T-15112D-alone-in-the-dark-the-new-nightmare-pal.txt",
                         "packPath":  "files/bucanero-dreamcast/T-15112D-alone-in-the-dark-the-new-nightmare-pal.txt",
                         "sourceUrl":  "https://github.com/bucanero/dreamcast-cheats",
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
-                        "blockCount":  11,
-                        "updatedAt":  "2026-10-12T15:15:40Z"
+                        "blockCount":  12,
+                        "updatedAt":  "2026-10-12T15:39:26Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40301n-armada",
@@ -205,7 +205,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:08Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9708d-army-men-sarge-s-heroes",
@@ -224,7 +224,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  6,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:08Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-15130n-atari-anniversary-edition",
@@ -242,7 +242,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  11,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:08Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-47110m-baldr-force-exe-jap",
@@ -260,7 +260,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:40Z"
+                        "updatedAt":  "2026-10-12T15:39:26Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-7011d-bangai-o-usa",
@@ -279,7 +279,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  5,
-                        "updatedAt":  "2026-10-12T15:15:40Z"
+                        "updatedAt":  "2026-10-12T15:39:26Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-43801m-battle-beaster-import-jap",
@@ -297,7 +297,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:40Z"
+                        "updatedAt":  "2026-10-12T15:39:26Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1222m-bio-hazard-3-last-escape",
@@ -315,7 +315,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  343,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:08Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-1207m-biohazard-code-veronica-import-jap",
@@ -334,7 +334,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  8,
-                        "updatedAt":  "2026-10-12T15:15:40Z"
+                        "updatedAt":  "2026-10-12T15:39:26Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-13001d-blue-stinger",
@@ -354,7 +354,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  34,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-13001d-blue-stinger-japanese",
@@ -374,7 +374,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  5,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51065-bomberman-online",
@@ -392,7 +392,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  48,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-46702m-border-down-jap",
@@ -411,7 +411,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  9,
-                        "updatedAt":  "2026-10-12T15:15:40Z"
+                        "updatedAt":  "2026-10-12T15:39:26Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-54040-buggy-heat-japanese",
@@ -430,7 +430,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8109d-bust-a-move-4",
@@ -449,7 +449,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:21Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-13007n-buzz-lightyear-of-star-command",
@@ -467,7 +467,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-13005d-buzz-lightyear-of-star-command-pal",
@@ -485,7 +485,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:40Z"
+                        "updatedAt":  "2026-10-12T15:39:26Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-46601d-cannon-spike",
@@ -504,7 +504,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  7,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7017d-capcom-vs-snk",
@@ -523,7 +523,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  30,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7017d-capcom-vs-snk-japanese",
@@ -542,7 +542,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  6,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "mame-arcade-capsnk",
@@ -560,7 +560,7 @@
                         "sourceName":  "MAME cheat collection (Pugsy\u0027s XML cheats, MAME 0.264)",
                         "license":  "MAME cheat XML collection by Pugsy and contributors; only plain main RAM writes are converted",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:58Z"
+                        "updatedAt":  "2026-10-12T15:39:43Z"
                     },
                     {
                         "id":  "mame-arcade-cvsgd",
@@ -578,7 +578,7 @@
                         "sourceName":  "MAME cheat collection (Pugsy\u0027s XML cheats, MAME 0.264)",
                         "license":  "MAME cheat XML collection by Pugsy and contributors; only plain main RAM writes are converted",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:58Z"
+                        "updatedAt":  "2026-10-12T15:39:43Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-44901d-carrier-pal",
@@ -598,7 +598,26 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:41Z"
+                        "updatedAt":  "2026-10-12T15:39:27Z"
+                    },
+                    {
+                        "id":  "bucanero-dreamcast-t-47701m-castle-of-shikigami-2-jap",
+                        "title":  "Castle of Shikigami 2 (JAP)",
+                        "serials":  [
+                                        "T-47701M",
+                                        "T-47702M"
+                                    ],
+                        "authors":  [
+                                        "Dreamcast Cheat Database contributors (bucanero)"
+                                    ],
+                        "description":  "2 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/T-47701M-castle-of-shikigami-2-jap.txt",
+                        "packPath":  "files/bucanero-dreamcast/T-47701M-castle-of-shikigami-2-jap.txt",
+                        "sourceUrl":  "https://github.com/bucanero/dreamcast-cheats",
+                        "sourceName":  "Dreamcast Cheat Database (bucanero)",
+                        "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
+                        "blockCount":  2,
+                        "updatedAt":  "2026-10-12T15:39:27Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40602n-centipede",
@@ -616,7 +635,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-41402d-championship-surfer-usa",
@@ -635,7 +654,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:41Z"
+                        "updatedAt":  "2026-10-12T15:39:27Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-47801m-chaos-field-jap",
@@ -653,7 +672,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  9,
-                        "updatedAt":  "2026-10-12T15:15:41Z"
+                        "updatedAt":  "2026-10-12T15:39:27Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-44902d-charge-n-blast",
@@ -673,7 +692,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  12,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-44902d-charge-n-blast-japanese",
@@ -693,7 +712,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  12,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-36814d-chicken-run",
@@ -712,7 +731,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  8,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1206m-choukousenki-kikaioh-japanese",
@@ -730,7 +749,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  13,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0039-chu-chu-rocket",
@@ -750,7 +769,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  7,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-44903d-coaster-works",
@@ -769,7 +788,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  12,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51160-confidential-mission",
@@ -788,7 +807,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  9,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-46603d-conflict-zone-pal",
@@ -807,7 +826,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:41Z"
+                        "updatedAt":  "2026-10-12T15:39:27Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51035-crazy-taxi",
@@ -826,7 +845,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  9,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51035-crazy-taxi-2-crazy-taxi-2-japanese",
@@ -847,7 +866,25 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  7,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
+                    },
+                    {
+                        "id":  "bucanero-dreamcast-t-46502m-d-vine-luv-jap",
+                        "title":  "D + Vine [LUV] (JAP)",
+                        "serials":  [
+                                        "T-46502M"
+                                    ],
+                        "authors":  [
+                                        "Dreamcast Cheat Database contributors (bucanero)"
+                                    ],
+                        "description":  "1 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/T-46502M-d-vine-luv-jap.txt",
+                        "packPath":  "files/bucanero-dreamcast/T-46502M-d-vine-luv-jap.txt",
+                        "sourceUrl":  "https://github.com/bucanero/dreamcast-cheats",
+                        "sourceName":  "Dreamcast Cheat Database (bucanero)",
+                        "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
+                        "blockCount":  1,
+                        "updatedAt":  "2026-10-12T15:39:27Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51036-d2",
@@ -865,7 +902,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51036-d2-japanese",
@@ -883,7 +920,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8120d-dave-mirra-freestyle-bmx",
@@ -902,7 +939,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  115,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51037-daytona-usa",
@@ -921,7 +958,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  7,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51037-daytona-usa-2001-japanese",
@@ -940,7 +977,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  9,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8116d-dead-or-alive-2",
@@ -961,7 +998,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  14,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:09Z"
                     },
                     {
                         "id":  "mame-arcade-doa2",
@@ -979,7 +1016,7 @@
                         "sourceName":  "MAME cheat collection (Pugsy\u0027s XML cheats, MAME 0.264)",
                         "license":  "MAME cheat XML collection by Pugsy and contributors; only plain main RAM writes are converted",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:58Z"
+                        "updatedAt":  "2026-10-12T15:39:43Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-3601n-dead-or-alive-2-limited-edition-japanese",
@@ -997,7 +1034,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  33,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:10Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-9501d-deadly-skies-pal",
@@ -1015,7 +1052,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  6,
-                        "updatedAt":  "2026-10-12T15:15:41Z"
+                        "updatedAt":  "2026-10-12T15:39:27Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-23202m-death-crimson-ox",
@@ -1034,7 +1071,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  13,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:10Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-23202m-death-crimson-ox-japanese",
@@ -1053,7 +1090,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  11,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:10Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17704d-deep-fighter",
@@ -1072,7 +1109,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:10Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-15112n-demolition-racer-no-exit",
@@ -1090,7 +1127,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:10Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7019d-dino-crisis",
@@ -1110,7 +1147,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  137,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:10Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7019d-dino-crisis-japanese",
@@ -1130,7 +1167,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:22Z"
+                        "updatedAt":  "2026-10-12T15:39:10Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-36813d-disney-s-102-dalmatians-puppies-to-the-rescue-usa",
@@ -1148,7 +1185,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:41Z"
+                        "updatedAt":  "2026-10-12T15:39:27Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-17718d-disneys-dinosaur-pal",
@@ -1167,7 +1204,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  22,
-                        "updatedAt":  "2026-10-12T15:15:41Z"
+                        "updatedAt":  "2026-10-12T15:39:27Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17719n-donald-duck-goin-quackers",
@@ -1185,7 +1222,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:23Z"
+                        "updatedAt":  "2026-10-12T15:39:10Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17716d-dragon-riders-chronicles-of-pern",
@@ -1204,7 +1241,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:23Z"
+                        "updatedAt":  "2026-10-12T15:39:10Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-8121d-ducati-world-pal",
@@ -1222,7 +1259,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  25,
-                        "updatedAt":  "2026-10-12T15:15:41Z"
+                        "updatedAt":  "2026-10-12T15:39:27Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8113n-ducati-world-racing-challenge",
@@ -1240,7 +1277,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  28,
-                        "updatedAt":  "2026-10-12T15:15:23Z"
+                        "updatedAt":  "2026-10-12T15:39:10Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51013-dynamite-cop",
@@ -1258,7 +1295,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  9,
-                        "updatedAt":  "2026-10-12T15:15:23Z"
+                        "updatedAt":  "2026-10-12T15:39:10Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51033-ecco-the-dolphin",
@@ -1277,7 +1314,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:23Z"
+                        "updatedAt":  "2026-10-12T15:39:10Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8119d-ecw-anarchy-rulz",
@@ -1296,7 +1333,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:23Z"
+                        "updatedAt":  "2026-10-12T15:39:10Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8116d-ecw-hardcore-revolution",
@@ -1315,7 +1352,43 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:23Z"
+                        "updatedAt":  "2026-10-12T15:39:10Z"
+                    },
+                    {
+                        "id":  "bucanero-dreamcast-t-1223m-el-dorado-gate-vol-1-import-jap",
+                        "title":  "El Dorado Gate: Vol. 1 (Import) (JAP)",
+                        "serials":  [
+                                        "T-1223M"
+                                    ],
+                        "authors":  [
+                                        "Dreamcast Cheat Database contributors (bucanero)"
+                                    ],
+                        "description":  "3 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/T-1223M-el-dorado-gate-vol-1-import-jap.txt",
+                        "packPath":  "files/bucanero-dreamcast/T-1223M-el-dorado-gate-vol-1-import-jap.txt",
+                        "sourceUrl":  "https://github.com/bucanero/dreamcast-cheats",
+                        "sourceName":  "Dreamcast Cheat Database (bucanero)",
+                        "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
+                        "blockCount":  3,
+                        "updatedAt":  "2026-10-12T15:39:27Z"
+                    },
+                    {
+                        "id":  "bucanero-dreamcast-t-1225m-el-dorado-gate-vol-3-import-jap",
+                        "title":  "El Dorado Gate: Vol. 3 (Import) (JAP)",
+                        "serials":  [
+                                        "T-1225M"
+                                    ],
+                        "authors":  [
+                                        "Dreamcast Cheat Database contributors (bucanero)"
+                                    ],
+                        "description":  "9 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/T-1225M-el-dorado-gate-vol-3-import-jap.txt",
+                        "packPath":  "files/bucanero-dreamcast/T-1225M-el-dorado-gate-vol-3-import-jap.txt",
+                        "sourceUrl":  "https://github.com/bucanero/dreamcast-cheats",
+                        "sourceName":  "Dreamcast Cheat Database (bucanero)",
+                        "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
+                        "blockCount":  9,
+                        "updatedAt":  "2026-10-12T15:39:27Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-14302m-elemental-gimmick-gear",
@@ -1334,7 +1407,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  7,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-14302m-elemental-gimmick-gear-japanese",
@@ -1353,7 +1426,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  7,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9504d-espn-international-track-field",
@@ -1372,7 +1445,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9503n-espn-nba-2-night",
@@ -1390,7 +1463,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-7015d-european-super-league-pal",
@@ -1408,7 +1481,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:42Z"
+                        "updatedAt":  "2026-10-12T15:39:27Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-10005d-evil-dead-hail-to-the-king",
@@ -1427,7 +1500,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  108,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-45005d-evolution-2-far-off-promise",
@@ -1446,7 +1519,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  25,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17705d-evolution-the-world-of-sacred-device",
@@ -1465,7 +1538,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17705d-evolution-the-world-of-sacred-device-japanese",
@@ -1484,7 +1557,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-22903d-exhibition-of-speed-european",
@@ -1502,7 +1575,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-15104n-expendable",
@@ -1520,7 +1593,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  48,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-15104n-expendable-japanese",
@@ -1538,7 +1611,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  25,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-3002d-f1-world-grand-prix",
@@ -1560,7 +1633,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  22,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-hdr-0100-f355-challenge-import-jap",
@@ -1578,7 +1651,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  7,
-                        "updatedAt":  "2026-10-12T15:15:42Z"
+                        "updatedAt":  "2026-10-12T15:39:28Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8118d-f355-challenge-passione-rossa",
@@ -1597,7 +1670,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  7,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8118d-f355-challenge-passione-rossa-japanese",
@@ -1616,7 +1689,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  7,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-44306n-fatal-fury-mark-of-the-wolves",
@@ -1634,7 +1707,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  14,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-36802d-fighting-force-2",
@@ -1653,7 +1726,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51154-fighting-vipers-2-european",
@@ -1672,7 +1745,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  25,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51154-fighting-vipers-2-japanese",
@@ -1691,7 +1764,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  25,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-18804m-fire-pro-wrestling-d-japanese",
@@ -1709,7 +1782,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  84,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51007-flag-to-flag",
@@ -1727,7 +1800,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  27,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51114-floigan-brothers-episode-1",
@@ -1745,7 +1818,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-34201m-frame-guide-japanese",
@@ -1763,7 +1836,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  8,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40604n-frogger-2-swampy-s-revenge",
@@ -1781,7 +1854,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  6,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8113d-fur-fighters",
@@ -1800,7 +1873,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  97,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-3108m-garou-mark-of-the-wolves-japanese",
@@ -1819,7 +1892,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  14,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9707d-gauntlet-legends",
@@ -1838,7 +1911,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  40,
-                        "updatedAt":  "2026-10-12T15:15:24Z"
+                        "updatedAt":  "2026-10-12T15:39:11Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0101-giant-gram-2000-japanese",
@@ -1856,7 +1929,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  8,
-                        "updatedAt":  "2026-10-12T15:15:25Z"
+                        "updatedAt":  "2026-10-12T15:39:12Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7008d-giga-wing",
@@ -1876,7 +1949,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  6,
-                        "updatedAt":  "2026-10-12T15:15:25Z"
+                        "updatedAt":  "2026-10-12T15:39:12Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1239m-giga-wing-2",
@@ -1895,7 +1968,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  14,
-                        "updatedAt":  "2026-10-12T15:15:25Z"
+                        "updatedAt":  "2026-10-12T15:39:12Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1239m-giga-wing-2-japanese",
@@ -1914,7 +1987,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  14,
-                        "updatedAt":  "2026-10-12T15:15:25Z"
+                        "updatedAt":  "2026-10-12T15:39:12Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0047-godzilla-generations-maximum-impact-japanese",
@@ -1932,7 +2005,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:25Z"
+                        "updatedAt":  "2026-10-12T15:39:12Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40901m-golf-shiyouyo-2-new-challengers-japanese",
@@ -1950,7 +2023,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:25Z"
+                        "updatedAt":  "2026-10-12T15:39:12Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40502d-grand-theft-auto-2",
@@ -1969,7 +2042,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:25Z"
+                        "updatedAt":  "2026-10-12T15:39:12Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17715d-grandia-ii",
@@ -1990,7 +2063,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  541,
-                        "updatedAt":  "2026-10-12T15:15:25Z"
+                        "updatedAt":  "2026-10-12T15:39:12Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17715d-grandia-ii-japanese",
@@ -2011,7 +2084,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:25Z"
+                        "updatedAt":  "2026-10-12T15:39:12Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9503d-grinch-the",
@@ -2030,7 +2103,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  20,
-                        "updatedAt":  "2026-10-12T15:15:25Z"
+                        "updatedAt":  "2026-10-12T15:39:12Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-2401m-guilty-gear-x-japanese",
@@ -2049,7 +2122,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  39,
-                        "updatedAt":  "2026-10-12T15:15:25Z"
+                        "updatedAt":  "2026-10-12T15:39:12Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7018d-gunbird-2",
@@ -2069,7 +2142,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  8,
-                        "updatedAt":  "2026-10-12T15:15:25Z"
+                        "updatedAt":  "2026-10-12T15:39:12Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-13301n-gundam-side-story-0079",
@@ -2087,7 +2160,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  24,
-                        "updatedAt":  "2026-10-12T15:15:25Z"
+                        "updatedAt":  "2026-10-12T15:39:12Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-46602d-heavy-metal-geomatrix-japanese",
@@ -2107,7 +2180,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  8,
-                        "updatedAt":  "2026-10-12T15:15:25Z"
+                        "updatedAt":  "2026-10-12T15:39:12Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-mk-51002-house-of-the-dead-2-import-jap",
@@ -2127,7 +2200,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:44Z"
+                        "updatedAt":  "2026-10-12T15:39:29Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-mk-55045-house-of-the-dead-2-pal",
@@ -2145,7 +2218,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  69,
-                        "updatedAt":  "2026-10-12T15:15:44Z"
+                        "updatedAt":  "2026-10-12T15:39:30Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-9702d-hydro-thunder-pal",
@@ -2163,7 +2236,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  9,
-                        "updatedAt":  "2026-10-12T15:15:45Z"
+                        "updatedAt":  "2026-10-12T15:39:30Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9702n-hydro-thunder-version-1-0",
@@ -2181,7 +2254,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  11,
-                        "updatedAt":  "2026-10-12T15:15:26Z"
+                        "updatedAt":  "2026-10-12T15:39:13Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9702n-hydro-thunder-version-1-1",
@@ -2199,7 +2272,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  11,
-                        "updatedAt":  "2026-10-12T15:15:26Z"
+                        "updatedAt":  "2026-10-12T15:39:13Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-45601m-illbleed",
@@ -2218,7 +2291,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  122,
-                        "updatedAt":  "2026-10-12T15:15:26Z"
+                        "updatedAt":  "2026-10-12T15:39:13Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-45601m-illbleed-japanese",
@@ -2237,7 +2310,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  121,
-                        "updatedAt":  "2026-10-12T15:15:26Z"
+                        "updatedAt":  "2026-10-12T15:39:13Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-43501m-imperial-no-taka-fighter-of-zero-japanese",
@@ -2255,7 +2328,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:26Z"
+                        "updatedAt":  "2026-10-12T15:39:13Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40701d-incoming",
@@ -2274,7 +2347,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:26Z"
+                        "updatedAt":  "2026-10-12T15:39:13Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-41302n-industrial-spy-operation-espionage",
@@ -2292,7 +2365,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  19,
-                        "updatedAt":  "2026-10-12T15:15:26Z"
+                        "updatedAt":  "2026-10-12T15:39:13Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-44904d-iron-aces",
@@ -2311,7 +2384,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:26Z"
+                        "updatedAt":  "2026-10-12T15:39:13Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8114d-jeremy-mcgrath-supercross-2000",
@@ -2330,7 +2403,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:26Z"
+                        "updatedAt":  "2026-10-12T15:39:13Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51058-jet-grind-radio",
@@ -2349,7 +2422,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  127,
-                        "updatedAt":  "2026-10-12T15:15:26Z"
+                        "updatedAt":  "2026-10-12T15:39:13Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-hdr-0078-jet-set-radio-pal",
@@ -2367,7 +2440,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:45Z"
+                        "updatedAt":  "2026-10-12T15:39:30Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7007d-jojo-s-bizarre-adventure",
@@ -2386,7 +2459,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  14,
-                        "updatedAt":  "2026-10-12T15:15:26Z"
+                        "updatedAt":  "2026-10-12T15:39:13Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-22902d-kao-the-kangaroo",
@@ -2405,7 +2478,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:26Z"
+                        "updatedAt":  "2026-10-12T15:39:13Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-22902d-kao-the-kangaroo-european",
@@ -2424,7 +2497,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  34,
-                        "updatedAt":  "2026-10-12T15:15:26Z"
+                        "updatedAt":  "2026-10-12T15:39:13Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-3101n-king-of-the-fighters-dream-match-99",
@@ -2442,7 +2515,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  20,
-                        "updatedAt":  "2026-10-12T15:15:27Z"
+                        "updatedAt":  "2026-10-12T15:39:14Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-44302n-king-of-the-fighters-evolution",
@@ -2460,7 +2533,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  37,
-                        "updatedAt":  "2026-10-12T15:15:27Z"
+                        "updatedAt":  "2026-10-12T15:39:14Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-44305n-last-blade-2-heart-of-the-samurai",
@@ -2478,7 +2551,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  18,
-                        "updatedAt":  "2026-10-12T15:15:28Z"
+                        "updatedAt":  "2026-10-12T15:39:15Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-36803d-legacy-of-kain-soul-reaver-usa",
@@ -2496,7 +2569,25 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  5,
-                        "updatedAt":  "2026-10-12T15:15:46Z"
+                        "updatedAt":  "2026-10-12T15:39:31Z"
+                    },
+                    {
+                        "id":  "bucanero-dreamcast-t-7012d-lodoss-record-of-lodoss-war-pal",
+                        "title":  "Lodoss Record of Lodoss War (PAL)",
+                        "serials":  [
+                                        "T-7012D"
+                                    ],
+                        "authors":  [
+                                        "Dreamcast Cheat Database contributors (bucanero)"
+                                    ],
+                        "description":  "21 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/T-7012D-lodoss-record-of-lodoss-war-pal.txt",
+                        "packPath":  "files/bucanero-dreamcast/T-7012D-lodoss-record-of-lodoss-war-pal.txt",
+                        "sourceUrl":  "https://github.com/bucanero/dreamcast-cheats",
+                        "sourceName":  "Dreamcast Cheat Database (bucanero)",
+                        "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
+                        "blockCount":  21,
+                        "updatedAt":  "2026-10-12T15:39:31Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-15108d-looney-tunes-space-race",
@@ -2515,7 +2606,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:28Z"
+                        "updatedAt":  "2026-10-12T15:39:15Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-21501m-macross-m3-japanese",
@@ -2534,7 +2625,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:28Z"
+                        "updatedAt":  "2026-10-12T15:39:15Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40207d-magforce-racing",
@@ -2553,7 +2644,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:28Z"
+                        "updatedAt":  "2026-10-12T15:39:15Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51050-maken-x",
@@ -2572,7 +2663,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  10,
-                        "updatedAt":  "2026-10-12T15:15:28Z"
+                        "updatedAt":  "2026-10-12T15:39:15Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1238m-mars-matrix",
@@ -2591,7 +2682,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:28Z"
+                        "updatedAt":  "2026-10-12T15:39:15Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1221n-mars-matrix-hyper-solid-shooting-japanese",
@@ -2609,7 +2700,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  5,
-                        "updatedAt":  "2026-10-12T15:15:28Z"
+                        "updatedAt":  "2026-10-12T15:39:15Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-7002d-marvel-vs-capcom-pal",
@@ -2627,7 +2718,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  8,
-                        "updatedAt":  "2026-10-12T15:15:47Z"
+                        "updatedAt":  "2026-10-12T15:39:32Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1202n-marvel-vs-capcom",
@@ -2646,7 +2737,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  32,
-                        "updatedAt":  "2026-10-12T15:15:29Z"
+                        "updatedAt":  "2026-10-12T15:39:16Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-1202m-marvel-vs-capcom-import-jap",
@@ -2664,7 +2755,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  24,
-                        "updatedAt":  "2026-10-12T15:15:47Z"
+                        "updatedAt":  "2026-10-12T15:39:32Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1202n-marvel-vs-capcom-japanese",
@@ -2683,7 +2774,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  32,
-                        "updatedAt":  "2026-10-12T15:15:28Z"
+                        "updatedAt":  "2026-10-12T15:39:15Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1212n-marvel-vs-capcom-2",
@@ -2701,7 +2792,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  48,
-                        "updatedAt":  "2026-10-12T15:15:28Z"
+                        "updatedAt":  "2026-10-12T15:39:15Z"
                     },
                     {
                         "id":  "mame-arcade-mvsc2",
@@ -2719,7 +2810,7 @@
                         "sourceName":  "MAME cheat collection (Pugsy\u0027s XML cheats, MAME 0.264)",
                         "license":  "MAME cheat XML collection by Pugsy and contributors; only plain main RAM writes are converted",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:59Z"
+                        "updatedAt":  "2026-10-12T15:39:43Z"
                     },
                     {
                         "id":  "mame-arcade-mvsc2u",
@@ -2737,7 +2828,7 @@
                         "sourceName":  "MAME cheat collection (Pugsy\u0027s XML cheats, MAME 0.264)",
                         "license":  "MAME cheat XML collection by Pugsy and contributors; only plain main RAM writes are converted",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:59Z"
+                        "updatedAt":  "2026-10-12T15:39:43Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-13005n-mat-hoffman-s-pro-bmx-usa",
@@ -2755,7 +2846,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  32,
-                        "updatedAt":  "2026-10-12T15:15:47Z"
+                        "updatedAt":  "2026-10-12T15:39:32Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-41402n-max-steel",
@@ -2773,7 +2864,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  24,
-                        "updatedAt":  "2026-10-12T15:15:29Z"
+                        "updatedAt":  "2026-10-12T15:39:16Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-11002n-maximum-pool",
@@ -2791,7 +2882,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:29Z"
+                        "updatedAt":  "2026-10-12T15:39:16Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-12501d-mdk-2",
@@ -2810,7 +2901,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  9,
-                        "updatedAt":  "2026-10-12T15:15:29Z"
+                        "updatedAt":  "2026-10-12T15:39:16Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51012-metropolis-street-racer",
@@ -2828,7 +2919,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:29Z"
+                        "updatedAt":  "2026-10-12T15:39:16Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-mk-51022-metropolis-street-racer-pal",
@@ -2846,7 +2937,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:48Z"
+                        "updatedAt":  "2026-10-12T15:39:33Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51012-metropolis-street-racer-pal",
@@ -2864,7 +2955,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:29Z"
+                        "updatedAt":  "2026-10-12T15:39:16Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9710d-midway-s-greatest-arcade-hits-volume-1",
@@ -2883,7 +2974,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  13,
-                        "updatedAt":  "2026-10-12T15:15:29Z"
+                        "updatedAt":  "2026-10-12T15:39:16Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-1221m-moero-justice-gakuen-import-jap",
@@ -2901,7 +2992,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  6,
-                        "updatedAt":  "2026-10-12T15:15:48Z"
+                        "updatedAt":  "2026-10-12T15:39:34Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17701n-monaco-grand-prix",
@@ -2919,7 +3010,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  33,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:16Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-9701d-mortal-kombat-gold-pal",
@@ -2937,7 +3028,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  10,
-                        "updatedAt":  "2026-10-12T15:15:48Z"
+                        "updatedAt":  "2026-10-12T15:39:34Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9701n-mortal-kombat-gold-version-1-0",
@@ -2955,7 +3046,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  83,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9701n-mortal-kombat-gold-version-1-1",
@@ -2973,7 +3064,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  56,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7020d-mr-driller",
@@ -2993,7 +3084,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1404n-ms-pacman-maze-madness",
@@ -3011,7 +3102,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  17,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-10001d-mtv-sports-skateboarding-featuring-andy-macdonald-usa",
@@ -3030,7 +3121,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:49Z"
+                        "updatedAt":  "2026-10-12T15:39:34Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-27901m-nadesico-the-mission-jap",
@@ -3048,7 +3139,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:49Z"
+                        "updatedAt":  "2026-10-12T15:39:34Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1403n-namco-museum",
@@ -3066,7 +3157,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  11,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51004-nba-2k",
@@ -3085,7 +3176,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  230,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0150-nba-2k1",
@@ -3104,7 +3195,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  176,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51178-nba-2k2",
@@ -3123,7 +3214,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  156,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9713d-nba-hoopz",
@@ -3142,7 +3233,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  22,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9705d-nba-showtime-nba-on-nbc",
@@ -3160,7 +3251,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  29,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51176-ncaa-2k2",
@@ -3178,7 +3269,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  56,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0058-nfl-2k",
@@ -3198,7 +3289,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  37,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0144-nfl-2k1",
@@ -3218,7 +3309,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  56,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0196-nfl-2k2",
@@ -3237,7 +3328,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  55,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9703d-nfl-blitz-2000",
@@ -3256,7 +3347,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  20,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9712n-nfl-blitz-2001",
@@ -3274,7 +3365,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  21,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8102d-nfl-quarterback-club-2000",
@@ -3293,7 +3384,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:30Z"
+                        "updatedAt":  "2026-10-12T15:39:17Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8115n-nfl-quarterback-club-2001",
@@ -3311,7 +3402,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  5,
-                        "updatedAt":  "2026-10-12T15:15:31Z"
+                        "updatedAt":  "2026-10-12T15:39:18Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51025-nhl-2k",
@@ -3330,7 +3421,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  28,
-                        "updatedAt":  "2026-10-12T15:15:31Z"
+                        "updatedAt":  "2026-10-12T15:39:18Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9502d-nightmare-creatures-ii",
@@ -3349,7 +3440,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:31Z"
+                        "updatedAt":  "2026-10-12T15:39:18Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-36807n-omikron-the-nomad-soul",
@@ -3367,7 +3458,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  9,
-                        "updatedAt":  "2026-10-12T15:15:31Z"
+                        "updatedAt":  "2026-10-12T15:39:18Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51102-outtrigger",
@@ -3386,7 +3477,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  5,
-                        "updatedAt":  "2026-10-12T15:15:31Z"
+                        "updatedAt":  "2026-10-12T15:39:18Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-15103d-pen-pen-tricelon",
@@ -3404,7 +3495,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:31Z"
+                        "updatedAt":  "2026-10-12T15:39:18Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51100-phantasy-star-online",
@@ -3423,7 +3514,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  483,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:19Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51100-phantasy-star-online-european",
@@ -3442,7 +3533,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  483,
-                        "updatedAt":  "2026-10-12T15:15:31Z"
+                        "updatedAt":  "2026-10-12T15:39:18Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51100-phantasy-star-online-japanese",
@@ -3461,7 +3552,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  485,
-                        "updatedAt":  "2026-10-12T15:15:32Z"
+                        "updatedAt":  "2026-10-12T15:39:18Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51100-phantasy-star-online-v2",
@@ -3480,7 +3571,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  388,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:19Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51100-phantasy-star-online-v2-european",
@@ -3499,7 +3590,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  376,
-                        "updatedAt":  "2026-10-12T15:15:32Z"
+                        "updatedAt":  "2026-10-12T15:39:19Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51100-phantasy-star-online-v2-japanese",
@@ -3518,7 +3609,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  392,
-                        "updatedAt":  "2026-10-12T15:15:32Z"
+                        "updatedAt":  "2026-10-12T15:39:19Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1207n-plasma-sword",
@@ -3536,7 +3627,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  14,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:20Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-7003d-plasma-sword-pal",
@@ -3554,7 +3645,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  9,
-                        "updatedAt":  "2026-10-12T15:15:50Z"
+                        "updatedAt":  "2026-10-12T15:39:35Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-6806m-power-jet-racing-2001-import-jap",
@@ -3572,7 +3663,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  10,
-                        "updatedAt":  "2026-10-12T15:15:50Z"
+                        "updatedAt":  "2026-10-12T15:39:35Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0113-power-smash-sega-professional-tennis-japanese",
@@ -3590,7 +3681,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  5,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:20Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-36801d-power-stone",
@@ -3610,7 +3701,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  26,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:20Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-36801d-power-stone-japanese",
@@ -3630,7 +3721,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  25,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:20Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-36812d-power-stone-2",
@@ -3650,7 +3741,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  27,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:20Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-36812d-power-stone-2-japanese",
@@ -3670,7 +3761,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  8,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:20Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-41405n-prince-of-persia",
@@ -3688,7 +3779,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  55,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:20Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-19711m-prism-heart-jap",
@@ -3706,7 +3797,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:50Z"
+                        "updatedAt":  "2026-10-12T15:39:35Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1219n-project-justice",
@@ -3724,7 +3815,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  17,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:20Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8106d-psychic-force-2012",
@@ -3744,7 +3835,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  12,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:20Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-9907m-psyvariar-2-jap",
@@ -3762,7 +3853,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  5,
-                        "updatedAt":  "2026-10-12T15:15:50Z"
+                        "updatedAt":  "2026-10-12T15:39:36Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-hdr-0216-puyo-puyo-fever-jap",
@@ -3781,7 +3872,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:50Z"
+                        "updatedAt":  "2026-10-12T15:39:36Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51061-quake-iii-arena",
@@ -3799,7 +3890,25 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  12,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:20Z"
+                    },
+                    {
+                        "id":  "bucanero-dreamcast-t-47802m-radilgy-jap",
+                        "title":  "Radilgy (JAP)",
+                        "serials":  [
+                                        "T-47802M"
+                                    ],
+                        "authors":  [
+                                        "Dreamcast Cheat Database contributors (bucanero)"
+                                    ],
+                        "description":  "2 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/T-47802M-radilgy-jap.txt",
+                        "packPath":  "files/bucanero-dreamcast/T-47802M-radilgy-jap.txt",
+                        "sourceUrl":  "https://github.com/bucanero/dreamcast-cheats",
+                        "sourceName":  "Dreamcast Cheat Database (bucanero)",
+                        "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
+                        "blockCount":  2,
+                        "updatedAt":  "2026-10-12T15:39:36Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17704n-rayman-2",
@@ -3817,7 +3926,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:20Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-17707d-rayman-2-the-great-escape-pal",
@@ -3835,7 +3944,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  8,
-                        "updatedAt":  "2026-10-12T15:15:51Z"
+                        "updatedAt":  "2026-10-12T15:39:36Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40219n-razor-freestyle-scooter",
@@ -3853,7 +3962,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  28,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:20Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-9704d-ready-2-rumble-pal",
@@ -3871,7 +3980,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:51Z"
+                        "updatedAt":  "2026-10-12T15:39:36Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9711d-ready-2-rumble-boxing-round-2",
@@ -3890,7 +3999,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  26,
-                        "updatedAt":  "2026-10-12T15:15:33Z"
+                        "updatedAt":  "2026-10-12T15:39:20Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9717n-ready-2-rumble-version-1-0",
@@ -3909,7 +4018,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  163,
-                        "updatedAt":  "2026-10-12T15:15:34Z"
+                        "updatedAt":  "2026-10-12T15:39:20Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9717n-ready-2-rumble-version-1-1",
@@ -3928,26 +4037,25 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  163,
-                        "updatedAt":  "2026-10-12T15:15:34Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
-                        "id":  "bucanero-dreamcast-t-7012d-record-of-lodoss-war-usa",
+                        "id":  "bucanero-dreamcast-t-40218n-record-of-lodoss-war-usa",
                         "title":  "Record Of Lodoss War (USA)",
                         "serials":  [
-                                        "T-7012D",
                                         "T-40218N"
                                     ],
                         "authors":  [
                                         "Dreamcast Cheat Database contributors (bucanero)"
                                     ],
                         "description":  "9 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
-                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/T-7012D-record-of-lodoss-war-usa.txt",
-                        "packPath":  "files/bucanero-dreamcast/T-7012D-record-of-lodoss-war-usa.txt",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/T-40218N-record-of-lodoss-war-usa.txt",
+                        "packPath":  "files/bucanero-dreamcast/T-40218N-record-of-lodoss-war-usa.txt",
                         "sourceUrl":  "https://github.com/bucanero/dreamcast-cheats",
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  9,
-                        "updatedAt":  "2026-10-12T15:15:52Z"
+                        "updatedAt":  "2026-10-12T15:39:37Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-27903m-record-of-lodoss-war-the-advent-of-cardice",
@@ -3965,7 +4073,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  251,
-                        "updatedAt":  "2026-10-12T15:15:34Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-27903m-record-of-lodoss-war-the-advent-of-cardice-european",
@@ -3983,7 +4091,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  251,
-                        "updatedAt":  "2026-10-12T15:15:34Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-27903m-record-of-lodoss-war-the-advent-of-cardice-japanese",
@@ -4001,7 +4109,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  250,
-                        "updatedAt":  "2026-10-12T15:15:34Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51021-red-dog-superior-fire-power",
@@ -4020,7 +4128,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:34Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-44303n-reel-fishing-wild",
@@ -4038,7 +4146,26 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  97,
-                        "updatedAt":  "2026-10-12T15:15:34Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
+                    },
+                    {
+                        "id":  "bucanero-dreamcast-t-36806d-resident-evil-code-veronica-pal",
+                        "title":  "Resident Evil : Code Veronica (PAL)",
+                        "serials":  [
+                                        "T-36806D",
+                                        "T-1204N"
+                                    ],
+                        "authors":  [
+                                        "Dreamcast Cheat Database contributors (bucanero)"
+                                    ],
+                        "description":  "24 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/T-36806D-resident-evil-code-veronica-pal.txt",
+                        "packPath":  "files/bucanero-dreamcast/T-36806D-resident-evil-code-veronica-pal.txt",
+                        "sourceUrl":  "https://github.com/bucanero/dreamcast-cheats",
+                        "sourceName":  "Dreamcast Cheat Database (bucanero)",
+                        "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
+                        "blockCount":  24,
+                        "updatedAt":  "2026-10-12T15:39:37Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7004d-resident-evil-2",
@@ -4057,7 +4184,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  304,
-                        "updatedAt":  "2026-10-12T15:15:34Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7021d-resident-evil-3-nemesis",
@@ -4076,26 +4203,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  304,
-                        "updatedAt":  "2026-10-12T15:15:34Z"
-                    },
-                    {
-                        "id":  "bucanero-dreamcast-t-36806d-resident-evil-code-veronica-usa",
-                        "title":  "Resident Evil Code: Veronica (USA)",
-                        "serials":  [
-                                        "T-36806D",
-                                        "T-1204N"
-                                    ],
-                        "authors":  [
-                                        "Dreamcast Cheat Database contributors (bucanero)"
-                                    ],
-                        "description":  "118 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
-                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/T-36806D-resident-evil-code-veronica-usa.txt",
-                        "packPath":  "files/bucanero-dreamcast/T-36806D-resident-evil-code-veronica-usa.txt",
-                        "sourceUrl":  "https://github.com/bucanero/dreamcast-cheats",
-                        "sourceName":  "Dreamcast Cheat Database (bucanero)",
-                        "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
-                        "blockCount":  118,
-                        "updatedAt":  "2026-10-12T15:15:52Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8107d-re-volt",
@@ -4115,7 +4223,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:34Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51192-rez-europe",
@@ -4134,7 +4242,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:34Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-27902m-ring-the",
@@ -4152,7 +4260,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  73,
-                        "updatedAt":  "2026-10-12T15:15:34Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-27902m-ring-the-japanese",
@@ -4170,7 +4278,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:34Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51010-rippin-riders",
@@ -4188,7 +4296,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  6,
-                        "updatedAt":  "2026-10-12T15:15:34Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-22901d-roadsters",
@@ -4207,7 +4315,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51092-samba-de-amigo",
@@ -4226,7 +4334,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9709d-san-francisco-rush-2049",
@@ -4245,7 +4353,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  16,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51048-seaman",
@@ -4263,7 +4371,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51006-sega-bass-fishing-2",
@@ -4282,7 +4390,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  40,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51053-sega-gt",
@@ -4300,7 +4408,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0104-sega-marine-fishing",
@@ -4319,7 +4427,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51019-sega-rally-2",
@@ -4338,7 +4446,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-mk-51146-sega-smashpack-volume-1-usa",
@@ -4356,7 +4464,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  176,
-                        "updatedAt":  "2026-10-12T15:15:52Z"
+                        "updatedAt":  "2026-10-12T15:39:38Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0073-sega-tetris-japanese",
@@ -4374,7 +4482,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-mk-51031-sega-worldwide-soccer-2000-pal",
@@ -4392,7 +4500,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  6,
-                        "updatedAt":  "2026-10-12T15:15:52Z"
+                        "updatedAt":  "2026-10-12T15:39:38Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-41301n-seventh-cross-evolution",
@@ -4410,7 +4518,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  11,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-8104d-shadowman-pal",
@@ -4428,7 +4536,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  66,
-                        "updatedAt":  "2026-10-12T15:15:52Z"
+                        "updatedAt":  "2026-10-12T15:39:38Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8106n-shadowman-version-1-0",
@@ -4446,7 +4554,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  32,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8106n-shadowman-version-1-1",
@@ -4464,7 +4572,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  32,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51059-shenmue",
@@ -4483,7 +4591,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  10,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-46303m-shinseiki-evangelion-jap",
@@ -4503,7 +4611,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:53Z"
+                        "updatedAt":  "2026-10-12T15:39:38Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-30803m-shutokou-battle-2-japanese",
@@ -4521,7 +4629,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9505d-silent-scope",
@@ -4541,7 +4649,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  8,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-9505d-silent-scope-japanese",
@@ -4561,7 +4669,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  8,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-15109d-silver",
@@ -4580,7 +4688,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  10,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-mk-51052-skies-of-arcadia-pal",
@@ -4598,7 +4706,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  7,
-                        "updatedAt":  "2026-10-12T15:15:53Z"
+                        "updatedAt":  "2026-10-12T15:39:38Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-15104d-slave-zero",
@@ -4617,7 +4725,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17722d-sno-cross-championship-racing",
@@ -4636,7 +4744,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17726d-soldier-of-fortune",
@@ -4655,7 +4763,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51000-sonic-adventure-japanese",
@@ -4674,7 +4782,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:21Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51000-sonic-adventure-2-sonic-adventure-2-european-sonic-adventure-2-japanese",
@@ -4695,7 +4803,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:22Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0129-sonic-adventure-2-the-trial-included-with-phantasy-star-online",
@@ -4714,7 +4822,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  9,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:22Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51000-sonic-adventure-version-1-0",
@@ -4733,7 +4841,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  10,
-                        "updatedAt":  "2026-10-12T15:15:35Z"
+                        "updatedAt":  "2026-10-12T15:39:22Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51000-sonic-adventure-version-1-1",
@@ -4752,7 +4860,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  10,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:22Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51060-sonic-shuffle",
@@ -4771,7 +4879,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  10,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:22Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1401d-soul-calibur",
@@ -4791,7 +4899,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  104,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:22Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-41401d-soul-fighter",
@@ -4810,7 +4918,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  9,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:22Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-36802n-soul-reaver-legacy-of-kain",
@@ -4828,7 +4936,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  6,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:23Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8112d-south-park-rally",
@@ -4847,7 +4955,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:23Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8105d-south-park-chef-s-luv-shack",
@@ -4866,7 +4974,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:23Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51051-space-channel-5",
@@ -4886,7 +4994,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:23Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1216n-spawn",
@@ -4904,7 +5012,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:23Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-36816d-spawn-in-the-demons-hand-pal",
@@ -4923,7 +5031,25 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:53Z"
+                        "updatedAt":  "2026-10-12T15:39:39Z"
+                    },
+                    {
+                        "id":  "libretro-dreamcast-t-41704n-spec-ops-omega-squad",
+                        "title":  "Spec Ops-Omega Squad",
+                        "serials":  [
+                                        "T-41704N"
+                                    ],
+                        "authors":  [
+                                        "libretro-database contributors and the original Dreamcast cheat authors"
+                                    ],
+                        "description":  "7 libretro Dreamcast cheat blocks for T-41704N.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/libretro-dreamcast/T-41704N-spec-ops-omega-squad.txt",
+                        "packPath":  "files/libretro-dreamcast/T-41704N-spec-ops-omega-squad.txt",
+                        "sourceUrl":  "https://github.com/libretro/libretro-database/blob/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast/Spec%20Ops-Omega%20Squad.cht",
+                        "sourceName":  "libretro-database Dreamcast cheats",
+                        "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+                        "blockCount":  7,
+                        "updatedAt":  "2026-10-12T15:39:23Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17702d-speed-devils",
@@ -4943,7 +5069,26 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:23Z"
+                    },
+                    {
+                        "id":  "bucanero-dreamcast-t-17713d-speed-devils-online-racing-usa",
+                        "title":  "Speed Devils Online Racing (USA)",
+                        "serials":  [
+                                        "T-17713D",
+                                        "T-17718N"
+                                    ],
+                        "authors":  [
+                                        "Dreamcast Cheat Database contributors (bucanero)"
+                                    ],
+                        "description":  "3 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/T-17713D-speed-devils-online-racing-usa.txt",
+                        "packPath":  "files/bucanero-dreamcast/T-17713D-speed-devils-online-racing-usa.txt",
+                        "sourceUrl":  "https://github.com/bucanero/dreamcast-cheats",
+                        "sourceName":  "Dreamcast Cheat Database (bucanero)",
+                        "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
+                        "blockCount":  3,
+                        "updatedAt":  "2026-10-12T15:39:39Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-13011d-spiderman",
@@ -4962,7 +5107,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  9,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:23Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0153-sports-jam",
@@ -4981,7 +5126,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  7,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:23Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0153-sports-jam-japanese",
@@ -5000,7 +5145,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  11,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:23Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17723d-star-lancer",
@@ -5019,7 +5164,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:23Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-13010d-star-wars-demolition",
@@ -5038,7 +5183,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  5,
-                        "updatedAt":  "2026-10-12T15:15:36Z"
+                        "updatedAt":  "2026-10-12T15:39:23Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-13006d-star-wars-episode-1-racer-pal",
@@ -5056,7 +5201,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:54Z"
+                        "updatedAt":  "2026-10-12T15:39:39Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-23002d-star-wars-episode-i-jedi-power-battles-usa",
@@ -5074,7 +5219,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  15,
-                        "updatedAt":  "2026-10-12T15:15:54Z"
+                        "updatedAt":  "2026-10-12T15:39:39Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-23002n-star-wars-episode-1-jedi-power-battles",
@@ -5092,7 +5237,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  17,
-                        "updatedAt":  "2026-10-12T15:15:37Z"
+                        "updatedAt":  "2026-10-12T15:39:23Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-23001n-star-wars-episode-1-racer",
@@ -5110,7 +5255,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  6,
-                        "updatedAt":  "2026-10-12T15:15:37Z"
+                        "updatedAt":  "2026-10-12T15:39:24Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7005d-street-fighter-alpha-3",
@@ -5129,7 +5274,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  19,
-                        "updatedAt":  "2026-10-12T15:15:37Z"
+                        "updatedAt":  "2026-10-12T15:39:24Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7013d-street-fighter-iii-3rd-strike",
@@ -5148,7 +5293,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  73,
-                        "updatedAt":  "2026-10-12T15:15:37Z"
+                        "updatedAt":  "2026-10-12T15:39:24Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7013d-street-fighter-iii-3rd-strike-japanese",
@@ -5167,7 +5312,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  14,
-                        "updatedAt":  "2026-10-12T15:15:37Z"
+                        "updatedAt":  "2026-10-12T15:39:24Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7006d-street-fighter-iii-double-impact",
@@ -5186,7 +5331,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  66,
-                        "updatedAt":  "2026-10-12T15:15:37Z"
+                        "updatedAt":  "2026-10-12T15:39:24Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7006d-street-fighter-iii-double-impact-european",
@@ -5205,7 +5350,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  29,
-                        "updatedAt":  "2026-10-12T15:15:37Z"
+                        "updatedAt":  "2026-10-12T15:39:24Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1203m-street-fighter-zero-3-japanese",
@@ -5224,7 +5369,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  20,
-                        "updatedAt":  "2026-10-12T15:15:38Z"
+                        "updatedAt":  "2026-10-12T15:39:24Z"
                     },
                     {
                         "id":  "mame-arcade-sfz3ugd",
@@ -5242,7 +5387,7 @@
                         "sourceName":  "MAME cheat collection (Pugsy\u0027s XML cheats, MAME 0.264)",
                         "license":  "MAME cheat XML collection by Pugsy and contributors; only plain main RAM writes are converted",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:59Z"
+                        "updatedAt":  "2026-10-12T15:39:43Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-15111n-striker-pro-2000",
@@ -5260,7 +5405,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:38Z"
+                        "updatedAt":  "2026-10-12T15:39:24Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40206d-super-magnetic-neo",
@@ -5279,7 +5424,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:38Z"
+                        "updatedAt":  "2026-10-12T15:39:24Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1250m-super-puzzle-fighter-ii-x-for-matching-service",
@@ -5297,7 +5442,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  6,
-                        "updatedAt":  "2026-10-12T15:15:38Z"
+                        "updatedAt":  "2026-10-12T15:39:24Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-20602m-super-robot-wars-alpha-japanese",
@@ -5315,7 +5460,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  32,
-                        "updatedAt":  "2026-10-12T15:15:38Z"
+                        "updatedAt":  "2026-10-12T15:39:24Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-22101m-super-runabout-import-jap",
@@ -5333,7 +5478,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:56Z"
+                        "updatedAt":  "2026-10-12T15:39:41Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7014d-super-runabout-san-francisco-edition",
@@ -5353,7 +5498,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  11,
-                        "updatedAt":  "2026-10-12T15:15:38Z"
+                        "updatedAt":  "2026-10-12T15:39:24Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7014d-super-runabout-san-francisco-edition-japanese",
@@ -5373,7 +5518,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:38Z"
+                        "updatedAt":  "2026-10-12T15:39:24Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-1236m-super-street-fighter-2-x-japanese",
@@ -5391,7 +5536,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  22,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17721d-surf-rocket-racers",
@@ -5410,7 +5555,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  22,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-17703d-suzuki-alstare-extreme-racing",
@@ -5429,7 +5574,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-36807d-sword-of-the-berserk-guts-rage",
@@ -5448,7 +5593,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-36808d-sydney-2000-pal",
@@ -5468,7 +5613,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:56Z"
+                        "updatedAt":  "2026-10-12T15:39:41Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-44403m-tantei-shinshi-dash-jap",
@@ -5487,7 +5632,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:56Z"
+                        "updatedAt":  "2026-10-12T15:39:41Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-7009d-tech-romancer",
@@ -5506,7 +5651,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  36,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8108d-tee-off",
@@ -5525,7 +5670,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  103,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51186-tennis-2k2",
@@ -5543,7 +5688,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  10,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-15102n-test-drive-6",
@@ -5561,7 +5706,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-15110n-test-drive-v-rally",
@@ -5579,7 +5724,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51011-time-stalkers",
@@ -5597,7 +5742,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-13701n-tnn-motorsports-hardcore-heat",
@@ -5615,7 +5760,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-40201d-tokyo-highway-challenge-pal",
@@ -5633,7 +5778,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:56Z"
+                        "updatedAt":  "2026-10-12T15:39:41Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-17724d-tokyo-highway-challenge-2-pal",
@@ -5644,14 +5789,14 @@
                         "authors":  [
                                         "Dreamcast Cheat Database contributors (bucanero)"
                                     ],
-                        "description":  "2 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
+                        "description":  "3 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
                         "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/T-17724D-tokyo-highway-challenge-2-pal.txt",
                         "packPath":  "files/bucanero-dreamcast/T-17724D-tokyo-highway-challenge-2-pal.txt",
                         "sourceUrl":  "https://github.com/bucanero/dreamcast-cheats",
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
-                        "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:56Z"
+                        "blockCount":  3,
+                        "updatedAt":  "2026-10-12T15:39:41Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40202n-tokyo-xtreme-racer",
@@ -5669,7 +5814,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40211n-tokyo-xtreme-racer-2",
@@ -5687,7 +5832,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-1233m-tomb-raider-4-last-revelation-pal",
@@ -5705,7 +5850,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  37,
-                        "updatedAt":  "2026-10-12T15:15:57Z"
+                        "updatedAt":  "2026-10-12T15:39:42Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-36815d-tomb-raider-chronicles",
@@ -5724,7 +5869,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  28,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-36804d-tomb-raider-the-last-revelation",
@@ -5743,7 +5888,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  21,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40205n-tony-hawk-s-pro-skater",
@@ -5761,7 +5906,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  116,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-13008d-tony-hawk-s-pro-skater-2-usa",
@@ -5780,7 +5925,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  48,
-                        "updatedAt":  "2026-10-12T15:15:57Z"
+                        "updatedAt":  "2026-10-12T15:39:42Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51020-toy-commander",
@@ -5798,7 +5943,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-mk-51149-toy-racer-pal",
@@ -5816,7 +5961,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:57Z"
+                        "updatedAt":  "2026-10-12T15:39:42Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-13003n-toy-story-2",
@@ -5834,7 +5979,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8101d-trickstyle",
@@ -5853,7 +5998,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-9104m-tricolore-crise-jap",
@@ -5871,7 +6016,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:57Z"
+                        "updatedAt":  "2026-10-12T15:39:42Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-47901m-trizeal-jap",
@@ -5889,7 +6034,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  8,
-                        "updatedAt":  "2026-10-12T15:15:57Z"
+                        "updatedAt":  "2026-10-12T15:39:42Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0067-typing-of-the-dead-the",
@@ -5909,7 +6054,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  15,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-15102d-uefa-striker-pal",
@@ -5927,7 +6072,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  8,
-                        "updatedAt":  "2026-10-12T15:15:57Z"
+                        "updatedAt":  "2026-10-12T15:39:42Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40203d-ultimate-fighting-championship",
@@ -5947,7 +6092,26 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  8,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
+                    },
+                    {
+                        "id":  "bucanero-dreamcast-t-46704m-under-defeat-jap",
+                        "title":  "Under Defeat (JAP)",
+                        "serials":  [
+                                        "T-46704M",
+                                        "T-46705M"
+                                    ],
+                        "authors":  [
+                                        "Dreamcast Cheat Database contributors (bucanero)"
+                                    ],
+                        "description":  "4 Action Replay cheat blocks from bucanero\u0027s Dreamcast cheat database.",
+                        "downloadUrl":  "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/T-46704M-under-defeat-jap.txt",
+                        "packPath":  "files/bucanero-dreamcast/T-46704M-under-defeat-jap.txt",
+                        "sourceUrl":  "https://github.com/bucanero/dreamcast-cheats",
+                        "sourceName":  "Dreamcast Cheat Database (bucanero)",
+                        "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
+                        "blockCount":  4,
+                        "updatedAt":  "2026-10-12T15:39:42Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-36810d-urban-chaos",
@@ -5966,7 +6130,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  11,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8110d-vanishing-point-japanese",
@@ -5985,7 +6149,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  22,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-13002d-vigilante-8-2nd-offense",
@@ -6004,7 +6168,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  27,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-44301n-virtua-athlete-2000-usa",
@@ -6022,7 +6186,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:58Z"
+                        "updatedAt":  "2026-10-12T15:39:43Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51001-virtua-fighter-3tb",
@@ -6042,7 +6206,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  19,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51054-virtua-tennis",
@@ -6061,7 +6225,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  29,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-13004n-virtual-on-oratorio-tangram",
@@ -6079,7 +6243,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "bucanero-dreamcast-t-15105d-v-rally-2-pal",
@@ -6097,7 +6261,7 @@
                         "sourceName":  "Dreamcast Cheat Database (bucanero)",
                         "license":  "GPL-3.0 - bucanero/dreamcast-cheats",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:58Z"
+                        "updatedAt":  "2026-10-12T15:39:43Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-15106d-wacky-races",
@@ -6116,7 +6280,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-36809d-walt-disney-world-quest-magical-racing-tour",
@@ -6135,7 +6299,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40504d-wetrix",
@@ -6154,7 +6318,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  3,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-11011n-who-wants-to-beatup-a-millionaire",
@@ -6172,7 +6336,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-40501d-wild-metal",
@@ -6191,7 +6355,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0157-world-series-baseball-2k1",
@@ -6210,7 +6374,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  2,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-hdr-0198-world-series-baseball-2k2",
@@ -6229,7 +6393,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  41,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-8103d-wwf-attitude",
@@ -6248,7 +6412,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  1,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-10003d-wwf-royal-rumble",
@@ -6268,7 +6432,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  13,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-15126n-xtreme-sports",
@@ -6286,7 +6450,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  5,
-                        "updatedAt":  "2026-10-12T15:15:39Z"
+                        "updatedAt":  "2026-10-12T15:39:25Z"
                     },
                     {
                         "id":  "libretro-dreamcast-t-20401m-zero-gunner-ii-japanese",
@@ -6304,7 +6468,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  4,
-                        "updatedAt":  "2026-10-12T15:15:40Z"
+                        "updatedAt":  "2026-10-12T15:39:26Z"
                     },
                     {
                         "id":  "libretro-dreamcast-mk-51038-zombie-revenge",
@@ -6323,7 +6487,7 @@
                         "sourceName":  "libretro-database Dreamcast cheats",
                         "license":  "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
                         "blockCount":  7,
-                        "updatedAt":  "2026-10-12T15:15:40Z"
+                        "updatedAt":  "2026-10-12T15:39:26Z"
                     }
                 ]
 }

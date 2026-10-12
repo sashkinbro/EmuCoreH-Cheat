@@ -1,0 +1,14 @@
+// Infinite Health-Antarctica
+014BAF32 00000064
+// Infinite Ammo-Antarctica
+0119DF2C 000003E7
+// Infinite Ammo-Antarctica (Continued)
+0119DE64 000003E7
+// Infinite Ammo-Antarctica (Continued)
+0119DD9C 000003E7
+// Infinite Grenades-Antarctica
+0119D38C 00000063
+// Infinite Grenades-Antarctica (Continued)
+0119D3E0 00000063
+// Infinite Grenades-Antarctica (Continued)
+0119D338 00000063

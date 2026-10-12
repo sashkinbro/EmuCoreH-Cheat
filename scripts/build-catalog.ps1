@@ -145,7 +145,17 @@ function Add-DatGame {
 
 foreach ($line in Get-Content $datFile) {
     if ($line -match '^\s*name\s+"(.+)"\s*$') {
-        Add-DatGame
+Add-DatGame
+
+# Manual serials for titles the Redump DAT names differently.
+$script:manualSerials = @{
+    "eldoradogatevol1" = @("T-1223M")
+    "eldoradogatevol3" = @("T-1225M")
+    "castleofshikigami2" = @("T-47701M", "T-47702M")
+    "specopsomegasquad" = @("T-41704N")
+    "floiganbrothers" = @("MK-51114")
+    "radilgy" = @("T-47802M")
+}
         $currentName = $Matches[1]
         $currentRegion = ""
         $currentSerials = [System.Collections.Generic.List[string]]::new()
@@ -227,6 +237,14 @@ function Resolve-Serials-ByTokens([string]$chtTitle, [string]$regionHint = $null
 function Resolve-Serials([string]$chtTitle, [string]$regionHint = $null) {
     $key = Get-TitleKey $chtTitle
     $serials = [System.Collections.Generic.List[string]]::new()
+
+    # Titles whose upstream name never matched the Redump DAT entry.
+    foreach ($alias in $script:manualSerials.Keys) {
+        if ($key.StartsWith($alias)) {
+            Add-Serial $serials $script:manualSerials[$alias]
+        }
+    }
+    if ($serials.Count -gt 0) { return $serials.ToArray() }
 
     if ($script:gamesByKey.ContainsKey($key)) {
         foreach ($game in $script:gamesByKey[$key]) { Add-Serial $serials $game.Serials }
@@ -382,10 +400,12 @@ if (Test-Path $BucaneroRoot) {
         $blockDesc = $null
         $inFence = $false
         $codes = [System.Collections.Generic.List[string]]::new()
+        $pending8 = [System.Collections.Generic.List[string]]::new()
         foreach ($line in $lines) {
             if ($line -match '^##\s+(.+?)\s*$') {
                 $blockDesc = $Matches[1]
                 $codes = [System.Collections.Generic.List[string]]::new()
+                $pending8 = [System.Collections.Generic.List[string]]::new()
                 $inFence = $false
                 continue
             }
@@ -394,20 +414,30 @@ if (Test-Path $BucaneroRoot) {
                     $inFence = $true
                 } else {
                     $inFence = $false
+                    # Address/value halves that ended up on separate lines.
+                    for ($i = 0; $i + 1 -lt $pending8.Count; $i += 2) {
+                        $codes.Add($pending8[$i] + " " + $pending8[$i + 1])
+                    }
                     if ($blockDesc -and $codes.Count -gt 0) {
                         $blocks.Add([pscustomobject]@{ Desc = $blockDesc; Codes = $codes })
                     }
                     $blockDesc = $null
                     $codes = [System.Collections.Generic.List[string]]::new()
+                    $pending8 = [System.Collections.Generic.List[string]]::new()
                 }
                 continue
             }
             if ($inFence -and $blockDesc) {
-                $code = $line.Trim().ToUpperInvariant()
-                if ($code -match '^[0-9A-F]{16}$') {
-                    $codes.Add($code.Substring(0, 8) + " " + $code.Substring(8))
-                } elseif ($code -match '^([0-9A-F]{8})\s+([0-9A-F]{8})$') {
-                    $codes.Add($Matches[1] + " " + $Matches[2])
+                # Some source files glued the description to the code line or
+                # split a pair over two lines, so hex tokens are collected
+                # wherever they appear and paired in order.
+                foreach ($match in [regex]::Matches($line.ToUpperInvariant(), '(?<![0-9A-F])[0-9A-F]{8,16}(?![0-9A-F])')) {
+                    $token = $match.Value
+                    if ($token.Length -eq 16) {
+                        $codes.Add($token.Substring(0, 8) + " " + $token.Substring(8))
+                    } elseif ($token.Length -eq 8) {
+                        $pending8.Add($token)
+                    }
                 }
             }
         }

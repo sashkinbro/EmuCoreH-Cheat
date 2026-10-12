@@ -1,0 +1,6 @@
+// Infinite Nitro
+58E76CAF 0000000F
+// Plenty Of Cash
+2717AC6A 05F5E0FF
+// Plent Of Race Points
+5167B878 05F5E0FF
