@@ -1,0 +1,6 @@
+// Infinite Ammo-Grenade
+013C81DC 0000000F
+// Infinite Ammo-Machine Gun
+013C81D0 0000000F
+// Infinite First-Aid Spray
+013C81F0 00000063

@@ -1,0 +1,50 @@
+// All Challenges
+041B4DAC 000F0005
+// Have All Forward Tracks
+011B0DF4 0000FFFF
+// Have All Heats Finished
+041B0E08 00040001
+// Have All Movies & Slideshows
+011B0DFA 0000FFFF
+// Have All Player Vehicles
+011B0DEC 0000FFFF
+// Have All Reverse Tracks
+011B0DF6 0000FFFF
+// Have All Secret Vehicles
+011B0DEE 0000FFFF
+// Have All Secrets
+011B0DFE 0000FFFF
+// All Challenges
+041B4DAC 000F0005
+// Balloon Slalom
+011B4E4C 00000064
+// Barrel Roll Relay
+011B4E9C 00000064
+// Bumps 'n' Balloons
+011B4E74 00000064
+// Double Criss Cross
+011B4E60 00000064
+// Hump Back Relay
+011B4DE8 00000064
+// Single Criss Cross
+011B4DD4 00000064
+// Table Top Balloons
+011B4E10 00000064
+// The Balloon Bowl
+011B4EB0 00000064
+// The Barrel Roll
+011B4E24 00000064
+// The Long Jump
+011B4DAC 00000064
+// Time Always 0:00:00+Start On Lap 2
+02142840 00000000
+// Triple Criss Cross
+011B4EC4 00000064
+// Twists & Turns 1
+011B4DC0 00000064
+// Twists & Turns 2
+011B4DFC 00000064
+// Twists & Turns 3
+011B4E38 00000064
+// Twists & Turns 4
+011B4E88 00000064

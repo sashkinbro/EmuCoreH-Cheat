@@ -1,0 +1,30 @@
+// Infinite Ammo Zero Cannon
+01BFF79C 000003E7
+// Infinite Health
+01D5B8D6 000042C8
+// Infinite Ammo Zero Cannon
+01C20B54 000000C8
+// Infinite Health
+01D0C696 000042C8
+// Infinite Magma Cannon
+01C20B38 000000C8
+// Infinite Ammo Zero Cannon
+01B7554C 000000C8
+// Infinite Health
+01CBB07A 000042C8
+// Infinite Magma Cannon
+01B754DC 000000C8
+// Infinite Ammo Zero Cannon
+01B6B7D0 000000C8
+// Infinite Health
+01CDE6AE 000042C8
+// Infinite Magma Cannon
+01B684CC 000000C8
+// Infinite Ammo Zero Cannon
+01AC9214 000000C8
+// Infinite Health
+01C352BE 000042C8
+// Infinite Magma Cannon
+01AC8B28 000000C8
+// Infinite Windblade
+01AC934C 000000C8

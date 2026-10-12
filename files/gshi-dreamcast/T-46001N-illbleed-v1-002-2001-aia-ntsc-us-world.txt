@@ -1,0 +1,32 @@
+// Infinite HP
+021A39B0 4479C000
+// Infinite Max Adrenalin
+041A39B4 00020001
+// Never Bleed
+011A39BE 00000000
+// Perfect Heartbeat
+021A39C0 42480000
+// Infinite HP
+021A398C 4479C000
+// Infinite Max Adrenalin
+041A3990 00020001
+// Never Bleed
+011A399A 00000000
+// Perfect Heartbeat
+021A399C 42480000
+// Infinite HP
+021A39F8 4479C000
+// Infinite Max Adrenalin
+041A39FC 00020001
+// Never Bleed
+011A3A06 00000000
+// Perfect Heartbeat
+021A3A08 42480000
+// Infinite HP
+021A39D4 4479C000
+// Infinite Max Adrenalin
+041A39D8 00020001
+// Never Bleed
+011A39E2 00000000
+// Perfect Heartbeat
+021A39E4 42480000

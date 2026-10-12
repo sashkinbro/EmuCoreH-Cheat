@@ -1,0 +1,5 @@
+// Infinite Lives
+013CC3E2 00000063
+// Start With 50 Zebi Coins
+0D3CC3E6 00000000
+013CC3E6 00000032

@@ -21,12 +21,16 @@ arcade games, for example `mvsc2`.
 - `files/bucanero-dreamcast/` - Action Replay CDX packs from bucanero's
   Dreamcast Cheat Database (GPL-3.0), added only for disc codes the libretro
   packs do not cover.
+- `files/gshi-dreamcast/` - packs crawled from the GameHacking.org Dreamcast
+  database with `scripts/crawl-gamehacking.py`.
 - `files/mame-arcade/` - packs converted from the MAME cheat collection for
   arcade romsets known to EmuCoreH.
 - `scripts/build-catalog.ps1` - rebuilds every pack and the catalog from a
   sparse checkout of libretro-database, bucanero's cheat database, the
-  extracted MAME cheat XMLs and the arcade game table of the app. Run it after
-  any of those change.
+  GameHacking.org crawl output, the extracted MAME cheat XMLs and the arcade
+  game table of the app. Run it after any of those change.
+- `scripts/crawl-gamehacking.py` - refreshes `files/gshi-dreamcast/` from
+  GameHacking.org (requires `curl_cffi`).
 - `schemas/cheat-catalog.schema.json` - field contract of the catalog.
 - `sources.json` - pinned upstream revisions and licensing notes.
 

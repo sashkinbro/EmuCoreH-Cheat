@@ -1,0 +1,2 @@
+// Have All Spells
+04925B0C 00030001

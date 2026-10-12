@@ -1,0 +1,8 @@
+// Infinite EP
+011902D8 00000190
+// Infinite Gabaro
+011902D4 0000FFFF
+// Level 3 Access
+001902E6 00000006
+// Level 3 Skill
+001902E7 00000006

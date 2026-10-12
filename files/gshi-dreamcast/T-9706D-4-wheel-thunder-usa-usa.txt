@@ -1,0 +1,12 @@
+// 999 Points
+011096CC 000003E7
+// Infinite Cash
+011096D2 00000010
+// Unlock All Practice Tracks
+02109954 00FFFFFF
+// Unlock All Trucks
+041092A0 00020001
+// Unlock Indoor Tracks
+01109948 00000007
+// Unlock Outdoor Tracks
+01109934 00000007

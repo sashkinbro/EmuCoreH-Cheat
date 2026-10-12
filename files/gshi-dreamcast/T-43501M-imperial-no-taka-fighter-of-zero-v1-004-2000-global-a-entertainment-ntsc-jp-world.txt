@@ -1,0 +1,4 @@
+// Infinite Bombs/Torpedoes
+01260EC6 00000008
+// Infinite Bullets
+01260EC4 000003E7

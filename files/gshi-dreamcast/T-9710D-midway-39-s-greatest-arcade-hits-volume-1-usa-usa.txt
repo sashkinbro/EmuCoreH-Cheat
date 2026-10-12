@@ -1,0 +1,26 @@
+// Infinite Lives (Sinistar)
+01E64FBC 00000003
+// Infinite Lives P1 (Defender 2)
+01E66D9E 00000102
+// Infinite Lives P1 (Defender)
+01E65188 00000200
+// Infinite Lives P1 (Joust)
+01E65010 00000400
+// Infinite Lives P1 (Robotron)
+01E66DAC 00000102
+// Infinite Lives P2 (Defender 2)
+01E66DDC 00000200
+// Infinite Lives P2 (Defender)
+01E651C6 00000102
+// Infinite Lives P2 (Joust)
+01E6501A 00000400
+// Infinite Lives P2 (Robotron)
+01E66DE8 00000102
+// Infinite Smart Bombs P1 (Defender 2)
+01E66DA0 00001E03
+// Infinite Smart Bombs P1 (Defender)
+01E6518A 00000301
+// Infinite Smart Bombs P2 (Defender 2)
+01E66DDE 00000301
+// Infinite Smart Bombs P2 (Defender)
+01E651C8 00000A03

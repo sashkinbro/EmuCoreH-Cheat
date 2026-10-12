@@ -1,0 +1,8 @@
+// Infinite Force Bombs P1
+00316EB5 00000063
+// Infinite Force Bombs P2
+0031762D 00000063
+// Infinite Lives P1
+00316EB4 00000063
+// Infinite Lives P2
+0031762C 00000063

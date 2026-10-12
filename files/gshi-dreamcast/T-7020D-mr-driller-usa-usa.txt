@@ -1,0 +1,6 @@
+// High Scoring
+01197358 0000FFFF
+// Infinite Air
+01197398 0000FFFF
+// Infinite Lives
+01197400 0000000A

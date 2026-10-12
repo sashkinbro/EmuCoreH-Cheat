@@ -1,0 +1,4 @@
+// Infinite Time (Arcade)
+01106A5E 000042EA
+// Low Time (Arcade)
+01106A5E 0000000A

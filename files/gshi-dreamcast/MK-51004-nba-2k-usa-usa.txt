@@ -1,0 +1,8 @@
+// Away Team Infinite Time-Outs
+017F0EBC 00000007
+// Away Team Infinite Time-Outs
+017F0EBC 00000000
+// Home Team Infinite Time-Outs
+017F0ED8 00000007
+// Home Team Infinite Time-Outs
+017F0ED8 00000000

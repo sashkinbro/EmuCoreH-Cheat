@@ -1,0 +1,36 @@
+// Infinite Health
+01638584 0000FFFF
+// Infinite Health
+0163F554 0000FFFF
+// Infinite Healing Potions
+015A33CC 000000FF
+// Infinite Health
+015D302C 0000FFFF
+// Extra Potions
+0013EE18 00000001
+// Infinite Healing Potions
+0113EE1A 00000009
+// Infinite Health
+0162D3AC 0000FFFF
+// Infinite Health
+0167C6FC 0000FFFF
+// Infinite Health
+016255BC 0000FFFF
+// Infinite Health
+0163A324 0000FFFF
+// Infinite Health
+01630914 0000FFFF
+// Infinite Health
+01668724 0000FFFF
+// Infinite Health
+0160CB34 0000FFFF
+// Infinite Health
+0165E75C 0000FFFF
+// Infinite Health
+0169DAE4 0000FFFF
+// Infinite Health
+015D86D4 0000FFFF
+// Infinite Health
+01620DE4 0000FFFF
+// Infinite Health
+0163A3DC 0000FFFF

@@ -1,0 +1,240 @@
+// Can Carry Up To 99 Spraycans
+0104E0CC 0000E363
+// Infinite Health
+01042BD2 00000009
+// Infinite Spray Cans (On Pickup)
+0101ADA0 00000009
+0103BEDA 00000009
+0103BE64 00000009
+// Infinite Time
+022E2E18 00005250
+// Start With Max Spray Cans
+010196FA 00000E46
+// Unlock All Graffiti
+0110F42E 00000101
+0410F430 00190001
+// Unlock All Medium Graffiti's
+0410F450 00080001
+01010101 0110F470
+// Unlock All Small Graffiti's
+0110F42E 00000101
+0410F430 00080001
+// Unlock All Xtra Large Graditi's
+0110F472 00000101
+0410F474 00080001
+// Combo
+0010F3E3 00000001
+// Cube
+0010F3E6 00000001
+// Garam
+0010F3E9 00000001
+// Goji
+0010F3ED 00000001
+// Gum
+0010F3E1 00000001
+// Love Shockers
+0010F3EB 00000001
+// Noise Tank
+0010F3EC 00000001
+// Piranha
+0010F3E5 00000001
+// Poison Jam
+0010F3EA 00000001
+// Pots
+0010F3EE 00000001
+// Slate
+0010F3E4 00000001
+// Tab
+0010F3E2 00000001
+// Unlock All Characters
+0410F3E0 00040001
+// Yo-Yo
+0010F3E8 00000001
+// Beat This
+0010F450 00000001
+// Blue Slate
+0010F459 00000001
+// Break It Up!
+0010F45D 00000001
+// Call Of The Zombie
+0010F46D 00000001
+// Cheap And Street
+0010F462 00000001
+// Chill Out
+0010F467 00000001
+// Clumsy Punk
+0010F45E 00000001
+// Cubizmo
+0010F460 00000001
+// Funky Hip-Hop Scratching
+0010F46C 00000001
+// Gaze At Haze
+0010F46A 00000001
+// Golden Rhinos
+0010F471 00000001
+// Haze Amaze!
+0010F45F 00000001
+// Haze Craze
+0010F464 00000001
+// Home Of The Brave
+0010F45C 00000001
+// Hunt And Gather
+0010F466 00000001
+// Noise Destroys!
+0010F46F 00000001
+// Pull The Tab
+0010F452 00000001
+// Ride The Wave!
+0010F461 00000001
+// Rip You To Shreds
+0010F46E 00000001
+// Rockin The Decks With Original Beats
+0010F46B 00000001
+// Sharpest Teeth!
+0010F454 00000001
+// Shock The System!
+0010F470 00000001
+// Smooth As Silk...
+0010F469 00000001
+// Spray Me
+0010F45B 00000001
+// Sweeter Than Sugar
+0010F456 00000001
+// Thisa Way Thatta Way
+0010F45A 00000001
+// Tougher Than You
+0010F457 00000001
+// Watch My Moves!
+0010F453 00000001
+// Yo! 30
+0010F458 00000001
+// All Across The Globe
+0010F448 00000001
+// Be Boo
+0010F446 00000001
+// Beat The Clock
+0010F42E 00000001
+// Beware My Bite!
+0010F432 00000001
+// Break It!
+0010F43F 00000001
+// Buck-Nutty!
+0010F442 00000001
+// Don't Push It. Kid!
+0010F431 00000001
+// Dragon Crew Who Are You?
+0010F439 00000001
+// Edge You Out
+0010F43B 00000001
+// Every Other Caption
+0010F445 00000001
+// Fear Me
+0010F435 00000001
+// Freaky Deaky
+0010F433 00000001
+// Golden Rhinos
+0010F44F 00000001
+// Hazey Daze
+0010F43D 00000001
+// House Of 1000 Corpses
+0010F44B 00000001
+// How Much Is That Mutt In The Window?
+0010F43C 00000001
+// It's A Wonder Chemical World
+0010F44D 00000001
+// It's Epedimic
+0010F443 00000001
+// Land Of Monsters
+0010F44C 00000001
+// Plug Your Hole!
+0010F440 00000001
+// Pool
+0010F42F 00000001
+// Purr Like A Kitten Fight Like A Tiger!
+0010F434 00000001
+// Record Fanatic
+0010F444 00000001
+// Ryo Baby!
+0010F43E 00000001
+// Ryu 2
+0010F438 00000001
+// Skate Puppet
+0010F447 00000001
+// Tab Me
+0010F430 00000001
+// The Wold Famous Beat Junkies
+0010F449 00000001
+// Watch Out!
+0010F43A 00000001
+// Watch Yer Back
+0010F441 00000001
+// What A Shock!
+0010F44E 00000001
+// Ya Gotta Cheat To Solve Puzzles
+0010F437 00000001
+// Yo Yo. Baby!
+0010F436 00000001
+// A Head Of The Crowd
+0010F47F 00000001
+// American Made Music To Strip By
+0010F48F 00000001
+// Breaker Breaker!
+0010F475 00000001
+// Devil May Care
+0010F486 00000001
+// Don't Monkey Around!
+0010F474 00000001
+// Eye Of The Cyklops
+0010F48E 00000001
+// Fatal Regrets
+0010F483 00000001
+// Funky Monkey
+0010F481 00000001
+// Go To Sleep
+0010F489 00000001
+// Golden Rhinos
+0010F493 00000001
+// Goof-off!
+0010F476 00000001
+// Heartbreaker
+0010F492 00000001
+// Hi-yaaa!
+0010F482 00000001
+// Hip Hop Festival
+0010F48A 00000001
+// Jam To The Venom
+0010F490 00000001
+// Jurassic-5 Quality Control
+0010F48D 00000001
+// Let's Play Ball!
+0010F477 00000001
+// Off The Edge!
+0010F473 00000001
+// Pray For Rain
+0010F480 00000001
+// Psycho Colors!
+0010F47C 00000001
+// Pull My Finger
+0010F48B 00000001
+// Purple Haze
+0010F48C 00000001
+// Reaching Out
+0010F487 00000001
+// Return Of The Super Ape!
+0010F484 00000001
+// Sick Town
+0010F479 00000001
+// Slapstick Duo
+0010F485 00000001
+// Spirit Of The Art
+0010F47A 00000001
+// Theater Of Sound
+0010F472 00000001
+// Trancified
+0010F491 00000001
+// Wild Style Wars!
+0010F47B 00000001
+// Year Of The Dragon
+0010F488 00000001
+// You Da Bomb!
+0010F47D 00000001

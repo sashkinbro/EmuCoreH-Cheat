@@ -1,0 +1,42 @@
+// Advance
+01E14820 00000004
+// Basic I
+01E14814 00000004
+// Basic II
+01E14818 00000004
+// Full
+01E1481C 00000004
+// Accuracy 1
+01E147E4 00000001
+// Accuracy 2
+01E147E8 00000001
+// Advance Conering 1
+01E147DC 00000001
+// Advance Conering 2
+01E147F4 00000001
+// Basic Cornering 1
+01E147C8 00000001
+// Basic Cornering 2
+01E147CC 00000001
+// Basic Cornering 3
+01E147D0 00000001
+// Basic Start & Stop 1
+01E147C4 00000001
+// Basic Start & Stop 2
+01E147D8 00000001
+// Bike Control 1
+01E147E0 00000001
+// Bike Control 2
+01E147EC 00000001
+// Bike Control 3
+01E147F0 00000001
+// Full Lap
+01E147D4 00000001
+// High Speed Accuracy 1
+01E14804 00000001
+// High Speed Control 1
+01E14800 00000001
+// High Speed Control 2
+01E14808 00000001
+// High Speed Control 3
+01E14810 00000001

@@ -1,0 +1,45 @@
+// 1-Hit/Taunt For Max Rumble (Both Players)
+010C284C 00007130
+// Always Max Power (Both Players)
+010C27B2 00000009
+// Hit Anywhere (Both Players)
+01088F60 00000009
+01089124 00000008
+// Infinite Health P1
+0115C35C 00000064
+// Infinite Health P2
+0115EBBC 00000064
+// Infinite Money
+01146306 000000F0
+// P1 Rumble Level 1
+0115C368 00000030
+// P1 Rumble Level 2
+0115C368 00000060
+// P1 Rumble Level 3
+0115C368 00000090
+// P2 Rumble Level 1
+0115EBC8 00000030
+// P2 Rumble Level 2
+0115EBC8 00000060
+// P2 Rumble Level 3
+0115EBC8 00000090
+// First Lady
+01159990 0000001F
+// Freak E. Deke
+0115996C 0000001F
+// Freedom Brock
+01159980 0000001F
+// G. C. Thunder
+01159974 0000001F
+// Robox Rese4
+01159988 0000001F
+// Rocket Samchav
+01159984 0000001F
+// Rumbleman
+01159994 0000001F
+// Shaquille O'Neal
+0115997C 0000001F
+// Unlock All Characters
+0415996C 000C0001
+// Wild Stubby Corley
+01159978 0000001F

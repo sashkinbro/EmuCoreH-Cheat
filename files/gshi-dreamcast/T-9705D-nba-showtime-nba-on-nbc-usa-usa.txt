@@ -1,0 +1,24 @@
+// Always On Fire Modifier
+02317CB8 00000003
+// Disable Shot Clock
+01317C38 00000FFF
+// Infinite Turbo P1
+01317EA2 000042C8
+// Infinite Turbo P2
+01317EF6 000042C8
+// Infinite Turbo P3
+01317F4A 000042C8
+// Infinite Turbo P4
+01317F9E 000042C8
+// No Turbo P1
+01317EA2 00000000
+// No Turbo P2
+01317EF6 00000000
+// No Turbo P3
+01317F4A 00000000
+// No Turbo P4
+01317F9E 00000000
+// Team 1 Always On Fire
+02317CFC 00000000
+// Team 2 Always On Fire
+02317CFC 00000001

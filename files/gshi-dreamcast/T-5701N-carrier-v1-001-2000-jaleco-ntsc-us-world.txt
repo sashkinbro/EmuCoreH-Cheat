@@ -1,0 +1,6 @@
+// Infinite Handgun Ammo
+EFA70EAB 0000000F
+// Level 1 Energy Drink
+3D313786 00000064
+// Pistol Magazine
+14140550 00000064

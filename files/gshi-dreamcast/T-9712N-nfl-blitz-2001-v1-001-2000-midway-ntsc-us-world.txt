@@ -1,0 +1,22 @@
+// Always 1st Down
+01347770 00000001
+// Always 4th Down
+01347770 00000004
+// Infinite Creation Pts
+01382698 0000002A
+// Infinite Turbo P1
+0134760E 000042C8
+// Infinite Turbo P2
+01347646 000042C8
+// Infinite Turbo P3
+0134767E 000042C8
+// Infinite Turbo P4
+013476B6 000042C8
+// No Turbo P1
+0134760E 00000000
+// No Turbo P2
+01347646 00000000
+// No Turbo P3
+0134767E 00000000
+// No Turbo P4
+013476B6 00000000

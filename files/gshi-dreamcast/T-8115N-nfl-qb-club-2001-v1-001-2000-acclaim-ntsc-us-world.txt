@@ -1,0 +1,10 @@
+// Infinite Creation Points
+01DFD110 00000190
+// Team 1 Infinite Time-Outs
+00E15D4E 00000003
+// Team 1 No Time-Outs
+00E15D4E 00000000
+// Team 2 Infinite Time-Outs
+00E2728E 00000003
+// Team 2 No Time-Outs
+00E2728E 00000000

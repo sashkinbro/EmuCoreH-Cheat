@@ -1,0 +1,2 @@
+// Quick Level Gain (Hero)
+01E2E376 000000FF

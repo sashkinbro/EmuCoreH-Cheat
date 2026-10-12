@@ -1,0 +1,68 @@
+// Acid Gun (Eliot)
+0024F996 00000001
+// Bazooka (Eliot)
+0024F993 00000001
+// Bermuda ATM Card
+0024FA04 00000001
+// Car Key
+0024FA0F 00000001
+// Clone Room Key
+0024FA0D 00000001
+// Game Token
+0024FA06 00000001
+// Handgun (Eliot)
+0024F991 00000001
+// Have Chris' ID Card
+0024FA00 00000001
+// Have Hamburger
+0024F9FB 00000002
+// Have Hotdog
+0024F9FC 00000002
+// Have Jacob's Disk
+0024FA01 00000001
+// Have Kimra Bank Card
+0024FA02 00000001
+// Have Large Hassy
+0024F9FE 00000002
+// Have Sandwich
+0024F9FD 00000002
+// Have Small Hassy
+0024F9FF 00000002
+// Infinite Arrows Dog
+0124FBB6 00000006
+// Infinite Cash
+0124F93E 00000090
+// Infinite Health Dog
+0124FBCE 00000038
+// Infinite Health Eliot
+0124FBCC 00000028
+// Infinite Pistol Ammo
+0124FB9C 0000000F
+// Jacob's Safe Key
+0024FA0E 00000001
+// Laser Gun (Eliot)
+0024F997 00000001
+// Napalm Gun (Eliot)
+0024F995 00000001
+// Pasta
+0024FA0A 00000001
+// Plant Card
+0024FA0C 00000001
+// Plasma Gun (Eliot)
+0024F992 00000001
+// Ray Gun (Eliot)
+0024F998 00000001
+// Santa Suit
+0024FA07 00000001
+// Shotgun (Eliot)
+0024F994 00000001
+// Stair Key
+0024FA05 00000001
+// Steak
+0024FA09 00000001
+// Sushi
+0024FA08 00000001
+// Tank Card
+0024FA0B 00000001
+// Yucatan ATM Card
+0024FA03 00000001

@@ -1,0 +1,46 @@
+// Extra Ammo (Primary Weapon)
+0010777E 00000001
+// Extra Ammo (Special)
+00107914 00000001
+// Infinite Ammo (Primary Weapon)
+01107780 00000009
+// Infinite Ammo (Special)
+01107916 00000009
+// Infinite Armor
+01108E7C 00000009
+01109104 00000009
+// Low Barrel Heat
+01107992 00000009
+// Low Heat
+011073CC 00000009
+0110744A 00000009
+// Infinite Ammo Primary
+01830F44 0000000A
+// Infinite Ammo Special
+01830F48 0000000A
+// Infinite Armor
+01830C48 00000384
+// Low Barrel Heat
+01830F46 00000000
+// Low Heat
+01830F3C 00000000
+// Infinite Ammo Primary
+01776564 0000001C
+// Infinite Ammo Special
+01776568 0000001C
+// Infinite Armor
+01776268 00000384
+// Low Barrel Heat
+01776566 00000000
+// Low Heat
+0177655C 00000000
+// Infinite Ammo Primary
+019326C4 0000000A
+// Infinite Ammo Special
+019326C8 0000000A
+// Infinite Armor
+019323C8 00000384
+// Low Barrel Heat
+019326C6 00000000
+// Low Heat
+019326BC 00000000

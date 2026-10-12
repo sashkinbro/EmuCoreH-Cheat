@@ -3,6 +3,7 @@ param(
     [string]$MameCheatRoot = "C:\windows\Temp\opencode\mame-cheats\xml264",
     [string]$ArcadeCatalogFile = "C:\Users\SBRO\AndroidStudioProjects\EmuCoreH\app\src\main\assets\catalog\arcade_games.json",
     [string]$BucaneroRoot = "E:\TMP\dreamcast-cheats",
+    [string]$GshiRoot = "E:\TMP\gshi-dreamcast",
     [string]$RepositoryRoot = (Split-Path -Parent $PSScriptRoot)
 )
 
@@ -11,6 +12,7 @@ $datFile = Join-Path $DatabaseRoot "metadat\redump\Sega - Dreamcast.dat"
 $libretroPackDir = Join-Path $RepositoryRoot "files\libretro-dreamcast"
 $mamePackDir = Join-Path $RepositoryRoot "files\mame-arcade"
 $bucaneroPackDir = Join-Path $RepositoryRoot "files\bucanero-dreamcast"
+$gshiPackDir = Join-Path $RepositoryRoot "files\gshi-dreamcast"
 $commit = (git -C $DatabaseRoot rev-parse HEAD).Trim()
 
 # ---------------------------------------------------------------------------
@@ -155,6 +157,8 @@ $script:manualSerials = @{
     "specopsomegasquad" = @("T-41704N")
     "floiganbrothers" = @("MK-51114")
     "radilgy" = @("T-47802M")
+    "giantgramalljapan" = @("HDR-0005")
+    "giantgram2000" = @("HDR-0101")
 }
         $currentName = $Matches[1]
         $currentRegion = ""
@@ -363,27 +367,28 @@ foreach ($file in Get-ChildItem $cheatsRoot -Filter "*.cht" | Sort-Object Name) 
 }
 
 # ---------------------------------------------------------------------------
-# Dreamcast packs from bucanero's cheat database (Action Replay CDX codes)
+# Community Dreamcast packs (markdown sources: bucanero, GameHacking.org)
 # ---------------------------------------------------------------------------
-
-New-Item -ItemType Directory -Force -Path $bucaneroPackDir | Out-Null
-Get-ChildItem $bucaneroPackDir -File -ErrorAction SilentlyContinue | Remove-Item -Force
 
 $coveredSerials = [System.Collections.Generic.HashSet[string]]::new([System.StringComparer]::OrdinalIgnoreCase)
 foreach ($entry in $entries) {
     foreach ($serial in $entry.serials) { [void]$coveredSerials.Add([string]$serial) }
 }
+$script:mdSkipped = [System.Collections.Generic.List[string]]::new()
 
-$bucaneroPacks = 0
-$bucaneroBlocks = 0
-$bucaneroNoBlocks = 0
-$bucaneroNoSerials = 0
-$bucaneroCovered = 0
-$bucaneroSkipped = [System.Collections.Generic.List[string]]::new()
-if (Test-Path $BucaneroRoot) {
-    foreach ($file in Get-ChildItem $BucaneroRoot -Filter "*.md" | Where-Object { $_.Name -ne "README.md" } | Sort-Object Name) {
+function Add-MdCheatSource {
+    param($Source)
+
+    New-Item -ItemType Directory -Force -Path $Source.PackDir | Out-Null
+    Get-ChildItem $Source.PackDir -File -ErrorAction SilentlyContinue | Remove-Item -Force
+    foreach ($name in @("Packs", "Blocks", "NoBlocks", "NoSerials", "Covered")) {
+        $Source | Add-Member -NotePropertyName $name -NotePropertyValue 0 -Force
+    }
+    if (-not (Test-Path $Source.Root)) { return }
+
+    foreach ($file in Get-ChildItem $Source.Root -Filter "*.md" | Where-Object { $_.Name -ne "README.md" } | Sort-Object Name) {
         $lines = @()
-        try { $lines = Get-Content -LiteralPath $file.FullName -ErrorAction Stop } catch { $bucaneroSkipped.Add("read-error: $($file.Name)"); continue }
+        try { $lines = Get-Content -LiteralPath $file.FullName -ErrorAction Stop } catch { $script:mdSkipped.Add("$($Source.IdPrefix) read-error: $($file.Name)"); continue }
         $title = $null
         foreach ($line in $lines) {
             if ($line -match '^#\s+(.+?)\s*$') { $title = $Matches[1]; break }
@@ -449,47 +454,81 @@ if (Test-Path $BucaneroRoot) {
                 $_.Desc -notmatch 'Enable Code' -and
                 $_.Desc -notmatch 'Must Be On'
             })
-        if ($usable.Count -eq 0) { $bucaneroNoBlocks++; $bucaneroSkipped.Add("no-blocks: $($file.BaseName)"); continue }
+        if ($usable.Count -eq 0) { $Source.NoBlocks++; $script:mdSkipped.Add("$($Source.IdPrefix) no-blocks: $($file.BaseName)"); continue }
 
         [string[]]$serials = @(Resolve-Serials $title $regionHint)
-        $newSerials = @($serials | Where-Object { $_ -and -not $coveredSerials.Contains([string]$_) })
+        $newSerials = @($serials | Where-Object { $_ })
+        if ($Source.SkipCovered) {
+            $newSerials = @($newSerials | Where-Object { -not $coveredSerials.Contains([string]$_) })
+        }
         if ($newSerials.Count -eq 0) {
-            if ($serials.Count -eq 0) { $bucaneroNoSerials++ ; $bucaneroSkipped.Add("no-serials: $($file.BaseName)") }
-            else { $bucaneroCovered++ }
+            if ($serials.Count -eq 0) { $Source.NoSerials++; $script:mdSkipped.Add("$($Source.IdPrefix) no-serials: $($file.BaseName)") }
+            else { $Source.Covered++ }
             continue
+        }
+        if (-not $Source.SkipCovered -and @($serials | Where-Object { $_ -and $coveredSerials.Contains([string]$_) }).Count -gt 0) {
+            $Source.Covered++
         }
 
         $primary = [string]$newSerials[0]
         $slug = ([regex]::Replace($file.BaseName.ToLowerInvariant(), "[^a-z0-9]+", "-")).Trim("-")
         $safeSerial = $primary -replace "[^A-Za-z0-9-]", "_"
         $fileName = "$safeSerial-$slug.txt"
-        $target = Join-Path $bucaneroPackDir $fileName
+        $target = Join-Path $Source.PackDir $fileName
         $builder = [System.Text.StringBuilder]::new()
         foreach ($block in $usable) {
             [void]$builder.Append("// ").Append($block.Desc).Append("`n")
             foreach ($code in $block.Codes) { [void]$builder.Append($code).Append("`n") }
         }
         [System.IO.File]::WriteAllText($target, $builder.ToString(), [System.Text.UTF8Encoding]::new($false))
-        $bucaneroPacks++
-        $bucaneroBlocks += $usable.Count
+        $Source.Packs++
+        $Source.Blocks += $usable.Count
         foreach ($serial in $newSerials) { [void]$coveredSerials.Add([string]$serial) }
 
         $entries.Add([pscustomobject]@{
-            id = "bucanero-dreamcast-$($safeSerial.ToLowerInvariant())-$slug"
+            id = "$($Source.IdPrefix)-$($safeSerial.ToLowerInvariant())-$slug"
             title = $title
             serials = @($newSerials)
-            authors = @("Dreamcast Cheat Database contributors (bucanero)")
-            description = "$($usable.Count) Action Replay cheat blocks from bucanero's Dreamcast cheat database."
-            downloadUrl = "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/$fileName"
-            packPath = "files/bucanero-dreamcast/$fileName"
-            sourceUrl = "https://github.com/bucanero/dreamcast-cheats"
-            sourceName = "Dreamcast Cheat Database (bucanero)"
-            license = "GPL-3.0 - bucanero/dreamcast-cheats"
+            authors = @($Source.Authors)
+            description = "$($usable.Count) cheat blocks from $($Source.SourceName)."
+            downloadUrl = "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/$($Source.PackPath)/$fileName"
+            packPath = "$($Source.PackPath)/$fileName"
+            sourceUrl = $Source.SourceUrl
+            sourceName = $Source.SourceName
+            license = $Source.License
             blockCount = $usable.Count
             updatedAt = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
         })
     }
 }
+
+$mdSources = @(
+    [pscustomobject]@{
+        Root = $BucaneroRoot
+        PackDir = $bucaneroPackDir
+        PackPath = "files/bucanero-dreamcast"
+        IdPrefix = "bucanero-dreamcast"
+        SkipCovered = $true
+        Authors = "Dreamcast Cheat Database contributors (bucanero)"
+        Description = "Action Replay cheat blocks from bucanero's Dreamcast cheat database."
+        SourceUrl = "https://github.com/bucanero/dreamcast-cheats"
+        SourceName = "Dreamcast Cheat Database (bucanero)"
+        License = "GPL-3.0 - bucanero/dreamcast-cheats"
+    },
+    [pscustomobject]@{
+        Root = $GshiRoot
+        PackDir = $gshiPackDir
+        PackPath = "files/gshi-dreamcast"
+        IdPrefix = "gshi-dreamcast"
+        SkipCovered = $false
+        Authors = "GameHacking.org contributors"
+        Description = "cheat blocks from the GameHacking.org Dreamcast database."
+        SourceUrl = "https://gamehacking.org/system/dc"
+        SourceName = "GameHacking.org Dreamcast cheats"
+        License = "GameHacking.org community codes; individual hackers credited on the site"
+    }
+)
+foreach ($source in $mdSources) { Add-MdCheatSource $source }
 
 # ---------------------------------------------------------------------------
 # MAME arcade packs
@@ -585,5 +624,8 @@ $catalog = [pscustomobject]@{
 $json = $catalog | ConvertTo-Json -Depth 8
 [System.IO.File]::WriteAllText((Join-Path $RepositoryRoot "cheats.json"), $json, [System.Text.UTF8Encoding]::new($false))
 
-"dreamcast packs: $dreamcastPacks, skipped: $skipped, bucanero packs: $bucaneroPacks (blocks: $bucaneroBlocks, covered: $bucaneroCovered, no-blocks: $bucaneroNoBlocks, no-serials: $bucaneroNoSerials), arcade packs: $arcadePorts (arcade blocks: $arcadeCheats)"
-$bucaneroSkipped | Set-Content -LiteralPath (Join-Path $env:TEMP "bucanero-skipped.txt") -Encoding UTF8
+$mdSummary = ($mdSources | ForEach-Object {
+        "$($_.IdPrefix): $($_.Packs) packs (blocks: $($_.Blocks), covered: $($_.Covered), no-blocks: $($_.NoBlocks), no-serials: $($_.NoSerials))"
+    }) -join ", "
+"dreamcast packs: $dreamcastPacks, skipped: $skipped, $mdSummary, arcade packs: $arcadePorts (arcade blocks: $arcadeCheats)"
+$script:mdSkipped | Set-Content -LiteralPath (Join-Path $env:TEMP "md-skipped.txt") -Encoding UTF8

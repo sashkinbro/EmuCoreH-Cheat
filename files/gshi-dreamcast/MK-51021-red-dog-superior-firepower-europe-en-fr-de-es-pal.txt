@@ -1,0 +1,4 @@
+// Infinite Lives
+01258070 00000002
+// Infinite Side Arm Ammo
+0128D404 000000C8

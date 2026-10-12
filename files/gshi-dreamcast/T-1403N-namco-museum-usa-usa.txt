@@ -1,0 +1,18 @@
+// Infinite Lives P1 (Dig-Dug)
+000DEE58 00000004
+// Infinite Lives P1 (Galaga)
+000C77C8 00000004
+// Infinite Lives P1 (Pac-Man)
+000F47F4 00000003
+// Infinite Lives P2 (Dig-Dug)
+000DEEBC 00000004
+// Infinite Lives P2 (Galaga)
+000C77CC 00000004
+// Infinite Lives P2 (Pac-Man)
+000F47F8 00000003
+// Infinite Time (Pole Position)
+00120B93 00000063
+// Super Speed (Ms. Pac-Man)
+010F4E68 00000003
+// Super Speed (Pac-Man)
+010BDA30 00000003

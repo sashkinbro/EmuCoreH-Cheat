@@ -29,6 +29,15 @@
       "rawUrl": "https://github.com/sashkinbro/EmuCoreH-Cheat/tree/main/files/bucanero-dreamcast",
       "license": "GPL-3.0 - bucanero/dreamcast-cheats",
       "notes": "Action Replay CDX codes for 380+ Dreamcast revisions. Packs are generated only for disc codes the libretro packs do not already cover, so the catalog adds games instead of duplicating them. Master codes ((M)/[M]) are skipped because the core decrypts Action Replay codes itself."
+    },
+    {
+      "id": "gshi-dreamcast",
+      "name": "GameHacking.org Dreamcast cheats",
+      "author": "GameHacking.org contributors",
+      "url": "https://gamehacking.org/system/dc",
+      "rawUrl": "https://github.com/sashkinbro/EmuCoreH-Cheat/tree/main/files/gshi-dreamcast",
+      "license": "GameHacking.org community codes; individual hackers credited on the site",
+      "notes": "Crawled with scripts/crawl-gamehacking.py through the site's own code group endpoint (Chrome TLS impersonation). Includes every Dreamcast game with codes, also for discs the other sources already cover, because the app merges installed packs and GameHacking.org usually carries more cheats per game. Master and enable codes are skipped."
     }
   ]
 }

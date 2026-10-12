@@ -1,0 +1,42 @@
+// All Secrets Found
+01D4AEB2 00000046
+// Have Crossbow & Laser Sight
+00D5143F 000000FF
+// Have Gernade Gun
+00D51440 000000FF
+// Have Laser Sight
+00D51442 00000001
+// Have Pistols
+00D5143C 000000FF
+// Have Revolver & Laser Sight
+00D51441 000000FF
+// Have ShotGun
+00D5143E 000000FF
+// Have Uzi
+00D5143D 000000FF
+// Infinite Explosive Crossbow Ammo
+01D5147E 000000FF
+// Infinite Flares
+01D51468 000000FF
+// Infinite Flash Gernade Ammo
+01D51478 000000FF
+// Infinite Large Medpacks
+01D51466 000000FF
+// Infinite Normal Crossbow Ammo
+01D5147A 000000FF
+// Infinite Normal Grenade Ammo
+01D51474 000000FF
+// Infinite Normal Shotgun Ammo
+01D51470 000000FF
+// Infinite Revolver Ammo
+01D5146E 000000FF
+// Infinite Small Medpacks
+01D51464 000000FF
+// Infinite Super Gernade Ammo
+01D51476 000000FF
+// Infinite Uzi Ammo
+01D5146C 000000FF
+// Infinite Wide Shot Shotgun Ammo
+01D51472 000000FF
+// Infintie Poison Crossbow Ammo
+01D5147C 000000FF

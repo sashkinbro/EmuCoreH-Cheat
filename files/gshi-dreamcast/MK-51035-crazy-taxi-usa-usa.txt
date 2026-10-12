@@ -1,0 +1,13 @@
+// Crazy Box Finished+Enable The Bike
+01288204 0000FFFF
+// Disable Arrow Indicators
+002A5014 00000001
+// Disable Distination Indicators
+002A5010 00000001
+// Enable Expert Mode
+002A5010 00000001
+002A5014 00000001
+// Infinite Game Time
+011EC4B4 00000980
+// Infinite Passenger Time
+011EC4EC 00000589

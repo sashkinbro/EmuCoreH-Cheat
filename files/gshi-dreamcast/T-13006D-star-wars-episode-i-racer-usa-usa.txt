@@ -1,0 +1,12 @@
+// All Tracks Complete
+02148780 3FFF3FFF
+02148784 00FF3FFF
+// Infinite Truguts
+0114878C 00FFFFFF
+// Start On Third Lap P1
+0D14D8E4 00000000
+0114D8E4 00000002
+// Unlock All Characters
+02148788 007FFFFF
+// Unlock All Tracks
+0214877C FFFFFFFF

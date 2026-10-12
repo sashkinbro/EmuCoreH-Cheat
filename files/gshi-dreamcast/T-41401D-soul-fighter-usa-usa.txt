@@ -1,0 +1,14 @@
+// 99 Souls Saved
+010ED7C0 00000063
+// Infinite Crossbow Arrows
+000ED759 00000009
+// Infinite Health
+010ED774 00000064
+// Infinite Oil Bombs
+000ED75B 00000009
+// Infinite Throwing Axes
+000ED75A 00000009
+// Infinite Throwing Knives
+000ED758 00000009
+// Infinite Weapon Power
+010ED7DA 000000A0

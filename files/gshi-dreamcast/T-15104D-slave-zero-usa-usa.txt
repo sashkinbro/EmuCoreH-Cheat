@@ -1,0 +1,8 @@
+// Infinite Ammo (All Guns)
+0106C3E2 00000009
+// Infinite Ammo
+0186EAE0 000003E7
+// Infinite Energy Cells
+0186EAE4 000003E7
+// Infinite Rockets
+0186EAE8 000003E7

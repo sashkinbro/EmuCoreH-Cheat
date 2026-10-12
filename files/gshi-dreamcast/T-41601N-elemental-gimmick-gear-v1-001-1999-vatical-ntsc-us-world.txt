@@ -1,0 +1,10 @@
+// Infinite EP
+01194308 00000190
+// Infinite EP
+0119430A 00000190
+// Infinite Gabaro (Cash)
+01194304 0000FFFF
+// Level 3 Access
+00194316 00000006
+// Level 3 Skill
+00194317 00000006

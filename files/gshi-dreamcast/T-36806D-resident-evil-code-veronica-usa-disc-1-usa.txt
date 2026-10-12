@@ -1,0 +1,463 @@
+// Infinite Ammo
+010FF1E8 00000009
+// Infinite Health
+01241880 000000A0
+// Low Timer
+0221677C 00000000
+// Save Counter Always
+01215F5C 00000000
+// Slot 1
+0121624A 000003E7
+// Slot 10
+0121626E 000003E7
+// Slot 11
+01216272 000003E7
+// Slot 12
+01216276 000003E7
+// Slot 13
+0121627A 000003E7
+// Slot 14
+0121627E 000003E7
+// Slot 15
+01216282 000003E7
+// Slot 16
+01216286 000003E7
+// Slot 17
+0121628A 000003E7
+// Slot 18
+0121628E 000003E7
+// Slot 19
+01216292 000003E7
+// Slot 2
+0121624E 000003E7
+// Slot 20
+01216296 000003E7
+// Slot 21
+0121629A 000003E7
+// Slot 22
+0121629E 000003E7
+// Slot 23
+012162A2 000003E7
+// Slot 24
+012162A6 000003E7
+// Slot 25
+012162AA 000003E7
+// Slot 26
+012162AE 000003E7
+// Slot 27
+012162B2 000003E7
+// Slot 28
+012162B6 000003E7
+// Slot 29
+012162BA 000003E7
+// Slot 3
+01216252 000003E7
+// Slot 30
+012162BE 000003E7
+// Slot 31
+012162C2 000003E7
+// Slot 32
+012162C6 000003E7
+// Slot 33
+012162CA 000003E7
+// Slot 34
+012162CE 000003E7
+// Slot 35
+012162D2 000003E7
+// Slot 36
+012162D6 000003E7
+// Slot 37
+012162DA 000003E7
+// Slot 38
+012162DE 000003E7
+// Slot 39
+012162E2 000003E7
+// Slot 4
+01216256 000003E7
+// Slot 40
+012162E6 000003E7
+// Slot 41
+012162EA 000003E7
+// Slot 42
+012162EE 000003E7
+// Slot 43
+012162F2 000003E7
+// Slot 44
+012162F6 000003E7
+// Slot 45
+012162FA 000003E7
+// Slot 46
+012162FE 000003E7
+// Slot 47
+01216302 000003E7
+// Slot 48
+01216306 000003E7
+// Slot 49
+0121630A 000003E7
+// Slot 5
+0121625A 000003E7
+// Slot 50
+0121630E 000003E7
+// Slot 51
+01216312 000003E7
+// Slot 52
+01216316 000003E7
+// Slot 53
+0121631A 000003E7
+// Slot 54
+0121631E 000003E7
+// Slot 55
+01216322 000003E7
+// Slot 56
+01216326 000003E7
+// Slot 57
+0121632A 000003E7
+// Slot 58
+0121632E 000003E7
+// Slot 59
+01216332 000003E7
+// Slot 6
+0121625E 000003E7
+// Slot 60
+01216336 000003E7
+// Slot 61
+0121633A 000003E7
+// Slot 62
+0121633E 000003E7
+// Slot 63
+01216342 000003E7
+// Slot 64
+01216346 000003E7
+// Slot 65
+0121634A 000003E7
+// Slot 66
+0121634E 000003E7
+// Slot 67
+01216352 000003E7
+// Slot 68
+01216356 000003E7
+// Slot 69
+0121635A 000003E7
+// Slot 7
+01216262 000003E7
+// Slot 70
+0121635E 000003E7
+// Slot 71
+01216362 000003E7
+// Slot 72
+01216366 000003E7
+// Slot 73
+0121636A 000003E7
+// Slot 74
+0121636E 000003E7
+// Slot 75
+01216372 000003E7
+// Slot 76
+01216376 000003E7
+// Slot 77
+0121637A 000003E7
+// Slot 78
+0121637E 000003E7
+// Slot 8
+01216266 000003E7
+// Slot 9
+0121626A 000003E7
+// Unlock Everything
+01215EE0 0000FFFF
+// 999 Any Item (Place Item In Last Position In Crate)
+F3A998D0 000003E7
+// Acid Rounds Always In Crate
+45EAD19E 001003E7
+// Air Force Proof Always In Crate
+29B7AD12 00470001
+// Airport Key Always In Crate
+A9C39FC6 004B0001
+// Album Always In Crate
+C82B29AF 00500001
+// Alexander's Jewel Always In Crate
+B8F6F4DA 002C0001
+// Alexander's Pierce Always In Crate
+6A5BA516 002B0001
+// Alexia's Choker Always In Crate
+D1584D88 006B0001
+// Alexia's Jewel Always In Crate
+19A4D8C6 006C0001
+// Alfred's Jewel Always In Crate
+5ED7B900 002E0001
+// Alfred's Ring Always In Crate
+F8C958D1 002D0001
+// Army Proof Always In Crate
+9718C4A0 00450001
+// Assault Rifle Always In Crate
+AB139FC6 000203E7
+// Bar Code Sticker Always In Crate
+EE07D6C3 005B0001
+// Battery Pack Always In Crate
+CF6B29AF 005E0001
+// Biohazard Card Always In Crate
+1E74D8C6 003E0001
+// Blue Jewel Always In Crate
+3031EA10 00700001
+// Chem. Storage Key Always In Crate
+9088C4A0 00610001
+// Clement a Always In Crate
+EEB7D6C3 00620001
+// Clement E Always In Crate
+2E27AD12 00630001
+// Control Lever Always In Crate
+70951D55 00410001
+// Crane Key Always In Crate
+96E8C4A0 00360001
+// Crystal Always In Crate
+3081EA10 00790001
+// Custom Handgun Always In Crate
+BB46F4DA 000A03E7
+// Dancin' Like A Dork
+FDB9998C 00000014
+// Detonator Always In Crate
+29C7AD12 00400001
+// Door Knob Always In Crate
+77051D55 005D0001
+// Eagle Plate Always In Crate
+E8D7D6C3 00380001
+// Earthenware Vase Always In Crate
+41EAD19E 00740001
+// Emblem Card Always In Crate
+D7E84D88 004C0001
+// Extinguisher Always In Crate
+5F77B900 00520001
+// First Aid Spray Always In Crate
+D5884D88 001403E7
+// Flame Rounds Always In Crate
+95F8C4A0 001103E7
+// Gas Mask Always In Crate
+3741EA10 00270001
+// Glass Eye Always In Crate
+D6384D88 00330001
+// Glide
+FDB9998C 0000000B
+// Gold Dragonfly Always In Crate
+A9739FC6 00420001
+// Gold Key Always In Crate
+470AD19E 00440001
+// Gold Lugers Always In Crate
+BB36F4DA 002103E7
+// Grenade Launcher Always In Crate
+80234357 000603E7
+// Halberd Always In Crate
+F96958D1 00510001
+// Hemostatic Always In Crate
+FE2958D1 005F0001
+// ID Card Always In Crate
+5F07B900 00490001
+// Infinite Health
+DE488CD6 000000A0
+// Infinite Items/Ammo Pos 7 Claire
+8CE38357 000003E7
+// Infinite Items/Ammo Pos 8 Claire
+C63BE9AF 000003E7
+// Ink Ribbons Always In Crate
+3481EA10 001F03E7
+// King Ant Object Always In Crate
+B826F4DA 003D0001
+// King Ant Relief Always In Crate
+AF139FC6 006E0001
+// Linear Launcher Always In Crate
+1D14D8C6 000B03E7
+// Lockpick Always In Crate
+83334357 00320001
+// Low Timer
+BF36F4DB 000005C3
+// Navy Proof Always In Crate
+C89B29AF 00460001
+// Octa Valve Handle Always In Crate
+2EF7AD12 00580001
+// Padlock Key Always In Crate
+404AD19E 00540001
+// Paperweight Always In Crate
+91F8C4A0 00750001
+// Piano Roll Always In Crate
+1E04D8C6 00340001
+// Plant Pot Always In Crate
+6D9BA516 007E0001
+// Queen Ant Object Always In Crate
+83834357 003C0001
+// Queen Ant Relief Always In Crate
+6D4BA516 006D0001
+// Red Jewel Always In Crate
+FFD958D1 006F0001
+// Rocket Launcher Always In Crate
+694BA516 000103E7
+// Running In Place
+FDB9998C 00000004
+// Save Counter Always 0
+913804AF 00000000
+// Security Card Always In Crate
+84534357 00690001
+// Serum Always In Crate
+1914D8C6 00730001
+// Shotgun Always In Crate
+3431EA10 000403E7
+// Shoulda' Gone Before We Left
+FDB9998C 00000027
+// Side Pack Always In Crate
+3791EA10 00390001
+// Silver Dragonfly Always In Crate
+D1884D88 00760001
+// Silver Key Always In Crate
+F9B958D1 00430001
+// Skeleton Picture Always In Crate
+36E1EA10 004D0001
+// Sniper Rifle Always In Crate
+FBD958D1 000303E7
+// Socket Always In Crate
+84234357 00710001
+// Square Valve Handle Always In Crate
+BF46F4DA 00720001
+// Steering Wheel Always In Crate
+6AEBA516 00350001
+// Sterile Room Key Always In Crate
+403AD19E 005C0001
+// Submachine Gun Always In Crate
+D6484D88 002203E7
+// Tank Object Always In Crate
+77751D55 00640001
+// TG - 01 Always In Crate
+9058C4A0 00550001
+// Turntable Key Always In Crate
+5837B900 00600001
+// Valve Handle Always In Crate
+CFDB29AF 00570001
+// Infinite Items/Ammo Pos 1 Chris
+4A1A119E 000003E7
+// Infinite Items/Ammo Pos 1 Steve/Battle Mode
+8E038357 000003E7
+// Infinite Items/Ammo Pos 1 Wesker
+BA9634DA 000003E7
+// Infinite Items/Ammo Pos 2 Chris
+7DE5DD55 000003E7
+// Infinite Items/Ammo Pos 2 Steve/Battle Mode
+B5A634DA 000003E7
+// Infinite Items/Ammo Pos 2 Wesker
+EA0716C3 000003E7
+// Infinite Items/Ammo Pos 3 Chris
+C58BE9AF 000003E7
+// Infinite Items/Ammo Pos 3 Steve/Battle Mode
+13F418C6 000003E7
+// Infinite Items/Ammo Pos 3 Wesker
+443A119E 000003E7
+// Infinite Items/Ammo Pos 4 Chris
+F40998D1 000003E7
+// Infinite Items/Ammo Pos 4 Steve/Battle Mode
+4BCA119E 000003E7
+// Infinite Items/Ammo Pos 4 Wesker
+7305DD55 000003E7
+// Infinite Items/Ammo Pos 5 Chris
+52177900 000003E7
+// Infinite Items/Ammo Pos 5 Steve/Battle Mode
+9BD804A0 000003E7
+// Infinite Items/Ammo Pos 5 Wesker
+CB6BE9AF 000003E7
+// Infinite Items/Ammo Pos 6 Chris
+8FF38357 000003E7
+// Infinite Items/Ammo Pos 6 Steve/Battle Mode
+C45BE9AF 000003E7
+// Infinite Items/Ammo Pos 6 Wesker
+FA2998D1 000003E7
+// Infinite Items/Ammo Pos 7 Chris
+DAF88D88 000003E7
+// Infinite Items/Ammo Pos 7 Steve/Battle Mode
+25776D12 000003E7
+// Infinite Items/Ammo Pos 7 Wesker
+5C377900 000003E7
+// Infinite Items/Ammo Pos 8 Chris
+24076D12 000003E7
+// Infinite Items/Ammo Pos 8 Steve/Battle Mode
+67BB6516 000003E7
+// Infinite Items/Ammo Pos 8 Wesker
+948804A0 000003E7
+// Slot 1
+012161D4 000003E7
+// Slot 1
+01216194 000003E7
+// Slot 1
+01216154 000003E7
+// Slot 1
+01216214 000003E7
+// Slot 10
+01216178 000003E7
+// Slot 2
+012161D8 000003E7
+// Slot 2
+01216198 000003E7
+// Slot 2
+01216158 000003E7
+// Slot 2
+01216218 000003E7
+// Slot 3
+012161DC 000003E7
+// Slot 3
+0121619C 000003E7
+// Slot 3
+0121615C 000003E7
+// Slot 3
+0121621C 000003E7
+// Slot 4
+012161E0 000003E7
+// Slot 4
+012161A0 000003E7
+// Slot 4
+01216160 000003E7
+// Slot 4
+01216220 000003E7
+// Slot 5
+012161E4 000003E7
+// Slot 5
+012161A4 000003E7
+// Slot 5
+01216164 000003E7
+// Slot 5
+01216224 000003E7
+// Slot 6
+012161E8 000003E7
+// Slot 6
+012161A8 000003E7
+// Slot 6
+01216168 000003E7
+// Slot 6
+01216228 000003E7
+// Slot 7
+012161EC 000003E7
+// Slot 7
+012161AC 000003E7
+// Slot 7
+0121616C 000003E7
+// Slot 7
+0121622C 000003E7
+// Slot 8
+012161F0 000003E7
+// Slot 8
+012161B0 000003E7
+// Slot 8
+01216170 000003E7
+// Slot 8
+01216230 000003E7
+// Slot 9
+01216174 000003E7
+// Claire's Alternate Costume
+0D230F40 00000000
+0023E94C 00000001
+// Infinite Ammo All Guns
+256766B6 00000009
+// Infinite Items/Ammo Pos 1 Claire
+E73716C3 000003E7
+// Infinite Items/Ammo Pos 2 Claire
+27A76D12 000003E7
+// Infinite Items/Ammo Pos 3 Claire
+7EF5DD55 000003E7
+// Infinite Items/Ammo Pos 4 Claire
+A7D35FC6 000003E7
+// Infinite Items/Ammo Pos 5 Claire
+F71998D1 000003E7
+// Infinite Items/Ammo Pos 6 Claire
+38F12A10 000003E7

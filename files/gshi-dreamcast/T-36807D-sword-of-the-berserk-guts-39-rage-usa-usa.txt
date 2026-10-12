@@ -1,0 +1,12 @@
+// Full Rage Gauge
+15D46D2B 000000FF
+// Infinite Credits
+0111E81C 0000000A
+// Infinite Energy
+1BC46D2A 000000FF
+// Infinite Grenades
+01DF64FA 00000005
+// Infinite Hand Cannon Ammo
+01DF64F8 00000005
+// Infinite Health Vials
+01DF64F6 00000005

@@ -1,0 +1,35 @@
+// Hit Anywhere (Both Players)
+01017E6E 00000009
+// Infinite Health P1 & P2
+0101F0B8 00000008
+// Infinite Health P1 Only
+0101F0B6 0000534C
+0101F0B8 00003436
+// Infinite Health P2 Only
+0101F0B6 0000534C
+0101F0B8 00003346
+// Infinite Special Meter (Upon Using) P1 & P2
+01027F92 00000018
+// Infinite Special Meter (Upon Using) P1 Only
+01027F90 3046504C
+// Infinite Special Meter (Upon Using) P2 Only
+01027F90 3406504C
+// Infinite Time
+010CF9F2 00000009
+// Invincible To Everything Except Throws P1 & P2
+01017F36 00000008
+01017F38 00008B20
+// Invincible To Everything Except Throws P1 Only
+02017F34 33D653DC
+01017F38 00008B20
+// Invincible To Everything Except Throws P2 Only
+02017F34 3D3653DC
+01017F38 00008B20
+// P1 Infinite Points
+0193054C 0000FFFF
+// P1 Takes No Damage From Throws
+0101F07A 00003426
+// P2 Takes No Damage From Throws
+0101F07A 00003246
+// Throws Do No Damage P1 & P2
+0101F07A 00000008

@@ -1,0 +1,44 @@
+// Away Team Infinite Time-Outs
+01748678 00000007
+// Away Team No Time-Outs
+01748678 00000000
+// Home Team Infinite Time-Outs
+0174865C 00000007
+// Home Team No Time-Outs
+0174865C 00000000
+// Allow Infinite Offers To A Player Per Week
+01054D22 00000018
+// Always Trade When Team You Are Trading To Is Getting Short On Players
+0D058442 00003017
+01058442 00000018
+// Can Make Infinite Trade Offers To A Team In A Week
+0D0586D6 00003217
+010586D6 00000008
+// Can Sign A Player Beyond Point Limit
+01054D82 00000008
+// Can Sign More Than 15 Players
+01054CFC 00000008
+// Can Still Trade If It Puts The Other Team Over Their Point Limit
+0D057BCE 00003907
+01057BCE 00000008
+// Can Still Trade If It Puts You Over Your Point Limit
+0D057C04 00003807
+01057C04 00000008
+// Can Still Trade If The Other Team Would Have Too Many Players
+0D058408 00003086
+01058408 00000008
+// Can Still Trade If Your Team Would Have Too Many Players
+0D0583CA 00003086
+010583CA 00000008
+// Can Trade Players Who Have Just Became Injured
+0D058138 00002118
+01058138 00000018
+0D058162 00002888
+01058162 00000018
+// Disable Other Teams Declining/Or Making A Counter Offer To Your Trades
+01054FE0 00000018
+// Other Team Never Feels Its Not A Serious Offer
+01054F88 00000018
+// Your Offer Is Never Declined/Nor Is Declined With A Counter Offer
+0D05884A 0000F315
+0105884A 00000008

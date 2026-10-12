@@ -1,0 +1,43 @@
+// Allow Infinite Offers To A Player Per Week
+01053102 00000018
+// Always Trade When Team You Are Trading To Is Getting Short On Players
+01053AC4 00000018
+// Away Team Infinite Time-Outs
+01842E10 00000003
+// Away Team No Time-Outs
+01842E10 00000000
+// Can Make Infinite Trade Offers To A Team In A Week
+01053CEA 00000008
+// Can Re-Sign A Player Beyond Salary Cap
+01053090 00000008
+// Can Sign A Player Beyond Salary Cap
+010530E0 00000008
+// Can Sign More Than 54 Players
+01053034 00000008
+// Can Start Negotiations With Someone You've Already Contacted
+010F290C 00000018
+// Can Still Trade If It Puts The Other Team Over Their Salary Cap
+010536DC 00000008
+// Can Still Trade If It Puts You Over Your Salary Cap
+01053700 00000008
+// Can Still Trade If The Other Team Would Have Too Many Players
+01053A6E 00000008
+// Can Still Trade If Your Team Would Have Too Many Players
+01053A44 00000008
+// Can Talk To Another Team About One Set Of Players At A Time And More Than Once Per Week
+010533EA 00000009
+// Can Trade Injured Players
+0105343C 00000018
+// Can Trade Players Who Have Just Became Injured
+01053804 00000018
+0105397E 00000018
+// Disable Other Teams Declining/Or Making A Counter Offer To Your Trades
+01053ECA 00000008
+// Home Team Infinite Time-Outs
+01842E20 00000003
+// Home Team No Time-Outs
+01842E20 00000000
+// Other Team Never Feels Its Not A Serious Offer
+01052E46 00000018
+// Your Offer Is Never Declined/Nor Is Declined With A Counter Offer
+01052F00 00000018

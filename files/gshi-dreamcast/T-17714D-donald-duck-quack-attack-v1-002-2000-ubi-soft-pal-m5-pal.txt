@@ -1,0 +1,11 @@
+// Always angry state (Read notes)
+00D94604 00000001
+0D12ED68 0000FDFB
+00D94604 00000000
+// Always euphoric state (Read notes)
+00D94604 00000003
+0D12ED68 0000FDFB
+00D94604 00000000
+// Temporary euphoric state (Read notes)
+0D12ED68 0000FDFB
+00D974B1 00000000

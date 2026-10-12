@@ -1,0 +1,2 @@
+// Infinite Money (Championship Mode)
+0110598E 0000FFFF

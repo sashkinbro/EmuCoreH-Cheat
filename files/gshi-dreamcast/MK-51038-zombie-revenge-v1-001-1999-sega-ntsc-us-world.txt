@@ -1,0 +1,8 @@
+// Free Play Mode
+015228EC 000000FF
+// Infinite Health P1
+0124710C 00000100
+// Infinite Health P2
+01247110 00000100
+// Red Blood Mode
+01522900 00000001

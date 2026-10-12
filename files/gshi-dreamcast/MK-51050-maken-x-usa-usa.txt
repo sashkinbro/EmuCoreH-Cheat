@@ -1,0 +1,24 @@
+// Debug Display
+0110B6D8 00000001
+// Enemy Move Mode
+011E4344 00000001
+// Giant Character
+011E44CA 000041A8
+// God Mode
+011E4370 00000001
+// High Jump
+011E4478 0000000F
+// Homing Attack
+011E4378 00000001
+// Narrow Character
+011E44CE 00003F80
+// No Clipping Mode
+011E4374 00000001
+// Super Duper Jump
+011E4478 0000003C
+// Super Jump
+011E4478 0000001E
+// Tiny Character
+011E44CA 00003F80
+// Wide Character
+011E44CE 000041A8

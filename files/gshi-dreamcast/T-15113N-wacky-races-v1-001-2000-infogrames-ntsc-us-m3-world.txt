@@ -1,0 +1,6 @@
+// Always Have 10 Muttleys
+0119C5F0 000003FF
+// Infinite Retries-Wacky Cup
+001A78A9 00000005
+// P1 Infinite Tokens-Battle Arena
+0113678C 0000000A

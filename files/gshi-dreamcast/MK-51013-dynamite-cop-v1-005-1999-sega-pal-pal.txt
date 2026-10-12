@@ -1,0 +1,10 @@
+// All Power Ups P1
+01366574 00000005
+// All Power Ups P2
+01367B90 00000005
+// Infinite Credits
+01368920 00000009
+// Infinite Health P1
+0136506A 00000080
+// Infinite Health P2
+01366686 00000070

@@ -1,0 +1,10 @@
+// Infinite Credits
+014DF8D4 00000005
+// Infinite Lives P1
+014DF930 00000005
+// Infinite Lives P2
+024DF958 05F5E0FF
+// Quick Level Gain P1
+024DF92C 05F5E0FF
+// Quick Level Gain P2
+014DF95C 00000005

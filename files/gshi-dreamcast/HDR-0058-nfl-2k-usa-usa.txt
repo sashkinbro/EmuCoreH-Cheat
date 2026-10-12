@@ -1,0 +1,8 @@
+// Away Team Infinite Time-Outs
+017947E4 00000003
+// Away Team No Time-Outs
+017947E4 00000000
+// Home Team Infinite Time-Outs
+017947F4 00000003
+// Home Team No Time-Outs
+017947F4 00000000

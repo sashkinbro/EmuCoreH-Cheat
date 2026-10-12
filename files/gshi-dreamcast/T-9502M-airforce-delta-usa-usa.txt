@@ -1,0 +1,6 @@
+// Infinite Armor
+012E7C44 00001099
+// Infinite Cash
+01278B62 00007300
+// Infinite Missiles
+012E7C34 00000032

@@ -1,0 +1,114 @@
+// P1 Play As Goro
+969800A0 0000000F
+// P1 Play As Meat
+A9035BC6 00000001
+// P1 Play As Noob Saibot
+969800A0 00000011
+// P1 Play As Sektor
+969800A0 00000016
+// P2 Play As Goro
+28376912 0000000F
+// P2 Play As Meat
+D7288988 00000001
+// P2 Play As Noob Saibot
+28376912 00000011
+// P2 Play As Sektor
+28376912 00000016
+// Kode: Armed & Dangerous
+7335D9D5 00000008
+// Kode: Explosive Kombat
+7335D9D5 0000000B
+// Kode: Free Weapon
+7335D9D5 00000006
+// Kode: Goro's Lair
+7335D9D5 00000011
+// Kode: Ice Pit
+7335D9D5 0000001A
+// Kode: Ladder Stage
+7335D9D5 0000001E
+// Kode: Living Forest
+7335D9D5 00000018
+// Kode: Many Weapons
+7335D9D5 00000009
+// Kode: Max Damage Disabled
+7335D9D5 00000003
+// Kode: Max/Throw Disabled
+7335D9D5 00000004
+// Kode: No Power
+7335D9D5 0000000C
+// Kode: Noob Saibot Mode
+7335D9D5 0000000F
+// Kode: Prison
+7335D9D5 00000019
+// Kode: Random Weapons
+7335D9D5 00000007
+// Kode: Red Rain
+7335D9D5 00000010
+// Kode: Reptile's Lair
+7335D9D5 00000016
+// Kode: Shaolin Temple
+7335D9D5 00000017
+// Kode: Silent Kombat
+7335D9D5 0000000A
+// Kode: The Church
+7335D9D5 0000001B
+// Kode: The Soul Chamber
+7335D9D5 0000001D
+// Kode: The Tomb
+7335D9D5 00000014
+// Kode: The Well
+7335D9D5 00000012
+// Kode: Throwing Disabled
+7335D9D5 00000002
+// Kode: Unlimited Run
+7335D9D5 00000005
+// Kode: Weapon Kombat
+7335D9D5 0000000E
+// Kode: Wind World
+7335D9D5 00000015
+// Danger Mode
+D4188908 00000001
+// Down+High Punch Pit Fatality
+2A676992 00000001
+// Easy Endings
+680B6196 00000001
+// High Punch Fatality
+94C80020 00000001
+// Infinite Health P1
+5DAF7D00 00003F7F
+// Infinite Health P2
+AB6B5BC6 00003F7F
+// Infinite Time
+8DD387AD 00000063
+// Low Health P1
+5DAF7D00 00000001
+// Low Health P2
+AB6B5BC6 00000001
+// Low Punch Fatality
+EAF71243 00000001
+// P1 Never Wins
+ABE35BC6 00000000
+// P1 No Overall Wins
+BB8630DA 00000000
+// P1 One Win Needed
+ABE05BC6 C0705041
+ABE35BC6 00000001
+// P1 Start With 99 Wins
+BB8530DA C0705041
+BB8630DA 00000063
+// P2 Never Wins
+EBA712C3 00000000
+// P2 No Overall Wins
+1DD41CC6 00000000
+// P2 One Win Needed
+EBA412C3 C0705041
+EBA712C3 00000001
+// P2 Start With 99 Wins
+1DD71CC6 C0705041
+1DD41CC6 00000063
+// Sudden Death Mode P1
+8DD087AD 00705040
+5DAF7D00 00000001
+// Sudden Death Mode P2
+8DD087AD 00705040
+AB6B5BC6 00000001

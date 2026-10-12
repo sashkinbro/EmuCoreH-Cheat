@@ -1,0 +1,64 @@
+// Enable All Items
+04473D04 00780001
+// Enable All Materials/Essences
+04473F04 001E0001
+// Enable All Text
+04473F84 001E0001
+// Have All Power Stones P1
+01535BE4 00000300
+// Have All Power Stones P2
+0153951C 00000300
+// Have All Power Stones P3
+0153CE54 00000300
+// Have All Power Stones P4
+0154078C 00000300
+// Hit Anywhere (Must Face Opponent)
+01066C0E 00000008
+// Infinite All Items
+04474104 00780001
+// Infinite All Materials/Essences
+04474304 001E0001
+// Infinite Health P1
+015325FA 0000447A
+// Infinite Health P2
+01535F32 0000447A
+// Infinite Health P3
+0153986A 0000447A
+// Infinite Health P4
+0153D1A2 0000447A
+// Infinite Money
+0147471C 0000FFFF
+// Infinite Power Up (Everyone)
+010685D4 00000009
+// Infinite Power Up P1
+01535C52 000042C8
+// Infinite Power Up P2
+0153958A 000042C8
+// Infinite Power Up P3
+0153CEC2 000042C8
+// Infinite Power Up P4
+015407FA 000042C8
+// No Health P1
+015325FA 00000000
+// No Health P2
+01535F32 00000000
+// No Health P3
+0153986A 00000000
+// No Health P4
+0153D1A2 00000000
+// No Power P3
+015407FA 00000000
+// No Power Stones P1
+01535BE4 00000000
+// No Power Stones P2
+0153951C 00000000
+// No Power Stones P3
+0153CE54 00000000
+// No Power Stones P4
+0154078C 00000000
+// No Power Up P1
+01535C52 00000000
+// No Power Up P2
+0153958A 00000000
+// No Power Up P3
+0153CEC2 00000000

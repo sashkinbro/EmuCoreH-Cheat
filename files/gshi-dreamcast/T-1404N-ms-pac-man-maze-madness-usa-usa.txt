@@ -1,0 +1,38 @@
+// Have All Fruit
+0423ECE2 00040001
+// Have All Gems
+0223EECC 01010101
+// Have All Keys
+0423ECF0 00030001
+// Have All Pac-Dots
+051E3438 8C2405C2
+// Have Apple
+0123ECEA 00000001
+// Have Banana
+0123ECEE 00000001
+// Have Blue Key
+0123ECF4 00000001
+// Have Cherry
+0123ECE2 00000001
+// Have Gold Key
+0123ECF0 00000001
+// Have Green Key
+0123ECF6 00000001
+// Have Peach
+0123ECE6 00000001
+// Have Pear
+0123ECEC 00000001
+// Have Pretzel
+0123ECE8 00000001
+// Have Purple Key
+0123ECF8 00000001
+// Have Red Key
+0123ECF2 00000001
+// Have Strawberry
+0123ECE4 00000001
+// Infinite Health
+012405C0 000000FF
+// Infinite Lives
+0123ED08 00000005
+// Unlock All Levels
+0423ED38 00160004

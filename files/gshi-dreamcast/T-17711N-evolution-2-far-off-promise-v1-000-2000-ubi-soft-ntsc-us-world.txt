@@ -1,0 +1,24 @@
+// Infinite Gold
+01228CDE F505FFE0
+// Exp Modifier (FFFF For Quick Level Gain)
+0126D504 0000FFFF
+// Infinite FP
+0126D4A8 0000270F
+// Infinite HP
+0126D4A4 0000270F
+// Exp Modifier (FFFF For Quick Level Gain)
+0126D490 0000FFFF
+// Infinite FP
+0126D434 0000270F
+// Infinite HP
+0126D430 0000270F
+// Infinite FP
+0126D3C0 0000270F
+// Infinite HP
+0126D3BC 0000270F
+// Exp Modifier (FFFF For Quick Level Gain)
+0126D5EC 0000FFFF
+// Infinite FP
+0126D590 0000270F
+// Infinite HP
+0126D5A8 0000270F

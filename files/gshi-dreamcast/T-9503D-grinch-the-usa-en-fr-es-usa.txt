@@ -1,0 +1,36 @@
+// Have All Squashing All Gifts
+01621CC0 000002EE
+// Have Conducting The Stinky Gas To WhoBris Shack
+00621D2E 0000000A
+// Have Feeding The Computer With Robot Parts
+00621D2D 0000000A
+// Have Stealing Food From Birds
+00621D2C 0000000A
+// Have All Squashing All Gifts
+01621CBE 000002EE
+// Have Making Xmas Trees Droop
+00621D29 0000000A
+// Have Replacing The Candles On The Cake
+00621D2A 0000000A
+// Putting Beehives In Cabins
+00621D2B 0000000A
+// All Gifts Broken
+01621CBA 00000BB8
+02621CBC 02EE01F4
+02621CC0 03E802EE
+// Have All Putting Thistles In Shorts
+00621D46 0000000A
+// Have All Sabotaging The Tents
+00621D47 0000000A
+// Have All Squashing All Gifts
+01621CC2 000003E8
+// Have All Shuffling The 05Mail
+00621D48 00000005
+// Have All Snowmen Smashed
+00621D26 0000000A
+// Have All Squashing All Gifts
+01621CBC 000001F4
+// Have Launching Eggs Into Houses
+00621D28 0000000A
+// Have Painting The Mayors Posters
+00621D27 0000000A

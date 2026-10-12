@@ -1,0 +1,4 @@
+// All Gold Medals
+0414D190 000C0001
+// Have All Training Complete
+0214CA14 003F0001

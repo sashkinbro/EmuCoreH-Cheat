@@ -1,0 +1,8 @@
+// Infinite Bombs P1
+0127E142 00000009
+// Infinite Bombs P2
+0127E1F6 00000009
+// Infinite Lives P1
+0127E140 00000009
+// Infinite Lives P2
+0127E1F4 00000009

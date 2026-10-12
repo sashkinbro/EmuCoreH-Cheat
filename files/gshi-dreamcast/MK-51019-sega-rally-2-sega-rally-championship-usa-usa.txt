@@ -1,0 +1,5 @@
+// Enable All Years
+01D7D928 0000000A
+// Have All Vehicles/Stages Complete
+01D7D934 0000FFFF
+01D7D936 0000000F

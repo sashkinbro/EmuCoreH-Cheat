@@ -1,0 +1,14 @@
+// Always Place 1st
+012A4228 00000000
+// Enable Atlanta
+012C22D8 00000001
+// Enable Fiorano
+012C22C8 00000001
+// Enable Laguna-Seca
+012C22D0 00000001
+// Enable Nurburgring
+012C22CC 00000001
+// Enable Sepang
+012C22D4 00000001
+// Infinite Time
+012A8BEC 0000111E

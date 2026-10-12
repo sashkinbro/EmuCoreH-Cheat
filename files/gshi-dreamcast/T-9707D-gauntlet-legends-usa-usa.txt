@@ -1,0 +1,48 @@
+// Infininte All Magic P2
+0128DD80 00000004
+// Infinite All Magic P1
+0128D3FC 00000004
+// Infinite All Magic P3
+0128E704 00000004
+// Infinite All Magic P4
+0128F088 00000004
+// Infinite Gold P1
+0128D434 0000FFFF
+// Infinite Gold P2
+0128DDB8 0000FFFF
+// Infinite Gold P3
+0128E73C 0000FFFF
+// Infinite Gold P4
+0128F0C0 0000FFFF
+// Infinite Health P1
+0128D3DE 000044A2
+// Infinite Health P2
+0128DD62 000044A2
+// Infinite Health P3
+0128E6E6 000044A2
+// Infinite Health P4
+0128F06A 000044A2
+// Infinite Keys P1
+0128D3F8 00000009
+// Infinite Keys P2
+0128DD7C 00000009
+// Infinite Keys P3
+0128E700 00000009
+// Infinite Keys P4
+0128F084 00000009
+// Infinite Special Attack P2
+0128DD66 000042C8
+// Infinite Turbo P1
+0128D3E2 000042C8
+// Infinite Turbo P3
+0128E6EA 000042C8
+// Infinite Turbo P4
+0128F072 000042C8
+// Quick Level Up P1
+0128D428 0000FFFF
+// Quick Level Up P2
+0128DDAC 0000FFFF
+// Quick Level Up P3
+0128E730 0000FFFF
+// Quick Level Up P4
+0128F0B4 0000FFFF

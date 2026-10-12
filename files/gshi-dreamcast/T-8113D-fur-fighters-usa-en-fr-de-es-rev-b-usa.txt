@@ -1,0 +1,474 @@
+// Infinite Bomb Ammo
+7805F9D5 0000270F
+// Infinite Bomb Ammo
+01B360E0 0000270F
+// Infinite Freeze Ammo
+C06BCD2F 0000270F
+// Infinite Freeze Ammo
+01B360E4 0000270F
+// Infinite Neutron Ammo
+F129BC51 0000270F
+// Infinite Neutron Ammo
+01B360E8 0000270F
+// Infinite Pistol Ammo
+4F3A351E 0000270F
+// Infinite Pistol Ammo
+01B360DC 0000270F
+// Infinite Plasma Ammo
+F111BC51 0000270F
+// Infinite Plasma Ammo
+01B360E6 0000270F
+// Infinite Rocket Ammo
+A1DB7B46 0000270F
+// Infinite Rocket Ammo
+01B360E2 0000270F
+// Infinite Shotgun Ammo
+78FDF9D5 0000270F
+// Infinite Shotgun Ammo
+01B360DE 0000270F
+// Infinite Bomb Ammo
+673B4F84 0000270F
+// Infinite Bomb Ammo
+018B29D0 0000270F
+// Infinite Freeze Ammo
+B5961E48 0000270F
+// Infinite Freeze Ammo
+018B29D4 0000270F
+// Infinite Neutron Ammo
+E5073C51 0000270F
+// Infinite Neutron Ammo
+018B29D8 0000270F
+// Infinite Pistol Ammo
+25F74780 0000270F
+// Infinite Pistol Ammo
+018B29CC 0000270F
+// Infinite Plasma Ammo
+E53F3C51 0000270F
+// Infinite Plasma Ammo
+018B29D6 0000270F
+// Infinite Rocket Ammo
+9B002E32 0000270F
+// Infinite Rocket Ammo
+018B29D2 0000270F
+// Infinite Shotgun Ammo
+53BF5392 0000270F
+// Infinite Shotgun Ammo
+018B29CE 0000270F
+// Infinite Bomb Ammo
+F829B67E 0000270F
+// Infinite Bomb Ammo
+019BDEA8 0000270F
+// Infinite Freeze Ammo
+5E3757AF 0000270F
+// Infinite Freeze Ammo
+019BDEAC 0000270F
+// Infinite Neutron Ammo
+96882A0F 0000270F
+// Infinite Neutron Ammo
+019BDEB0 0000270F
+// Infinite Pistol Ammo
+C96BC700 0000270F
+// Infinite Pistol Ammo
+019BDEA4 0000270F
+// Infinite Plasma Ammo
+83EBADF8 0000270F
+// Infinite Plasma Ammo
+019BDEAE 0000270F
+// Infinite Rocket Ammo
+37F904BF 0000270F
+// Infinite Rocket Ammo
+019BDEAA 0000270F
+// Infinite Shotgun Ammo
+F811B67E 0000270F
+// Infinite Shotgun Ammo
+019BDEA6 0000270F
+// Infinite Bomb Ammo
+1C243CD6 0000270F
+// Infinite Bomb Ammo
+01B12228 0000270F
+// Infinite Freeze Ammo
+68CB4106 0000270F
+// Infinite Freeze Ammo
+01B1222C 0000270F
+// Infinite Neutron Ammo
+AA937BD6 0000270F
+// Infinite Neutron Ammo
+01B12230 0000270F
+// Infinite Pistol Ammo
+D4D8A998 0000270F
+// Infinite Pistol Ammo
+01B12224 0000270F
+// Infinite Plasma Ammo
+94F020B0 0000270F
+// Infinite Plasma Ammo
+01B1222E 0000270F
+// Infinite Rocket Ammo
+44E2358E 0000270F
+// Infinite Rocket Ammo
+01B1222A 0000270F
+// Infinite Shotgun Ammo
+1C1C3CD6 0000270F
+// Infinite Shotgun Ammo
+01B12226 0000270F
+// Infinite Bomb Ammo
+9DA83D1D 0000270F
+// Infinite Freeze Ammo
+E3972F7E 0000270F
+// Infinite Neutron Ammo
+1684217B 0000270F
+// Infinite Pistol Ammo
+61AB5CAB 0000270F
+// Infinite Plasma Ammo
+233F54AF 0000270F
+// Infinite Rocket Ammo
+C213D012 0000270F
+// Infinite Shotgun Ammo
+9D903D1D 0000270F
+// Infinite Bomb Ammo
+53C75D52 0000270F
+// Infinite Freeze Ammo
+A5037B94 0000270F
+// Infinite Neutron Ammo
+DB28A9DA 0000270F
+// Infinite Pistol Ammo
+13B43C94 0000270F
+// Infinite Plasma Ammo
+DB10A9DA 0000270F
+// Infinite Rocket Ammo
+8E1BA705 0000270F
+// Infinite Shotgun Ammo
+4B7235CC 0000270F
+// Infinite Bomb Ammo
+76E5F17B 0000270F
+// Infinite Freeze Ammo
+CE8BC581 0000270F
+// Infinite Neutron Ammo
+FF09B4FF 0000270F
+// Infinite Pistol Ammo
+411A3DB0 0000270F
+// Infinite Plasma Ammo
+FFF1B4FF 0000270F
+// Infinite Rocket Ammo
+AF3B73E8 0000270F
+// Infinite Shotgun Ammo
+76DDF17B 0000270F
+// Infinite Bomb Ammo
+B9060D73 0000270F
+// Infinite Bomb Ammo
+01C7C6F0 0000270F
+// Infinite Freeze Ammo
+1F54216F 0000270F
+// Infinite Freeze Ammo
+01C7C6F4 0000270F
+// Infinite Neutron Ammo
+47AA2837 0000270F
+// Infinite Neutron Ammo
+01C7C6F8 0000270F
+// Infinite Pistol Ammo
+7035E4FC 0000270F
+// Infinite Pistol Ammo
+01C7C6EC 0000270F
+// Infinite Plasma Ammo
+47922837 0000270F
+// Infinite Plasma Ammo
+01C7C6F6 0000270F
+// Infinite Rocket Ammo
+E9AF2F6A 0000270F
+// Infinite Rocket Ammo
+01C7C6F2 0000270F
+// Infinite Shotgun Ammo
+A9EB666F 0000270F
+// Infinite Shotgun Ammo
+01C7C6EE 0000270F
+// Infinite Bomb Ammo
+5DA75DAA 0000270F
+// Infinite Bomb Ammo
+01B3CA48 0000270F
+// Infinite Freeze Ammo
+AB637B6C 0000270F
+// Infinite Freeze Ammo
+01B3CA4C 0000270F
+// Infinite Neutron Ammo
+EB273269 0000270F
+// Infinite Neutron Ammo
+01B3CA50 0000270F
+// Infinite Pistol Ammo
+2BD749B8 0000270F
+// Infinite Pistol Ammo
+01B3CA44 0000270F
+// Infinite Plasma Ammo
+D570A922 0000270F
+// Infinite Plasma Ammo
+01B3CA4E 0000270F
+// Infinite Rocket Ammo
+807BA7FD 0000270F
+// Infinite Rocket Ammo
+01B3CA4A 0000270F
+// Infinite Shotgun Ammo
+5D9F5DAA 0000270F
+// Infinite Shotgun Ammo
+01B3CA46 0000270F
+// Infinite Bomb Ammo
+3B1104A0 0000270F
+// Infinite Bomb Ammo
+019BA190 0000270F
+// Infinite Freeze Ammo
+8F03ADE7 0000270F
+// Infinite Freeze Ammo
+019BA194 0000270F
+// Infinite Neutron Ammo
+B4A61A6A 0000270F
+// Infinite Neutron Ammo
+019BA198 0000270F
+// Infinite Pistol Ammo
+E4573873 0000270F
+// Infinite Pistol Ammo
+019BA18C 0000270F
+// Infinite Plasma Ammo
+B49E1A6A 0000270F
+// Infinite Plasma Ammo
+019BA196 0000270F
+// Infinite Rocket Ammo
+66334BA6 0000270F
+// Infinite Rocket Ammo
+019BA192 0000270F
+// Infinite Shotgun Ammo
+24FF43A2 0000270F
+// Infinite Shotgun Ammo
+019BA18E 0000270F
+// Infinite Bomb Ammo
+39F10C25 0000270F
+// Infinite Bomb Ammo
+01B9B528 0000270F
+// Infinite Freeze Ammo
+8DE3A562 0000270F
+// Infinite Freeze Ammo
+01B9B52C 0000270F
+// Infinite Neutron Ammo
+C73BCF9A 0000270F
+// Infinite Neutron Ammo
+01B9B530 0000270F
+// Infinite Pistol Ammo
+F619BEE4 0000270F
+// Infinite Pistol Ammo
+01B9B524 0000270F
+// Infinite Plasma Ammo
+B67E12EF 0000270F
+// Infinite Plasma Ammo
+01B9B52E 0000270F
+// Infinite Rocket Ammo
+64D34323 0000270F
+// Infinite Rocket Ammo
+01B9B52A 0000270F
+// Infinite Shotgun Ammo
+39C90C25 0000270F
+// Infinite Shotgun Ammo
+01B9B526 0000270F
+// Infinite Bomb Ammo
+1E64230A 0000270F
+// Infinite Freeze Ammo
+6A8B5EDA 0000270F
+// Infinite Neutron Ammo
+7085E699 0000270F
+// Infinite Pistol Ammo
+D698B644 0000270F
+// Infinite Plasma Ammo
+96B03F6C 0000270F
+// Infinite Rocket Ammo
+46A22A52 0000270F
+// Infinite Shotgun Ammo
+1E5C230A 0000270F
+// Infinite Bomb Ammo
+CFDBC1E7 0000270F
+// Infinite Freeze Ammo
+2EF7455A 0000270F
+// Infinite Neutron Ammo
+6C3B4D5E 0000270F
+// Infinite Pistol Ammo
+90582CE8 0000270F
+// Infinite Plasma Ammo
+58BF5148 0000270F
+// Infinite Rocket Ammo
+FEA1B099 0000270F
+// Infinite Shotgun Ammo
+CFE3C1E7 0000270F
+// Infinite Bomb Ammo
+DC88AC4F 0000270F
+// Infinite Bomb Ammo
+01A67C30 0000270F
+// Infinite Freeze Ammo
+3D810BD7 0000270F
+// Infinite Freeze Ammo
+01A67C34 0000270F
+// Infinite Neutron Ammo
+609B44D1 0000270F
+// Infinite Neutron Ammo
+01A67C38 0000270F
+// Infinite Pistol Ammo
+9CF82567 0000270F
+// Infinite Pistol Ammo
+01A67C2C 0000270F
+// Infinite Plasma Ammo
+60A344D1 0000270F
+// Infinite Plasma Ammo
+01A67C36 0000270F
+// Infinite Rocket Ammo
+144C3901 0000270F
+// Infinite Rocket Ammo
+01A67C32 0000270F
+// Infinite Shotgun Ammo
+C343C868 0000270F
+// Infinite Shotgun Ammo
+01A67C2E 0000270F
+// Infinite Bomb Ammo
+14E431D0 0000270F
+// Infinite Bomb Ammo
+01853818 0000270F
+// Infinite Freeze Ammo
+600B4C00 0000270F
+// Infinite Freeze Ammo
+0185381C 0000270F
+// Infinite Neutron Ammo
+9CC82DB6 0000270F
+// Infinite Neutron Ammo
+01853820 0000270F
+// Infinite Pistol Ammo
+DC18A49E 0000270F
+// Infinite Pistol Ammo
+01853814 0000270F
+// Infinite Plasma Ammo
+9C302DB6 0000270F
+// Infinite Plasma Ammo
+0185381E 0000270F
+// Infinite Rocket Ammo
+4C223888 0000270F
+// Infinite Rocket Ammo
+0185381A 0000270F
+// Infinite Shotgun Ammo
+14DC31D0 0000270F
+// Infinite Shotgun Ammo
+01853816 0000270F
+// Infinite Bomb Ammo
+11042431 0000270F
+// Infinite Freeze Ammo
+65EB59E1 0000270F
+// Infinite Neutron Ammo
+99E83857 0000270F
+// Infinite Pistol Ammo
+D938B17F 0000270F
+// Infinite Plasma Ammo
+99D03857 0000270F
+// Infinite Rocket Ammo
+49C22D69 0000270F
+// Infinite Shotgun Ammo
+11FC2431 0000270F
+// Infinite Bomb Ammo
+D6E8BD68 0000270F
+// Infinite Bomb Ammo
+01E2E2A8 0000270F
+// Infinite Freeze Ammo
+37E11AF0 0000270F
+// Infinite Freeze Ammo
+01E2E2AC 0000270F
+// Infinite Neutron Ammo
+7145EDB5 0000270F
+// Infinite Neutron Ammo
+01E2E2B0 0000270F
+// Infinite Pistol Ammo
+A8C36F26 0000270F
+// Infinite Pistol Ammo
+01E2E2A4 0000270F
+// Infinite Plasma Ammo
+6AC355F6 0000270F
+// Infinite Plasma Ammo
+01E2E2AE 0000270F
+// Infinite Rocket Ammo
+1E2C2826 0000270F
+// Infinite Shotgun Ammo
+D6D0BD68 0000270F
+// Infinite Shotgun Ammo
+01E2E2A6 0000270F
+// Infinite Bomb Ammo
+3BD10AEF 0000270F
+// Infinite Bomb Ammo
+01A29DA0 0000270F
+// Infinite Freeze Ammo
+8FC3A3A8 0000270F
+// Infinite Freeze Ammo
+01A29DA4 0000270F
+// Infinite Neutron Ammo
+B4661425 0000270F
+// Infinite Neutron Ammo
+01A29DA8 0000270F
+// Infinite Pistol Ammo
+F4F9B82E 0000270F
+// Infinite Pistol Ammo
+01A29D9C 0000270F
+// Infinite Plasma Ammo
+B45E1425 0000270F
+// Infinite Plasma Ammo
+01A29DA6 0000270F
+// Infinite Rocket Ammo
+66F345E9 0000270F
+// Infinite Rocket Ammo
+01A29DA2 0000270F
+// Infinite Shotgun Ammo
+3B290AEF 0000270F
+// Infinite Shotgun Ammo
+01A29D9E 0000270F
+// Infinite Bomb Ammo
+D728BDD9 0000270F
+// Infinite Bomb Ammo
+01E026D8 0000270F
+// Infinite Freeze Ammo
+36211A41 0000270F
+// Infinite Freeze Ammo
+01E026DC 0000270F
+// Infinite Neutron Ammo
+6BFB5547 0000270F
+// Infinite Neutron Ammo
+01E026E0 0000270F
+// Infinite Pistol Ammo
+A9036F97 0000270F
+// Infinite Pistol Ammo
+01E026D4 0000270F
+// Infinite Plasma Ammo
+6B035547 0000270F
+// Infinite Plasma Ammo
+01E026DE 0000270F
+// Infinite Rocket Ammo
+1FEC2897 0000270F
+// Infinite Rocket Ammo
+01E026DA 0000270F
+// Infinite Shotgun Ammo
+D710BDD9 0000270F
+// Infinite Shotgun Ammo
+01E026D6 0000270F
+// Infinite Bomb Ammo
+14A43CA1 0000270F
+// Infinite Bomb Ammo
+01B0FC08 0000270F
+// Infinite Freeze Ammo
+604B4171 0000270F
+// Infinite Freeze Ammo
+01B0FC0C 0000270F
+// Infinite Neutron Ammo
+A2137BA1 0000270F
+// Infinite Neutron Ammo
+01B0FC10 0000270F
+// Infinite Pistol Ammo
+DC58A9EF 0000270F
+// Infinite Pistol Ammo
+01B0FC04 0000270F
+// Infinite Plasma Ammo
+9C7020C7 0000270F
+// Infinite Plasma Ammo
+01B0FC0E 0000270F
+// Infinite Rocket Ammo
+4C6235F9 0000270F
+// Infinite Rocket Ammo
+01B0FC0A 0000270F
+// Infinite Shotgun Ammo
+149C3CA1 0000270F
+// Infinite Shotgun Ammo
+01B0FC06 0000270F

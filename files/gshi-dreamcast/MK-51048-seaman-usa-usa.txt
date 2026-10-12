@@ -1,0 +1,4 @@
+// Air Never Drops When Game On (Aquarium)
+0129ABCC 0000FFFF
+// Heat Never Fluctuates When Game On (Aquarium)
+0129AB82 0000418B

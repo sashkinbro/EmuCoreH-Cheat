@@ -1,0 +1,8 @@
+// Enable All Races
+010D96BC 0000FFFF
+// Have All Cheats & Characters
+020D96B8 FFFFFFFF
+// Have All Tracks Except Gridiron
+010D96C0 0000FFFF
+// Infinite Credits
+000E2A51 00000005

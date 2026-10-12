@@ -1,0 +1,70 @@
+// All 100 Bones
+0019CF47 00000064
+// All Puppies Rescued
+0019CF27 0000003F
+// All 100 Bones
+0019CF45 00000064
+// All Puppies Rescued
+0019CF25 0000003F
+// All 100 Bones
+0019CF3F 00000064
+// All Puppies Rescued
+0019CF1F 0000003F
+// All 100 Bones
+0019CF42 00000064
+// All Puppies Rescued
+0019CF22 0000003F
+// All 100 Bones
+0419CF3C 00040001
+// All Puppies Rescued
+0419CF1C 00040001
+// Unlock All Levels & Mini-Games
+0119CF14 0000FFFF
+// All 100 Bones
+0019CF44 00000064
+// All Puppies Rescued
+0019CF24 0000003F
+// All 100 Bones
+0019CF4A 00000064
+// All Puppies Rescued
+0019CF2A 0000003F
+// All 100 Bones
+0019CF49 00000064
+// All Puppies Rescued
+0019CF29 0000003F
+// All 100 Bones
+0019CF46 00000064
+// All Puppies Rescued
+0019CF26 0000003F
+// All 100 Bones
+0019CF43 00000064
+// All Puppies Rescued
+0019CF23 0000003F
+// All 100 Bones
+0019CF3E 00000064
+// All Puppies Rescued
+0019CF1E 0000003F
+// All 100 Bones
+0019CF3C 00000064
+// All Puppies Rescued
+0019CF1C 0000003F
+// All 100 Bones
+0019CF40 00000064
+// All Puppies Rescued
+0019CF20 0000003F
+// All 100 Bones
+0019CF48 00000064
+// All Puppies Rescued
+0019CF28 0000003F
+// All 100 Bones
+0019CF41 00000064
+// All Puppies Rescued
+0019CF21 0000003F
+// All 100 Bones
+0019CF4B 00000064
+// All Puppies Rescued
+0019CF2B 0000003F
+// All 100 Bones
+0019CF3D 00000064
+// All Puppies Rescued
+0019CF1D 0000003F

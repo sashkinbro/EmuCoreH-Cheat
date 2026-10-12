@@ -1,0 +1,22 @@
+// Infinite Machinegun Ammo (1 Player)
+4FAA16B1 00000063
+// Infinite Plasma Gun Ammo (1 Player)
+A61358E9 00000063
+// Infinite Rocket Launcher Ammo (1 Player)
+D8588AA7 00000063
+// Infinite Shotgun Ammo (1 Player)
+9FB8038F 00000063
+// Infinite Time (1 Player)
+B8A630DD 000003E7
+// Infinite Ammo
+0105A700 00000009
+// Infinite Ammo (Machinegun)
+013DDCF8 00000063
+// Infinite Ammo (Plasma Gun)
+013DDD10 00000063
+// Infinite Ammo (Rocket Launcher)
+013DDD04 00000063
+// Infinite Ammo (Shotgun)
+013DDCFC 00000063
+// Infinite Time
+01317E98 000003E7

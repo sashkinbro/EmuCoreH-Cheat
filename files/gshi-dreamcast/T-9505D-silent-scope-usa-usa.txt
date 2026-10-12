@@ -1,0 +1,10 @@
+// Infinite Credits
+011F3254 00000005
+// Infinite Health
+011B082C 000000F0
+// Infinite Time
+011B0786 0000003B
+// Low Overall Time
+021B0780 00000000
+// Never Reload
+011B0856 00000005

@@ -1,0 +1,24 @@
+// Garage Slot 1 Modifier
+F2599690 00000001
+// Garage Slot 2 Modifier
+4D9A1FDF 00000001
+// Garage Slot 3 Modifier
+9E980AE1 00000001
+// All Chapter Races Unlocked
+04186708 00F70004
+// Enable All Showroom Cars
+04188B74 002D0001
+// Have 6 Garage Slots
+00186428 00000006
+// Have All Chapters Completed
+04186618 00180002
+// Have All Circuits Unlocked
+04187AC8 01090004
+// Infinite Jokers
+00186128 00000005
+// Time Always 0:00:00
+0253BB00 00000000
+// Unlock All Chapters
+011860E4 00000018
+// Unlock All Cheats
+041892EC 00020001
