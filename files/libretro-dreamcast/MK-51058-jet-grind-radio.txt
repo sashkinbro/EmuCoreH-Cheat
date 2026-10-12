@@ -1,0 +1,254 @@
+// Infinite Time
+022E2E18 00005250
+// Infinite Spray Cans (On Pickup)
+0101ADA0 00000009
+// Infinite Spray Cans (On Pickup) (Continued)
+0103BEDA 00000009
+// Infinite Spray Cans (On Pickup) (Continued)
+0103BE64 00000009
+// Start With Max Spray Cans
+010196FA 00000E46
+// Infinite Health
+01042BD2 00000009
+// Can Carry Up To 99 Spraycans
+0104E0CC 0000E363
+// Unlock All Small Graffiti's
+0110F42E 00000101
+// Unlock All Medium Graffiti's (Continued)
+0110F470 00000101
+// Unlock All Xtra Large Graditi's
+0110F472 00000101
+// Unlock All Graffiti
+0110F42E 00000101
+// Unlock Character Codes-Gum
+0010F3E1 00000001
+// Unlock Character Codes-Tab
+0010F3E2 00000001
+// Unlock Character Codes-Combo
+0010F3E3 00000001
+// Unlock Character Codes-Slate
+0010F3E4 00000001
+// Unlock Character Codes-Piranha
+0010F3E5 00000001
+// Unlock Character Codes-Cube
+0010F3E6 00000001
+// Unlock Character Codes-Mew
+0010F3E7 00000001
+// Unlock Character Codes-Yo-Yo
+0010F3E8 00000001
+// Unlock Character Codes-Garam
+0010F3E9 00000001
+// Unlock Character Codes-Poison Jam
+0010F3EA 00000001
+// Unlock Character Codes-Love Shockers
+0010F3EB 00000001
+// Unlock Character Codes-Noise Tank
+0010F3EC 00000001
+// Unlock Character Codes-Goji
+0010F3ED 00000001
+// Unlock Character Codes-Pots
+0010F3EE 00000001
+// Unlock Small Graffiti Codes-Beat The Clock
+0010F42E 00000001
+// Unlock Small Graffiti Codes-Pool
+0010F42F 00000001
+// Unlock Small Graffiti Codes-Tab Me
+0010F430 00000001
+// Unlock Small Graffiti Codes-Don't Push It. Kid!
+0010F431 00000001
+// Unlock Small Graffiti Codes-Beware My Bite!
+0010F432 00000001
+// Unlock Small Graffiti Codes-Freaky Deaky
+0010F433 00000001
+// Unlock Small Graffiti Codes-Purr Like A Kitten Fight Like A Tiger!
+0010F434 00000001
+// Unlock Small Graffiti Codes-Fear Me
+0010F435 00000001
+// Unlock Small Graffiti Codes-Yo Yo. Baby!
+0010F436 00000001
+// Unlock Small Graffiti Codes-Ya Gotta Cheat To Solve Puzzles
+0010F437 00000001
+// Unlock Small Graffiti Codes-Ryu 2
+0010F438 00000001
+// Unlock Small Graffiti Codes-Dragon Crew Who Are You?
+0010F439 00000001
+// Unlock Small Graffiti Codes-Watch Out!
+0010F43A 00000001
+// Unlock Small Graffiti Codes-Edge You Out
+0010F43B 00000001
+// Unlock Small Graffiti Codes-How Much Is That Mutt In The Window?
+0010F43C 00000001
+// Unlock Small Graffiti Codes-Hazey Daze
+0010F43D 00000001
+// Unlock Small Graffiti Codes-Ryo Baby!
+0010F43E 00000001
+// Unlock Small Graffiti Codes-Break It!
+0010F43F 00000001
+// Unlock Small Graffiti Codes-Plug Your Hole!
+0010F440 00000001
+// Unlock Small Graffiti Codes-Watch Yer Back
+0010F441 00000001
+// Unlock Small Graffiti Codes-Buck-Nutty!
+0010F442 00000001
+// Unlock Small Graffiti Codes-It's Epedimic
+0010F443 00000001
+// Unlock Small Graffiti Codes-Record Fanatic
+0010F444 00000001
+// Unlock Small Graffiti Codes-Every Other Caption
+0010F445 00000001
+// Unlock Small Graffiti Codes-Be Boo
+0010F446 00000001
+// Unlock Small Graffiti Codes-Skate Puppet
+0010F447 00000001
+// Unlock Small Graffiti Codes-All Across The Globe
+0010F448 00000001
+// Unlock Small Graffiti Codes-The Wold Famous Beat Junkies
+0010F449 00000001
+// Unlock Small Graffiti Codes-Mixmastermike
+0010F44A 00000001
+// Unlock Small Graffiti Codes-House Of 1000 Corpses
+0010F44B 00000001
+// Unlock Small Graffiti Codes-Land Of Monsters
+0010F44C 00000001
+// Unlock Small Graffiti Codes-It's A Wonder Chemical World
+0010F44D 00000001
+// Unlock Small Graffiti Codes-What A Shock!
+0010F44E 00000001
+// Unlock Small Graffiti Codes-Golden Rhinos
+0010F44F 00000001
+// Unlock Large Graffiti Codes-Beat This
+0010F450 00000001
+// Unlock Large Graffiti Codes-Minty Cool Flavor
+0010F451 00000001
+// Unlock Large Graffiti Codes-Pull The Tab
+0010F452 00000001
+// Unlock Large Graffiti Codes-Watch My Moves!
+0010F453 00000001
+// Unlock Large Graffiti Codes-Sharpest Teeth!
+0010F454 00000001
+// Unlock Large Graffiti Codes-Man With A Plan!
+0010F455 00000001
+// Unlock Large Graffiti Codes-Sweeter Than Sugar
+0010F456 00000001
+// Unlock Large Graffiti Codes-Tougher Than You
+0010F457 00000001
+// Unlock Large Graffiti Codes-Yo! 30
+0010F458 00000001
+// Unlock Large Graffiti Codes-Blue Slate
+0010F459 00000001
+// Unlock Large Graffiti Codes-Thisa Way Thatta Way
+0010F45A 00000001
+// Unlock Large Graffiti Codes-Spray Me
+0010F45B 00000001
+// Unlock Large Graffiti Codes-Home Of The Brave
+0010F45C 00000001
+// Unlock Large Graffiti Codes-Break It Up!
+0010F45D 00000001
+// Unlock Large Graffiti Codes-Clumsy Punk
+0010F45E 00000001
+// Unlock Large Graffiti Codes-Haze Amaze!
+0010F45F 00000001
+// Unlock Large Graffiti Codes-Cubizmo
+0010F460 00000001
+// Unlock Large Graffiti Codes-Ride The Wave!
+0010F461 00000001
+// Unlock Large Graffiti Codes-Cheap And Street
+0010F462 00000001
+// Unlock Large Graffiti Codes-Muddy Waters Drown No Soul
+0010F463 00000001
+// Unlock Large Graffiti Codes-Haze Craze
+0010F464 00000001
+// Unlock Large Graffiti Codes-Meow!
+0010F465 00000001
+// Unlock Large Graffiti Codes-Hunt And Gather
+0010F466 00000001
+// Unlock Large Graffiti Codes-Chill Out
+0010F467 00000001
+// Unlock Large Graffiti Codes-Make Your Mark
+0010F468 00000001
+// Unlock Large Graffiti Codes-Smooth As Silk...
+0010F469 00000001
+// Unlock Large Graffiti Codes-Gaze At Haze
+0010F46A 00000001
+// Unlock Large Graffiti Codes-Rockin The Decks With Original Beats
+0010F46B 00000001
+// Unlock Large Graffiti Codes-Funky Hip-Hop Scratching
+0010F46C 00000001
+// Unlock Large Graffiti Codes-Call Of The Zombie
+0010F46D 00000001
+// Unlock Large Graffiti Codes-Rip You To Shreds
+0010F46E 00000001
+// Unlock Large Graffiti Codes-Noise Destroys!
+0010F46F 00000001
+// Unlock Large Graffiti Codes-Shock The System!
+0010F470 00000001
+// Unlock Large Graffiti Codes-Golden Rhinos
+0010F471 00000001
+// Unlock Xtra Large Graffiti Codes-Theater Of Sound
+0010F472 00000001
+// Unlock Xtra Large Graffiti Codes-Off The Edge!
+0010F473 00000001
+// Unlock Xtra Large Graffiti Codes-Don't Monkey Around!
+0010F474 00000001
+// Unlock Xtra Large Graffiti Codes-Breaker Breaker!
+0010F475 00000001
+// Unlock Xtra Large Graffiti Codes-Goof-off!
+0010F476 00000001
+// Unlock Xtra Large Graffiti Codes-Let's Play Ball!
+0010F477 00000001
+// Unlock Xtra Large Graffiti Codes-Music Lover
+0010F478 00000001
+// Unlock Xtra Large Graffiti Codes-Sick Town
+0010F479 00000001
+// Unlock Xtra Large Graffiti Codes-Spirit Of The Art
+0010F47A 00000001
+// Unlock Xtra Large Graffiti Codes-Wild Style Wars!
+0010F47B 00000001
+// Unlock Xtra Large Graffiti Codes-Psycho Colors!
+0010F47C 00000001
+// Unlock Xtra Large Graffiti Codes-You Da Bomb!
+0010F47D 00000001
+// Unlock Xtra Large Graffiti Codes-Mix It Up
+0010F47E 00000001
+// Unlock Xtra Large Graffiti Codes-A Head Of The Crowd
+0010F47F 00000001
+// Unlock Xtra Large Graffiti Codes-Pray For Rain
+0010F480 00000001
+// Unlock Xtra Large Graffiti Codes-Funky Monkey
+0010F481 00000001
+// Unlock Xtra Large Graffiti Codes-Hi-yaaa!
+0010F482 00000001
+// Unlock Xtra Large Graffiti Codes-Fatal Regrets
+0010F483 00000001
+// Unlock Xtra Large Graffiti Codes-Return Of The Super Ape!
+0010F484 00000001
+// Unlock Xtra Large Graffiti Codes-Slapstick Duo
+0010F485 00000001
+// Unlock Xtra Large Graffiti Codes-Devil May Care
+0010F486 00000001
+// Unlock Xtra Large Graffiti Codes-Reaching Out
+0010F487 00000001
+// Unlock Xtra Large Graffiti Codes-Year Of The Dragon
+0010F488 00000001
+// Unlock Xtra Large Graffiti Codes-Go To Sleep
+0010F489 00000001
+// Unlock Xtra Large Graffiti Codes-Hip Hop Festival
+0010F48A 00000001
+// Unlock Xtra Large Graffiti Codes-Pull My Finger
+0010F48B 00000001
+// Unlock Xtra Large Graffiti Codes-Purple Haze
+0010F48C 00000001
+// Unlock Xtra Large Graffiti Codes-Jurassic-5 Quality Control
+0010F48D 00000001
+// Unlock Xtra Large Graffiti Codes-Eye Of The Cyklops
+0010F48E 00000001
+// Unlock Xtra Large Graffiti Codes-American Made Music To Strip By
+0010F48F 00000001
+// Unlock Xtra Large Graffiti Codes-Jam To The Venom
+0010F490 00000001
+// Unlock Xtra Large Graffiti Codes-Trancified
+0010F491 00000001
+// Unlock Xtra Large Graffiti Codes-Heartbreaker
+0010F492 00000001
+// Unlock Xtra Large Graffiti Codes-Golden Rhinos
+0010F493 00000001

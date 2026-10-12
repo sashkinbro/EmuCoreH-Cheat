@@ -1,0 +1,64 @@
+// 1st Robot Codes-Max HP
+02C098F8 0001896F
+// 1st Robot Codes-Max EN
+01C098F8 0000270F
+// 1st Robot Codes-Max Stat 1
+01C09908 000003E7
+// 1st Robot Codes-Max Stat 2
+01C0990A 000003E7
+// 1st Robot Codes-Max Stat 3
+01C0990C 000003E7
+// 1st Robot Codes-Max Stat 4
+01C0990E 000003E7
+// 1st Robot Codes-Infinite HP
+02C09964 0001869F
+// 1st Robot Codes-Max EN
+01C09968 0000270F
+// 2nd Robot Codes-Max HP
+02C09A30 0001869F
+// 2nd Robot Codes-Max EN
+01C09A34 0000270F
+// 2nd Robot Codes-Max Stat 1
+01C09A44 000003E7
+// 2nd Robot Codes-Max Stat 2
+01C09A46 000003E7
+// 2nd Robot Codes-Max Stat 3
+01C09A48 000003E7
+// 2nd Robot Codes-Max Stat 4
+01C09A4A 000003E7
+// 2nd Robot Codes-Infinite HP
+02C09A9C 0001896F
+// 2nd Robot Codes-Max EN
+01C09AA0 0000270F
+// 3rd Robot Codes-Max HP
+02C09B68 0001869F
+// 3rd Robot Codes-Max EN
+01C09B6C 0000270F
+// 3rd Robot Codes-Max Stat 1
+01C09B7C 000003E7
+// 3rd Robot Codes-Max Stat 2
+01C09B7E 000003E7
+// 3rd Robot Codes-Max Stat 3
+01C09B80 000003E7
+// 3rd Robot Codes-Max Stat 4
+01C09B82 000003E7
+// 3rd Robot Codes-Infinite HP
+02C09BD4 0001896F
+// 3rd Robot Codes-Max EN
+01C09BD8 0000270F
+// 4th Robot Codes-Max HP
+02C09CA0 0001869F
+// 4th Robot Codes-Max EN
+01C09CA4 0000270F
+// 4th Robot Codes-Max Stat 1
+01C09CB4 000003E7
+// 4th Robot Codes-Max Stat 2
+01C09CB6 000003E7
+// 4th Robot Codes-Max Stat 3
+01C09CB8 000003E7
+// 4th Robot Codes-Max Stat 4
+01C09CBA 000003E7
+// 4th Robot Codes-Infinite HP
+02C09D0C 0001896F
+// 4th Robot Codes-Max EN
+01C09D10 0000270F

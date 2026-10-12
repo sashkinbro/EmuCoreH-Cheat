@@ -1,0 +1,326 @@
+// Infinite Money (Championship Mode)
+011070CE 0000FFFF
+// Boris Knokimov Codes-Class Modifier (Replace FF's with below code)
+021070D4 000000FF
+// Boris Knokimov Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+021070D8 000000FF
+// Boris Knokimov Codes-Fights Left Modifier (Replace FF's with below code)
+021070DC 000000FF
+// Boris Knokimov Codes-Wins Modifier (Replace FF's with below code)
+021070E0 000000FF
+// Boris Knokimov Codes-Losses Modifier (Replace FF's with below code)
+021070E4 000000FF
+// Boris Knokimov Codes-Max Strength
+021070F0 447A0000
+// Boris Knokimov Codes-Max Stamina
+021070F4 447A0000
+// Boris Knokimov Codes-Max Dexterity
+021070F8 447A0000
+// Boris Knokimov Codes-Max Experience
+021070FC 447A0000
+// Butcher Brown Codes-Class Modifier (Replace FF's with below code)
+02107130 000000FF
+// Butcher Brown Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+02107134 000000FF
+// Butcher Brown Codes-Fights Left Modifier (Replace FF's with below code)
+02107138 000000FF
+// Butcher Brown Codes-Wins Modifier (Replace FF's with below code)
+0210713C 000000FF
+// Butcher Brown Codes-Losses Modifier (Replace FF's with below code)
+02107140 000000FF
+// Butcher Brown Codes-Max Strength
+0210714C 447A0000
+// Butcher Brown Codes-Max Stamina
+02107150 447A0000
+// Butcher Brown Codes-Max Dexterity
+02107154 447A0000
+// Butcher Brown Codes-Max Experience
+02107158 447A0000
+// Afro Thunder Codes-Class Modifier (Replace FF's with below code)
+0210718C 000000FF
+// Afro Thunder Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+02107190 000000FF
+// Afro Thunder Codes-Fights Left Modifier (Replace FF's with below code)
+02107194 000000FF
+// Afro Thunder Codes-Wins Modifier (Replace FF's with below code)
+02107198 000000FF
+// Afro Thunder Codes-Losses Modifier (Replace FF's with below code)
+0210719C 000000FF
+// Afro Thunder Codes-Max Strength
+021071A8 447A0000
+// Afro Thunder Codes-Max Stamina
+021071AC 447A0000
+// Afro Thunder Codes-Max Dexterity
+021071B0 447A0000
+// Afro Thunder Codes-Max Experience
+021071B4 447A0000
+// Salua Codes-Class Modifier (Replace FF's with below code)
+021071E8 000000FF
+// Salua Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+021071EC 000000FF
+// Salua Codes-Fights Left Modifier (Replace FF's with below code)
+021071F0 000000FF
+// Salua Codes-Wins Modifier (Replace FF's with below code)
+021071F4 000000FF
+// Salua Codes-Losses Modifier (Replace FF's with below code)
+021071F8 000000FF
+// Salua Codes-Max Strength
+02107204 447A0000
+// Salua Codes-Max Stamina
+02107208 447A0000
+// Salua Codes-Max Dexterity
+0210720C 447A0000
+// Salua Codes-Max Experience
+02107210 447A0000
+// 'Raging' Rivera Codes-Class Modifier (Replace FF's with below code)
+02107244 000000FF
+// 'Raging' Rivera Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+02107248 000000FF
+// 'Raging' Rivera Codes-Fights Left Modifier (Replace FF's with below code)
+0210724C 000000FF
+// 'Raging' Rivera Codes-Wins Modifier (Replace FF's with below code)
+02107250 000000FF
+// 'Raging' Rivera Codes-Losses Modifier (Replace FF's with below code)
+02107254 000000FF
+// 'Raging' Rivera Codes-Max Strength
+02107260 447A0000
+// 'Raging' Rivera Codes-Max Stamina
+02107264 447A0000
+// 'Raging' Rivera Codes-Max Dexterity
+02107268 447A0000
+// 'Raging' Rivera Codes-Max Experience
+0210726C 447A0000
+// Tank Thrasher Codes-Class Modifier (Replace FF's with below code)
+021072A0 000000FF
+// Tank Thrasher Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+021072A4 000000FF
+// Tank Thrasher Codes-Fights Left Modifier (Replace FF's with below code)
+021072A8 000000FF
+// Tank Thrasher Codes-Wins Modifier (Replace FF's with below code)
+021072AC 000000FF
+// Tank Thrasher Codes-Losses Modifier (Replace FF's with below code)
+021072B0 000000FF
+// Tank Thrasher Codes-Max Strength
+021072BC 447A0000
+// Tank Thrasher Codes-Max Stamina
+021072C0 447A0000
+// Tank Thrasher Codes-Max Dexterity
+021072C4 447A0000
+// Tank Thrasher Codes-Max Experience
+021072C8 447A0000
+// Selene Strike Codes-Class Modifier (Replace FF's with below code)
+021072FC 000000FF
+// Selene Strike Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+02107300 000000FF
+// Selene Strike Codes-Fights Left Modifier (Replace FF's with below code)
+02107304 000000FF
+// Selene Strike Codes-Wins Modifier (Replace FF's with below code)
+02107308 000000FF
+// Selene Strike Codes-Losses Modifier (Replace FF's with below code)
+0210730C 000000FF
+// Selene Strike Codes-Max Strength
+02107318 447A0000
+// Selene Strike Codes-Max Stamina
+0210731C 447A0000
+// Selene Strike Codes-Max Dexterity
+02107320 447A0000
+// Selene Strike Codes-Max Experience
+02107324 447A0000
+// Jet 'Iron' Chin Codes-Class Modifier (Replace FF's with below code)
+02107358 000000FF
+// Jet 'Iron' Chin Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+0210735C 000000FF
+// Jet 'Iron' Chin Codes-Fights Left Modifier (Replace FF's with below code)
+02107360 000000FF
+// Jet 'Iron' Chin Codes-Wins Modifier (Replace FF's with below code)
+02107364 000000FF
+// Jet 'Iron' Chin Codes-Losses Modifier (Replace FF's with below code)
+02107368 000000FF
+// Jet 'Iron' Chin Codes-Max Strength
+02107374 447A0000
+// Jet 'Iron' Chin Codes-Max Stamina
+02107378 447A0000
+// Jet 'Iron' Chin Codes-Max Dexterity
+0210737C 447A0000
+// Jet 'Iron' Chin Codes-Max Experience
+02107380 447A0000
+// Rocket Samchay Codes-Class Modifier (Replace FF's with below code)
+021073B4 000000FF
+// Rocket Samchay Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+021073B8 000000FF
+// Rocket Samchay Codes-Fights Left Modifier (Replace FF's with below code)
+021073BC 000000FF
+// Rocket Samchay Codes-Wins Modifier (Replace FF's with below code)
+021073C0 000000FF
+// Rocket Samchay Codes-Losses Modifier (Replace FF's with below code)
+021073C4 000000FF
+// Rocket Samchay Codes-Max Strength
+021073D0 447A0000
+// Rocket Samchay Codes-Max Stamina
+021073D4 447A0000
+// Rocket Samchay Codes-Max Dexterity
+021073D8 447A0000
+// Rocket Samchay Codes-Max Experience
+021073DC 447A0000
+// 'Furious' Faz Codes-Class Modifier (Replace FF's with below code)
+02107410 000000FF
+// 'Furious' Faz Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+02107414 000000FF
+// 'Furious' Faz Codes-Fights Left Modifier (Replace FF's with below code)
+02107418 000000FF
+// 'Furious' Faz Codes-Wins Modifier (Replace FF's with below code)
+0210741C 000000FF
+// 'Furious' Faz Codes-Losses Modifier (Replace FF's with below code)
+02107420 000000FF
+// 'Furious' Faz Codes-Max Strength
+0210742C 447A0000
+// 'Furious' Faz Codes-Max Stamina
+02107430 447A0000
+// 'Furious' Faz Codes-Max Dexterity
+02107434 447A0000
+// 'Furious' Faz Codes-Max Experience
+02107438 447A0000
+// Lulu Valentine Codes-Class Modifier (Replace FF's with below code)
+0210746C 000000FF
+// Lulu Valentine Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+02107470 000000FF
+// Lulu Valentine Codes-Fights Left Modifier (Replace FF's with below code)
+02107474 000000FF
+// Lulu Valentine Codes-Wins Modifier (Replace FF's with below code)
+02107478 000000FF
+// Lulu Valentine Codes-Losses Modifier (Replace FF's with below code)
+0210747C 000000FF
+// Lulu Valentine Codes-Max Strength
+02107488 447A0000
+// Lulu Valentine Codes-Max Stamina
+0210748C 447A0000
+// Lulu Valentine Codes-Max Dexterity
+02107490 447A0000
+// Lulu Valentine Codes-Max Experience
+02107494 447A0000
+// 'Big' Willy Johnson Codes-Class Modifier (Replace FF's with below code)
+021074C8 000000FF
+// 'Big' Willy Johnson Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+021074CC 000000FF
+// 'Big' Willy Johnson Codes-Fights Left Modifier (Replace FF's with below code)
+021074D0 000000FF
+// 'Big' Willy Johnson Codes-Wins Modifier (Replace FF's with below code)
+021074D4 000000FF
+// 'Big' Willy Johnson Codes-Losses Modifier (Replace FF's with below code)
+021074D8 000000FF
+// 'Big' Willy Johnson Codes-Max Strength
+021074E4 447A0000
+// 'Big' Willy Johnson Codes-Max Stamina
+021074E8 447A0000
+// 'Big' Willy Johnson Codes-Max Dexterity
+021074EC 447A0000
+// 'Big' Willy Johnson Codes-Max Experience
+021074F0 447A0000
+// J.R. Flurry Codes-Class Modifier (Replace FF's with below code)
+02107524 000000FF
+// J.R. Flurry Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+02107528 000000FF
+// J.R. Flurry Codes-Fights Left Modifier (Replace FF's with below code)
+0210752C 000000FF
+// J.R. Flurry Codes-Wins Modifier (Replace FF's with below code)
+02107530 000000FF
+// J.R. Flurry Codes-Losses Modifier (Replace FF's with below code)
+02107534 000000FF
+// J.R. Flurry Codes-Max Strength
+02107540 447A0000
+// J.R. Flurry Codes-Max Stamina
+02107544 447A0000
+// J.R. Flurry Codes-Max Dexterity
+02107548 447A0000
+// J.R. Flurry Codes-Max Experience
+0210754C 447A0000
+// Kemo Claw Codes-Class Modifier (Replace FF's with below code)
+02107580 000000FF
+// Kemo Claw Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+02107584 000000FF
+// Kemo Claw Codes-Fights Left Modifier (Replace FF's with below code)
+02107588 000000FF
+// Kemo Claw Codes-Wins Modifier (Replace FF's with below code)
+0210758C 000000FF
+// Kemo Claw Codes-Losses Modifier (Replace FF's with below code)
+02107590 000000FF
+// Kemo Claw Codes-Max Strength
+0210759C 447A0000
+// Kemo Claw Codes-Max Stamina
+021075A0 447A0000
+// Kemo Claw Codes-Max Dexterity
+021075A4 447A0000
+// Kemo Claw Codes-Max Experience
+021075A8 447A0000
+// Bruce Blace Codes-Class Modifier (Replace FF's with below code)
+021075DC 000000FF
+// Bruce Blace Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+021075E0 000000FF
+// Bruce Blace Codes-Fights Left Modifier (Replace FF's with below code)
+021075E4 000000FF
+// Bruce Blace Codes-Wins Modifier (Replace FF's with below code)
+021075E8 000000FF
+// Bruce Blace Codes-Losses Modifier (Replace FF's with below code)
+021075EC 000000FF
+// Bruce Blace Codes-Max Strength
+021075F8 447A0000
+// Bruce Blace Codes-Max Stamina
+021075FC 447A0000
+// Bruce Blace Codes-Max Dexterity
+02107600 447A0000
+// Bruce Blace Codes-Max Experience
+02107604 447A0000
+// Nat Daddy Codes-Class Modifier (Replace FF's with below code)
+02107638 000000FF
+// Nat Daddy Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+0210763C 000000FF
+// Nat Daddy Codes-Fights Left Modifier (Replace FF's with below code)
+02107640 000000FF
+// Nat Daddy Codes-Wins Modifier (Replace FF's with below code)
+02107644 000000FF
+// Nat Daddy Codes-Losses Modifier (Replace FF's with below code)
+02107648 000000FF
+// Nat Daddy Codes-Max Strength
+02107654 447A0000
+// Nat Daddy Codes-Max Stamina
+02107658 447A0000
+// Nat Daddy Codes-Max Dexterity
+0210765C 447A0000
+// Nat Daddy Codes-Max Experience
+02107660 447A0000
+// Damien Black Codes-Class Modifier (Replace FF's with below code)
+02107694 000000FF
+// Damien Black Codes-Rank Modifier (00-0A) (Replace FF's with below code)
+02107698 000000FF
+// Damien Black Codes-Fights Left Modifier (Replace FF's with below code)
+0210769C 000000FF
+// Damien Black Codes-Wins Modifier (Replace FF's with below code)
+021076A0 000000FF
+// Damien Black Codes-Losses Modifier (Replace FF's with below code)
+021076A4 000000FF
+// Damien Black Codes-Max Strength
+021076B0 447A0000
+// Damien Black Codes-Max Stamina
+021076B4 447A0000
+// Damien Black Codes-Max Dexterity
+021076B8 447A0000
+// Damien Black Codes-Max Experience
+021076BC 447A0000
+// Michael Buffer? Codes  -Class Modifier (Replace FF's with below code)
+021076F0 000000FF
+// Michael Buffer? Codes  -Rank Modifier (00-0A) (Replace FF's with below code)
+021076F4 000000FF
+// Michael Buffer? Codes  -Fights Left Modifier (Replace FF's with below code)
+021076F8 000000FF
+// Michael Buffer? Codes  -Wins Modifier (Replace FF's with below code)
+021076FC 000000FF
+// Michael Buffer? Codes  -Losses Modifier (Replace FF's with below code)
+02107700 000000FF
+// Michael Buffer? Codes  -Max Strength
+0210770C 447A0000
+// Michael Buffer? Codes  -Max Stamina
+02107710 447A0000
+// Michael Buffer? Codes  -Max Dexterity
+02107714 447A0000
+// Michael Buffer? Codes  -Max Experience
+02107718 447A0000

@@ -1,0 +1,74 @@
+// Infinite Time
+01123186 00000009
+// Infinite Health P1 Only
+0211F7A4 3406504B
+// Infinite Health P2 Only
+0211F7A4 3046504B
+// Infinite Health P1 & P2
+0111F7A6 00000008
+// Invincible To Everything Except Throws P1 Only
+01115A0A 000052EB
+// Invincible To Everything Except Throws P1 Only (Continued)
+01115A0C 00003E26
+// Invincible To Everything Except Throws P2 Only
+01115A0A 000052EB
+// Invincible To Everything Except Throws P2 Only (Continued)
+01115A0C 000032E6
+// Invincible To Everything Except Throws P1 & P2
+01115A0C 00000008
+// Infinite Special Meter (Upon Using) P1 Only
+0204D8FC 3D3653DB
+// Infinite Special Meter (Upon Using) P2 Only
+0204D8FC 33D653DB
+// Infinite Special Meter (Upon Using) P1 & P2
+0104D8FE 00000018
+// P1 Takes No Damage From Throws/P2 Dies Instantly When Thrown
+0111E228 00003246
+// P2 Takes No Damage From Throws/P1 Dies Instantly When Thrown
+0111E228 00003426
+// Throws Do No Damage P1 & P2
+0111E228 00000018
+// Hit Anywhere (Both Players) 
+0111592C 00000008
+// Enable Extra Striker Codes-Justice Daimon
+0045DD5B 00000001
+// Enable Extra Striker Codes-Dark Daimon
+0045DD5C 00000001
+// Enable Extra Striker Codes-Justice Billy
+0045DD5D 00000001
+// Enable Extra Striker Codes-Dark Billy
+0045DD5E 00000001
+// Enable Extra Striker Codes-Justice Yamazaki
+0045DD5F 00000001
+// Enable Extra Striker Codes-Dark Yamazaki
+0045DD60 00000001
+// Enable Extra Striker Codes-Justice Kyo SP
+0045DD61 00000001
+// Enable Extra Striker Codes-Dark Kyo SP
+0045DD62 00000001
+// Enable Extra Striker Codes-Justice Chizuru
+0045DD63 00000001
+// Enable Extra Striker Codes-Dark Chizuru
+0045DD64 00000001
+// Enable Extra Striker Codes-Justice Athena
+0045DD65 00000001
+// Enable Extra Striker Codes-Dark Athena
+0045DD66 00000001
+// Enable Extra Striker Codes-Justice Alfred
+0045DD67 00000001
+// Enable Extra Striker Codes-Dark Alfred
+0045DD68 00000001
+// Enable Extra Striker Codes-Justice Fio
+0045DD69 00000001
+// Enable Extra Striker Codes-Dark Fio
+0045DD6A 00000001
+// Enable Extra Striker Codes-Justice Gai
+0045DD6B 00000001
+// Enable Extra Striker Codes-Dark Gai
+0045DD6C 00000001
+// Enable Extra Striker Codes-Justice Syo
+0045DD6D 00000001
+// Enable Extra Striker Codes-Dark Syo
+0045DD6E 00000001
+// Enable Extra Striker Codes-Enable All Extra Strikers
+0045DD5B 00000001

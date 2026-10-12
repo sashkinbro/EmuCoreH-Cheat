@@ -1,0 +1,8 @@
+// Infinite Credits
+002C5114 0000000A
+// P1 Infinite Lives
+000A2334 00000003
+// P1 Score Modifier (Replace FF's with below code)
+010A232C 0000FFFF
+// P1 Max Special
+000A2340 000000FF

@@ -9,7 +9,17 @@
       "commit": "6a23a64fea8b0498e69ab534dda1c602ed064544",
       "rawUrl": "https://raw.githubusercontent.com/libretro/libretro-database/6a23a64fea8b0498e69ab534dda1c602ed064544/cht/Sega%20-%20Dreamcast",
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
-      "notes": "The Dreamcast cheat folder is imported whole. Each converted pack lists the disc product codes taken from the Redump metadata DAT of the same revision, so a pack is offered only for the discs it was written for. Blocks using unsupported code types, repeats or enable codes are excluded."
+      "notes": "The Dreamcast cheat folder is imported whole. Disc product codes come from the Redump metadata DAT of the same revision; Redump's short Sega codes (51036) are expanded to the IP.BIN form (MK-51036) and serial lists from the previous catalog are always kept. Blocks using unsupported code types, repeats or enable codes are excluded."
+    },
+    {
+      "id": "mame-arcade",
+      "name": "MAME cheat collection (Pugsy's XML cheats)",
+      "author": "Pugsy and MAME cheat collection contributors",
+      "url": "https://www.mamecheat.co.uk/",
+      "version": "MAME 0.264",
+      "rawUrl": "https://github.com/sashkinbro/EmuCoreH-Cheat/tree/main/files/mame-arcade",
+      "license": "MAME cheat XML collection by Pugsy and contributors; only plain SH4 main RAM writes are converted",
+      "notes": "Naomi, Naomi 2, Atomiswave and System SP romsets are matched against the arcade game table shipped with EmuCoreH (assets/catalog/arcade_games.json). Only unconditional run-state actions that write SH4 main RAM are converted to address/value codes; button conditions, ROM patches and one-shot actions are skipped."
     }
   ]
 }

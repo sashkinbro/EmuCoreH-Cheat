@@ -1,0 +1,12 @@
+// Maximum Stamina
+0115A5DC 00000004
+// Have All Glyphs
+0115A5EE 000003FF
+// Have All Emblems
+01150AEA 00000005
+// Have All Emblems (Continued)
+01150AEC 00000005
+// Infinite Glyph Power
+0115A5F4 00000034
+// Start With All Abilities (Continued)
+0115A5EC 0000FFBF

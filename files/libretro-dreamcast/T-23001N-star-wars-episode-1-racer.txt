@@ -1,0 +1,12 @@
+// Infinite Money
+0114878C 0000FFFF
+// Start On 3rd Lap P1 (Continued)
+0114D8E4 00000002
+// Unlock All Tracks
+0214877C FFFFFFFF
+// Have All Tracks Complete
+02148780 3FFF3FFF
+// Have All Tracks Complete (Continued)
+02148784 00FF3FFF
+// Unlock All Characters
+02148788 007FFFFF

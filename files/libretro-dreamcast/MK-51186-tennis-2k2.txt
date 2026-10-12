@@ -1,0 +1,20 @@
+// P1 Needs 3 Points To Win (Continued)
+01318164 00000001
+// P1 Needs 2 Points To Win (Continued)
+01318164 00000002
+// P1 Needs 1 Points To Win (Continued)
+01318164 00000003
+// P1 Never Wins
+01318164 00000000
+// P1 Matches Won Modifier (Replace FF's with below code)
+0131815C 000000FF
+// P2 Needs 3 Points To Win (Continued)
+01318168 00000001
+// P2 Needs 2 Points To Win (Continued)
+01318168 00000002
+// P2 Needs 1 Points To Win (Continued)
+01318168 00000003
+// P2 Never Wins
+01318168 00000000
+// P2 Matches Won Modifier (Replace FF's with below code)
+01318160 000000FF

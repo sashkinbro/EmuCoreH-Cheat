@@ -1,0 +1,8 @@
+// Max Points (Hoigle)
+01A565F8 000003E7
+// No Points (Hoigle)
+01A565F8 00000000
+// Max Points (Moigle)
+01A565FC 000003E7
+// No Points (Moigle)
+01A565FC 00000000

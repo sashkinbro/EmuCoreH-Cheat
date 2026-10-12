@@ -1,0 +1,36 @@
+// Infinite Time
+0106FB84 00000009
+// Infinite Health P1 ONLY
+020608B8 52D05040
+// Infinite Health P1 ONLY (Continued)
+010608BC 00003026
+// Infinite Health P2 ONLY
+020608B8 52D05040
+// Infinite Health P2 ONLY (Continued)
+010608BC 00003206
+// Infinite Health P1 & P2
+010608BC 00000008
+// Infinite Special Meter (Upon Usage) P1 Only
+0104FE2A 0000E20D
+// Infinite Special Meter (Upon Usage) P1 Only (Continued)
+0204FE2C 72284218
+// Infinite Special Meter (Upon Usage) P1 Only (Continued)
+0204FE30 6222320C
+// Infinite Special Meter (Upon Usage) P1 Only (Continued)
+0204FE34 89063210
+// Infinite Special Meter (Upon Usage) P2 Only
+0104FE2A 0000E20D
+// Infinite Special Meter (Upon Usage) P2 Only (Continued)
+0204FE2C 72284218
+// Infinite Special Meter (Upon Usage) P2 Only (Continued)
+0204FE30 6222320C
+// Infinite Special Meter (Upon Usage) P2 Only (Continued)
+0204FE34 8B063210
+// Infinite Special Meter (Upon Usage) P1 & P2
+0104FE32 00000008
+// Hit Anywhere
+010BCA68 00000018
+// Hit Anywhere (Continued)
+010BCA88 00000008
+// Hit Anywhere (Continued)
+010BCAEA 00000008

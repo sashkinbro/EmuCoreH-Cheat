@@ -1,0 +1,5 @@
+// Hit Anywhere (Both Players)
+010673A4 00000009
+010673BE 00000009
+// Walk Through Opponent
+0106F6AE 0000A007

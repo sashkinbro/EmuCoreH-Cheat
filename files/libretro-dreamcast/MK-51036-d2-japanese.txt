@@ -1,0 +1,6 @@
+// Never Reload-Machine Gun
+014DF820 0000000F
+// Never Reload-Grenade
+014DF82C 0000000F
+// Infinite First-Aid Spray
+014DF840 00000063

@@ -1,0 +1,34 @@
+// Infinite Credits
+012E38E4 00000003
+// Infinite Health P1
+012E38EC 000000C8
+// Infinite Jedi Powers P1
+012E38F4 000000C8
+// Infinite Health P2
+012E3908 000000C8
+// Infinite Jedi Powers P2
+012E3910 000000C8
+// Infinite Items P1
+012E38FA 00000063
+// Infinite Items P2
+012E3916 00000063
+// Score Modifier P1 (Replace FF's with below code)
+012E38E8 0000FFFF
+// Max Score P1
+022E38E8 0098967F
+// Score Modifier P2 (Replace FF's with below code)
+012E3904 0000FFFF
+// Max Score P2
+022E3904 0098967F
+// Have All Hand Maidens/Pilots Rescued
+012E3788 0000000A
+// Unlock All Levels (Obi-Wan Kenobi)
+012E3B58 00000001
+// Unlock All Levels (Mace Windu)
+012E3B94 00000001
+// Unlock All Levels (Qui-Gon Jin)
+012E3B76 00000001
+// Unlock All Levels (Adi Gallia)
+012E3BB2 00000001
+// Unlock All Levels (Plo Koon)
+012E3BD0 00000001

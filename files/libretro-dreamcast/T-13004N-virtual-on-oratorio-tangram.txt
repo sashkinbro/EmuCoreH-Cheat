@@ -1,0 +1,8 @@
+// Infinite Armor P1
+01CF6284 000004B0
+// No Armor P1
+01CF6284 00000000
+// Infinite Armor P2
+01CF7402 000004B0
+// No Armor P2
+01CF7402 00000000

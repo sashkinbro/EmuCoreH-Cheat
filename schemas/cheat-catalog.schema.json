@@ -28,7 +28,7 @@
           "serials": {
             "type": "array",
             "minItems": 1,
-            "items": { "type": "string", "pattern": "^[A-Z0-9]{1,4}[-_][0-9]{3,5}[A-Z]?$" }
+            "items": { "type": "string", "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,31}$" }
           },
           "crc": { "type": "string", "pattern": "^([0-9A-F]{8})?$" },
           "authors": { "type": "array", "minItems": 1, "items": { "type": "string" } },

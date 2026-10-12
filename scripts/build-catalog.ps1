@@ -1,13 +1,25 @@
 param(
     [string]$DatabaseRoot = "E:\TMP\libretro-database",
+    [string]$MameCheatRoot = "C:\windows\Temp\opencode\mame-cheats\xml264",
+    [string]$ArcadeCatalogFile = "C:\Users\SBRO\AndroidStudioProjects\EmuCoreH\app\src\main\assets\catalog\arcade_games.json",
     [string]$RepositoryRoot = (Split-Path -Parent $PSScriptRoot)
 )
 
 $cheatsRoot = Join-Path $DatabaseRoot "cht\Sega - Dreamcast"
 $datFile = Join-Path $DatabaseRoot "metadat\redump\Sega - Dreamcast.dat"
-$packDir = Join-Path $RepositoryRoot "files\libretro-dreamcast"
+$libretroPackDir = Join-Path $RepositoryRoot "files\libretro-dreamcast"
+$mamePackDir = Join-Path $RepositoryRoot "files\mame-arcade"
 $commit = (git -C $DatabaseRoot rev-parse HEAD).Trim()
-$catalogIdPrefix = "libretro-dreamcast"
+
+# ---------------------------------------------------------------------------
+# Title helpers
+# ---------------------------------------------------------------------------
+
+$stopTokens = @("the", "of", "a", "an", "and", "vol", "volume")
+$romanTokens = @{
+    "i" = "1"; "ii" = "2"; "iii" = "3"; "iv" = "4"; "v" = "5"; "vi" = "6";
+    "vii" = "7"; "viii" = "8"; "ix" = "9"; "x" = "10"; "xi" = "11"; "xii" = "12"
+}
 
 function Get-TitleKey([string]$value) {
     $text = $value.ToLowerInvariant()
@@ -16,77 +28,241 @@ function Get-TitleKey([string]$value) {
     return $text
 }
 
-function Get-PreferredSerial([string]$raw) {
-    # Dreamcast product codes may start with a single letter (T-9701N).
-    foreach ($match in [regex]::Matches($raw, "[A-Z0-9]{1,4}-[0-9]{3,5}[A-Z]?")) {
+function Get-Tokens([string]$value) {
+    $text = $value.ToLowerInvariant()
+    $text = [regex]::Replace($text, "\([^)]*\)", " ")
+    # Revision suffixes must not create fake tokens (Ready 2 Rumble Version 1.0).
+    $text = [regex]::Replace($text, "\bversion\s*\d+(?:[.,]\d+)*\b", " ")
+    $text = [regex]::Replace($text, "\bv\d+(?:[.,]\d+)*\b", " ")
+    $text = [regex]::Replace($text, "[^a-z0-9]+", " ")
+    $tokens = [System.Collections.Generic.List[string]]::new()
+    foreach ($token in $text.Split(" ")) {
+        if (-not $token -or $token -in $stopTokens) { continue }
+        $mapped = if ($romanTokens.ContainsKey($token)) { $romanTokens[$token] } else { $token }
+        if ($mapped -match "^\d{4}$" -and ($mapped.StartsWith("19") -or $mapped.StartsWith("20"))) {
+            $mapped = $mapped.Substring(2)
+        }
+        if (-not $tokens.Contains($mapped)) { $tokens.Add($mapped) }
+    }
+    return $tokens
+}
+
+# One substitution is tolerated so upstream typos (Dalmations) still match.
+function Test-TokenEqual([string]$a, [string]$b) {
+    if ($a -eq $b) { return $true }
+    if ($a.Length -ne $b.Length -or $a.Length -lt 5) { return $false }
+    $diff = 0
+    for ($i = 0; $i -lt $a.Length; $i++) {
+        if ($a[$i] -ne $b[$i]) {
+            $diff++
+            if ($diff -gt 1) { return $false }
+        }
+    }
+    return $true
+}
+
+function Get-SharedTokens($tokens, $otherTokens) {
+    $shared = [System.Collections.Generic.List[string]]::new()
+    foreach ($token in $tokens) {
+        foreach ($candidate in $otherTokens) {
+            if (Test-TokenEqual $token $candidate) {
+                $shared.Add($token)
+                break
+            }
+        }
+    }
+    return $shared
+}
+
+function Get-NumericTokens($tokens) {
+    return @($tokens | Where-Object { $_ -match "^\d+$" } | Sort-Object)
+}
+
+function Get-RegionRank([string]$region) {
+    switch -Regex ($region) {
+        "USA|World" { return 0 }
+        "Europe" { return 1 }
+        "Japan" { return 2 }
+        default { return 3 }
+    }
+}
+
+function Add-Serial($serials, $value) {
+    foreach ($serial in $value) {
+        if ($serial -and -not $serials.Contains($serial)) { $serials.Add($serial) }
+    }
+}
+
+# ---------------------------------------------------------------------------
+# Dreamcast metadata DAT
+# ---------------------------------------------------------------------------
+
+function Convert-ToCatalogSerial([string]$raw) {
+    $value = $raw.Trim().ToUpperInvariant()
+    if ($value -match "^\d{5}$") {
+        # Redump stores Sega first-party codes without the MK- prefix (51036).
+        return "MK-$value"
+    }
+    if ($value -match "^\d{3}-\d{4}$") {
+        # Sega internal promo numbers (610-7118) belong to demo discs.
+        return $null
+    }
+    foreach ($match in [regex]::Matches($value, "[A-Z0-9]{1,4}-[0-9]{3,5}[A-Z]?")) {
         $token = $match.Value
-        $prefix = $token.Split("-")[0]
-        if ($prefix -match "[A-Z]") { return $token }
+        if ($token.Split("-")[0] -match "[A-Z]") { return $token }
     }
     return $null
 }
 
-$gamesByKey = @{}
-$games = [System.Collections.Generic.List[object]]::new()
+$script:datGames = [System.Collections.Generic.List[object]]::new()
+$script:gamesByKey = @{}
 $currentName = $null
 $currentRegion = ""
-foreach ($line in Get-Content $datFile) {
-    if ($line -match '^\s*name\s+"(.+)"\s*$') {
-        $currentName = $Matches[1]
-        $currentRegion = ""
-        continue
+$currentSerials = [System.Collections.Generic.List[string]]::new()
+
+function Add-DatGame {
+    if (-not $currentName) { return }
+    $serials = [System.Collections.Generic.List[string]]::new()
+    foreach ($serial in $currentSerials) {
+        if (-not $serials.Contains($serial)) { $serials.Add($serial) }
     }
-    if ($line -match '^\s*region\s+"(.+)"\s*$') {
-        $currentRegion = $Matches[1]
-        continue
+    $key = Get-TitleKey $currentName
+    $game = [pscustomobject]@{
+        Name = $currentName
+        Key = $key
+        Region = $currentRegion
+        Serials = $serials
+        Tokens = (Get-Tokens $currentName)
     }
-    if ($line -match '^\s*serial\s+"(.+)"\s*$' -and $currentName) {
-        $serial = Get-PreferredSerial $Matches[1]
-        if ($serial) {
-            $key = Get-TitleKey $currentName
-            if (-not $gamesByKey.ContainsKey($key)) { $gamesByKey[$key] = [System.Collections.Generic.List[string]]::new() }
-            if (-not $gamesByKey[$key].Contains($serial)) { $gamesByKey[$key].Add($serial) }
-            $games.Add([pscustomobject]@{ Key = $key; Serial = $serial; Region = $currentRegion })
-        }
+    $script:datGames.Add($game)
+    if (-not $script:gamesByKey.ContainsKey($key)) {
+        $script:gamesByKey[$key] = [System.Collections.Generic.List[object]]::new()
     }
+    $script:gamesByKey[$key].Add($game)
 }
 
-function Resolve-Serials([string]$key) {
-    $serials = [System.Collections.Generic.List[string]]::new()
-    if ($gamesByKey.ContainsKey($key)) {
-        foreach ($serial in $gamesByKey[$key]) { $serials.Add([string]$serial) }
+foreach ($line in Get-Content $datFile) {
+    if ($line -match '^\s*name\s+"(.+)"\s*$') {
+        Add-DatGame
+        $currentName = $Matches[1]
+        $currentRegion = ""
+        $currentSerials = [System.Collections.Generic.List[string]]::new()
+        continue
     }
-    if ($serials.Count -gt 0) { return $serials.ToArray() }
+    if ($line -match '^\s*region\s+"(.+)"\s*$') { $currentRegion = $Matches[1]; continue }
+    if ($line -match '^\s*serial\s+"(.+)"\s*$') {
+        $serial = Convert-ToCatalogSerial $Matches[1]
+        if ($serial) { $currentSerials.Add($serial) }
+        continue
+    }
+}
+Add-DatGame
 
+# Prefix matching is what the published catalog was built with. It is kept so
+# existing pack file names and serial lists stay stable.
+function Resolve-Serials-ByPrefix([string]$key) {
+    $serials = [System.Collections.Generic.List[string]]::new()
+    if ($key.Length -lt 4) { return $serials.ToArray() }
     $fallback = [System.Collections.Generic.List[object]]::new()
-    $fallbackSerials = [System.Collections.Generic.List[string]]::new()
-    foreach ($game in $games) {
-        if ($game.Key.Length -lt 4 -or $key.Length -lt 4) { continue }
+    foreach ($game in $script:datGames) {
+        if ($game.Key.Length -lt 4) { continue }
         if ($game.Key.StartsWith($key) -or $key.StartsWith($game.Key)) {
-            if (-not $fallbackSerials.Contains($game.Serial)) { $fallbackSerials.Add($game.Serial) }
             $fallback.Add($game)
         }
     }
-    if ($fallbackSerials.Count -eq 0) { return [string[]]@() }
-    if (@($fallback | Where-Object { $_.Region -match "USA|World" }).Count -gt 0) {
-        $serials.Clear()
-        foreach ($game in $fallback) {
-            if ($game.Region -match "USA|World") { $serials.Add($game.Serial) }
-        }
-        if ($serials.Count -gt 0) { return $serials.ToArray() }
+    if ($fallback.Count -eq 0) { return $serials.ToArray() }
+    $regionMatches = @($fallback | Where-Object { $_.Region -match "USA|World" -and $_.Serials.Count -gt 0 })
+    if ($regionMatches.Count -gt 0) {
+        foreach ($game in $regionMatches) { Add-Serial $serials $game.Serials }
+        return $serials.ToArray()
     }
-    return $fallbackSerials.ToArray()
+    foreach ($game in $fallback) { Add-Serial $serials $game.Serials }
+    return $serials.ToArray()
 }
 
-New-Item -ItemType Directory -Force -Path $packDir | Out-Null
-Get-ChildItem $packDir -File -ErrorAction SilentlyContinue | Remove-Item -Force
+function Resolve-Serials-ByTokens([string]$chtTitle) {
+    $tokens = Get-Tokens $chtTitle
+    $serials = [System.Collections.Generic.List[string]]::new()
+    if ($tokens.Count -lt 2) { return $serials.ToArray() }
+
+    $numeric = Get-NumericTokens $tokens
+    $scored = [System.Collections.Generic.List[object]]::new()
+    foreach ($game in $script:datGames) {
+        $shared = Get-SharedTokens $tokens $game.Tokens
+        if ($shared.Count -lt 2) { continue }
+        $gameNumeric = Get-NumericTokens $game.Tokens
+        if ($gameNumeric.Count -ne $numeric.Count) { continue }
+        if ($gameNumeric -join "," -ne ($numeric -join ",")) { continue }
+        $allShared = $shared.Count -eq $tokens.Count
+        $extra = $game.Tokens.Count - $shared.Count
+        $score = 0
+        if ($allShared -and $extra -eq 0) { $score = 100 }
+        elseif ($allShared) { $score = 60 }
+        elseif ($shared.Count -ge 3 -and ($tokens.Count - $shared.Count) -le 1 -and $extra -le 2) { $score = 40 }
+        else { continue }
+        if ($game.Region -match "USA|World") { $score += 2 }
+        if ($game.Serials.Count -eq 0) { $score -= 1 }
+        $scored.Add([pscustomobject]@{ Game = $game; Score = $score })
+    }
+    if ($scored.Count -eq 0) { return $serials.ToArray() }
+
+    $bestScore = ($scored | Sort-Object -Property @{ Expression = "Score"; Descending = $true } | Select-Object -First 1).Score
+    $bestGames = @($scored | Where-Object { $_.Score -eq $bestScore } | ForEach-Object { $_.Game })
+    $ordered = $bestGames | Sort-Object -Property @{ Expression = { Get-RegionRank $_.Region } }, @{ Expression = "Name" }
+    foreach ($game in $ordered) { Add-Serial $serials $game.Serials }
+    return $serials.ToArray()
+}
+
+function Resolve-Serials([string]$chtTitle) {
+    $key = Get-TitleKey $chtTitle
+    $serials = [System.Collections.Generic.List[string]]::new()
+
+    if ($script:gamesByKey.ContainsKey($key)) {
+        foreach ($game in $script:gamesByKey[$key]) { Add-Serial $serials $game.Serials }
+    }
+    if ($serials.Count -gt 0) { return $serials.ToArray() }
+
+    Add-Serial $serials (Resolve-Serials-ByPrefix $key)
+    Add-Serial $serials (Resolve-Serials-ByTokens $chtTitle)
+    return $serials.ToArray()
+}
+
+# ---------------------------------------------------------------------------
+# Dreamcast packs
+# ---------------------------------------------------------------------------
+
+# Serial lists published by the previous catalog are merged in first, so pack
+# file names and per-disc coverage never regress between rebuilds.
+$previousByTitle = @{}
+$previousCatalogFile = Join-Path $RepositoryRoot "cheats.json"
+if (Test-Path $previousCatalogFile) {
+    try {
+        $previousEntries = (Get-Content $previousCatalogFile -Raw | ConvertFrom-Json).entries
+        foreach ($entry in $previousEntries) {
+            if ($entry.title) { $previousByTitle[$entry.title] = @($entry.serials) }
+        }
+    } catch { }
+}
+
+New-Item -ItemType Directory -Force -Path $libretroPackDir | Out-Null
+Get-ChildItem $libretroPackDir -File -ErrorAction SilentlyContinue | Remove-Item -Force
 
 $entries = [System.Collections.Generic.List[object]]::new()
 $skipped = 0
+$dreamcastPacks = 0
 foreach ($file in Get-ChildItem $cheatsRoot -Filter "*.cht" | Sort-Object Name) {
-    $key = Get-TitleKey $file.BaseName
-    [string[]]$serials = @(Resolve-Serials $key)
+    [string[]]$serials = @(Resolve-Serials $file.BaseName)
     if ($serials.Count -eq 0) { $skipped++; continue }
+    if ($previousByTitle.ContainsKey($file.BaseName)) {
+        $merged = [System.Collections.Generic.List[string]]::new()
+        foreach ($serial in $previousByTitle[$file.BaseName]) {
+            if ($serial -and -not $merged.Contains($serial)) { $merged.Add($serial) }
+        }
+        foreach ($serial in $serials) {
+            if ($serial -and -not $merged.Contains($serial)) { $merged.Add($serial) }
+        }
+        $serials = $merged.ToArray()
+    }
 
     $values = @{}
     foreach ($line in Get-Content $file.FullName) {
@@ -124,7 +300,7 @@ foreach ($file in Get-ChildItem $cheatsRoot -Filter "*.cht" | Sort-Object Name) 
     if (-not $slug) { $slug = "pack" }
     $safeSerial = $serial -replace "[^A-Za-z0-9-]", "_"
     $fileName = "$safeSerial-$slug.txt"
-    $target = Join-Path $packDir $fileName
+    $target = Join-Path $libretroPackDir $fileName
     $builder = [System.Text.StringBuilder]::new()
     foreach ($block in $blocks) {
         [void]$builder.Append("// ").Append($block.Desc).Append("`n")
@@ -133,7 +309,7 @@ foreach ($file in Get-ChildItem $cheatsRoot -Filter "*.cht" | Sort-Object Name) 
     [System.IO.File]::WriteAllText($target, $builder.ToString(), [System.Text.UTF8Encoding]::new($false))
 
     $entries.Add([pscustomobject]@{
-        id = "$catalogIdPrefix-$($safeSerial.ToLowerInvariant())-$slug"
+        id = "libretro-dreamcast-$($safeSerial.ToLowerInvariant())-$slug"
         title = $file.BaseName
         serials = @($serials)
         authors = @("libretro-database contributors and the original Dreamcast cheat authors")
@@ -146,14 +322,101 @@ foreach ($file in Get-ChildItem $cheatsRoot -Filter "*.cht" | Sort-Object Name) 
         blockCount = $blocks.Count
         updatedAt = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
     })
+    $dreamcastPacks++
 }
 
+# ---------------------------------------------------------------------------
+# MAME arcade packs
+# ---------------------------------------------------------------------------
+
+New-Item -ItemType Directory -Force -Path $mamePackDir | Out-Null
+Get-ChildItem $mamePackDir -File -ErrorAction SilentlyContinue | Remove-Item -Force
+
+$arcadePorts = 0
+$arcadeCheats = 0
+if (Test-Path $ArcadeCatalogFile) {
+    $arcadeCatalog = Get-Content $ArcadeCatalogFile -Raw | ConvertFrom-Json
+    foreach ($property in $arcadeCatalog.games.PSObject.Properties) {
+        $romset = $property.Name
+        $title = [string]$property.Value.title
+        if (-not $title) { $title = $romset }
+        $xmlFile = Join-Path $MameCheatRoot "$romset.xml"
+        if (-not (Test-Path $xmlFile)) { continue }
+
+        $xml = $null
+        try { $xml = [xml](Get-Content $xmlFile -Raw) } catch { continue }
+        if (-not $xml.mamecheat -or -not $xml.mamecheat.cheat) { continue }
+
+        $blocks = [System.Collections.Generic.List[object]]::new()
+        foreach ($cheat in $xml.mamecheat.cheat) {
+            $desc = ([string]$cheat.desc).Trim()
+            if (-not $desc) { continue }
+            if ($cheat.condition) { continue }
+            $runScript = $cheat.script | Where-Object { $_.state -eq "run" }
+            if (-not $runScript) { continue }
+            $codes = [System.Collections.Generic.List[string]]::new()
+            foreach ($action in $runScript.action) {
+                $text = ([string]$action).Trim()
+                if ($text -notmatch '^maincpu\.(p?[bwd])@([0-9A-Fa-f]+)=([0-9A-Fa-f]+)$') { continue }
+                $access = $Matches[1]
+                try {
+                    $address = [System.Convert]::ToUInt32($Matches[2], 16)
+                    $value = [System.Convert]::ToUInt32($Matches[3], 16)
+                } catch { continue }
+                # The cheat API writes to SH4 main RAM only.
+                if (($address -band 0xFF000000) -ne 0x0C000000 -and ($address -band 0xFF000000) -ne 0x8C000000) { continue }
+                $type = switch ($access) {
+                    "b" { 0 }
+                    "pb" { 0 }
+                    "w" { 1 }
+                    "pw" { 1 }
+                    "d" { 2 }
+                    "pd" { 2 }
+                    default { -1 }
+                }
+                if ($type -lt 0) { continue }
+                $codes.Add(("{0:X2}{1:X6} {2:X8}" -f $type, ($address -band 0xFFFFFF), ($value -band 0xFFFFFFFF)))
+            }
+            if ($codes.Count -eq 0) { continue }
+            $blocks.Add([pscustomobject]@{ Desc = $desc; Codes = $codes })
+        }
+        if ($blocks.Count -eq 0) { continue }
+
+        $fileName = "$romset.txt"
+        $target = Join-Path $mamePackDir $fileName
+        $builder = [System.Text.StringBuilder]::new()
+        foreach ($block in $blocks) {
+            [void]$builder.Append("// ").Append($block.Desc).Append("`n")
+            foreach ($code in $block.Codes) { [void]$builder.Append($code).Append("`n") }
+        }
+        [System.IO.File]::WriteAllText($target, $builder.ToString(), [System.Text.UTF8Encoding]::new($false))
+        $arcadePorts++
+        $arcadeCheats += ($blocks | ForEach-Object { $_.Codes.Count } | Measure-Object -Sum).Sum
+
+        $entries.Add([pscustomobject]@{
+            id = "mame-arcade-$romset"
+            title = $title
+            serials = @($romset)
+            authors = @("MAME cheat collection contributors (Pugsy and others)")
+            description = "$($blocks.Count) arcade cheat blocks for the $romset romset."
+            downloadUrl = "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/mame-arcade/$fileName"
+            packPath = "files/mame-arcade/$fileName"
+            sourceUrl = "https://www.mamecheat.co.uk/"
+            sourceName = "MAME cheat collection (Pugsy's XML cheats, MAME 0.264)"
+            license = "MAME cheat XML collection by Pugsy and contributors; only plain main RAM writes are converted"
+            blockCount = $blocks.Count
+            updatedAt = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
+        })
+    }
+}
+
+$ordered = $entries | Sort-Object -Property @{ Expression = { $_.title.ToLowerInvariant() } }, @{ Expression = "id" }
 $catalog = [pscustomobject]@{
     schemaVersion = 1
     generatedAt = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
-    entries = $entries
+    entries = @($ordered)
 }
 $json = $catalog | ConvertTo-Json -Depth 8
 [System.IO.File]::WriteAllText((Join-Path $RepositoryRoot "cheats.json"), $json, [System.Text.UTF8Encoding]::new($false))
 
-"packs: $($entries.Count), skipped: $skipped, serials: $((($entries | ForEach-Object { $_.serials }).Count))"
+"dreamcast packs: $dreamcastPacks, skipped: $skipped, arcade packs: $arcadePorts (arcade blocks: $arcadeCheats)"

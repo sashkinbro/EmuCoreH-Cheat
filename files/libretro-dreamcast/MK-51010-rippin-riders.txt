@@ -1,0 +1,12 @@
+// Trick Points Modifier (Replace FF's with below code)
+011682F4 0000FFFF
+// Infinite Time
+021694D0 0000128E
+// Low Track Time
+021682E0 00000002
+// Low Track Time (Continued)
+021682E4 00000002
+// Low Track Time (Continued)
+021682E8 00000002
+// Low Track Time (Continued)
+021682EC 00000002

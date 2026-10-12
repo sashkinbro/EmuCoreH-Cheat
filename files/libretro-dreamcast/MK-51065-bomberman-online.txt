@@ -1,0 +1,96 @@
+// Story Mode Codes-Max Bombs P1 (Continued)
+01875418 0000000A
+// Story Mode Codes-Max Fire Length P1 (Continued)
+0187541A 0000000A
+// Story Mode Codes-Have Speed P1 (Continued)
+0187541C 00000001
+// Story Mode Codes-Have Kick P1 (Continued)
+0187541E 00000001
+// Story Mode Codes-Have Throw P1 (Continued)
+01875420 00000001
+// Story Mode Codes-Have Punch P1 (Continued)
+01875422 00000001
+// Story Mode Codes-Have Line Bomb P1 (Continued)
+01875424 00000001
+// Story Mode Codes-P1 Never Wins (Continued)
+0108752F 00000000
+// Story Mode Codes-P1 Starts With 1 Win (Continued)
+018752F4 00000001
+// Story Mode Codes-CPU Never Wins (Continued)
+018752F8 00000000
+// Story Mode Codes-CPU Starts With 1 Win (Continued)
+018752F8 00000001
+// Story Mode Codes-Have All Target Orbs (Continued)
+01875452 00000003
+// Battle Mode Codes-Max Bombs P1 (Continued)
+01875438 0000000A
+// Battle Mode Codes-Max Fire Length P1 (Continued)
+0187543A 0000000A
+// Battle Mode Codes-Have Speed P1 (Continued)
+0187543C 00000001
+// Battle Mode Codes-Have Kick P1 (Continued)
+0187543E 00000001
+// Battle Mode Codes-Have Throw P1 (Continued)
+01875440 00000001
+// Battle Mode Codes-Have Punch P1 (Continued)
+01875442 00000001
+// Battle Mode Codes-Have Line Bomb P1 (Continued)
+01875444 00000001
+// Battle Mode Codes-P1 Never Wins (Continued)
+018751AC 00000000
+// Battle Mode Codes-P1 Starts With Win Modifier (Replace FF's with below code) (Continued)
+018751AC 000000FF
+// Battle Mode Codes-Max Bombs P2 (Continued)
+01875456 0000000A
+// Battle Mode Codes-Max Fire Length P2 (Continued)
+01875458 0000000A
+// Battle Mode Codes-Have Speed P2 (Continued)
+0187545A 00000001
+// Battle Mode Codes-Have Kick P2 (Continued)
+0187545C 00000001
+// Battle Mode Codes-Have Throw P2 (Continued)
+0187545E 00000001
+// Battle Mode Codes-Have Punch P2 (Continued)
+01875460 00000001
+// Battle Mode Codes-Have Line Bomb P2 (Continued)
+01875462 00000001
+// Battle Mode Codes-P2 Never Wins (Continued)
+018751D8 00000000
+// Battle Mode Codes-P2 Starts With Win Modifier (Replace FF's with below code) (Continued)
+018751D8 000000FF
+// Battle Mode Codes-Max Bombs P3 (Continued)
+01875474 0000000A
+// Battle Mode Codes-Max Fire Length P3 (Continued)
+01875476 0000000A
+// Battle Mode Codes-Have Speed P3 (Continued)
+01875478 00000001
+// Battle Mode Codes-Have Kick P3 (Continued)
+0187547A 00000001
+// Battle Mode Codes-Have Throw P3 (Continued)
+0187547C 00000001
+// Battle Mode Codes-Have Punch P3 (Continued)
+0187547E 00000001
+// Battle Mode Codes-Have Line Bomb P3 (Continued)
+01875480 00000001
+// Battle Mode Codes-P3 Never Wins (Continued)
+01875204 00000000
+// Battle Mode Codes-P3 Starts With Win Modifier (Replace FF's with below code) (Continued)
+01875204 000000FF
+// Battle Mode Codes-Max Bombs P4 (Continued)
+01875492 0000000A
+// Battle Mode Codes-Max Fire Length P4 (Continued)
+01875494 0000000A
+// Battle Mode Codes-Have Speed P4 (Continued)
+01875496 00000001
+// Battle Mode Codes-Have Kick P4 (Continued)
+01875498 00000001
+// Battle Mode Codes-Have Throw P4 (Continued)
+0187549A 00000001
+// Battle Mode Codes-Have Punch P4 (Continued)
+0187549C 00000001
+// Battle Mode Codes-Have Line Bomb P4 (Continued)
+0187549E 00000001
+// Battle Mode Codes-P4 Never Wins (Continued)
+01875230 00000000
+// Battle Mode Codes-P4 Starts With Win Modifier (Replace FF's with below code) (Continued)
+01875230 000000FF

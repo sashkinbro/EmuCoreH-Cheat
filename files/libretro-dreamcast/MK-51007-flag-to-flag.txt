@@ -1,0 +1,54 @@
+// Points Modifier-A.Zanardi (Replace FF's with below code)
+011C4730 0000FFFF
+// Points Modifier-AlUnserJr. (Replace FF's with below code)
+011C4734 0000FFFF
+// Points Modifier-A.Ribeiro (Replace FF's with below code)
+011C4738 0000FFFF
+// Points Modifier-GdeFerran (Replace FF's with below code)
+011C473C 0000FFFF
+// Points Modifier-C.Haas (Replace FF's with below code)
+011C4740 0000FFFF
+// Points Modifier-B.Rahal (Replace FF's with below code)
+011C4744 0000FFFF
+// Points Modifier-B.Herta (Replace FF's with below code)
+011C4748 0000FFFF
+// Points Modifier-JJLehto (Replace FF's with below code)
+011C474C 0000FFFF
+// Points Modifier-R.Hearn (Replace FF's with below code)
+011C4750 0000FFFF
+// Points Modifier-C.Fittipaldi (Replace FF's with below code)
+011C4754 0000FFFF
+// Points Modifier-J.Vasser (Replace FF's with below code)
+011C4758 0000FFFF
+// Points Modifier-H.C.Neves (Replace FF's with below code)
+011C475C 0000FFFF
+// Points Modifier-M.Gugelmin (Replace FF's with below code)
+011C4760 0000FFFF
+// Points Modifier-M.Blundell (Replace FF's with below code)
+011C4764 0000FFFF
+// Points Modifier-M.JourdainJr. (Replace FF's with below code)
+011C4768 0000FFFF
+// Points Modifier-S.Pruett (Replace FF's with below code)
+011C476C 0000FFFF
+// Points Modifier-T.Kanaan (Replace FF's with below code)
+011C4770 0000FFFF
+// Points Modifier-H.Matsushita (Replace FF's with below code)
+011C4774 0000FFFF
+// Points Modifier-M.Papis (Replace FF's with below code)
+011C4778 0000FFFF
+// Points Modifier-P.Tracy (Replace FF's with below code)
+011C477C 0000FFFF
+// Points Modifier-D.Franchitti (Replace FF's with below code)
+011C4780 0000FFFF
+// Points Modifier-P.Carpentier (Replace FF's with below code)
+011C4784 0000FFFF
+// Points Modifier-A.Barron (Replace FF's with below code)
+011C4788 0000FFFF
+// Points Modifier-A.Fernadez (Replace FF's with below code)
+011C478C 0000FFFF
+// Points Modifier-A.Meier (Replace FF's with below code)
+011C4790 0000FFFF
+// Points Modifier-PJJones (Replace FF's with below code)
+011C4794 0000FFFF
+// Points Modifier-G.Moore (Replace FF's with below code)
+011C4798 0000FFFF

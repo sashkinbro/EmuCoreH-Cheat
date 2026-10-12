@@ -1,0 +1,8 @@
+// Max Coins
+01A0F7E6 00000063
+// Infinite Lives
+01A0F7E2 00000009
+// Infinite Health
+01A0F7DE 0000000E
+// Have All Pizza Planet Tokens
+01A15238 00001F1F

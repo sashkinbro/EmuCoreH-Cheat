@@ -1,0 +1,44 @@
+// P1 Infinite Health
+0160072C 00000090
+// P1 75% Health (Continued)
+0160072C 0000006C
+// P1 50% Health (Continued)
+0160072C 00000048
+// P1 25% Health (Continued)
+0160072C 00000024
+// P1 1-Hit Death (Continued)
+0160072C 00000001
+// P1 Always Have Super
+006009B4 00000030
+// P1 Never Have Super
+006009B4 00000000
+// P1 Never Wins
+00600A9C 00000000
+// P2 Infinite Health
+01600B2C 00000090
+// P2 75% Health (Continued)
+01600B2C 0000006C
+// P2 50% Health (Continued)
+01600B2C 00000048
+// P2 25% Health (Continued)
+01600B2C 00000024
+// P2 1-Hit Death (Continued)
+01600B2C 00000001
+// P2 Always Have Super
+01600DB4 00000030
+// P2 Never Have Super
+01600DB4 00000000
+// P2 Never Wins
+00600E9C 00000000
+// Infinite Time
+011141F0 00000009
+// P1 Can Do Specials In Mid-Air
+01600880 00000000
+// P2 Can Do Specials In Mid-Air
+01600C80 00000000
+// Hit Anywhere (Both Players) 
+01197F18 00000008
+// Throw Anywhere (Both Players)
+011AF74E 00000018
+// Disable Throws (Both Players)
+011AF74E 00000008

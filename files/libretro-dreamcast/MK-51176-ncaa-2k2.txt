@@ -1,0 +1,112 @@
+// Away Team Score Modifier (Replace FF's with below code)
+01828CC8 0000FFFF
+// Away Team Infinite Time-Outs
+01828CCC 00000003
+// Away Team No Time-Outs
+01828CCC 00000000
+// Home Team Score Modifier (Replace FF's with below code)
+01828CD8 0000FFFF
+// Home Team Infinite Time-Outs
+01828CDC 00000003
+// Home Team No Time-Outs
+01828CDC 00000000
+// Touch Down's Score Modifier (Replace FF's with below code)
+001CD7CC 000000FF
+// Extra Point's Score Modifier (Replace FF's with below code)
+001CD834 000000FF
+// Safety's Score Modifier (Replace FF's with below code)
+001CD962 000000FF
+// 2-Point Conversion's Score Modifier (Replace FF's with below code)
+001CD8CC 000000FF
+// Field Goal's Score Modifier (Replace FF's with below code)
+001CDA2C 000000FF
+// Can Sign More Than 54 Players
+01051C94 00000008
+// Can Sign A Player Beyond Salary Cap
+01051D40 00000008
+// Disable Other Teams Declining/Or Making A Counter Offer To Your Trades
+0105298A 00000008
+// Can Still Trade If It Puts You Over Your Salary Cap
+01052200 00000008
+// Can Still Trade If It Puts The Other Team Over Their Salary Cap
+010521DC 00000008
+// Can Re-Sign A Player Beyond Salary Cap
+01051CF0 00000008
+// Always Trade When Team You Are Trading To Is Getting Short On Players
+01052582 00000018
+// Allow Infinite Offers To A Player Per Week
+01051D62 00000018
+// Can Still Trade If Your Team Would Have Too Many Players
+010524F0 00000008
+// Can Still Trade If The Other Team Would Have Too Many Players
+0105252C 00000008
+// Can Talk To Another Team About One Set Of Players At A Time And More Than Once Per Week
+0105200A 00000009
+// Can Trade Injured Players 
+0105205C 00000018
+// Can Trade Players Who Have Just Became Injured
+01052302 00000018
+// Can Trade Players Who Have Just Became Injured (Continued)
+0105397E 00000018
+// Can Make Infinite Trade Offers To A Team In A Week
+010527AA 00000008
+// Your Offer Is Never Declined/Nor Is Declined With A Counter Offer
+01051B60 00000018
+// Other Team Never Feels Its Not A Serious Offer
+01051AA6 00000018
+// Everything Is Never Full
+010FE2A8 00000009
+// Character Creation Codes-Max Speed
+0071AD46 00000064
+// Character Creation Codes-Max Agility
+0071AD47 00000064
+// Character Creation Codes-Max Jumping
+0071AD48 00000064
+// Character Creation Codes-Max Upper Body Strength
+0071AD49 00000064
+// Character Creation Codes-Max Lower Body Strength
+0071AD4A 00000064
+// Character Creation Codes-Max Hold On To Ball
+0071AD4D 00000064
+// Character Creation Codes-Max Break Tackle
+0071AD4E 00000064
+// Character Creation Codes-Max Aggressiveness
+0071AD53 00000064
+// Character Creation Codes-Max Pass Fake Ability/Pass Accuracy
+0071AD55 00000064
+// Character Creation Codes-Max Pass Arm Strength
+0071AD56 00000064
+// Character Creation Codes-Max Pass Read Coverage
+0071AD57 00000064
+// Character Creation Codes-Max BallHandler Power Moves
+0071AD58 00000064
+// Character Creation Codes-Max BallHandler Finesse Moves/Run Fake Ability
+0071AD59 00000064
+// Character Creation Codes-Max Catch
+0071AD5A 00000064
+// Character Creation Codes-Max Get Open Run Route
+0071AD5B 00000064
+// Character Creation Codes-Max Run Blocking
+0071AD5C 00000064
+// Character Creation Codes-Max Pass Blocking
+0071AD5D 00000064
+// Character Creation Codes-Max Tackle
+0071AD5E 00000064
+// Character Creation Codes-Max Def Pass Rush
+0071AD5F 00000064
+// Character Creation Codes-Max Def Run Support
+0071AD60 00000064
+// Character Creation Codes-Max Block Thrown Ball
+0071AD61 00000064
+// Character Creation Codes-Max Coverage
+0071AD62 00000064
+// Character Creation Codes-Max Kick Power
+0071AD63 00000064
+// Character Creation Codes-Max Kick Accuracy
+0071AD64 00000064
+// Character Creation Codes-Max Punt Power
+0071AD66 00000064
+// Character Creation Codes-Max Punt Accuracy
+0071AD67 00000064
+// Character Creation Codes-Max All Stats
+0171AD46 00006464

@@ -1,0 +1,98 @@
+// Infinite Time
+010245E2 00000009
+// Extra Turbo Boosts
+0007AB64 00000001
+// Infinite Turbo Boosts
+0107AB68 00000009
+// Extra Ammo (Machine Gun)
+00079A76 00000001
+// Infinite Ammo (Machine Gun)
+01079A78 00000009
+// Extra Ammo (Grenade Launcher)
+0007960A 00000001
+// Infinite Ammo (Grenade Launcher)
+0107960E 00000009
+// Extra Ammo (Hellfire Missile)
+0007A7E2 00000001
+// Infinite Ammo (Hellfire Missile)
+0107A7E4 00000009
+// Extra Ammo (Homing Missiles)
+00079340 00000001
+// Infinite Ammo (Homing Missiles)
+01079342 00000009
+// Extra Ammo (Glided Missiles)
+00078F6A 00000001
+// Infinite Ammo (Glided Missiles)
+01078F6C 00000009
+// Extra Ammo (Flame Thrower)
+0007AD78 00000001
+// Infinite Ammo (Flame Thrower)
+0107AD7C 00000009
+// Extra Ammo (Nuclear Missiles)
+0007A216 00000001
+// Infinite Ammo (Nuclear Missiles)
+0107A218 00000009
+// Extra Ammo (Seeker Beam?)
+0007B498 00000001
+// Infinite Ammo (Seeker Beam?)
+0107B49C 00000009
+// Extra Ammo (Alien Spike)
+0007D602 00000001
+// Infinite Ammo (Alien Spike)
+0107D604 00000009
+// Extra Ammo (Light Swarm)
+0007C28E 00000001
+// Infinite Ammo (Light Swarm)
+0107C292 00000009
+// Extra Ammo (Flying Drone)
+0007D830 00000001
+// Infinite Ammo (Flying Drone)
+0107D832 00000009
+// Extra Ammo (Cyclops Blast)
+0007BD0E 00000001
+// Infinite Ammo (Cyclops Blast)
+0107BD10 00000009
+// Extra Ammo (Meteor Strike)
+0007DD2A 00000001
+// Infinite Ammo (Meteor Strike)
+0107DD2C 00000009
+// Infinite Health (Including Enemies)
+01028AD8 00000009
+// Infinite Health Modifier 
+01028AD2 0000D101
+// Infinite Health Modifier  (Continued)
+02028AD4 0009412B
+// Infinite Health Modifier  (Continued)
+02028AD8 0C006000
+// Infinite Health Modifier  (Continued)
+02006000 512802FE
+// Infinite Health Modifier  (Continued)
+02006004 50036033
+// Infinite Health Modifier  (Continued)
+02006008 9207600D
+// Infinite Health Modifier  (Continued)
+0200600C 89003020
+// Infinite Health Modifier  (Continued)
+02006010 E07C131A
+// Infinite Health Modifier  (Continued)
+02006014 D20203FE
+// Infinite Health Modifier  (Continued)
+02006018 0009422B
+// Infinite Health Modifier  (Continued)
+02006020 0C028ADC
+// Infinite Health Modifier  (Continued)
+0200601C 00000009
+// Infinite Health Modifier Code
+01000000 00000000
+// 4B64 - Army - M109-A6
+01000000 00000000
+// 4D24 - Army - M1A2-Abrams
+01000000 00000000
+// 4EE4 - Army - MK2-Merkava
+01000000 00000000
+// 544C - Alien - SP Walker
+01000000 00000000
+// 57F4 - Alien - 2L Walker
+01000000 00000000
+// 4524 - Alien - Hov Craft
+01000000 00000000

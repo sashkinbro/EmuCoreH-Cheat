@@ -1,0 +1,8 @@
+// Have 6 Garage Slots
+00186428 00000006
+// Infinite Jokers
+00186128 00000005
+// Time Always 0:00:00
+0253BB00 00000000
+// Unlock All Chapters
+011860E4 00000018
