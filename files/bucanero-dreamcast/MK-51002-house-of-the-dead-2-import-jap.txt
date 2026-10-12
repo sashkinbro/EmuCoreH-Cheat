@@ -1,0 +1,8 @@
+// Infinite Health P1
+298DF094 00000005
+// Never Reload P1
+75F3269C 00000006
+// Infinite Health P2
+36FEB877 00000005
+// Never Reload P2
+640DF197 00000006

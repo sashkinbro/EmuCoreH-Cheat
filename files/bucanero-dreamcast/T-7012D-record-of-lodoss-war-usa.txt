@@ -1,0 +1,20 @@
+// Max Magic Power
+3B0EE56E 0000270F
+// Infinite Mithrill
+78D2FB8C 05F50EFF
+// Quick Level Gain - Hero
+BE5E06B7 05F5E0FF
+// Inf. HP - Hero
+16B44334 0000270F
+47CB021F 0000270F
+// Inf. MP - Hero
+9BE9C0B8 0000270F
+DB0B519D 0000270F
+// Max Damage - Hero
+C03ABD18 0000270F
+// Max Armor - Hero
+7032FB86 0000270F
+// Max Durability - Hero
+17144334 0000270F
+// Max Parry - Hero
+9A49C0B8 0000270F

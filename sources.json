@@ -20,6 +20,15 @@
       "rawUrl": "https://github.com/sashkinbro/EmuCoreH-Cheat/tree/main/files/mame-arcade",
       "license": "MAME cheat XML collection by Pugsy and contributors; only plain SH4 main RAM writes are converted",
       "notes": "Naomi, Naomi 2, Atomiswave and System SP romsets are matched against the arcade game table shipped with EmuCoreH (assets/catalog/arcade_games.json). Only unconditional run-state actions that write SH4 main RAM are converted to address/value codes; button conditions, ROM patches and one-shot actions are skipped."
+    },
+    {
+      "id": "bucanero-dreamcast",
+      "name": "Dreamcast Cheat Database (bucanero)",
+      "author": "bucanero and the Dreamcast Cheat Database contributors",
+      "url": "https://github.com/bucanero/dreamcast-cheats",
+      "rawUrl": "https://github.com/sashkinbro/EmuCoreH-Cheat/tree/main/files/bucanero-dreamcast",
+      "license": "GPL-3.0 - bucanero/dreamcast-cheats",
+      "notes": "Action Replay CDX codes for 380+ Dreamcast revisions. Packs are generated only for disc codes the libretro packs do not already cover, so the catalog adds games instead of duplicating them. Master codes ((M)/[M]) are skipped because the core decrypts Action Replay codes itself."
     }
   ]
 }

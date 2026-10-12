@@ -1,0 +1,4 @@
+// Infinite Time
+54140FDA 00003832
+// Low Clear Time
+A8EC0B02 00000140

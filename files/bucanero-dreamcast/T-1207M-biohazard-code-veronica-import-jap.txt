@@ -1,0 +1,16 @@
+// Inf Items/Ammo Pos 1 Claire
+B51634D0 000003E7
+// Inf Items/Ammo Pos 2 Claire
+E58716C9 000003E7
+// Inf Items/Ammo Pos 3 Claire
+4BBA1194 000003E7
+// Inf Items/Ammo Pos 4 Claire
+444A1194 000003E7
+// Inf Items/Ammo Pos 5 Claire
+945804AA 000003E7
+// Inf Items/Ammo Pos 6 Claire
+CBDBE9A5 000003E7
+// Inf Items/Ammo Pos 7 Claire
+2AF76D18 000003E7
+// Inf Items/Ammo Pos 8 Claire
+683B651C 000003E7

@@ -2,6 +2,7 @@ param(
     [string]$DatabaseRoot = "E:\TMP\libretro-database",
     [string]$MameCheatRoot = "C:\windows\Temp\opencode\mame-cheats\xml264",
     [string]$ArcadeCatalogFile = "C:\Users\SBRO\AndroidStudioProjects\EmuCoreH\app\src\main\assets\catalog\arcade_games.json",
+    [string]$BucaneroRoot = "E:\TMP\dreamcast-cheats",
     [string]$RepositoryRoot = (Split-Path -Parent $PSScriptRoot)
 )
 
@@ -9,6 +10,7 @@ $cheatsRoot = Join-Path $DatabaseRoot "cht\Sega - Dreamcast"
 $datFile = Join-Path $DatabaseRoot "metadat\redump\Sega - Dreamcast.dat"
 $libretroPackDir = Join-Path $RepositoryRoot "files\libretro-dreamcast"
 $mamePackDir = Join-Path $RepositoryRoot "files\mame-arcade"
+$bucaneroPackDir = Join-Path $RepositoryRoot "files\bucanero-dreamcast"
 $commit = (git -C $DatabaseRoot rev-parse HEAD).Trim()
 
 # ---------------------------------------------------------------------------
@@ -180,7 +182,7 @@ function Resolve-Serials-ByPrefix([string]$key) {
     return $serials.ToArray()
 }
 
-function Resolve-Serials-ByTokens([string]$chtTitle) {
+function Resolve-Serials-ByTokens([string]$chtTitle, [string]$regionHint = $null) {
     $tokens = Get-Tokens $chtTitle
     $serials = [System.Collections.Generic.List[string]]::new()
     if ($tokens.Count -lt 2) { return $serials.ToArray() }
@@ -200,6 +202,15 @@ function Resolve-Serials-ByTokens([string]$chtTitle) {
         elseif ($allShared) { $score = 60 }
         elseif ($shared.Count -ge 3 -and ($tokens.Count - $shared.Count) -le 1 -and $extra -le 2) { $score = 40 }
         else { continue }
+        if ($regionHint) {
+            $matchesHint = switch ($regionHint) {
+                "USA" { $game.Region -match "USA|World" }
+                "Europe" { $game.Region -match "Europe" }
+                "Japan" { $game.Region -match "Japan" }
+                default { $false }
+            }
+            if ($matchesHint) { $score += 4 }
+        }
         if ($game.Region -match "USA|World") { $score += 2 }
         if ($game.Serials.Count -eq 0) { $score -= 1 }
         $scored.Add([pscustomobject]@{ Game = $game; Score = $score })
@@ -213,7 +224,7 @@ function Resolve-Serials-ByTokens([string]$chtTitle) {
     return $serials.ToArray()
 }
 
-function Resolve-Serials([string]$chtTitle) {
+function Resolve-Serials([string]$chtTitle, [string]$regionHint = $null) {
     $key = Get-TitleKey $chtTitle
     $serials = [System.Collections.Generic.List[string]]::new()
 
@@ -223,7 +234,7 @@ function Resolve-Serials([string]$chtTitle) {
     if ($serials.Count -gt 0) { return $serials.ToArray() }
 
     Add-Serial $serials (Resolve-Serials-ByPrefix $key)
-    Add-Serial $serials (Resolve-Serials-ByTokens $chtTitle)
+    Add-Serial $serials (Resolve-Serials-ByTokens $chtTitle $regionHint)
     return $serials.ToArray()
 }
 
@@ -232,8 +243,10 @@ function Resolve-Serials([string]$chtTitle) {
 # ---------------------------------------------------------------------------
 
 # Serial lists published by the previous catalog are merged in first, so pack
-# file names and per-disc coverage never regress between rebuilds.
-$previousByTitle = @{}
+# file names and per-disc coverage never regress between rebuilds. The map is
+# case-sensitive: "Dead Or Alive 2" (Dreamcast) and "Dead or Alive 2" (arcade)
+# are different entries.
+$previousByTitle = [System.Collections.Generic.Dictionary[string, object]]::new([System.StringComparer]::Ordinal)
 $previousCatalogFile = Join-Path $RepositoryRoot "cheats.json"
 if (Test-Path $previousCatalogFile) {
     try {
@@ -256,7 +269,13 @@ foreach ($file in Get-ChildItem $cheatsRoot -Filter "*.cht" | Sort-Object Name) 
     if ($previousByTitle.ContainsKey($file.BaseName)) {
         $merged = [System.Collections.Generic.List[string]]::new()
         foreach ($serial in $previousByTitle[$file.BaseName]) {
-            if ($serial -and -not $merged.Contains($serial)) { $merged.Add($serial) }
+            # Only disc product codes are carried over: a rebuild must never
+            # leak serials that belong to another source (for example an
+            # arcade romset name) into a Dreamcast pack.
+            if ($serial -and [regex]::IsMatch([string]$serial, "^[A-Z0-9]{1,4}-[0-9]{3,5}[A-Z]?$") -and
+                -not $merged.Contains($serial)) {
+                $merged.Add($serial)
+            }
         }
         foreach ($serial in $serials) {
             if ($serial -and -not $merged.Contains($serial)) { $merged.Add($serial) }
@@ -323,6 +342,123 @@ foreach ($file in Get-ChildItem $cheatsRoot -Filter "*.cht" | Sort-Object Name) 
         updatedAt = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
     })
     $dreamcastPacks++
+}
+
+# ---------------------------------------------------------------------------
+# Dreamcast packs from bucanero's cheat database (Action Replay CDX codes)
+# ---------------------------------------------------------------------------
+
+New-Item -ItemType Directory -Force -Path $bucaneroPackDir | Out-Null
+Get-ChildItem $bucaneroPackDir -File -ErrorAction SilentlyContinue | Remove-Item -Force
+
+$coveredSerials = [System.Collections.Generic.HashSet[string]]::new([System.StringComparer]::OrdinalIgnoreCase)
+foreach ($entry in $entries) {
+    foreach ($serial in $entry.serials) { [void]$coveredSerials.Add([string]$serial) }
+}
+
+$bucaneroPacks = 0
+$bucaneroBlocks = 0
+$bucaneroNoBlocks = 0
+$bucaneroNoSerials = 0
+$bucaneroCovered = 0
+$bucaneroSkipped = [System.Collections.Generic.List[string]]::new()
+if (Test-Path $BucaneroRoot) {
+    foreach ($file in Get-ChildItem $BucaneroRoot -Filter "*.md" | Where-Object { $_.Name -ne "README.md" } | Sort-Object Name) {
+        $lines = @()
+        try { $lines = Get-Content -LiteralPath $file.FullName -ErrorAction Stop } catch { $bucaneroSkipped.Add("read-error: $($file.Name)"); continue }
+        $title = $null
+        foreach ($line in $lines) {
+            if ($line -match '^#\s+(.+?)\s*$') { $title = $Matches[1]; break }
+        }
+        if (-not $title) { continue }
+
+        $regionHint = $null
+        $lowerName = $file.Name.ToLowerInvariant()
+        if ($lowerName -match "\(usa\)") { $regionHint = "USA" }
+        elseif ($lowerName -match "\(pal\)") { $regionHint = "Europe" }
+        elseif ($lowerName -match "\(jap\)") { $regionHint = "Japan" }
+
+        $blocks = [System.Collections.Generic.List[object]]::new()
+        $blockDesc = $null
+        $inFence = $false
+        $codes = [System.Collections.Generic.List[string]]::new()
+        foreach ($line in $lines) {
+            if ($line -match '^##\s+(.+?)\s*$') {
+                $blockDesc = $Matches[1]
+                $codes = [System.Collections.Generic.List[string]]::new()
+                $inFence = $false
+                continue
+            }
+            if ($line -match '^```') {
+                if (-not $inFence) {
+                    $inFence = $true
+                } else {
+                    $inFence = $false
+                    if ($blockDesc -and $codes.Count -gt 0) {
+                        $blocks.Add([pscustomobject]@{ Desc = $blockDesc; Codes = $codes })
+                    }
+                    $blockDesc = $null
+                    $codes = [System.Collections.Generic.List[string]]::new()
+                }
+                continue
+            }
+            if ($inFence -and $blockDesc) {
+                $code = $line.Trim().ToUpperInvariant()
+                if ($code -match '^[0-9A-F]{16}$') {
+                    $codes.Add($code.Substring(0, 8) + " " + $code.Substring(8))
+                } elseif ($code -match '^([0-9A-F]{8})\s+([0-9A-F]{8})$') {
+                    $codes.Add($Matches[1] + " " + $Matches[2])
+                }
+            }
+        }
+
+        # Master codes only set up the cheat device; the core decrypts Action
+        # Replay codes itself, so they add nothing here.
+        $usable = @($blocks | Where-Object {
+                $_.Desc -notmatch '^\s*(\[M\]|\(M\))' -and
+                $_.Desc -notmatch 'Enable Code' -and
+                $_.Desc -notmatch 'Must Be On'
+            })
+        if ($usable.Count -eq 0) { $bucaneroNoBlocks++; $bucaneroSkipped.Add("no-blocks: $($file.BaseName)"); continue }
+
+        [string[]]$serials = @(Resolve-Serials $title $regionHint)
+        $newSerials = @($serials | Where-Object { $_ -and -not $coveredSerials.Contains([string]$_) })
+        if ($newSerials.Count -eq 0) {
+            if ($serials.Count -eq 0) { $bucaneroNoSerials++ ; $bucaneroSkipped.Add("no-serials: $($file.BaseName)") }
+            else { $bucaneroCovered++ }
+            continue
+        }
+
+        $primary = [string]$newSerials[0]
+        $slug = ([regex]::Replace($file.BaseName.ToLowerInvariant(), "[^a-z0-9]+", "-")).Trim("-")
+        $safeSerial = $primary -replace "[^A-Za-z0-9-]", "_"
+        $fileName = "$safeSerial-$slug.txt"
+        $target = Join-Path $bucaneroPackDir $fileName
+        $builder = [System.Text.StringBuilder]::new()
+        foreach ($block in $usable) {
+            [void]$builder.Append("// ").Append($block.Desc).Append("`n")
+            foreach ($code in $block.Codes) { [void]$builder.Append($code).Append("`n") }
+        }
+        [System.IO.File]::WriteAllText($target, $builder.ToString(), [System.Text.UTF8Encoding]::new($false))
+        $bucaneroPacks++
+        $bucaneroBlocks += $usable.Count
+        foreach ($serial in $newSerials) { [void]$coveredSerials.Add([string]$serial) }
+
+        $entries.Add([pscustomobject]@{
+            id = "bucanero-dreamcast-$($safeSerial.ToLowerInvariant())-$slug"
+            title = $title
+            serials = @($newSerials)
+            authors = @("Dreamcast Cheat Database contributors (bucanero)")
+            description = "$($usable.Count) Action Replay cheat blocks from bucanero's Dreamcast cheat database."
+            downloadUrl = "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/files/bucanero-dreamcast/$fileName"
+            packPath = "files/bucanero-dreamcast/$fileName"
+            sourceUrl = "https://github.com/bucanero/dreamcast-cheats"
+            sourceName = "Dreamcast Cheat Database (bucanero)"
+            license = "GPL-3.0 - bucanero/dreamcast-cheats"
+            blockCount = $usable.Count
+            updatedAt = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
+        })
+    }
 }
 
 # ---------------------------------------------------------------------------
@@ -419,4 +555,5 @@ $catalog = [pscustomobject]@{
 $json = $catalog | ConvertTo-Json -Depth 8
 [System.IO.File]::WriteAllText((Join-Path $RepositoryRoot "cheats.json"), $json, [System.Text.UTF8Encoding]::new($false))
 
-"dreamcast packs: $dreamcastPacks, skipped: $skipped, arcade packs: $arcadePorts (arcade blocks: $arcadeCheats)"
+"dreamcast packs: $dreamcastPacks, skipped: $skipped, bucanero packs: $bucaneroPacks (blocks: $bucaneroBlocks, covered: $bucaneroCovered, no-blocks: $bucaneroNoBlocks, no-serials: $bucaneroNoSerials), arcade packs: $arcadePorts (arcade blocks: $arcadeCheats)"
+$bucaneroSkipped | Set-Content -LiteralPath (Join-Path $env:TEMP "bucanero-skipped.txt") -Encoding UTF8

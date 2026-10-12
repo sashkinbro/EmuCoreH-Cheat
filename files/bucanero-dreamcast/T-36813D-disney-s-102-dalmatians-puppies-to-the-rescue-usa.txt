@@ -1,0 +1,6 @@
+// All Levels/Mini-Games
+EE3718E8 0000FFFF
+// All Bones
+AEA211ED E070D041
+// All Puppies
+77F4937E E070D041

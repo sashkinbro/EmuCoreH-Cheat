@@ -18,11 +18,15 @@ arcade games, for example `mvsc2`.
 - `cheats.json` - schema version 1 catalog consumed by EmuCoreH.
 - `files/libretro-dreamcast/` - packs converted from the Dreamcast folder of
   libretro-database under its repository CC-BY-SA-4.0 license.
+- `files/bucanero-dreamcast/` - Action Replay CDX packs from bucanero's
+  Dreamcast Cheat Database (GPL-3.0), added only for disc codes the libretro
+  packs do not cover.
 - `files/mame-arcade/` - packs converted from the MAME cheat collection for
   arcade romsets known to EmuCoreH.
 - `scripts/build-catalog.ps1` - rebuilds every pack and the catalog from a
-  sparse checkout of libretro-database, the extracted MAME cheat XMLs and the
-  arcade game table of the app. Run it after any of those change.
+  sparse checkout of libretro-database, bucanero's cheat database, the
+  extracted MAME cheat XMLs and the arcade game table of the app. Run it after
+  any of those change.
 - `schemas/cheat-catalog.schema.json` - field contract of the catalog.
 - `sources.json` - pinned upstream revisions and licensing notes.
 

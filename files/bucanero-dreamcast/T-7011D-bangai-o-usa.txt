@@ -1,0 +1,10 @@
+// Max Points
+87CDDF2C 05F5E0FF
+// Infinite Time
+249DC414 0000012C
+// Super Explosion Count
+872C5F2C 000003E7
+// Enable All Levels
+BF3FC9A8 0000002C
+// All Levels Complete
+ED386DEB 0000002C

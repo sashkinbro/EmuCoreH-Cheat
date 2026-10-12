@@ -1,0 +1,14 @@
+// Place 1st - Arcade
+53D5FE1F 00000000
+// Infinite Time
+E768738A 00000F78
+// Enable Fiorano
+D9CA819E 00000001
+// Enable Nurburgring
+39CEB56D 00000001
+// Enable Laguna-Seca
+73F32B85 00000001
+// Enable Sepang
+C6DAED1A 00000001
+// Enable Atlanta
+FA94A335 00000001

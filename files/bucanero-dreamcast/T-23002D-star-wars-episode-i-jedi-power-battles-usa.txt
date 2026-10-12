@@ -1,0 +1,30 @@
+// Infinite Credits
+DFD88E5E 00000000
+// Infinite Health P1
+63CB66C0 000000C8
+// Infinite Jedi Powers P1
+F1599B07 000000C8
+// Infinite Health P2
+F6A99B07 000000C8
+// Infinite Jedi Powers P2
+98080776 000000C8
+// Infinite Items P1
+639366C0 00000063
+// Infinite Items P2
+269F6EC4 00000063
+// Max Score P1
+1724DB10 0098967F
+// Max Score P2
+C7EB2A79 0098967F
+// All Hand Maidens / Pilots Rescued
+92680775 0000000A
+// All Levels Unlocked: Obi-Wan Kenobi
+76E5DE83 00000001
+// All Levels Unlocked: Mace Windu
+92180776 00000001
+// All Levels Unlocked: Qui-Gon Jinn
+AF8B5C10 00000001
+// All Levels Unlocked: Adi Gallia
+AC9B5C10 00000001
+// All Levels Unlocked: Plo Koon
+86138081 00000001
