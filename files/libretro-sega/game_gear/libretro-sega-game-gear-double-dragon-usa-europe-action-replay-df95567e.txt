@@ -1,0 +1,5 @@
+// Infinite Lives
+00C0-9505
+
+// Infinite Red Blocks (Hits)
+00C0-9415

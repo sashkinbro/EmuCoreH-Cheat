@@ -1,0 +1,8 @@
+// Team 1 Score Modifier (P1)
+FF882C:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FF8834:0000
+
+// Boot Into Region Info Screen
+AJBT-AA3J

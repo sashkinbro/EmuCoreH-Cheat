@@ -1,0 +1,39 @@
+// Infinite Lives
+AMDT-AA2L
+
+// Infinite Energy
+AMET-AA2A
+
+// Invincibility
+ALST-AA6C
+
+// Infinite Energy
+FF09B4:0028
+
+// Infinite Lives
+FF09BC:0009
+
+// Infinite Money
+FF09C0:03E7
+
+// Invincible
+FF07B2:0010
+
+// Enable Carls Cheat Screen
+FF03CA:0001
+
+// Untouchable
+R0ST-A6YC
+RZ6T-C6TC
+
+// Infinite Money
+AM1A-BSXE
+
+// Infinite Credits
+AWCA-AA9A
+
+// Freeze Time Continue
+AWCA-AA3G
+
+// Enable Carls Cheat Screen
+AKRT-AA9N

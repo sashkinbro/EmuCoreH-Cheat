@@ -1,0 +1,41 @@
+// Invincible
+00C8-B002
+
+// Infinite Energy
+00C8-2E06
+
+// Banana Gun From Start
+00C8-3232
+
+// Boomerang From Start
+00C8-2F81
+
+// Invulnerability
+003-E1C-7F4
+
+// Infinite Time
+002-BC9-082
+
+// Invulnerability
+00C8-B15F
+
+// Level Select
+00C8-0E01
+
+// Infinite Lives
+00C8-2E09
+
+// Infinite Time (One's Digit)
+00C8-2D09
+
+// Infinite Time (Ten's Digit)
+00C8-2C09
+
+// Infinite Time (Minute's Digit)
+00C8-2B09
+
+// Gem Modifier
+00C8-3200
+
+// Infinite Lives
+00C8-2D04

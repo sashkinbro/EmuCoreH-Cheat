@@ -1,0 +1,20 @@
+// Max Weapon
+00DB-ED17
+
+// Infinite Health
+00DB-EB17
+
+// Infinite Lives
+00DC-2309
+
+// FAKE Infinite Health
+00DB-E916
+
+// Infinite Health
+6B6-E15-6E7
+
+// Infinite Lives
+009-05B-19E
+
+// Weapon Meter Does Not Decrease
+000-618-19E

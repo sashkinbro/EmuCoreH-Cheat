@@ -1,0 +1,39 @@
+// Start With 1/4 Energy
+009-87F-E66
+
+// Start With 1/2 Energy
+019-87F-E66
+
+// Infinite Energy
+213-6A5-6E2
+
+// Infinite Lives
+3AB-286-2A2
+
+// Start With 1/4 Energy After First Life
+00B-746-E66
+
+// Start With 1/2 Energy After First Life
+01B-746-E66
+
+// Don't Flash After Getting Hit
+000-045-197
+
+// Flash A Lot Longer After Getting Hit
+990-045-197
+
+// 1 Hit & You Become Invincible
+00F-4B7-3BE
+00F-4F7-3BA
+
+// Almost Invincible
+C35-285-E61
+
+// Start With 1 Life
+009-8CF-E66
+
+// Start With 5 Lives
+049-8CF-E66
+
+// Start With 10 Lives
+099-8CF-E66

@@ -1,0 +1,60 @@
+// Infinite Lives
+AARA-AABJ
+
+// Infinite Energy
+AT0A-CA6C
+
+// Freeze Time
+ATPA-AA2A
+
+// Invincibility
+ADVA-AN9J
+
+// Infinite Energy
+FF2CDA:0003
+
+// Infinite Lives
+FF2CCC:0009
+
+// Infinite Time
+FF2D9E:0099
+
+// Invincible (Flashes)
+FF0E82:00FF
+
+// Freeze Time Burning Daffy Duck
+ATAT-CA82
+
+// Freeze Time Well Done-Enter Your Name
+RE1T-E61C
+
+// Invincibility
+R0ET-C60R
+RYRA-C6T4
+
+// 3 or 2 Shots Kill Bosses
+ALDT-CA88
+
+// Enabled Cheat Code Level Select/Infinite 99 time/Press Start On Map Levels
+FFC0A2:00FF
+
+// Enabled Cheat Code Level Select/Infinite 99 time/Press Start On Map Levels
+AKNT-AA68
+AD9T-AA3A
+
+// Walk thru walls
+RYNT-C61C
+RYNA-C6V0
+
+// Freeze Time Choose Languages
+AXST-AA8Y
+
+// Infinite Continue
+AT4A-EA52
+
+// Freeze Time Well Done-Enter Your Name
+FFC08A:0040
+
+// Infinite Controllable Jump
+AASA-CADG
+AASA-CACY

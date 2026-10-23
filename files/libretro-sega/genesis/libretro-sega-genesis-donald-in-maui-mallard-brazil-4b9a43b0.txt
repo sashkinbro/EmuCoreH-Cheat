@@ -1,0 +1,50 @@
+// Infinite Lives
+A4SW-WA9T
+
+// Infinite Energy
+AL4W-WA2Y
+
+// Invincibility
+R04W-W6Y0
+R05C-W6VT
+R04W-W6VR
+RYPW-Y60T
+R1RC-W6WE
+RYMC-Y60R
+RYFW-Y6ZG
+RY7W-Y60W
+RZAW-Y6WJ
+R05W-W6Z8
+R06C-W6VJ
+
+// Infinite Ammo For All Weapons
+AKYW-WA5N
+
+// Keep Special Weapons After The Death
+AWTC-WA5T
+AWTC-WA5E
+AWTC-WA5L
+
+// Invincibility
+FFE1D8:0010
+
+// 1 Shot Kill Enemies/Bosses
+AKEC-YA6E
+
+// Enabled Password Code Debug/Another Commands During Gameplay
+REVC-W60A
+RGYC-W6Z0
+
+// Enabled Password Code Debug/Another Commands During Gameplay
+FF218A:0001
+
+// Enabled Alternate Map Mode
+A4YW-WA6L
+
+// Infinite Continue
+AWTC-WA3L
+
+// Freeze Time In The Mode Of The Ninja
+AWXC-WA2E
+AL1C-WA8Y
+AVMW-WA44

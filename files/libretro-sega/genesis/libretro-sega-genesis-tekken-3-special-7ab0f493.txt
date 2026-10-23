@@ -1,0 +1,22 @@
+// Fight Black Kazuya then win game
+FF0420:0008
+
+// Infinite Time to Select Character
+FF0428:0064
+
+// Game timer at 00'00'00
+FF0604:0000
+FF0604:0000
+FF0606:0007
+
+// Infinite Energy P2
+FF0312:0058
+
+// Character Modifier P1
+FF020A:0000
+
+// Character Modifier P2
+FF030A:0000
+
+// Infinite Energy P1
+FF0212:0058

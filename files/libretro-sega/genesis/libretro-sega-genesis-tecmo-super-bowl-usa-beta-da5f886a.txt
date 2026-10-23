@@ -1,0 +1,167 @@
+// Touchdowns for player 1 worth 0 pts.
+AAGT-FA2G
+
+// Touchdowns for player 1 worth 3 pts.
+ANGT-FA2G
+
+// Touchdowns for player 1 worth 5 pts.
+AYGT-FA2G
+
+// Touchdowns for player 1 worth 9 pts.
+BEGT-FA2G
+
+// Extra pts. for player 1 worth 0 pts.
+AAHA-FA74
+
+// Extra pts. for player 1 worth 3 pts.
+ANHA-FA74
+
+// Extra pts. for player 1 worth 5 pts.
+AYHA-FA74
+
+// Extra pts. for player 1 worth 9 pts.
+BEHA-FA74
+
+// Field goals for player 1 worth 0 pts.
+AAFA-EAF6
+
+// Field goals for player 1 worth 1 pt.
+AEFA-EAF6
+
+// Field goals for player 1 worth 5 pts.
+AYFA-EAF6
+
+// Field goals for player 1 worth 9 pts.
+BEFA-EAF6
+
+// Safeties for player 1 worth 0 pts.
+AARA-FA42
+
+// Safeties for player 1 worth 5 pts.
+AYRA-FA42
+
+// Safeties for player 1 worth 9 pts.
+BERA-FA42
+
+// Touchdowns for player 2 worth 0 pts.
+AARA-FA7J
+
+// Touchdowns for player 2 worth 3 pts.
+ANRA-FA7J
+
+// Touchdowns for player 2 worth 5 pts.
+AYRA-FA7J
+
+// Touchdowns for player 2 worth 9 pts.
+BERA-FA7J
+
+// Extra pts. for player 2 worth 0 pts.
+AASA-FA5L
+
+// Extra pts. for player 2 worth 3 pts.
+ANSA-FA5L
+
+// Extra pts. for player 2 worth 5 pts.
+AYSA-FA5L
+
+// Extra pts. for player 2 worth 9 pts.
+BESA-FA5L
+
+// Field goals for player 2 worth 0 pts.
+AAPA-FA5E
+
+// Field goals for player 2 worth 1 pt.
+AEPA-FA5E
+
+// Field goals for player 2 worth 5 pts.
+AYPA-FA5E
+
+// Field goals for player 2 worth 9 pts.
+BEPA-FA5E
+
+// Safeties for player 2 worth 0 pts.
+AADA-EAH2
+
+// Safeties for player 2 worth 5 pts.
+AYDA-EAH2
+
+// Safeties for player 2 worth 9 pts.
+BEDA-EAH2
+
+// Player 1 gets 0 timeouts for the first half
+AAVA-CAE6
+
+// Player 1 gets 9 timeouts for the first half
+BEVA-CAE6
+
+// Player 1 gets 0 timeouts for the second half
+AAWA-CAB2
+
+// Player 1 gets 9 timeouts for the second half
+BEWA-CAB2
+
+// Player 2 gets 0 timeouts for the first half
+AAVA-CAFE
+
+// Player 2 gets 9 timeouts for the first half
+BEVA-CAFE
+
+// Player 2 gets 0 timeouts for the second half
+AAWA-CACA
+
+// Player 2 gets 9 timeouts for the second half
+BEWA-CACA
+
+// Player 1's timeouts not reset at halftime
+A2WA-CA30
+
+// Player 2's timeouts not reset at halftime
+A2WA-CA38
+
+// Neither player's timeouts reset at halftime
+B2WA-CA30
+
+// Clock stops after each play
+A2YA-CA7T
+
+// Quarters in pre-season games are 1 min.
+AEAC-AAA4
+
+// Quarters in pre-season games are 3 mins.
+ANAC-AAA4
+
+// Quarters in pre-season games are 10 mins.
+CAAC-AAA4
+
+// Quarters in pre-season games are 15 mins.
+CYAC-AAA4
+
+// Quarters in pre-season games are 30 mins.
+GAAC-AAA4
+
+// Quarters in pro-bowl games are 1 min.
+AEAC-B928
+
+// Quarters in pro-bowl games are 3 mins.
+ANAC-B928
+
+// Quarters in pro-bowl games are 10 mins.
+CAAC-B928
+
+// Quarters in pro-bowl games are 15 mins.
+CYAC-B928
+
+// Quarters in pro-bowl games are 30 mins.
+GAAC-B928
+
+// 1 play to get a 1st down
+AEYA-EAGR
+
+// 2 plays to get a 1st down
+AJYA-EAGR
+
+// 7 plays to get a 1st down (choose not to punt on 4th down)
+A6YA-EAGR
+
+// Always 1st down
+ATYA-EA8G

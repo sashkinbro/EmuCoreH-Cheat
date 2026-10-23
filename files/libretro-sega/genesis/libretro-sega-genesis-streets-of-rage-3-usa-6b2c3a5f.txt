@@ -1,0 +1,412 @@
+// One Hit Kills For Enemies
+F29T-AAAN
+
+// Axel Run Fast
+HCDT-A0BN
+
+// Backward Game
+A2PT-A0BL
+
+// Regional lockout bypass code
+REEA-A61A
+
+// No Music During Gameplay
+PAWA-AAS0
+
+// Axel Has A Fast Kick
+ACEA-AA4R
+
+// You Can Flip Off Any Enemy
+24SA-AABC
+
+// Invincibility
+AF9A-APTW
+
+// Play As Ash
+BAWA-AAA0
+
+// Play As Shiva
+MAWA-AAJ0
+
+// Stage Select
+GTWA-AAA6
+
+// Unlimited Stars
+AMWA-AAMJ
+
+// Axel's Bare Knuckle Moves Fast
+BV9A-AAP4
+
+// Can use the B button for a special move for all characters and it doesn't take any health
+CREA-AAP2
+
+// No pause
+REXA-AALT
+
+// Auto pause
+1EXA-AALT
+
+// Different running attack 1
+TLDA-AA32
+
+// Different running attack 2
+XLDA-AA32
+
+// Different running attack 3
+YLDA-AA32
+
+// Different running attack 4
+WLDA-AA32
+
+// Axel has different bare knuckle sound
+KCDA-AAJW
+
+// Activate 9 lives in options
+A40A-JR4Y
+
+// P1 and P2 can be the same character
+G28T-CR6E
+
+// Infinite lives
+AXEA-AA4J
+
+// Start with 6 lives (Not on Continues)
+AY9A-DA4N
+
+// Start with 7 lives (Not on Continues)
+A29A-DA4N
+
+// Start with 8 lives (Not on Continues)
+A69A-DA4N
+
+// Start with 9 lives (Not on Continues)
+BA9A-DA4N
+
+// Start with 10 lives (Not on Continues)
+BE9A-DA4N
+
+// No Strength loss for special attacks (Not on Continues)
+RHSA-A6X4
+
+// Apples heal to above the maximum amount (Not on Continues)
+GTNA-DA7W
+
+// Apples don't heal at all (Not on Continues)
+AANA-DA7W
+
+// Infinite continues (Not on Continues)
+AMEA-AA8L
+
+// Player 1 starts with no continues
+AE9A-CAB8
+
+// Player 1 starts with 5 continues
+A29A-CAB8
+
+// Player 1 starts with 7 continues
+BA9A-CAB8
+
+// Player 1 starts with 9 continues
+BJ9A-CAB8
+
+// Player 2 starts with no continues
+AE9A-CACE
+
+// Player 2 starts with 5 continues
+A29A-CACE
+
+// Player 2 starts with 7 continues
+BA9A-CACE
+
+// Player 2 starts with 9 continues
+BJ9A-CACE
+
+// Axel's jump kick does more damage
+17HB-CGET
+
+// Blaze's jump kick does more damage [some hits]
+18FB-CGCY
+
+// Skate's jump kick does more damage
+19CV-CGCC
+
+// Zan's jump kick does more damage [some hits]
+16MB-EGEW
+
+// Sword and dagger don't get used up when attacking
+KAPT-CA7G
+
+// Don't Lose Your Weapon When You're Hit Or Shot
+AVFT-EA48
+
+// Infinite Health
+FFDF6C:0034
+
+// Invincible
+FFDF5C:0014
+
+// Start with 99 Lives
+FFFF0A:0063
+
+// Enable Very Easy In Options
+ALZT-JAB4
+
+// Activate Very Hard In Options
+BLZT-JACN
+
+// Can Select Stage 7 And 8 In The Stage Select Menu
+A82T-A82T
+
+// Can Select Stage 7 And 8 In The Stage Select Menu
+CC2T-JAC2
+
+// Activate Super Axel Mode
+F5FT-AN6N
+
+// Activate Axel Super Kick Combo
+F4EA-AN4T
+
+// Activate Axel Super Punch Combo
+ECEA-AN3L
+
+// Activate Skate Super Punch Combo
+A4EA-AN52
+
+// Activate Zan Super Punch Combo
+DLEA-AN5E
+
+// Infinite Swords And Daggers Hits
+RYPT-C6ZG
+
+// Infinite Bat/Plank Hits
+R1FA-A6VT
+
+// Unlimited Blaze Katana Special Attack
+R1LT-A6YW
+
+// Unlimited Blaze Kunai/Dagger Special Power Attack  Unlimited Skate Bat Special Power Attack
+R1XA-A6YA
+
+// Unlimited Blaze Kunai/Dagger Special Attack
+R1NT-A6Y4
+
+// Unlimited Skate Kunai/Dagger Special Attack
+R1PA-A6XW
+
+// Unlimited Axel Katana Special Attack
+R1NA-A6VA
+
+// Unlimited Zan Weapons Special Attacks
+R1FA-A6Y0
+
+// Unlimited Power
+R1SA-A6X4
+
+// Invincibility
+AV9A-AN7J
+
+// Weapons Never Dissapear
+AJRA-CA7L
+
+// Lv6 General Never Dies
+AX0A-GAFW
+
+// Allways Have 3 Stars
+CMWA-AA5L
+
+// Blaze Punch Does Masive Damage
+ECFV-CJA4
+
+// Blaze Kick Does Masive Damage
+8WFV-CTFL
+
+// Blaze Special
+9CGB-CYHE
+ECGB-C0LJ
+ECGB-C6ER
+
+// Fix Caterpillar Issue In Level 3
+RF1A-E6TT
+
+// Infinite Energy
+9T8T-BGPW
+GT8T-BJPY
+968T-AAF0
+PT8T-B9Z2
+
+// General always has infinite HP
+FFF06C:0034
+
+// Can change characters anytime you enter a new area
+BAWA-AAJ0
+
+// Play as Axel
+MAWA-A2J0
+
+// Play as Blaze
+MAWA-B8J0
+
+// Play as Roo
+MAWA-ALT0
+
+// Infinite Special
+FFF616:0080
+
+// Infinite Lives
+FFDF8A:0009
+
+// Infinite Continues
+FFDFA0:000A
+
+// Quick Score Gain
+FFDF82:FFFF
+
+// Super Axel
+FFFF20:FFFF
+
+// Super Skate
+FFFF1E:FFFF
+
+// Super Zan
+FFFF1C:FFFF
+
+// Infinite Time In Round 6
+FF88E2:0060
+
+// Infinite Time For Robot Y
+FF8850:0059
+
+// Enemies Can't Hurt P1
+FFDF5C:0006
+
+// Enemies Can't Hurt P2
+FFE05C:0006
+
+// Hit Anywhere
+RFBT-E6X6
+9VBT-FBM8
+ABBT-F9YA
+ABBT-ER6C
+0BBT-EAEE
+JPLT-FCDY
+
+// Activates Level Select In Options
+CC2A-JR7R
+CC2T-JR8T
+
+// Bat Doesn't Get Used Up When Attacking
+A5FA-AA3T
+
+// Sword Doesn't Get Used Up By Special Attacks
+ADXA-AANA
+
+// Dropping The Sword Doesn't Damage It
+AARA-CAN0
+
+// Sword Doesn't Get Used Up By Running Attacks
+ADNA-AAKA
+
+// Plank Doesn't Get Used Up By Running Attacks
+ADJA-AAM6
+
+// Axel Different Bare Knuckle Sound 2
+BCDA-AAJW
+
+// Axel Different Bare Knuckle Sound 3
+CCDA-AAJW
+
+// Axel Different Bare Knuckle Sound 4
+ECDA-AAJW
+
+// Axel Different Bare Knuckle Sound 5
+GCDA-AAJW
+
+// Axel Different Bare Knuckle Sound 6
+LCDA-AAJW
+
+// Axel Different Bare Knuckle Sound 7
+CGDA-AAJW
+
+// Axel Different Bare Knuckle Sound 8
+EGDA-AAJW
+
+// Axel Different Bare Knuckle Sound 9
+GGDA-AAJW
+
+// Axel Different Bare Knuckle Sound 10
+JGDA-AAJW
+
+// Axel Different Bare Knuckle Sound 11
+LGDA-AAJW
+
+// Axel Different Bare Knuckle Sound 12
+CLDA-AAJW
+
+// Axel Different Bare Knuckle Sound 13
+ELDA-AAJW
+
+// Axel Different Bare Knuckle Sound 14
+JLDA-AAJW
+
+// Axel Different Bare Knuckle Sound 15
+ARDA-AAJW
+
+// Axel Different Bare Knuckle Sound 16
+CRDA-AAJW
+
+// Axel Different Bare Knuckle Sound 17
+GRDA-AAJW
+
+// Axel Different Bare Knuckle Sound 18
+JRDA-AAJW
+
+// Axel Different Bare Knuckle Sound 19
+AWDA-AAJW
+
+// Axel Different Bare Knuckle Sound 20
+CWDA-AAJW
+
+// Axel Different Bare Knuckle Sound 21
+EWDA-AAJW
+
+// Axel Different Bare Knuckle Sound 22
+GWDA-AAJW
+
+// Axel Different Bare Knuckle Sound 23
+JWDA-AAJW
+
+// Invincibility (Disable Hit Detection)
+RZCT-E60G
+R03T-E6TT
+RZJA-E6WC
+RZCA-E6TJ
+
+// Roo (Victy) is available in the character selection screen
+RE5T-C6XY
+
+// Two Players As Same Character
+ACAT-JA6N
+ALBT-JA9A
+ALBT-JA62
+
+// Activates level select in Options (Alt)
+HAGT-BE10
+EYGT-BM92
+
+// Infinite Energy Power Attack All Characters
+AMHT-AA38
+AMHT-AA7R
+AMKT-AA6R
+AMKA-AA34
+AMJT-AA24
+AMLT-AA2J
+AMRT-AA6E
+AMMA-AA8A
+AMMT-AA6Y
+
+// Enabled Cheat Code Stage Select In Options
+ALYA-JA56
+AWYA-JA6Y
+RGYA-J604
+CC2A-JA7R
+CC2T-JA8T

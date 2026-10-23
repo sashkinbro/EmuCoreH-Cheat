@@ -1,0 +1,10 @@
+// Infinite Lives
+AVRT-2A72
+AVRA-2A7A
+
+// Infinite Energy
+AVRT-2A60
+
+// Invincibility
+ACHT-2N6L
+SFRT-3ET6

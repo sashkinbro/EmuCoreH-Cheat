@@ -1,0 +1,129 @@
+// Infinite lives (Except in battle with Bosses)
+RYSA-C602
+
+// Start with 9 lives instead of 5
+BF7T-AABW
+
+// Infinite time
+AJNT-CA9C
+
+// Time goes by 2x as fast
+SANT-DL1C
+
+// Start on world 1, area 2
+AGCA-AADC
+
+// Start on world 1, area 3
+ALCA-AADC
+
+// Start on world 1, area 4
+ARCA-AADC
+
+// Start on world 1, area 5
+AWCA-AADC
+
+// Start on world 1, area 6
+A0CA-AADC
+
+// Start on world 1, area 7
+A4CA-AADC
+
+// Start on world 1 bonus round
+A8CA-AADC
+
+// Start on world 2, area 1
+BCCA-AADC
+
+// Start on world 2, area 2
+BGCA-AADC
+
+// Start on world 2, area 3
+BLCA-AADC
+
+// Start on world 2, area 4
+BRCA-AADC
+
+// Start on world 2, area 5
+BWCA-AADC
+
+// Start on world 2, area 6
+B0CA-AADC
+
+// Start on world 2, area 7
+B4CA-AADC
+
+// Start on world 2 bonus round
+B8CA-AADC
+
+// Start on world 3, area 1
+CCCA-AADC
+
+// Start on world 3, area 2
+CGCA-AADC
+
+// Start on world 3, area 3
+CLCA-AADC
+
+// Start on world 3, area 4
+CRCA-AADC
+
+// Start on world 3, area 5
+CWCA-AADC
+
+// Start on world 3, area 6
+C0CA-AADC
+
+// Start on world 3, area 7
+C4CA-AADC
+
+// Start on world 3 bonus round
+C8CA-AADC
+
+// Start on world 4, area 1
+DCCA-AADC
+
+// Start on world 4, area 2
+DGCA-AADC
+
+// Start on world 4, area 3
+DLCA-AADC
+
+// Start on world 4, area 4
+DRCA-AADC
+
+// Start on world 4, area 5
+DWCA-AADC
+
+// Start on world 4, area 6
+D0CA-AADC
+
+// Start on world 4, area 7
+D4CA-AADC
+
+// Start on world 5 area 1
+ECCA-AADC
+
+// Start on world 5 area 2
+EGCA-AADC
+
+// Partial Invincibility
+AMMT-AA3R
+
+// Invincibility
+AMMT-AA46
+
+// Alternate Invincibility
+RYET-E6TL
+
+// Infinite Lives
+FFF746:0009
+
+// Infinite Time
+FFF788:0035
+
+// Invincible
+FFF784:0010
+
+// Untouchable
+RYEA-E602
+R1VA-A6XR

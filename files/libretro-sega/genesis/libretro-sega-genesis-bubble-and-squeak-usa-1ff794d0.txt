@@ -1,0 +1,65 @@
+// Infinite Lives
+AL8A-AA64
+
+// Infinite Energy
+AL8A-AA6L
+
+// Invincibility
+AC8A-AR40
+
+// Invincibility
+FF9C78:00FF
+
+// Infinite Lives
+FFAC64:0003
+
+// Infinite Coins
+FF9C7A:0063
+
+// Fly
+FFA078:0010
+FFA0D2:0001
+
+// Don't Die Underwater
+FFA086:0000
+FFA0AE:0000
+FFA0D6:0000
+
+// Go To Final Stage
+FFAC56:001D
+
+// Infinite Health Alt
+HB3T-BE08
+
+// Infinite Lives Alt
+HB3T-BE0A
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Enabled Password Code Infinite Hearts
+FFAC6A:00FF
+
+// Enabled Password Code Infinite Hearts
+AC8A-AA6G
+
+// Start with 1 life
+AE3T-AACR
+
+// Start with 5 lives
+AY3T-AACR
+
+// Start with 9 lives
+BE3T-AACR
+
+// Start with 20 lives
+CT3T-AACR
+
+// Start with 50 lives
+GJ3T-AACR
+
+// Start with 99 lives
+NN3T-AACR

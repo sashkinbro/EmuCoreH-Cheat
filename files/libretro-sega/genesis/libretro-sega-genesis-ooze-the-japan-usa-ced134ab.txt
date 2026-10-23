@@ -1,0 +1,22 @@
+// Infinite Lives
+D3WA-AN40
+
+// Some Attacks Don't Hurt
+AKMA-AA58
+
+// Enabled Cheat Code Level Select. See Note
+RFXA-A6YN
+
+// Start Game Yellow Ooze, The
+FFC896:0001
+FFC89C:0001
+
+// Intro music / sound effect / DAC/PCM modifier
+AAXT-ADF6
+
+// Invincibility against some enemies
+AKCT-AA8N
+CWJT-CA68
+
+// Invincibilty
+CBCT-AA8G

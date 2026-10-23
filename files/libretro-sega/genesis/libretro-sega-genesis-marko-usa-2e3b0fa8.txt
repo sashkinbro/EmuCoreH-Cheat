@@ -1,0 +1,33 @@
+// Infinite Health
+FF8D28:0005
+
+// Infinite Lives
+FF8D24:0009
+
+// Infinite Soda Cans
+FF8D1A:0009
+FF8D1C:0009
+
+// Infinite White Stars
+FF8D2A:0009
+FF8D2C:0009
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Invincible
+FFCFD0:0010
+
+// Infinite Health
+AVTT-2A20
+
+// Infinite Lives
+AVTT-2A32
+AVTA-2A3A
+
+// Invincibility
+ACKA-2A7L
+ABTA-2A7C

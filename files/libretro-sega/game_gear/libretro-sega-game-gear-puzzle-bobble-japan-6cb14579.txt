@@ -1,0 +1,8 @@
+// Infinite Shot Time
+00C5-0E00
+
+// Round Modifier
+00C1-05FF
+
+// Infinite Shot Time
+002-9AA-3BA

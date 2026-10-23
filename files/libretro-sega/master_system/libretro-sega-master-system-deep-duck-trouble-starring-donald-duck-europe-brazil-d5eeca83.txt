@@ -1,0 +1,31 @@
+// Infinite Lives
+00D2-B103
+
+// Infinite Energy
+00D2-B203
+
+// Invincible
+00D3-6903
+
+// Invulnerability
+000-BC5-19F
+
+// Infinite Lives
+3A7-9F9-2A2
+
+// Infinite Energy
+3A1-135-2A2
+3A1-B15-2A2
+
+// Invincibility
+C90-E75-E69
+
+// Start with ?? Health Units, instead of 3
+057-0BF-E66
+054-4EE-E66
+
+// Start with ?? Lives, instead of 3
+057-06F-E66
+
+// Jump Height Modifier
+FA2-027-085

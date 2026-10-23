@@ -1,0 +1,5 @@
+// Rapid Score Gain P1
+FF088C:0800
+
+// Rapid Score Gain P2
+FF09CC:0800

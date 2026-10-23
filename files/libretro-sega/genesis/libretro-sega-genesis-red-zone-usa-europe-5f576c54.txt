@@ -1,0 +1,39 @@
+// Invincibility
+SGYT-PE0J
+HWYT-NAGN
+
+// Start A New Game With Twice As Much Fuel
+HLRT-TAAW
+
+// Start A New Game With 8x As Much Fuel
+7CRT-TAAW
+
+// Invincibility
+FF003C:5279
+
+// Infinite Cannon
+FF031C:270F
+
+// Infinite Stinger
+FF031A:0064
+
+// Infinite Rocket
+FF031E:0063
+
+// Infinite Hellfire
+FF0320:0063
+
+// Infinite Health
+FF4E84:0061
+
+// Infinite Ammo
+FF4E9A:0099
+
+// Infinite Grenades
+FF4E9E:0099
+
+// Infinite Explosives
+FF4EA2:0099
+
+// Infinite Rocket Hellfire Stinger
+BAXA-TA28

@@ -1,0 +1,17 @@
+// Infinite Health
+003-7CB-19E
+
+// Infinite Lives
+00CF-5F09
+
+// Infinite Energy
+00CF-3F38
+
+// Infinite Ammo
+00CB-A638
+
+// Invulnerability
+C93-67B-E69
+
+// Infinite Lives
+003-C7B-19E

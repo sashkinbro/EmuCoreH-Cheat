@@ -1,0 +1,8 @@
+// Infinite Lives
+020A1C:6002
+
+// Infinite Time To Complete A Level
+002BCE:4E71
+
+// Large Amounts of Energy For Each Man
+0011F8:007F

@@ -1,0 +1,76 @@
+// Infinite Lives
+00DF-C704
+
+// Infinite Weapons
+00DF-C3E7
+
+// Infinite Time
+00DF-B106
+
+// Have Weapon
+00DF-B500
+
+// Bosses Die In 1 Hit
+00CB-7A00
+
+// Bosses Are Never Invincible
+00CB-7C00
+
+// Invulnerability
+00CA-3C3A
+
+// Invulnerability
+00E-99D-3B4
+
+// Invincibility
+00DF-C815
+
+// Invincibility (Alternate)
+00CA-3CF1
+
+// Infinite Time (Alternate)
+00DF-B000
+
+// Infinite Health
+3A1-65A-2A2
+
+// Infinite Lives
+3A6-15E-2A2
+
+// Infinite Weapons
+7E1-07A-3B7
+
+// Infinite Time
+B60-28A-3BE
+
+// Round Modifier
+00DF-D000
+
+// Invincibility
+C9F-14D-E69
+
+// Enable Debug Invincibility
+00DF-C4FF
+
+// Enable Infinite Weapons Option from Debug Menu
+00DF-C3FF
+
+// Disable Debug Invincibility
+00DF-C400
+
+// Disable Infinite Weapons Option from Debug Menu
+00DF-C300
+
+// Enable Debug Invincibility
+C9E-BCD-E69
+186-70C-6EA
+
+// Enable Infinite Weapons Option from Debug Menu
+180-DDA-6EA
+
+// Start with ?? Lives
+05D-124-F7A
+
+// Enable Debug Menu after Title Screen
+00B-9E4-E69
+00B-A64-E69

@@ -1,0 +1,61 @@
+// Infinite Lives
+00D1-4009
+
+// Infinite Rings
+00D1-5963
+
+// Infinite Time
+00D1-5D00
+
+// Invulnerability
+00D3-C21E
+
+// Walk Into Enemies To Kill Them
+00D5-3205
+
+// Zone Select after Player Select Screen
+00DC-9801
+
+// 3D Stage Highlighted on Title Screen
+00D1-6803
+
+// Infinite Time Underwater
+00D3-CE00
+
+// Zone Select
+18A-26E-6EA
+
+// Infinite Flying Time (Tails)
+00D3-C709
+
+// Infinite Flying Time (Tails)
+002-775-4C6
+
+// Don't Die When Hit With No Rings
+A08-9EC-19E
+388-9FC-08E
+
+// Don't Lose Rings When Hit
+008-CCC-A28
+
+// Infinite Lives
+003-DBE-E6E
+
+// Infinite Time
+00F-7DD-E6E
+
+// Invincibility
+C98-9DC-C41
+C9C-884-6EA
+
+// Invincibility (after being hit)
+3A9-D0C-2A2
+
+// Infinite Continues
+00D1-4B0A
+
+// Have all Chaos Emeralds
+00D1-7E05
+
+// Jump in Midair
+00A-B8C-E69

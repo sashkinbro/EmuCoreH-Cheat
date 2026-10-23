@@ -1,0 +1,101 @@
+// Can pick Wily's Tower on a new game
+ATNA-CAEW
+
+// Speeds up gameplay
+REHT-A6W8
+
+// Have all weapons for Rockman 1 with option to fight Dr. Wily
+9TRT-DCC0
+
+// Cutman's weapon goes a full screen to the right
+AAGA-GJH8
+
+// Cutman's weapon goes a full screen to the left
+AAGT-H32G
+
+// This changed Cutman's weapon graphics, when thrown, to Shadow Blade
+FEGT-GABE
+
+// Infinite weapon energy for all 3 games
+BMJT-EA8E
+
+// Start with 2 times the health for all 3 games
+HDXA-EAC6
+
+// Start with all weapons except for the platform weapon
+BJ2A-CN4G
+
+// Start with platform weapon
+A22A-CN5E
+
+// Rockman's normal suit mod
+9W3T-BGMC
+AA3T-AADE
+
+// Start with all weapons and items
+DT2A-CN6L
+
+// Start with all weapons and all rush
+DT2A-CN8W
+
+// Have 1st 8 bosses defeated with Protoman available
+FLPT-CN9A
+EWRA-CN24
+
+// Infinite Energy
+ALCT-AA3Y
+
+// Invincibility
+CDVA-ER82
+AXTA-EN30
+
+// Auto Destroy All Enemies
+AL3T-AA4W
+
+// Infinite Lives
+AM1A-EA8C
+
+// Go Into The Menu And Exit To Refill Your Health For Megaman 2
+AMZA-AAG6
+
+// Go Into The Menu And Exit To Refill Your Health For Megaman 3
+AM4A-AAH6
+
+// Go Into The Menu And Exit To Refill Your Health For Wily's Tower
+AM9T-AAHA
+
+// Start With The 1st 8 Bosses Defeated (But No Weapons) For Megaman 3
+A4PT-CA82
+
+// Can Pick Dr. Wily From The Start In Megaman 2
+A4GA-CA42
+
+// Walkthrough Enemies, Bosses, And Some Hazards For Each Game
+ALCT-AAAL
+
+// Start With 66 E-Tanks For Megaman 3
+AM0A-AAB4
+
+// Start With A Lot of E-Tanks For Megaman 2
+ASXA-AABJ
+
+// Infinite E-Tanks After You Collect One For Megaman 2
+AXZA-AA7W
+
+// On Conveyor Belts That Go To The Right, Megaman's Not Affected For Megaman 2
+AJ4A-EAD4
+
+// On Conveyor Belts That Go To The Left, Megaman's Not Affected For Megaman 2
+AJ4A-EADE
+
+// Rockman's Normal Suit Modifier
+9W3T-BGMC
+
+// Stage Modifier For Any of The 3 Games (Just Select Any Boss)
+9XHT-BGLY
+
+// Enable Sliding In Megaman 1 And Megaman 2 Games
+AMSA-EA48
+
+// Jump in Midair
+RHTA-E60T

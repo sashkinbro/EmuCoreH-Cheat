@@ -1,0 +1,34 @@
+// Infinite Lives
+RFBB-Y6YG
+
+// Infinite Energy
+AL3V-WA82
+
+// Stage Select Menu Opens At Title Screen
+1G8B-Y6VJ
+D08B-YABL
+SC8B-Y7BN
+1WHV-58AT
+1WHV-58AY
+FWRV-5AM6
+1WRV-58D8
+
+// Infinite Energy P1
+FF07CC:002F
+
+// Infinite Lives P1
+FF20E4:0009
+
+// Infinite Energy P2
+FF082A:002F
+
+// Infinite Lives P2
+FF20E6:0009
+
+// Kill Enemies in 1 Hit
+FF0DAC:0000
+FF0E3A:0000
+FF03C8:0000
+
+// Invincibility
+R02B-W6YW

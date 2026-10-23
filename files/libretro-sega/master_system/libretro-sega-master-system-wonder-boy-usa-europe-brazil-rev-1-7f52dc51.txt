@@ -1,0 +1,60 @@
+// Invincibility + Stone Hammers
+00C1-2703
+
+// Start With Stone Hammers
+00C1-2701
+
+// 40 Dolls
+00C1-3028
+
+// Rapid Fire On Controller Buttons
+00C1-73FF
+
+// Full health meter
+00C1-B724
+
+// Infinite Lives
+00C0-D702
+
+// Infinite Lives
+00C1-4309
+
+// Freeze Wonder Boy's Jogging Animation
+00C1-7013
+
+// Infinite Red/Yellow Bar
+00CC-3611
+
+// Infinite Lives
+7E5-6CE-5DD
+
+// Infinite Energy
+003-D79-3BE
+7E4-B19-3B7
+
+// Have Skateboard
+CDD-43C-F79
+
+// No Instant Death (From Animals, Fire etc.)
+003-AFB-B3A
+
+// Fruits Fully Restore Vitality
+9C4-9A9-7FD
+644-9B9-6E7
+
+// Enemies Die When They Touch You
+010-C2D-F72
+
+// Jump Height Modifier
+021-1DB-E6E
+
+// Jump Higher (Alternate)
+001-21B-E66
+
+// Jump in Mid Air
+A61-1AB-7F1
+A63-1EB-7F1
+
+// Enable Level Select
+182-1EA-6EA
+752-1FA-5DB

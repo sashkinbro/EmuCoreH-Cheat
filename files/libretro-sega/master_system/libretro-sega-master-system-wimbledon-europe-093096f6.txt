@@ -1,0 +1,44 @@
+// P2/CPU Never Scores
+00CB-0200
+
+// P1 Score Modifier
+00CB-0300
+
+// Infinite Attribute Points
+00CB-223C
+
+// Max Speed
+00C4-3014
+
+// Max Power
+00C4-3114
+
+// Max Skill
+00C4-3214
+
+// P1 Score Modifier
+00CB-0300
+
+// P2 Score Modifier
+00CB-0200
+
+// P1 Games Won Modifier
+00CB-0700
+
+// P2 Games Won Modifier
+00CB-0400
+
+// CPU can't Score
+00C-73E-C45
+
+// No Games scored by CPU
+00C-99E-C45
+
+// Most Games are given to you
+07C-98E-F7A
+
+// Infinite Attribute Points
+3A5-3B7-2A2
+
+// Start with ?? Attribute Points, instead of 15
+141-804-D56

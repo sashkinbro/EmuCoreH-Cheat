@@ -1,0 +1,18 @@
+// Infinite Lives
+00C5-0609
+
+// Infinite Time
+00C5-0109
+
+// Level Select Enabled
+00C5-2614
+
+// Infinite Keys
+00C5-0407
+
+// Power Up Modifier
+00C3-7601
+
+// Infinite Rings (Boss Stages)
+00C5-0A60
+00C5-0B60

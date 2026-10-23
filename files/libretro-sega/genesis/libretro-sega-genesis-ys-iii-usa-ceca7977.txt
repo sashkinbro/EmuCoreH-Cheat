@@ -1,0 +1,287 @@
+// ALL bosses die with one hit
+FFE28C:0000
+FFE2A6:0000
+
+// Infinite Amulet Uses
+FFE2E6:0003
+
+// Short Sword
+FFE2B6:00C0
+
+// Steel Swd
+FFE2B6:00C0
+
+// Invincibility
+AM0T-AA5L
+BD0T-AA42
+
+// Almost invincible
+BD0T-AA42
+
+// Start with 10 hit points
+HTVA-BAN2
+BJVA-AAE4
+
+// Start with 40 hit points
+HTVA-BAN2
+FAVA-AAE4
+
+// Start with 60 hit points
+HTVA-BAN2
+HTVA-AAE4
+
+// Start with 80 hit points
+HTVA-BAN2
+LAVA-AAE4
+
+// Start with 100 hit points
+HTVA-BAN2
+NTVA-AAE4
+
+// Start with 250 hit points
+HTVA-BAN2
+9JVA-AAE4
+
+// Start with 500 hit points
+HTVA-BAN2
+8TVA-ACE4
+
+// Start with 750 hit points
+HTVA-BAN2
+72VA-AEE4
+
+// Start with 999 hit points
+HTVA-BAN2
+66VA-AGE4
+
+// Start with 9,999 hit points
+HTVA-BAN2
+B6VA-ARN4
+
+// Makes all items cost nothing
+AWDA-AA5A
+
+// Make ring power recharge cost nothing
+B4AA-AA3E
+
+// Infinite ring power
+RFWT-A6XT
+
+// Recharge ring power to 50 instead of 255
+GLAA-AAB0
+GK9T-AAFY
+
+// Recharge ring power to 100
+NWAA-AAB0
+NV9T-AAFY
+
+// Recharge ring power to 500
+8WAA-ACB0
+8V9T-ACFY
+
+// Recharge ring power to 750
+74AA-AEB0
+739T-AEFY
+
+// Recharge ring power to 999
+68AA-AGB0
+679T-AGFY
+
+// Start with 5,000 experience
+RETT-A606
+9TTT-BCR8
+VATT-BGHA
+
+// Start with 10,000 experience
+RETT-A606
+9TTT-BCR8
+CATT-ARSA
+
+// Start with 15,000 experience
+RETT-A606
+9TTT-BCR8
+XATT-BYSA
+
+// Start with 20,000 experience
+RETT-A606
+9TTT-BCR8
+EATT-A61A
+
+// Start with 25,000 experience
+RETT-A606
+9TTT-BCR8
+ZATT-AC9A
+
+// Start with 37,500 experience
+RETT-A606
+9TTT-BCR8
+STTT-BFHA
+
+// Start with 50,000 experience
+RETT-A606
+9TTT-BCR8
+LATT-AH1A
+
+// Start with 65,535 experience
+RETT-A606
+9TTT-BCR8
+96TT-B99A
+
+// Start with 0 gold
+AATT-AAHR
+
+// Start with 100 gold
+NTTT-AAHR
+
+// Start with 300 gold
+FTTT-ACHR
+
+// Start with 500 gold
+8TTT-ACHR
+
+// Start with 700 gold
+1TTT-AEHR
+
+// Start with 900 gold
+TTTT-AGHR
+
+// Start with 5,000 gold
+VATT-BGHR
+
+// Start with 10,000 gold
+CATT-ARSR
+
+// Start with 20,000 gold
+EATT-A61R
+
+// Start with 30,000 gold
+GATT-BL9R
+
+// Start with 40,000 gold
+JATT-B3HR
+
+// Start with 50,000 gold
+LATT-AH1R
+
+// Start with 65,535 gold
+96TT-B99R
+
+// Make enemies harder to defeat
+AH0A-BA3A
+RH0A-A6VC
+
+// Make enemies easier to defeat
+KD0A-AH3A
+
+// Make enemies very easy to defeat
+KD0A-AS3A
+
+// Make enemies extremely easy to defeat
+KD0A-AD3A
+
+// Max &amp; infinite gold
+FFE2AA:00FF
+
+// Infinite Energy
+FFE296:03E7
+
+// 65,000 Experience
+FFE29C:00FF
+
+// Max HP
+FFE298:03E7
+
+// Max Strength
+FFE29E:03E7
+
+// Max Defense
+FFE2A0:03E7
+
+// All Bosses Die With 1 Hit (No Health)
+FFE28C:0000
+FFE2A6:0000
+FFE320:0000
+
+// Infinite Energy
+BD0T-AA42
+
+// Invincibility
+R10T-A6TL
+
+// Infinite Item
+AJHT-AA2G
+AJHT-AA44
+AJHA-AA9C
+
+// Infinite Ring Power
+AKWT-AA5Y
+
+// Infinite Gold
+ALAA-AA3W
+ALDA-AA5C
+
+// Get 6 uses from the Mirror (instead of 3)
+A4BA-AAGY
+
+// Get 6 uses from the Amulet (instead of 3)
+A4BT-AACE
+
+// Get 6 uses from the Brosha Serum (instead of 3)
+A4BA-AACN
+
+// Mirror costs $250 (instead of $500)
+9LBA-AAG6
+
+// Herb costs $50 (instead of $100)
+GLAT-AAGN
+
+// Amulet costs $500 (instead of $1000)
+8WBT-ACCN
+
+// Necklace costs $25,000 (instead of $50,000)
+ZCBT-AC72
+
+// Short Sword costs $200 (instead of $400)
+3B7A-AADA
+
+// Broad Sword costs $4000 (instead of $8000)
+WB7A-ACGL
+
+// Start a new game with the Short Sword and Long Sword
+TAVA-ABHL
+
+// Start a new game with the Broad Sword and the Banded Slayer
+TAVA-ABHN
+
+// Start a new game with the Flame Sword and the Leather Armor
+TAVA-ABHR
+
+// Start a new game with the Chain Mail and Plate Mail
+TAVA-ABHT
+
+// Start a new game with the Banded Armor and Battle Armor
+TAVA-ABHW
+
+// Start a new game with the Large Shield and Banded Shield
+TAVA-ABH0
+
+// Start a new game with the the Battle Shield and Power Ring
+TAVA-ABH2
+
+// Start a new game with the Shield Ring and Time Ring
+TAVA-ABH4
+
+// Start a new game with the Heal Ring and Protect Ring
+TAVA-ABH6
+
+// Start a new game with everything
+ETVA-ACC6
+4EVA-BADA
+
+// Start a new game with all weapons, armor, shields, rings, and equipable items
+ETVA-ACC6
+4EVA-BADA
+C6VA-BA48
+
+// The Mirror freezes enemies for twice as long
+0AHT-AJAC

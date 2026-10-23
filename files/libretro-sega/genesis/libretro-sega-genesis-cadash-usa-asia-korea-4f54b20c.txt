@@ -1,0 +1,149 @@
+// Character Starts with 255 HP
+AMDA-AA2L
+
+// Quick Level up
+SFCA-CAE4
+
+// Each Gold Bag worth a lot of money
+SGVA-AAC6
+
+// Stay in the Inn is free
+AJVT-GA48
+
+// Items in shops are free
+AJZT-GA44
+
+// Infinite Medical Herbs
+ALTT-AA5G
+
+// Infinite Antidote
+ALWA-AA24
+
+// Infinite Elixirs
+ALTT-AA6G
+
+// Infinite MP
+ALZA-AA94
+
+// Invincible against weapon hits
+ACTA-AAF8
+
+// Invincible against touch foes
+ACTT-AACW
+
+// Invincible against water
+ACWT-AAB2
+
+// Invincible after hit
+ALXA-AA5N
+ALYA-AACW
+
+// Invincibility
+FF0E44:0000
+
+// Experience
+FF0E4A:0000
+
+// Max Experience
+FF0E9C:0000
+
+// Level
+FF0E4C:0000
+
+// Max HP
+FF0E4E:0000
+
+// Current HP
+FF0E50:0000
+
+// Strength
+FF0E52:0000
+
+// Max MP
+FF0E54:0000
+
+// Current MP
+FF0E56:0000
+
+// A.C.
+FF0E58:0000
+
+// Agility
+FF0E5A:0000
+
+// Spells
+FF0E5C:0005
+
+// Gold
+FF0E8E:0000
+
+// Medical Herbs
+FF0E92:0000
+
+// Antidote
+FF0E94:0000
+
+// Elixir
+FF0E98:0000
+
+// Invincibility
+ACXA-AN5J
+ACXA-AR50
+
+// No Health Black Pudding
+FF1134:0000
+
+// Character Modifier
+FF0A46:0000
+
+// Infinite Medical Herbs
+FF1012:0009
+
+// Infinite Antidotes
+FF1014:0009
+
+// Infinite Elixirs
+FF1018:0009
+
+// Infinite Health
+FF0FD0:00FF
+
+// Max And Infinite Gold
+FF100E:00FF
+FF100E:00FF
+
+// Maxed Out Experience
+FF0FCA:00FF
+FF0FCA:00FF
+
+// Maxed Out A.C.
+FF0FD8:00FF
+FF0FD8:00FF
+
+// Maxed Out Str
+FF0FD8:00FF
+
+// Maxed Out Agl
+FF0FDA:00FF
+FF0FDA:00FF
+
+// Infinite HP 1P 2P
+Z4TA-BNF8
+Z4TT-BNCW
+Z4WT-BNV2
+
+// Infinite Gold 1P 2P
+HAVT-HNC8
+HAZT-HNW4
+
+// Infinite Credit
+AWSA-AA56
+
+// Freeze Time Continue
+BDAA-EA3Y
+
+// Walk thru locked barriers. See notes.
+ACTA-AA5T
+
+// Open treasure chests as many times as you want.  See notes.
+AK8T-CA52

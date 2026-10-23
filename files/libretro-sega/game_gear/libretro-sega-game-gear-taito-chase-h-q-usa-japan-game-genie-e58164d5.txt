@@ -1,0 +1,14 @@
+// Infinite Turbos
+006-B4D-3BE
+
+// Timer Starts At 50 Seconds (1st Life)
+324-74D-10A
+
+// Timer Starts At 70 Seconds (1st Life)
+464-74D-10A
+
+// Timer Starts At 90 Seconds (1st Life)
+5A4-74D-10A
+
+// Timer Starts At 50 Seconds (After 1st Life)
+327-61C-10A

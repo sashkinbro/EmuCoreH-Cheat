@@ -1,0 +1,79 @@
+// Start With 1/4 Energy
+194-D86-7FB
+
+// Start With 1/2 Energy
+324-D86-7FB
+
+// Start With 3/4 Energy
+4B4-D86-7FB
+
+// Start With 3000 Bullets
+B84-DD6-4C9
+8B4-E26-E66
+
+// Start With 4000 Bullets
+A04-DD6-4C9
+8C4-E26-E66
+
+// Start With 5000 Bullets
+884-DD6-4C9
+904-E26-E66
+
+// Start With 6000 Bullets
+704-DD6-4C9
+944-E26-E66
+
+// Start With MEGA Ammo
+FF4-DD6-4C9
+FF4-E26-E66
+
+// Infinite Lives
+3A4-0EC-2A2
+
+// Infinite Energy
+3A3-B4C-2A2
+
+// Infinite Gun
+3A5-53A-2A2
+
+// Flash Longer When Hit On The Ground
+885-7C9-A2A
+
+// Don't Flash At All When Hit On The Ground
+885-7C9-A2A
+
+// One Hit & You're Invincible
+3AE-01F-2A2
+
+// Invincible
+18D-EAF-6EA
+
+// Gun Pick-Ups Worth Nothing
+002-5CC-C49
+
+// Gun Pick-Ups Worth 1
+012-5CC-C49
+
+// Gun Pick-Ups Worth 25
+192-5CC-C49
+
+// Gun Pick-Ups Worth 50
+322-5CC-C49
+
+// Gun Pick-Ups Worth A Lot
+FF2-5CC-C49
+
+// Energy Pick-Ups Worth Nothing
+002-3BC-B3A
+
+// Energy Pick-Ups Worth 1
+012-3BC-B3A
+
+// Energy Pick-Ups Worth 25
+192-3BC-B3A
+
+// Energy Pick-Ups Worth 50
+322-3BC-B3A
+
+// Energy Pick-Ups Worth A Lot
+FF2-3BC-B3A

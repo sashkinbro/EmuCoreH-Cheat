@@ -1,0 +1,67 @@
+// Start With Fire/Ice Super Sword
+00DF-A504
+
+// Start With Lightning Sword
+00DF-A503
+
+// Infinite Health
+00DF-B3FF
+
+// Don't Blink From Damage
+002-89E-3B4
+
+// Invincibility
+B62-6CE-3B4
+002-89E-3B4
+
+// Invulnerability
+00DF-AFFF
+
+// Infinite Health
+007-A4E-A28
+
+// Stay invincible longer after getting hit
+307-90E-D5A
+
+// Stay invincible a lot longer after getting hit
+807-90E-D5A
+
+// Stay invincible for almost forever after getting hit
+002-6FE-19E
+
+// Start with ice sword in inventory
+AA0-1D4-5DC
+
+// Start with fire sword
+AB0-1D4-5DC
+
+// Start with lightning sword
+AC0-1D4-5DC
+
+// Start with eye
+A60-184-6E8
+FF0-164-E6E
+
+// Start with sickle
+A80-184-6E8
+FF0-164-E6E
+
+// Start with egg timer
+A90-184-6E8
+FF0-164-E6E
+
+// Infinite Health
+00DF-B3F0
+00DF-B4F0
+
+// Invulnerability
+187-6AE-6EA
+
+// Jump in Midair
+000-4FE-80A
+
+// Take Less Damage
+087-4BE-D5A
+
+// Take Much Less Damage
+047-4BE-D5A

@@ -1,0 +1,87 @@
+// Invulnerability
+00C4-6B1F
+
+// Start on level 1
+3EB-FE7-2A2
+01B-FF7-F7A
+00C-007-E6D
+
+// Start on level 2
+3EB-FE7-2A2
+02B-FF7-F7A
+00C-007-E6D
+
+// Start on level 3
+3EB-FE7-2A2
+03B-FF7-F7A
+00C-007-E6D
+
+// Start on level 4
+3EB-FE7-2A2
+04B-FF7-F7A
+00C-007-E6D
+
+// Infinite energy
+000-AEA-19E
+
+// Start With Very Little Energy
+018-D4E-C4A
+
+// Start With Less Energy
+028-D4E-C4A
+
+// Start With More Energy
+0A8-D4E-C4A
+
+// Start With Even More Energy
+0F8-D4E-C4A
+
+// Start With No Continues
+00B-E77-F76
+
+// Start With 10 Continues
+0AB-E77-F76
+
+// Start With 15 Continues
+0FB-E77-F76
+
+// Infinite continues
+00E-CD6-19E
+
+// Watch the ending
+3EB-FE7-2A2
+05B-FF7-F7A
+00C-007-E6D
+
+// Infinite Energy
+C90-AFA-2A2
+
+// Start With 5 Hearts
+0A8-D4E-C4A
+
+// Infinite Continues
+00D-E56-19E
+
+// Unlimited Energy
+C90-AFA-2A2
+
+// Start With 6 Hearts
+0C8-D4E-C4A
+
+// Start With 4 Continues
+04B-E77-F76
+
+// Start With 8 Continues
+08B-E77-F76
+
+// Unlimited Continues
+00D-E56-19E
+
+// Infinite Health
+00CB-2A08
+
+// Infinite Continues
+00CB-8009
+
+// Test Mode
+00F-137-A2A

@@ -1,0 +1,38 @@
+// 99% Cool (Enables Bonus Game After Level)
+00C7-6999
+
+// Infinite Health
+00D1-8F30
+
+// Infinite Lives
+00D1-8E03
+
+// Infinite Time
+00D0-9055
+
+// Invincibility
+00D1-BD02
+
+// Get One Spot For Bonus Game
+639-1CD-E6E
+
+// Infinite Health
+005-18C-C4A
+
+// Infinite Lives
+00CE-4710
+
+// Infinite Lives
+184-72E-6EA
+
+// Infinite Time (Minutes)
+00D-74B-7FE
+
+// Invulnerability
+C9F-23D-E69
+
+// Infinite Time
+00D-5CB-3BE
+
+// Freeze Timer
+00D0-8F3C

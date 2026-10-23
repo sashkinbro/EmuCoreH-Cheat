@@ -1,0 +1,49 @@
+// Infinite Lives
+009-04F-3BE
+
+// Invincible After 1 Ring (Except On Act 3)
+A78-92C-19E
+
+// Each Ring Worth 2 Points
+026-5ED-E6E
+
+// Each Ring Worth 3 Points
+036-5ED-E6E
+
+// Each Ring Worth 4 Points
+046-5ED-E6E
+
+// Each Ring Worth 5 Points
+056-5ED-E6E
+
+// Each Ring Worth 6 Points
+066-5ED-E6E
+
+// Each Ring Worth 7 Points
+076-5ED-E6E
+
+// Each Ring Worth 8 Points
+086-5ED-E6E
+
+// Don't Lose Rings When Hit
+3A7-E4C-2A2
+
+// Start With 1 Life
+012-B8D-E66
+
+// Start With 5 Lives
+052-B8D-E66
+
+// Start With 9 Lives
+092-B8D-E66
+
+// Stop Timer
+001-12D-3B7
+
+// Start On Act 2
+3E2-E4D-3B4
+012-E5D-E69
+
+// Start On Act 3
+3E2-E4D-3B4
+022-E5D-E69

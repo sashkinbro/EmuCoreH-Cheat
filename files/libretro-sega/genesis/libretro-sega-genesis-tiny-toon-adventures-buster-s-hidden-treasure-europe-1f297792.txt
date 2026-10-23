@@ -1,0 +1,37 @@
+// Infinite lives
+AJYT-AA5Y
+
+// Almost infinite health
+ACZT-BA8E
+
+// Infinite Special Helpers Once You Have One
+AJWA-AA86
+
+// Carrots Are Worth 10
+BJLA-DA6E
+
+// High jump
+ABHA-BENJ
+
+// Super high jump
+ABHA-AANJ
+
+// Moon jump
+ABHA-ALEJ
+
+// Invincibility
+ADTA-AAXY
+
+// Crystal prize provides much more invincibility
+ABWT-BJAE
+ABWT-BJAT
+
+// Maximum Speed Modifier
+A7ZA-AAG4
+
+// Immortal  To Anything
+ABLT-AA9G
+DVLT-AJHJ
+
+// Immortal  To Anything (Alternate)
+ALZT-AA72

@@ -1,0 +1,9 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Enable Virtua Formula And Extra Songs
+ABPT-AA54
+ACPT-AA6W

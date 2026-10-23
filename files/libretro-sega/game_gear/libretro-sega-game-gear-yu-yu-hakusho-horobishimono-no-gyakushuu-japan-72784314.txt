@@ -1,0 +1,20 @@
+// Invulnerability
+00CB-25FF
+
+// 1 Hit Kills Bosses
+00CE-2A01
+
+// Infinite Health During Boss Battles
+00CE-8B50
+
+// Invulnerability
+C9A-89E-E69
+
+// Infinite Health
+00CB-1942
+
+// Infinite Health
+00E-2EE-B30
+
+// Infinite Health During Boss Fights
+009-1C9-A28

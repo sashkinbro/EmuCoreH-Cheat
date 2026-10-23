@@ -1,0 +1,62 @@
+// Invincibility
+AVMT-AA3R
+
+// Freeze Time
+AKGA-AA80
+
+// enemies dont fight back
+AWHT-AACW
+
+// invincible to enemies attacks
+AWJT-AABN
+
+// Enable 'Round Select' in options menu
+96CT-AAB8
+
+// Enabled Cheat Code Round Select In Options
+REGA-A6X8
+REGT-A6VA
+AAHA-AA2A
+REJA-A6YW
+
+// 1 Shot Kill Bosses
+AL2T-AA82
+ALRA-AA4J
+ALTA-AA3T
+AMAT-AA4G
+AL1T-AA3Y
+
+// Invincibility (Disable Hit Detection)
+R0LT-A6TT
+RZ7T-A604
+R03A-A6T0
+
+// Freeze Time Continue
+FFA2BA:000A
+
+// Infinite Continue
+AKTT-AA7E
+
+// Invincibility (Disable Hit Detection) - Gain Ground (World) (Rev A)
+R0LT-A6XE
+RZ8A-A6VR
+R03A-A6XL
+
+// Freeze Time - Gain Ground (World) (Rev A)
+AKGA-AA8T
+
+// 1 Hit Kill Bosses - Gain Ground (World) (Rev A)
+AL3A-AA3N
+ALRA-AA66
+ALTA-AA6E
+AMAT-AA64
+AL1T-AA6J
+
+// Enabled Cheat Code Round Select In Options - Gain Ground (World) (Rev A)
+REGA-A6X8
+REGT-A6VA
+AAHA-AA2A
+REJA-A6YW
+
+// Infinite Continue - Gain Ground (World) (Rev A)
+AKTT-AA8A

@@ -1,0 +1,44 @@
+// Start With 2 Lives
+028-498-E66
+
+// Start With 5 Lives
+058-498-E66
+
+// Start With 7 Lives
+078-498-E66
+
+// Infinite Lives
+00A-57A-E6E
+
+// Infinite Special Items
+004-758-19E
+
+// Start With 2 Energy Units (1st Life)
+028-4E8-C42
+
+// Start With 6 Energy Units (1st Life)
+068-4E8-C42
+
+// Start With 8 Energy Units (1st Life)
+088-4E8-C42
+
+// Start With 2 Energy Units (After 1st Life)
+02B-33A-C42
+
+// Start With 4 Energy Units (After 1st Life)
+04B-33A-C42
+
+// Start With 8 Energy Units (After 1st Life)
+08B-33A-C42
+
+// Start With 3 Special Items (1st Life)
+038-538-E6E
+
+// Start With 3 Special Items (After 1st Life)
+03B-38A-E6E
+
+// Start With 6 Special Items (After 1st Life)
+06B-38A-E6E
+
+// Start With 9 Special Items (After 1st Life)
+09B-38A-E6E

@@ -1,0 +1,88 @@
+// Infinite Energy
+A4JA-AA56
+R17T-A6VE
+
+// Invincibility
+RYAA-E6ZC
+R0FA-A6ZY
+R0FA-A616
+R1JA-A6W2
+
+// Infinite Energy
+AX7T-AA3G
+A4JA-AA56
+A5PA-AA2J
+A5PA-AA2Y
+AXJA-AA90
+AXJT-AA9W
+
+// Infinite Lives
+AWJA-AA98
+
+// Infinite Item
+AWFA-AA2R
+AWFA-AA2C
+AV7T-AA6J
+AV7T-AA6Y
+ATYT-CA5A
+AWET-AA62
+AWET-AA9J
+AWEA-AA4R
+AWEA-AA7G
+AWEA-AA9T
+AWET-AA3Y
+AXFA-JA9A
+ATFT-AA4G
+
+// Keep Keys Round To Round
+ATHA-AA62
+
+// Keep Coins Round To Round
+ATHA-AA7A
+
+// Enable Level Select Hold A+B+C And Press Start On Screen Start Menu
+AJEA-AA7N
+
+// Jump higher
+AB2A-AAT4
+
+// Don't fall when you walk off ledges (walk on air)
+R1TT-A60R
+
+// Walk thru walls
+AC9T-AA2J
+
+// Walk thru doors (no need for keys)
+AAYT-CA28
+AAYT-CA2N
+
+// Access level select (and character select)
+DJEA-AA7G
+
+// Hit enemies/bosses from anywhere (in front of you)
+A5VT-AA8C
+
+// Start a new game with 99 of most items
+XEHA-BA98
+
+// Always get Niddler when you call him
+AAFA-AA94
+AMDA-LA2E
+
+// Invincibility against Nets
+ABXA-AA9R
+
+// Hit treasure chests from anywhere
+FX6A-AA4R
+
+// Collect treasure chest items from anywhere
+AX4A-AA6E
+
+// Treasure chest items stay 3x longer before they disappear
+DX3T-AEF0
+
+// Treasure chest items never disappear
+AM3T-AA90
+
+// Get the maximum amount of any item on pickup (from chests)
+AM5A-AA3T

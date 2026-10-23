@@ -1,0 +1,21 @@
+{
+  "commit": "6a23a64fea8b0498e69ab534dda1c602ed064544",
+  "sourceFiles": 3705,
+  "preservedEntries": 568,
+  "packs": {
+    "SEGA_32X": 27,
+    "GAME_GEAR": 801,
+    "MASTER_SYSTEM": 686,
+    "GENESIS": 1377,
+    "SEGA_CD": 12,
+    "SG_1000": 26
+  },
+  "blocks": {
+    "SEGA_32X": 521,
+    "GAME_GEAR": 7155,
+    "MASTER_SYSTEM": 4490,
+    "GENESIS": 31695,
+    "SEGA_CD": 93,
+    "SG_1000": 69
+  }
+}

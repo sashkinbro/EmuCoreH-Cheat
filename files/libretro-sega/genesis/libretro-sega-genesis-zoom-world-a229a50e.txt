@@ -1,0 +1,391 @@
+// Start with 25 rubber balls (both players)
+DGVA-AAC8
+
+// Start with 75 rubber balls (both players)
+KRVA-AAC8
+
+// Start with 99 rubber balls (both players)
+NRVA-AAC8
+
+// Infinite rubber balls (player 1)
+AWAA-AA7J
+
+// Infinite rubber balls (player 2)
+AWFA-AA4Y
+
+// Start with 2 lives instead of 3 (player 1)
+AFHT-AAF0
+
+// Start with 6 lives (player 1)
+AZHT-AAF0
+
+// Start with 8 lives (player 1)
+A7HT-AAF0
+
+// Start with 10 lives (player 1)
+BFHT-AAF0
+
+// Infinite lives (1 player game only)
+EK4A-AA2W
+
+// Start with 2 lives (player 2)
+AFHT-AAGL
+
+// Start with 6 lives (player 2)
+AZHT-AAGL
+
+// Start with 8 lives (player 2)
+A7HT-AAGL
+
+// Start with 10 lives (player 2)
+BFHT-AAGL
+
+// Infinite lives (player 2)
+ALHT-AA48
+
+// Start stage 1, field 1 time at 50
+GLTA-AAAW
+
+// Start stage 1, field 1 time at 80
+LCTA-AAAW
+
+// Start stage 1, field 1 time at 200
+3CTA-AAAW
+
+// Start at zero time
+AJZT-AA4T
+
+// Player 1 starts on stage 1, field 2
+ABJA-AABL
+
+// Player 1 starts on stage 1, field 3
+AFJA-AABL
+
+// Player 1 starts on stage 1, field 4
+AKJA-AABL
+
+// Player 1 starts on stage 1, field 5
+APJA-AABL
+
+// Player 1 starts on stage 1, field 6
+AVJA-AABL
+
+// Player 1 starts on stage 2, field 1
+AZJA-AABL
+
+// Player 1 starts on stage 2, field 2
+A3JA-AABL
+
+// Player 1 starts on stage 2, field 3
+A7JA-AABL
+
+// Player 1 starts on stage 2, field 4
+BBJA-AABL
+
+// Player 1 starts on stage 2, field 5
+BFJA-AABL
+
+// Player 1 starts on stage 2, field 6
+BKJA-AABL
+
+// Player 1 starts on stage 3, field 1
+BPJA-AABL
+
+// Player 1 starts on stage 3, field 2
+BVJA-AABL
+
+// Player 1 starts on stage 3, field 3
+BZJA-AABL
+
+// Player 1 starts on stage 3, field 4
+B3JA-AABL
+
+// Player 1 starts on stage 3, field 5
+B7JA-AABL
+
+// Player 1 starts on stage 3, field 6
+CBJA-AABL
+
+// Player 1 starts on stage 4, field 1
+CFJA-AABL
+
+// Player 1 starts on stage 4, field 2
+CKJA-AABL
+
+// Player 1 starts on stage 4, field 3
+CPJA-AABL
+
+// Player 1 starts on stage 4, field 4
+CVJA-AABL
+
+// Player 1 starts on stage 4, field 5
+CZJA-AABL
+
+// Player 1 starts on stage 4, field 6
+C3JA-AABL
+
+// Player 1 starts on stage 5, field 1
+C7JA-AABL
+
+// Player 1 starts on stage 5, field 2
+DBJA-AABL
+
+// Player 1 starts on stage 5, field 3
+DFJA-AABL
+
+// Player 1 starts on stage 5, field 4
+DKJA-AABL
+
+// Player 1 starts on stage 5, field 5
+DPJA-AABL
+
+// Player 1 starts on stage 5, field 6
+DVJA-AABL
+
+// Player 1 starts on stage 6, field 1
+DZJA-AABL
+
+// Player 1 starts on stage 6, field 2
+D3JA-AABL
+
+// Player 1 starts on stage 6, field 3
+D7JA-AABL
+
+// Player 1 starts on stage 6, field 4
+EBJA-AABL
+
+// Player 1 starts on stage 6, field 5
+EFJA-AABL
+
+// Player 1 starts on stage 6, field 6
+EKJA-AABL
+
+// Player 2 starts on stage 1, field 2
+ABJA-AABT
+
+// Player 2 starts on stage 1, field 3
+AFJA-AABT
+
+// Player 2 starts on stage 1, field 4
+AKJA-AABT
+
+// Player 2 starts on stage 1, field 5
+APJA-AABT
+
+// Player 2 starts on stage 1, field 6
+AVJA-AABT
+
+// Player 2 starts on stage 2, field 1
+AZJA-AABT
+
+// Player 2 starts on stage 2, field 2
+A3JA-AABT
+
+// Player 2 starts on stage 2, field 3
+A7JA-AABT
+
+// Player 2 starts on stage 2, field 4
+BBJA-AABT
+
+// Player 2 starts on stage 2, field 5
+BFJA-AABT
+
+// Player 2 starts on stage 2, field 6
+BKJA-AABT
+
+// Player 2 starts on stage 3, field 1
+BPJA-AABT
+
+// Player 2 starts on stage 3, field 2
+BVJA-AABT
+
+// Player 2 starts on stage 3, field 3
+BZJA-AABT
+
+// Player 2 starts on stage 3, field 4
+B3JA-AABT
+
+// Player 2 starts on stage 3, field 5
+B7JA-AABT
+
+// Player 2 starts on stage 3, field 6
+CBJA-AABT
+
+// Player 2 starts on stage 4, field 1
+CFJA-AABT
+
+// Player 2 starts on stage 4, field 2
+CKJA-AABT
+
+// Player 2 starts on stage 4, field 3
+CPJA-AABT
+
+// Player 2 starts on stage 4, field 4
+CVJA-AABT
+
+// Player 2 starts on stage 4, field 5
+CZJA-AABT
+
+// Player 2 starts on stage 4, field 6
+C3JA-AABT
+
+// Player 2 starts on stage 5, field 1
+C7JA-AABT
+
+// Player 2 starts on stage 5, field 2
+DBJA-AABT
+
+// Player 2 starts on stage 5, field 3
+DFJA-AABT
+
+// Player 2 starts on stage 5, field 4
+DKJA-AABT
+
+// Player 2 starts on stage 5, field 5
+DPJA-AABT
+
+// Player 2 starts on stage 5, field 6
+DVJA-AABT
+
+// Player 2 starts on stage 6, field 1
+DZJA-AABT
+
+// Player 2 starts on stage 6, field 2
+D3JA-AABT
+
+// Player 2 starts on stage 6, field 3
+D7JA-AABT
+
+// Player 2 starts on stage 6, field 4
+EBJA-AABT
+
+// Player 2 starts on stage 6, field 5
+EFJA-AABT
+
+// Player 2 starts on stage 6, field 6
+EKJA-AABT
+
+// Invincibility P1
+9TZT-BCEW
+AJZT-AVEY
+F6ZT-BB60
+
+// Invincibility P2
+9WGT-BCFA
+ALGT-AVFC
+F8GT-BK7E
+
+// Infinite Time
+AJZT-AA4T
+AAZT-AA42
+
+// Debug Menu Enabled
+2EET-BGS4
+
+// Start Every Level With 030 Seconds
+HWNA-BESJ
+D4NA-AAHL
+
+// Start Every Level With 050 Seconds
+HWNA-BESJ
+GLNA-AAHL
+
+// Start Every Level With 060 Seconds
+HWNA-BESJ
+HWNA-AAHL
+
+// Start Every Level With 080 Seconds
+HWNA-BESJ
+LCNA-AAHL
+
+// Start Every Level With 090 Seconds
+HWNA-BESJ
+MLNA-AAHL
+
+// Start Every Level With 100 Seconds
+HWNA-BESJ
+NWNA-AAHL
+
+// Start Every Level With 120 Seconds
+HWNA-BESJ
+SCNA-AAHL
+
+// Start Every Level With 150 Seconds
+HWNA-BESJ
+W4NA-AAHL
+
+// Start Every Level With 160 Seconds
+HWNA-BESJ
+YCNA-AAHL
+
+// Start Every Level With 180 Seconds
+HWNA-BESJ
+0WNA-AAHL
+
+// Start Every Level With 200 Seconds
+HWNA-BESJ
+3CNA-AAHL
+
+// Start Every Level With 240 Seconds
+HWNA-BESJ
+8CNA-AAHL
+
+// Start Every Level With 255 Seconds
+HWNA-BESJ
+98NA-AAHL
+
+// Start Every Level With 300 Seconds
+HWNA-BESJ
+FWNA-ACHL
+
+// Start Every Level With 400 Seconds
+HWNA-BESJ
+WCNA-ACHL
+
+// Start Every Level With 500 Seconds
+HWNA-BESJ
+8WNA-ACHL
+
+// Hour Glass Powerup (Freezes Enemies) is always active
+BVRT-AA66
+
+// Infinite Lives (Player 1 - 2 player game)
+AK4A-AA28
+
+// Start Every Level With 250 Seconds
+HWNA-BESJ
+9LNA-AAHL
+
+// Start Every Level With 270 Seconds
+HWNA-BESJ
+B4NA-ACHL
+
+// Start Every Level With 320 Seconds
+HWNA-BESJ
+JCNA-ACHL
+
+// Start Every Level With 350 Seconds
+HWNA-BESJ
+M4NA-ACHL
+
+// Start Every Level With 360 Seconds
+HWNA-BESJ
+PCNA-ACHL
+
+// Start Every Level With 420 Seconds
+HWNA-BESJ
+YWNA-ACHL
+
+// Start Every Level With 450 Seconds
+HWNA-BESJ
+2LNA-ACHL
+
+// Start Every Level With 480 Seconds
+HWNA-BESJ
+6CNA-ACHL
+
+// Banana Powerup (Slows Enemies) is always active
+BBRT-AA5G
+
+// Sun Powerup (Invincibility) is always active
+AB3A-AA5T

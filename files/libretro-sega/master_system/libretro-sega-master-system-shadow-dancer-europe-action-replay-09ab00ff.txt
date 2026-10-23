@@ -1,0 +1,5 @@
+// Infinite Lives
+00C0-5909
+
+// Unlimited Special Attacks
+00C0-5A03

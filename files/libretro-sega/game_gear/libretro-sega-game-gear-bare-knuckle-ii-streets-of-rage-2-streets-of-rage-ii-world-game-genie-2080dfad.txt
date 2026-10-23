@@ -1,0 +1,48 @@
+// Start With Only 1 Life
+012-BEF-E66
+
+// Start With 6 Lives
+062-BEF-E66
+
+// Start With 9 Lives
+092-BEF-E66
+
+// Infinite Lives
+218-15C-91D
+
+// Start 1st Life With 1/2 Energy
+0BE-F79-B36
+
+// Start 1st Life With 2X Energy
+3CE-F79-B36
+
+// Infinite Energy
+21A-FBC-91D
+
+// Infinite Time
+00A-05B-E6E
+
+// Start On Stage 2
+012-C3F-E6E
+832-C5F-F74
+
+// Start On Stage 3
+022-C3F-E6E
+832-C5F-F74
+
+// Start On Stage 4
+032-C3F-E6E
+832-C5F-F74
+
+// Start On Stage 5
+042-C3F-E6E
+832-C5F-F74
+
+// Start On Stage 6
+052-C3F-E6E
+832-C5F-F74
+
+// Mega-Power Attacks
+3E8-83A-91D
+098-84A-193
+008-85A-E6F

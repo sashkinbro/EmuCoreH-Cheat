@@ -1,0 +1,35 @@
+// No Balls
+00C1-3500
+
+// No Outs
+00C1-3700
+
+// No Strikes
+00C1-3600
+
+// Strike Modifier
+00C1-3600
+
+// CPU/Opponent Never Scores
+00C1-2600
+
+// CPU Team Can't Score
+00E-C0B-19A
+
+// No Balls (Always Walks)
+00A-719-19A
+
+// No Strikes (Always Outs)
+00A-609-19A
+
+// No Outs (After Hitting The Ball)
+003-21C-19A
+
+// No Outs (From Strikes)
+007-A6D-19A
+
+// P1 Always Scores 55
+00C1-25FF
+
+// Boot Into The Sound Test
+00C1-0B85

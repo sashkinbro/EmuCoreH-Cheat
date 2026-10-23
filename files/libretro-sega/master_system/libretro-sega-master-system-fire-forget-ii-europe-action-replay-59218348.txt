@@ -1,0 +1,11 @@
+// Infinite Lives
+00CE-7F05
+
+// Infinite Flying
+00CD-5724
+
+// Infinite Fuel
+00CD-561F
+
+// Infinite Rockets
+00CD-5E0D

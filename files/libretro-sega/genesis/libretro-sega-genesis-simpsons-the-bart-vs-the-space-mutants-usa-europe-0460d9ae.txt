@@ -1,0 +1,162 @@
+// Infinite Coins
+FF01A2:0063
+
+// Cannot Be Touched
+FF0228:0001
+FF0228:0001
+
+// Start with 1 life
+AEBT-AADG
+
+// Start with 4 lives
+ATBT-AADG
+
+// Start with 5 lives
+AYBT-AADG
+
+// Start with 6 lives
+A2BT-AADG
+
+// Start with 7 lives
+A6BT-AADG
+
+// Start with 8 lives
+BABT-AADG
+
+// Start with 9 lives
+BEBT-AADG
+
+// Invincible against hits and time [not against falling in quicksand or pits]
+AJRT-AA4N
+
+// Infinite lives
+A2RT-AA6N
+
+// Infinite cherry bombs after you buy one
+AAXA-BJ5L
+
+// Infinite rockets after you buy one
+AAXA-BJ6J
+
+// Infinite spray paint once you get it
+FJ0A-AA2G
+
+// Stop timer on door puzzle [level 3]
+E3AT-AA68
+
+// Need 1 goal [level 1]
+AH0A-CAGE
+
+// Need 5 goals [level 1]
+A10A-CAGE
+
+// Need 10 goals [level 1]
+CD0A-CAGE
+
+// Need 15 goals [level 1]
+C10A-CAGE
+
+// Need 20 goals [level 1]
+ED0A-CAGE
+
+// Need 1 goals [level 2]
+AECT-EAA6
+
+// Need 5 goals [level 2]
+AYCT-EAA6
+
+// Need 10 goals [level 2]
+CACT-EAA6
+
+// Need 15 goals [level 2]
+CYCT-EAA6
+
+// Need 20 goals [level 2]
+EACT-EAA6
+
+// Need 1 goal [level 3]
+AERT-EACG
+
+// Need 5 goals [level 3]
+AYRT-EACG
+
+// Need 15 goals [level 3]
+CYRT-EACG
+
+// Need 20 goals [level 3]
+EART-EACG
+
+// Need 8 goals [level 3]
+FART-EACG
+
+// Need 30 goals [level 3]
+GART-EACG
+
+// Need 1 goal [level 4]
+AE4A-EAD0
+
+// Need 2 goals [level 4]
+AJ4A-EAD0
+
+// Need 3 goals [level 4]
+AN4A-EAD0
+
+// Need 4 goals [level 4]
+AT4A-EAD0
+
+// Need 5 goals [level 4]
+AY4A-EAD0
+
+// Start on level 2
+AJBT-AADW
+
+// Start on level 3
+ANBT-AADW
+
+// Start on level 4
+ATBT-AADW
+
+// Start on level 5
+AYBT-AADW
+
+// Infinite Energy
+D2RT-AA6N
+
+// Infinite Time
+FF01C2:0099
+
+// Infinite Lives
+FF01B4:0009
+
+// Infinite Hits
+FF01B4:0003
+
+// Infinite Spraypaint
+FF02C6:00FF
+
+// All Goals Done
+FF01C6:0000
+
+// All Goals Complete (On Emulator)
+FF01C4:0000
+
+// Horizontal Scrolling Modifier
+FF01FA:0003
+
+// Bart Glides Instead of Walks
+FF0208:0008
+
+// Letter Code?
+FF026A:00BE
+
+// Invulnerability (Walk Thru Enemies)
+DBSA-EN5Y
+
+// Untouchable
+RYHA-A6Y8
+
+// Invincibility
+FF0228:0010
+
+// Infinite Jump
+AJTT-AA7E

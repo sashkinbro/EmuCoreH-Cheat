@@ -1,0 +1,69 @@
+// Enable Turbo Champion Mode and Choose Same Character Twice in Group Mode
+FFFE4E:FFFF
+
+// Enable Turbo Champion Mode
+RHFT-A61R
+RHFA-A6VR
+RHGT-A6TW
+
+// Choose Same Character Twice in Group Mode
+RGET-E6WY
+RH5A-A6Y4
+
+// Only Special Moves and Throws allowed for Human Players in Game Start Mode
+RHJA-C6TY
+
+// Select Options on Title Screen for Debug Menu
+55FT-BBL6
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// P1 Inf HP
+9T0T-DGM4
+0A0T-CAD6
+960T-CAD8
+JJ0T-CBEA
+
+// Bug Fix for Turbo Vega's Light Psycho Crusher (makes Light Psycho Crusher chip twice on block)
+T6XT-L2KE
+T6XT-L4KJ
+VEXT-L2KN
+8EXT-LGBR
+T6XT-L6KT
+4AXT-M93W
+
+// Infinite Time
+AM9T-AA84
+
+// Disable Throws - Both Players
+RYHT-A60W
+
+// No Charging required for most Special Moves
+CMKA-DTZN
+
+// Turbo Vega has Champion Edition Vega's (better) Psycho Crusher
+RERT-E6ZL
+
+// Fix incorrect damage value (too high) assigned to Dhalsim's Yoga Noogie Grab
+A6LA-EAG6
+
+// Fix incorrect charge time (too high) assigned to Turbo Guile's Sonic Boom
+RGRA-C6ZT
+
+// Zangief's Lariats can be performed by simultaneously pressing two punch or two kick buttons, like the USA and European versions
+REGT-E6TY
+REGT-E6W2
+
+// Game Speed Modifier
+FF97A4:0000
+
+// P1 Infinite Health
+9WGA-BCF6
+0CGA-AAF8
+JRGA-ABGA
+
+// P2 Infinite Health
+9WGA-BCGL
+0CGA-AAGN
+2RGA-AFGR

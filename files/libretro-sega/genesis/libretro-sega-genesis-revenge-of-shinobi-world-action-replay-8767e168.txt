@@ -1,0 +1,14 @@
+// Infinite Lives
+009E46:6002
+
+// Invulnerable In One Direction
+00B4E8:6000
+
+// Invulnerable In The Other Direction
+00B57E:6000
+
+// Unlimited Normal Shurikens
+00B93E:6002
+
+// Unlimited Super Shurikens
+00C0E2:4E71

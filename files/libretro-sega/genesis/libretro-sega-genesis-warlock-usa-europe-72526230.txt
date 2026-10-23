@@ -1,0 +1,37 @@
+// Infinite energy
+A3LT-AADG
+
+// Don't flash when you get hit
+EDHA-AAB2
+
+// Infinite Health
+FFA18E:0009
+
+// Fly (Hold B And Press A, Move With Directional Buttons)
+FFCF94:0001
+
+// Infinite Item
+AL3A-AA7C
+AW8A-AA8T
+A2CA-AA62
+
+// Keep Red Teleport and other items after the death
+FFCFAA:0001
+
+// 1 Hit Invincibility
+FFA196:0010
+
+// Invincibility
+RZLT-A6TR
+
+// Keep Item After The Death
+BBBT-CA50
+
+// Infinite Health Monster Character vs Monster Warlock
+AVFA-AA38
+
+// 1 Shot Kill Monster Warlock
+AKFT-AA5C
+
+// Invincibility Monster Character vs Monster Warlock
+R1WA-A6WC

@@ -1,0 +1,27 @@
+// Play Japan version on US Genesis
+MTCT-AA8C
+
+// Prevent The Game From Freezing When You Beat Bosses or Get 1-Ups.
+AKTT-AA44
+AJSA-AA6Y
+
+// Invincibility (Disable Hit Detection)
+RZVA-A60L
+RZVA-A6WY
+RZVT-A6WE
+
+// Infinite Credit
+RYKA-A6T2
+
+// Infinite Left
+AKWA-AA4J
+
+// Enabled Cheat Code Get All Weapons, In Paused, Press Up
+AJ2A-AA4R
+
+// All extra/bonus music (Ending, Omake, etc) is available in the option screen
+RH9T-A61W
+
+// Enabled Hidden Options In Configuration Mode
+A57A-AA2A
+AX7T-AAB6

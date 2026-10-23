@@ -1,0 +1,14 @@
+// Infinite Lives
+00C4-2903
+
+// Level Select
+00C4-2B00
+
+// Invincibility
+008-5D5-B31
+
+// Invincibility
+00C4-2A64
+
+// Automatically Complete Level
+00C2-4C00

@@ -1,0 +1,8 @@
+// Invincibility to Enemies
+00E-9BE-3B4
+
+// Infinite Health
+000-74A-19E
+
+// Infinite Lives
+000-C4A-19E

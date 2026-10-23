@@ -1,0 +1,5 @@
+// Infinite Time (Use For Surfing)
+00DC-A799
+
+// Low Time (Use For BMXing)
+00DC-A700

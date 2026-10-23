@@ -1,0 +1,90 @@
+// Infinite Time
+00C4-3609
+
+// Infinite Time
+005-A25-3BE
+
+// All Bosses Accessable on character select Screen
+0DD-164-C4A
+
+// Infinite Health P1
+00C4-8849
+
+// Infinite Credits (Continues)
+00C4-0B09
+
+// No Health P2
+00C4-8A00
+
+// P1 Invincibility
+00F-D59-91D
+00F-D69-193
+7BF-D79-80E
+FEF-D89-5D0
+88F-D99-7F0
+
+// P1 Infinite Health
+00B-459-F79
+
+// P2 Infinite Health
+00B-4D9-F79
+
+// Infinite Credits
+3A4-056-2A2
+
+// Start with ?? Credits, instead of 6
+081-50A-F76
+
+// Infinite Fatality Time
+C90-9C7-E69
+C90-528-E69
+
+// 2x More Fatality Time
+648-666-2A2
+B4A-016-803
+
+// 3x More Fatality Time
+968-666-2A2
+FFA-016-803
+
+// 4x More Fatality Time
+C88-666-2A2
+FFA-016-803
+
+// 5x More Fatality Time
+FF8-666-2A2
+FFA-016-803
+
+// Liu Kang Fatality - Press Kick
+FF1-EB8-E6E
+
+// Sub Zero Fatality - Press Kick Then When Frozen Punch
+FF2-5B8-C4A
+FF2-5F8-E62
+
+// Kitana Fatality - Press Kick
+3A2-178-801
+
+// Reptile Fatality - Press Punch
+FF2-228-C4A
+
+// Shang Tsung Fatality - Press Kick
+FF2-328-F7A
+
+// Mileena Fatality - Press Kick
+FF2-048-E62
+
+// Scorpion Fatality - Press Punch
+FF2-638-F7A
+
+// Jax Fatality - Press Punch and Keep Pressing for Full Fatality
+FF2-3B8-E62
+
+// All Characters Stage Fatality - Punch
+FF3-298-E62
+
+// Player 1 Only has to win 1 Round to Advance
+00C4-1002
+
+// Player 2 Can't Win Fights No Matter How Many Rounds are Won
+00C4-1200

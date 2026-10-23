@@ -1,0 +1,44 @@
+// Cpu Never Scores
+9VVA-BGBT
+ABVA-AABW
+97VA-AABY
+FPVA-BNB0
+
+// Cpu Never Scores
+FF162A:0000
+
+// Team 1 Score Modifier
+FF1628:0000
+
+// Team 2 Score Modifier
+FF162A:0000
+
+// Infinite Turbo P1
+FF107C:0059
+
+// Infinite Attribute Points
+FF29F4:00FF
+
+// Create Player - Max Height
+FF29E8:000A
+
+// Create Player - Max Speed
+FF29EA:000A
+
+// Create Player - Max Shoot
+FF29EC:000A
+
+// Create Player - Max Steal
+FF29EE:000A
+
+// Create Player - Have No Tag Arrow Privilege
+FF29FE:00FF
+
+// Create Player - Have Hide Attributes Privilege
+FF2A00:00FF
+
+// Create Player - Have Smarter Drone Privilege
+FF2A02:00FF
+
+// Infinite Turbo
+AM4T-CA94

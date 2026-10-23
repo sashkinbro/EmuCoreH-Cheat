@@ -1,0 +1,59 @@
+// Infinite Time
+00C6-0101
+
+// Infinite Toys
+00D8-B509
+
+// Infinite Tar
+00D8-B109
+
+// Infinite Torches
+00D8-AF09
+
+// Infinite Ice
+00D8-B709
+
+// Infinite Marbles
+00D8-B909
+
+// Infinite B.B. Guns Pellets
+00D5-7910
+
+// Infinite Tires
+00C5-FD09
+
+// Infinite Snowballs
+00D3-6209
+
+// Time - Minutes Digits
+00C6-0000
+
+// Time - Seconds Digits
+00C6-0100
+
+// Infinite C (Sled Charge)
+00C5-FC2B
+
+// Custom Music
+00D8-8911
+
+// Unlock Sound Test
+00D8-8864
+
+// Custom Level Mode
+00D8-8706
+
+// Unlimited Car Stuff
+00C5-FD09
+
+// Gameplay Timer Speed
+00C6-01FF
+
+// Infinite Time
+00B-C4E-E6E
+
+// Infinite C Meter For Sled
+2AE-EF5-6E2
+
+// Infinite Trap Items
+004-BDA-805

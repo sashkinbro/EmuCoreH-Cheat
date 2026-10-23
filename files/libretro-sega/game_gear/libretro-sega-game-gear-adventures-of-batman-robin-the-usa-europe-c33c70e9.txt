@@ -1,0 +1,32 @@
+// Infinite Health
+00D8-0A28
+
+// Infinite Lives
+00D8-0C09
+
+// Invulnerability
+00D8-4300
+
+// Invulnerability
+C92-71F-E69
+
+// Infinite Life
+00D8-0A2A
+
+// 1000point score
+00D8-08A0
+
+// Invulnerability
+00D9-2A01
+
+// Infinite Health
+001-F8F-B3C
+
+// Infinite Lives
+009-496-3BE
+
+// Invulnerability After Taking Damage
+00D-D56-D5A
+
+// Don't Blink From Taking Damage
+00D-D36-A2C

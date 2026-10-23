@@ -1,0 +1,8 @@
+// Have 255 Homeruns (In Homerun Derby)
+00D9-C7FF
+
+// Have Zero Outs (In Homerun Derby)
+00D9-C100
+
+// CPU/P2 Never Scores
+00D9-BC00

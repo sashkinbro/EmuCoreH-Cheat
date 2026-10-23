@@ -1,0 +1,17 @@
+// Infinite Time P1 - Hours - Ten's Digit
+00C7-F600
+
+// Infinite Time P1 - Hours - One's Digit
+00C7-F500
+
+// Infinite Time P1 - Minutes - Ten's Digit
+00C7-F400
+
+// Infinite Time P1 - Minutes - One's Digit
+00C7-F300
+
+// Infinite Time P1 - Seconds - Ten's Digit
+00C7-F200
+
+// Infinite Time P1 - Seconds - One's Digit
+00C7-F100

@@ -1,0 +1,47 @@
+// Invincible against walls
+D21T-AA50
+
+// Your Character Is Invincible And Never Stumbles Over
+A2YA-AA8N
+
+// Your Character Doesn't Stumble Over [It's Harmless]
+RYYT-A6TG
+
+// Invincible Against Non-Burning Attacks
+RYYT-A6TJ
+
+// Invincible Against Burning Attacks
+RYYT-A6TN
+
+// Don't Change Y Coordinate
+REZT-A60J
+
+// You Can't Fall Down Into Pits!
+6JXT-ACAC
+
+// Almost Invincible
+RYYT-A6ZW
+
+// Infinite Lives
+FFC322:0009
+
+// Invincibility
+FFDCFC:000D
+
+// Super High Jump
+FFDD1A:0010
+
+// Invincibility (Disable Hit Detection) - Chelnov (Japan)
+RYYT-A6X0
+RYYT-A6X4
+RYYT-A6XY
+RZPT-A616
+
+// Infinite Lives - Chelnov (Japan)
+AJPT-AA8R
+
+// Infinite Continue - Chelnov (Japan)
+AJRA-AA2R
+
+// Infinite Continue
+AJPT-AA7A

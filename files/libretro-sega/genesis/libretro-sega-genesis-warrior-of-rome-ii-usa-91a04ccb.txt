@@ -1,0 +1,8 @@
+// Start a new game with your first fortress already built.
+992A-6VEL
+
+// You can build fortresses much faster
+SXFT-AAGC
+
+// Enemies won't start building anything for several minutes
+992A-6AEN

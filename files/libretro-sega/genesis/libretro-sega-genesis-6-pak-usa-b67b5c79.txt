@@ -1,0 +1,186 @@
+// Untouchble, some enemys don't fight back
+ABAV-VA5T
+
+// Untouchble, some enemys don't fight back (Alternate code)
+AFAV-VAM0
+
+// 1 hit kills for enemys (not bosses)
+AWTV-VA3C
+
+// Untouchable, some enemys don't fight back
+AFAV-VAKJ
+
+// Infinite lives (annoying 1 UP sound)
+AFGV-VALA
+
+// Push A to go to the next level
+AJ9V-VA1C
+
+// Throw enemy's in the air while doing a suplex move
+HWVV-VAL4
+
+// Enemy's fall from the sky when suplexing them or throwing them
+HWVV-VAL2
+
+// Enemy's that punches won't attack
+HSTV-VAMT
+
+// Enemy's keep punching you from the left and right side
+HSTV-VA7G
+HSTV-VA7J
+
+// Can't be thrown
+AJ8V-VACY
+
+// Enemy's die instantly when they off the ground
+G8MV-VA3T
+
+// Maximum Special (infinite)
+R9JV-VHJR
+
+// All Players Walk Fast
+AJ4V-VA1G
+
+// Infinite Lives
+AMTW-GA7Y
+
+// Infinite Energy
+AMTC-GA7E
+
+// Infinite Shurikens
+ADTW-GACN
+
+// Invincibility
+AXWW-GN90
+
+// Vertical &amp; Horizontal Springboards Are Missing
+KMPC-TREE
+
+// Vertical &amp; Horizontal Springboards Are Dr. Robotnik
+KMPC-TREC
+
+// Lower Half Of The Screen Doesn't Scroll
+DFVW-TGCE
+
+// Background Moves When You Do
+DBVW-TCCC
+
+// Enemies Can't Ride Beasts Once They Are Knocked Off
+CDHV-AFEW
+
+// Players Fly To The Far Right When Knocked Down / Trolls Don't Reel Backwards When Hit
+NMAV-ACEC
+
+// Players Don't Fly Far When Knocked Down / Trolls Don't Reel Backwards When Hit
+NDAV-ACYC
+
+// Causes Trolls &amp; Potions To Fly Upward Once They Are Hit.
+NDAV-ACEC
+
+// Stages Repeat (Loops)
+DEHV-AJKY
+
+// Amazon's Red Parts Of Clothing Turn Green At Selection Screen
+WFCV-ACNC
+
+// Amazon's Red Parts Of Clothing Turn Blue At Selection Screen
+WFCV-A8NC
+
+// Most Enemies Will Stand Still When You Are Standing Above Them
+RDGB-AMLR
+
+// Can't Throw Enemies / Enemies Can't Throw You
+AGVV-VPWJ
+
+// Water in background of Green Hill Zone moves with you - awesome effect
+286342:0118
+
+// Springboards are missing
+28DA84:074A
+
+// Springboards are Dr. Robotnik
+KMPC-TREC
+
+// Infinite energy (take no damage from enemies).
+BB0V-AA56
+
+// Infinite magic.
+RF7V-A6T4
+
+// Your weapon/hits are 6 times stronger.
+FD0V-BHC8
+
+// One hit will kill most enemies.
+SX0V-BCC8
+AD0V-AADA
+NX0V-AADC
+
+// Jump in Midair
+BT4C-WA42
+AA4C-XZ5J
+RE4C-W6XR
+AN4C-XP5W
+AT4C-WR52
+
+// Get Rings From Anywhere
+FGPW-VTX6
+
+// Hit Anywhere
+AL9B-AA3R
+HC9B-AECC
+CC9B-AVCE
+R89B-ADWG
+G49B-AN4J
+H49B-AA4L
+SW9B-BREA
+S89B-AVEC
+AG9B-AAEE
+
+// Turbo Controller Code
+XLAV-VTAW
+
+// Stage Skip
+8KHV-VC02
+
+// Enemies Keep Punching You From The Left And Right Side
+HSTV-VA7G
+HSTV-VA7J
+
+// Don't Lose Rings When Hit
+AWRW-TA3R
+
+// Infinite Lives
+GJ6C-WA46
+
+// Mega Jump
+DDLW-TAEG
+
+// Level Select
+AJ3C-TA2C
+
+// Infinite Lives
+SVGV-VRCA
+
+// Infinite life on life gauge--both players
+AJ4B-TA9G
+
+// Infinite special attacks for both players
+RE9V-T604
+
+// Infinite fighters for both players
+AT4B-TA2L
+
+// Infinite Lives
+KB8B-AA24
+
+// Infinite Credits
+AJTV-AA8R
+
+// Infinite Oxygen For Sonic Underwater
+AJ9C-WA86
+
+// Regional Lockout Bypass (European and Japanese Systems)
+REDT-Y61C
+
+// Enemies fall through the ground when off the ground
+FCMV-VAT6

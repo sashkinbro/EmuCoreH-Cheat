@@ -1,0 +1,11 @@
+// Infinite Lives P1
+00C0-2F01
+
+// Always Have Beginning of Level Introduction
+00C0-9900
+
+// Infinite Lives - Both Players
+3A6-4AB-2A2
+
+// Infinite Lives - Both Players
+00C0-2F03

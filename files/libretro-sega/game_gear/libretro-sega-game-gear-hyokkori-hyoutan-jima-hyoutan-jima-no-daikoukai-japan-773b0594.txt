@@ -1,0 +1,33 @@
+// Don't Blink From Damage
+005-33A-E69
+
+// Invulnerability
+00D4-2DFF
+
+// Infinite Life
+00C1-B4FF
+
+// Infinite Time
+00CF-0A50
+
+// Infinite Time
+180-D8D-6EA
+
+// Invincibility
+C9E-CF9-E69
+C9F-F19-E69
+
+// FAKE Infinite Time
+00C0-DF00
+
+// Infinite Health
+00E-F99-2AA
+
+// Infinite Time
+000-E0D-4C6
+
+// Invincibility
+C9F-C9E-C49
+
+// Stage Select
+019-B0F-A2A

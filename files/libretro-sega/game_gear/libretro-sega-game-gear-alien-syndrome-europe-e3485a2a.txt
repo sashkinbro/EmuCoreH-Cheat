@@ -1,0 +1,42 @@
+// Infinite Health
+00C0-1504
+
+// Infinite Time
+00C1-13FF
+
+// Invulnerability
+00CA-5CFF
+
+// Invulnerability
+188-74B-6EA
+
+// Start with 1 life
+010-75F-E66
+
+// Start with 5 lives
+050-75F-E66
+
+// Start with 9 lives
+090-75F-E66
+
+// Start with 500 sec.
+058-39F-E66
+
+// Start with 900 sec.
+098-39F-E66
+
+// Hostages Saved Modifier
+00CA-5D00
+00D6-5D00
+
+// Infinite Lives
+00C0-1509
+
+// Infinite Lives
+007-5FB-19E
+
+// Configuration Menu
+01F-06D-D52
+
+// Infinite Time
+3A4-14F-2A2

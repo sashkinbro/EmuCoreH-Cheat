@@ -1,0 +1,31 @@
+// Max Score
+00D5-5E99
+00D5-5F99
+00D5-6009
+
+// Infinite Lives
+00D5-8A09
+
+// Infinite Health
+00D5-83FF
+
+// Invulnerability
+00D5-A49B
+
+// Infinite Lives
+00A-1FE-19E
+
+// Infinite Health
+00B-2EF-A28
+
+// Invulnerability
+C92-62F-E69
+
+// Exit Is Always Open
+00D6-6509
+
+// Infinite Energy
+00D5-85FF
+
+// Jump Higher
+F01-26B-19D

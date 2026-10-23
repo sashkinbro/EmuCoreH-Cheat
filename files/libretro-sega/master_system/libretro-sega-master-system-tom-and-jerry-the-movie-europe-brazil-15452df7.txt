@@ -1,0 +1,11 @@
+// Invulnerability
+00C4-2B90
+
+// Invincibility
+C9B-30B-2A2
+
+// Infinite Continues
+00CB-8009
+
+// Infinite Health
+00C4-3908

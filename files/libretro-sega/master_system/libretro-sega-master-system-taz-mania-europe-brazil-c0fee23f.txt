@@ -1,0 +1,17 @@
+// Infinite Life
+00C1-0320
+
+// Infinite Power
+00C1-0620
+
+// Invulnerability
+00C1-3935
+
+// Invulnerability
+C90-58E-19E
+
+// Fake Lives Modifier
+00C0-5A00
+
+// Infinite Lives
+00C1-0099

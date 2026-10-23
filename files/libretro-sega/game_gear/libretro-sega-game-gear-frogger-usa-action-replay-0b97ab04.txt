@@ -1,0 +1,11 @@
+// Infinite Lives
+00C0-1909
+
+// Infinite Time (One's Digit)
+00C6-8609
+
+// Infinite Time (Ten's Digit)
+00C6-8709
+
+// Infinite Time (Hundred's Digit)
+00C6-8809

@@ -1,0 +1,38 @@
+// Max Infinite Health P1
+FF8478:00DF
+
+// Medium Infinite Health P1 (Enable Special)
+FF8478:006F
+
+// Infinite Special P1
+FF84B8:00DF
+
+// Infinite Health P2
+FF8878:00DF
+
+// Infinite Special P2
+FF88B8:00DF
+
+// No Special P2
+FF88B8:0000
+
+// Infinite Health P3
+FF8C78:00DF
+
+// Infinite Special P3
+FF8CB8:00DF
+
+// No Special P3
+FF8CB8:0000
+
+// Infinite Health P4
+FF9078:00DF
+
+// Infinite Special P4
+FF90B8:00DF
+
+// No Special P4
+FF90B8:0000
+
+// Special Skill Always Full Loaded P1 (Example: Reigun)
+FF847C:00FF

@@ -1,0 +1,252 @@
+// Infinite continues
+AMZT-AA4L
+
+// 0 continues instead of 2
+ADZT-AAGA
+
+// 4 continues
+AXZT-AAGA
+
+// 9 continues
+BHZT-AAGA
+
+// Rex is impervious to most enemy fire
+AKGT-AA8R
+
+// Rex is invisible to most enemy fire
+2VGT-AA8J
+
+// Rex cannot burn up re-entering atmosphere
+AL8A-AA8T
+AL8A-AA9R
+
+// Rex cannot be electrocuted
+AKXA-AA4A
+
+// Chron cyborg cannot harm Rex
+AJ7T-AA20
+
+// Rance's death ray cannot harm Rex
+AL4T-AA92
+AK0A-AA78
+AL5T-AA60
+
+// HG gun carries 10 rounds instead of 20
+CB8A-AACW
+
+// HG gun carries 99 rounds
+XF8A-AACW
+
+// HG gun carries infinite ammo
+THTT-AEWN
+
+// 25-SC weapon carries 30 rounds instead of 60
+GB8A-AACY
+
+// 25-SC weapon carries 99 rounds
+XF8A-AACY
+
+// 25-SC weapon carries infinite ammo
+THTT-AEZ2
+
+// 40-SC weapon carries 25 rounds
+EZ8A-AAC0
+
+// 40-SC weapon carries 99 rounds
+XF8A-AAC0
+
+// 40-SC weapon carries infinite ammo
+THVA-AEXE
+
+// GL weapon carries 25 grenades instead of 50
+EZ8A-AAC2
+
+// GL weapon carries 99 grenades
+XF8A-AAC2
+
+// GL weapon carries infinite grenades
+THVT-AEVC
+
+// MGL weapon carries 20 grenades instead of 45
+EB8A-AAC4
+
+// MGL weapon carries 99 grenades
+XF8A-AAC4
+
+// MGL weapon carries infinite grenades
+THVT-AEZC
+
+// Burst Attacker carries 5 rounds instead of 10
+AZ8A-AADL
+
+// Burst Attacker carries 99 rounds
+XF8A-AADL
+
+// Burst Attacker carries infinite ammo
+THXT-AEVY
+
+// DD weapon carries 15 rounds instead of 30
+CZ8A-AADJ
+
+// DD weapon carries 99 rounds
+XF8A-AADJ
+
+// DD weapon carries infinite ammo
+THXA-AEZE
+
+// 150 BZ weapon carries 25 rounds instead of 50
+EZ8A-AAC6
+
+// 150 BZ weapon carries 99 rounds
+XF8A-AAC6
+
+// 150 BZ weapon carries infinite ammo
+THWA-AETE
+
+// 203 BZ weapon carries 20 rounds instead of 40
+EB8A-AAC8
+
+// 203 BZ weapon carries 99 rounds
+XF8A-AAC8
+
+// 203 BZ weapon carries infinite ammo
+THWA-AEYE
+
+// MISSILE weapon carries 25 rounds instead of 50
+EZ8A-AADA
+
+// MISSILE weapon carries 99 rounds
+XF8A-AADA
+
+// MISSILE weapon carries infinite ammo
+THWA-AE00
+
+// M-POD weapon carries 25 rounds instead of 50
+EZ8A-AADC
+
+// M-POD weapon carries 99 rounds
+XF8A-AADC
+
+// M-POD weapon carries infinite ammo
+THWT-AEX2
+
+// E-AS weapon carries 35 rounds instead of 70
+GZ8A-AADE
+
+// E-AS weapon carries 99 rounds
+XF8A-AADE
+
+// E-AS weapon carries infinite ammo
+THWT-AE02
+
+// E-CN weapon carries 30 rounds instead of 55
+GB8A-AADG
+
+// E-CN weapon carries 99 rounds
+XF8A-AADG
+
+// E-CN weapon carries infinite ammo
+THXA-AEW0
+
+// Go to stage 3 after stage 1
+358A-A396
+
+// Go to stage 4 after stage 1
+SD8A-A596
+
+// Go to stage 5 after stage 1
+KM8A-A996
+
+// Go to stage 6 after stage 1
+7M8A-A996
+
+// Go to stage 7 after stage 1
+JD8A-BD96
+
+// Go to stage 8 after stage 1
+DX8A-BF96
+
+// Infinite Energy
+9TVA-BCKW
+AAVA-BABY
+JTVA-BBK0
+
+// Infinite LG-Gun
+FFD09A:0099
+
+// Infinite 25-SC
+FFD09C:0099
+
+// Infinite D-D
+FFD09E:0099
+
+// Always Have LG-Gun
+FFD056:0001
+
+// 1 Shot Kill Enemies And Bosses
+ABGT-AADT
+
+// Infinite 150BZ
+RHWA-A6TN
+
+// Infinite 25-SC
+RHTT-A60A
+
+// Infinite 40-SC
+RHVA-A6XN
+
+// Infinite BURST
+RHXT-A6V6
+
+// Infinite D-D
+RHXA-A6ZN
+
+// Infinite E-AS
+RHWT-A61A
+
+// Infinite E-CH
+RHXA-A6W8
+
+// Infinite Energy
+AKGT-AA8R
+AL8A-AA9R
+AL8A-AA8T
+AKXA-AA4A
+AJ7T-AA20
+AKZT-AA5Y
+AL5T-AA60
+AK0A-AA78
+AL4T-AA92
+AJ8T-AA7J
+
+// Infinite GL
+RHVT-A6VL
+
+// Infinite HG-GUN
+RHTT-A6WY
+
+// Infinite LG-GUN
+AMTA-AA72
+
+// Infinite M.POD
+RHWT-A6YA
+
+// Infinite MGL
+RHVT-A6ZL
+
+// Infinite Missile
+RHWA-A608
+
+// Untouchable/Invincibility
+RZGT-A6YN
+R08A-A60R
+RZXA-A6V2
+RY7T-A6T0
+RZZT-A6XY
+RZGT-A6YJ
+R05T-A6Y0
+R04T-A612
+RY8T-A6ZJ
+
+// Infinite Energy
+FFB044:0016

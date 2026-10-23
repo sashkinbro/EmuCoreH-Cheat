@@ -1,0 +1,152 @@
+// Walk through walls
+AART-AACA
+
+// Roy (Character 1) Max AG &amp; SP
+FFF800:03E7
+FFF80A:03E7
+
+// Roy [Character 1] 999 MP
+FFF814:03E7
+FFF81E:03E7
+
+// Roy [Character 1] Max Experience
+FFF704:0098
+FFF706:967F
+
+// Roy [Character 1] Max ST &amp; AP
+FFF6F2:03E7
+
+// Roy [Character 1] Max DE &amp; DP
+FFF6F6:03E7
+
+// Roy [Character 1] Max IQ &amp; IP
+FFF6FE:03E7
+
+// Banegie [Character 2] 999 HP
+FFF802:03E7
+FFF80C:03E7
+
+// Banegie [Character 2] 999 MP
+FFF816:03E7
+FFF820:03E7
+
+// Banegie [Character 2] Max Experience
+FFF71A:0098
+FFF71C:967F
+
+// Banegie [Character 2] Max ST &amp; AP
+FFF708:03E7
+
+// Banegie [Character 2] Max DE &amp; DP
+FFF70C:03E7
+
+// Banegie [Character 2] Max AG &amp; SP
+FFF710:03E7
+
+// Banegie [Character 2] Max IQ &amp; IP
+FFF714:03E7
+
+// Magellan [Character 3] 999 HP
+FFF804:03E7
+FFF80E:03E7
+
+// Magellan [Character 3] 999 MP
+FFF818:03E7
+FFF822:03E7
+
+// Magellan [Character 3] Max Experience
+FFF730:0098
+FFF732:967F
+
+// Magellan [Character 3] Max ST &amp; AP
+FFF71E:03E7
+
+// Magellan [Character 3] Max DE &amp; DP
+FFF722:03E7
+
+// Magellan [Character 3] Max AG &amp; SP
+FFF726:03E7
+
+// Magellan [Character 3] Max IQ &amp; IP
+FFF72A:03E7
+
+// Floyd [Character 4] 999 HP
+FFF806:03E7
+FFF810:03E7
+
+// Floyd [Character 4] 999 MP
+FFF81A:03E7
+FFF824:03E7
+
+// Floyd [Character 4] Max Experience
+FFF746:0098
+FFF748:967F
+
+// Floyd [Character 4] Max ST &amp; AP
+FFF734:03E7
+
+// Floyd [Character 4] Max DE &amp; DP
+FFF738:03E7
+
+// Floyd [Character 4] Max AG &amp; SP
+FFF73C:03E7
+
+// Floyd [Character 4] Max IQ &amp; IP
+FFF740:03E7
+
+// Items Slot 1, Roy
+FFF760:0001
+
+// Items Slot 2, Roy
+FFF762:0000
+
+// Roy (Character 1) 999 HP
+FFF800:03E7
+FFF80A:03E7
+
+// Roy (Character 1) 999 MP
+FFF814:03E7
+FFF81E:03E7
+
+// Roy (Character 1) Max Experience
+FFF704:0098
+FFF706:967F
+
+// Roy (Character 1) Max AG &amp; SP
+FFF6FA:03E7
+
+// Banegie (Character 2) 999 HP
+FFF802:03E7
+FFF80C:03E7
+
+// Banegie (Character 2) 999 MP
+FFF816:03E7
+FFF820:03E7
+
+// Banegie (Character 2) Max Experience
+FFF71A:0098
+FFF71C:967F
+
+// Magellan (Character 3) 999 HP
+FFF804:03E7
+FFF80E:03E7
+
+// Magellan (Character 3) 999 MP
+FFF818:03E7
+FFF822:03E7
+
+// Magellan (Character 3) Max Experience
+FFF730:0098
+FFF732:967F
+
+// Floyd (Character 4) 999 HP
+FFF806:03E7
+FFF810:03E7
+
+// Floyd (Character 4) 999 MP
+FFF81A:03E7
+FFF824:03E7
+
+// Floyd (Character 4) Max Experience
+FFF746:0098
+FFF748:967F

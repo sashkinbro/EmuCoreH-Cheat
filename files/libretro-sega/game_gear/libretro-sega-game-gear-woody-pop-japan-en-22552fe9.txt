@@ -1,0 +1,32 @@
+// Infinite Lives
+00C1-1103
+
+// Replace ?? To Alter Ball Speed
+00C8-4F00
+
+// Morphing Ball
+00C8-4503
+
+// Infinite balls
+2AE-E6D
+
+// Start with 15 balls
+0F7-34F-E66
+
+// Start with 7 balls
+34F-E66
+
+// Infinite balls
+009-3FE-E6D
+
+// Start with 15 balls
+0F7-16F-E66
+
+// Start with 7 balls
+077-16F-E66
+
+// Start with 1 ball
+017-16F-E66
+
+// Break 1 Block To Clear Stage
+00C5-1401

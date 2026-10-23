@@ -1,0 +1,28 @@
+// Infinite Lives
+AWLT-JA4L
+
+// Invincibility
+ALLA-JA6C
+
+// Invincibility
+ALLA-JA56
+
+// Region Lockout Bypass
+BTLT-GN3T
+
+// Infinite Lives P1
+FF5D5C:0009
+
+// Untouchable Heli
+RYWT-G6ZT
+RYXA-G6YE
+
+// Untouchable Jeep
+RYWT-G6T2
+RYXA-G6YE
+
+// Infinite Lives Jeep
+ALRT-JA9A
+
+// Keep Power Of Weapon After The Death Heli And Jeep
+AWFT-JA6T

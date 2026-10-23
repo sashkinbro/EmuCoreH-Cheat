@@ -1,0 +1,56 @@
+// Infinite Lives
+AMHT-AA8J
+
+// Infinite Energy
+9T0T-HCE0
+NN0T-GAE2
+DE0T-H564
+
+// Invincibility
+R1FT-A6TY
+CCTA-AN40
+
+// Infinite Lives
+FFFD16:0063
+
+// Infinite Health
+FFFD18:0063
+
+// Jump higher
+TDBA-ARF6
+
+// Jump much higher
+ADBA-AYF6
+
+// Invincibility/Untouchable
+RZJT-E6YJ
+RY4A-C6Y8
+RY4T-C61T
+RYFA-C6TN
+R1FA-A6ZW
+
+// 1 Hit Kill Bosses
+A34T-EA5A
+A38T-EA9R
+A4CA-EA2E
+A4FT-EA9A
+A4KA-EA84
+A4TA-EA4R
+A4VT-EA4C
+A4YA-EA7T
+
+// 1 Hit Kill Some Enemies
+A2JA-EA38
+
+// Jump On Any Height
+AC9A-AABL
+
+// Press Start on Title Screen for Level Select
+RE9A-A60W
+
+// Start with ?? Lives
+AY9A-AAH6
+
+// Invincibility
+R1FA-A61N
+CCTA-AA40

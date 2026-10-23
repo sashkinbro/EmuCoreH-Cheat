@@ -1,0 +1,2 @@
+// Always On First Stroke
+00C0-2200

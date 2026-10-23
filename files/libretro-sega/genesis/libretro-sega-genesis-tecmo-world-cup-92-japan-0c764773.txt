@@ -1,0 +1,19 @@
+// Infinite Hp
+BDRT-AA52
+BAPT-CA46
+
+// Cpu Never Scores
+HBTA-CEVY
+
+// Cpu Never Scores
+SAWA-AET4
+
+// Infinite Guts
+AMRT-AA54
+AJPT-CA46
+
+// Team 1 Score Modifier (P1)
+FFF124:0000
+
+// Team 2 Score Modifier (P2/CPU)
+FFF126:0000

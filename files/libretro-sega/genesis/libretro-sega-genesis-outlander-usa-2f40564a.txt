@@ -1,0 +1,41 @@
+// Infinite Gas
+AJ6T-AA5G
+
+// Infinite Health (Side View Only)
+AK0A-AA9E
+
+// Take Less Damage While Driving Car
+AJ2T-AA4L
+
+// Car Starts With Maximum Maching Gun Ammo
+EACA-ALCL
+
+// Car Has Infinite Machine Gun Ammo
+ALVA-AA86
+
+// Start With Maximum Shotgun Ammo
+YACA-AACT
+
+// Car Has Infinite Shotgun Ammo
+ALXA-AA70
+
+// Start With Lots Of Nitro, But No Shotgun Ammo
+KACA-AACW
+
+// Infinite Nitro Once You Have It
+AJ2A-AA9R
+
+// Infinite Health (Side View Only)
+AKZT-AA7A
+
+// Take Less Damage While Driving Car
+AJ2A-AA2G
+
+// Car Has Infinite Maching Gun Ammo
+ALTT-AA62
+
+// Start With Maximum Shotgun Ammo
+YABT-AACT
+
+// Infinite Gas
+FF0224:0040

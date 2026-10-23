@@ -1,0 +1,23 @@
+// Infinite Rings
+00D2-A963
+
+// Infinite Lives
+00D2-4009
+
+// Freezes The Time
+00D2-D106
+
+// Strange Noises
+00D7-F700
+
+// Infinite Shields
+00D2-D628
+
+// Infinite Sneakers
+00DC-0A02
+
+// Changes The Music
+00DC-31FF
+
+// Super Invinciblity
+00D2-0901

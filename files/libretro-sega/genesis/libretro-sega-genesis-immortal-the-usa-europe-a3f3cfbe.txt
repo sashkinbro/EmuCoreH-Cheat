@@ -1,0 +1,55 @@
+// Infinite vitality (most battles)
+BAVT-CA4N
+
+// Infinite fireball shots while you have fireballs in your inventory
+RHAT-A600
+
+// Infinite continues
+AWAT-AA9J
+
+// Start with 10 continues instead of 3
+BE0T-CAH6
+
+// Start with 1 continue
+AA0T-CAH6
+
+// Start with 6 continues
+AY0T-CAH6
+
+// Start new game with 0 gold instead of 20
+ABYA-AAGN
+
+// Start new game with 520 gold
+GVYA-ACGN
+
+// Start new game with 160 gold
+CBYA-ANGN
+
+// Slime oil costs nothing instead of 80 or 60 gold
+ABMA-AAGC
+
+// Many items are free
+AMCA-AA4T
+
+// Destroy Most Enemies In Battle With One Hit
+STVT-DWA8
+AAVT-CABA
+
+// Infinite Lives
+SWAT-BWHJ
+98AT-AAHL
+
+// Defeat Goblins In Combat
+A2KT-CA9Y
+
+// Beat Floor Traps, Worms, Arrows, Etc.
+R0NT-A6VT
+
+// Unlimited Continues On Most Levels
+FF109A:0002
+
+// Unlimited Fireballs When Selected
+FF0B72:0003
+
+// No Energy Loss During Fights
+FF10A8:000C

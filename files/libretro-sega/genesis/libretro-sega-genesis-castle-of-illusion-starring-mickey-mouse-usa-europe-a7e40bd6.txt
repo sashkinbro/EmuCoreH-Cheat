@@ -1,0 +1,142 @@
+// Each item worth 5 items
+SAGA-BYWR
+
+// Maximum Item Capacity Becomes 98
+NNGA-AACJ
+NRRA-AABJ
+
+// Infinite items
+SC6A-AY0L
+
+// Keep items between levels
+SCYT-RYVN
+
+// Infinite tries, lose tries if you fall
+SCKT-AYTA
+
+// Infinite tries, don't lose tries if you fall
+SC8T-AYXR
+
+// Invincibility
+SCKA-AY1Y
+
+// Jump higher
+E5EA-AAGE
+
+// Infinite Lives
+ALKT-AA2A
+
+// Infinite Energy
+ALKA-AA9Y
+
+// Infinite Weapon
+AL6A-AA8L
+
+// Mickey Only Takes One Damage Point Per Section
+R05T-A6YY
+
+// Infinite Health
+FFF322:0200
+
+// Infinite Apples
+FFF320:0063
+
+// Infinite Items
+FFF320:0005
+
+// 1 Hit And You Have Invincibility
+WG5T-AAZC
+
+// Don't Blink When Hit
+WG5T-AAZW
+
+// Turbo Mode (Glitchy)
+CCLT-AAGE
+
+// Skip To The Bosses
+SCKA-ATDE
+
+// Almost Untouchable
+FCKA-AWHJ
+
+// Lose Health And Lives But You Won't Die
+7CKA-ATS2
+
+// Mickey Can Jump Repeatedly In Mid Air.
+FFF406:0000
+
+// Invincibility
+FFF446:0010
+
+// 1 Hit Kill Bosses
+PAST-CE1E
+
+// Night Mode
+FFF7E2:0644
+FFF7E4:0622
+FFF7E6:0422
+FFF7E8:0222
+FFF7EA:0224
+FFF7EC:0446
+FFF7EE:0668
+FFF7F0:0688
+FFF7F2:0622
+FFF7F4:0422
+FFF7F6:0222
+FFF7F8:0AEE
+
+// Some Bosses One Hit Kill
+FFD42A:0001
+FFD4AA:0001
+
+// Invincibility (Disable Hit Detection)
+R0KA-A61R
+R0KA-A604
+R0KA-A6ZY
+R09T-A616
+R04A-A614
+
+// Infinite Controllable Jump - Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)
+ADET-AAGW
+
+// Infinite Controllable Jump
+ADEA-AAF4
+
+// Walk Faster
+AMFA-AABN
+ADFA-BAVR
+
+// Infinite Tries - Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)
+ALKT-AA60
+
+// Infinite Power - Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)
+ALKA-AA6L
+
+// Invincibility (Disable Hit Detection) - Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)
+R0KT-A6YE
+R0KT-A6XT
+R0KT-A6WL
+R1AT-A6TE
+R05A-A6TC
+
+// Infinite Items - Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)
+AL6T-AA8W
+
+// Invincibility
+R05T-A6Y8
+
+// Double Jump
+RHEA-A6ZW
+
+// Walk Thru Walls
+R1AA-A61L
+R1AA-A6YJ
+
+// Allows you to jump one time while in the air after walking off a ledge
+NL6T-AA5E
+
+// Walk Thru Walls 2
+R1AA-A61L
+R1AA-A6YJ
+AMEA-AA4E
+RHEA-A6ZW

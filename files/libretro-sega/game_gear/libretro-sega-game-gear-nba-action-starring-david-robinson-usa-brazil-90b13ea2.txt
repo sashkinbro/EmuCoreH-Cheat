@@ -1,0 +1,11 @@
+// Infinite Timeouts
+00DC-1609
+
+// Player 1 Always Wins
+00DA-0D09
+
+// Team 2 Never Scores
+00DA-0B00
+
+// FAKE Score Modifier (In-Between Quarters)
+00D9-9A00

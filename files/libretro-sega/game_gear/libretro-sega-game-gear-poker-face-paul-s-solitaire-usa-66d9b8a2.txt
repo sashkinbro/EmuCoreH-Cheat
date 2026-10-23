@@ -1,0 +1,11 @@
+// XX Number of Games Played
+00D8-B800
+
+// XX Number of Games Completed
+00D8-B900
+
+// XX Worst Card Usage
+00D8-BC00
+
+// XX Average Card Usage
+00D8-BF00

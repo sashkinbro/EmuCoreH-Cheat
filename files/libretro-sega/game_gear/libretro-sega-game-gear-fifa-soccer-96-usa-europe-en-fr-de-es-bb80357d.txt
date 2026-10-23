@@ -1,0 +1,8 @@
+// Both Teams Have Scored X
+00C2-FC00
+
+// Team 2 Never Scores
+00C5-EA00
+
+// Information All Scrambled (Game Summary, Menu, Etc.)
+00C5-EC02

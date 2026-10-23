@@ -1,0 +1,7 @@
+// Skip Intro Screens
+ATXT-CA38
+B28T-CA3A
+AJ8T-CA54
+
+// Skip VS Screen
+RZKA-C6Y0

@@ -1,0 +1,20 @@
+// Infinite Lives
+00C1-4309
+
+// Freeze Wonder Boy's Jogging Animation
+00C1-7013
+
+// Infinite Red/Yellow Bar
+00CC-3611
+
+// Invincibility + Stone Hammers
+00C1-2703
+
+// Start With Stone Hammers
+00C1-2701
+
+// 40 Dolls
+00C1-3028
+
+// Rapid Fire On Controller Buttons
+00C1-73FF

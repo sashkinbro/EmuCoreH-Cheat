@@ -1,0 +1,24 @@
+// Enable Debug Opitions
+AB5A-AN3T
+ACXT-AN8N
+
+// Balls Modifier
+FF8BE0:0000
+
+// Strikes Modifier
+FF8BE2:0000
+
+// Outs Modifier
+FF8BE4:0000
+
+// Team 1 Runs Modifier
+FF8BEE:0000
+
+// Team 2 Runs Modifier
+FF8BF0:0000
+
+// Team 1 Score Total Modifier
+FF8C18:0000
+
+// Team 2 Score Total Modifier
+FF8C16:0000

@@ -1,0 +1,27 @@
+// Invincibility
+R1KA-A612
+
+// Infinite Lives
+AL7A-AA46
+
+// Infinite Energy
+FHKA-BHH2
+
+// Infinite Lives
+AL7A-CAGA
+
+// Start With 9 Lives
+BE1T-CAGA
+
+// Walk across any opening without falling (&quot;walk on air&quot;)
+RHAA-A6T0
+
+// The &quot;ERAD&quot; (Energy Radiator) will work on ANY surface when used to pull you up
+BC2T-AA4J
+RG3A-A6X2
+
+// Weapon meter is always full.
+ALYT-AA24
+
+// Activates &quot;debugger&quot;
+RF2A-A6VY

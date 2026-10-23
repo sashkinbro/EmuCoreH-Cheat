@@ -1,0 +1,11 @@
+// Infinite Health P1
+00C0-9660
+
+// Infinite Lives P1
+00C0-A003
+
+// Infinite Lives For P2
+00C0-A103
+
+// Infinite Energy For P2
+00C0-9760

@@ -1,0 +1,302 @@
+// Anthony Starts With Maximum Attributes
+CJWT-BEDL
+CJWT-BEDN
+CJWT-BEDR
+
+// Anthony Starts With 50 HP
+AAWT-BELA
+
+// Anthony Starts With 100 HP
+AAWT-AJ4A
+
+// Anthony Only Needs 1 EXP To Reach Level 2
+36WT-ARDW
+
+// Anthony Starts With 65,535 Gold
+96WT-B94C
+
+// Cassandra Starts With Maximum Attributes
+CJXA-BEAA
+CJXA-BEAC
+CJXA-BEAE
+
+// Cassandra Starts With 50 HP
+AAWT-BER0
+
+// Cassandra Starts With 100 HP
+AAWT-AJB0
+
+// Cassandra Only Needs 1 EXP To Reach Level 2
+5NXA-ALAJ
+
+// Cassandra Starts With 65,535 Gold
+96WT-B982
+
+// Ashli Starts With Maximum Attributes
+CJXA-BEE0
+CJXA-BEE2
+CJXA-BEE4
+
+// Ashli Starts With 50 HP
+AAXA-BEMN
+
+// Ashli Starts With 100 HP
+AAXA-AJ5N
+
+// Ashli Only Needs 1 EXP To Reach Level 2
+2NXA-AWE8
+
+// Ashli Starts With 65,535 Gold
+96XA-B95R
+
+// Christopher Starts With Maximum Attributes
+CJXT-BEBN
+CJXT-BEBR
+CJXT-BEBT
+
+// Christopher Starts With 50 HP
+AAXT-BEJC
+
+// Christopher Starts With 100 HP
+AAXT-AJ2C
+
+// Christopher Only Needs 1 EXP To Reach Level 2
+Z6XT-AJBY
+
+// Christopher Starts With 65,535 Gold
+96XT-B92E
+
+// Have Thief Leather Armor
+PNFA-AAG6
+
+// Have Magic User Displacer Cloak
+S6FA-AAG2
+
+// Have Elf Plate Mail
+RNFA-AAHE
+
+// Have Fighter Plate Mail
+RNFA-AAGY
+
+// Have Cleric Plate Mail
+RNFA-AAGT
+
+// Infinite Abilities And Spells That Have Been Scribed/Learned.
+HBGT-CA28
+
+// Don't Get Charged In Shops.
+AXCA-AA5R
+
+// Infinite Spells
+B3GT-CA4J
+
+// Anthony Starts With Maximum Attributes
+CJWT-BEDL
+CJWT-BEDN
+CJWT-BEDR
+
+// Cassandra Starts With Maximum Attributes
+CJXA-BEAA
+CJXA-BEAC
+CJXA-BEAE
+
+// Ashli Starts With Maximum Attributes
+CJXA-BEE0
+CJXA-BEE2
+CJXA-BEE4
+
+// Christopher Starts With Maximum Attributes
+CJXT-BEBN
+CJXT-BEBR
+CJXT-BEBT
+
+// #3 Sword
+LTWT-AACG
+
+// #1 Bow
+J6WT-AACG
+
+// #3 Shield
+R6WT-AACJ
+
+// #1 Sling
+AAAA-AAG6
+
+// #3 Shield
+R6WT-AAG8
+
+// #1 Sling
+LAXA-AADW
+
+// Lightning Wand
+W6XA-AADY
+
+// Anthony
+AAWT-BADT
+
+// Cassandra
+AAXA-BAAG
+
+// Ashli
+AAXA-BAE6
+
+// Christopher
+AAXT-BABW
+
+// Infinite Gold
+FF10C6:FDE8
+
+// 1st
+FF9184:0010
+
+// 2nd
+FF921A:0010
+
+// 3rd
+FF92B0:0010
+
+// 4th
+FF9346:0010
+
+// Infinite/Maxed Health
+FF9152:0064
+FF9154:0064
+
+// First Character's STR Is 25
+FF917E:001A
+
+// First Character's WIS Is 25
+FF9180:001A
+
+// First Character's CON Is 25
+FF9182:001A
+
+// 1st Character Magic Levels #1
+FF9160:0000
+
+// 1st Character Magic Levels #3
+FF916A:0000
+
+// 1st Character In-Hand #1
+FF914A:0000
+
+// 1st Character Infinite Strike
+FF9188:0002
+
+// Infinite/Maxed Health
+FF91E8:0064
+FF91EA:0064
+
+// Second Character's STR Is 25
+FF9214:001A
+
+// Second Character's WIS Is 25
+FF9216:001A
+
+// Second Character's CON Is 25
+FF9218:001A
+
+// 2nd Character Magic #1
+FF91F6:0000
+
+// 2nd Character Magic #3
+FF9200:0000
+
+// 2nd Character In-Hand #1
+FF91E0:0000
+
+// 2nd Character Infinite Strike
+FF921E:0002
+
+// Infinite/Maxed Health
+FF927E:0064
+FF9280:0064
+
+// Third Character's STR Is 25
+FF92AA:001A
+
+// Third Character's WIS Is 25
+FF92AC:001A
+
+// Third Character's CON Is 25
+FF92AE:001A
+
+// 3rd Character Magic Levels #1
+FF928C:0000
+
+// 3rd Character Magic Levels #3
+FF9296:0000
+
+// 3rd Character Magic Levels #5
+FF92A0:0000
+
+// 3rd Character In-Hand #1
+FF9276:0000
+
+// 3rd Character Infinite Strike
+FF92B4:0002
+
+// Infinite/Maxed Health
+FF9314:0064
+FF9316:0064
+
+// Fourth Character's STR Is 25
+FF9340:001A
+
+// Fourth Character's WIS Is 25
+FF9342:001A
+
+// Fourth Character's CON Is 25
+FF9344:001A
+
+// 4th Character #1
+FF9366:0000
+
+// 4th Character #3
+FF9370:0000
+
+// 4th Character #5
+FF937A:0000
+
+// 4th Character In-Hand #1
+FF930C:0000
+
+// 4th Character Infinite Strike
+FF934A:0002
+
+// Enables part of the debugger menu
+FFA94C:007F
+
+// Enables all of the debugger menu
+FFA94C:007F
+FFA94E:0055
+
+// Enables part of the debugger menu
+RGWA-A6X8
+RGVT-A61E
+ALWA-AA7C
+
+// Enables all of the debugger menu
+RGWA-A6X8
+RGVT-A61E
+ALWA-AA7C
+RGSA-A6ZL
+ALVT-AA5L
+
+// Walk thru walls
+AK0A-AA5T
+
+// Any character can equip any weapon
+RF8A-A60G
+
+// Can buy the +3 Sword instead of the Staff in the Castle Weapon Shop
+ADHT-BJX8
+
+// Can buy the +2 Dagger instead of the Dagger in the Castle Weapon Shop
+ADHT-AYYG
+
+// Can buy the +3 Spear instead of the Spear in the Castle Weapon Shop
+ADHT-AE6R
+
+// Can buy the +3 War Hammer instead of the Sling in the Castle Weapon Shop
+ADHT-AN70

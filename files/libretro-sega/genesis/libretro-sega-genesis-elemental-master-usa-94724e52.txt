@@ -1,0 +1,51 @@
+// Almost instant elemental weapon charge
+SAKA-BA0Y
+
+// Infinite Energy
+AASA-AAGL
+
+// Invincibility
+J2SA-AA68
+
+// Hit Anywhere
+D2TA-AA90
+D2TA-AA8L
+D2TA-AA5T
+D2TA-AA68
+5T5A-BTRY
+
+// Infinite Life
+AJSA-AA8J
+
+// Invincible 2x longer after being hit
+HTMA-AAAE
+
+// Invincible 3x longer after being hit
+MJMA-AAAE
+
+// Invincible 4x longer after being hit
+SAMA-AAAE
+
+// Invincible much longer after being hit
+96MA-AAAE
+
+// Start with 5 health bars, instead of 4
+AYCA-AAGJ
+AYCA-AAGR
+
+// Start with 6 health bars
+A2CA-AAGJ
+A2CA-AAGR
+
+// Start with 7 health bars
+A6CA-AAGJ
+A6CA-AAGR
+
+// Start with 7 credits, instead of 5
+A6CA-AAFA
+
+// Start with 9 credits
+BECA-AAFA
+
+// Infinite Credits
+AJGT-AA8A

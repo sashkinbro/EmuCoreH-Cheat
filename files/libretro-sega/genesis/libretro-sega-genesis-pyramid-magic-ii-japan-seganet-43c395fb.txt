@@ -1,0 +1,8 @@
+// Freeze Time
+FF2100:4E71
+
+// Infinite Lives
+FF2D96:6002
+
+// Infinite Tries
+AJ0T-EA60

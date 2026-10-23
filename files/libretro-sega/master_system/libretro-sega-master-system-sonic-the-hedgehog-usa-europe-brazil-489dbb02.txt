@@ -1,0 +1,126 @@
+// Be Turbo Sonic
+00D4-1105
+
+// Level Select
+00D2-3E00
+
+// Infinite Time
+00D2-CF00
+
+// Invincibility
+00D2-0901
+
+// Have All Chaos Emeralds
+00D2-7F06
+
+// Invulnerability
+C9B-9D8-082
+
+// Moon Jump
+18B-65B-6EA
+
+// Infinite Time Underwater
+000-18A-6E6
+
+// Infninite Time
+001-B7D-5DD
+7EA-24C-3B7
+
+// Infinite Lives
+004-64A-3BE
+
+// Don't Lose Rings When Hit
+3A6-45C-2A2
+
+// Infinite Rings
+00D2-AA98
+
+// Infinite Lives
+00D2-4609
+
+// Level Modifier
+00D2-3E00
+
+// Rings Worth ??
+02E-43B-E6E
+
+// Infinite Continues
+00D2-8409
+
+// Infinite Time Underwater
+00D2-9C00
+
+// Don't Die When Hit With No Rings
+186-16C-6EA
+
+// Infinite Time
+7EA-18C-3B7
+
+// Start with ?? Lives, instead of 3
+05C-4FE-E66
+
+// Start on Green Hill Zone, Act 2
+00C-5DE-5D4
+01C-59E-91A
+
+// Start on Green Hill Zone, Act 3
+00C-5DE-5D4
+02C-59E-91A
+
+// Start on Bridge Zone, Act 1
+00C-5DE-5D4
+03C-59E-91A
+
+// Start on Bridge Zone, Act 2
+00C-5DE-5D4
+04C-59E-91A
+
+// Start on Bridge Zone, Act 3
+00C-5DE-5D4
+05C-59E-91A
+
+// Start on Jungle Zone, Act 1
+00C-5DE-5D4
+06C-59E-91A
+
+// Start on Jungle Zone, Act 2
+00C-5DE-5D4
+07C-59E-91A
+
+// Start on Jungle Zone, Act 3
+00C-5DE-5D4
+08C-59E-91A
+
+// Start on Labyrinth Zone Act 1
+00C-5DE-5D4
+09C-59E-91A
+
+// Start on Labyrinth Zone Act 2
+00C-5DE-5D4
+0AC-59E-91A
+
+// Start on Labyrinth Zone Act 3
+00C-5DE-5D4
+0BC-59E-91A
+
+// Start on Scrap Brain Zone, Act 1
+00C-5DE-5D4
+0CC-59E-91A
+
+// Start on Scrap Brain Zone, Act 2
+00C-5DE-5D4
+0DC-59E-91A
+
+// Start on Scrap Brain Zone, Act 3
+00C-5DE-5D4
+0EC-59E-91A
+
+// Start on Sky Base Zone, Act 1
+00C-5DE-5D4
+0FC-59E-91A
+
+// Infinite Time - Bonus Stage
+7EA-3EC-3B7
+
+// Only need to finish level with ?? rings to get Bonus Stage, instead of 50
+010-639-A2B

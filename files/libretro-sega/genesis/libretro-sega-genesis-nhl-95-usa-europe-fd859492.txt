@@ -1,0 +1,17 @@
+// Infinite Time (Minutes)
+FFC022:0009
+
+// Infinite Time (Seconds)
+FFC022:0063
+
+// Team 1 Score Modifier
+FFC5FA:0000
+
+// Team 2 Score Modifier
+FFC294:0000
+
+// Season 1st place bug
+ADLT-WE7L
+ADLT-WL7R
+AANA-WE4E
+AANA-WL4J

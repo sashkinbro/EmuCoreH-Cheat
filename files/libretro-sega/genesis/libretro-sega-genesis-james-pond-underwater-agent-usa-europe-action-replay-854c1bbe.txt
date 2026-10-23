@@ -1,0 +1,5 @@
+// Infinite Lives
+007EDA:6004
+
+// Infinite Time
+008A16:6002

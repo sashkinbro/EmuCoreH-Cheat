@@ -1,0 +1,27 @@
+// Skip Levels In Game Pause And Press A
+RFFT-A6ZW
+
+// Infinite Continue
+AVFT-AA6R
+
+// Infinite Ammo For Special Weapons
+AWAA-EA7N
+AWAT-EA2Y
+AWJT-EA6J
+AWAT-EA5W
+AWBA-EA6W
+AWBA-EA9T
+AWAA-EA2Y
+
+// Keep Keys After The Death
+AXLA-EA7C
+AX8A-CA96
+
+// Infinite Keys
+AXWT-EA9R
+
+// Invincibility
+R0VT-E6ZE
+
+// Infinite Lives
+ATVT-AA6Y

@@ -1,0 +1,29 @@
+// Max Entire Budget
+FF4014:00FF
+
+// Fuel Modifier
+FFEF8C:0000
+
+// Materials Modifier
+FFEF8E:0000
+
+// Industry Modifier
+FFEF90:0000
+
+// Intel Modifier
+FFEF92:0000
+
+// Artillery Modifier
+FFEF94:0000
+
+// Steel Modifier
+FFEF96:0000
+
+// Engines Modifier
+FFEF98:0000
+
+// Aviation Modifier
+FFEF9A:0000
+
+// Electronics Modifier
+FFEF9C:0000

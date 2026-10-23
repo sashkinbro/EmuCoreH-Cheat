@@ -1,0 +1,14 @@
+// High Speed (See Note)
+00C2-319D
+
+// Always Super High Speed
+00C5-1799
+
+// You Never Crash
+00C5-2981
+
+// Freeze Lap Timer
+00C3-2700
+
+// Freeze Lap Timer
+7EB-23F-3B7

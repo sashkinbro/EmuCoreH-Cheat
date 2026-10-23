@@ -1,0 +1,11 @@
+// Infinite Health
+00C7-2B13
+
+// Infinite Lives
+00C7-2A09
+
+// FAKE Infinite Lives
+00D1-A009
+
+// FAKE Infinite Health
+00D1-9613

@@ -1,0 +1,140 @@
+// Player 1 starts each half with 0 timeouts
+ABTT-CAF6
+
+// Player 1 starts each half with 5 timeouts
+AZTT-CAF6
+
+// Player 1 starts each half with 8 timeouts
+BBTT-CAF6
+
+// Player 1 has infinite timeouts
+AVST-AA4R
+
+// Player 2 starts each half with 0 timeouts
+ABTT-CAGC
+
+// Player 2 starts each half with 5 timeouts
+AZTT-CAGC
+
+// Player 2 starts each half with 8 timeouts
+BBTT-CAGC
+
+// Player 2 has infinite timeouts
+AVST-AA6J
+
+// Play clock resets to 30 seconds
+GBTA-CAFE
+
+// Play clock resets to 45 seconds
+JZTA-CAFE
+
+// Play clock resets to 60 seconds
+NBTA-CAFE
+
+// Play clock does not run (infinite time to choose play)
+DANT-AA6C
+
+// Each quarter is 1 minute long
+AD7T-CCHT
+
+// Each quarter is 3 minutes long
+AD7T-CGHT
+
+// Each quarter is 20 minutes long
+AD7T-CAST
+
+// Each quarter is 30 minutes long
+AD7T-DAST
+
+// 1 play to get a 1st down instead of 4
+AKDA-EAHC
+
+// 2 plays to get a 1st down instead of 4
+APDA-EAHC
+
+// 3 plays to get a 1st down instead of 4
+AVDA-EAHC
+
+// 5 yards needed for a 1st down
+ABDT-F19N
+ABDT-ELHY
+
+// 15 yards needed for a 1st down
+ABDT-FD9N
+ABDT-E8HY
+
+// 20 yards needed for a 1st down
+ABDT-E39N
+ABDT-FJHY
+
+// Always 1st and goal
+AKDT-EA94
+
+// Touchdown worth 0 pts.
+ABEA-EAE2
+
+// Touchdown worth 3 pts.
+APEA-EAE2
+
+// Touchdown worth 5 pts.
+AZEA-EAE2
+
+// Touchdown worth 9 pts.
+BFEA-EAE2
+
+// Touchdown worth 10 pts.
+CBEA-EAE2
+
+// Extra pt. worth 0 pts.
+ABEA-EAEE
+
+// Extra pt. worth 4 pts.
+AVEA-EAEE
+
+// Extra pt. worth 5 pts.
+AZEA-EAEE
+
+// Extra pt. worth 7 pts.
+A7EA-EAEE
+
+// Extra pt. worth 9 pts.
+BFEA-EAEE
+
+// Extra pt. worth 10 pts.
+CBEA-EAEE
+
+// Field goal worth 0 pts.
+ABEA-EAER
+
+// Field goal worth 5 pts.
+AZEA-EAER
+
+// Field goal worth 6 pts.
+A3EA-EAER
+
+// Field goal worth 9 pts.
+BFEA-EAER
+
+// Field goal worth 10 pts.
+CBEA-EAER
+
+// Safety worth 0 pts.
+ABEA-EAGE
+
+// Safety worth 5 pts.
+AZEA-EAGE
+
+// Safety worth 7 pts.
+A7EA-EAGE
+
+// Safety worth 9 pts.
+BFEA-EAGE
+
+// Safety worth 10 pts.
+CBEA-EAGE
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AL1T

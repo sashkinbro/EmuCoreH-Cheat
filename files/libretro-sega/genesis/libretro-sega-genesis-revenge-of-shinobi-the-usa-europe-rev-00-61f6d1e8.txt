@@ -1,0 +1,109 @@
+// Infinite lives (except when using Jitsu of Mijin)
+ACTT-BA4Y
+
+// Infinite shurikins
+BMVT-GA6L
+
+// Infinite life bar
+BXVA-GA9E
+
+// Some bombs and enemy shurikins don't hurt
+AANT-CAAJ
+
+// No life lost when using Jitsu of Mijin
+AC5A-BA46
+
+// Start with 100 shurikins
+NTBA-AAC6
+
+// Start with 500 shurikins
+8TBA-ACC6
+
+// Start with 9 continues
+BGKA-AAH4
+
+// Start with 1 continue
+AGKA-AAH4
+
+// Start with 5 continues
+A0KA-AAH4
+
+// Start in District 1, level 2
+AGKT-AAAA
+
+// Start in District 1, level 3
+ALKT-AAAA
+
+// Start in District 2, level 1
+ARKT-AAAA
+
+// Start in District 2, level 2
+AWKT-AAAA
+
+// Start in District 2, level 3
+A0KT-AAAA
+
+// Start in District 3, level 1
+A4KT-AAAA
+
+// Start in District 3, level 2
+A8KT-AAAA
+
+// Start in District 3, level 3
+BCKT-AAAA
+
+// Start in District 4, level 1
+BGKT-AAAA
+
+// Start in District 4, level 2
+BLKT-AAAA
+
+// Start in District 4, level 3
+BRKT-AAAA
+
+// Start in District 5, level 1
+BWKT-AAAA
+
+// Start in District 5, level 2
+B0KT-AAAA
+
+// Start in District 5, level 3
+B4KT-AAAA
+
+// Start in District 6, level 1
+B8KT-AAAA
+
+// Start in District 6, level 2
+CCKT-AAAA
+
+// Start in District 6, level 3
+CGKT-AAAA
+
+// Start in District 7, level 1
+CLKT-AAAA
+
+// Start in District 7, level 2
+CRKT-AAAA
+
+// Start in District 7, level 3
+CWKT-AAAA
+
+// Start in District 8, level 1
+C0KT-AAAA
+
+// Start in District 8, level 2
+C4KT-AAAA
+
+// Start in District 8, level 3
+C8KT-AAAA
+
+// Hit Anywhere Normal Enemies
+F3BT-AYZY
+AKBT-AAF0
+
+// Some bombs, Enemy Shurikins And Swords Don't Hurt
+ABCA-BA94
+RFCA-A616
+
+// Start With 200 Shurikins
+3ABA-AAC6

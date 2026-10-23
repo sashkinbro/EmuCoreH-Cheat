@@ -1,0 +1,8 @@
+// Infinite Lives
+00DA-2F09
+
+// Infinite Continues
+00DA-3409
+
+// Infinite Rings (99)
+00DC-4999

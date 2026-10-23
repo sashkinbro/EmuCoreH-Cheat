@@ -1,0 +1,42 @@
+// Infinite Health
+FF04BA:270F
+
+// Max Health
+FF04A8:270F
+FF04B6:270F
+
+// Infinite Money
+FF0490:FFFF
+
+// Max Defense
+FF4578:03E7
+
+// Max Range
+FF4572:0063
+
+// Slot 9 Modifier
+FF0D90:0101
+
+// Slot 10 Modifier
+FF0D92:0001
+
+// Slot 11 Modifier
+FF0D94:0001
+
+// Slot 12 Modifier
+FF0D96:0001
+
+// Slot 13 Modifier
+FF0D98:0001
+
+// Slot 14 Modifier
+FF0D9A:0001
+
+// Slot 15 Modifier
+FF0D9C:0001
+
+// Slot 16 Modifier
+FF0D9E:0001
+
+// Max Defence
+FF4578:03E7

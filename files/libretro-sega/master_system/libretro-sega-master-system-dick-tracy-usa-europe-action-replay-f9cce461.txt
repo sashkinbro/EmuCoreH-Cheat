@@ -1,0 +1,11 @@
+// Infinite Health
+00C1-ED06
+
+// Infinite Lives
+00CE-6709
+
+// Infinite Time (Ten's & One's Digits)
+00CE-5A99
+
+// Infinite Time (Hundred's Digits)
+00CE-5B09

@@ -1,0 +1,60 @@
+// Infinite lives
+AJWT-AA70
+
+// Shields cost 6 crystals
+A5NT-AAHC
+
+// Shields cost 2 crystals
+AMNT-AAHC
+
+// Shields granted for each crystal
+AHNT-AAHC
+
+// Shields last 30 seconds
+BCRA-ARBN
+
+// Shields last until next level
+98RA-B93N
+
+// Repeat lasts forever
+RZ8T-A6TR
+
+// Repeat lasts twice as long
+CDNT-A6GG
+
+// Get repeat on pick-up of 3-way gun
+GDNT-AA6N
+
+// Get repeat on pick-up of fission gun
+KDNT-AA5Y
+
+// Get repeat on pick-up of missiles
+DDNT-AA7E
+
+// Get repeat on pick-up of 5-way gun
+RHNT-A6Z6
+
+// Keep weapons after dying
+H2WT-AA8L
+
+// Start With 39 Lives
+E6JT-AAEG
+
+// Invincibility
+SACA-AE0L
+3JCA-AHGN
+
+// Infinite Lives
+FF803A:0007
+
+// Invincibility
+FF83CA:0000
+
+// Stage Modifier
+FF802A:0000
+
+// Infinite Lives
+FF803A:0009
+
+// Infinite Lives The Purchase of Weapons, etc. (Lives are not used)
+AJ0A-AA98

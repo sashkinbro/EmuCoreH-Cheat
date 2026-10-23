@@ -1,0 +1,11 @@
+// Infinite Time
+FFF0D0:003B
+
+// Infinite Triangle Keys
+FFF390:0063
+
+// Infinite Square Keys
+FFF392:0063
+
+// Return To Baby
+FFF9B4:0004

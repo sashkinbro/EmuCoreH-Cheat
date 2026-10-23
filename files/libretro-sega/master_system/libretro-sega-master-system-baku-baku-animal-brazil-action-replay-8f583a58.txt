@@ -1,0 +1,5 @@
+// Low Time - Seconds Digits
+00C4-9100
+
+// Low Time - Minutes Digit
+00C4-9000

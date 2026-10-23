@@ -1,0 +1,119 @@
+// Text is missing.
+LACA-AVGE
+
+// Robots flicker when they are moving &amp; mostly invisible when stationary
+BASA-ANST
+
+// Music is turned off
+ABFT-BKWN
+
+// Sound &amp; music is turned off
+ABFT-BKWR
+
+// Rockets (from the sides) don't fire as often.
+D42T-GABJ
+
+// Rockets (from the sides) never fire.
+AL2T-GA2W
+
+// Jump higher. Also works on &quot;angled&quot; jumps (&quot;A&quot; Button).
+034A-AAFE
+
+// Jump much higher. Also works on &quot;angled&quot; jumps (&quot;A&quot; Button).
+SK4A-AAFE
+
+// Start with no &quot;weapon&quot; arm. Don't try to select any arms in the selection screen.
+ACMA-GAFE
+ACMA-GAHG
+
+// Start with no torso.
+ACMA-GAFR
+
+// Start with no legs.
+ACMA-GAFY
+
+// Most enemy Cyborgs walk VERY slow. Any Cyborg (including yours) that uses Jogging legs, Somersault legs, Tank legs, or Pneumatic legs, walks VERY slowly. Very useful if you pick one of the other legs.
+EB4A-AAFG
+
+// Most enemy Cyborgs walk faster. Any Cyborg (including yours) that uses Jogging legs, Somersault legs, Tank legs, or Pneumatic legs, walks faster.
+AB4A-AJFG
+
+// Any Cyborg (including yours) that uses Spiked legs, will walk faster.
+AB4A-AJFJ
+
+// Any Cyborg (including yours) that uses Big Foot legs, will walk faster.
+AB4A-AJFL
+
+// Infinite Continues
+ALXT-GA5A
+
+// Start On Level 1-2 (Arcade Mode)
+AGMA-GABN
+
+// Start On Level 1-3 (Arcade Mode)
+ALMA-GABN
+
+// Start On Level 2-1 (Arcade Mode)
+AGMA-GABW
+
+// Start On Level 3-1 (Arcade Mode)
+ALMA-GABW
+
+// Start On Level 4-1 (Arcade Mode)
+ARMA-GABW
+
+// Start On Level 5-1 (Arcade Mode)
+AWMA-GABW
+
+// Start On Main Boss (Arcade Mode)
+A0MA-GABW
+
+// Infinite Lives (Arcade Mode)
+RE5A-A6WT
+
+// Hand Modifier
+FFD3C8:0001
+
+// Body Modifier
+FFD3C8:0001
+
+// Legs Modifier
+FFD3CA:0001
+
+// Infinite Health
+FFAF9E:0063
+
+// Infinite Lives
+FFAF5A:0007
+
+// Fake Infinite Health
+FFA730:0063
+
+// No Health Enemies
+FFB1F6:0000
+FFB2BE:0000
+FFB12E:0000
+FFB066:0000
+FFBB56:0000
+
+// Fake Infinite Health
+FFA732:0000
+
+// Pause during gameplay and press any button (A, B, or C) to activate cheat menu. See notes.
+CL0T-GA5C
+
+// Enemies start with half as much energy
+993A-H8LN
+
+// Enemies start with very little energy
+993A-G8CN
+
+// Don't fall when you walk off a ledge (Walk on air). See notes.
+M5TT-GA8L
+
+// Infinite Health Fake P1
+FFA730:00DF
+
+// Infinite Health Fake P1
+AKBT-AA68
+AKBT-AA72

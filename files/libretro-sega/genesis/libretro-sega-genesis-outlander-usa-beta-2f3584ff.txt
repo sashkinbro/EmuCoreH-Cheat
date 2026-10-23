@@ -1,0 +1,48 @@
+// Infinite health
+FF0760:01FF
+
+// Infinite gas.
+A26T-AA4J
+
+// Start a new game with twice as much car health
+92CA-AGC0
+
+// Take almost no damage while driving.
+AJ2T-AA4L
+AD1A-AAC0
+
+// Start a new game with the super charger
+P2CA-BJVT
+
+// Start a new game with lots of nitro.
+P2CA-BAV2
+
+// Start a new game with lots of Surface to Air Missiles (SAMs).
+P2CA-BAVY
+
+// Infinite shotgun ammo when walking
+ABJT-AABA
+
+// Infinite health (when walking).
+AK0A-AA9E
+
+// Take less damage while driving car.
+AJ2T-AA4L
+
+// Car starts with max machine gun ammo.
+EACA-ALCL
+
+// Car has infinite machine gun ammo.
+ALVA-AA86
+
+// Car starts with max shotgun ammo.
+YACA-AACT
+
+// Car has infinite shotgun ammo.
+ALXA-AA70
+
+// Infinite nitro (once you have it).
+AJ2A-AA9R
+
+// See stuff the development team wrote while making the game
+AAYT-AAE6

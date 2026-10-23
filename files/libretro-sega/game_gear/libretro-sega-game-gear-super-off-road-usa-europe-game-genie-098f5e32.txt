@@ -1,0 +1,17 @@
+// Start With 5 Nitros
+05A-D8F-80E
+
+// Start With 10 Nitros
+0AA-D8F-80E
+
+// Start With 15 Nitros
+0FA-D8F-80E
+
+// Infinite Nitros
+215-B0C-91D
+
+// Almost Infinite Money
+001-98B-A2C
+
+// Infinite Time (Ignore Counter)
+004-50E-A22

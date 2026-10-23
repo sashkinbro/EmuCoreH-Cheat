@@ -1,0 +1,11 @@
+// Infinite Energy
+00DA-7E03
+
+// Infinite Lives
+00DA-7D03
+
+// Infinite Continues
+00DA-7C03
+
+// Invincible
+00DA-C303

@@ -1,0 +1,11 @@
+// Infinite Lives
+00CD-0909
+
+// Infinite Energy
+00CC-F317
+
+// Send Opponents 'Flying'
+00CF-98FB
+
+// Infinite Timer
+00CE-EE01

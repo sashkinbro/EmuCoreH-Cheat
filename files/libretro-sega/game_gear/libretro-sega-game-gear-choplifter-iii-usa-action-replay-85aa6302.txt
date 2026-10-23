@@ -1,0 +1,5 @@
+// Infinite Lives
+00D2-0509
+
+// Infinite Health (Ignore Display)
+00D1-6B05

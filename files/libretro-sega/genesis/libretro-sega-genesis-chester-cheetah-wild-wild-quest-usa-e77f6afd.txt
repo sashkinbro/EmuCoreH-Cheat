@@ -1,0 +1,90 @@
+// Infinite Lives (Except Rally Level)
+AA6T-AAFY
+
+// Start with 0 continues
+AA5A-AABG
+
+// Start with 5 continues
+AY5A-AABG
+
+// Start with 9 continues
+BE5A-AABG
+
+// Infinite continues
+AWBT-CA8R
+
+// Infinite time
+ABAA-AAAE
+
+// Infinite Time And Infinite Lives (Except Rally Level)
+ABAA-AABG
+
+// Small paws worth about 5 instead of 1
+A1VT-CAFR
+
+// Small paws worth about 10
+CDVT-CAFR
+
+// Medium paws worth about 6 instead of 3
+A5WA-CAA4
+
+// Medium paws worth about 15
+B9WA-CAA4
+
+// Big paws worth about 20 instead of 10
+CXWA-CAEG
+
+// Big paws worth about 30
+D5WA-CAEG
+
+// Start each level with the map piece
+AE5A-AADG
+
+// Infinite cheese puffs on pickup (Except Rally Level)
+AG2A-AAER
+
+// Begin Every Level With 1 Life
+AJ6A-AABT
+AE6A-AABY
+
+// Begin Every Level With 2 Lives
+AJ6A-AABT
+AJ6A-AABY
+
+// Begin Every Level With 5 Lives
+AJ6A-AABT
+AY6A-AABY
+
+// Begin Every Level With 7 Lives
+AJ6A-AABT
+A66A-AABY
+
+// Begin Every Level With 9 Lives
+AJ6A-AABT
+BE6A-AABY
+
+// Infinite Lives
+REMT-A6ZL
+
+// Infinite Energy
+HF5A-BEXC
+
+// Invincibility
+ACXA-AN7Y
+
+// Level Highlighter
+FF78FE:0000
+
+// Infinite Time
+FFFB94:0095
+
+// Infinite Lives
+FFFB98:0009
+
+// Have 999 Cheese Paws
+FFFB96:0009
+FFFB96:0099
+
+// Invincibility
+R02T-E6Y4
+R02A-E6W4

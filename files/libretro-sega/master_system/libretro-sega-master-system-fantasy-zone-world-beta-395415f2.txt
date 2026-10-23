@@ -1,0 +1,14 @@
+// Round Modifier
+00C0-6300
+00C0-6400
+
+// Infinite Lives
+B65-DBD-3BE
+
+// Infinite Weapon Time
+000-26E-3BE
+
+// Infinite Money
+0A5-79F-E62
+0A5-7FF-E62
+0A5-85F-E62

@@ -1,0 +1,11 @@
+// Team 1 Score Modifier
+FFF986:0000
+
+// Team 2 Score Modifier
+FFF8EE:0000
+
+// Never Miss A Shot
+PD2A-GA6L
+HD2A-GTHY
+AX2A-GVH0
+PH2A-H7S2

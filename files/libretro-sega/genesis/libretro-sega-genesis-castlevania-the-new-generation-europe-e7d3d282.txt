@@ -1,0 +1,61 @@
+// Anti-Lockout Code For US System
+A2CT-AA44
+
+// Infinite HP
+REST-C6XY
+
+// Infinite Lives
+AA0A-DA48
+
+// Infinite Gems
+RG5T-C6ZG
+
+// Infinite Continues
+AXJA-AA56
+
+// High jump
+AA9T-CYRR
+
+// Super High Jump
+AA9T-D2GR
+
+// Checksum Bypass
+CTBT-AA4L
+
+// Invincibility
+RYYT-G610
+RYLA-G6W8
+RY2T-C61E
+
+// No Knockback From Getting Hit
+AAZA-CAF8
+JTYA-CAHE
+JTYA-CAHN
+
+// Multi-Jump - John
+AYET-CAF0
+0AET-DEF2
+HAKA-LTFT
+ATKA-LAFW
+NEKA-MBFY
+A2KA-LR70
+9EKA-L6Z2
+AEKA-LAF4
+N2KA-LYF6
+9EKA-L6Z8
+AEKA-LAGA
+AJKA-M4RC
+
+// Multi-Jump - Eric
+AYNT-CAH2
+2TNT-DEH4
+HAKA-LTGE
+ATKA-LAGG
+NEKA-MBGJ
+A2KA-LR8L
+9EKA-L60N
+AEKA-LAGR
+XJKA-MYGT
+9EKA-L60W
+AEKA-LAGY
+H2KA-LC00

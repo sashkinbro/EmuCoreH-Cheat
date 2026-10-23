@@ -1,0 +1,29 @@
+// Infinite Energy
+AKPA-AA24
+
+// Infinite H.P Extra
+AW0T-CA5N
+AXHA-CA8L
+AKZA-AA94
+AJGA-EA24
+
+// Infinite S.P
+AJRT-CA20
+AJRA-CA8N
+AJXT-CA22
+AJ2A-CA90
+AJ2T-CA4N
+AJ7A-CA4E
+AXJT-CA7N
+
+// Infinite Special Weapons
+ALDA-AA98
+
+// Infinite Item
+AKET-AA9N
+AKFA-AA5Y
+
+// Infinite Keys
+RFXA-A6V8
+RHFA-A6X4
+RHFA-A6X2

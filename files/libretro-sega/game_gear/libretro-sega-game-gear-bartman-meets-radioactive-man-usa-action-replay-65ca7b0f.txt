@@ -1,0 +1,5 @@
+// Infinite Lives
+00C1-DB09
+
+// Infinite Hits
+00DF-9504

@@ -1,0 +1,17 @@
+// Infinite Stars
+00C2-0899
+
+// Infinite Credits
+00C0-2809
+
+// Infinite Time
+00CA-DF0A
+
+// Infinite Hits
+00CA-DC04
+
+// Invincible
+00CA-E501
+
+// Infinite Lives
+00C0-2902

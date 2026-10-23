@@ -1,0 +1,8 @@
+// Infinite Energy
+00C0-5509
+
+// Level Select
+00C0-5600
+
+// Invincibility
+C99-15D-2A2

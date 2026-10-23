@@ -1,0 +1,14 @@
+// Infinite Time
+00C3-5463
+
+// Get 1 Tile To Beat Level
+00C3-4201
+
+// Infinite Lives
+00C3-9709
+
+// Infinite Lives
+005-26F-19E
+
+// Infinite Time
+007-1CE-3BE

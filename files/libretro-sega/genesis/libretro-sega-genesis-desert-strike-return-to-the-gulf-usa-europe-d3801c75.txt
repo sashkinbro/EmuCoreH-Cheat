@@ -1,0 +1,193 @@
+// Start with 1 life instead of 3
+AE1A-AADC
+
+// Start with 2 lives
+AJ1A-AADC
+
+// Start with 5 lives
+AY1A-AADC
+
+// Start with 9 lives
+BE1A-AADC
+
+// Infinite lives
+D3ZA-AA7E
+
+// Chain gun capacity is 600 rounds instead of 1,178
+MBST-WEEN
+
+// Chain gun capacity is 2,000 rounds
+4BST-WREN
+
+// Chain gun capacity is 5,000 rounds
+VBST-XGEN
+
+// Chain gun inflicts 2 points of damage instead of 3
+AKST-WAER
+
+// Chain gun inflicts 6 points of damage
+A3ST-WAER
+
+// Chain gun inflicts 12 points of damage
+BVST-WAER
+
+// Hydra capacity is 20 rockets instead of 38
+CVST-WAFL
+
+// Hydra capacity is 100 rockets
+NVST-WAFL
+
+// Hydra capacity is 300 rockets
+FVST-WCFL
+
+// Hydra rocket inflicts 10 points of damage instead of 25
+BKST-WAFN
+
+// Hydra rocket inflicts 50 points of damage
+GKST-WAFN
+
+// Hydra rocket inflicts 100 points of damage
+NVST-WAFN
+
+// Hellfire capacity is 4 missiles instead of 8
+AVST-WAGJ
+
+// Hellfire capacity is 25 missiles
+DFST-WAGJ
+
+// Hellfire capacity is 99 missiles
+NPST-WAGJ
+
+// Hellfire missile inflicts 50 points of damage instead of 100
+GKST-WAGL
+
+// Hellfire missile inflicts 200 points of damage
+3BST-WAGL
+
+// Hellfire missile inflicts 400 points of damage
+WBST-WCGL
+
+// Infinite capacity for all weapons
+AMLT-AA44
+
+// Fuel capacity is 50 units instead of 100
+GKET-AAAC
+
+// Fuel capacity is 200 units
+3BET-AAAC
+
+// Fuel capacity is 500 units
+8VET-ACAC
+
+// Helicopter consumes fuel faster
+AVET-AAF8
+
+// Helicopter consumes fuel slower
+AFET-AAF8
+
+// Helicopter consumes no fuel
+ABET-AAF8
+
+// Maximum armor protection is 300 instead of 600
+FVET-ACGT
+
+// Maximum armor protection is 1,200
+0BET-AJGT
+
+// Maximum armor protection is 2,500
+2VET-AWGT
+
+// Helicopter carries 1 passenger instead of 6
+AHSA-AAFR
+
+// Helicopter carries 3 passengers
+ASSA-AAFR
+
+// Helicopter carries 10 passengers
+BMSA-AAFR
+
+// Red cross box worth 2 extra lives instead of 1
+SHRA-BJYR
+
+// Red cross box worth 4 extra lives
+SHRA-BTYR
+
+// Red cross box worth nothing
+AXRA-AA6R
+
+// Start at campaign 2
+AE1A-AAGG
+
+// Start at campaign 3
+AJ1A-AAGG
+
+// Start at campaign 4
+AN1A-AAGG
+
+// Infinite Armor
+BLXT-AA2N
+R0RT-A6TT
+
+// Invincibility
+R0XT-A6TN
+
+// You And Enemy Have Protection From Shots (Almost Useless)
+BWXT-AA2N
+
+// You Have Protection From Shots
+ALXA-AA98
+
+// Enemies Don't Shoot At You
+JXMT-AABN
+
+// Infinite Lives
+SFZA-AYZE
+
+// Unlimited Fuel
+SFYA-AYY6
+
+// Bonus Armor
+97ET-B88T
+
+// Fly through buildings, rocks, etc.
+ADAA-AA22
+
+// Infinite Fuel
+FF10AA:270F
+
+// Campaign 1 - Infinite Armor
+FFACDC:270F
+
+// Campaign 1 - Infinite Guns
+FFAE9C:270F
+
+// Campaign 2 - Infinite Armor
+FFAE14:270F
+
+// Campaign 2 - Infinite Guns
+FFAFD4:270F
+
+// Campaign 3 - Infinite Armor
+FFB924:270F
+
+// Campaign 3 - Infinite Guns
+FFBAE4:270F
+
+// Campaign 4 - Infinite Armor
+FFB61C:270F
+
+// Campaign 4 - Infinite Guns
+FFB7DC:270F
+
+// Infinite Armor
+ALXA-AA98
+ALRT-AA2C
+
+// Can choose Copilot Jake for Campaign's 1 and 2
+AA3A-AA90
+
+// Copilot Select
+FF107E:0000
+
+// Infinite Load
+ADSA-AA7Y

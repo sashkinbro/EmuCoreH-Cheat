@@ -1,0 +1,23 @@
+// Start With 1 Life
+01B-0BD-E66
+
+// Start With 5 Lives
+05B-0BD-E66
+
+// Start With 9 Lives
+09B-0BD-E66
+
+// Almost Infinite Bulbs
+00B-5ED-3B7
+
+// Start With 1 Bulb
+01B-06D-E66
+
+// Start With 5 Bulbs
+05B-06D-E66
+
+// Start With 9 Bulbs
+09B-06D-E66
+
+// Lose All Your Bulbs On The 1st Level & Move Onto The Next Level
+00B-0FD-5D4

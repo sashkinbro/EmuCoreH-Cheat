@@ -1,0 +1,14 @@
+// Sliced Up Players
+00C1-AA41
+
+// Invincible
+00C4-2264
+
+// Freeze Battle Time
+00C4-093C
+
+// Instant Time Over
+00C4-09FF
+
+// Select any character to play as Dural in Vs Com Mode
+DE4-DC9-5D1

@@ -1,0 +1,80 @@
+// Infinite Health [Ignore Display]
+00DA-A509
+00DA-A309
+
+// Infinite Energy
+00DA-A310
+00DA-A410
+
+// Infinite Lives
+00DA-AD02
+
+// Start with 7 energy points (1st life only)
+20E-347-A2A
+
+// Start with 9 energy points (1st life only)
+30E-347-A2A
+
+// Start with 12 energy points (1st life only)
+40E-347-A2A
+
+// Storm troopers are invincible
+210-D48-91D
+
+// Everything on the screen will disappear apart from you and the obstacles
+C90-B2E-5DD
+
+// Start with 7 energy points (after 1st life)
+20F-48A-A2A
+
+// Start with 9 energy points (after 1st life)
+30F-48A-A2A
+
+// Start with 12 energy points (after 1st life)
+40F-48A-A2A
+
+// Infinite lives
+3AF-6BA-2A2
+
+// Start with 6 lives
+05E-237-E62
+
+// Start with 10 lives
+30A-12B-A2A
+
+// Start with 22 energy points (1st life only)
+40A-12B-A2A
+
+// Start with 27 energy points (1st life only)
+50A-12B-A2A
+
+// Start with 16 energy points (after 1st life)
+30F-6FA-A2A
+
+// Start with 22 energy points (after 1st life)
+40F-6FA-A2A
+
+// Start with 27 energy points (after 1st life)
+50F-6FA-A2A
+
+// Infinite energy (all players)
+00D-92B-3B7
+3AD-93B-2A2
+
+// Stage Select Enabled
+00DE-7C01
+
+// Stage Select Enabled
+CDA-7DA-F79
+
+// Invincibility (after being hit) (blinking)
+3AC-B7C-2A2
+
+// Invincibility (blinking)
+00DA-B50C
+
+// Invincibility (after being hit)
+C9C-ADC-E69
+
+// Invulnerability
+C96-C6B-E69

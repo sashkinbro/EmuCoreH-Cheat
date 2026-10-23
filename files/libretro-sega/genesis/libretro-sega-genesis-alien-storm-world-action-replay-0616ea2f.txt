@@ -1,0 +1,12 @@
+// Full Energy & Life Bar
+00352A:31FC
+00352C:FFFF
+
+// Unlimited Continues
+003A2E:6002
+
+// Unlimited Energy P1
+FFCE0C:0080
+
+// Unlimited Energy P2
+FFCE8C:0080

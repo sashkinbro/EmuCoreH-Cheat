@@ -1,0 +1,26 @@
+// Stop Timer And Keep Sno-Bee Eggs Flashing
+00C-F9D-E6E
+
+// Start With 2 Lives
+020-85F-F7E
+
+// Start With 7 Lives
+070-85F-F7E
+
+// Start With 9 Lives
+090-85F-F7E
+
+// Infinite Lives
+007-3EF-3BE
+
+// Start On Act 10
+0A0-8AF-E6E
+
+// Start On Act 20
+130-8AF-E6E
+
+// Start On Act 40
+280-8AF-E6E
+
+// Start On Act 64
+400-8AF-E6E

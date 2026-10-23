@@ -1,0 +1,35 @@
+// Invincible
+00C4-1601
+
+// Timer Doesn't Decrease
+00C3-9100
+
+// Invulnerability
+B68-E4B-3B4
+
+// Infinite Time
+C9B-56E-6EE
+
+// Infinite Time
+00C3-9260
+
+// Infinite Points
+00C3-9A99
+
+// Have No Damage
+00C3-9600
+
+// Enable Track Select on Title Screen
+00C3-7304
+
+// Infinite Time
+B6B-59E-3BE
+
+// Take No Damage
+7E4-0DE-3B7
+
+// Infinite Points
+2A1-88A-6E2
+
+// Enable Track Select on Title Screen
+003-BDB-F7A

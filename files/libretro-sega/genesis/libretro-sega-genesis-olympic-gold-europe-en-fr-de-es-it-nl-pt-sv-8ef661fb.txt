@@ -1,0 +1,86 @@
+// Players are more powerful
+JBJA-AEBW
+
+// Players are less powerful
+2BJA-AABW
+
+// Player never tires in Swimming
+BKSA-AA3T
+
+// Archery consists of 1 Shot, instead of 6
+AEMT-AABW
+AGFT-AACJ
+
+// Archery consists of 2 Shots
+AJMT-AABW
+ALFT-AACJ
+
+// Archery consists of 3 Shots
+ANMT-AABW
+ARFT-AACJ
+
+// Archery consists of 4 Shots
+ATMT-AABW
+AWFT-AACJ
+
+// Archery consists of 8 Shots
+BAMT-AABW
+BCFT-AACJ
+
+// Archery consists of 10 Shots
+BJMT-AABW
+BLFT-AACJ
+
+// Archery consists of 12 Shots
+BTMT-AABW
+BWFT-AACJ
+
+// Player always in Lane 6
+AYHA-BA2C
+
+// Hammer Throw and Archery consist of 1 Round
+AFPA-CAEL
+
+// Hammer Throw and Archery consist of 2 Rounds
+AKPA-CAEL
+
+// Hammer Throw and Archery consist of 5 Rounds
+AZPA-CAEL
+
+// Hammer Throw and Archery consist of 7 Rounds
+A7PA-CAEL
+
+// Hammer Throw and Archery consist of 9 Rounds
+BFPA-CAEL
+
+// 1 Attempt at each Pole Vault Height
+AFTT-CAHL
+87VA-CAFR
+
+// 2 Attempts at each Pole Vault Height
+AKTT-CAHL
+B7VA-CAFR
+
+// 5 Attempts at each Pole Vault Height
+AZTT-CAHL
+B7VA-CAFR
+
+// 7 Attempts at each Pole Vault Height
+A7TT-CAHL
+B7VA-CAFR
+
+// 9 Attempts at each Pole Vault Height
+BFTT-CAHL
+B7VA-CAFR
+
+// Diving consists of 1 Round
+AFPA-CAD4
+
+// Diving consists of 2 Rounds
+AKPA-CAD4
+
+// Diving consists of 3 Rounds
+APPA-CAD4
+
+// Diving consists of 4 Rounds
+AVPA-CAD4

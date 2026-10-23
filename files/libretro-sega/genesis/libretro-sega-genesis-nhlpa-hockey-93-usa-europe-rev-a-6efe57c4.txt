@@ -1,0 +1,99 @@
+// Period clock runs faster
+ZJNA-DTC2
+
+// Period clock runs slower
+ZJNA-CJC2
+
+// Period clock runs much faster
+ZJNA-DTL2
+
+// Period clock runs much slower
+ZJNA-CCC2
+
+// Period clock is frozen (no time limit)
+AANA-CAC2
+
+// Each period lasts 1 minute instead of 10 minutes
+HVWT-AAD0
+
+// Each period lasts 2 minutes
+SBWT-AAD0
+
+// Each period lasts 3 minutes
+0VWT-AAD0
+
+// Each period lasts 4 minutes
+8BWT-AAD0
+
+// Each period lasts 15 minutes
+TVWT-AGD0
+
+// Each period lasts 30 minutes
+BBWT-ARD0
+
+// Each period lasts 40 minutes
+NBWT-AWD0
+
+// Each period lasts 60 minutes
+CBWT-A6D0
+
+// All penalties last 1 minute
+AHXT-BJ5J
+
+// All penalties last 2 minutes
+AMXT-BJ5J
+
+// All penalties last 3 minutes
+ASXT-BJ5J
+
+// All penalties last 4 minutes
+AXXT-BJ5J
+
+// All penalties last 5 minutes
+A1XT-BJ5J
+
+// All penalties last 7 minutes
+A9XT-BJ5J
+
+// All penalties last 9 minutes
+BHXT-BJ5J
+
+// Infinite timeouts instead of 1
+AWEA-AA7Y
+
+// No timeouts
+AKYT-AA3Y
+
+// The Puck Will Always Stay On The Ice (when shooting)
+A4JT-AA7E
+
+// Infinite Energy Bars
+AJKT-CA5R
+
+// Players Get Tired Twice As Fast
+JMLA-AAHC
+
+// Energy Bars Only Recharge Half As Fast When Your Players Are Resting.
+AVXA-AAFR
+
+// Energy Bars Recharge Twice As Fast When Your Players Are Resting.
+CKXA-AAFR
+
+// Energy Bars Recharge 3X As Fast When Your Players Are Resting
+DPXA-AAFR
+
+// Cpu Never Scores
+AD2A-AAFG
+WX2A-APZJ
+
+// Infinite Time (Minutes)
+FFC334:0009
+
+// Infinite Time (Seconds)
+FFC334:0044
+
+// Team 1 Score Modifier
+FFC4F2:0063
+
+// Team 2 Score Modifier
+FFC694:0000

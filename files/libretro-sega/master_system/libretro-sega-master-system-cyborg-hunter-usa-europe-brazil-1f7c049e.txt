@@ -1,0 +1,55 @@
+// Infinite Psycho Power
+00C2-1620
+
+// Have Ray Gun
+00C0-5601
+
+// Have Light Gun
+00C0-5701
+
+// Have Psycho Gun
+00C0-5801
+
+// Infinite Bombs
+00C0-5909
+
+// Have Id Card 1
+00C0-5A01
+
+// Have Id Card 2
+00C0-5B01
+
+// Have Id Card 3
+00C0-5C01
+
+// Have Shield
+00C0-5D01
+
+// Have Jet Engine
+00C0-5E01
+
+// Infinite Psycho Power
+004-F2E-3BE
+005-FBE-3BE
+
+// Infinite Life
+7ED-CBF-3B7
+3A3-F8C-2A2
+
+// Infinite Bombs
+00F-BEF-3BE
+
+// L Power Ups Fill Life
+203-8FC-C4A
+
+// P Power Up Fills Psycho Power
+203-A5C-C4A
+
+// Have 1 Of Each Item All Doors Open No Main Cyborgs To Beat
+017-F5D-E6A
+
+// Start With Twice As Much Energy And Psycho Power
+408-46D-6EA
+
+// Infinite Health
+00C2-1B21

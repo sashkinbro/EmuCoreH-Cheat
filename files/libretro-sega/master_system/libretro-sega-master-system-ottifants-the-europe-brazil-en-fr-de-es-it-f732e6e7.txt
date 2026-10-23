@@ -1,0 +1,20 @@
+// Invulnerability
+00C8-C816
+
+// Level Skip
+00D1-2E01
+
+// Invulnerability
+00A-23B-3B4
+
+// Level Skip
+B64-21A-3B4
+
+// Infinite Lives
+00D1-2109
+
+// Infinite Health
+00CE-D76F
+
+// FAKE Infinite Health
+00D7-D306

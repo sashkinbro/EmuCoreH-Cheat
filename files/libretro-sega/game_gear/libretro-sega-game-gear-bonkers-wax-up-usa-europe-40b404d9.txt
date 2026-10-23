@@ -1,0 +1,67 @@
+// Infinite Lives
+00C3-7509
+
+// Infinite Health
+00C3-76E8
+
+// Invulnerability
+00D6-0BFF
+
+// Invulnerability
+00F-4C7-2A1
+
+// Start with 1/4 energy
+009-87F-E66
+
+// Start with 1/2 energy
+019-87F-E66
+
+// Infinite energy
+213-6A5-6E2
+
+// Infinite lives
+3AB-286-2A2
+
+// Start with 1/4 energy after first life
+00B-746-E66
+
+// Start with 1/2 energy after first life
+01B-746-E66
+
+// Dont flash after getting hit
+000-045-197
+
+// Flash a lot longer after getting hit
+990-045-197
+
+// 1 hit and you become invincible
+00F-4B7-3BE
+00F-4F7-3BA
+
+// Almost invincible
+C35-285-E61
+
+// Start with 1 life
+009-8CF-E66
+
+// Start with 5 lives
+049-8CF-E66
+
+// Start with 10 lives
+099-8CF-E66
+
+// 1 Hit &amp; You Become Invincible
+00F-4B7-3BE
+00F-4F7-3BA
+
+// Infinite Lives
+00B-1A6-19E
+
+// Infinite Health
+2A3-6A5-6E2
+
+// Get 1 clue to complete current level
+01E-F37-F76
+
+// Jump Higher
+001-495-E68

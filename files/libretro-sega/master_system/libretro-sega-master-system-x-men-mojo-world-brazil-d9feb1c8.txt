@@ -1,0 +1,14 @@
+// FAKE Mutant Power (Blue Bar) Modifier
+00C3-2123
+
+// Infinite Mutant Power (Blue Bar)
+00DF-8C4B
+
+// Infinite Health
+00DF-8B79
+
+// Invincibility
+00C3-0B02
+
+// Infinite Health
+3A9-087-2A2

@@ -1,0 +1,71 @@
+// Infinite Lives
+ACDA-AN66
+
+// Invincibility
+DVJA-AN4J
+BKJA-AN4Y
+
+// Infinite Energy
+ALBA-AA26
+ALCT-AA34
+
+// Infinite Energy
+FF4852:0048
+
+// Infinite Lives
+FF21FE:0009
+
+// Invincibility NO flashing
+FF47C2:00FF
+
+// Invincibility flashing
+FF47C2:0010
+
+// Invincibility
+RZKT-A610
+RZJA-A6W4
+
+// Enabled Cheat Code Skip Levels In Pause Hold  A+B+C Start
+RFDT-A60N
+
+// Freeze Time Continue
+AJXA-AA42
+
+// Infinite Continue
+AJ6A-AA5C
+
+// Can select up to 15 lives in the Options menu.  See notes.
+B8BA-CAE0
+
+// Can Select Up To 9 Continues In The Options Menu
+BLBA-CAG2
+
+// Bosses Are Much Easier To Kill
+RFMA-A6XJ
+
+// Pause The Game To Get The Bone Weapon
+L44A-6TXJ
+
+// Pause The Game To Get The Flame Weapon
+AL4A-6ADE
+L44A-6TXJ
+
+// Pause The Game To Get The Wheel Weapon
+AW4A-6ADE
+L44A-6TXJ
+
+// Pause The Game To Get The Boomerang Weapon
+A04A-6ADE
+L44A-6TXJ
+
+// Only Take Half As Much Damage From Most Attacks
+BVCT-AADR
+
+// Invincibility Lasts Twice As Long After You're Hit
+TCCT-AAEW
+
+// Invincibility Lasts 10x As Long After You're Hit
+ACCT-AJEW
+
+// Don't Lose Any Health When You Overcharge Your Weapon. See notes.
+ALBA-AA26

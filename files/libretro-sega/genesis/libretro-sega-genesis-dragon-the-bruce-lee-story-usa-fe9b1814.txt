@@ -1,0 +1,65 @@
+// Both players start with 1/4 energy
+VADT-AABT
+
+// Both players start with 1/2 energy
+AADT-ACBT
+
+// Both players start with 3/4 energy
+VADT-ACBT
+
+// Super power
+ACPT-AAA8
+
+// Infinite Energy
+9TLA-BCJ0
+AALA-AEA2
+A2LA-AFA4
+
+// Infinite Energy
+FF8206:0200
+
+// Hit Anywhere P1
+9T3A-B1PT
+963A-B97W
+RA3A-ADFY
+RE3A-A6Z0
+PA3A-AAF4
+
+// Push A to turn in to the phantom
+AW7A-AA02
+
+// Standing Weak Kick Does More Damage
+98AT-TCAR
+
+// Standing Weak Punch Does More Damage
+977T-TCEW
+
+// Crouching Weak Kick Does More Damage
+978A-TCC4
+
+// Crouching Weak Punch Does More Damage
+C38A-V92T
+
+// Fake Infinite Health
+FF829C:0063
+
+// Fake No Health P2
+FF8478:0000
+
+// Freeze P2
+FF8366:003F
+
+// Disable Bosses
+REWT-A60E
+
+// 1 Hit Full Chi
+RGPT-A6WG
+
+// 1 Hit Full Chi
+FFBBCA:00FF
+
+// Enable Blood (North American version only)
+FFBBCC:00FF
+
+// Enable Blood (North American version only)
+RF8A-A6VW

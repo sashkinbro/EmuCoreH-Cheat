@@ -1,0 +1,24 @@
+// Infinite Lives
+J5CA-AA6E
+
+// Infinite Shields
+AB1T-AA7L
+
+// Infinite Bombs
+AMKT-AA5T
+
+// Infinite Lives
+FFF40C:0003
+
+// Infinite Shields
+FFF402:0003
+
+// Infinite Bombs
+FFF40C:0063
+
+// Invincibility
+RZ1T-A6Y2
+
+// Enabled Expert
+AJ9T-AA9R
+BXYT-AA4W

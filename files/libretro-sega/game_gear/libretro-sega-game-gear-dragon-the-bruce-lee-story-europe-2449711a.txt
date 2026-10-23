@@ -1,0 +1,17 @@
+// Infinite Health
+00D1-4802
+
+// Infinite Lives
+00CC-A909
+
+// Invulnerability (Blinking)
+00CC-A617
+
+// Invulnerability
+C39-D64-E61
+
+// Infinite Health
+005-FA4-19E
+
+// Infinite Lives
+007-6B4-3BE

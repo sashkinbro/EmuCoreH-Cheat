@@ -1,0 +1,2 @@
+// No Score P2/CPU
+FF4A56:0000

@@ -1,0 +1,11 @@
+// Player 1 Infinite Health
+00DC-3E40
+
+// Infinite Time
+00DD-8299
+
+// Infinite Time
+000-61D-E6E
+
+// Hit Anywhere
+00B-349-C49

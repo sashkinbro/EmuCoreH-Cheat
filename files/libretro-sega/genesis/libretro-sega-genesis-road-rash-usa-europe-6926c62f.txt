@@ -1,0 +1,428 @@
+// Bike Starts Out And Stays In Overdrive!
+3JPA-AAGW
+
+// Finish 1st Place On Sierra Nevada
+AEPA-AAG4
+
+// Finish 1st Place On Palm Desert Track
+AEPA-AAHW
+
+// Player 1 starts with $623,900
+02PA-BH8L
+
+// Diablo 1000 is free
+ACBT-AABA
+
+// Panda 750 is free
+ACBT-AAA8
+
+// No Damage From Hitting Cars Head On
+AVCA-CA7W
+
+// No Damage From Hitting Road Signs
+AVAT-CA6L
+
+// The Starting Bike (Shuriken 400) Will Accelerate Much Faster From A Standing Start
+M3PT-EAGR
+
+// The Starting Bike Will Accelerate Much Faster On Top End (6th Gear)
+LVPT-EAG2
+
+// The Starting Bike Will Have A Top Speed Of 150 MPH (Instead Of Only 120)
+XBPT-FYSE
+
+// The Starting Bike Will Have A Top Speed Of 210 MPH (Instead Of Only 120)
+BBPT-FE1E
+
+// The Starting Bike Will Not Slide Out (Much Better Traction On Turns)
+EBPA-EAGR
+
+// Sierra Nevada track is 12 Miles long, and perfectly straight
+AJPA-BAFG
+
+// New Level, goes beyond normal end of Tracks [only on Sierra Nevada and Pacific Coast].
+BAPA-AAFG
+
+// Can race Palm Desert with no Cops, and traffic on one side only!
+BAPA-BAFG
+
+// Sierra Nevada Is Perfectly Straight, And 16 Miles. Left lane is clear of traffic.
+ATPA-BAFG
+
+// Redwood is much straighter
+ANPA-BAFG
+
+// Palm Desert is almost straight
+AYPA-BAFG
+
+// Pacific Coast &amp; Sierra Nevada are much straighter. [16 miles long]
+A2PA-BAFG
+
+// Palm Desert is only 2.4 miles long [instead of 5.7]
+ANPA-AAZG
+
+// Redwood is only 2.7 miles long [instead of 5.4]
+AEPA-BAZG
+
+// Sierra Nevada &amp; Grass Valley tracks are straight. And left lane has no cars.
+ATPA-AAZG
+
+// Road looks like it's frozen solid
+AELA-AAGW
+
+// The road is yellow instead of black
+AELA-AT0W
+
+// Test Bike #1
+72PA-AAGW
+
+// Test Bike #2
+ATPA-ANGW
+
+// Test Bike #3
+AEPA-BA0W
+
+// Test Bike #4
+ATPA-AP0W
+
+// Test Bike #5
+AEPA-BB0W
+
+// Test Bike #6
+ATPA-AA0W
+
+// Test Bike #7
+AYPA-AA0W
+
+// Test Bike #8
+AEPA-AB0W
+
+// Test Bike #9
+3JPA-AA0W
+
+// Faster Bike
+7JPA-BAGW
+
+// Another Super Fast Bike
+AEPA-BAGW
+
+// Nitrous Oxide Bike! Super Fast
+ATPA-AN0W
+
+// NITRO Bike!
+BJPA-ABGW
+
+// Player A starts at level 2
+AJPA-AAFG
+
+// Player A starts at level 3
+ANPA-AAFG
+
+// Player A starts at level 4
+ATPA-AAFG
+
+// Player A starts at level 5
+AYPA-AAFG
+
+// Player B starts at level 2
+AJPT-AAGC
+
+// Player B starts at level 3
+ANPT-AAGC
+
+// Player B starts at level 4
+ATPT-AAGC
+
+// Player B starts at level 5
+AYPT-AAGC
+
+// Player A starts with $5,000 instead of $1,000
+8TPA-ACGL
+
+// Player A starts with $10,000
+7APA-AGGL
+
+// Player A starts with $25,000
+2TPA-AWGL
+
+// Player A starts with $50,000
+VAPA-BGGL
+
+// Player A starts with no money
+AAPA-AAGL
+
+// Player B starts with $5,000 instead of $1,000
+8TPT-ACHG
+
+// Player B starts with $10,000
+7APT-AGHG
+
+// Player B starts with $25,000
+2TPT-AWHG
+
+// Player B starts with $50,000
+VAPT-BGHG
+
+// Player B starts with no money
+AAPT-AAHG
+
+// Player A starts with Panda 600 bike instead of Shuriken 400
+AEPA-AAGW
+
+// Player A starts with Bonzai 750 bike
+AJPA-AAGW
+
+// Player A starts with Kamikaze 750 bike
+ANPA-AAGW
+
+// Player A starts with Shuriken 1000 bike
+ATPA-AAGW
+
+// Player A starts with Ferruci 850 bike
+AYPA-AAGW
+
+// Player A starts with Panda 750 bike
+A2PA-AAGW
+
+// Player A starts with Diablo 1000 bike
+A6PA-AAGW
+
+// Player B starts with Panda 600 bike instead of Shuriken 400
+AEPT-AAHR
+
+// Player B starts with Bonzai 750 bike
+AJPT-AAHR
+
+// Player B starts with Kamikaze 750 bike
+ANPT-AAHR
+
+// Player B starts with Shuriken 1000 bike
+ATPT-AAHR
+
+// Player B starts with Ferruci 850 bike
+AYPT-AAHR
+
+// Player B starts with Panda 750 bike
+A2PT-AAHR
+
+// Player B starts with Diablo 1000 bike
+A6PT-AAHR
+
+// Players need to finish 8th or better [instead of 4th] on Sierra Nevada road
+BDCT-AACA
+
+// Players need to finish 15th or better on Sierra Nevada road
+B9CT-AACA
+
+// Players don't need to run Sierra Nevada road
+BMCT-AA34
+
+// Players need to finish 8th or better [instead of 4th] on Pacific Coast road
+BDCT-AACT
+
+// Players need to finish 15th or better on Pacific Coast road
+B9CT-AACT
+
+// Players don't need to run Pacific Coast road
+BMCT-AA4L
+
+// Players need to finish 8th or better [instead of 4th] on Redwood Forest road
+BDCT-AADA
+
+// Players need to finish 15th or better on Redwood Forest road
+B9CT-AADA
+
+// Players don't need to run Redwood Forest road
+BMCT-AA44
+
+// Players need to finish 8th or better [instead of 4th] on Palm Desert road
+BDCT-AADT
+
+// Players need to finish 15th or better on Palm Desert road
+B9CT-AADT
+
+// Players don't need to run Palm Desert road
+BMCT-AA5L
+
+// Players need to finish 8th or better [instead of 4th] on Grass Valley road
+BDCT-AAEA
+
+// Players need to finish 15th or better on Grass Valley road
+B9CT-AAEA
+
+// Players don't need to run Grass Valley road
+BMCT-AA54
+
+// Invincibility Against Almost Everything
+RZAA-C61R
+RZCA-C6YG
+RZGA-C61N
+RYPT-C6X4
+
+// Freeze Cpu Racers
+AJMT-CA2A
+
+// Always Win 1st Place
+AA1T-CABJ
+
+// Knockdown Other Bikers With One Hit
+AKGA-CA7J
+
+// Most tracks are much straighter.
+CLVA-AA8A
+
+// Slows Down All The Other Riders So It's Much Easier To Win 1st Place
+WMFT-AEVL
+
+// Walk Faster
+4AJA-DYHR
+
+// Walk (Run) MUCH Faster
+4AJA-DNSR
+
+// All Traffic Is Gone (No Cars)
+AJ7A-CA4N
+
+// Ride During A Thunderstorm
+AELA-AA0W
+
+// Slowed Game Down When Action Replay Is On
+AL7A-AA56
+
+// Auto Race At 200+ MPH
+FF1EBC:0050
+
+// Switch F/X On To Instantly Win Race
+FF1EAE:0034
+
+// Cops Will Never Show Up When Standing Still On Your Bike, Or Walking
+AC7A-AAAG
+
+// Never Fall Off your Bike
+FF1F18:00FF
+
+// Auto Acceleration
+FF1F12:0002
+
+// Ferruci 850 is Free
+ACBT-AAA6
+
+// Shuriken 1000 Is Free
+ACBT-AAA4
+
+// Kamikaze 750 is Free
+ACBT-AAA2
+
+// Banzai 750 Is Free
+ACBT-AAA0
+
+// Panda 600 is Free
+ACBT-AAAY
+
+// Shuriken 400 Is Free
+ACBT-AAAW
+
+// All Rashers & Cops Move Very Slow
+FF1F3C:0000
+FF203C:0000
+FF213C:0000
+FF223C:0000
+FF233C:0000
+FF243C:0000
+FF253C:0000
+FF263C:0000
+FF1FBC:0000
+FF20BC:0000
+FF21BC:0000
+FF22BC:0000
+FF23BC:0000
+FF24BC:0000
+FF25BC:0000
+FF26BC:0000
+
+// Always Finish In 1st Place (As Long As You Finish The Race)
+ADBT-BJ88
+
+// All Bikes Are Free, Even If You Don't Have Enough Money
+C37T-AA8W
+
+// All Bikes Accelerate Faster And Have An Unlimited Top Speed
+9TLA-BGRJ
+AELA-AAGL
+96LA-AAGN
+2JLA-B6GR
+
+// P1 Infinite Money
+FF051A:270F
+
+// P2 Infinite Money
+FF051E:270F
+
+// Infinite Time
+AC7A-AA3J
+
+// Start every race with the Club
+ADJT-ABEN
+
+// Always Have The Club
+SVVA-DGG4
+AKVA-CAG6
+
+// Don't Get Charged For Fines
+RHCA-A6Z4
+
+// Don't Get Charged For Repairs
+RHCA-A61A
+
+// Infinite Health
+FF1F06:000A
+
+// Cops Never Appear
+AJ8A-CA98
+
+// Cops Can't Bust You
+AARA-CA7T
+
+// All Rashers Start Every Race With The Club, Including Human Rashers
+AMFT-AA4C
+
+// Shuriken 400 has slightly better Top-End Acceleration and slightly higher Top Speed
+CKPT-EAG0
+CBPT-EAG2
+ZBPT-E8SE
+9BPT-EYST
+
+// Panda 600 has slightly higher Top Speed
+4VRA-FAJL
+EVRA-E2J0
+
+// Banzai 750 has slightly better Top-End Acceleration
+CKRA-EABC
+CFRA-EABC
+
+// Kamikaze 750 has slightly better Handling
+CBPA-EAH2
+E3PA-EAH4
+0BPA-EAH6
+6BPA-EAH8
+
+// Shuriken 1000 has slightly better Handling
+B7PT-EAAJ
+EPPT-EAAL
+0BPT-EAAN
+8BPT-EAAR
+
+// Ferruci 850 has slightly higher Top Speed
+1VRA-FJPC
+
+// Panda 750 has slightly better Top-End Acceleration and slightly higher Top Speed
+CVRA-EAF4
+CVRA-EAF6
+TVRA-FLRJ
+ABRA-FERY
+
+// Bike Takes Less Damage
+KBBT-CV5E
+
+// Bike Takes No Damage
+ABBT-DA5E

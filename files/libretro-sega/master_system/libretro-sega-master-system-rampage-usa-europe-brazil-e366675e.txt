@@ -1,0 +1,86 @@
+// Infinite Lives For P2
+00C0-A103
+
+// Infinite Energy For P2
+00C0-9760
+
+// Invincibility
+004-B9B-2A2
+
+// Infinite Health P1
+00C0-9660
+
+// Infinite Lives P1
+00C0-A003
+
+// P1 Infinite Health
+3A4-B9B-2A2
+
+// P1 Infinite Lives
+003-0F8-3BE
+
+// P2 Infinite Health
+3A4-BFB-2A2
+
+// P2 Infinite Lives
+002-578-3BE
+
+// City/Day Select - City 01 - San Francisco - Day 3
+00C0-E002
+00C0-E102
+00C0-E200
+
+// City/Day Select - City 02 - Los Angeles - Day 1
+00C0-E005
+00C0-E100
+00C0-E201
+
+// City/Day Select - City 03 - Las Vegas - Day 1
+00C0-E00A
+00C0-E100
+00C0-E202
+
+// City/Day Select - City 04 - Dallas - Day 1
+00C0-E00F
+00C0-E100
+00C0-E203
+
+// City/Day Select - City 05 - St. Louis - Day 1
+00C0-E014
+00C0-E100
+00C0-E204
+
+// City/Day Select - City 06 - Chicago - Day 1
+00C0-E019
+00C0-E100
+00C0-E205
+
+// City/Day Select - City 07 - Detroit - Day 1
+00C0-E01E
+00C0-E100
+00C0-E206
+
+// City/Day Select - City 08 - Baltimore - Day 1
+00C0-E023
+00C0-E100
+00C0-E207
+
+// City/Day Select - City 09 - Philadelphia - Day 1
+00C0-E028
+00C0-E100
+00C0-E208
+
+// City/Day Select - City 10 - New York - Day 1
+00C0-E02D
+00C0-E100
+00C0-E209
+
+// City/Day Select - City 10 - New York - Day 5 (Final Day of Final City)
+00C0-E031
+00C0-E104
+00C0-E209
+
+// City/Day Select - View Ending
+00C0-E032
+00C0-E104
+00C0-E209

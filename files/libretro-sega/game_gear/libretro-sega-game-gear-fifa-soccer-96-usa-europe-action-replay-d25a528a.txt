@@ -1,0 +1,5 @@
+// Team 2 Never Scores
+00C5-EA00
+
+// Information All Scrambled (Game Summary, Menu, Etc.)
+00C5-EC02

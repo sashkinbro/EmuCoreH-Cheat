@@ -1,0 +1,9 @@
+// Always Have $255 Cash
+00C2-B0FF
+
+// Start With $65,535
+FF0-DBF-B3A
+FF0-DCF-E6A
+
+// No Random Battles
+C94-95A-809

@@ -1,0 +1,64 @@
+// Anti-Lockout Code For US System
+A2CT-AA44
+
+// Infinite HP
+REST-C6WG
+
+// Infinite Lives
+AA0A-DA3C
+
+// Infinite Gems
+RG5T-C6YA
+
+// Infinite Continues
+AXJA-AA44
+
+// Infinite Health
+FF9C10:0056
+
+// Infinite Gems
+FFFB0E:0909
+
+// Room Modifier
+FFFB2A:0000
+
+// Infinite Lives
+FFFB2E:0003
+
+// Invincibility
+RYYT-G604
+RYLA-G6WC
+RY2T-C6ZJ
+
+// No Knockback From Getting Hit
+AAZA-CAEC
+JTYA-CAFJ
+JTYA-CAFT
+
+// Multi-Jump - John
+AYET-CAEJ
+GAET-DREL
+HAMT-LTBT
+ATMT-LABW
+NEMT-MBBY
+A2MT-LR30
+9EMT-L6V2
+AEMT-LAB4
+HAMT-LYB6
+9EMT-L6V8
+AEMT-LACA
+22MT-M2LC
+
+// Multi-Jump - Eric
+AYNT-CAGL
+JTNT-DRGN
+HAMT-LTCE
+ATMT-LACG
+NEMT-MBCJ
+A2MT-LR4L
+9EMT-L6WN
+AEMT-LACR
+PTMT-MYCT
+9EMT-L6WW
+AEMT-LACY
+AJMT-LCW0

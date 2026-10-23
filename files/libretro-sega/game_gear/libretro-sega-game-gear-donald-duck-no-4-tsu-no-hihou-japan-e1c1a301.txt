@@ -1,0 +1,23 @@
+// Infinite Lives
+00D2-B103
+
+// Infinite Energy
+00D2-B203
+
+// Invincible
+00D3-6903
+
+// Invulnerability
+C90-315-E69
+
+// Infinite Health From Enemies
+000-FA5-19E
+
+// Infinite Health From Spikes
+000-5C5-19E
+
+// Infinite Lives
+009-259-19E
+
+// Jump Height Modifier
+FA2-027-085

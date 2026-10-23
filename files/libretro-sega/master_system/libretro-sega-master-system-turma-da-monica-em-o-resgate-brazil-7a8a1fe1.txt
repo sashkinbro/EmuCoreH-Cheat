@@ -1,0 +1,5 @@
+// Invincibility
+C95-11D-6E2
+
+// Infinite Health
+00CF-5275

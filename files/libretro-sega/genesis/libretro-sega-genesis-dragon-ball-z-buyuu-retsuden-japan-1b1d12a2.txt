@@ -1,0 +1,67 @@
+// Infinite Energy PL1
+9X4B-ZCB2
+9M4B-YAB4
+TS4B-YS36
+
+// Infinite Power
+9T1T-DCMT
+9E1T-CADW
+T21T-CS5Y
+
+// Freeze Cpu
+ACEA-AR96
+
+// Hit Anywhere P1
+AJRT-CA6R
+AJRT-CA80
+AYRT-CAHC
+SYRT-CS9E
+
+// Hit Anywhere P2
+AJST-CA5Y
+AJST-CA74
+AYST-CAGG
+YYST-CV8J
+
+// Invincibility P1
+AAST-CA74
+
+// Invincibility P2
+AART-CA80
+
+// Health Modifier Player 1
+FFE782:0000
+FFE784:0000
+
+// Health Modifier Player 2
+FFE8AA:0000
+FFE8AC:0000
+
+// Character Modifier Player 1
+FFE7B6:0000
+
+// Character Modifier Player 2
+FFE8DE:0000
+
+// Battle Round Modifiers
+FFEA16:0000
+FFEA1E:0000
+
+// P1 Life Modifier
+FFE782:0000
+FFE782:0000
+
+// P2 Life Modifier
+FFE8AA:0000
+FFE8AA:0000
+
+// P1 Power Modifier
+FFE786:0000
+FFE786:0000
+
+// P2 Power Modifier
+FFE8AE:0000
+FFE8AE:0000
+
+// Regional Lockout Bypass
+AJBT-AA58

@@ -1,0 +1,41 @@
+// Infinite Special
+FFF616:0080
+
+// Infinite Lives
+FFDF8A:0009
+
+// Infinite Continues
+FFDFA0:000A
+
+// Quick Score Gain
+FFDF82:FFFF
+
+// Play As Ash
+FFDF0C:0000
+
+// Play As Shiva
+FFDF0C:0002
+
+// Play As Zan
+FFDF0C:0004
+
+// Play As Axel
+FFDF0C:0006
+
+// Play As Blaze
+FFDF0C:0008
+
+// Play As Skate
+FFDF0C:000A
+
+// Play As Roo
+FFDF0C:000C
+
+// Super Axel
+FFFF20:FFFF
+
+// Super Skate
+FFFF1E:FFFF
+
+// Super Zan
+FFFF1C:FFFF

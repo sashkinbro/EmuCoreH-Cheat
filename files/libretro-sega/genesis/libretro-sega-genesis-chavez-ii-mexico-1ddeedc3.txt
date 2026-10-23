@@ -1,0 +1,32 @@
+// Poder *Punch Power* is Empty When Creating A New Boxer
+LAMA-DA22
+
+// Poder *Punch Power* is Beyond Maxed Out When Creating A New Boxer
+LALA-DA2Y
+
+// No Poder *Punch Power*/ No Aguante *Stamina*/ Barba *Chin* is Beyond Maxed Out A Little When Creating A New Boxer
+LAMA-CA2Y
+
+// Chavez's Head Temporarily Appears On Created Boxer Before Selecting Attribute Style
+LALA-DA7W
+
+// Character Highlighter Modifier (P1&amp;P2)
+FFEF5A:0000
+
+// Infinite Health Boxer P1
+FFBE3A:0007
+
+// No Health P2/CPU
+FFBE58:0000
+
+// Infinite Time
+FFCCA8:0033
+
+// Infinite Boxing Glove Boxer P1
+FFBE98:009D
+
+// Freezes P2/CPU (Can't Punch P2)
+FFBE44:0000
+
+// Player 2 wins by KO Instantly
+FFBCFC:000A

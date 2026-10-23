@@ -1,0 +1,178 @@
+// Infinite Time
+00DA-DD01
+
+// Infinite Shot Clock
+00DC-1E0A
+
+// Player 1's baskets always worth 1
+3CA-419-E68
+
+// Player 1's 3-pt. shots worth 2
+3EA-3B9-C45
+02A-3C9-194
+
+// Player 1's 2-pt. shots worth 3
+3EA-3B9-C45
+03A-3C9-194
+
+// Player 1's baskets always worth ??
+3EA-3B9-C45
+00A-3C9-194
+
+// Player 2's baskets always worth 1
+3CA-5E9-E68
+
+// Player has super dunk ability
+07E-214-C46
+
+// Player has infinite turbo
+07E-0F4-C46
+
+// Player is permanently 'on fire'
+07E-334-C46
+
+// Player has enhanced interception ability
+07D-EB4-C46
+
+// Player has enhanced defensive ability
+00D-E34-F7A
+
+// 'Juice' mode
+07E-454-D56
+
+// Shot success percentages displayed for all non-dunk shots
+07D-FD4-C46
+
+// ??  baskets needed to be 'on fire'
+00A-EE9-E66
+
+// Turbo drains very slowly
+0ED-2AA-5D2
+
+// Turbo drains slower
+15D-2AA-5D2
+
+// Turbo drains slightly slower
+1DD-2AA-5D2
+
+// Turbo drains slightly faster
+40D-2AA-5D2
+
+// Turbo drains faster
+50D-2AA-5D2
+
+// Turbo drains very quickly
+81D-2AA-5D2
+
+// Turbo doesn't recharge until end of quarter
+C9D-5DA-91D
+
+// Infinite shot clock time
+001-4CD-19E
+
+// 3-sec. shot clock for computer
+031-25A-80A
+
+// 5-sec. shot clock for computer
+051-25A-80A
+
+// 15-sec. shot clock for computer
+0F1-25A-80A
+
+// Gravity mode 1
+007-D09-E62
+
+// Gravity mode 2
+017-D09-E62
+
+// Infinite time
+3A5-D9E-2A2
+
+// 1-min. quarters
+018-C7F-E66
+01A-C6F-E66
+
+// 1-shot game
+008-C7F-E66
+00A-C6F-E66
+
+// 9-min. quarters
+098-C7F-E66
+09A-C6F-E66
+
+// Computer can't score
+3AA-5F9-2A2
+
+// Games last 3 quarters
+028-8CF-E6E
+
+// Games last 2 quarters
+038-8CF-E6E
+
+// Shot clock always displayed
+200-CFD-C46
+
+// Player 1's Baskets Always Worth 4
+3EA-3B9-C45
+04A-3C9-194
+
+// Player 1's Baskets Always Worth 5
+3EA-3B9-C45
+05A-3C9-194
+
+// Player 1's Baskets Always Worth 6
+3EA-3B9-C45
+06A-3C9-194
+
+// Player 1's Baskets Always Worth 7
+3EA-3B9-C45
+07A-3C9-194
+
+// Player 1's Baskets Always Worth 8
+3EA-3B9-C45
+08A-3C9-194
+
+// Infinite Turbo P1
+00CA-FB20
+
+// Team 1 Scores 153
+00CA-D499
+
+// Team 2 Never Scores
+00CA-D600
+
+// P1 Infinite Turbo
+00CA-FB20
+
+// P2 Infinite Turbo
+00CB-7020
+
+// P3 Infinite Turbo
+00CB-E520
+
+// P4 Infinite Turbo
+00CC-5A20
+
+// Infinite Shot Clock
+00DC-1E18
+
+// P1 Defense Powerup
+00CA-ED01
+
+// P1 Interception Powerup
+00CA-EE01
+
+// P1 Infinite Turbo Powerup
+00CA-EF01
+
+// P1 Super Dunk Powerup
+00CA-F001
+
+// P1 On-Fire Powerup
+00CA-F101
+
+// Display Shot% Powerup
+00CA-F201
+
+// Juice Mode Powerup
+00CA-F301

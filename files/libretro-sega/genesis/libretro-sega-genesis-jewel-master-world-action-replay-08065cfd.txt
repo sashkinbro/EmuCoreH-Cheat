@@ -1,0 +1,12 @@
+// Have All 12 Rings (Read Note!)
+FFC4DA:0101
+FFC4DC:0101
+FFC4DE:0101
+FFC4E0:0101
+FFC4E2:0101
+
+// Invincibility
+FFC5EC:001F
+
+// Makes The Level 1 Flame Ring Stronger
+FFC4C4:0003

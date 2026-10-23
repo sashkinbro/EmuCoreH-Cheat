@@ -1,0 +1,23 @@
+// Infinite Energy P1
+FFB226:00A4
+
+// Infinite Energy P2
+FFB236:00A4
+
+// No Energy P1
+FFB226:0000
+
+// No Energy P2
+FFB236:0000
+
+// Full Combo Meter P1
+FFB22C:0010
+
+// Full Combo Meter P2
+FFB23C:0010
+
+// Character Modifier P1
+FF61E2:0000
+
+// Character Modifier P2
+FF875E:0000

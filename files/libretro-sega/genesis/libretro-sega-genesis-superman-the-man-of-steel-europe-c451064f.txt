@@ -1,0 +1,25 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Invincibility
+RZPA-A6VY
+
+// Punch Always On Maximum
+AWBA-AA62
+
+// Infinite Power
+RZPA-A6W6
+
+// Het Always On Maximum
+AK7T-AA34
+AV7T-AA42
+AK6A-AA4E
+
+// Spin Always On Maximum
+AWCA-AA5G
+
+// Freeze Time Continue
+R1GT-A6VA

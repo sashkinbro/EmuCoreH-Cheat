@@ -1,0 +1,135 @@
+// Infinite Energy
+AJRT-JA3R
+
+// Infinite Lives
+AM3A-JA4R
+
+// Infinite Weapon
+AJMT-NA5E
+
+// Infinite Time
+AKET-JA46
+
+// Infinite Lives
+FFCB72:0003
+
+// Infinite Energy
+FFCC06:FF20
+
+// Infinite Time
+FFCB66:003B
+
+// Infinite Gun Type Weapon
+FFCB46:0032
+
+// Infinite Remo Type Gadget
+FFCB34:0003
+
+// Infinite Spreadshot
+FFCB44:0063
+
+// Infinite Flame Thrower
+FFCB42:0063
+
+// Infinite Missiles
+FFCB40:0063
+
+// Infinite Lightning Shots
+FFCB3E:0063
+
+// Infinite Wave Spread
+FFCB3C:0063
+
+// Infinite Flash Remote
+FFCB3A:0063
+
+// Infinite Shield Remote
+FFCB38:0063
+
+// Infinite Umbrella Remotes
+FFCB36:0063
+
+// Infinite Trampoline Remotes
+FFCB34:0063
+
+// Infinite Helicopter Remotes
+FFCB32:0063
+
+// Infinite Floating Bomb Remotes
+FFCB30:0063
+
+// Infinite Flame Thrower
+ATFA-NA9W
+ATFA-NA8C
+ATGT-NA56
+
+// Invincibility (Disable Hit Detection)
+R0XT-G6YA
+RZDT-J6XN
+
+// Infinite Gun
+AJMT-NA5E
+AJTA-NA7Y
+AJNT-NA7N
+AJVT-NA2C
+AJFA-NA8C
+AJFA-NA9W
+AJGT-NA56
+AJGT-NA42
+AJZA-NA3J
+AJ0T-NA2G
+AJRA-NA2A
+AJWT-NA40
+AJSA-NA4N
+AJXT-NA7A
+
+// Infinite Remote
+AM7T-AA58
+AM6T-AA3W
+AM8A-AA5G
+AM6T-AA9N
+AM7A-AA6A
+AM6A-AA2R
+
+// High jump.
+CXTT-LAER
+
+// High jump with moon descent.
+CXTT-LAER
+BDVT-LACY
+
+// Super high jump.
+BMTT-LAER
+
+// Super High Jump With Moon Descent
+BMTT-LAER
+BDVT-LACY
+
+// Protection From Long Falls (And Most Other Damage)
+AMWA-LA9N
+AJRT-JA3R
+
+// 1 Shot Kill Enemies/Bosses
+BA1T-JA4T
+
+// Keep All Gun After The Death
+EBFT-JA6A
+
+// Keep All Remo After The Death
+EBFT-JA6W
+
+// Start The Game With All Kinds of Weapons And Remo
+FFCB0A:0001
+
+// Enabled Cheat Code Start New Game Infinite 16 Life/99 Gun/9 Remote
+FFCB0A:0002
+
+// Enabled Cheat Code Start New Game Infinite 16 Life/99 Gun/9 Remote
+A2MA-JA4T
+
+// Invincibity
+FFCC14:0010
+
+// Start With ?? Lives
+A1YT-JAGR
+AJMT-JA7J

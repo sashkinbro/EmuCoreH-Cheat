@@ -1,0 +1,12 @@
+// Edit Team - 1st Player Infinite Attribute Points
+FF2556:0048
+
+// Edit Team - 3rd Player Infinite Attribute Points
+FF2558:0048
+
+// Edit Team - 5th Player Infinite Attribute Points
+FF255A:0048
+
+// Skip Intro Screens
+AV3W-6A46
+AK3W-6A8W

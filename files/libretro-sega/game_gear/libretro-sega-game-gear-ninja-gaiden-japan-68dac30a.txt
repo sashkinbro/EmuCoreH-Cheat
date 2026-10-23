@@ -1,0 +1,23 @@
+// Infinite Energy
+00C4-210F
+
+// Infinite Lives
+00C4-4803
+
+// Infinite Time
+00C4-2F89
+
+// Infinite Health
+000-BAE-B30
+
+// Infinite Health (Alt.)
+C90-B3E-E69
+
+// Invulnerability
+C90-94E-E69
+
+// Infinite Lives
+009-3F9-3BE
+
+// Infinite Time
+002-F38-B3E

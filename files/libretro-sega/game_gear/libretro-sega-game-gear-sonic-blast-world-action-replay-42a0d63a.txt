@@ -1,0 +1,5 @@
+// Infinite Rings - Main Stages
+00D2-5E30
+
+// Infinite Rings - Special Stage
+00DD-9E50

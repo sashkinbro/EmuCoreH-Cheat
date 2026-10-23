@@ -1,0 +1,11 @@
+// Infinite Health
+00C1-1606
+
+// Unlimited Rocks
+00C4-5699
+
+// Invincibility
+00C4-67FF
+
+// Always Have Key
+00C4-3CFF

@@ -1,0 +1,17 @@
+// 0 Strikes
+00C4-0F00
+
+// 0 Balls
+00C4-1100
+
+// No strikeouts
+003-91C-19A
+
+// 4 strikes and you're out
+043-93C-E66
+
+// 6 strikes and you're out
+063-93C-E66
+
+// 1 ball and you walk
+003-56C-19A

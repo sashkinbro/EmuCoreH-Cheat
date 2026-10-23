@@ -1,0 +1,11 @@
+// Bet As Much As You Want In 5 Card Stud (Ignore Counter)
+FF2-EBE-2A2
+
+// Start With $9,900
+995-FDF-6EA
+
+// Max Bet Is About $250
+FF2-EBE-2A2
+
+// Don't Lose Money In 5 Card Stud
+00C-F4F-A24

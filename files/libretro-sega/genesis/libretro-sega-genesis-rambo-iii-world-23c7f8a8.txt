@@ -1,0 +1,113 @@
+// Infinite lives during missions
+CKET-AA44
+
+// Infinite lives during bonus battles
+CJ1A-AA22
+
+// Start With 7 Lives
+A2GT-AAH4
+
+// Start With 9 Lives
+BAGT-AAH4
+
+// Start With 10 Lives
+BEGT-AAH4
+
+// Infinite arrows
+ABEA-BE4A
+
+// Each A worth 1 arrow
+AGNA-AAHG
+
+// Each A worth 3 arrows
+ARNA-AAHG
+
+// Each A worth 7 arrows
+A8NA-AAHG
+
+// Each A worth 10 arrows
+CCNA-AAHG
+
+// Infinite time bombs
+ABEA-BE84
+
+// Each B worth 1 time bomb
+AGNA-AAGW
+
+// Each B worth 5 time bombs
+A0NA-AAGW
+
+// Each B worth 7 time bombs
+A8NA-AAGW
+
+// Each B worth 10 time bombs
+CCNA-AAGW
+
+// 30 seconds to escape prison (mission 2)
+GCCT-AAGC
+
+// 60 seconds to escape prison (mission 2)
+NCCT-AAGC
+
+// 90 seconds to escape prison (mission 2)
+WCCT-AAGC
+
+// Infinite Lives
+CKET-AA42
+CJ1A-AA22
+
+// Infinite Weapons
+AKEA-AA44
+AKEA-AA9R
+
+// 150 Seconds To Escape Prison (Mission 2)
+LCCT-ACGC
+LCCT-ACG8
+
+// 180 Seconds To Escape Prison (Mission 2)
+TCCT-ACGC
+TCCT-ACG8
+
+// 240 Seconds To Escape Prison (Mission 2)
+JCCT-AEGC
+JCCT-AEG8
+
+// 300 Seconds To Escape Prison (Mission 2)
+ACCT-AGGC
+ACCT-AGG8
+
+// Large Number of Lives
+2AVA-B2NA
+
+// Infinite Lives
+FFC102:000A
+
+// Infinite Items
+FFC108:FFFF
+
+// Invincible
+FFD02C:00FF
+
+// Invincibility (Disable Hit Detection)
+RZRA-A612
+
+// Infinite Lives for Bosses
+AA1A-AAA0
+
+// Infinite Lives
+ABET-AAC4
+
+// Walk Thru Walls, Rocks Trucks, etc
+RZBT-A6W2
+RZBA-A6ZL
+
+// Your Machine Gun Can Shoot Thru Walls, Rocks, etc
+J35T-AA4T
+
+// Your Arrows Can Shoot Thru Walls, Rocks, etc
+AB6A-AA8L
+
+// One Second Bombs
+FFD064:0000
+FFD0A4:0000
+FFD0E4:0000

@@ -1,0 +1,22 @@
+// Infinite Hearts
+AMRA-AA4E
+
+// Invincibility
+R1RA-A6T4
+R1PT-A6Z2
+R1RA-A6ZL
+
+// Infinite Gold
+AJNA-AA56
+
+// Infinite Elixir
+AJWA-AA68
+
+// Infinite All Magic
+BCBT-AA62
+
+// Regional Lockout Bypass
+AKET-AA52
+
+// Infinite Medicine, Holly Water, Potion, Ocarina
+AJWA-AA7W

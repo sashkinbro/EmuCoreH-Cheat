@@ -1,0 +1,151 @@
+// Game begins with inning 2
+AJKA-CAHR
+
+// Game begins with inning 3
+ANKA-CAHR
+
+// Game begins with inning 4
+ATKA-CAHR
+
+// Game begins with inning 5
+AYKA-CAHR
+
+// Game begins with inning 6
+A2KA-CAHR
+
+// Game begins with inning 7
+A6KA-CAHR
+
+// Game begins with inning 8
+BAKA-CAHR
+
+// Game begins with inning 9
+BEKA-CAHR
+
+// Game begins with player 1 leading 1-0
+AAKT-CCA8
+STKT-D0J6
+8TKT-CLBA
+REKT-C6VC
+
+// Game begins with player 1 leading 2-0
+AAKT-CEA8
+STKT-D0J6
+8TKT-CLBA
+REKT-C6VC
+
+// Game begins with player 1 leading 3-0
+AAKT-CGA8
+STKT-D0J6
+8TKT-CLBA
+REKT-C6VC
+
+// Game begins with player 1 leading 4-0
+AAKT-CJA8
+STKT-D0J6
+8TKT-CLBA
+REKT-C6VC
+
+// Game begins with player 1 leading 5-0
+AAKT-CLA8
+STKT-D0J6
+8TKT-CLBA
+REKT-C6VC
+
+// Game begins with player 1 leading 7-0
+AAKT-CRA8
+STKT-D0J6
+8TKT-CLBA
+REKT-C6VC
+
+// Game begins with player 1 leading 9-0
+AAKT-CWA8
+STKT-D0J6
+8TKT-CLBA
+REKT-C6VC
+
+// Game begins with player 2 or computer leading 1-0
+AEKT-CAA8
+STKT-D0J6
+8TKT-CLBA
+REKT-C6VC
+
+// Game begins with player 2 or computer leading 2-0
+AJKT-CAA8
+STKT-D0J6
+8TKT-CLBA
+REKT-C6VC
+
+// Game begins with player 2 or computer leading 3-0
+ANKT-CAA8
+STKT-D0J6
+8TKT-CLBA
+REKT-C6VC
+
+// Game begins with player 2 or computer leading 4-0
+ATKT-CAA8
+STKT-D0J6
+8TKT-CLBA
+REKT-C6VC
+
+// Game begins with player 2 or computer leading 5-0
+AYKT-CAA8
+STKT-D0J6
+8TKT-CLBA
+REKT-C6VC
+
+// Game begins with player 2 or computer leading 7-0
+A6KT-CAA8
+STKT-D0J6
+8TKT-CLBA
+REKT-C6VC
+
+// Game begins with player 2 or computer leading 9-0
+BEKT-CAA8
+STKT-D0J6
+8TKT-CLBA
+REKT-C6VC
+
+// Batter walks on 2 balls
+AK9T-AAA4
+ALAA-AAEN
+AJET-CABG
+
+// Batter walks on 3 balls
+AP9T-AAA4
+ARAA-AAEN
+ANET-CABG
+
+// Batter walks on 5 balls
+AZ9T-AAA4
+A0AA-AAEN
+AYET-CABG
+
+// Batter walks on 6 balls
+A39T-AAA4
+A4AA-AAEN
+A2ET-CABG
+
+// Balls do not count (batter never walks)
+AK9A-AA9G
+
+// Unrestricted substitutions for batting team
+AA3A-AAH4
+
+// Unrestricted substitutions for fielding team [except pitchers]
+ABAA-AAA0
+
+// Strikes Modifier
+FF4C02:0000
+
+// Outs Modifier
+FF41B2:0000
+
+// Balls Modifier
+FF08AE:0000
+
+// Team 1 Score Modifier
+FF05F4:0063
+
+// Team 2 Score Modifier
+FF05F4:0000

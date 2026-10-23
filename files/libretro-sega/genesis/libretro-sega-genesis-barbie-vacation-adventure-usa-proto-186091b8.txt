@@ -1,0 +1,5 @@
+// Infinite Time While Riding In Texas Seconds
+FF3A36:0000
+
+// Infinite Time While Riding In Texas Micro-Seconds
+FF3A40:0000

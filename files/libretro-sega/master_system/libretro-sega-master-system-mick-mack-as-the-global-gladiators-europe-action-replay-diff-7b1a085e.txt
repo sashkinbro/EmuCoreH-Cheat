@@ -1,0 +1,8 @@
+// Infinite Lives
+00D0-B903
+
+// Infinite Energy
+00D0-BA3F
+
+// Infinite "M"'s
+00D5-0399

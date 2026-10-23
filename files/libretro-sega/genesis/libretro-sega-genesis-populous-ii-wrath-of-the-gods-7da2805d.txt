@@ -1,0 +1,20 @@
+// Infinite Experience &quot;Points&quot;
+FFF5BE:0009
+
+// Man Icon Maxed Out
+FFF5B8:0049
+
+// Tree Icon Maxed Out
+FFF5B8:000F
+
+// Globe Icon Maxed Out
+FFF5BA:000F
+
+// Cloud Icon Maxed Out
+FFF5BA:000F
+
+// Fire Icon Maxed Out
+FFF5BC:000F
+
+// Waves Icon Maxed Out
+FFF5BC:000F

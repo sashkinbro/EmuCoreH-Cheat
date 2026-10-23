@@ -1,0 +1,29 @@
+// Anti-Lockout Code For US System
+A2BT-AA76
+
+// Invincible
+RHWT-A6T6
+
+// Infinite Lives
+RETA-C6WJ
+
+// Infinite Bombs
+AJWT-CA7C
+
+// All Weapons
+H9HT-AADL
+
+// Infinite Lives P1
+FFFA0C:0009
+
+// P1 Weapon Modifier
+FFFA0E:0000
+
+// Infinite &quot;Time-Bombs&quot; P1
+FFFA10:0009
+
+// Infinite Health
+AJTA-CA2R
+
+// Invincibility
+R1WT-A6WY

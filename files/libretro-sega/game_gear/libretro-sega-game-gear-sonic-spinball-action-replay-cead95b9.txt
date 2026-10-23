@@ -1,0 +1,5 @@
+// Infinite Lives
+00DA-1609
+
+// Have 99 Rings (Turn Off After Dying To Start Next Life)
+00DC-2F99

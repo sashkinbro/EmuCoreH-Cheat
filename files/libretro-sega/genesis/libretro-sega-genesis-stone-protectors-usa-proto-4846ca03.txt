@@ -1,0 +1,11 @@
+// Infinite Lives P1
+AMNB-JA34
+
+// Infinite Energy P1
+AMPB-JA2A
+
+// Infinite Lives P2
+AMNB-JA54
+
+// Infinite Energy P2
+AMPB-JA4L

@@ -1,0 +1,14 @@
+// Infinite Time - Seconds
+00C0-CC00
+
+// Infinite Time - Minutes
+00C0-CB00
+
+// Infinite Time - Hours
+00C0-CA00
+
+// Freeze Timer
+00C0-CD32
+
+// Infinite Time
+7E6-FBC-3B7

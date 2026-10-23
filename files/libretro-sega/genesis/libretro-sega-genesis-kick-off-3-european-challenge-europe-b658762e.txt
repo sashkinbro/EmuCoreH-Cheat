@@ -1,0 +1,11 @@
+// Flashing Players
+FF3988:0007
+
+// Fake Infinite Time
+FF39AC:0000
+
+// Team 1 Score Modifier (P1)
+FF33CA:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FF33CC:0000

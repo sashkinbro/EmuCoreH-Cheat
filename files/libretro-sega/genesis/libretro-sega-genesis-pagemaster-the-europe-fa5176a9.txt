@@ -1,0 +1,48 @@
+// Infinite Lives - Pagemaster, The (Europe)
+AJGT-JA5Y
+
+// Invincibility - Pagemaster, The (Europe)
+RZRA-J61Y
+RYHT-A6ZW
+RZRA-J6Z8
+
+// Keep Items After Touching Enemies - Pagemaster, The (Europe)
+AKRT-JA56
+AKRT-JA7L
+AKRT-JA4G
+
+// Keep Items After The Death - Pagemaster, The (Europe)
+ALGT-EA7J
+
+// Enabled Cheat Code Skip Levels/Items - Pagemaster, The (Europe)
+AB9A-JA76
+RF8T-J614
+RGJA-E6X0
+
+// Magic Dust Meter Always On Maximum -  Pagemaster, The (USA) - Pagemaster, The (Europe)
+ATGT-AA5G
+
+// Infinite Attempts In Bonus Stage - Pagemaster, The (Europe)
+AKFA-NA7N
+
+// 1 Hit/Shot Kill Enemies - Pagemaster, The (Europe)
+ATWT-JA60
+A3SA-JA52
+A3SA-JA68
+
+// Keep Keys/Gold Tokens After The Death - For Versions Pagemaster, The (USA) - Pagemaster, The (USA) (Beta) - Pagemaster, The (Europe)
+ALGT-EA7N
+
+// Take objects anywhere
+AMRT-GA5Y
+AMRT-GA6A
+AMRT-GA6T
+AMRT-GA66
+
+// Moonjump
+819T-H98T
+819T-H988
+
+// Super moonjump
+8D9T-H98T
+8D9T-H988

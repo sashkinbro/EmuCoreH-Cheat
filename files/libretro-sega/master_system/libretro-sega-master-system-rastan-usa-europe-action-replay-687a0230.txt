@@ -1,0 +1,11 @@
+// Infinite Life
+00C0-2064
+
+// Invincibility
+00C0-1703
+
+// Start On Final Level
+00C1-4A15
+
+// Have All Items
+00C0-01FF

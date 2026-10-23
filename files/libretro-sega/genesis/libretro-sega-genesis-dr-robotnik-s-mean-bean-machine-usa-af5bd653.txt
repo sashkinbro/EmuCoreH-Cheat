@@ -1,0 +1,102 @@
+// Refugee beans are disabled
+ALNT-AA66
+
+// Refugee Beans Come in Smaller Amounts
+VWNT-AAHE
+
+// Refugee Beans Come in Larger Amounts
+ERNT-AAHE
+
+// Start on Stage 2
+AW9A-AAH8
+
+// Start on Stage 3
+A09A-AAH8
+
+// Start on Stage 4
+A49A-AAH8
+
+// Start on Stage 5
+A89A-AAH8
+
+// Start on Stage 6
+BC9A-AAH8
+
+// Start on Stage 7
+BG9A-AAH8
+
+// Start on Stage 8
+BL9A-AAH8
+
+// Start on Stage 9
+BR9A-AAH8
+
+// Start on Stage 10
+BW9A-AAH8
+
+// Start on Stage 11
+B09A-AAH8
+
+// Start on Stage 12
+B49A-AAH8
+
+// Start on Stage 13
+B89A-AAH8
+
+// You Can Drop Clear/Refugee Beans On The CPU, but the CPU Can't Drop Clear/Refugee Beans on You.
+9WDA-BCJW
+ACDA-AAAY
+CWDA-AB20
+
+// You Can Drop Clear/Refugee Beans On The Cpu
+FFE014:0000
+
+// In Scenario Mode, The Computer Players Will Constantly Have 2 Clear/Refugee Beans Dropped On Them Every Few Seconds
+9WDA-BCLR
+ALDA-AACT
+LWDA-AB4W
+
+// In Scenario Mode, The Computer Players Will Constantly Have 4 Clear/Refugee Beans Dropped On Them Every Few Seconds
+9WDA-BCLR
+AWDA-AACT
+LWDA-AB4W
+
+// Unlock Sound Test
+ADTT-AAAE
+
+// Refugee Beans Come In Gargantuan Amounts
+CBNT-AAHE
+
+// Player 1 - Falling Bean Color Modifier (Top Bean)
+FFE166:0000
+
+// Player 1 - Falling Bean Color Modifier (Bottom Bean)
+FFE166:0000
+
+// Player 2 - Falling Bean Color Modifier (Top Bean)
+FFE226:0000
+
+// Player 2 - Falling Bean Color Modifier (Bottom Bean)
+FFE226:0000
+
+// Your next pair of beans are always the same 2 colors for the entire level
+AVBT-AA8J
+
+// The game only uses 4 colors instead of 5 (no purple)
+AN7T-AGB2
+
+// The game only uses 3 colors instead of 5 (no red or yellow)
+AY7T-AGB0
+
+// Makes The Game Easier For Colorblind People
+AAYA-AABJ
+AAYA-AABL
+AAYA-AABN
+96XT-A8H6
+96XT-A8H8
+
+// Refugee Beans Come In Larger Amounts v2
+C8NT-AAHE
+
+// Gets rid of the Warning, Checksum is Wrong message
+E24A-EA9T

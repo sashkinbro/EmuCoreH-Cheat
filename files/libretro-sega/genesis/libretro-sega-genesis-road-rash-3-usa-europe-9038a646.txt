@@ -1,0 +1,337 @@
+// Go Through Everything
+R13A-C6ZY
+
+// Go through everything, except enemies
+AM4A-CA9A
+AM4T-CA40
+AM4T-CA62
+AM4T-CA7G
+AM5A-CA2J
+
+// Tracks Are Perfectly Straight
+AD8T-AR2T
+
+// Slows The Game Way Down
+AJ0T-CA6L
+
+// Slows The Game Down A Little Bit
+AJ0T-CA6L
+AN0T-CAET
+
+// Start a new game with the club
+AE2A-AAC4
+
+// The starting bike (Perro 125) will accelerate much faster from a standing start
+N3MA-GABJ
+
+// The starting bike will accelerate much faster on top end (6th gear)
+LKMA-GABW
+
+// The starting bike will have a top speed of 150 MPH (instead of only 121 MPH)
+XBMA-HYK8
+
+// The starting bike will have a top speed of 200 MPH
+EBMA-G6V8
+
+// When you buy a performance upgrade for your bike, your performance will increase more than normal
+32XT-CT1N
+
+// When you buy a performance upgrade for your bike, your performance will increase much more than normal
+ZTXT-DFHN
+
+// When you buy a performance upgrade for your bike, your performance will increase much MUCH more than normal
+8JXT-CV9N
+
+// The starting bike will have 8 nitro bursts (instead of none)
+BBLA-GAGJ
+
+// The starting bike will steer much faster (can do tighter turns)
+LBLA-GAGA
+
+// Start a new game with the secret bike (Wild Thing 2000)
+B62A-AAAL
+
+// Start a new game with the chain
+AJ2A-AAC4
+
+// Start a new game with the crowbar
+AN2A-AAC4
+
+// Start a new game with the mace
+AT2A-AAC4
+
+// Start a new game with the nunchucks
+AY2A-AAC4
+
+// Start a new game with the oil cans
+A22A-AAC4
+
+// Start a new game with the cattle prod
+A62A-AAC4
+
+// Start a new game on level 2
+AJ2A-AADL
+
+// Start a new game on level 3
+AN2A-AADL
+
+// Start a new game on level 4
+AT2A-AADL
+
+// Start a new game on level 5
+AY2A-AADL
+
+// Start a new game on secret level 6
+A22A-AADL
+
+// Bike doesn't take damage from hitting cars
+ATXT-EA6N
+
+// Player is invincible
+PVAA-EA2R
+
+// Infinite nitro bursts
+BA4A-CA6C
+
+// Nitro bursts disabled
+AA4A-CA6C
+
+// Start with no money
+AA2A-AAAC
+
+// Start with $500
+GJ2A-AAAC
+
+// Start with $2000
+3A2A-AAAC
+
+// Start with $5000
+8T2A-ACAC
+
+// Start with $10,000
+7A2A-AGAC
+
+// Start with $50,000
+VA2A-BGAC
+
+// Bikes are free
+A5TT-AA40
+
+// Upgrades are free
+AXVA-AA6J
+
+// Never get charged for police fines
+RFHT-C612
+
+// Don't get charged for bike repairs
+RFJA-C6W6
+
+// Freeze Cpu Racers
+1HRT-C6TL
+D9RT-CAAN
+ADRT-CDJR
+9WTV-9HJA
+98TV-8AAC
+0LTV-8WAE
+AWTV-8R2G
+JCTV-8ETJ
+ALTV-8A2L
+JGTV-9BTN
+JCTV-9GJR
+CLTV-8AAT
+R0TV-86TW
+
+// Knockdown Other Bikers With One Hit
+AKAA-EA8C
+
+// Slows down all the other riders so it's much easier to win 1st place.
+WKRA-CEVJ
+
+// Always win 1st place. Also gets rid of the motorcycle cops.
+WKRA-CEVJ
+BJCA-EAC6
+
+// Walk faster
+4DTT-D8BW
+
+// Walk (run) MUCH faster
+4DTT-DTKW
+
+// All traffic is gone (no cars). Also, almost all of the cops are gone.
+A2KT-EA92
+
+// Have Tons Upon Tons of Cash (For Upgrades Only)
+FF746E:00FF
+FF746E:00FF
+
+// Bike Doesn't Take Damage
+FF05D6:0000
+
+// Infinite Health
+FF005C:0064
+
+// Infinite Nitros
+FF0502:0003
+
+// Auto Race at 325 MPH
+FF09C4:007F
+
+// Enables ABRACADABRA controller cheat. See notes.
+CJ3A-AA20
+
+// Pause the game to get the Crowbar
+AR8A-CAE0
+YL8A-CGE4
+
+// Pause the game to get the Nunchucks
+A08A-CAE0
+YL8A-CGE4
+
+// Always have the Crowbar
+AN8T-DA6N
+AJ8T-CA6R
+
+// Always have the Nunchucks
+AY8T-DA6N
+AJ8T-CA6R
+
+// Player is the same color as the other Rashers
+FF0A28:0002
+
+// Corsair 400 Has 20 Nitros
+CVLA-GAG2
+
+// Kamakazi 250 Has 20 Nitros
+CVLA-GAHJ
+
+// Banzai 450 Has 20 Nitros
+CVLA-GAH2
+
+// Ratzo 500 Has 20 Nitros
+CVLT-GAAJ
+
+// Stiletto 600 Has 20 Nitros
+CVLT-GAA2
+
+// Perro 250 Has 20 Nitros
+CVLT-GABJ
+
+// Kamakazi 750 Has 20 Nitros
+CVLT-GAB2
+
+// Diablo 750 Has 20 Nitros
+CVLT-GACJ
+
+// Corsair 600 N Has 20 Nitros
+CVLT-GADJ
+
+// Kamakazi 750 N Has 20 Nitros
+CVLT-GAD2
+
+// Banzai 750 N Has 20 Nitros
+CVLT-GAEJ
+
+// Stiletto 900 N Has 20 Nitros
+CVLT-GAE2
+
+// Diablo 1000 N Has 20 Nitros
+CVLT-GAFJ
+
+// Wild Thing 2000 Has 20 Nitros
+CVLT-GAF2
+
+// All Rashers & Cops Move Very Slow
+FF0A44:0000
+FF0B44:0000
+FF0C44:0000
+FF0D44:0000
+FF0E44:0000
+FF0F44:0000
+FF1044:0000
+FF1144:0000
+FF0AC4:0000
+FF0BC4:0000
+FF0CC4:0000
+FF0DC4:0000
+FF0EC4:0000
+FF0FC4:0000
+FF10C4:0000
+FF11C4:0000
+
+// Always finish in 1st place
+ABGA-DJ4A
+AC1A-AA8T
+
+// Always level-up after a race
+AMDT-AA6A
+
+// P1 Infinite Health
+FF0A0E:000A
+
+// P1 Infinite Money
+FF746E:270F
+
+// P1 Have all Uprgrades
+FF0206:000F
+
+// P1 Infinite Cattleprod
+FF03A8:000A
+
+// P2 Infinite Health
+FF0E8E:000A
+
+// P2 Infinite Money
+FF7470:270F
+
+// P2 Infinite Oil Cans
+FF03AC:000A
+
+// Infinite Time
+AA0A-CA90
+
+// Infinite Mace
+AWAA-EA7G
+ACAA-EA7N
+
+// Infinite Cattleprod
+AWAT-EA2E
+ACAT-EA2L
+
+// Infinite Oil Cans
+AWAT-EA5C
+ACAT-EA5J
+
+// Always have the Club
+AE8T-DA6N
+AJ8T-CA6R
+
+// Always have the Chain
+AJ8T-DA6N
+AJ8T-CA6R
+
+// Always have the Mace with Infinite Usage
+AT8T-DA6N
+AJ8T-CA6R
+AWAA-EA7G
+ACAA-EA7N
+
+// Always have the Oil Cans with Infinite Usage
+A28T-DA6N
+AJ8T-CA6R
+AWAT-EA5C
+ACAT-EA5J
+
+// Always have the Cattleprod with Infinite Usage
+A68T-DA6N
+AJ8T-CA6R
+AWAT-EA2E
+ACAT-EA2L
+
+// Cops can't bust you
+AD1T-CA84
+
+// Bike takes less damage
+KAXA-EV9E
+
+// Bike takes no damage
+AAXA-FA9E

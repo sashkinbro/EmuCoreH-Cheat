@@ -1,0 +1,26 @@
+// Start With 4 Lives
+047-B1F-E66
+
+// Start With 6 Lives
+067-B1F-E66
+
+// Start With 8 Lives
+087-B1F-E66
+
+// Infinite Lives
+000-93D-E69
+
+// *Start With 5 Energy Units
+047-E0E-E6E
+
+// *Start With 7 Energy Units
+067-E0E-E6E
+
+// *Start With 9 Energy Units
+087-E0E-E6E
+
+// Infinite Energy
+21C-04E-91D
+
+// After Donald Loses 1 Energy Unit He Is Invincible
+219-B3E-91D

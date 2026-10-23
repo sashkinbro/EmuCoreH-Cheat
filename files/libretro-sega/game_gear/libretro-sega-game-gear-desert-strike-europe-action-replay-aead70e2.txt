@@ -1,0 +1,20 @@
+// Infinite Lives
+00C5-DE09
+
+// Infinite Hellfires
+00C5-E599
+
+// Infinite Fuel
+00C5-E0FF
+
+// Infinite Guns
+00C5-E3FF
+
+// Extra Armour (Alternate Code)
+00C5-E606
+
+// Unlimited Fuel (Alternate Code)
+00C5-6099
+
+// Unlimited Hydras
+00C5-E434

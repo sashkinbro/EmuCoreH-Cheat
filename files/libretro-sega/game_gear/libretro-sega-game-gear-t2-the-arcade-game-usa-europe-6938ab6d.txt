@@ -1,0 +1,32 @@
+// Infinite Shield and Credits
+00DF-2E18
+
+// Cheat Mode Enabled
+00DF-2AC8
+
+// Enable Cheats! option
+D6C-286-B33
+
+// Infinite Energy
+00DC-CF80
+
+// Infinite Gun
+00DC-CEA0
+
+// Have 99 Credits (Continues)
+00DC-D799
+
+// Infinite Missiles
+00DC-CC99
+
+// Cheat Menu Unlocked In Options Menu
+00C-2D6-E66
+
+// Infinite Energy
+C9D-86F-E69
+
+// Infinite Missiles
+004-1AD-E6E
+
+// Infinite Gun Ammo
+003-7CD-E6E

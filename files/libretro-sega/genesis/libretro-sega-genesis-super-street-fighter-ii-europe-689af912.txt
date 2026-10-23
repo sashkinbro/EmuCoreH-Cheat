@@ -1,0 +1,7 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// P1 Inf HP
+9VET-BCBR
+0BET-AABT
+HZET-ABBW

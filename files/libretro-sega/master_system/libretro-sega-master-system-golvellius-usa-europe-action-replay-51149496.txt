@@ -1,0 +1,17 @@
+// Always Have "Red Squid" (Infinite Health)
+00C8-3601
+
+// Infinite Money
+00C8-4099
+
+// All Bridges Built & Blockades Removed
+00C8-45FF
+
+// Start With Ring & Power Bracelets
+00C8-460F
+
+// 3 Green Rings
+00C8-4A03
+
+// Super Sword
+00C8-48FF

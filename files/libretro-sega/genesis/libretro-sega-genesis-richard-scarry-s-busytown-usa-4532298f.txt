@@ -1,0 +1,5 @@
+// Food Modifier (On Left)
+FFCCBC:0000
+
+// Regional Lockout Bypass
+EAAT-AL1T

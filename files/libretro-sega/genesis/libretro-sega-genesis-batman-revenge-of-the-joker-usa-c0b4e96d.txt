@@ -1,0 +1,326 @@
+// Start with 1 life
+AACT-AAHY
+
+// Start with 2 lives
+AECT-AAHY
+
+// Start with 4 lives
+ANCT-AAHY
+
+// Start with 5 lives
+ATCT-AAHY
+
+// Start with 10 lives
+BECT-AAHY
+
+// Start with 20 lives
+CNCT-AAHY
+
+// Infinite lives
+AAET-AAEY
+
+// Start with 1 life increments
+AD1T-ACGY
+
+// Start with 2 life increments
+AD1T-AEGY
+
+// Start with 4 life increments
+AD1T-AJGY
+
+// Start with 6 life increments
+AD1T-ANGY
+
+// Start with 10 life increments
+AD1T-AYGY
+
+// Start with 15 life increments
+AD1T-A8GY
+
+// Start with 20 life increments
+AD1T-BJGY
+
+// Start with 30 life increments
+AD1T-B6GY
+
+// Start with 50 life increments
+AD1T-DERY
+
+// Infinite life increments
+AM1A-AA8N
+
+// Become Invincible At Any Time
+AD1T-AAH4
+AX2A-AA3J
+
+// 1 capsule needed for invincibility
+AH1T-AAH4
+HH2A-BGVJ
+
+// 2 capsules needed for invincibility
+AM1T-AAH4
+HH2A-BLVJ
+
+// 3 capsules needed for invincibility
+AS1T-AAH4
+HH2A-BRVJ
+
+// 4 capsules needed for invincibility
+AX1T-AAH4
+HH2A-BWVJ
+
+// 5 capsules needed for invincibility
+A11T-AAH4
+HH2A-B0VJ
+
+// 6 capsules needed for invincibility
+A51T-AAH4
+HH2A-B4VJ
+
+// 7 capsules needed for invincibility
+A91T-AAH4
+HH2A-B8VJ
+
+// Capsules not lost when invinciblity is used
+AX2A-AA3J
+
+// 1 capsule needed for invincibility (capsules aren't lost when invinibility is used)
+AH1T-AAH4
+AX2A-AA3J
+
+// 2 capsules needed for invincibility (capsules aren't lost when invinibility is used)
+AM1T-AAH4
+AX2A-AA3J
+
+// 3 capsules needed for invincibility (capsules aren't lost when invinibility is used)
+AS1T-AAH4
+AX2A-AA3J
+
+// 4 capsules needed for invincibility (capsules aren't lost when invinibility is used)
+AX1T-AAH4
+AX2A-AA3J
+
+// 5 capsules needed for invincibility (capsules aren't lost when invinibility is used)
+A11T-AAH4
+AX2A-AA3J
+
+// 6 capsules needed for invincibility (capsules aren't lost when invinibility is used)
+A51T-AAH4
+AX2A-AA3J
+
+// 7 capsules for invincibility (capsules aren't lost when invinibility is used)
+A91T-AAH4
+AX2A-AA3J
+
+// Invincibility time is 1/2x normal
+TD2A-AABC
+
+// Invincibility time is 3/4x normal
+2D2A-AABC
+
+// Invincibility time is 1-1/2x normal
+TD2A-ACBC
+
+// Invincibility time is 2x normal
+AD2A-AEBC
+
+// Invincibility time is 3x normal
+AD2A-AGBC
+
+// Invincibility time is 5x normal
+AD2A-ALBC
+
+// Invincibility time is 10x normal
+AD2A-AYBC
+
+// Batman gets 1/100 power in Boss levels
+4BNA-CRCR
+
+// Batman gets 1/20 power in Boss levels
+WBNA-CCCR
+
+// Batman gets 1/10 power in Boss levels
+3BNA-CACR
+
+// Batman gets 1/5 power in Boss levels
+NVNA-CACR
+
+// Batman gets 1/3 power in Boss levels
+HVNA-CACR
+
+// Batman gets 1/2 power in Boss levels
+FBNA-CACR
+
+// Batman gets 11/2 power in Boss levels
+BZNA-CACR
+
+// Batman gets 2x power in Boss levels
+BKNA-CACR
+
+// Batman gets 3x power in Boss levels
+A7NA-CACR
+
+// Batman gets 5x power in Boss levels
+AVNA-CACR
+
+// Boss gets 1/100 power in Boss levels
+4BNA-CRC2
+
+// Boss gets 1/20 power in Boss levels
+WBNA-CCC2
+
+// Boss gets 1/10 power in Boss levels
+3BNA-CAC2
+
+// Boss gets 1/5 power in Boss levels
+NVNA-CAC2
+
+// Boss gets 1/3 power in Boss levels
+HVNA-CAC2
+
+// Boss gets 1/2 power in Boss levels
+FBNA-CAC2
+
+// Boss gets 11/2 power in Boss levels
+BZNA-CAC2
+
+// Boss gets 2x power in Boss levels
+BKNA-CAC2
+
+// Boss gets 3x power in Boss levels
+A7NA-CAC2
+
+// Boss gets 5x power in Boss levels
+AVNA-CAC2
+
+// Start on Level 1-2 [City Rooftops]
+9TCT-BGSL
+7TCA-AAH8
+AECT-AAHN
+
+// Start on Level 1-3 [Boss Ace Ranger]
+9TCT-BGSL
+7TCA-AAH8
+AJCT-AAHN
+
+// Start on Level 2-1 [Assembly Line]
+9TCT-BGSL
+7TCA-AAH8
+ANCT-AAHN
+
+// Start on Level 2-2 [Weapons Plant]
+9TCT-BGSL
+7TCA-AAH8
+ATCT-AAHN
+
+// Start on Level 3-1 [Ice Valley]
+9TCT-BGSL
+7TCA-AAH8
+AYCT-AAHN
+
+// Start on Level 3-2 [Excavation Mine]
+9TCT-BGSL
+7TCA-AAH8
+A2CT-AAHN
+
+// Start on Level 3-3 [Boss Minedroid]
+9TCT-BGSL
+7TCA-AAH8
+A6CT-AAHN
+
+// Start on Level 4-1 [Weapons Express]
+9TCT-BGSL
+7TCA-AAH8
+BACT-AAHN
+
+// Start on Level 4-2 [Assembly Plant]
+9TCT-BGSL
+7TCA-AAH8
+BECT-AAHN
+
+// Start on Level 4-3 [Boss Master C.P.U.]
+9TCT-BGSL
+7TCA-AAH8
+BJCT-AAHN
+
+// Start on Level 5-1 [Sewer System]
+9TCT-BGSL
+7TCA-AAH8
+BNCT-AAHN
+
+// Start on Level 5-2 [Deserted Tunnel]
+9TCT-BGSL
+7TCA-AAH8
+BTCT-AAHN
+
+// Start on Level 6-1 [Missile Silo]
+9TCT-BGSL
+7TCA-AAH8
+BYCT-AAHN
+
+// Start on Level 6-2 [Tank #329]
+9TCT-BGSL
+7TCA-AAH8
+B2CT-AAHN
+
+// Start on Level 6-3 [Boss Joker]
+9TCT-BGSL
+7TCA-AAH8
+B6CT-AAHN
+
+// Start on Level 7-1 [Tiki Jungle]
+9TCT-BGSL
+7TCA-AAH8
+CACT-AAHN
+
+// Start on Level 7-2 [Boss ???]
+9TCT-BGSL
+7TCA-AAH8
+CECT-AAHN
+
+// Invincibility
+R11A-A60N
+
+// Infinite Lives
+ATET-AA6W
+
+// Start With 127 Lives
+S6CT-AAHY
+
+// Invincibility
+FF6046:0024
+
+// Infinite Energy
+FF3FF6:0800
+
+// Infinite Lives
+FF5D10:0200
+
+// Infinite Energy Capsules
+FF9786:0008
+
+// Infinite Lives Alt
+FF3FF6:0008
+
+// Full Cheat Mode Enabled
+ABVA-AN9C
+AADT-AN6W
+AAET-AN2R
+
+// Walk Thru Walls
+ADZA-AA70
+
+// Bypass code 5227 entering passwords only for levels
+FF5D10:0001
+
+// Bypass code 5227 entering passwords only for levels
+AK6T-CA56
+
+// 1 shot kills enemies
+AKBT-CA4E
+
+// Keep weapon power-ups after you die
+ATDT-CA82
+
+// Don't fall when you walk off ledges (walk on air)
+K3TA-A7TA

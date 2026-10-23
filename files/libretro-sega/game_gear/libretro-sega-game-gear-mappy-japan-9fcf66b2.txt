@@ -1,0 +1,11 @@
+// Infinite Mappies (Lives)
+00C1-8009
+
+// Infinite Lives
+00A-BAC-19E
+
+// Stage Select Enabled
+00C2-D601
+
+// Start with ?? Lives, instead of 2
+058-8FF-E62

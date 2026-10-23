@@ -1,0 +1,86 @@
+// Backwards tracks (select backwards logo in mode select screen)
+C5NA-EA4E
+
+// Start with 95 sec. on easy level
+KR6A-F80C
+
+// Start with 85 sec. on normal level
+L06A-FA0C
+
+// Start with 99 sec. on normal level
+NR6A-FA0C
+
+// Start with 75 sec. on hard level
+AC6A-E00E
+
+// Start with 85 sec. on hard level
+AC6A-FL0E
+
+// Start with 99 sec. on hard level
+AC6A-EG8E
+
+// Timer doesn't count down (lap counter still does)
+AL3A-EA9L
+
+// 15 sec. added for checkpoints on Beginner and Medium courses
+B4SA-FA54
+
+// 20 sec. added for checkpoints on Beginner and Medium courses
+CWSA-FA54
+
+// 25 sec. added for checkpoints on Beginner and Medium courses
+DGSA-FA54
+
+// 30 sec. added for checkpoints on Beginner and Medium courses
+D4SA-FA54
+
+// 20 sec. added for checkpoints on Expert course
+CWSA-FA6E
+
+// 25 sec. added for checkpoints on Expert course
+DGSA-FA6E
+
+// 30 sec. added for checkpoints on Expert course
+D4SA-FA6E
+
+// Accelerate and decelerate slightly faster
+3CLT-EAGT
+
+// Accelerate and decelerate faster
+0CLT-EAGT
+
+// Accelerate and decelerate much faster
+XCLT-EAGT
+
+// Accelerate and decelerate very quickly
+TCLT-EAGT
+
+// Accelerate and decelerate extremely fast
+NCLT-EAGT
+
+// Accelerate and decelerate instantly
+ECLT-EAGT
+
+// 1 lap in Virtua Racing mode instead of 5
+AFDT-EABR
+
+// 2 laps in Virtua Racing mode
+AKDT-EABR
+
+// 3 laps in Virtua Racing mode
+APDT-EABR
+
+// 4 laps in Virtua Racing mode
+AVDT-EABR
+
+// 6 laps in Virtua Racing mode (lap counter gets weird after 5)
+A3DT-EABR
+
+// Finish 1st in every race you complete
+ALRT-EA2W
+
+// Skip Rom Check
+RYBA-E61G
+
+// Infinite Time
+SC3A-FBSL

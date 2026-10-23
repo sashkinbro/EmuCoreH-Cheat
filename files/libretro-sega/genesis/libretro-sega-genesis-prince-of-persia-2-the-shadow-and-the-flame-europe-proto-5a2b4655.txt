@@ -1,0 +1,12 @@
+// Invincibility
+RYMT-A6ZW
+
+// Fixes the bug in level 9 where there is no way to exit to the next level
+RF1T-A6VW
+
+// Don't fall when you walk off ledges (walk on air)
+RENT-A6YW
+
+// Swaps the A and B buttons
+AWFT-AACJ
+A4FT-AADG

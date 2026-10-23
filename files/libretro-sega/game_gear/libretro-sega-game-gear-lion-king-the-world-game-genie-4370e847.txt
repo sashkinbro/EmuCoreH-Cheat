@@ -1,0 +1,17 @@
+// Start With 1 Life
+017-B98-E66
+
+// Start With 5 Lives
+057-B98-E66
+
+// Start With 9 Lives
+097-B98-E66
+
+// Start With 1/2 Of A Circle of Life
+027-BB8-C4A
+
+// Start With 1 Circle of Life
+047-BB8-C4A
+
+// Start With No Circles of Life
+007-BB8-C4A

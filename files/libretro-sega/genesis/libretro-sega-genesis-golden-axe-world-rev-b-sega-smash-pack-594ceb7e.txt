@@ -1,0 +1,36 @@
+// Lets you play the US cartridge on a Japanese Mega Drive console
+REGT-A6ZE
+
+// Infinite Lives P1/P2
+AK8A-AA9W
+
+// Infinite Life Meter (Health) P1/P2
+AK1A-AA4Y
+
+// Invincibility P1/P2
+R09T-A6ZT
+RY1T-C60W
+
+// Keep Extra Magic From Round To Round P1/P2
+AJYT-AA8Y
+
+// Infinite Magic P1/P2
+AV7T-AA9W
+
+// Freeze Time The Duel
+AKGT-AA6C
+
+// Infinite Credits P1
+AJVA-AA7G
+
+// Freeze Time Continue P1
+ATTT-AA98
+
+// Enabled Cheat Code Level Select
+AKBT-AAG4
+
+// Freeze Time Continue P2
+A2VA-AA4A
+
+// Infinite Credits P2
+AJVA-AA90

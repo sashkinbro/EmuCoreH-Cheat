@@ -1,0 +1,59 @@
+// Have Tons of Money
+FF052E:00FF
+
+// Infinite pistol ammo
+ALTA-CA26
+
+// Infinite shotgun ammo
+ALTA-CA8R
+
+// Don't get charged for weapons and other equipment
+AXRA-CA8J
+
+// Don't get charged for mods (legs, arms, brains, etc)
+AXPT-CA7R
+
+// Start a new game with $95,536 (instead of $30,000)
+AHWA-AAH0
+
+// Start a new game with $9,008,432 (instead of $30,000)
+VHWA-AAH0
+
+// Start a new game with $99,775,792 (instead of $30,000)
+8MWA-ALH0
+
+// Persuadertron only costs $1 (instead of $5000)
+AF8B-2AEL
+
+// Shotgun has 50 rounds of ammo (instead of only 12)
+GF8B-2AGJ
+
+// Energy Shield lasts twice as long (on initial use)
+0B8V-2JGN
+
+// Energy shield lasts 4 times as long (on initial use)
+NB8V-2WGN
+
+// Almost infinite health 1st agent (Red)
+FF53A6:0010
+
+// Almost infinite health 2nd agent (Green)
+FF53FE:0010
+
+// Almost infinite health 3rd agent (Blue)
+FF5456:0010
+
+// Almost infinite health 4th agent (White)
+FF54AE:0010
+
+// Infinite Gauss Gun ammo
+ALTA-CA6T
+
+// Infinite Mini-gun ammo
+ALVA-CA5E
+
+// Infinite Long Range ammo
+ALWA-CA68
+
+// Invincibility (Disable Hit Detection)
+R0FT-A6XJ

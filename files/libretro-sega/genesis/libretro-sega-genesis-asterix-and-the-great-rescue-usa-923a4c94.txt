@@ -1,0 +1,83 @@
+// Infinite Lives
+AJDA-AA54
+
+// Infinite Energy
+ATPT-AA5W
+
+// Infinite Time
+AKTA-AA8A
+
+// Invincibility
+G2HT-AN8J
+
+// Infinite Lives
+FFAAC6:0003
+
+// Infinite Energy
+FFAAC8:0006
+
+// Infinite Time
+FFABAC:0259
+
+// Invincibility
+FFAC30:0002
+
+// Infinite Bombs
+FFAACE:0009
+
+// Infinite Fly
+FFAACC:0009
+
+// Infinite Cloud
+FFAAD0:0009
+
+// Infinite Flowers
+FFAAD2:0009
+
+// Always Electric Asterix
+FFAC36:0001
+
+// Can Always Use The Flight Ability
+DTMA-AN9T
+
+// Can Always Use The Bombs And Clouds
+BAMT-AA22
+
+// Can Always Use The Flower Ability
+AAMA-AN74
+
+// Keep Bombs From Round To Round And After The Death
+AJDA-AA2N
+
+// Keep Clouds From Round To Round And After The Death
+AJDA-AA2T
+
+// Keep Flights From Round To Round And After The Death
+AJDA-AA2J
+
+// Keep Flowers From Round To Round And After The Death
+AJDA-AA2Y
+
+// Infinite Credits
+AKVA-CA84
+
+// Auto Walk
+CTJT-AA6C
+
+// 1 Hit Kill Enemies
+ABGT-AAER
+
+// Freeze Time Continue
+AKVA-CA42
+
+// Infinite Energy Extra
+AXJT-AA3A
+
+// Invincibility Extra
+R1JT-A6T0
+
+// Infinite Bombs/Clouds
+AJMT-AA28
+
+// Infinite Flights/Flowers
+AJVA-AA46

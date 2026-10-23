@@ -1,0 +1,15 @@
+// Infinite Time
+00C2-9164
+
+// Infinite Health
+00C2-5147
+00C2-5447
+
+// Infinite Lives
+00C0-1409
+
+// Always Have Nunchucks
+00C2-6201
+
+// Infinite Time (Alternate)
+00C2-9000

@@ -1,0 +1,75 @@
+// Infinite Lives
+AAZT-AAE8
+
+// Infinite Energy
+AAZA-AADR
+
+// Infinite Time
+AM5A-CA4R
+
+// Invincibility
+R0ZT-C6Z2
+R17A-C6XL
+
+// Infinite Fly
+RELT-A600
+A2PA-AA4R
+AJPA-AA6G
+
+// Hit Anywhere
+E40A-CA20
+
+// Infinite Energy
+FF8C62:0003
+
+// Infinite Lives
+FFDD70:0063
+
+// Infinite Time
+FFDD84:0059
+
+// Infinite Fly Meter
+FFDD7A:0080
+
+// Untouchable
+FF8068:0030
+
+// 1st Boss 1 Hit Kill
+FF8C72:0000
+
+// 2nd Boss 1 Hit Kill
+FF8C86:0001
+
+// Always Have Long Sword
+FFDD70:0001
+
+// Level Modifier
+FFDD72:0000
+
+// Auto-jump when walking Right
+D56T-CA4Y
+
+// Untouchable To Enemies
+ACZT-CAF0
+
+// Enemies automatically hit
+ACZT-CA86
+
+// Take less steps
+AART-AATA
+
+// Enemies can't move
+AC5T-CAKA
+
+// Enemies walk fast
+AC5T-CAKY
+
+// Invincibility
+R0ZT-C6ZL
+R17A-C6XL
+R18T-C6W2
+RYAT-E6Z0
+RYAT-E6VW
+R19T-C6W2
+R17A-C6VJ
+R16T-C61R

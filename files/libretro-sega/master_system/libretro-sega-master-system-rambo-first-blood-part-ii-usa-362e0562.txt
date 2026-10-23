@@ -1,0 +1,41 @@
+// Infinite Lives P2
+00C1-2003
+
+// Infinite Arrows P2
+00C1-2205
+
+// Infinite Lives
+00B-62F-3BE
+
+// Infinite Arrows P1
+00C1-2103
+
+// Infinite Lives P1
+00C1-1F02
+
+// P1 Inifnite Lives
+00B-62F-3BE
+
+// P1 Infinite Arrow-Bombs
+005-7EE-3BE
+
+// P2 Infinite Lives
+00B-A5F-3BE
+
+// P2 Infinite Arrow-Bombs
+008-31E-3BE
+
+// Start with ?? Lives, instead of 3 - Both Players
+046-F3F-E66
+
+// P1 Start with ?? Arrow-Bombs, instead of 5
+06B-CFE-F7E
+
+// P2 Start with ?? Arrow-Bombs, instead of 5
+06C-22E-F7E
+
+// Invincibility - Both Players
+5E7-F1D-2A7
+
+// P1 Invincibility
+00C4-0001

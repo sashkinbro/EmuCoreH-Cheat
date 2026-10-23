@@ -1,0 +1,34 @@
+// Infinite Energy
+AM2A-AA5Y
+
+// Infinite Energy P1
+FF01CE:0028
+
+// Infinite Energy P2
+FF01D8:0028
+
+// No Energy P1
+FF01CE:0000
+
+// No Energy P2
+FF01D8:0000
+
+// Infinite Credit
+AVZA-AA60
+
+// Freeze Time Round
+FF0320:0045
+
+// One Hit No Energy E
+ABHA-CAE0
+AACT-CAB4
+AAVA-CAFE
+AALA-CABN
+AAPT-CAE8
+AAGT-CAA6
+AAZA-CABW
+AA2A-CAH4
+AA7A-CAHJ
+
+// Freeze Time Round
+AKFT-AA20

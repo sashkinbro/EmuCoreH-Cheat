@@ -1,0 +1,2 @@
+// CPU Never Scores
+00D7-1F00

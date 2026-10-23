@@ -1,0 +1,9 @@
+// Most Enemies Will Give You Energy
+005D54:103C
+005D58:4E71
+
+// Infinite Large Magic
+006228:4E71
+
+// Infinite Little Magic
+006250:4E71

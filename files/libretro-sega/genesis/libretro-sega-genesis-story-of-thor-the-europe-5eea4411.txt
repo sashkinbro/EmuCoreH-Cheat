@@ -1,0 +1,29 @@
+// Fake Infinite Health
+FF184C:0063
+
+// Infinite Health
+FF1A72:00FF
+
+// Infinite H.P
+AKPA-AA24
+AW1A-CA28
+AXHT-CA56
+AKZT-AA6C
+AJGA-EA8N
+
+// Infinite S.P
+AJRT-CA8J
+AJRT-CA58
+AJXT-CA8L
+AJ2T-CA7J
+AJ2T-CA98
+AJ7A-CA90
+AXKA-CA48
+
+// Infinite Special Weapons
+ALDT-AA7T
+
+// Infinite Keys
+RFXA-A60G
+RHFT-A6VN
+RHFT-A6VL

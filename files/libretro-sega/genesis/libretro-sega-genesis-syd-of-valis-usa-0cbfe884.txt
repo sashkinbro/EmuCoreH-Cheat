@@ -1,0 +1,44 @@
+// Infinite bombs
+AK2A-AA8W
+
+// Infinite energy (except spikes and pits)
+HA3A-AYVR
+
+// Protection from spikes and pits
+HBKT-AYXW
+
+// Infinite lives
+AKHT-AA9T
+
+// Start with 3 times as much energy (1st life only)
+97DT-BB7R
+
+// Invincibility against enemies, bullets, etc.
+AA2T-AA58
+
+// Play in a Bikini
+RENT-A6TJ
+
+// Invincibility Against Dangerous Zones (Lava, Acid, Etc).
+EBKT-AA5T
+
+// Infinite Health
+FFD028:0063
+
+// Infinite Lives
+FFD038:0009
+
+// Infinite Bombs
+FFD036:0009
+
+// Invincibility
+RY2T-A6YW
+RZKT-A6W0
+RZKT-A6XW
+
+// Infinite Energy
+BA3A-AA3R
+BBKT-AA5W
+
+// 1 Shot Kill Enemies/Bosses
+AT3T-AA3G

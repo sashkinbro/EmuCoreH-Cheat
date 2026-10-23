@@ -1,0 +1,47 @@
+// Infinite Lives
+AAMT-AACW
+
+// Infinite Energy
+ABPT-AADC
+
+// Infinite Time
+RGRT-A6XL
+
+// Invincibility
+RELA-A6WW
+CALA-AN4T
+
+// Start With 99 Lives (Counter Looks Strange)
+XEEA-AACE
+
+// Start With A Lot More Energy (Counter Looks Strange)
+96JT-AAFY
+96JT-AAFR
+
+// Infinite Energy
+FFBB1C:003F
+
+// Infinite Lives
+FFEDE6:0009
+
+// Infinite Time
+FFBA24:0009
+
+// Infinite Pencils
+AB8T-AAEE
+
+// Infinite Cool
+AKPT-AA5C
+AKAT-AA5C
+
+// Infinite $
+AVMA-6A9Y
+
+// Infinite Sharpeners
+AK7T-AA8Y
+
+// Infinite Running Shoes
+AK9T-AA6G
+
+// Infinite Gum
+A39T-AA76

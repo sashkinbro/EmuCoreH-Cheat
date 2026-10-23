@@ -1,0 +1,23 @@
+// Infinite Sand Timer [Alternate]
+00C9-A504
+
+// Infinite Lives
+00C9-A203
+
+// Level Select
+00C9-B001
+
+// Infinite Time (In Hourglass)
+00CA-27FF
+
+// Infinite Paint On Paintbrush (Level 1 Only)
+00C9-F20F
+
+// FAKE? Fred's Bowling Score - One's Digit (Third Level Only) [0-9]
+00CA-6000
+
+// Fred's Bowling Score - One's Digit (Third Level Only)
+00CA-6AFF
+
+// Fred's Bowling Score - Hundred's Digit (Third Level Only)
+00CA-68FF

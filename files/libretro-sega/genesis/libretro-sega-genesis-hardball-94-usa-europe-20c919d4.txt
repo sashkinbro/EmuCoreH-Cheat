@@ -1,0 +1,20 @@
+// Balls Modifier
+FF1C50:0000
+
+// Strikes Modifier
+FF1C52:0000
+
+// Outs Modifier
+FF1C52:0000
+
+// Team 1 Runs Score Modifier (P1)
+FF1C4A:0000
+
+// Team 1 Home Score Modifier (P1)
+FF1C4C:0000
+
+// Team 1 Home Errors Modifier (P1)
+FF1C4E:0000
+
+// Team 1 Extra Inning Score Modifier (P1)
+FF1C48:0000

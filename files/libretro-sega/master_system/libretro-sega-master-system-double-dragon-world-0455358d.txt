@@ -1,0 +1,32 @@
+// Level Select
+00C1-1000
+
+// Infinite Lives
+00F-D8D-91D
+
+// Infinite Energy
+7EE-CDD-3B7
+
+// Continue with ?? lives
+00D-25F-E66
+
+// Start with Max Energy
+800-62C-A2B
+
+// Infinite Lives P1
+00CB-2B09
+
+// Infinite Health P1
+00CB-2A55
+
+// Infinite Lives P2
+00CB-6B09
+
+// Infinite Energy P2
+00CB-6A55
+
+// Infinite Lives
+B6F-D9D-3BE
+
+// 1-Hit Kills Enemies
+7EB-D7E-3B7

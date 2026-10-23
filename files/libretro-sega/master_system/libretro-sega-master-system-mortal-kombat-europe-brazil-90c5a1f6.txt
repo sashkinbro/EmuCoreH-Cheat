@@ -1,0 +1,147 @@
+// No Health P1
+00C4-8800
+
+// Infinite Health P2
+00C4-8A48
+
+// Infinite Continues
+00C4-0B07
+
+// Infinite Time
+00C4-3609
+
+// Blood Code Activated
+00C4-0928
+
+// Level Select [Replace ? With 0-A]
+00C4-2400
+
+// Infinite Time
+00B-01C-3BE
+
+// Access Goro on Character Select Screen
+075-998-F72
+
+// Infinite Health P1
+00C4-8849
+
+// No Health P2
+00C4-8A00
+
+// P1 Invincibility
+005-F88-91D
+005-F98-193
+7B5-FA8-80E
+FE5-FB8-5D0
+895-FC8-7F0
+
+// P1 Infinite Health
+003-0AB-F79
+
+// P2 Infinite Health
+003-12B-F79
+
+// Infinite Credits
+004-2B6-19E
+
+// Blood Enabled
+DEB-876-5D3
+
+// P1 starts with 1/2 health
+240-B9D-C4B
+
+// P2 usually starts with 1/2 health
+240-BFD-C4B
+
+// Start with ?? credits, instead of 6
+08B-BFA-F76
+
+// Punches do more damage
+20B-06F-F7A
+
+// Most kicks do more damage
+2CB-26F-C42
+
+// Foot sweeps do more damage
+30B-86F-C42
+
+// Flying punches do more damage
+30B-2EF-D5A
+
+// Uppercuts do more damage
+33B-56F-A2E
+
+// Throws do more damage
+2AF-1A7-D5A
+
+// Sonya Blade's leg grab does more damage
+2BB-76F-F7A
+
+// Scorpion's harpoon does more damage
+2BB-66F-F7A
+
+// Rayden's flying thunderbolt does more damage
+2BB-6EF-F7A
+
+// Johhny Cage's shadow kick does more damage
+2BB-4EF-D56
+
+// Some other special moves do more damage
+37B-36F-D52
+
+// Each round is ?? seconds
+013-E44-C4E
+
+// Start on match 2
+01B-AAA-E6A
+
+// Start on match 3
+02B-AAA-E6A
+
+// Start on match 4
+03B-AAA-E6A
+
+// Start on match 5
+04B-AAA-E6A
+
+// Start on mirror match
+05B-AAA-E6A
+
+// Start on endurance match 1
+06B-AAA-E6A
+
+// Start on endurance match 2
+07B-AAA-E6A
+
+// Start on endurance match 3
+08B-AAA-E6A
+
+// Start on match against Goro
+09B-AAA-E6A
+
+// Start on match against Shang Tsung
+0AB-AAA-E6A
+
+// Infinite Fatality Time
+C92-647-E69
+
+// ?? More Fatality Time
+64A-136-2A2
+
+// Johnny Cage (Press Punch)
+FFA-718-E62
+
+// Sonya (No idea how to execute it)
+FFA-758-E6E
+
+// Lui Kang (Press Down)
+FFA-7A8-E6E
+
+// Raiden (Press Punch)
+FFA-7D8-E6E
+
+// Sub-Zero (Press Punch)
+FFA-818-E62
+
+// Scorpion (Hold Block and Press Up)
+FFA-998-E6B

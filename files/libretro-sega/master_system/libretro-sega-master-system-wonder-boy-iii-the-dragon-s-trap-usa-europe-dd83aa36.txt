@@ -1,0 +1,71 @@
+// Invincibility
+00CF-5308
+
+// Start As Lizard-Man
+00C2-4F01
+
+// Start As Mouse-Man
+00C2-4F02
+
+// Start As Piranha-Man
+00C2-4F03
+
+// Start As Lion-Man
+00C2-4F04
+
+// Start As Hawk-Man
+00C2-4F05
+
+// Infinite Health
+215-31D-6E2
+
+// Start With All Armor Sheild Weapons 99 Of Each Item
+FF4-A1F-E6A
+
+// Infinite Items
+7E7-EFA-3B7
+
+// Hit Anywhere Other Modes
+00D-C9E-C49
+00D-42E-2A2
+37D-74E-196
+
+// Hit Anywhere Dragon Mode
+00E-7AE-A29
+
+// Infinite &quot;Fire Ball&quot; Blocks
+00CF-3E99
+
+// Infinite Health
+00CF-52FF
+
+// Infinite Blue Potions
+00CF-4A09
+
+// Infinite Energy
+2A5-11D-6E2
+
+// Invincibility
+00A-63B-F7E
+
+// Start a new game with 999,999 Gold
+094-97F-E6A
+
+// Infinite Revival (Blue) Potions
+3AB-B9B-2A2
+
+// Infinite Gold
+1AB-EFF-A22
+
+// Infinite Keys
+3AC-89B-2A2
+
+// Invincibility
+00C2-4080
+
+// Enable FM Audio
+00CF-8500
+00C2-3201
+
+// Jump Height Modifier
+F52-15A-089

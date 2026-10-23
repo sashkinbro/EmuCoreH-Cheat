@@ -1,0 +1,50 @@
+// Infinite D-Punches
+00C9-8205
+
+// Duke Is Always Invincible
+00C4-1432
+
+// Always Have Shot Type
+00C4-1200
+
+// Normal Gun Acts Like Rapid Fire Shot
+00C4-1CFF
+
+// Invincibility
+C92-FAC-19D
+
+// Boot Into The Cheat Menu
+00C2-000A
+
+// Infinite Credits (Continues)
+00C9-9309
+
+// Infinite Health
+00C4-1850
+
+// Infinite Ammo - Hundred's Digit
+00C9-8409
+
+// Infinite Ammo - Ten's Digit
+00C9-8509
+
+// Infinite Ammo - One's Digit
+00C9-8609
+
+// Infinite Lives
+00C9-8101
+
+// Infinite Lives
+009-C3C-3BE
+
+// Infinite Health
+7E2-FBC-3B7
+
+// Infinite Credits
+00E-C6B-3BE
+
+// Infinite Ammo
+7E5-94B-3B7
+
+// Infinite Dynamite Punches
+3AD-76C-2A2

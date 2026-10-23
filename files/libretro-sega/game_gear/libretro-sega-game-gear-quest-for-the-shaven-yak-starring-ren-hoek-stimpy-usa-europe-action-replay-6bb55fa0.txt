@@ -1,0 +1,14 @@
+// Infinite Lives For Ren
+00C2-F206
+
+// Infinite Lives For Stimpy
+00C2-F306
+
+// Infinite Energy For Ren
+00C2-F406
+
+// Infinite Energy For Stimpy
+00C2-F506
+
+// Invincibility
+00D4-CA11

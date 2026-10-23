@@ -1,0 +1,6 @@
+// Always have 99 marbles, even at the very beginning of the game
+9VBT-BGRN
+BFBT-AWGR
+
+// Hit enemies from anywhere (with marbles)
+CK9A-AA8W

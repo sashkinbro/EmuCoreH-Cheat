@@ -1,0 +1,5 @@
+// Infinite Lives
+00C0-C909
+
+// Always Have 9 Wands
+00C0-CA09

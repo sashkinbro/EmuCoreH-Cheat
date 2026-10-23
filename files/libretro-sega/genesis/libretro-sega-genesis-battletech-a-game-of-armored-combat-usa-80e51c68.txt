@@ -1,0 +1,102 @@
+// Infinite ammo
+AXYT-CA3Y
+
+// Infinite lives
+AX7T-AA7L
+
+// Don't take permanent damage from enemy shots
+AMZT-CA4Y
+
+// Don't take permanent damage from hitting most objects
+AM0A-CA26
+
+// Don't lose gun from overheating it
+ATGA-CA54
+
+// Start with 1 life
+AH3T-AAHL
+
+// Start with 2 lives
+AM3T-AAHL
+
+// Start with 4 lives
+AX3T-AAHL
+
+// Start with 5 lives
+A13T-AAHL
+
+// Start with 7 lives
+A93T-AAHL
+
+// Start with 9 lives
+BH3T-AAHL
+
+// Max ammo for Machine Gun is 999
+693T-TGHG
+
+// Max ammo for Auto Cannon is 500
+8X3T-TCHJ
+
+// Max ammo for Inferno Missiles is 500
+8X3T-TCHL
+
+// Max ammo for Large Laser is 500
+8X3T-TCHN
+
+// Max ammo for Thunder Mines is 500
+8X3T-TCHR
+
+// Max ammo for PPC is 250
+9M3T-TAHT
+
+// Max ammo for Long-Range missiles is 500
+8X3T-TCHW
+
+// Max ammo for Arrow Guided Missiles is 250
+9M3T-TAHY
+
+// Max ammo for Gauss Rifle is 250
+9M3T-TAH0
+
+// Start on mission 2
+AD3T-AAHW
+
+// Start on mission 3
+AS3T-AAHW
+
+// Start on mission 4
+AM3T-AAHW
+
+// Start on mission 5
+AX3T-AAHW
+
+// Infinite lives
+C3BT-AA5A
+
+// Infinite Lives
+FFCAC6:0003
+
+// Infinite Energy
+FFD43E:0000
+FFD424:0000
+
+// Mines Are Everywhere
+AVGA-AAG0
+
+// Danger Overheating
+PLKT-EXXA
+
+// Take Less Damage
+FFD424:0000
+
+// Infinite A Button Weapon
+FFD45A:0063
+
+// Infinite B Button Weapon
+FFD45C:03E7
+
+// Infinite c Button Weapon
+FFD45E:03E7
+
+// Infinite Time
+FFCAFC:09FF

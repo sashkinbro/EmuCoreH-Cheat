@@ -1,0 +1,15 @@
+// Acess Shao Kahn on Chatacter Select Screen
+04D-074-E66
+
+// Enable Smoke
+B66-D6E-3B4
+
+// Infinite Credits (Continues)
+00D3-A509
+
+// Infinite Health P1
+CEA-584-D5D
+
+// P1 Wins Soon As The Round Starts
+006-11C-19A
+006-12C-19A

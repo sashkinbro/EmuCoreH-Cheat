@@ -1,0 +1,52 @@
+// Infinite Air And Energy
+00CA-C123
+
+// Infinite Air
+00CA-BF21
+
+// Infinite Health &amp; Air
+00D7-8101
+
+// Swim Thru Walls
+00D7-8001
+
+// Infinite air
+3E3-4B8-C46
+
+// Less air when you jump out of the water
+050-AC8-6E6
+
+// Air goes down slower
+003-4B8-C46
+
+// Infinite energy
+21C-D49-6E2
+
+// Take less damage
+05C-D29-199
+
+// Protection from some hazards
+FFC-D29-199
+
+// Shells replenish less energy and less air
+053-EAA-6E6
+053-E4A-6E6
+
+// No replenishment of air energy by anything
+C93-E2A-6EE
+
+// No extra air when jumping out of the water
+217-AD8-6E2
+
+// Shells Replenish Less Energy &amp; Less Air
+053-E4A-6E6
+
+// Take Less Damage
+053-EAA-6E6
+05C-D29-199
+
+// Debug Menu
+014-687-C4A
+
+// Infinite Health
+00CA-C222

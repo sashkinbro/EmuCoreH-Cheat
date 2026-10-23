@@ -1,0 +1,11 @@
+// Infinite Energy
+ALKT-AA9G
+
+// Infinite Granades
+AKHT-AA6R
+
+// Infinite Ammo
+AK6A-AA4W
+
+// Infinite Credits
+A4LA-AA9W

@@ -1,0 +1,54 @@
+// Infinite Time In Time Trial (One's Digit?)
+FFEB88:00B1
+
+// Drop piece to Clear Line
+RE0A-A6WE
+
+// Pieces won't drop unless you press Down (no automatic drop)
+AAZA-AA24
+
+// Heading title on title screen Programmed By Naoki Okabe
+RE5A-A612
+
+// Level never Increases
+AT1A-AA9E
+
+// Infinite Time in Time Trial
+AJVT-AA40
+
+// Always get Square Piece
+HT2A-BAD6
+AA2A-AAD8
+
+// Always get T Piece
+HT2A-BAD6
+AE2A-AAD8
+
+// Always get Line Piece
+HT2A-BAD6
+AJ2A-AAD8
+
+// Always get J Piece
+HT2A-BAD6
+AN2A-AAD8
+
+// Always get L Piece
+HT2A-BAD6
+AT2A-AAD8
+
+// Always get Z Piece
+HT2A-BAD6
+AY2A-AAD8
+
+// Always get S Piece
+HT2A-BAD6
+A22A-AAD8
+
+// Time Trial is 4 Minutes, instead of 3 Minutes
+8ALT-AAF4
+
+// Time Trial is 5 Minutes
+FTLT-ACF4
+
+// Time Trial is 6 Minutes
+PALT-ACF4

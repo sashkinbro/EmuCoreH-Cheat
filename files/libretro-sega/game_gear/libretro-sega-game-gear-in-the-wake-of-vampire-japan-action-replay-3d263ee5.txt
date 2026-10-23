@@ -1,0 +1,14 @@
+// Infinite Lives
+00DF-BA09
+
+// Infinite Energy
+00CA-3A20
+
+// Infinite Time (One's Digit)
+00DF-C309
+
+// Infinite Time (Ten's Digit)
+00DF-C409
+
+// Infinite Time (Hundred's Digit)
+00DF-C509

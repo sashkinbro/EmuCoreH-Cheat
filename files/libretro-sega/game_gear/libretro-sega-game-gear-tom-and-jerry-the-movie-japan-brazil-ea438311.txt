@@ -1,0 +1,26 @@
+// Infinite Continues
+00CB-8009
+
+// Infinite Health
+00CB-2A08
+
+// Invulnerability
+00C4-6B1E
+
+// Don't Blink When Damaged
+180-099-6EA
+
+// Invulnerable To Some Obstacles
+C35-C2A-E61
+
+// Invulnerable To Bombs
+18D-3FA-6EA
+
+// Invulnerability After Taking Damage
+00B-33E-19E
+
+// Infinite Health
+000-AEA-19E
+
+// Infinite Continues
+00D-E56-19E

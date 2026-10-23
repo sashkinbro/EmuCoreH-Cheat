@@ -1,0 +1,24 @@
+// Always get 100%
+FYWA-BAB2
+CJWA-AAB4
+
+// Infinite Time
+FFF4E8:003B
+
+// Infinite Floaters
+FFF48A:0063
+
+// Infinite Climbers
+FFF48A:0063
+
+// Infinite Builders
+FFF48E:0063
+
+// Infinite Bombers
+FFF48C:0063
+
+// Infinite Time
+RYXT-A6ZL
+
+// Infinite Use of all Types of Lemmings
+RYXT-A6W4

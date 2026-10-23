@@ -1,0 +1,87 @@
+// Infinite Health
+00C5-8D0C
+
+// Shion Starts With Maximum Hearts
+00C5-8B08
+
+// Shion Can Multi-Jump
+00C6-7001
+
+// Infinite Gold
+00C6-7DFF
+00C6-7EFF
+
+// Infinite Firestorm Magic
+00C5-850B
+
+// Infinite Quake Magic
+00C5-860B
+
+// Infinite Thunder Magic
+00C5-870B
+
+// Infinite Power Magic
+00C5-880B
+
+// Infinite Shield Magic
+00C5-890B
+
+// Infinite Return Magic
+00C5-8A0B
+
+// Have Knight Sword
+00C5-9901
+
+// Have Trident
+00C5-9A01
+
+// Have Excalibur
+00C5-9B01
+
+// Have Legend Sword
+00C5-9C01
+
+// Have Leather Armor
+00C5-9F01
+
+// Have Steel Armor
+00C5-A001
+
+// Have Knight Armor
+00C5-A101
+
+// Have Flame Armor
+00C5-A201
+
+// Have Legend Armor
+00C5-A301
+
+// Have Wood Shield
+00C5-A501
+
+// Have Steel Shield
+00C5-A601
+
+// Have Knight Shield
+00C5-A701
+
+// Have Flame Shield
+00C5-A801
+
+// Have Legend Shield
+00C5-A901
+
+// Have Leather Boots
+00C5-AB01
+
+// Have Desert Boots
+00C5-AC01
+
+// Have Ceramic Boots
+00C5-AD01
+
+// Have Legend Boots
+00C5-AE01
+
+// Get Unlimited Coins At The First Hidden Coin Spot
+00D2-03FF

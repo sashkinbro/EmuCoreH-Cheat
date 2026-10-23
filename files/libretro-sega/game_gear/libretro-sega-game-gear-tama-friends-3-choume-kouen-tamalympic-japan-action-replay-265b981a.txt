@@ -1,0 +1,11 @@
+// Infinite Time (In Sandbox Game)
+00D4-1525
+
+// Low Time (In Slide Game)
+00D4-1500
+
+// 9.?? Meter Jump In Swing Game
+00D3-5709
+
+// 199 Jumps In Tire Game
+00D3-5899

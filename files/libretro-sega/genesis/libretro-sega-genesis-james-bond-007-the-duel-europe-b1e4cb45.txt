@@ -1,0 +1,54 @@
+// Infinite Energy
+AA4T-CAHC
+
+// Invincibility
+E3ST-AN5Y
+AKST-AA56
+
+// No Women To Save
+FFBC16:0000
+
+// Infinite Health
+FFE0AE:0009
+
+// Infinite Lives
+FFF47A:0004
+
+// Infinite Clips
+FFF47A:0004
+
+// Infinite Ammo
+FFF47E:0011
+
+// Infinite Grenades
+FFF480:0002
+
+// Infinite Energy
+AMKA-AA56
+ALST-AA8A
+ALBT-AA20
+AB7A-AA78
+ALLT-AA9L
+ALDA-AA8G
+
+// Invincibility
+R1KA-A6X2
+RZ7A-A6Z4
+R0AT-A6VT
+R0LT-A60J
+R0DA-A6YY
+
+// Infinite Clips
+AWNT-AA20
+
+// Infinite Ammo
+AW8A-AA9N
+
+// Infinite Granades
+AV8T-AA82
+
+// Freeze Time Find Bomb Exit
+AK5T-AA5G
+
+// Invulnerability (Walk Thru Enemies)
+ADKA-AR52

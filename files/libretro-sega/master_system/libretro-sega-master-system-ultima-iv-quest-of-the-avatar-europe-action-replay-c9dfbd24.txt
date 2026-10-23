@@ -1,0 +1,36 @@
+// Infinite Health (Main Character)
+00C7-51FF
+
+// Enter Dungeons On Bottom (8th) Level
+00C9-7007
+
+// Number of Moves Frozen At 60,100
+00C8-FD00
+00C9-0100
+
+// Infinite Food
+00C9-070F
+00C9-0827
+
+// Infinite Gold
+00C9-090F
+00C9-0A27
+
+// Infinite Torches
+00C9-1363
+
+// Infinite Gems
+00C9-1463
+
+// Infinite Keys
+00C9-1563
+
+// Start With/Have All Quest Items
+00C9-51FF
+00C9-52FF
+
+// Start With/Have All Stones
+00C9-55FF
+
+// Start With/Have All Runes
+00C9-56FF

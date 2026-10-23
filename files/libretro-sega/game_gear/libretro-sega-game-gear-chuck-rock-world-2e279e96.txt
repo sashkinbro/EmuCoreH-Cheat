@@ -1,0 +1,64 @@
+// Infinite Lives
+00C0-8E03
+
+// Infinite Health
+00C0-8F06
+
+// Infinite Health Cheat Enabled
+00C0-0A01
+
+// Start with 1 life
+008-52E-E66
+
+// Start with 2 lives
+018-52E-E66
+
+// Start with 6 lives
+058-52E-E66
+
+// Start with mega energy--1st life
+88A-5CE-F72
+
+// Start on level 2
+02E-EBF-E6A
+
+// Start on level 3
+03E-EBF-E6A
+
+// Start on level 4
+04E-EBF-E6A
+
+// Start with lots of lives
+3AB-0EE-19D
+
+// Infinite Health
+00C0-8F05
+
+// Level Select
+00C0-8C02
+
+// Infinite Lives
+00B-0EE-19D
+00B-0FE-3BE
+00B-10E-D56
+
+// Infinite Health
+C94-98C-E69
+
+// Invulnerability
+00C1-1102
+
+// Invulnerability
+C9F-EBC-E69
+
+// Enable Infinite Health and Level Skip Cheats
+00C0-0A01
+
+// Disable Infinite Health and Level Skip Cheats
+00C0-0A00
+
+// Jump in Midair
+FDF-61D-91D
+04F-63D-E6A
+46F-64D-B33
+20F-65D-4CA

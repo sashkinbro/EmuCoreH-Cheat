@@ -1,0 +1,3 @@
+// Enable Debug/Level Select/Invincibility Cheats
+FFF28E:FFFF
+FFF290:FFFF

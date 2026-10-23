@@ -1,0 +1,20 @@
+// Only Have 2 Downs
+011-7FB-E66
+
+// Infinite Downs
+001-7DB-3BA
+
+// Start On Down 2
+023-9EB-E6E
+
+// Start On Down 3
+033-9EB-E6E
+
+// Start On Down 4
+043-9EB-E6E
+
+// Infinite Play Clock
+00B-287-19E
+
+// Infinite Game Time
+00B-6B7-19E

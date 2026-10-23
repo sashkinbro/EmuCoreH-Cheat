@@ -1,0 +1,43 @@
+// 1st Race Is 0:45 Instead Of 1:00
+2DD-68D-19A
+
+// 1st Race Is 2:00
+78D-68D-19A
+
+// 1st Race Is 4:15
+FFD-68D-19A
+
+// 2nd Race Is 0:45 Instead Of 1:30
+2DD-69D-803
+
+// 2nd Race Is 2:00
+78D-69D-803
+
+// 2nd Race Is 4:15
+FFD-69D-803
+
+// 3rd Race Is 0:45 Instead Of 1:20
+2DD-6AD-A2B
+
+// 3rd Race Is 2:00
+78D-6AD-A2B
+
+// 3rd Race Is 4:15
+FFD-6AD-A2B
+
+// 4th Race Is 0:45 Instead Of 2:00
+2DD-6BD-E60
+
+// 4th Race Is 2:00
+78D-6BD-E60
+
+// 4th Race Is 4:15
+FFD-6BD-E60
+
+// Time For All Races Is 4:15
+3EB-94F-80E
+FFB-95F-193
+
+// Items Are Free If You Have Enough Money
+000-BFC-5DD
+000-C0C-A23

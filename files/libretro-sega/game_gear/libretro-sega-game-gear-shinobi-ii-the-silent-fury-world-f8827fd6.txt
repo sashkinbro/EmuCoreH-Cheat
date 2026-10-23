@@ -1,0 +1,96 @@
+// Infinite Ninjitsu Magic
+00C0-4109
+
+// Have all Ninjas
+00C0-28FF
+
+// Have all Crystals Collected
+00C0-27FF
+
+// Go Straight To Round 5 [Enemy Base]
+00C0-2005
+
+// Ultimate Jump
+00CF-1504
+
+// Invincible
+00C0-F20D
+
+// Transparent Ninja
+00CF-01FF
+
+// Invincible With Moon Jump
+00C0-F20D
+00CF-210A
+
+// Start with 4 energy bars
+052-50F-F7A
+
+// Start with 6 energy bars
+072-50F-F7A
+
+// Start with 9 energy bars
+0A2-50F-F7A
+
+// Infinite energy
+21A-41C-2A2
+
+// Infinite ninjitsu magic
+008-30D-3BE
+
+// Start with 7 lives
+062-58F-F7A
+
+// Start with 10 lives
+092-58F-F7A
+
+// Infinite lives
+00B-A0C-3BE
+
+// Start With 4 Lives
+032-58F-F7A
+
+// Infinite Lives
+00C0-4009
+
+// Mega Jump
+00CF-1514
+
+// Super Jump
+00CF-1524
+
+// Shinobi X-Axis Modifier
+00CF-1100
+
+// Invulnerability
+C9D-D5A-E69
+
+// Walk Through Walls
+C9A-EAB-A28
+C9A-F7B-A28
+
+// Blink ?? longer after being hit
+1EB-24C-B3A
+
+// Jump Higher
+F06-85C-081
+
+// Infinite Health
+3AA-41C-2A2
+
+// Have all Ninjas
+003-48D-3B6
+
+// Jump to any Height (Hold Jump to go higher, release to descend)
+BD6-BBC-B31
+
+// Start every Life with ?? Health Bars
+062-50F-F7A
+06F-28D-6EA
+3EF-27D-3B4
+00F-29D-2AA
+77F-2DD-193
+
+// Infinite/Max Health
+00C0-240C
+00C0-250C

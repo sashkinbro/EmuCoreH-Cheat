@@ -1,0 +1,53 @@
+// Start With 2 Lives
+012-19F-E66
+
+// Start With 6 Lives
+052-19F-E66
+
+// Start With 10 Lives
+092-19F-E66
+
+// Start With 1 Energy Bar For First Knockdown Only
+012-21F-F76
+
+// Start With Two Energy Bars For First Knockdown Only
+022-21F-F76
+
+// Start With Lots Of Energy
+00F-03F-3BF
+
+// Pick Up Gun & Keep Until End Of Level
+00C-B6F-3BE
+
+// Gun Has 1 Bullet
+013-D9C-DD6
+
+// Gun Has 5 Bullets
+053-D9C-DD6
+
+// Gun Has 9 Bullets
+093-D9C-DD6
+
+// 2 Lives After 1st Continue
+017-EAD-E66
+
+// 6 Lives After 1st Continue
+057-EAD-E66
+
+// 10 Lives After 1st Continue
+097-EAD-E66
+
+// Infinite Continues
+007-E5D-3B7
+
+// Start With 1 Energy Bar (After 1st Life)
+014-37F-F76
+
+// Start With 1.5 Energy Bars (After 1st Life)
+024-37F-F76
+
+// Start With 2 Energy Bars (After 1st Life)
+034-37F-F76
+
+// Nasties Warp All Over The Place (Very Hard To Kill)
+AFD-0AE-F70

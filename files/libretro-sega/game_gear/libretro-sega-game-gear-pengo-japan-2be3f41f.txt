@@ -1,0 +1,8 @@
+// Infinite Lives
+00C1-3804
+
+// Elimintes Sno-Bees (Used With below Code Will Keep Eggs Flashing)
+00C2-1100
+
+// Keeps Timer At 00 (Used With below Code Will Keep Eggs Flashing)
+00C1-2F00

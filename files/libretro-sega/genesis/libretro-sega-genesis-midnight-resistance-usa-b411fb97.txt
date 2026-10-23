@@ -1,0 +1,172 @@
+// Infinite lives
+CAWA-AA2Y
+
+// Infinite ammo for full-auto weapon
+JGAT-EEVR
+
+// Infinite ammo for 3-way weapon
+JGAT-EEY2
+
+// Infinite ammo for flame thrower
+JGKA-EET4
+
+// Infinite ammo for shotgun
+JGAT-EE1Y
+
+// Infinite ammo for nitro weapon
+JGBT-EEVJ
+
+// Infinite ammo for shower weapon
+JGBT-EEYE
+
+// Infinite ammo for homing missile
+JGAA-EEZJ
+
+// 1-up worth 0 lives
+RHRA-E6T2
+
+// 1-up worth 2 lives
+JDRA-FJT2
+
+// 1-up worth 5 lives
+JDRA-FYT2
+
+// 1-up worth 8 lives
+JDRA-FAT2
+
+// Infinite continues
+AVGA-AA34
+
+// Start at stage 2
+AE2T-BA4A
+
+// Start at stage 3
+AJ2T-BA4A
+
+// Start at stage 4
+AN2T-BA4A
+
+// Start at stage 5
+AT2T-BA4A
+
+// Start at stage 6
+AY2T-BA4A
+
+// Start at stage 7
+A22T-BA4A
+
+// Start at stage 8
+A62T-BA4A
+
+// Start at stage 9
+BA2T-BA4A
+
+// Infinite Lives
+ATWA-AA2Y
+
+// Invincibility
+ACWA-ER2G
+
+// Start With 1 Life
+AA2T-AADL
+JJ2T-AJDN
+
+// Start With 8 Lives
+AA2T-AADL
+LJ2T-ALDN
+
+// Start With 10 Lives
+AA2T-AADL
+FA2T-AJDN
+
+// Continue With 1 Life
+ABGA-AABN
+JKGA-AJBR
+
+// Continue With 8 Lives
+ABGA-AABN
+LKGA-ALBR
+
+// Continue With 10 Lives
+ABGA-AABN
+FBGA-AJBR
+
+// Supply Room Items Require 1 Key Each
+HXXA-FAC6
+AHXA-EAC8
+HXXA-FBE4
+AHXA-EAE6
+
+// Supply Room Items Require 2 Keys Each
+HXXA-FAC6
+AMXA-EAC8
+HXXA-FBE4
+AMXA-EAE6
+
+// Supply Room Items Require 6 Keys Each
+HXXA-FAC6
+A5XA-EAC8
+HXXA-FBE4
+A5XA-EAE6
+
+// All Supply Room Items Are Free
+RHXA-E6XG
+AMXA-EA64
+
+// 0 Continues
+AA2T-AADA
+JJ2T-AJDC
+
+// 7 Continues
+AA2T-AADA
+LJ2T-ALDC
+
+// 9 Continues
+AA2T-AADA
+FA2T-AJDC
+
+// Infinite Lives P1
+FF6450:0009
+
+// Infinite Hammers? P1
+FF6456:0009
+
+// Infinite Chaingun Ammo P1
+FF6462:0075
+
+// Infinite 'Spreadgun' Ammo P1
+FF6466:0075
+
+// Always Have Spreadgun
+FF645A:0002
+FF645C:000C
+FF6462:0004
+FF6466:0004
+
+// Skip Levels In Game Pause And Press A
+FF0C3A:0001
+
+// Skip Levels In Game Pause And Press A
+RFGA-A6W8
+
+// Infinite Ammo For Special Weapons
+AWAT-EA46
+AWAT-EA8E
+AWKA-EA32
+AWBA-EA3C
+AWBT-EA4G
+AWBT-EA7A
+AWAA-EA8E
+
+// Keep Keys After The Death
+AXLT-EA4W
+AX8T-CA7N
+
+// Infinite Keys
+AXXA-EA68
+
+// Invincibility
+R0VT-E610
+
+// 1 Hit Invincibility
+FF0C5E:0010

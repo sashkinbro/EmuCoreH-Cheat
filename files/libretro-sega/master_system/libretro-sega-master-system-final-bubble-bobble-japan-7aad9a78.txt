@@ -1,0 +1,89 @@
+// Invulnerability
+00CE-9BFF
+
+// Infinite Lives P1
+00CE-B704
+
+// Infinite Time
+00CE-7E00
+
+// Invincibility against Enemies - Both Players
+001-A6B-E68
+
+// Infinite Lives - Both Players
+B68-647-3BE
+
+// Infinite Time
+2A1-CEF-6E2
+
+// Start with ?? Lives - Both Players
+05E-EEE-E66
+
+// Select 1P or 2P Continue for Round Select
+00DC-8BC7
+
+// Hit Anywhere - Normal Enemies
+001-955-A22
+001-9E5-C4E
+186-D36-191
+1A6-D46-806
+
+// Start with letters X and T
+00E-F5E-5D4
+
+// Invincibility against Projectiles - Both Players
+002-22B-E68
+
+// Cheat Modifier (Enable on Play Select Screen)
+00CE-EA01
+
+// P1 Invincibility
+00CE-9BFF
+00CE-9CFF
+
+// P2 Invincibility
+00CF-1BFF
+00CF-1CFF
+
+// P1 Infinite Lives
+00CE-B707
+
+// P2 Infinite Lives
+00CF-3707
+
+// P1 Have all Special Items
+00CE-EBFF
+
+// P2 Have all Special Items
+00CF-6BFF
+
+// Infinite Time - Bonus Rounds (Disable to exit room)
+00DC-8500
+
+// Invincibility against Deadly Monster (appears when you take too much time) - Both Players
+003-925-E68
+
+// Invincibility against Super Drunk Boss - Both Players
+00E-036-E68
+00D-BC6-E68
+
+// Infinite Time - Bonus Rounds (Disable to exit room)
+00E-CFA-3BE
+
+// Bonus Round Timer starts at 30 seconds, instead of 20
+1EA-614-B3A
+
+// Bonus Round Timer starts at 40 seconds
+28A-614-B3A
+
+// Pause during gameplay to get all Special Items
+3EF-246-6EA
+FFF-256-C4A
+32F-266-082
+
+// Select 1P or 2P Continue for Round Select
+23E-DC4-3B2
+
+// Cheat Modifier (Enable before Play Select Screen)
+3EE-D9E-6EE
+01E-DAE-E6A

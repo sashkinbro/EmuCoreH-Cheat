@@ -1,0 +1,17 @@
+// Infinite Health (Player)
+00C1-EA03
+
+// Infinite Health (Car)
+00CA-0003
+
+// Infinite Continues
+00C0-3309
+
+// Infinite Players (Lives)
+00C0-2F09
+
+// FAKE Infinite Health (Player)
+00C0-2D03
+
+// Infinite Energy In The Car (Alternate)
+00C9-0003

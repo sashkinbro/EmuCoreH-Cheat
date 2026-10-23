@@ -1,0 +1,135 @@
+// Start with 1 life
+AD5T-AAAE
+
+// Start with 5 lives
+AX5T-AAAE
+
+// Start with 10 lives
+BH5T-AAAE
+
+// Infinite lives
+ACFA-AACC
+
+// Start with very little energy after 1st life
+AGFA-AACG
+
+// Start with 1/2 energy after 1st life
+AWFA-AACG
+
+// Start with 3/4 energy after 1st life
+A8FA-AACG
+
+// Start with very little energy on 1st life
+AF5T-AAAA
+
+// Start with 1/2 energy on 1st life
+AV5T-AAAA
+
+// Start with 3/4 energy on 1st life
+A75T-AAAA
+
+// Infinite Special Screams
+AAVT-AAGT
+
+// Books worth nothing
+ACWA-CAEG
+
+// Infinite garbage
+AAVA-AACA
+
+// Garbage worth nothing
+ACMT-CAGA
+
+// Garbage worth 20
+CWMT-CAGA
+
+// Garbage worth 50
+GLMT-CAGA
+
+// Garbage worth 99
+NRMT-CAGA
+
+// Bugs aren't worth anything
+AANA-CAA0
+
+// Infinite energy
+ADBA-AADJ
+
+// Infinite Lives
+AWFA-AA38
+
+// Infinite Energy
+AMBA-AA5G
+
+// Infinite Books
+ATVT-AA8N
+
+// Infinite Weapon
+ATVA-AA36
+
+// Invincibility
+A44T-AN70
+
+// Infinite Lives
+FFE774:0007
+
+// Infinite Energy
+FFB78C:000B
+
+// Invincibility
+FFE838:002E
+
+// Infinite Books
+FFE778:0005
+
+// Infinite Weapon
+FFE776:0009
+
+// Infinite Health (Alternate)
+FFB78C:0015
+
+// Infinite Lives (Alternate)
+FFE774:0009
+
+// Infinite &quot;M&quot; Books
+FFE778:0009
+
+// Infinite Skulls Objects
+FFE776:0099
+
+// Skip SEGA Logo Screen
+REBT-A6VJ
+
+// Enabled Cheat Code Monsters Options
+RE3A-A6XW
+
+// Invincibility (Disable Hit Detection)
+R1AT-A6YA
+RZAT-A6TJ
+R1BA-A610
+
+// Jump In Mid-Air (Multi Jumps)
+BJSA-AA3A
+
+// Jump In Mid Air (Multi Jumps) - Aaahh!!! Real Monsters (USA) (Beta) (1995-07-07)
+BJRT-AA7L
+
+// Invincibility (Disable Hit Detection) - Aaahh!!! Real Monsters (USA) (Beta) (1995-07-07)
+R09T-A6X6
+RZAA-A6V2
+R1AA-A61L
+
+// Infinite Lives - Aaahh!!! Real Monsters (USA) (Beta) (1995-07-07)
+ALEA-AA7J
+
+// Infinite Hearts - Aaahh!!! Real Monsters (USA) (Beta) (1995-07-07)
+AMAA-AA44
+
+// Infinite M - Aaahh!!! Real Monsters (USA) (Beta) (1995-07-07)
+AJVT-AA40
+
+// Infinite Weapon - Aaahh!!! Real Monsters (USA) (Beta) (1995-07-07)
+AJTT-AA8G
+
+// Enabled Cheat Code Monsters Options - Aaahh!!! Real Monsters (USA) (Beta) (1995-07-07)
+RE2T-A616

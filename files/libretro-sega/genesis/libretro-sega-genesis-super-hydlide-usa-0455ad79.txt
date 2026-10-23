@@ -1,0 +1,77 @@
+// no current weight
+FFE032:0000
+
+// Life Modifiers
+FFE00A:00BE
+FFE00C:00BE
+
+// Mp Modifiers
+FFE012:0000
+FFE014:0000
+FFE016:0000
+
+// Ap Modifiers
+FFE01A:0000
+FFE01A:0000
+FFE124:0000
+
+// Ac Modifiers
+FFE01C:0000
+FFE01C:0000
+FFE026:0000
+FFE028:0000
+
+// Agi Modifiers
+FFE01E:0000
+FFE01E:0000
+FFE020:0000
+
+// Strength Modifiers
+FFE010:0000
+FFE010:0000
+FFE122:0000
+
+// Dexterity Modifiers
+FFE020:0000
+FFE022:0000
+
+// Intelligence Modifiers
+FFE022:0000
+FFE024:0000
+
+// MF Modifier
+FFE028:0000
+
+// Charm Modifiers
+FFE026:0000
+FFE028:0000
+
+// Luck Modifiers
+FFE024:0000
+FFE026:0000
+
+// Start A New Game With $5,000 Gold
+A0EA-AAAC
+
+// Start A New Game With $250,000 Gold
+9LEA-AAAC
+
+// Infinite Life
+AM3T-AA4T
+
+// Infinite Life Alternate Code
+9M3T-AADA
+
+// Buying Items Will Give You Their Value Added To Your Gold
+THCA-BBWN
+
+// Get Max Exp From One Kill
+RH6T-A6VY
+
+// Life Doesn't Decrease With Time
+JBYA-DCJY
+BVYA-CAA0
+RFYA-C6T2
+
+// Freeze Time
+AK5A-AA7L

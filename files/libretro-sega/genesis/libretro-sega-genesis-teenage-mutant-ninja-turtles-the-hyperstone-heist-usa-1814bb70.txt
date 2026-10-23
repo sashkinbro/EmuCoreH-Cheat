@@ -1,0 +1,295 @@
+// All turtles have Leo's weapon
+ASCT-CAYT
+
+// All turtles jump fast
+AX6T-CAWW
+
+// Enemys get hit when they get close to Donatello
+AXRT-CAWY
+
+// Start With ?? Lives Mod (Alternate)
+DBTT-DAE0
+
+// Activates stage select
+AB1T-CN5A
+
+// Player 1 starts with 1 life instead of 3
+RFWA-C6VA
+9VWA-DGKC
+ABWA-CABE
+
+// Player 1 starts with 10 lives
+RFWA-C6VA
+9VWA-DGKC
+BFWA-CABE
+
+// Player 1 starts with 25 lives
+RFWA-C6VA
+9VWA-DGKC
+EVWA-CABE
+
+// Player 1 starts with 50 lives
+RFWA-C6VA
+9VWA-DGKC
+KFWA-CABE
+
+// Player 1 starts with 75 lives
+RFWA-C6VA
+9VWA-DGKC
+RVWA-CABE
+
+// Player 1 starts with 100 lives
+RFWA-C6VA
+9VWA-DGKC
+XFWA-CABE
+
+// Player 2 starts with 1 life instead of 3
+RFWA-C6VL
+9VWA-DGKN
+ABWA-CABR
+
+// Player 2 starts with 10 lives
+RFWA-C6VL
+9VWA-DGKN
+BFWA-CABR
+
+// Player 2 starts with 25 lives
+RFWA-C6VL
+9VWA-DGKN
+EVWA-CABR
+
+// Player 2 starts with 50 lives
+RFWA-C6VL
+9VWA-DGKN
+KFWA-CABR
+
+// Player 2 starts with 75 lives
+RFWA-C6VL
+9VWA-DGKN
+RVWA-CABR
+
+// Player 2 starts with 100 lives
+RFWA-C6VL
+9VWA-DGKN
+XFWA-CABR
+
+// Infinite lives player 1
+ADCT-CAGC
+
+// Infinite lives player 2
+ADFA-CAB2
+
+// Both players are invincible
+RHST-C6YG
+
+// Deadly attack uses no life points Player 1
+BXYA-CA6L
+
+// Deadly attack uses no life points Player 2
+BXYT-CA2G
+
+// All Turtles Will Use Katanas
+9XCT-DGEL
+ADCT-CAEN
+99CT-CAER
+H1CT-CBYT
+RHCT-C6YW
+
+// All Turtles Will Use Nunchakus
+9XCT-DGEL
+AHCT-CAEN
+99CT-CAER
+H1CT-CBYT
+RHCT-C6YW
+
+// All Turtles Will Use Bo
+9XCT-DGEL
+AMCT-CAEN
+99CT-CAER
+H1CT-CBYT
+RHCT-C6YW
+
+// All Turtles Will Use Sai
+9XCT-DGEL
+ASCT-CAEN
+99CT-CAER
+H1CT-CBYT
+RHCT-C6YW
+
+// Donatello can hit anything just by walking
+ASRT-CWWY
+
+// Infinite Energy
+ATDT-EA6J
+
+// Infinite Lives
+AXCT-CA8G
+
+// Invincibility
+AMST-CA6C
+
+// Hit Anywhere
+9V2A-FDLJ
+972A-EACL
+AF2A-EPWN
+SV2A-EL4R
+
+// One Hit Kills
+RGNA-E6XA
+RHXT-E6WN
+REPT-G60A
+
+// Untouchable
+ADST-CPEG
+
+// All Characters Flash
+ADST-CS42
+
+// You Can Highlight Two Players
+RVHT-C9PN
+
+// Infinite Health P1
+FFC058:0077
+
+// Infinite Health P2
+FFC05A:0077
+
+// Infinite Lives P1
+FFC038:0009
+
+// Infinite Lives P2
+FFC03A:0009
+
+// Score Modifier P1
+FFC034:0000
+FFC034:0000
+
+// Score Modifier P2
+FFC036:0000
+FFC038:0000
+
+// Turtle Modifier (Both Players)
+FFC028:0000
+
+// Be Invulnerable P1 (Can't Move)
+FFC402:001B
+
+// Level Text Modifier
+FFC01E:0000
+
+// Level Modifier
+FFC024:0000
+
+// No Health Bosses
+FFC758:0000
+
+// Ride A Glitched Surfboard P1
+FFC20A:0002
+
+// Hyper P1
+FFC454:0000
+
+// Ghost P1 (Visually)
+FFC464:0045
+
+// Enemies Can't Touch P1
+FFC466:0045
+
+// P1 Eyes, Elbows, &amp; Knee Bands Color Modifier
+FFF81C:0000
+
+// Hyper P2
+FFC5D4:0000
+
+// Ghost P2 (Visually)
+FFC5E4:0045
+
+// Enemies Can't Touch P2
+FFC5E6:0045
+
+// P2 Eyes, Elbows, &amp; Knees Band Color Modifier
+FFF83C:0000
+
+// Untouchable
+R1ST-C6YL
+
+// Extra Energy - Super Punch
+R1YA-C6YL
+R1YA-C6ZE
+R1YA-C6Z8
+R1YA-C600
+
+// Can select up to 9 lives in the Option menu
+BF4T-CAGN
+
+// Can select up to 9 continues in the Option menu
+BK5A-CABW
+
+// Invincibility lasts 5x as long when you start each life. See notes.
+6DCT-CCBL
+
+// P2 Infinite Health
+ATDT-EA4W
+
+// P1 Leonardo's special attack uses no health
+BXYA-CA6L
+
+// P1 Michelangelo's special attack uses no health
+BXYA-CA7E
+
+// P1 Donatello's special attack uses no health
+BMYA-CA78
+
+// P1 Raphael's special attack uses no health
+BMYA-CA80
+
+// P2 Leonardo's special attack uses no health
+BXYA-CA9R
+
+// P2 Michelangelo's special attack uses no health
+BXYT-CA2G
+
+// P2 Donatello's special attack uses no health
+BMYT-CA28
+
+// P2 Raphael's special attack uses no health
+BMYT-CA3Y
+
+// P1 Start with 5 lives - 1P game
+RFTT-C6YW
+9VTT-DGNY
+AVTT-CAE0
+
+// P1 Start with 10 lives - 1P game
+RFTT-C6YW
+9VTT-DGNY
+BFTT-CAE0
+
+// P1 Start with 15 lives - 1P game
+RFTT-C6YW
+9VTT-DGNY
+CVTT-CAE0
+
+// P1 Start with 25 lives - 1P game
+RFTT-C6YW
+9VTT-DGNY
+EVTT-CAE0
+
+// P1 Start with 50 lives - 1P game
+RFTT-C6YW
+9VTT-DGNY
+KFTT-CAE0
+
+// P1 Start with 75 lives - 1P game
+RFTT-C6YW
+9VTT-DGNY
+RVTT-CAE0
+
+// P1 Start with 100 lives - 1P game
+RFTT-C6YW
+9VTT-DGNY
+XFTT-CAE0
+
+// Raphael starts with more Health (as much as Don, but still less than Leo and Mike)
+JDCT-CAC4
+JDET-CAGT

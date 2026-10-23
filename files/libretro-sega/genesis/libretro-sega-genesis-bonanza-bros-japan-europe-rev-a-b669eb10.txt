@@ -1,0 +1,32 @@
+// Invincibility
+R0JA-A6YT
+
+// Alternate Invincibility
+9TDT-BGGY
+AEDT-AAG0
+96DT-AAG2
+12DT-BN04
+
+// Invincibility
+AB0A-CR52
+
+// 1 Hit Invincibility
+FF56C0:0010
+
+// Invincibility/Untouchable P1. You can pass through enemies and bullets
+RZDA-C6VL
+RZDA-C6YN
+R0JA-C6V6
+R09T-C6XA
+R1DT-C6WC
+R0LA-C6ZE
+R0VT-C60L
+
+// Invincibility/Untouchable P2. You can pass through enemies and bullets
+RZDA-C6ZL
+RZDT-C6TN
+R0JA-C6X0
+R09T-C6Z0
+R1DT-C6YC
+R0LA-C608
+R0VT-C61L

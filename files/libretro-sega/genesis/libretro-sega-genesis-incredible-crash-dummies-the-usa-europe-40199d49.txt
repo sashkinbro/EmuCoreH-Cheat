@@ -1,0 +1,45 @@
+// Infinite Lives
+AKFA-LA6R
+
+// Infinite Energy
+AJ7A-AA3Y
+
+// Freeze Time
+AKET-LA4Y
+
+// Invincibility
+DJ0A-AN8L
+
+// Infinite Lives
+FF25EA:0005
+
+// Infinite Energy
+FF1144:0004
+
+// Invincibility
+FF0BF6:0003
+
+// Freeze Time
+FF25EC:0059
+
+// Infinite Wrenches
+FF25EE:0099
+
+// Infinite Lives
+FF25EA:0009
+
+// Infinite Time
+FF25FA:0039
+
+// Boot Into Region Info Screen
+AJBT-AA3J
+
+// Enabled Cheat Code Level Select
+RGST-C604
+AKBA-LA7Y
+
+// Invincibility
+RY7A-A6TN
+
+// Freeze Time
+AKET-LA2T

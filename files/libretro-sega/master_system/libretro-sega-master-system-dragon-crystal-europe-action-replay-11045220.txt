@@ -1,0 +1,11 @@
+// Infinite Food
+00C6-2030
+
+// Infinite Energy
+00C6-2199
+
+// Rapidly Gain Levels
+00C6-26FF
+
+// Have 90,000 Gold
+00C6-2D09

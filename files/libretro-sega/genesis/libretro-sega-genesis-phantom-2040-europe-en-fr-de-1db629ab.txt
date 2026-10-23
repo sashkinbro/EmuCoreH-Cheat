@@ -1,0 +1,8 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Invincibility
+RYKA-E610

@@ -1,0 +1,50 @@
+// Infinite Lives
+AJ2A-AA9Y
+
+// Infinite Energy
+FF404C:0028
+
+// Infinite Lives
+FFA60E:0505
+
+// Most Enemies Can't Harm You
+FF3FF6:0003
+
+// Character Modifier
+FF486E:0000
+
+// Infinite Flounder Time
+FF4BB4:0008
+
+// Boss Dies
+FF4934:0000
+
+// Level Modifier
+FF8000:0000
+
+// Infinite Super Weapon
+FFA610:0016
+
+// More Keys
+FFA60E:0005
+
+// Unlimited Flounder
+FFA612:0005
+
+// Unlimited Digger Fish
+FFA614:0005
+
+// 1 Hit And Untouchable
+RY1A-A6TC
+
+// Infinite Health
+AT4A-AA8C
+
+// Infinite Special Weapon
+AJ2A-AA7J
+
+// Infinite Flounder, Sebastian, Digger Fish
+AJ2T-AA3R
+
+// Infinite Keys
+AX1T-NA34

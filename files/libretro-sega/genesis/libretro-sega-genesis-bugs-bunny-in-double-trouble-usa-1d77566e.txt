@@ -1,0 +1,81 @@
+// Infinite Lives
+AWGT-EA2L
+
+// Infinite Lives
+FF00FE:0003
+
+// Infinite Energy
+FF014E:0040
+
+// Infinite Time
+FFCAAA:0000
+
+// Start A New Game With 9 Lives
+BHRA-EAGC
+
+// Start A New Game With 20 Lives
+CXRA-EAGC
+
+// Infinite Energy
+ADTT-AAF4
+ACFT-EAEN
+ACGA-EABJ
+ACGA-EAHT
+
+// Invincibility
+AWPT-EA2W
+
+// Infinite Honey Jars
+FFF976:0001
+
+// Infinite Energy in One code
+A4GA-EA9R
+
+// Freeze Time
+ACNA-EAD8
+ACMT-EADT
+
+// Infinite Carrots Credits
+AX3A-AA4C
+
+// Infinite Weapon Carrot
+AXDT-EA9T
+
+// Infinite Weapon Honey Jars and Book
+AXDT-EA70
+
+// Infinite Weapon Dynamite
+AXEA-EA3L
+
+// Infinite Weapon Homing Carrot
+AXEA-EA5E
+
+// Invincible
+FF037A:0010
+
+// Freeze Time From The Chase Bull
+ACMT-EAEL
+
+// Infinite Energy In Bonus Stage
+A4GA-EA3G
+
+// Infinite Keys
+AVEA-CA36
+
+// Infinite Keys
+FFFA86:0001
+
+// Infinite Weapon In Space
+FFF9DC:0020
+
+// Infinite Weapon In Space
+AVSA-EA4J
+
+// Infinite Energy In Space
+A5TT-AA72
+
+// Infinite Energy in Mars
+A4FT-EA6L
+
+// Enable Cheat Menu
+RF4A-E618

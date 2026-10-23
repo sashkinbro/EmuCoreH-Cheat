@@ -1,0 +1,137 @@
+// Make start button a true pause button
+BTPT-AN8A
+
+// More base income per turn
+JB2A-BYWE
+
+// Find precursor relics at most stars
+C3TA-CA24
+
+// Superior bubbles [Androsynth]
+JB4A-CACT
+
+// Faster energy regeneration [Androsynth]
+AWPB-RECE
+
+// Faster energy regeneration [Ariloulaleelay]
+ARPB-RGD0
+
+// Increase crew to 16 [Ariloulaleelay]
+CCPB-SADN
+
+// More doggies allowed [Chenjesu]
+BB9A-CAEA
+
+// Faster energy regeneration [Chenjesu]
+ALPB-R8FG
+
+// Faster energy regeneration [Human]
+AWPB-REG4
+
+// Missiles track better [Human]
+AGFA-CAAJ
+
+// Indestructible flames [Ilwrath]
+CCJT-JAGJ
+
+// Flame cone is twice as long [Ilwrath]
+BLJT-CAG0
+
+// Maximum energy supply [Mmrnmhrm]
+FLPV-RYK0
+
+// More maneuverable Y-wing form [Mmrnmhrm]
+ALLA-CABC
+
+// Plasma torpedoes cost 1/2 normal [Mycon]
+BLPV-RCDR
+
+// Crew regrowth cost 1/2 normal [Mycon]
+7WSA-D938
+
+// Continuous fire [Shofixti]
+ARPV-RAFC
+
+// Increase crew to 12 [Shofixti]
+BWPV-R2E2
+
+// Forward shots do 3 points damage [Spathi]
+AR0T-CAB8
+
+// BUTT missiles last 3x longer [Spathi]
+ML0T-CAFL
+
+// Double energy [Syreen]
+ECPV-RAS8
+
+// Fire and scram faster [Syreen]
+AWRB-RCAL
+
+// Energy regeneration is 1/3 time [Umgah]
+GLRB-RCB2
+
+// Superior maneuverability [Umgah]
+AGRB-RAB4
+
+// Fighters shoot more often [Urquan]
+AXET-CAGC
+
+// Fighters move faster [Urquan]
+GDDT-CADL
+
+// Faster turning [VUX]
+JCRB-RAE0
+
+// Move faster [VUX]
+ACRB-RCE8
+
+// Move 1.5x faster [Yehat]
+HCRB-RAGJ
+
+// Doubles crew [Yehat]
+FCRB-RTRE
+
+// No asteroids, faster play
+CKYA-CA3R
+
+// Lots of asteroids, slower play
+CVYA-CAB8
+
+// Superfast asteroids
+H8NT-AAE6
+
+// No planets
+DKYA-CA52
+
+// Five planets
+AZYA-CAER
+
+// Planets have no gravity
+ACMA-AAHN
+
+// Collision with planet is deadly
+RGVT-A6VW
+
+// Collision with planet is harmless
+ACVT-AA3N
+
+// Ariloulaleelay Ship Has Huge Crew
+RRPB-S7DN
+
+// Mycon Ship Has Instant Fuel
+B8PB-R8DR
+
+// Spathi Ship Has DEADLY Shots
+N80T-CNB8
+
+// Syreen Ship Has TONS of Fuel
+68PV-R7S8
+
+// Ur-Quan Ship's Fighters Dissappear After Launch
+89DT-C7DL
+
+// Yehat Ship Has Huge Crew
+78RB-R7RE
+
+// Infinite Health P1's Ship
+FF6F18:0025

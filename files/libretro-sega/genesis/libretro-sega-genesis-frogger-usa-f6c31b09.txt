@@ -1,0 +1,65 @@
+// Infinite Lives
+D6PT-AAG4
+
+// Freeze Time
+D7RA-AAA0
+
+// Invincibility
+ATPT-AA88
+
+// Infinite Lives
+FF0250:0005
+
+// Invincibility
+FF0310:0000
+
+// Freeze Time
+FF0188:0040
+
+// Infinite Lives
+FF0250:0009
+
+// Infinite Time
+FF0188:003C
+
+// Untouchable to traffic
+AANA-AATW
+
+// Take Long Steps
+AART-AATL
+
+// Take silent steps
+AART-AAT0
+
+// Walk on water
+AATT-AANC
+
+// Fast music
+AA7T-AAPA
+
+// Different music
+AA7T-AASA
+
+// No music
+AA7T-AATA
+
+// Different music 2
+AA8T-AARC
+
+// Always fall in the water
+AATT-AANG
+
+// Invisible
+AAHT-AAPA
+
+// More traffic
+AAET-AA6A
+
+// Enable Level Select on Select Number of Players Screen
+AALT-AAGW
+
+// Infinite Lives
+LAPT-AGG6
+
+// Start with ?? Lives
+BFPA-AAB8

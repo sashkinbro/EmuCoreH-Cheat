@@ -1,0 +1,194 @@
+// Infinite chances
+AV8A-CA7Y
+
+// Start with 1 chance
+AFFT-AAD6
+
+// Start with 10 chances
+BKFT-AAD6
+
+// Start with 99 chances (ignore counter)
+NPFT-AAD6
+
+// Infinite continues
+AJ9T-CA5Y
+
+// Start with 0 continues
+ABFT-AAD0
+
+// Start with 1 continue
+AFFT-AAD0
+
+// Start with 10 continues
+BKFT-AAD0
+
+// Start with 99 continues (ignore counter)
+NPFT-AAD0
+
+// Start with life at 200%
+3B1T-CAAJ
+
+// Start with life at 150%
+W31T-CAAJ
+
+// Start with life at 75%
+KP1T-CAAJ
+
+// Start with life at 50%
+GK1T-CAAJ
+
+// Start with life at 25%
+DF1T-CAAJ
+
+// Life Chakra worth 0% extra life
+AAMA-CAG6
+
+// Life Chakra worth 10% extra life
+BJMA-CAG6
+
+// Life Chakra worth 50% extra life
+GJMA-CAG6
+
+// Life Chakra worth 100% extra life
+NTMA-CAG6
+
+// Special attack uses no life
+BV5T-CA32
+
+// Special attack is fatal if your life meter is low
+A35T-CA32
+
+// Play every 2nd level
+SAHT-BJ02
+
+// Play every 3rd level
+SAHT-BN02
+
+// Play every 4th level
+SAHT-BT02
+
+// Play every 5th level
+SAHT-BY02
+
+// Play every 6th level
+SAHT-B202
+
+// Play every 7th level
+SAHT-B602
+
+// Some soldiers can't hurt you
+AV6A-CA2G
+
+// Other soldiers and mini-boss cannot hurt you
+AK6A-CA5E
+
+// One hit kills mini-boss
+RHAT-C6ZG
+
+// One hit kills superboss
+ACNA-CA88
+
+// Invincible (except against superboss)
+AK2A-CA7C
+
+// Not invincible when first put on screen
+AB1T-CABC
+
+// Not invincible after a knockdown
+AB8A-CAFA
+
+// No invincibility icon
+AAMT-CAAE
+
+// Invincibility icon lasts about 1/2x normal
+FTMT-CCAE
+
+// Invincibility icon lasts 2x about normal
+0AMT-CJAE
+
+// Invincibility icon lasts 5x about normal
+1AMT-C0AE
+
+// Invincibility icon lasts 10x about normal
+RAMT-DRAE
+
+// You don't flicker while invincible
+Z32A-CTFR
+
+// You're invisible
+732A-CTF0
+
+// You're invisible and flicker while invincible
+Z32A-CTFR
+732A-CTF0
+
+// Invincible against superboss
+A4HA-CA2C
+
+// Start on Round 1-2 [level 2]
+AJHT-AA7R
+
+// Start on Round 1-3 [level 3]
+SAHT-BEZR
+
+// Start on Round 1-Boss [level 4]
+SAHT-BJZR
+
+// Start on Round 2-1 [level 5]
+SAHT-BNZR
+
+// Start on Round 2-2 [level 6]
+SAHT-BTZR
+
+// Start on Round 2-3 [level 7]
+SAHT-BYZR
+
+// Start on Round 2-Boss [level 8]
+SAHT-B2ZR
+
+// Start on Round 3-1 [level 9]
+SAHT-B6ZR
+
+// Start on Round 3-2 [level 10]
+SAHT-BAZR
+
+// Infinite Lives
+AB8A-CAF0
+
+// Invincibility
+AV6A-CA5E
+AV5T-CA4A
+RZ6A-C6TG
+
+// Infinite Energy
+9T9T-BCBJ
+NN9T-AABL
+7Y9T-A5VN
+
+// You're Invisible And Flicker While Invincible
+Z32A-CTFR
+732A-CTF0
+
+// Infinite Health
+FFCDEC:0063
+
+// Infinite Lives
+FFEBD8:0009
+
+// Freeze P1 (Animation Modifier?)
+FFCDE2:0000
+
+// Can select up to 40 lives at the Options screen
+FE5A-CAET
+
+// Can select up to 40 continues at the Options screen
+FE5A-CAGW
+
+// Only fight the bosses
+BAHT-AA6N
+
+// Invincibility
+RZ1T-C61W
+
+// Don't fall when you walk off ledges (Walk on air)
+NB3T-CA94

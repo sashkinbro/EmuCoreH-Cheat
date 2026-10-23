@@ -1,0 +1,55 @@
+// Pocahontas super MoonJump while sprinting
+8DRA-H98A
+
+// Meeko MoonJump while walking
+8Z7A-M96W
+
+// Meeko MoonJump when standing still
+8Z0A-M96R
+
+// Meeko super MoonJump while walking
+8B7A-M96W
+
+// Meeko super MoonJump when standing still
+8B0A-M96R
+
+// Pocahontas MoonJump when standing still
+88YT-H99R
+
+// Pocahontas MoonJump while walking
+9MXA-H98A
+
+// Pocahontas MoonJump while running
+9DVA-H98A
+
+// Pocahontas MoonJump while sprinting
+9DRA-H98A
+
+// Pocahontas super MoonJump when standing still
+8CYT-H99R
+
+// Pocahontas super MoonJump while walking
+8DXA-H98A
+
+// Pocahontas super MoonJump while running
+8DVA-H98A
+
+// Take necklace pieces anywhere
+ABHT-GA2Y
+F3HT-GAA0
+JFHT-G2CE
+DVHT-GR4J
+
+// Take fruits and leaves anywhere
+ADXT-LA8J
+RMXT-LAGL
+AA3A-GA7W
+N23A-GAF0
+
+// Start a new game with all abilities
+STST-KCKL
+96ST-JCBN
+C2ST-JABR
+
+// All necklace pieces collected
+FF12CE:001E

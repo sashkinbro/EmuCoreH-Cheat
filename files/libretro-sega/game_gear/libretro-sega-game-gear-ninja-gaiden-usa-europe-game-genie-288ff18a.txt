@@ -1,0 +1,49 @@
+// Infinite Energy
+C90-CBE-2A2
+
+// Infinite Lives
+009-439-F79
+
+// Start With 1 Life
+011-EDF-E66
+
+// Start With 5 Lives
+051-EDF-E66
+
+// Start With 8 Lives
+081-EDF-E66
+
+// Start On Act 2 (Smuggling)
+021-6CF-E6E
+
+// Start On Act 3 (Skyscraper)
+031-6CF-E6E
+
+// Start On Act 4 - Part 1 (Counterattack)
+041-6CF-E6E
+
+// Start On Act 4 - Part 2 (Counterattack)
+051-6CF-E6E
+
+// See End Credits
+061-6CF-E6E
+
+// Infinite Time
+C35-F6F-E61
+
+// Start Timer At 399
+834-D7F-E60
+
+// Start Timer At 599
+854-D7F-E60
+
+// Almost Invincible
+000-C7E-B30
+
+// Kill Most Level Bosses With 1 Hit
+3E2-07C-082
+012-08C-C46
+002-09C-A21
+
+// Slow Motion!
+665-64F-E64

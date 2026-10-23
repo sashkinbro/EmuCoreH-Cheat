@@ -1,0 +1,60 @@
+// Cannot be Touched
+FFF96E:002A
+
+// Infinite Health
+FFE4B2:000B
+
+// Infinite Lives
+FFE4AC:0005
+
+// Infinite Ammo (Hats)
+FFE4AA:0005
+
+// Infinite Weapon
+AK9A-CA6L
+
+// Infinite Lives
+AWGT-CA3N
+
+// Infinite Energy
+AMJA-AA22
+
+// Invincibility
+AB7T-CN5T
+
+// Infinite Yellow Hats
+FFE4AA:0009
+
+// Infinite Cheese (Health)
+FFE4B2:0009
+
+// Infinite Lives
+FFE4AC:0009
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Invincibility
+FFF96E:0010
+
+// Infinite Chilli
+AMFA-AA38
+
+// Invincibility
+R0JB-26WE
+R0NB-260G
+R0MV-261Y
+R0LB-26WY
+R0PB-26Z8
+R0RV-26WN
+R0KB-26YN
+R0KB-26XJ
+R1GV-260A
+R1GB-26XC
+R06B-26TT
+R1KB-26Z6
+R1JB-26Y6
+R06V-26W6

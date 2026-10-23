@@ -1,0 +1,35 @@
+// Infinite Time (Hundreds Digit)
+FF01BC:0009
+
+// Infinite Time (Tens Digit)
+FF01BC:0009
+
+// Infinite Time (Ones Digit)
+FF01BE:0009
+
+// Amplifier Power-Up
+FF0002:0001
+
+// Invincibility
+RY4A-A6TA
+
+// Invincibility
+FFFB56:0010
+
+// 1 Shot Kill Enemies
+FFFA36:00FF
+
+// 1 Shot Kill Enemies And Bosses
+A5CA-AA2R
+
+// Keep Extra Energy Round to Round
+AJET-AA9E
+
+// Freeze Time
+ATBT-AA64
+
+// NULL I/O controller input and graphics rendering
+F7JA-GJWW
+
+// Intro title screen music / sound effect / DAC/PCM sample modifier
+AFKA-GADT

@@ -1,0 +1,13 @@
+// Always Have $99
+00C3-C499
+
+// Infinite Money
+7E2-4CE-3B7
+7E2-51E-3B7
+
+// Start with $99, instead of $50
+99E-C8C-A2B
+
+// Infinite Money
+00DB-6899
+00DB-6999

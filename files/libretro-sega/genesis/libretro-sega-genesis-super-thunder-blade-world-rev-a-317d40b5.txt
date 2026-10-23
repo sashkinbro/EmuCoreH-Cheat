@@ -1,0 +1,33 @@
+// Invincible while attacking straight ahead
+DBYA-AA7Y
+
+// Invincible while attacking from above
+DB5A-AA8Y
+
+// Infinite lives
+A37A-AA30
+
+// Infinite continues
+AJET-AA5R
+
+// Start on Stage 2
+AEET-AAC6
+
+// Start on Stage 3
+AJET-AAC6
+
+// Start on Stage 4
+ANET-AAC6
+
+// Infinite Lives
+FFF82A:0007
+
+// Extra Lives Cheat Enabled
+FFFEC4:0003
+
+// Invincible
+FFA026:00FF
+
+// Start On Level Modifier
+FFFE90:0004
+FFFE92:0001

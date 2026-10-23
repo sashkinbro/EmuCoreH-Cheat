@@ -1,0 +1,8 @@
+// Infinite Lives
+00C0-8303
+
+// Infinite Energy
+00C1-3E01
+
+// Invincible (Character Flickers Though)
+00C1-3F01

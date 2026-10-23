@@ -1,0 +1,227 @@
+// Infinite lives
+AVEA-AA3N
+
+// Start with 1 life
+AEEA-AAG4
+
+// Start with 2 lives
+AJEA-AAG4
+
+// Start with 6 lives
+A2EA-AAG4
+
+// Start with 8 lives
+BAEA-AAG4
+
+// Start with 20 lives
+CTEA-AAG4
+
+// Start with 50 lives
+GJEA-AAG4
+
+// Start with 90 lives
+MJEA-AAG4
+
+// Infinite credits
+AWMT-AA80
+
+// Start with 2 credits
+AEEA-AAHC
+
+// Start with 4 credits
+ANEA-AAHC
+
+// Start with 9 credits
+BAEA-AAHC
+
+// Start with 21 credits
+CTEA-AAHC
+
+// Start with 51 credits
+GJEA-AAHC
+
+// Start with 91 credits
+MJEA-AAHC
+
+// Each P Ball worth 2
+HFZA-BJVJ
+
+// Each P Ball worth 4
+HFZA-BTVJ
+
+// Each P Ball worth 6
+HFZA-B2VJ
+
+// Each P Ball worth 8
+HFZA-BAVJ
+
+// Invincibility
+MVKA-AN2J
+NBJT-AN98
+
+// Start On Stage 2
+RE0T-A6WA
+9T0T-BGLC
+AE0T-ACCE
+
+// Start On Stage 3
+RE0T-A6WA
+9T0T-BGLC
+AJ0T-AECE
+
+// Start On Stage 4
+RE0T-A6WA
+9T0T-BGLC
+AN0T-AGCE
+
+// Start On Stage 5
+RE0T-A6WA
+9T0T-BGLC
+AT0T-AJCE
+
+// Start On Stage 6
+RE0T-A6WA
+9T0T-BGLC
+AY0T-ALCE
+
+// Start On Stage 7
+RE0T-A6WA
+9T0T-BGLC
+A20T-ANCE
+
+// Start On Stage 8
+RE0T-A6WA
+9T0T-BGLC
+A60T-ARCE
+
+// Start On Stage 9
+RE0T-A6WA
+9T0T-BGLC
+BA0T-ATCE
+
+// Start On Stage 10
+RE0T-A6WA
+9T0T-BGLC
+BE0T-AWCE
+
+// Start On Stage 11
+RE0T-A6WA
+9T0T-BGLC
+BJ0T-AYCE
+
+// Start On Stage 12
+RE0T-A6WA
+9T0T-BGLC
+BN0T-A0CE
+
+// Start On Stage 13
+RE0T-A6WA
+9T0T-BGLC
+BT0T-A2CE
+
+// Start On Stage 14
+RE0T-A6WA
+9T0T-BGLC
+BY0T-A4CE
+
+// Start On Stage 15
+RE0T-A6WA
+9T0T-BGLC
+B20T-A6CE
+
+// Start On Stage 16
+RE0T-A6WA
+9T0T-BGLC
+B60T-A8CE
+
+// Start On Stage 17
+RE0T-A6WA
+9T0T-BGLC
+CA0T-BACE
+
+// Start On Stage 18
+RE0T-A6WA
+9T0T-BGLC
+CE0T-BCCE
+
+// Start On Stage 19
+RE0T-A6WA
+9T0T-BGLC
+CJ0T-BECE
+
+// Start On Stage 20
+RE0T-A6WA
+9T0T-BGLC
+CN0T-BGCE
+
+// Start On Stage 21
+RE0T-A6WA
+9T0T-BGLC
+CT0T-BJCE
+
+// Start On Stage 22
+RE0T-A6WA
+9T0T-BGLC
+CY0T-BLCE
+
+// Start On Stage 23
+RE0T-A6WA
+9T0T-BGLC
+C20T-BNCE
+
+// Start On Stage 24
+RE0T-A6WA
+9T0T-BGLC
+C60T-BRCE
+
+// Start On Stage 25
+RE0T-A6WA
+9T0T-BGLC
+DA0T-BTCE
+
+// Start On Stage 26
+RE0T-A6WA
+9T0T-BGLC
+DE0T-BWCE
+
+// Start On Stage 27
+RE0T-A6WA
+9T0T-BGLC
+DJ0T-BYCE
+
+// Start On Stage 28
+RE0T-A6WA
+9T0T-BGLC
+DN0T-B0CE
+
+// Start On Stage 29
+RE0T-A6WA
+9T0T-BGLC
+DT0T-B2CE
+
+// Start On Stage 30
+RE0T-A6WA
+9T0T-BGLC
+DY0T-B4CE
+
+// Start On Stage 31
+RE0T-A6WA
+9T0T-BGLC
+D20T-B6CE
+
+// Start On Stage 32
+RE0T-A6WA
+9T0T-BGLC
+D60T-B8CE
+
+// Start On Stage 33
+RE0T-A6WA
+9T0T-BGLC
+EA0T-AALE
+
+// Invincibility
+FFF7BE:00FF
+
+// Untouchable
+R0HT-A6V2
+R03A-A6W2

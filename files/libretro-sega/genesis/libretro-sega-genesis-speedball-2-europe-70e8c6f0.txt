@@ -1,0 +1,42 @@
+// Regional Lockout Bypass (USA and Japanese Systems)
+REBT-A6TL
+
+// Can't Score - Both Teams
+RGHT-A6ZC
+
+// Infinite Time
+RGEA-A6TG
+
+// Infinite Money - Both Players
+AVVA-AA3W
+AVWT-AA54
+
+// Start with $2500, instead of $1100 - Both Players
+2T1A-AWH2
+
+// Start with $5000 - Both Players
+VA1A-BGH2
+
+// Start with $10000 - Both Players
+CA1A-ARS2
+
+// Start with $32767 - Both Players
+961A-B892
+
+// Infinite Money - Both Players
+FF00FA:7FFF
+
+// Freeze Timer
+FF009E:0030
+
+// Electro Mode
+FFD5AA:0008
+
+// P1 Score Multiplier
+FF0DEE:0000
+
+// Maximum stat points is 240 in League mode (instead of 220)
+8BTT-AAFC
+
+// Maximum stat points is 250 in League mode (instead of 220)
+9KTT-AAFC

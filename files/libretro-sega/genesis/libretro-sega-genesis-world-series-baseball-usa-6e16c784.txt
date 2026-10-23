@@ -1,0 +1,80 @@
+// Player 1 starts with 1 run
+HENA-DEYN
+
+// Player 1 starts with 2 runs
+HENA-DJYN
+
+// Player 1 starts with 3 runs
+HENA-DNYN
+
+// Player 1 starts with 4 runs
+HENA-DTYN
+
+// Player 1 starts with 5 runs
+HENA-DYYN
+
+// Player 1 starts with 6 runs
+HENA-D2YN
+
+// Player 1 starts with 7 runs
+HENA-D6YN
+
+// Player 1 starts with 8 runs
+HENA-DAYN
+
+// Player 2 starts with 1 run
+HENA-DEZE
+
+// Player 2 starts with 2 runs
+HENA-DJZE
+
+// Player 2 starts with 3 runs
+HENA-DNZE
+
+// Player 2 starts with 4 runs
+HENA-DTZE
+
+// Player 2 starts with 5 runs
+HENA-DYZE
+
+// Player 2 starts with 6 runs
+HENA-D2ZE
+
+// Player 2 starts with 7 runs
+HENA-D6ZE
+
+// Player 2 starts with 8 runs
+HENA-DAZE
+
+// One Ball For A Walk
+AFCV-CAFC
+
+// 8 Balls For A Walk
+BBCV-CAFC
+
+// One Strike For An Out
+AFDB-CABA
+
+// Unlimited Outs
+AKDB-CA7A
+
+// Strikes Modifier
+FFA300:0000
+
+// Outs Modifier
+FFA302:0000
+
+// Team 1 Score In 1st Inning
+FFA306:0000
+
+// Team 1 Score In 2nd Inning
+FFA306:0000
+
+// Team 1 Score In 3rd Inning
+FFA308:0000
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T

@@ -1,0 +1,9 @@
+// Walk Through Walls
+AERT-AAE4
+
+// Enable Stage Select during gameplay (Enable before start of game)
+AA2T-BT04
+
+// Have 0 Steps Taken
+AAVA-BA5C
+AJVA-AA5E

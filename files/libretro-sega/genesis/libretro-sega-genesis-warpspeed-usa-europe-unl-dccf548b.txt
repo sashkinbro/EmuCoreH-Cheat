@@ -1,0 +1,30 @@
+// No Computer Damage
+FFDEAA:0000
+
+// No Engine Damage
+FFDEAC:0000
+
+// No Shield Damage
+FFDEAE:0000
+
+// No Weapons Damage
+FFDEB0:0000
+
+// No Missle Damage
+FFDEB2:0000
+
+// Max Enemies Killed
+FFEA7E:9999
+
+// Highest Rank
+FFEA7C:000B
+
+// Infinite Energy
+FFEA94:00CC
+
+// No Damaged Computer, Engine, Shield, Weapons, Missile
+ALFT-AA4E
+
+// Infinite Energy
+ALFA-AA6T
+ALFA-AA5A

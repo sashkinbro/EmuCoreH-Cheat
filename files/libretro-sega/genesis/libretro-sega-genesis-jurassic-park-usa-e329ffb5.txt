@@ -1,0 +1,782 @@
+// Infinite energy
+AVDA-AA24
+
+// Start with 75% health
+DBCT-AAA8
+DBDA-AAAW
+
+// Start with 50% health
+CBCT-AAA8
+CBDA-AAAW
+
+// Start with 25% health
+BBCT-AAA8
+BBDA-AAAW
+
+// Infinite lives
+BVDA-AA5G
+
+// Start with 1 life
+AFCT-AAA0
+
+// Start with 2 lives
+AKCT-AAA0
+
+// High charge stun gun shot doesn't use as much ammo
+BLEA-8A8L
+BAET-8A5J
+
+// Infinite gas on the river
+CX1T-GA5C
+
+// Each gas can worth 1/2 normal amount of gas
+AD7A-GTBC
+
+// Each gas can worth 3/4 normal amount of gas
+AD7A-G2BC
+
+// Each gas can worth 2x normal amount of gas
+AD7A-GAKC
+
+// Each gas can worth 3x normal amount of gas
+AD7A-HAKC
+AJMA-JA7G
+9TMA-KGFL
+
+// Start with 0 blue-banded darts
+ABDA-AAG2
+
+// Start with 1 blue-banded dart
+AFDA-AAG2
+
+// Start with 10 blue-banded darts
+BKDA-AAG2
+
+// Start with 15 blue-banded darts
+B7DA-AAG2
+
+// Start with 50 blue-banded darts
+GKDA-AAG2
+
+// Start with 70 blue-banded darts
+J3DA-AAG2
+
+// Start with 99 blue-banded darts
+NPDA-AAG2
+
+// Start with 1 red-banded dart
+AFDA-AAG2
+AKDA-AAG4
+
+// Start with 10 red-banded darts
+BKDA-AAG2
+AKDA-AAG4
+
+// Start with 15 red-banded darts
+B7DA-AAG2
+AKDA-AAG4
+
+// Start with 50 red-banded darts
+GKDA-AAG2
+AKDA-AAG4
+
+// Start with 70 red-banded darts
+J3DA-AAG2
+AKDA-AAG4
+
+// Start with 99 red-banded darts
+NPDA-AAG2
+AKDA-AAG4
+
+// Start with 1 gas grenade
+AFDA-AAG2
+AVDA-AAG4
+
+// Start with 10 gas grenades
+BKDA-AAG2
+AVDA-AAG4
+
+// Start with 15 gas grenades
+B7DA-AAG2
+AVDA-AAG4
+
+// Start with 50 gas grenades
+GKDA-AAG2
+AVDA-AAG4
+
+// Start with 70 gas grenades
+J3DA-AAG2
+AVDA-AAG4
+
+// Start with 99 gas grenades
+NPDA-AAG2
+AVDA-AAG4
+
+// Start with 1 flash grenade
+AFDA-AAG2
+AZDA-AAG4
+
+// Start with 10 flash grenades
+BKDA-AAG2
+AZDA-AAG4
+
+// Start with 15 flash grenades
+B7DA-AAG2
+AZDA-AAG4
+
+// Start with 50 flash grenades
+GKDA-AAG2
+AZDA-AAG4
+
+// Start with 70 flash grenades
+J3DA-AAG2
+AZDA-AAG4
+
+// Start with 99 flash grenades
+NPDA-AAG2
+AZDA-AAG4
+
+// Start with 1 concussion grenade
+AFDA-AAG2
+A7DA-AAG4
+
+// Start with 10 concussion grenades
+BKDA-AAG2
+A7DA-AAG4
+
+// Start with 15 concussion grenades
+B7DA-AAG2
+A7DA-AAG4
+
+// Start with 50 concussion grenades
+GKDA-AAG2
+A7DA-AAG4
+
+// Start with 70 concussion grenades
+J3DA-AAG2
+A7DA-AAG4
+
+// Start with 99 concussion grenades
+NPDA-AAG2
+A7DA-AAG4
+
+// Start with 1 rocket
+AFDA-AAG2
+A3DA-AAG4
+
+// Start with 10 rockets
+BKDA-AAG2
+A3DA-AAG4
+
+// Start with 15 rockets
+B7DA-AAG2
+A3DA-AAG4
+
+// Start with 50 rockets
+GKDA-AAG2
+A3DA-AAG4
+
+// Start with 70 rockets
+J3DA-AAG2
+A3DA-AAG4
+
+// Start with 99 rockets
+NPDA-AAG2
+A3DA-AAG4
+
+// Start with 0 stun gun shots
+ABDA-AAG8
+
+// Start with 1 stun gun shot
+AFDA-AAG8
+
+// Start with 10 stun gun shots
+BKDA-AAG8
+
+// Start with 15 stun gun shots
+B7DA-AAG8
+
+// Start with 50 stun gun shots
+GKDA-AAG8
+
+// Start with 70 stun gun shots
+J3DA-AAG8
+
+// Start with 99 stun gun shots
+NPDA-AAG8
+
+// Start with 1 red-banded dart
+AFDA-AAG8
+AKDA-AAHA
+
+// Start with 10 red-banded darts
+BKDA-AAG8
+AKDA-AAHA
+
+// Start with 15 red-banded darts
+B7DA-AAG8
+AKDA-AAHA
+
+// Start with 50 red-banded darts
+GKDA-AAG8
+AKDA-AAHA
+
+// Start with 70 red-banded darts
+J3DA-AAG8
+AKDA-AAHA
+
+// Start with 99 red-banded darts
+NPDA-AAG8
+AKDA-AAHA
+
+// Start with 1 gas grenade
+AFDA-AAG8
+AVDA-AAHA
+
+// Start with 10 gas grenades
+BKDA-AAG8
+AVDA-AAHA
+
+// Start with 15 gas grenades
+B7DA-AAG8
+AVDA-AAHA
+
+// Start with 50 gas grenades
+GKDA-AAG8
+AVDA-AAHA
+
+// Start with 70 gas grenades
+J3DA-AAG8
+AVDA-AAHA
+
+// Start with 99 gas grenades
+NPDA-AAG8
+AVDA-AAHA
+
+// Start with 1 flash grenade
+AFDA-AAG8
+AZDA-AAHA
+
+// Start with 10 flash grenades
+BKDA-AAG8
+AZDA-AAHA
+
+// Start with 15 flash grenades
+B7DA-AAG8
+AZDA-AAHA
+
+// Start with 50 flash grenades
+GKDA-AAG8
+AZDA-AAHA
+
+// Start with 70 flash grenades
+J3DA-AAG8
+AZDA-AAHA
+
+// Start with 99 flash grenades
+NPDA-AAG8
+AZDA-AAHA
+
+// Start with 1 concussion grenade
+AFDA-AAG8
+A7DA-AAHA
+
+// Start with 10 concussion grenades
+BKDA-AAG8
+A7DA-AAHA
+
+// Start with 15 concussion grenades
+B7DA-AAG8
+A7DA-AAHA
+
+// Start with 50 concussion grenades
+GKDA-AAG8
+A7DA-AAHA
+
+// Start with 70 concussion grenades
+J3DA-AAG8
+A7DA-AAHA
+
+// Start with 99 concussion grenades
+NPDA-AAG8
+A7DA-AAHA
+
+// Start with 1 rocket
+AFDA-AAG8
+A3DA-AAHA
+
+// Start with 10 rockets
+BKDA-AAG8
+A3DA-AAHA
+
+// Start with 15 rockets
+B7DA-AAG8
+A3DA-AAHA
+
+// Start with 50 rockets
+GKDA-AAG8
+A3DA-AAHA
+
+// Start with 70 rockets
+J3DA-AAG8
+A3DA-AAHA
+
+// Start with 99 rockets
+NPDA-AAG8
+A3DA-AAHA
+
+// Grant starts on Level 2 [power station]
+AJMA-JA7G
+9TMA-KGFL
+AEMA-JAFN
+
+// Grant starts on Level 3 [power station]
+AJMA-JA7G
+9TMA-KGFL
+AJMA-JAFN
+
+// Grant starts on Level 4 [power station]
+AJMA-JA7G
+9TMA-KGFL
+ANMA-JAFN
+
+// Grant starts on Level 5 [river]
+AJMA-JA7G
+9TMA-KGFL
+ATMA-JAFN
+
+// Grant starts on Level 6 [pump station]
+AJMA-JA7G
+9TMA-KGFL
+AYMA-JAFN
+
+// Grant starts on Level 7 [canyon]
+AJMA-JA7G
+9TMA-KGFL
+A2MA-JAFN
+
+// Grant starts on Level 8 [volcano]
+AJMA-JA7G
+9TMA-KGFL
+A6MA-JAFN
+
+// Grant starts on Level 9 [main hall]
+AJMA-JA7G
+9TMA-KGFL
+BAMA-JAFN
+
+// Grant starts on Level 10 [main hall]
+AJMA-JA7G
+9TMA-KGFL
+BEMA-JAFN
+
+// Grant starts on Level 11 [main hall]
+AJMA-JA7G
+9TMA-KGFL
+BJMA-JAFN
+
+// Grant starts on Level 12 [main hall]
+AJMA-JA7G
+9TMA-KGFL
+BNMA-JAFN
+
+// Grant starts on Level 13 [main hall]
+AJMA-JA7G
+9TMA-KGFL
+BTMA-JAFN
+
+// Raptor starts on Level 2 [power station]
+B3JA-JAB8
+
+// Raptor starts on Level 3 [pump station]
+B7JA-JAB8
+
+// Raptor starts on Level 4 [canyon]
+CBJA-JAB8
+
+// Raptor starts on Level 5 [main hall]
+CFJA-JAB8
+
+// Raptor starts on Level 6 [main hall]
+CKJA-JAB8
+
+// Raptor starts on Level 7 [main hall]
+CPJA-JAB8
+
+// Raptor starts on Level 8 [main hall]
+CVJA-JAB8
+
+// Raptor starts on Level 9 [main hall]
+CZJA-JAB8
+
+// Infinite Lives
+AVDA-AA5G
+
+// Have &quot;Developed For Use Only With NTSC Genesis Systems&quot; Text
+AABT-BMK8
+
+// Start With 75% Health
+DBCT-AAA8
+DBDA-AAAW
+
+// Start With 50% Health
+CBCT-AAA8
+CBDA-AAAW
+
+// Start With 25% Health
+BBCT-AAA8
+BBDA-AAAW
+
+// Start With 1 Red-Banded Dart
+AFDA-AAG2
+AKDA-AAG4
+
+// Start With 10 Red-Banded Darts
+BKDA-AAG2
+AKDA-AAG4
+
+// Start With 15 Red-Banded Darts
+B7DA-AAG2
+AKDA-AAG4
+
+// Start With 50 Red-Banded Darts
+GKDA-AAG2
+AKDA-AAG4
+
+// Start With 70 Red-Banded Darts
+J3DA-AAG2
+AKDA-AAG4
+
+// Start With 99 Red-Banded Darts
+NPDA-AAG2
+AKDA-AAG4
+
+// Start With 1 Gas Grenade
+AFDA-AAG2
+AVDA-AAG4
+
+// Start With 10 Gas Grenades
+BKDA-AAG2
+AVDA-AAG4
+
+// Start With 15 Gas Grenades
+B7DA-AAG2
+AVDA-AAG4
+
+// Start With 50 Gas Grenades
+GKDA-AAG2
+AVDA-AAG4
+
+// Start With 70 Gas Grenades
+J3DA-AAG2
+AVDA-AAG4
+
+// Start With 99 Gas Grenades
+NPDA-AAG2
+AVDA-AAG4
+
+// Start With 1 Flash Grenade
+AFDA-AAG2
+AZDA-AAG4
+
+// Start With 10 Flash Grenades
+BKDA-AAG2
+AZDA-AAG4
+
+// Start With 15 Flash Grenades
+B7DA-AAG2
+AZDA-AAG4
+
+// Start With 50 Flash Grenades
+GKDA-AAG2
+AZDA-AAG4
+
+// Start With 70 Flash Grenades
+J3DA-AAG2
+AZDA-AAG4
+
+// Start With 99 Flash Grenades
+NPDA-AAG2
+AZDA-AAG4
+
+// Start With 1 Concussion Grenade
+AFDA-AAG2
+A7DA-AAG4
+
+// Start With 10 Concussion Grenades
+BKDA-AAG2
+A7DA-AAG4
+
+// Start With 15 Concussion Grenades
+B7DA-AAG2
+A7DA-AAG4
+
+// Start With 50 Concussion Grenades
+GKDA-AAG2
+A7DA-AAG4
+
+// Start With 70 Concussion Grenades
+J3DA-AAG2
+A7DA-AAG4
+
+// Start With 99 Concussion Grenades
+NPDA-AAG2
+A7DA-AAG4
+
+// Start With 1 Rocket
+AFDA-AAG2
+A3DA-AAG4
+
+// Start With 10 Rockets
+BKDA-AAG2
+A3DA-AAG4
+
+// Start With 15 Rockets
+B7DA-AAG2
+A3DA-AAG4
+
+// Start With 50 Rockets
+GKDA-AAG2
+A3DA-AAG4
+
+// Start With 70 Rockets
+J3DA-AAG2
+A3DA-AAG4
+
+// Start With 99 Rockets
+NPDA-AAG2
+A3DA-AAG4
+
+// Start With 1 Red-Banded Dart
+AFDA-AAG8
+AKDA-AAHA
+
+// Start With 10 Red-Banded Darts
+BKDA-AAG8
+AKDA-AAHA
+
+// Start With 15 Red-Banded Darts
+B7DA-AAG8
+AKDA-AAHA
+
+// Start With 50 Red-Banded Darts
+GKDA-AAG8
+AKDA-AAHA
+
+// Start With 70 Red-Banded Darts
+J3DA-AAG8
+AKDA-AAHA
+
+// Start With 99 Red-Banded Darts
+NPDA-AAG8
+AKDA-AAHA
+
+// Start With 1 Gas Grenade
+AFDA-AAG8
+AVDA-AAHA
+
+// Start With 10 Gas Grenades
+BKDA-AAG8
+AVDA-AAHA
+
+// Start With 15 Gas Grenades
+B7DA-AAG8
+AVDA-AAHA
+
+// Start With 50 Gas Grenades
+GKDA-AAG8
+AVDA-AAHA
+
+// Start With 70 Gas Grenades
+J3DA-AAG8
+AVDA-AAHA
+
+// Start With 99 Gas Grenades
+NPDA-AAG8
+AVDA-AAHA
+
+// Start With 1 Flash Grenade
+AFDA-AAG8
+AZDA-AAHA
+
+// Start With 10 Flash Grenades
+BKDA-AAG8
+AZDA-AAHA
+
+// Start With 15 Flash Grenades
+B7DA-AAG8
+AZDA-AAHA
+
+// Start With 50 Flash Grenades
+GKDA-AAG8
+AZDA-AAHA
+
+// Start With 70 Flash Grenades
+J3DA-AAG8
+AZDA-AAHA
+
+// Start With 99 Flash Grenades
+NPDA-AAG8
+AZDA-AAHA
+
+// Start With 1 Concussion Grenade
+AFDA-AAG8
+A7DA-AAHA
+
+// Start With 10 Concussion Grenades
+BKDA-AAG8
+A7DA-AAHA
+
+// Start With 15 Concussion Grenades
+B7DA-AAG8
+A7DA-AAHA
+
+// Start With 50 Concussion Grenades
+GKDA-AAG8
+A7DA-AAHA
+
+// Start With 70 Concussion Grenades
+J3DA-AAG8
+A7DA-AAHA
+
+// Start With 99 Concussion Grenades
+NPDA-AAG8
+A7DA-AAHA
+
+// Start With 1 Rocket
+AFDA-AAG8
+A3DA-AAHA
+
+// Start With 10 Rockets
+BKDA-AAG8
+A3DA-AAHA
+
+// Start With 15 Rockets
+B7DA-AAG8
+A3DA-AAHA
+
+// Start With 50 Rockets
+GKDA-AAG8
+A3DA-AAHA
+
+// Start With 70 Rockets
+J3DA-AAG8
+A3DA-AAHA
+
+// Start With 99 Rockets
+NPDA-AAG8
+A3DA-AAHA
+
+// High Charge Stun Gun Shot Doesn't Use As Much Ammo
+BLEA-8A8L
+BAET-8A5J
+
+// Each Gas Can Worth 3X Normal Amount Of Gas
+AD7A-HAKC
+
+// Grant Starts On Level 2 (Power Station)
+AJMA-JA7G
+9TMA-KGFL
+AEMA-JAFN
+
+// Grant Starts On Level 3 (Power Station)
+AJMA-JA7G
+9TMA-KGFL
+AJMA-JAFN
+
+// Grant Starts On Level 4 (Power Station)
+AJMA-JA7G
+9TMA-KGFL
+ANMA-JAFN
+
+// Grant Starts On Level 5 (River)
+AJMA-JA7G
+9TMA-KGFL
+ATMA-JAFN
+
+// Grant Starts On Level 6 (Pump Station)
+AJMA-JA7G
+9TMA-KGFL
+AYMA-JAFN
+
+// Grant Starts On Level 7 (Canyon)
+AJMA-JA7G
+9TMA-KGFL
+A2MA-JAFN
+
+// Grant Starts On Level 8 (Volcano)
+AJMA-JA7G
+9TMA-KGFL
+A6MA-JAFN
+
+// Grant Starts On Level 9 (Main Hall)
+AJMA-JA7G
+9TMA-KGFL
+BAMA-JAFN
+
+// Grant Starts On Level 10 (Main Hall)
+AJMA-JA7G
+9TMA-KGFL
+BEMA-JAFN
+
+// Grant Starts On Level 11 (Main Hall)
+AJMA-JA7G
+9TMA-KGFL
+BJMA-JAFN
+
+// Grant Starts On Level 12 (Main Hall)
+AJMA-JA7G
+9TMA-KGFL
+BNMA-JAFN
+
+// Grant Starts On Level 13 (Main Hall)
+AJMA-JA7G
+9TMA-KGFL
+BTMA-JAFN
+
+// Infinite Lives (Grant &amp; Raptor)
+FF0052:0003
+
+// Infinite Health (Grant &amp; Raptor)
+FF0054:0055
+
+// Force Game To Show Specific Player Cutscenes
+FFC028:0000
+
+// Level Modifier (Read Note!)
+FF0AE6:00BE
+
+// Have And Infinite Blue Tranquilizers
+FF003A:0099
+
+// Have And Infinite Red Tranquilizers
+FF003C:0099
+
+// Have And Infinite Blue Beam Weapon (Taser?)
+FF003C:0099
+
+// Have And Infinite Blue Grenades
+FF003E:0099
+
+// Have And Infinite Blue Flash-Grenades
+FF003E:0099
+
+// Have And Infinite Red Missiles
+FF0040:0099
+
+// Have And Infinite Red Sleep-Inducing Grenades?
+FF0040:0099
+
+// Acid Spitting Dino's Cannot Spit
+EKFA-AA48
+
+// Invulnerability
+ADRT-CA2W
+
+// Invincibility
+ABDA-AAAW
+
+// Enabled Cheat Code Debug Mode Second Controller Enabled/Debug Menu. See Note
+AJKA-AA2T
+AL4T-JA9W
+AKMA-JA36

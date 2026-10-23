@@ -1,0 +1,5 @@
+// Last Selectable Level (Change FF for other levels)
+00C1-35FF
+
+// Infinite Bullets
+00C1-E703

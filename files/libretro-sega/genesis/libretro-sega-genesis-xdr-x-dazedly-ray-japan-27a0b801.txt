@@ -1,0 +1,32 @@
+// Infinite Lives
+AJLA-AA4Y
+
+// Invincibility
+AB6A-AR3N
+
+// Infinite Lives
+FFF494:0063
+
+// Invincible (Cannot Collect Items)
+FFDBDC:0023
+
+// Ground Missiles
+FFDBE0:0001
+
+// Fully Powered Gun
+FFDBDE:0004
+
+// Helper Ship
+FFDC0E:0018
+
+// Upgraded Gun
+FFDBDE:0001
+
+// Invulnerability Option Accessible (Options Menu)
+ATVT-AAAT
+
+// Programmer's Invulnerability Cheat Enabled
+PYSA-AMF6
+
+// Credit
+AJLA-AA5R

@@ -1,0 +1,72 @@
+// Infinite Health P1
+FF4100:0063
+
+// Infinite Health P2
+FF4176:0063
+
+// Infinite Specials P1
+FF4110:0006
+
+// Infinite Specials P2
+FF4186:0006
+
+// Infinite Lives P1
+FF004C:0063
+
+// Infinite Lives P2
+FF004E:0063
+
+// Infinite Money (at the start of the game)
+FF0942:000F
+
+// Infinite Money P1
+FF0AE4:000F
+
+// Infinite Money P2
+FF0B0C:000F
+
+// Start with lots of money
+9V3A-ABY2
+
+// Buy everything in shops
+ABJT-AA38
+
+// First Char is free
+AK2T-AA46
+AK2T-AA58
+
+// Second Char is free
+AK3A-AA2R
+
+// Invincible to shots
+ACSA-AA6J
+
+// Invincible to touch enemies
+ALVA-AA30
+
+// Infinite Specials
+AM7A-AA50
+
+// Infinite Lives
+AM9T-AA4N
+
+// Infinite Lives P1
+FF004C:0009
+
+// Lots of Points P1
+FF0046:00FF
+
+// Have All Poles Activated (Not Initially Visible; Activate One To Change HUD)
+FF0930:0000
+
+// Player 1 Modifier
+FF0AA2:0000
+
+// Scientist is Always Selectable
+FF75F6:0005
+
+// Walk thru trees, bushes, etc.  See notes.
+GBBA-CA88
+
+// Invincibility (Disable Hit Detection)
+R0WA-A6YT

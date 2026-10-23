@@ -1,0 +1,202 @@
+// All secret power-ups on for all players
+AXHW-YA5J
+9DHW-YA50
+
+// All secret power-ups except slipper floors on for all players
+AXHW-YA5J
+9DHW-YA50
+AMJC-YGSE
+
+// Player 1 has Quick Hands
+PFXW-PEYJ
+
+// Player 1 has Max Power
+PFXW-PEY2
+
+// Player 1 has powered up goal tending
+PFXW-PEZJ
+
+// Player 1 is always on fire
+PFXW-PEZ2
+
+// Player 1 has infinite turbo
+PFXW-PE0J
+
+// Player 1 has powered up offense
+PFXW-PE02
+
+// Player 1 has powered up 3 pointers
+PFXW-PE1J
+
+// Player 1 has powered up super dunks
+PFXW-PE12
+
+// Player 1 has powered up blocks
+PFYC-PETJ
+
+// Player 1 knocks both opponents down by pushing one
+PFYC-PET2
+
+// Player 1 knocks opposite opponent down
+PFYC-PEVJ
+
+// Player 1 is faster
+PFYC-PEV2
+
+// Player 1 has teleport passing
+PFYC-PEWJ
+
+// Player 1 has high shots
+PFYC-PEXY
+
+// Player 2 has Quick Hands
+PKXW-PEYN
+
+// Player 2 has Max Power
+PKXW-PEY6
+
+// Player 2 has powered up goal tending
+PKXW-PEZN
+
+// Player 2 is always on fire
+PKXW-PEZ6
+
+// Player 2 has infinite turbo
+PKXW-PE0N
+
+// Player 2 has powered up offense
+PKXW-PE06
+
+// Player 2 has powered up 3 pointers
+PKXW-PE1N
+
+// Player 2 has powered up super dunks
+PKXW-PE16
+
+// Player 2 has powered up blocks
+PKYC-PETN
+
+// Player 2 knocks both opponents down by pushing one
+PKYC-PET6
+
+// Player 2 knocks opposite opponent down
+PKYC-PEVN
+
+// Player 2 is faster
+PKYC-PEV6
+
+// Player 2 has teleport passing
+PKYC-PEWN
+
+// Player 2 has high shots
+PKYC-PEX2
+
+// Player 3 has Quick Hands
+PPXW-PEYT
+
+// Player 3 has Max Power
+PPXW-PEZA
+
+// Player 3 has powered up goal tending
+PPXW-PEZT
+
+// Player 3 is always on fire
+PPXW-PE0A
+
+// Player 3 has infinite turbo
+PPXW-PE0T
+
+// Player 3 has powered up offense
+PPXW-PE1A
+
+// Player 3 has powered up 3 pointers
+PPXW-PE1T
+
+// Player 3 has powered up super dunks
+PPYC-PETA
+
+// Player 3 has powered up blocks
+PPYC-PETT
+
+// Player 3 knocks both opponents down by pushing one
+PPYC-PEVA
+
+// Player 3 knocks opposite opponent down
+PPYC-PEVT
+
+// Player 3 is faster
+PPYC-PEWA
+
+// Player 3 has teleport passing
+PPYC-PEWT
+
+// Player 3 has high shots
+PPYC-PEX6
+
+// Player 4 has Quick Hands
+PVXW-PEYY
+
+// Player 4 has Max Power
+PVXW-PEZE
+
+// Player 4 has powered up goal tending
+PVXW-PEZY
+
+// Player 4 is always on fire
+PVXW-PE0E
+
+// Player 4 has infinite turbo
+PVXW-PE0Y
+
+// Player 4 has powered up offense
+PVXW-PE1E
+
+// Player 4 has powered up 3 pointers
+PVXW-PE1Y
+
+// Player 4 has powered up super dunks
+PVYC-PETE
+
+// Player 4 has powered up blocks
+PVYC-PETY
+
+// Player 4 knocks both opponents down by pushing one
+PVYC-PEVE
+
+// Player 4 knocks opposite opponent down
+PVYC-PEVY
+
+// Player 4 is faster
+PVYC-PEWE
+
+// Player 4 has teleport passing
+PVYC-PEWY
+
+// Player 4 has high shots
+PVYC-PEYA
+
+// Extened Roster Enabled
+ADBC-TCAG
+
+// player 1 always gets the ball after every shot you make
+AM7W-PA7R
+
+// Score from Anywhere (Normal Shots)
+HBJC-RA3R
+BBJC-RA2J
+
+// Dunk and Layup From Anywhere
+ACVC-RA5W
+3LVC-RCDY
+
+// Team 1 Enable Extended Roster
+FF2236:007F
+
+// Team 2 Enable Extended Roster
+FF2238:007F
+
+// Enable Extended Roster
+98FC-Z96Y
+
+// Title screen Music / sound effect / DAC/PCM sample modifier
+ABBC-NACJ

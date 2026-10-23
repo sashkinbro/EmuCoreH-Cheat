@@ -1,0 +1,25 @@
+// Always Win P1
+FF57CE:0002
+
+// Infinite Credits
+FF5F2A:0005
+
+// Infinite Health P1
+FF577A:003E
+
+// 1 Hit Kill
+A58A-AA2C
+
+// Character Select
+A0JA-BA7R
+
+// Hit Anywhere P1
+FD4A-A2GC
+BH4A-AVGE
+TX4A-AAGG
+CD4A-A08J
+AD4A-AY8L
+1X4A-AAGN
+
+// Infinite Credit
+AW7T-AA4Y

@@ -1,0 +1,19 @@
+// Monster Hits Ineffective
+A6E-6CD-7FC
+
+// Save for 1 Save Total
+219-83B-4C2
+009-84B-193
+009-85B-E69
+
+// Infinite Health (1st Character In-Game - Brown Haired Boy)
+00C0-A524
+
+// Invincible
+00C0-A520
+
+// Infinite Health
+3AE-72D-2A2
+
+// Full Item Inventory
+001-28B-E62

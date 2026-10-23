@@ -1,0 +1,26 @@
+// Infinite Energy P1
+FF3876:0004
+
+// Infinite Lives P1
+FF3590:0009
+
+// Invinicible P1 (Sidescrolling Levels)
+FF35DE:0001
+
+// Invincibility
+FF35DE:0010
+FF58B6:0010
+
+// Invincibility
+RY6A-G61T
+R05A-J60W
+R19A-G6YC
+
+// Infinite Energy
+AT6T-GA2C
+
+// Freeze Time Continue
+ALWA-JA5J
+
+// Infinite Lives
+AWVT-JA9G

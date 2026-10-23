@@ -1,0 +1,63 @@
+// Infinite Lives
+ALLA-6A5A
+
+// Infinite Energy
+ALMT-6A8N
+
+// Infinite Bombs
+AL2T-6A3C
+
+// Infinite Lives
+FF0662:0063
+
+// Infinite Smart Bombs
+FF066C:0063
+
+// Start As Wolf (Don't Collect Life Powerups)
+FF02B4:00FF
+
+// Infinite Energy (Life Powerups Won't Turn You To Wolf, Turn To Wolf Before Using This Code)
+FF0674:0012
+
+// Max Energy
+FF0672:0012
+
+// Infinite Special Weapon
+ALWT-6A3L
+
+// Walk thru walls, rocks, trees, spikes, etc. See notes.
+GWEA-6A3G
+
+// Start on stage 2
+AF4T-8AF4
+
+// Start on stage 3
+AK4T-8AF4
+
+// Start on stage 4
+AP4T-8AF4
+
+// Start on stage 6
+AV4T-8AF4
+
+// Jump in mid-air (multi jump)
+RGET-6618
+
+// Jump higher
+TCFA-7X2J
+
+// Jump much higher
+ACFA-7S2J
+
+// Invincibility (can walk thru enemies and enemy fire). See notes.
+A5BA-6A5Y
+
+// Can select up to 50 lives in the Option screen
+GBYT-8AGL
+
+// Invincibility (Disable Hit Detection)
+RZ2T-66V2
+R0ET-66VT
+
+// Start New Game With The Force Field (Untouchable)
+RGPA-66V4

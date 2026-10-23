@@ -1,0 +1,36 @@
+// Infinite Health
+FF17A0:00FF
+FF17A2:00FF
+
+// Infinite Magic
+FF17A4:00FF
+FF17A6:00FF
+
+// Infinite Health (Alternate)
+FF17A2:00FF
+FF17A4:00FF
+
+// Infinite Magic (Alternate)
+FF17A6:00FF
+FF17A8:00FF
+
+// Infinite HP
+FF1A72:03E7
+
+// Max HP
+FF1A70:03E7
+
+// Infinite Sp
+FF1A76:03E7
+
+// Max Sp
+FF1A74:03E7
+
+// Max Kills
+FF1A7C:FFFF
+
+// Max Rank (Attack)
+FF1A7E:03E7
+
+// Start With Rank of 500
+00140E:01F4

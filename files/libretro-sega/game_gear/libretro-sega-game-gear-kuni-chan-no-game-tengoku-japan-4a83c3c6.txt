@@ -1,0 +1,5 @@
+// Almost Always P1's Turn/Always Roll 6
+00CD-0C06
+
+// Always Have 80/80
+00CD-0A50

@@ -1,0 +1,135 @@
+// Gain 255 Meseta From Every Enemy
+00C4-E0FF
+
+// Infinite Magic
+00C4-02FF
+
+// Max HP  [On Status Screen]
+00C4-06FF
+
+// Max MP  [On Status Screen]
+00C4-07FF
+
+// Max Attack
+00C4-08FF
+
+// Max Defense
+00C4-09FF
+
+// Infinite Magic
+00C4-12FF
+
+// Maximum Level
+00C4-151E
+
+// Max HP  [On Status Screen]
+00C4-16FF
+
+// Max MP [On Status Screen]
+00C4-17FF
+
+// Max Attack
+00C4-18FF
+
+// Max Defense
+00C4-19FF
+
+// Invincibility
+00C4-21FF
+
+// Maximum Level
+00C4-251E
+
+// Max HP  [On Status Screen]
+00C4-26FF
+
+// Max MP [On Status Screen]
+00C4-27FF
+
+// Max Attack
+00C4-28FF
+
+// Max Defense
+00C4-29FF
+
+// Invincibility
+00C4-31FF
+
+// Infinite Magic
+00C4-32FF
+
+// Maximum Level
+00C4-351E
+
+// Max HP  [On Status Screen]
+00C4-36FF
+
+// Max MP  [On Status Screen]
+00C4-37FF
+
+// Max Attack
+00C4-38FF
+
+// Max Defense
+00C4-39FF
+
+// Level 30
+00C4-051E
+
+// Level 30
+00C4-151E
+
+// Level 30
+00C4-251E
+
+// Level 30
+00C4-351E
+
+// Item Modifier First Slot
+00C4-C002
+00C4-E802
+
+// Item Modifier Second Slot
+00C4-C102
+00C4-E902
+
+// No Random Battles
+00C2-0CFF
+00C2-0DFF
+
+// No Random Battles
+C3F-B1A-A21
+
+// Lots Of Random Battles
+B4F-B2A-08D
+
+// No Random Battles
+C9F-5CF-A29
+
+// Lots Of Random Battles
+00F-5CF-A29
+
+// Infinite Meseta
+00C4-E1FF
+
+// Start A New Game With 65,535 MST
+FF6-26F-E6A
+FF6-27F-E6A
+
+// Start A New Game At Level 30
+1E6-F8E-E6E
+
+// Infinite HP
+7E5-C9E-3B7
+
+// Infinite MP - In Battle
+1AE-ABE-A22
+
+// Infinite MP - Outside Battle
+1AE-58E-A22
+
+// Infinite Meseta
+2AC-09D-6E2
+
+// Walk Anywhere
+004-FE8-E6E

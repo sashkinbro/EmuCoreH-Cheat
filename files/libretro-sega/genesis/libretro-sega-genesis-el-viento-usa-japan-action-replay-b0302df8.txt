@@ -1,0 +1,8 @@
+// Can Throw 4 Boomerangs Instead of 2
+FFAB40:0004
+
+// Stops Player From Taking Damage From Most Enemies
+00C476:4A79
+
+// Keeps Flame Weapon At Full Strength All The Time
+009402:4A79

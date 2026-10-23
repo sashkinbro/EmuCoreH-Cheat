@@ -1,0 +1,118 @@
+// Each Basket Worth 1 Instead Of 2 Or 3 (player 2 or computer)
+SF5T-DEWJ
+
+// Each basket worth 2 instead of 2 or 3 (player 2 or computer)
+SF5T-DJWJ
+
+// Each basket worth 3 instead of 2 or 3 (player 2 or computer)
+SF5T-DNWJ
+
+// Each basket worth 4 instead of 2 or 3 (player 2 or computer)
+SF5T-DTWJ
+
+// Each basket worth 5 instead of 2 or 3 (player 2 or computer)
+SF5T-DYWJ
+
+// Each basket worth 6 instead of 2 or 3 (player 2 or computer)
+SF5T-D2WJ
+
+// Each basket worth 7 instead of 2 or 3 (player 2 or computer)
+SF5T-D6WJ
+
+// Each basket worth 8 instead of 2 or 3 (player 2 or computer)
+SF5T-DAWJ
+
+// Each basket worth 1 instead of 2 or 3 (player 1)
+SF5T-DEWW
+
+// Each basket worth 2 instead of 2 or 3 (player 1)
+SF5T-DJWW
+
+// Each basket worth 3 instead of 2 or 3 (player 1)
+SF5T-DNWW
+
+// Each basket worth 4 instead of 2 or 3 (player 1)
+SF5T-DTWW
+
+// Each basket worth 5 instead of 2 or 3 (player 1)
+SF5T-DYWW
+
+// Each basket worth 6 instead of 2 or 3 (player 1)
+SF5T-D2WW
+
+// Each basket worth 7 instead of 2 or 3 (player 1)
+SF5T-D6WW
+
+// Each basket worth 8 instead of 2 or 3 (player 1)
+SF5T-DAWW
+
+// Infinite time outs (both players)
+RHDA-A6T6
+
+// Start with 1 timeout (player 1)
+AECT-AAEA
+AEDA-AAAC
+
+// Start with 3 timeouts (player 1)
+ANCT-AAEA
+ANDA-AAAC
+
+// Start with 7 timeouts (player 1)
+A6CT-AAEA
+A6DA-AAAC
+
+// Start with 9 timeouts (player 1)
+BECT-AAEA
+BEDA-AAAC
+
+// Start with 1 timeout (player 2)
+AECT-AAEJ
+AEDA-AAAL
+
+// Start with 3 timeouts (player 2)
+ANCT-AAEJ
+ANDA-AAAL
+
+// Start with 7 timeouts (player 2)
+A6CT-AAEJ
+A6DA-AAAL
+
+// Start with 9 timeouts (player 2)
+BECT-AAEJ
+BEDA-AAAL
+
+// Start with 10 points (player 1)
+BJCT-AACW
+
+// Start with 20 points (player 1)
+CTCT-AACW
+
+// Start with 30 points (player 1)
+D2CT-AACW
+
+// Start with 40 points (player 1)
+FACT-AACW
+
+// Start with 10 points (player 2 or computer)
+BJCT-AAC4
+
+// Start with 20 points (player 2 or computer)
+CTCT-AAC4
+
+// Start with 30 points (player 2 or computer)
+D2CT-AAC4
+
+// Start with 40 points (player 2 or computer)
+FACT-AAC4
+
+// All 3-point baskets worth 6 (both players)
+A5VT-AAF8
+
+// All 3-point baskets worth 9 (both players)
+BHVT-AAF8
+
+// Team 1 Score Modifier (P1)
+FFA0E0:0000
+
+// Team 2 Score Modifier (P2/CPU)
+FFA0E2:0000

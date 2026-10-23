@@ -1,0 +1,11 @@
+// enemies cannot gain any score
+00C2-74FF
+
+// CPU Never Scores
+3A7-3FD-2A2
+
+// P1 Score Modifier
+00C2-7300
+
+// P2 Score Modifier
+00C2-7400

@@ -1,0 +1,14 @@
+// Infinite Lives
+AXHT-NA70
+
+// Gain A Life With Every Gem (Gem Modifier)
+FFA04E:0063
+
+// Infinite Lives
+FFA04C:0063
+
+// Super Jump (Cart Level)
+FFA09A:000F
+
+// Invincibility From the Spikes
+R1DA-N6YY

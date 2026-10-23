@@ -1,0 +1,23 @@
+// Infinite Seconds - One's Digit
+00C0-1409
+
+// Infinite Seconds - Ten's Digit
+00C0-1509
+
+// Infinite Minutes - One's Digit
+00C0-1609
+
+// Infinite Minutes - Ten's Digit
+00C0-1709
+
+// Infinite Health
+00C1-1C23
+
+// Infinite Lives
+00C0-0E05
+
+// Maximum Power
+00C0-1008
+
+// Have Shot And It Is Infinite
+00C0-1208

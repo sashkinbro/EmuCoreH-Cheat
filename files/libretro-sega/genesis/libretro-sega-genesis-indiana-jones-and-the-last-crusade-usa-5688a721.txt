@@ -1,0 +1,91 @@
+// Infinite Lives
+D6KT-AAG8
+
+// Infinite Energy
+D62A-AAGY
+
+// Infinite Whip
+AT2T-AA2C
+
+// Invincibility
+AB5A-AN3Y
+9V7T-BGBL
+AV7T-AABN
+977T-AABR
+YF7T-BKBT
+
+// Infinite Lives
+FF7F5A:0008
+
+// Infinite Energy
+FF7F58:0020
+
+// Infinite Whip
+FF7F52:000A
+
+// Invincibility
+FF94A0:0004
+
+// Infinite Whips
+FF7F52:000A
+
+// Infinite Time
+FF7D74:0009
+
+// Infinite Credits
+FFA032:0009
+
+// Pick Up Torch From Anywhere
+AKGT-AA44
+
+// Everything Invisible Except Background
+AB8A-AA5T
+
+// Jump To Fall Thru Floor
+AATA-AA44
+
+// Enemies Frozen In Place
+ABHA-AA30
+
+// Always Gain Score
+AKHA-AA22
+
+// Screen Never Darkens
+AB4A-AA54
+
+// Screen Never Dims (Alt)
+AB4A-AA7T
+
+// Screen Dims To Blueish Tint
+AB4A-AA2C
+
+// Screen Dims To Greenish Tint
+AB4A-AA3A
+
+// Screen Dims To Redish Tint
+AB4A-AA38
+
+// Invincibility
+RZ0A-A6T4
+RYNA-A6Y8
+
+// Don't fall when you walk off ledges (walk on air).  See notes.
+RYWA-A60E
+
+// Press Jump to hover. See notes.
+A2RT-AA3T
+
+// Invincibility
+98JT-B97G
+
+// Invincibility from water hazards, skull hazards, lava, traps, etc.
+RYYA-A6Y2
+
+// Press any button (A, B, or C) at the Lucasfilm screen for the level select menu
+DMBA-AA8A
+
+// Jump higher
+6J3A-AF8J
+
+// Jump much higher
+5A3A-BV0J

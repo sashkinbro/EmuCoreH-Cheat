@@ -1,0 +1,23 @@
+// Infinite Lives
+00C4-2409
+
+// Infinite Health
+00C4-6A19
+
+// Infinite Machine Gun
+00C4-2763
+
+// Infinite Flamethrower
+00C4-290A
+
+// Infinite Grenades
+00C4-2D0F
+
+// Infinite Time
+00C4-7903
+
+// Infinite Missiles
+00C4-2B99
+
+// Invincible
+00C4-8504

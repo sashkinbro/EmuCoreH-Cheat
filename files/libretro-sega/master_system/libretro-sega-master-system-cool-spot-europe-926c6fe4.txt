@@ -1,0 +1,45 @@
+// Infinite Lives
+00D1-8E03
+
+// Invulnerability
+00D1-BD30
+
+// Invulnerability
+013-0AC-7F4
+
+// Cheat Menu Enabled
+00CE-4704
+
+// Cool % Modifier
+00C7-6900
+
+// Infinite Time
+00D0-9059
+00D0-9109
+
+// Pause Enabler
+00D0-9301
+
+// Turn On To Rise To The Ceiling
+00D1-7E06
+
+// Invinicibility
+00D1-BD02
+
+// Can Open Cage
+00C7-6801
+
+// Infinite Lives
+B64-80E-3BE
+
+// Invincibility
+C9F-4AD-E69
+
+// Infinite Health
+7E5-43C-3B7
+
+// Infinite Time
+00D-69B-3BE
+
+// Freeze Timer
+00D0-8F3C

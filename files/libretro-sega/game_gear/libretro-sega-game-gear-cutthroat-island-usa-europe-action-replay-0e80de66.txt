@@ -1,0 +1,8 @@
+// Infinite Lives
+00DC-2309
+
+// FAKE Infinite Health
+00DB-E916
+
+// Infinite Health
+00DB-EB17

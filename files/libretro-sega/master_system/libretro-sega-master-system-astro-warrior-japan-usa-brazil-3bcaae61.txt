@@ -1,0 +1,26 @@
+// Invincibility
+C9A-16E-C49
+
+// Infnite Lives
+7E1-5BF-3B7
+
+// Infinite Lives
+00C2-3F03
+
+// Invincibility
+3A9-0CF-2A2
+
+// Infinite Lives - 1P Game
+3A1-5CF-2A2
+
+// P1 Infinite Lives - 2P Game
+3A1-9DF-2A2
+
+// P2 Infinite Lives - 2P Game
+3A1-E6F-2A2
+
+// Always Have Multi Fire Power-Up
+00C6-1601
+
+// Always Have Laser Power-Up
+00C6-1001

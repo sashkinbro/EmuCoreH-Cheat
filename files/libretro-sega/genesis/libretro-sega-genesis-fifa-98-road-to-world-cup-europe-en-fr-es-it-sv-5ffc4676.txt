@@ -1,0 +1,16 @@
+// Cpu Never Scores
+9VWT-PCE8
+ABWT-NAFA
+XVWT-PV7C
+
+// Team 1 Score Modifier (P1)
+FFF89A:0000
+
+// Team 2 Score Modifier (P2/CPU)
+FFF89C:0000
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T

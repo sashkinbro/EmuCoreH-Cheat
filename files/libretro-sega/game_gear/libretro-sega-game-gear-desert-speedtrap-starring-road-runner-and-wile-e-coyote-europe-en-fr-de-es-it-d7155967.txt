@@ -1,0 +1,35 @@
+// Infinite Stars
+00C2-0899
+
+// Infinite Credits
+00C0-2809
+
+// Infinite Time
+00CA-DF0A
+
+// Infinite Hits
+00CA-DC04
+
+// Invincible
+00CA-E501
+
+// Infinite Lives
+00C0-2902
+
+// Invulnerability
+C32-20B-E61
+
+// Infinite Time
+001-C3B-A28
+
+// Each Star Counts As ??
+015-9F9-E6E
+
+// Infinite Lives
+00E-EAF-19E
+
+// Infinite Health
+002-B0B-A2C
+
+// Infinite Credits
+00C-6FC-19E

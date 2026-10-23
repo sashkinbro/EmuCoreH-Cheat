@@ -1,0 +1,16 @@
+// Fake Infinite Time
+FFEECE:0039
+FFEECE:0039
+FFEED0:0039
+
+// Infinite Time
+FFFC88:0014
+
+// Infinite Time
+AM6A-CA5A
+
+// Don't Fall in BMX Event
+KVXA-EA2C
+
+// Don't Fall in Skate Event
+RY0A-C6WE

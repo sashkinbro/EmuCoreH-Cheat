@@ -1,0 +1,14 @@
+// Balls Modifier
+FF00B6:0000
+
+// Strikes Modifier
+FF00B8:0000
+
+// Outs Modifier
+FF00B8:0000
+
+// Team 2 Score Modifier
+FF00B0:0000
+
+// Team 2 Runs Modifier
+FF00B2:0000

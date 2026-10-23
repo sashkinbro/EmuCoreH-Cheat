@@ -1,0 +1,30 @@
+// Infinite Energy
+00DA-A310
+00DA-A410
+
+// Infinite Lives
+00DA-AD02
+
+// Stage Select Enabled
+00DE-7C01
+
+// Infinite Health
+00D-8FB-A28
+
+// Infinite Health (Alt.)
+C9D-83B-E69
+
+// Infinite Lives
+00F-6AA-19E
+
+// Stage Select Enabled
+CDA-7DA-F79
+
+// Invincibility (after being hit) (blinking)
+3AC-B7C-2A2
+
+// Invincibility (blinking)
+00DA-B50C
+
+// Invincibility (after being hit)
+C9C-ADC-E69

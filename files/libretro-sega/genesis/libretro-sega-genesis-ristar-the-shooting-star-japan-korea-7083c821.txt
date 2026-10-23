@@ -1,0 +1,34 @@
+// Regional Lockout Bypass
+AJBT-AA36
+
+// Infinie Lives
+ALCT-AA68
+
+// Infinite Health
+AJHT-JA4W
+AKMA-CA4G
+AKSA-CA3W
+
+// Untouchable
+RYHT-J6WW
+RZMA-C6WG
+RZSA-C6VW
+
+// Infinite Timer in Bonus Stages
+AX4T-AA62
+AX8A-AA40
+
+// Start with ?? Lives
+AZ6A-BA2T
+
+// Continue with ?? Lives
+AY7T-MA8C
+
+// Invincibility
+RHVA-C6VY
+
+// Infinite Continues
+AMZT-LA50
+
+// Enable Debug Invincibility
+F5TT-CA8J

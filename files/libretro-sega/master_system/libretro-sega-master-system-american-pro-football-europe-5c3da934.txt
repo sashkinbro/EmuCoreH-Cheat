@@ -1,0 +1,8 @@
+// Infinite Time
+00C1-0125
+
+// Infinite Time-Outs
+00C1-2003
+
+// CPU/P2 Never Scores
+00C1-1000

@@ -1,0 +1,38 @@
+// Infinite Shields
+FFFE2C:0001
+
+// Infinite Rings
+FFFE20:03E7
+
+// Infinite Lives
+FFFE12:0063
+
+// Infinite Time Underwater
+FFB028:00FA
+
+// Disable Water
+FFF64A:FFFF
+
+// Enable Debug Mode
+FFFFFA:0001
+
+// Level select menu, at title screen, hold button A while pressing start
+FFFFD0:0001
+
+// Infinite Lives
+AJFA-CA36
+
+// Infinite Rings
+AW1A-AA3C
+
+// Invincibility
+RYKT-E6YL
+
+// Freeze Time
+BA2A-EA58
+
+// Freeze Time Underwater
+AJVT-CA6T
+
+// Enabled Cheat Code Debug Mode
+RE2A-E6VG

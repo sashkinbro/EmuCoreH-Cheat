@@ -1,0 +1,59 @@
+// Infinite Lives
+00DF-BA03
+
+// Infinite Energy
+00CA-3A20
+
+// Infinite Ammo
+00DF-B963
+
+// Invincible
+00DF-B463
+
+// Debug Invincibility
+006-68B-3B4
+
+// Invulnerability
+00CA-3C36
+
+// Invulnerability
+005-E7B-3B4
+
+// Invulnerability
+C96-DFB-91D
+
+// Invulnerability
+00CA-3C39
+
+// Infinite Time (One's Digit)
+00DF-C309
+
+// Infinite Time (Ten's Digit)
+00DF-C409
+
+// Infinite Time (Hundred's Digit)
+00DF-C509
+
+// Infinite Health
+3A6-F8B-2A2
+
+// Infinite Lives
+3A1-59E-2A2
+
+// Infinite Ammo
+3A3-44D-2A2
+
+// Infinite Time
+B6C-1FB-3BE
+
+// Freeze Timer
+00DF-C21E
+
+// Invincibility
+C96-D1B-E69
+
+// Start with ?? Lives, instead of 3
+052-857-E66
+
+// Press 1 or 2 on Title Screen for Debug Menu
+000-EB7-2AE

@@ -1,0 +1,5 @@
+// Infinite Health (Both Boy &amp; Girl)
+00C1-D199
+
+// Infinite Lives (See Note!)
+00C9-B509

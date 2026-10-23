@@ -1,0 +1,37 @@
+// Start On Level 3 - Streets of Detroit
+039-09D-E6E
+
+// Start On Level 5 - Delta City Under Construction
+059-09D-E6E
+
+// Start On A Secret Level
+079-09D-E6E
+
+// Start With Very Little Energy
+014-2FA-6EA
+
+// Infinite Energy
+00C-61B-A29
+
+// Don't Flash After Getting Hit
+01C-56B-E62
+
+// Flash Longer After Getting Hit
+59C-56B-E62
+
+// Invincible After Getting Hit Once
+C9D-FAD-3BF
+
+// Full Energy Pots Restore A Small Amount Of Energy
+01A-5F8-912
+
+// Full Energy Pots Restore All Your Energy
+19A-5F8-912
+
+// Mega-Lives
+019-12D-F76
+009-10D-F77
+
+// Start With 7 Lives
+099-12D-F76
+009-10D-F77

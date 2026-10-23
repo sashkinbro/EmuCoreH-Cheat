@@ -1,0 +1,18 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Untouchable
+RY0V-460R
+
+// Infinite Energy
+AT1B-4A6J
+AJ0B-4A28
+AJ2B-4A40
+A22V-4A98
+ATZB-4A3T
+
+// Level Select in Option in Jukebox press button C in Melody From 1 to 6
+REJB-461R

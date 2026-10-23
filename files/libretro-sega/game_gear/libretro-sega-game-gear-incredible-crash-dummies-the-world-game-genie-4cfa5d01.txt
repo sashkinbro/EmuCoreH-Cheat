@@ -1,0 +1,63 @@
+// Start With 1 Life
+01C-40F-F7E
+
+// Start With 1 Lives
+09C-40F-F7E
+
+// Start With 3 Lives
+03C-40F-F7E
+
+// Start With 5 Lives
+05C-40F-F7E
+
+// Start With 7 Lives
+07C-40F-F7E
+
+// Start With 9 Lives
+09C-40F-F7E
+
+// Infinite Lives
+00F-45F-19E
+
+// Start With 40 Seconds On Day 1
+403-69E-6EB
+
+// Start With 80 Seconds On Day 1
+803-69E-6EB
+
+// Start With 99 Seconds On Day 1
+993-69E-6EB
+
+// Start With 20 Seconds On Day 2
+205-FFE-E6B
+
+// Start With 60 Seconds On Day 2
+605-FFE-E6B
+
+// Start With 99 Seconds On Day 2
+995-FFE-E6B
+
+// Infinite Time (Must Switch Off At End Of Day)
+009-7AD-E6E
+
+// Start On Day 2
+3EC-29F-082
+01C-2AF-E62
+00C-2BF-E69
+
+// Start On Day 3
+3EC-29F-082
+00C-2BF-E69
+
+// Start On Day 4
+3EC-29F-082
+03C-2AF-E62
+00C-2BF-E69
+
+// Start On Day 5
+3EC-29F-082
+04C-2AF-E62
+00C-2BF-E69
+
+// Fire Has No Effect On Crash Dummies
+00B-E1A-E69

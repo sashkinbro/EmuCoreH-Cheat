@@ -1,0 +1,141 @@
+// Collecting the first emerald opens up the boss room (updated code, verified to work on level 4).
+FMBA-5Y08
+
+// Start with 1 life
+AFBT-4AHR
+
+// Start with 2 lives
+AKBT-4AHR
+
+// Start with 5 lives
+AZBT-4AHR
+
+// Start with 7 lives
+A7BT-4AHR
+
+// Infinite lives
+AXBA-4A4T
+
+// Get extra man about every 5,000,000 pts.
+KT9A-4AHR
+KT9T-4AAA
+
+// 10 balls in Level 1 bonus round
+BGXA-8AH6
+
+// 5 balls in Level 1 bonus round
+AWXA-8AH6
+
+// 2 balls in Level 1 bonus round
+AGXA-8AH6
+
+// 1 ball in Level 1 bonus round
+ACXA-8AH6
+
+// 10 balls in Level 2 bonus round
+BGXA-8AGG
+
+// 5 balls in Level 2 bonus round
+AWXA-8AGG
+
+// 2 balls in Level 2 bonus round
+AGXA-8AGG
+
+// 1 ball in Level 2 bonus round
+ACXA-8AGG
+
+// 10 balls in Level 3 bonus round
+BGXT-8AA2
+
+// 5 balls in Level 3 bonus round
+AWXT-8AA2
+
+// 2 balls in Level 3 bonus round
+AGXT-8AA2
+
+// 1 ball in Level 3 bonus round
+ACXT-8AA2
+
+// Infinite balls in all bonus rounds
+AXST-8A5L
+
+// Start on Level 2: Lava Powerhouse
+AFBT-5N7G
+
+// Start on Level 3: The Machine
+AKBT-5N7G
+
+// Start on Level 4: Showdown
+APBT-5N7G
+
+// The sea monster in the water won't attack you when you fall in-between the flippers in the 1st level.
+AB6A-6AEJ
+
+// Gravity is lower
+CDMT-5AB6
+
+// Gravity is much lower
+BDMT-4TB6
+
+// Get Extra Man About Every 1,000,000 Points
+B69A-4AHR
+B69T-4AAA
+
+// Get Extra Man About Every 10,000,000 Points
+XA9A-4AHR
+XA9T-4AAA
+
+// Get Extra Man About Every 30,000,000 Points
+3J9A-4CHR
+3J9T-4CAA
+
+// Get Extra Man About Every 50,000,000 Points
+9N9A-4EHR
+9N9T-4EAA
+
+// Infinite Lives
+FF579E:0003
+
+// Enable Level Select
+FFF8F8:0001
+
+// Music Modifier
+FF0360:0000
+
+// Infinite Balls In Bonus Levels
+FFF20C:0003
+
+// Region Free/Bypass
+AABT-AA3W
+
+// Enable Level Select
+RFBT-46ZR
+
+// Weird Level Skip
+AMPT-4A2C
+
+// Allows much more control over Sonic when trying to steer him around the screen
+AHPA-5E7W
+AHPA-5E8T
+
+// Slows Sonic way down
+A9MT-4RB6
+
+// Don't die when you fall between the flippers into lava or other hazards
+DDFA-4A5N
+
+// Title screen / sound effect / DAC/PCM modifier
+ACRT-WAHG
+
+// Pressing Down on the directional pad will reverse gravity and cause Sonic to start moving upward (see notes)
+ZMPA-5DH0
+
+// Multi-Ball bonus level is enabled when you collect just 1 ring.
+AERA-7A3G
+RERA-66VJ
+
+// Multi-Ball bonus level is enabled every time you collect a ring (see notes).
+RERA-66VW
+
+// Walk Left when you first start level 1 and you will be taken to the upper area of the level.
+CDRA-4A7N

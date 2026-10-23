@@ -1,0 +1,35 @@
+// Outs Modifier
+00C5-A100
+
+// Strikes Modifier
+00C5-A200
+
+// Ball Modifier
+00C5-A300
+
+// Outs not counted
+009-76C-19A
+
+// Can't walk
+00A-C1E-19A
+
+// 1 ball and you walk
+01A-C3E-F7A
+
+// 6 balls and you walk
+06A-C3E-F7A
+
+// 9 balls and you walk
+09A-C3E-F7A
+
+// No strikeouts
+00A-37E-19A
+
+// 1 strike and you're out
+01A-39E-E66
+
+// 6 strikes and you're out
+06A-39E-E66
+
+// 9 strikes and you're out
+09A-39E-E66

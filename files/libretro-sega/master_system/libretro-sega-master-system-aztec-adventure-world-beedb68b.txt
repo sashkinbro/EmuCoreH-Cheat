@@ -1,0 +1,44 @@
+// Infinite Lives
+00C1-440A
+
+// Final Level [Change &quot;A&quot; For Other Levels]
+00C1-460A
+
+// Infinite Money
+00C1-4C09
+
+// Infinite Iron Balls
+00C1-4D09
+
+// Infinite Spears
+00C1-4E09
+
+// Infinite 4-Directional Iron Balls
+00C1-4F09
+
+// Infinite Special Items
+00C1-5009
+
+// Invincibility
+C9B-48E-A22
+
+// Level Select
+00C1-E501
+
+// Level Select Enabled
+B61-20E-3B4
+
+// Infnite Lives
+2A1-01D-6EE
+
+// Infnite Energy
+1AB-48E-A22
+
+// Infinite Items
+7EF-DAE-3BE
+
+// Infinite Health
+00C1-4740
+
+// Infinite Lives
+B61-04D-3BE

@@ -1,0 +1,183 @@
+// Start with 1 life
+ACSA-AADL
+
+// Start with 10 lives
+BGSA-AADL
+
+// Start with 1 credit
+AGSA-AADT
+
+// Start with 9 credits
+BGSA-AADT
+
+// Infinite life points
+C2CA-CA5C
+
+// Infinite lives
+AJCA-CA6W
+
+// Weapon does not discharge
+AJFA-CA8C
+
+// Weapon gets full power on first power up
+A28T-DE2N
+
+// Start with weapon at level 6 firepower
+A4SA-AAD6
+
+// Start with Shuriken instead of Batarang
+AGSA-AAD0
+
+// Start with Bolo instead of Batarang
+ALSA-AAD0
+
+// Infinite Lives
+AACA-CA6W
+
+// Infinite Energy
+AJCA-CA5C
+
+// Invincibility
+CBCA-AR6R
+
+// Infinite Lives
+FFF656:0002
+
+// Infinite Power
+FFF658:2C80
+
+// Infinite Energy
+FFF654:0100
+
+// Game Is Finished
+44ST-AB1A
+
+// Freeze Timer At Continue Screen
+FFAE22:0064
+
+// P1's Jump Height
+FFB14E:0002
+
+// Infinite Weapon Orange Bar P1
+FFF658:002D
+
+// Infinite Continues
+FFF64E:0009
+
+// Infinite Lives P1
+FFF656:0009
+
+// No Health Remaining For 1st Boss
+FFC1B0:0000
+
+// Infinite Weapon Orange Bar P2
+FFF698:002D
+
+// Infinite Lives P2
+FFF696:0009
+
+// Weapon Modifier
+FFF678:0000
+
+// Shot Multiplier Modifier
+FFF67A:0000
+
+// Multiple Jump Kicks
+FFAF3A:0000
+FFB048:0000
+FFB1B0:0000
+
+// One Hit Kills
+AJ7A-AA2L
+AJ7A-AA36
+
+// Pause the game and press B to advance to next section/level.
+RGRA-A60E
+
+// Start on level 1, section 4. Turn codes off after you start the level.
+B4ST-ABJE
+RGST-A60J
+
+// Start on level 2, section 1. Turn codes off after you start the level.
+C4ST-ABJE
+RGST-A60J
+
+// Start on level 2, section 4. Turn codes off after you start the level.
+ELST-ABJE
+RGST-A60J
+
+// Start on level 3, section 1. Turn codes off after you start the level.
+F4ST-ABJE
+RGST-A60J
+
+// Start on level 3, section 5. Turn codes off after you start the level.
+H4ST-ABJE
+RGST-A60J
+
+// Start on level 4, section 1. Turn codes off after you start the level.
+KLST-ABJE
+RGST-A60J
+
+// Start on level 4, section 3. Turn codes off after you start the level.
+LLST-ABJE
+RGST-A60J
+
+// Level select. Has only been tested on Gens.
+FFF602:2100
+
+// P1 Portrait Modifier
+FFF674:2011
+
+// P2 Portrait Modifier
+FFF6B4:2011
+
+// Untouchable
+RYEA-C6TG
+
+// Invincibility
+REDT-C61T
+
+// Keep Current Weapon Level after Dying
+AJCA-CA68
+
+// Infinite Continues
+ALJT-JA96
+
+// Regional Lockout Bypass (European Systems)
+AACA-AA3J
+
+// Batman Walks Faster
+AC4A-JGE0
+
+// Batman Walks Much Faster
+AC4A-JJE0
+
+// Robin Walks Faster
+ADST-JGGW
+
+// Robin Walks Much Faster
+ADST-JJGW
+
+// Batman Jumps Higher
+TC4T-JAA0
+
+// Batman Jumps Much Higher
+0C4T-JAA0
+
+// Batman Slower Jump Ascent
+JC4T-JEA2
+
+// Batman Much Slower Jump Ascent
+AC4T-JGA2
+
+// Robin Jumps Higher
+TDTA-JACW
+
+// Robin Jumps Much Higher
+0DTA-JACW
+
+// Robin Slower Jump Ascent
+JDTA-JECY
+
+// Robin Much Slower Jump Ascent
+ADTA-JGCY

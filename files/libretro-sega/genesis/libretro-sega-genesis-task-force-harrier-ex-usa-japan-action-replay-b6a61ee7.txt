@@ -1,0 +1,11 @@
+// Infinite Lives
+0024F6:4A38
+
+// Infinite Bombs
+0021B2:4A38
+
+// Always Keep Extra Aircraft
+FF8106:0001
+
+// Activate Action Replay For Extra Aircraft
+002048:6002

@@ -1,0 +1,14 @@
+// Enable Stage Select Hold A+Start On Screen Start Options
+FFFB1C:0001
+
+// Enable Stage Select Hold A+Start On Screen Start Options
+AAFA-AAFE
+
+// Regional Lockout Bypass (USA and European Systems)
+A2BT-AA7J
+
+// Enable Stage Select Menu after Title Screen
+AJFA-AA7E
+
+// Unlock Very Hard and Crazy Hard Difficulties in Options
+DBRA-AA32

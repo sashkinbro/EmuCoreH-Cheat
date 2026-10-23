@@ -1,0 +1,6 @@
+// Gain Points Quickly
+FFF766:00FF
+
+// Gain Points Very Quickly
+FFF766:00FF
+FFF766:00FF

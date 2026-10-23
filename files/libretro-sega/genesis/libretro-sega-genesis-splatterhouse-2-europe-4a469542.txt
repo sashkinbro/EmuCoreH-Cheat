@@ -1,0 +1,17 @@
+// Infinite Energy
+AX2T-AA68
+
+// Infinite Lives
+AX2T-AA8Y
+
+// Hits Hurt Twice as Much
+HH2T-BLY8
+
+// Start with 1 Life
+AE0A-AAGA
+
+// Start with 5 Lives
+AY0A-AAGA
+
+// Start with 9 Lives
+BE0A-AAGA

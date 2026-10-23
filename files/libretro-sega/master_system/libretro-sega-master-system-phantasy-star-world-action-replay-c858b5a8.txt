@@ -1,0 +1,90 @@
+// Invincibility (Alis)
+00C4-01FF
+
+// Invincibility (Myau)
+00C4-11FF
+
+// Invincibility (Odin)
+00C4-21FF
+
+// Invincibility (Noah)
+00C4-31FF
+
+// Infinite Magic (Alis)
+00C4-02FF
+
+// Infinite Magic (Myau)
+00C4-12FF
+
+// Infinite Magic (Noah)
+00C4-32FF
+
+// Gain 255 Meseta From Every Enemy
+00C4-E0FF
+
+// Maximum Level Alis
+00C4-051E
+
+// Maximum Level Myau
+00C4-151E
+
+// Maximum Level Odin
+00C4-251E
+
+// Maximum Level Noah
+00C4-351E
+
+// Max HP Alis (On Status Screen)
+00C4-06FF
+
+// Max HP Myau (On Status Screen)
+00C4-16FF
+
+// Max HP Odin (On Status Screen)
+00C4-26FF
+
+// Max HP Noah (On Status Screen)
+00C4-36FF
+
+// Max MP Alis (On Status Screen)
+00C4-07FF
+
+// Max MP Myau (On Status Screen)
+00C4-17FF
+
+// Max MP Odin (On Status Screen)
+00C4-27FF
+
+// Max MP Noah (On Status Screen)
+00C4-37FF
+
+// Max Attack Alis
+00C4-08FF
+
+// Max Attack Myau
+00C4-18FF
+
+// Max Attack Odin
+00C4-28FF
+
+// Max Attack Noah
+00C4-38FF
+
+// Max Defense Alis
+00C4-09FF
+
+// Max Defense Myau
+00C4-19FF
+
+// Max Defense Odin
+00C4-29FF
+
+// Max Defense Noah
+00C4-39FF
+
+// No Random Battles
+00C2-0CFF
+00C2-0DFF
+
+// Infinite Meseta
+00C4-E1FF

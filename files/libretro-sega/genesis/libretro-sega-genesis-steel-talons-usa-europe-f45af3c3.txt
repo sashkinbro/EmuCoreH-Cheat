@@ -1,0 +1,20 @@
+// Infinite Energy
+RGWA-G61W
+
+// Infinite Lives
+AWXA-GA24
+
+// Infinite Missles
+AWZA-GA86
+
+// Start With 9 Lives
+BE4A-GAER
+
+// Start with 99 Missles
+NRST-HA6E
+
+// Infinite Missiles
+FF0B8C:00FF
+
+// Infinite Lives (Ignore HUD)
+FFED14:0009

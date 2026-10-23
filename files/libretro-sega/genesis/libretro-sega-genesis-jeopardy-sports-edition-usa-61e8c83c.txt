@@ -1,0 +1,5 @@
+// Infinite Time To Buzz In
+FF384E:0009
+
+// No Time To Enter Answer
+FF386C:0000

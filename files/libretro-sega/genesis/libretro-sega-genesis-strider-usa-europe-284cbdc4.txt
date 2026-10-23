@@ -1,0 +1,95 @@
+// Strider Has No Legs
+AYDA-ABNA
+
+// Invincibility
+ABDA-AA4R
+
+// Slow Mode
+RECA-A53R
+
+// Die And You Complete The Stage
+AA0A-ANPA
+
+// Infinite players
+AJFA-EA26
+
+// 30 seconds to complete each phase
+BCDA-ERH2
+
+// 45 seconds to complete each phase
+VWDA-EYH2
+
+// 1 minute to complete each phase
+CCDA-E6H2
+
+// 2 minutes to complete each phase
+ECDA-F2H2
+
+// 3 minutes to complete each phase
+GCDA-EYS2
+
+// 4 minutes to complete each phase
+JCDA-FTS2
+
+// 5 minutes to complete each phase
+LCDA-EN12
+
+// Infinite Energy
+AB8T-AADT
+
+// Skip ROM Check
+AJBT-AACL
+
+// Select Starting Stage
+AAYT-AADN
+
+// Invincibility
+AAGT-EA9C
+
+// Hit Anywhere/Get Items From Anywhere
+HJPA-EA8L
+AJLA-EA46
+
+// Start With 1 Bar In The Life Gauge Instead Of 3
+AEJT-AAH2
+AAKA-AAAL
+AAKA-AAAE
+
+// Start With 2 Bars In The Life Gauge
+AJJT-AAH2
+AAKA-AAAL
+
+// Start With 4 Bars In The Life Gauge
+ATJT-AAH2
+TEKA-AAAT
+
+// Start With 5 Bars In The Life Gauge
+AYJT-AAH2
+TEKA-AAAT
+TEKA-AAA0
+
+// Infinite Life In The Life Gauge
+AK8T-AA5R
+AKVT-AA94
+AJLT-AA9E
+
+// Gets Rid of Red Screen (Emulator Only?)
+AABT-AR4J
+
+// Infinite Lives
+AJFA-EA26
+
+// Infinite Time To Complete A Level
+REZT-A60R
+
+// Large Amounts of Energy For Each Man
+S6JT-AAH2
+
+// Infinite Energy
+AK8T-AA5J
+
+// Infinite Continue
+FFFD1A:0003
+
+// Infinite Continue
+AJ2A-AA7T

@@ -1,0 +1,5 @@
+// Infinite Health
+00C5-3E04
+
+// Infinite Lives
+00C5-3D03

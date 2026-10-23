@@ -1,0 +1,5 @@
+// Infinite ESP
+00DF-1238
+
+// Infinite H.P (Hit Points)
+00DF-1038

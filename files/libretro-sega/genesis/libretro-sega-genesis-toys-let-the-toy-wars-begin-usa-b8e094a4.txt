@@ -1,0 +1,54 @@
+// Unlimited Lives On Levels 1 To 3
+CXRT-RA4L
+
+// Unlimited Toys
+AMWA-RA56
+
+// Unlimited Power On Levels 1 To 3
+BX5A-RA2J
+
+// Require 50% Of Defenders Killed Before Getting Camera
+ALFT-TAAC
+
+// Require 25% Of Defenders Killed Before Getting Camera
+AWFT-TAAC
+
+// Require 1 Of Defender Killed Before Getting Camera
+CCFT-TAAC
+
+// Start With Very Low Water Supply
+AC5A-WCA2
+
+// Start With 50% Water Supply
+AC5A-W0A2
+
+// Unlimited Flying Time
+AA5T-6AE2
+
+// Unlimited Power
+AA5T-6AHL
+
+// Infinite Power (Health)
+FF00EC:0006
+
+// Infinite Lives
+FF00EA:0006
+
+// Invulnerability (Walk Thru Enemies)
+AD4T-RR9Y
+
+// Invincibility Airplane
+FFBC60:0010
+
+// Invincibility
+RZFT-T6XT
+RYYA-66YE
+
+// Infinite Water Supply
+AW5T-WA3G
+
+// Freeze Time Energy Airplane
+AA5T-6AE2
+
+// Infinite Lives
+A5RT-RA4L

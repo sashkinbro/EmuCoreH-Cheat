@@ -1,0 +1,27 @@
+// Infinite Health
+FF0920:0040
+FF0922:0040
+
+// Infinite Lives
+FF09AA:0001
+
+// Infinite Gun Ammo
+FF0936:0255
+
+// Infinite Tri-Gun Ammo
+FF0938:0255
+
+// Infinite Laser Ammo
+FF093A:0255
+
+// Infinite Flame Thrower Ammo
+FF093C:0255
+
+// Infinite Rocket Ammo
+FF093E:0255
+
+// Have All Guns
+FF0926:001F
+
+// Infinite Time
+FF0906:0255

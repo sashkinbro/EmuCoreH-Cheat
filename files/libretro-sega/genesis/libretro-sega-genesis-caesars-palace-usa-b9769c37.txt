@@ -1,0 +1,13 @@
+// Infinite Money
+AV7T-EA8A
+
+// Infinite Money
+FFCDD2:07D0
+
+// Max Money 16 Million Plus) (Read Note)
+FFCDD0:00FF
+FFCDD2:00FF
+
+// Have Tons of Money (65 000 Plus)
+FFCDD2:00FF
+FFCDD2:00FF

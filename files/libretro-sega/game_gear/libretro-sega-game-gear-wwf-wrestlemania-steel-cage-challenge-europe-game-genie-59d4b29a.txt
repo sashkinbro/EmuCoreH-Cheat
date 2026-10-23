@@ -1,0 +1,35 @@
+// Start With No Energy (Hulk Hogan)
+023-327-5D5
+
+// Start With 1/4 Energy (Hulk Hogan)
+4F3-327-5D5
+
+// Start With 1/2 Energy (Hulk Hogan)
+6A3-327-5D5
+
+// Start With 3/4 Energy (Hulk Hogan)
+C03-327-5D5
+
+// Start With 1/4 Energy (Opponent)
+453-8E7-5D5
+
+// Start With 1/2 Energy (Opponent)
+6A3-8E7-5D5
+
+// Start With 3/4 Energy (Opponent)
+C03-8E7-5D5
+
+// Not Allowed Outside Ring For Long
+03B-BAB-C42
+
+// No Out-Of-Ring Counter (Hulk Hogan)
+003-076-E65
+
+// Bodyslam Causes Max Damage
+FFB-845-A2A
+
+// Bodyslam Causes No Damage
+00B-845-A2A
+
+// Bodyslam Causes 1/2 Damage
+99B-845-A2A

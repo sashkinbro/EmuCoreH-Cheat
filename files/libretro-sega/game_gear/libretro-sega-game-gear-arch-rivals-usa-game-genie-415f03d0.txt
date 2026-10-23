@@ -1,0 +1,17 @@
+// 1-Minute Quarters
+01C-ACF-F7A
+
+// 3-Minute Quarters
+03C-ACF-F7A
+
+// 7-Minute Quarters
+07C-ACF-F7A
+
+// Faster Timer
+02E-2FE-E6E
+
+// Infinite Time
+00E-2FE-E6E
+
+// Computer Opponents Can't Score
+00F-7DE-3B7

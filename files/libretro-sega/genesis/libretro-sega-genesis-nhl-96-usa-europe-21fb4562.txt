@@ -1,0 +1,23 @@
+// the CPU goalie always keep the puck when he grabs it
+ARDT-CAVG
+
+// when the CPU goalie gives the puck to his teamate he starts spinning around with the puck
+ARDT-CAVN
+
+// Infinite Time (Minutes)
+FFC4BE:0009
+
+// Infinite Time (Seconds)
+FFC4BE:001B
+
+// Team 1's # of Shots Taken
+FFCAC4:0000
+
+// Team 2's # of Shots Taken
+FFC726:0000
+
+// Team 1 Score Modifier
+FFCAD0:0000
+
+// Team 2 Score Modifier
+FFC732:0000

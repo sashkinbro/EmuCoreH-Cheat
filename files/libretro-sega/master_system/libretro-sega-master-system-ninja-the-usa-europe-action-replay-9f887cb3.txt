@@ -1,0 +1,5 @@
+// Infinite Lives
+00CD-C009
+
+// Invincibility
+00CE-A301

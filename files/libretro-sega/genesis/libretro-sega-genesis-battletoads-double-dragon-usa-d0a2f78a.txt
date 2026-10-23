@@ -1,0 +1,96 @@
+// Infinite Energy
+AJ9A-EA2C
+
+// Infinite Lives
+ALWT-CA9R
+
+// Enemies Don't Attack
+4J0A-ER2G
+
+// Invincibility
+ACWT-CN40
+4J0A-ER2G
+AMJT-EA32
+
+// Infinite Lives
+FF0E1E:0303
+
+// Infinite Energy
+FF0DEE:002F
+
+// Invincibility
+FF0DF4:0200
+022C06:67D2
+
+// Infinite Energy P2
+FF0E50:002F
+
+// Infinite Lives P2
+FF0E80:0005
+
+// Infinite Continues
+FF0E22:0009
+
+// 10 Lives + Level Select Enabled
+FF3412:0001
+
+// Enemies Won't Attack You
+FF0DF4:5A00
+
+// Super Jump P1
+FF0DDE:004E
+
+// Super Jump P2
+FF0E40:004E
+
+// Once Invincible, Stay Invincible For The Rest Of Stage
+AWSA-CA3Y
+
+// Your Character Is Invincible And Always Blinks
+RGRA-C610
+
+// Your Character Is Invincible
+CCRA-CA9W
+CGRT-CAAG
+
+// You And Enemy Are Untouchable
+KA1A-EA86
+
+// You're Untouchable While You Have At Least 1 Life
+MT1A-EAG4
+
+// Invincible To Bullets, Darts, Giant Hands
+NM8T-CA4Y
+
+// Invincible To Dynamite While You Have At Least 1 Life
+MTET-EAAT
+
+// Invincible To Electricity
+EJXA-EA56
+
+// Invincible To Stones
+ADST-CA6R
+
+// Invincible To Bullets
+ADKA-CA7Y
+
+// If You Hit An Enemy, You Will Get An Extra Life!
+BAWT-EA2C
+
+// Autofire On Stage 4!
+RGMA-C612
+
+// The 'Mega Warp Zone' Menu!
+RGRA-E6Y0
+
+// Freeze Time Continue
+FF0E9E:0005
+
+// Infinite Continue
+ALTT-EA3A
+
+// Freeze Time Continue
+ALTA-EA9N
+
+// Infinite Lives (Stage 4-1 -4-2)
+ALMA-CA28

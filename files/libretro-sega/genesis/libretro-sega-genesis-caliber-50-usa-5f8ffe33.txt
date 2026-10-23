@@ -1,0 +1,62 @@
+// Infinite Ammo
+FF995E:0037
+
+// Infinite Lives
+FF9968:0003
+
+// Cannot Be Touched
+FF9920:00AF
+
+// Infinite grenades
+AB9A-BE5N
+
+// Start with 99 grenades
+XGHT-AAF2
+
+// Grenade pick-up adds 5 instead of 10
+AYMT-KA2L
+
+// Grenade pick-up adds 1
+AEMT-KA2L
+
+// Infinite lives
+AB4A-AA2Y
+
+// Almost invincible
+RZ5T-A6YJ
+
+// Power up happens 2x as fast
+ATMT-KA2A
+
+// Power up happens 4x as fast
+BAMT-KA2A
+
+// Start and restart with full power (normal level only)
+BWJA-B8WL
+
+// Start and restart with full power (difficult level only)
+BGJA-B8W2
+
+// Infinite Lives
+AV4A-AA2R
+
+// Infinite Energy
+RF5T-A60E
+
+// Infinite Granades
+AV9A-AA6C
+
+// Infinite Lives
+FF9968:0002
+
+// Infinite Energy
+FF9928:000A
+
+// Infinite Granades
+FF995E:0040
+
+// Super Fast Game
+RYCT-A6W2
+
+// Infinite Credit
+FF9966:0003

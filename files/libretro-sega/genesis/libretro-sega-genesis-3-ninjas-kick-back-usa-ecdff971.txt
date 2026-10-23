@@ -1,0 +1,102 @@
+// Infinite lives
+HADT-BEW6
+
+// Infinite Energy
+AJ0T-CA9Y
+AJXT-CA80
+ALFA-CA9E
+ACTT-AA3L
+AJ3T-CA9W
+AM6T-CA8J
+
+// Invincibility
+LTAA-CR3E
+ACTT-AA3L
+
+// Infinite Time
+AMAA-AA3W
+
+// Infinite Energy
+9TVT-BCG8
+A2VT-AAHA
+2YVT-AHSC
+
+// Infinite Lives
+FFA3BE:0003
+
+// Infinite Energy
+FFA3C4:0006
+
+// Invincibility
+FFA420:0009
+
+// Infinite Time
+FFA374:0099
+
+// Infinite Time (alternate)
+GMAA-AA2W
+
+// Scene / Level Modifier
+FFA0BA:0000
+
+// Jump Midair w/Slow Descent
+FFA38E:0000
+
+// Sprite Modifier
+FFA398:0000
+
+// Character Modifier
+FFA3C6:0000
+
+// Infinite Bombs
+FFA3CA:0003
+
+// Infinite Shurikens
+FFA40C:0003
+
+// 8 Dummies Destroyed
+FFA7CC:0008
+
+// Infinite Energy
+AJXT-CA80
+ALTT-AA3J
+AJ0T-CA9Y
+AJRT-CA9J
+AKPA-AA5J
+ALFA-CA9E
+AM6T-CA8J
+AJ3T-CA9W
+ALVT-CA2G
+AJRA-CA74
+ALHT-CA4Y
+AKSA-CA9A
+AJ2T-CA3A
+AKMT-CA8N
+AJBT-CA3G
+AJ8A-CA9J
+AKCA-CA8E
+ALET-CA44
+AK3A-CA3C
+AJ2T-CA44
+ALPT-CA2E
+AJPA-CA9C
+AJPA-CA2Y
+ALPA-CA7C
+
+// Invincibility 1P 2P
+RYAA-C6XT
+R0MT-A6VA
+RYAT-C6WG
+
+// Infinite Bombs 1P 2P
+RBNT-BRYW
+RBNT-ANRC
+
+// Infinite Shurikens 1P 2P
+RBNA-BNKJ
+
+// Do Not Lose Shurikens From Round To Round 1P 2P
+NBMA-BKT4
+
+// Controllable Jump P1/P2
+ABXA-BA0Y

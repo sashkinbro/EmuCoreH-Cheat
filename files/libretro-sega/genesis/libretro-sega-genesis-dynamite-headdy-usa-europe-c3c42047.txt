@@ -1,0 +1,56 @@
+// Secret Code is 0000
+FFE9C4:0000
+FFE9C6:0000
+FFE9C8:0000
+FFE9CA:0000
+
+// Infinite Energy
+REFA-C6TT
+
+// Infinite Lives
+AKSA-CA8T
+
+// Invincibility
+KKRA-CN5C
+
+// Hit Anywhere
+DJGT-CA8Y
+
+// Protection From Most Enemies
+SAFA-CYTT
+
+// Take No Damage When Falling Down Most Holes
+SBRT-CYZ6
+
+// Start With 9 Lives
+BF5T-AAEG
+
+// Input Secret Number 0000
+AK9A-LA7E
+
+// Not die under press obstacles rising up on platform
+RYFT-C6XA
+
+// Automatically go to the level select screen when you start the game
+RE3T-C6W6
+
+// Invincibility (Disable Hit Detection)
+RYFA-C6TN
+RZRA-C6XJ
+RZRT-C618
+
+// Infinite Energy
+AVRT-CA76
+
+// Infinite Continues
+AMTA-AA78
+
+// Start with 2 Continues, instead of none, like the Japanese version
+SCCA-BJ0J
+
+// Take Less Damage
+HTET-DAHW
+AEET-CAHY
+
+// Start With ?? Lives
+AZ5T-AAEG

@@ -1,0 +1,15 @@
+// Infinite Lives
+REEA-A6YL
+
+// Invincibility
+RZNA-A6TT
+RZNT-A6WN
+
+// Invincibility (Disable Hit Detection)
+RZFT-A6VN
+RZGA-A6VT
+RZGA-A6W4
+RZGA-A6TN
+
+// Invincibility
+FF202E:0000

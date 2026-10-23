@@ -1,0 +1,26 @@
+// Infinite Weapons
+AL1A-EA4R
+
+// Skip Training And Start On Level 1
+AP0A-CAEE
+
+// Start On Level 3 (Campaign Mode Only)
+AZ0A-CAEE
+
+// Start On Level 8 (Campaign Mode Only)
+BK0A-CAEE
+
+// Start On Level 12 (Campaign Mode Only)
+B30A-CAEE
+
+// Start On Level 17 (Campaign Mode Only)
+CP0A-CAEE
+
+// Start On Level 22 (Campaign Mode Only)
+DB0A-CAEE
+
+// Start On Level 27 (Campaign Mode Only)
+DZ0A-CAEE
+
+// Aircrafts Destroyed Modifier
+FFBE9A:0000

@@ -1,0 +1,41 @@
+// Computer can't score
+09B-515-D56
+
+// Tour mode 25 distribution points
+19B-515-D56
+
+// No games scored by computer
+006-06E-C45
+
+// Most games are given to you
+076-05E-F7A
+
+// Computer Can't Score
+005-E0E-C45
+
+// Tour Mode 9 Distribution Points
+09B-515-D56
+
+// Infinite Attribute Points
+00CB-223C
+
+// Max Speed
+00C4-7214
+
+// Max Power
+00C4-7314
+
+// Max Skill
+00C4-7414
+
+// P1 Score Modifier
+00CB-0300
+
+// P2 Score Modifier
+00CB-0200
+
+// P1 Games Won Modifier
+00CB-0700
+
+// P2 Games Won Modifier
+00CB-0400

@@ -1,0 +1,57 @@
+// No Music
+AADA-AA8R
+
+// No Cars
+TCDA-ATCC
+
+// Blue water
+AZYA-AEA4
+
+// New game, but cannot play it
+DZYA-AJEG
+
+// Freeze Time
+AL5A-AA2T
+
+// Freeze Time
+FFF350:0009
+FFF350:0009
+
+// Road Changes Colors
+AZYA-AEAG
+
+// Road Changes Colors
+AZYA-AJAG
+
+// Road Changes Colors
+DZYA-AJAG
+
+// Infinite Time (Tens Digit)
+FFF350:0009
+
+// Infinite Time (Ones Digit)
+FFF350:0009
+
+// Low Lap Time (Seconds)
+FFF3E2:0001
+
+// Low Lap Time (Micro-Seconds)
+FFF3E4:0001
+
+// Have Max Acceleration
+FFF308:00FF
+
+// Enables cheat menu
+AAET-CA8L
+
+// Automatically go to the Music Select screen after you select a track
+AK1T-AA4A
+
+// side walk is all water
+ABYA-AAA4
+
+// pink road and side walk
+ABYA-AAAA
+
+// green road and side walk
+ABYA-AAAC

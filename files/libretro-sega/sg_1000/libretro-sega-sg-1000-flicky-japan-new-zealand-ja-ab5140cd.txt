@@ -1,0 +1,8 @@
+// Infinite Lives
+00C0-AA03
+
+// Get 1 Chick to Advance to Next Level
+014-60E-C4A
+
+// Invincibility
+C9B-B7F-91D

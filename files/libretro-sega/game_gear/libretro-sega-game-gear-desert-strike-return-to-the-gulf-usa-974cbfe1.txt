@@ -1,0 +1,122 @@
+// Extra Armour [Alternate Code]
+00C5-E606
+
+// Unlimited Fuel [Alternate Code]
+00C5-6099
+
+// Unlimited Hydras
+00C5-E434
+
+// Start with 1 hellfire
+01E-03E-C4A
+
+// Start with 5 hellfires
+05E-03E-C4A
+
+// Start with 9 hellfires
+09E-03E-C4A
+
+// Start with 1 hydras
+01E-08E-3BA
+
+// Start with 56 hydras
+56E-08E-3BA
+
+// Start with 99 hydras
+99E-0DE-3BA
+
+// Start with 178 guns
+01E-0DE-A2E
+
+// Start with 678 guns
+06E-0DE-A2E
+
+// Start with 9,978 guns
+99E-0DE-A2E
+
+// 100 fuel load
+01E-12E-08B
+01E-1CE-E6E
+
+// 5,500 fuel load
+55E-12E-08B
+55E-1CE-E6E
+
+// 9,900 fuel load
+99E-12E-19E
+99E-1CE-E6E
+
+// Start with 300 armor
+03E-2BE-F72
+
+// Start with 600 armor
+06E-2BE-F72
+
+// Start with 9900 armor
+99E-2BE-F72
+
+// Infinite fuel
+002-E97-E6E
+
+// Infinite armor
+3A9-807-2A2
+
+// Infinite hydras
+005-B07-E6E
+
+// Infinite hellfires
+004-CF7-E6E
+
+// Infinite guns
+006-FC7-E6E
+
+// Start With 100 Fuel Load
+01E-12E-08B
+01E-1CE-E6E
+
+// Start With 5,500 Fuel Load
+55E-12E-08B
+55E-1CE-E6E
+
+// Start With 9,900 Fuel Load
+99E-12E-19E
+99E-1CE-E6E
+
+// Infinite Lives
+00C5-DE09
+
+// Infinite Hellfires
+00C5-E599
+
+// Infinite Fuel
+00C5-E0FF
+
+// Infinite Guns
+00C5-E3FF
+
+// Infinite Lives
+002-A57-3BE
+
+// Infinite Armor
+00C5-E699
+00C5-E799
+
+// Infinite Fuel
+00C5-DF99
+00C5-E099
+
+// Infinite Guns
+00C5-E299
+00C5-E399
+
+// Infinite Load
+00C5-E100
+
+// Infinite Hydras
+00C5-E499
+
+// Campaign Select
+00C5-EF00
+
+// Copilot Select
+00C5-F100

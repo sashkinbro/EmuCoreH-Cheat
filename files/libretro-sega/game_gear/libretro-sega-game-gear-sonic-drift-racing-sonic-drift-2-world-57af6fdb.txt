@@ -1,0 +1,41 @@
+// Infinite Rings
+00DC-C363
+
+// Character Modifier (Turn Off When Selecting Opponents)
+00DC-C400
+
+// Course Modifier
+00C1-0000
+
+// Don't Lose Rings When Hit
+002-FFA-3BE
+
+// CPU Always on same Lap
+7E5-439-3BA
+
+// P1 Always on same Lap
+7E9-B6C-3BA
+
+// Infinite Points
+00D7-4863
+
+// P1 Always on Final Lap
+00C3-4903
+
+// P1 Always on 1st Lap
+00C3-4900
+
+// P2 Always on 1st Lap
+00C3-C900
+
+// P3 Always on 1st Lap
+00C4-4900
+
+// P4 Always on 1st Lap
+00C4-C900
+
+// Item Modifier
+00C3-6D00
+
+// Infinite Item Use
+0E8-22C-C42

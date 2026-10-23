@@ -1,0 +1,42 @@
+// Invulnerability
+00D5-6079
+
+// Infinite Lives
+00DC-4163
+
+// Infinite Stars
+00DC-4362
+
+// Debug Mode
+00DC-6101
+
+// Invulnerability
+B61-AFB-3B4
+
+// Stage Skip
+3C2-3AB-F73
+
+// Infinite Health
+00DC-4205
+
+// Infinite Health
+004-67D-19E
+
+// Infinite Lives
+001-BCA-919
+
+// Start with ?? Lives, instead of 2
+03F-FEE-E62
+
+// Jump Height Modifier
+FC4-85B-19D
+
+// Restore missing level from Planet Terra/Fanturn that can normally only be accessed when played on a Japanese Game Gear
+C21-CEF-C41
+
+// Enable Level Skip/Select
+3C2-3AB-F73
+00D-FEE-A2E
+
+// Invincibility
+C31-B0B-C41

@@ -1,0 +1,33 @@
+// Invulnerability
+00C2-272E
+
+// Invulnerability
+00B-15C-E69
+008-23C-91D
+
+// Invulnerability (Alt.)
+C98-1BC-91D
+
+// Infinite Health
+B6E-E7D-3BE
+
+// Infinite Lives
+7E4-95E-3B7
+
+// Infinite Time
+00E-079-E6E
+
+// Freeze Timer
+00DC-0219
+
+// Invincibility
+00C2-2602
+
+// Infinite Health
+00C0-BD03
+
+// Infinite Lives
+00C0-C899
+
+// Jump Height Modifier
+FBA-34C-199

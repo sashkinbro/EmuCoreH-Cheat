@@ -1,0 +1,23 @@
+// Infinite Health
+00C2-68FF
+
+// Infinite Lives
+00C2-6A09
+
+// Infinite Secondary Weapon (Rush Coil/Enemy Weapons
+00C6-05FF
+
+// Toggle During Boss Battles To Kill Bosses In One Hit
+00C3-3500
+
+// Infinite E-Tanks
+00C6-0E09
+
+// Sound Screwer
+00C7-2600
+
+// Super Jump
+00C2-58FE
+
+// Get Hit Once And Stay Invinicible The Rest of The Level
+00C2-66FF

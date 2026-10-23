@@ -1,0 +1,41 @@
+// Start With 2 Lives
+010-A3F-E62
+
+// Start With 5 Lives
+040-A3F-E62
+
+// Start With 8 Lives
+070-A3F-E62
+
+// Infinite Lives
+3A1-8EF-2A2
+
+// Start On Level 2
+3E0-E5F-2A2
+010-E6F-D5E
+000-C7F-E69
+
+// Start On Level 3
+3E0-E5F-2A2
+020-E6F-D5E
+000-C7F-E69
+
+// Start On Level 4
+3E0-E5F-2A2
+030-E6F-D5E
+000-C7F-E69
+
+// Start On Level 5
+3E0-E5F-2A2
+040-E6F-D5E
+000-C7F-E69
+
+// Start On Level 6
+3E0-E5F-2A2
+050-E6F-D5E
+000-C7F-E69
+
+// Start On Level 7
+3E0-E5F-2A2
+060-E6F-D5E
+000-C7F-E69

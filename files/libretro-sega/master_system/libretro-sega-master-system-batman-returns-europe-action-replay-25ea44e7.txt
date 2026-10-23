@@ -1,0 +1,5 @@
+// Infinite Lives
+00D2-9B99
+
+// Invincibility
+00D5-0340

@@ -1,0 +1,20 @@
+// Target Number Modifier P1
+FFFFCA:0000
+
+// Enemies won't shoot at you or move during battle
+ABBT-NA9T
+
+// Sink ships with 1 hit
+RF1A-R6YY
+
+// Infinite main gun ammo
+AJ1T-NA62
+
+// Infinite missiles
+AJ2T-NA3J
+
+// Infinite torpedoes
+AJ5T-NA7N
+
+// Light Cruisers start with twice as much ammo (24 shells and 4 missiles)
+AXNT-BTBR

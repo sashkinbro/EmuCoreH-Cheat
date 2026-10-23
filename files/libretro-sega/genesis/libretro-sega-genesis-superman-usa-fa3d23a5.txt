@@ -1,0 +1,219 @@
+// Die and go to the next level
+AN3A-AAW6
+AN3A-AAET
+
+// Infinite Health
+AFPA-AA5A
+
+// Untouchable
+AFPA-AAWJ
+
+// Can't move when running
+AVGA-AACL
+
+// Can't jump when running
+FVGA-AAC2
+
+// Run on air
+AVGA-AACC
+
+// Jump instead of running
+CVGA-AAC2
+
+// Fast music
+7WSA-AAS6
+
+// Untouchable
+BVPA-AA4L
+
+// Superman can fly only on stage 1
+AJSA-AARC
+
+// Infinite power
+BVPA-AA48
+
+// Infinite continue credits
+BDFA-AA2R
+
+// Start with 1 continue credit
+AJ2A-AACC
+
+// Start with 4 continue credits
+AY2A-AACC
+
+// Start with 6 continue credits
+A62A-AACC
+
+// Start with 9 continue credits
+BJ2A-AACC
+
+// Start with 15 continue credits
+B62A-AACC
+
+// Start with 19 continue credits
+CT2A-AACC
+
+// Regain sonic punch &amp; hyperspin energy 1/4x as fast as normal
+AJ9A-AACY
+
+// Regain sonic punch &amp; hyperspin energy 1/2x as fast as normal
+AY9A-AACY
+
+// Regain sonic punch &amp; hyperspin energy 3/4x as fast as normal
+A69A-AACY
+
+// Regain sonic punch &amp; hyperspin energy 1-1/2x as fast as normal
+B29A-AACY
+
+// Regain sonic punch &amp; hyperspin energy 2x as fast as normal
+CJ9A-AACY
+
+// Regain sonic punch &amp; hyperspin energy 3x as fast as normal
+DN9A-AACY
+
+// Regain sonic punch &amp; hyperspin energy 5x as fast as normal
+FY9A-AACY
+
+// Regain sonic punch and hyperspin energy 10x as fast as normal
+MJ9A-AACY
+
+// Regain heat vision energy 1/4x as fast as normal
+AZ5T-AAFJ
+
+// Regain heat vision energy 1/2x as fast as normal
+BF5T-AAFJ
+
+// Regain heat vision energy 3/4x as fast as normal
+B35T-AAFJ
+
+// Regain heat vision energy 1 1/2x as fast as normal
+DP5T-AAFJ
+
+// Regain heat vision energy 2x as fast as normal
+EV5T-AAFJ
+
+// Regain heat vision energy 3x as fast as normal
+G35T-AAFJ
+
+// Regain heat vision energy 5x as fast as normal
+MK5T-AAFJ
+
+// Regain heat vision energy 10x as fast as normal
+0V5T-AAFJ
+
+// Infinite sonic punch energy after charge-up
+AWBA-AA4C
+
+// Start without sonic punch
+AA9A-AACY
+ABWT-AAA0
+
+// Infinite hyperspin energy after charge-up
+ACCA-AAAW
+
+// Infinite heat vision energy after charge-up
+AV7A-AA9E
+AB7T-AAAE
+RF5T-A61N
+
+// Play without heat vision energy recharge
+AB5T-AAFJ
+
+// Jump 1/2x high as normal on regular jumps
+ABCA-B55Y
+
+// Jump 3/4x high as normal on regular jumps
+ABCA-B15Y
+
+// Jump 1-1/2x high as normal on regular jumps
+ABCA-BS5Y
+
+// Jump 2x high as normal on regular jumps
+ABCA-BK5Y
+
+// Jump 3x high as normal on regular jumps
+ABCA-A75Y
+
+// Start in middle of Stage 1
+AE2A-AAB4
+
+// Start on Stage 2
+AJ2A-AAB4
+
+// Start in middle of Stage 2
+AN2A-AAB4
+
+// Start on Stage 3
+AT2A-AAB4
+
+// Start in middle of Stage 3
+AY2A-AAB4
+
+// Start on Stage 4
+A22A-AAB4
+
+// Start on Stage 5
+A62A-AAB4
+
+// Start in middle of Stage 5
+BJ2A-AAB4
+
+// Enemies and bosses are untouchable
+DBJA-AALY
+
+// One hit kills for enemies and bosses
+DBJA-AALN
+
+// Superman can't run
+AKBA-AACN
+
+// Superman can always run
+AKBA-AA3R
+
+// Infinite Energy
+RZPA-A6W8
+
+// Invincibility
+DKPA-AR30
+
+// Die To Go The Next Level
+AN3A-AAW6
+AN3A-AAET
+
+// Start Without Sonic Punch
+AA9A-AACY
+ABWT-AAA0
+
+// Infinite Heat Vision Energy After Charge-Up
+AV7A-AA9E
+AB7T-AAAE
+RF5T-A61N
+
+// Infinite Health
+FF97CE:0019
+
+// Always Have Punch Ability
+FF97D0:0018
+
+// Infinite Power - Superman (USA) (Beta)
+RZNT-A6T6
+
+// Invincibility (Disable Hit Detection) - Superman (USA) (Beta)
+RZNA-A610
+
+// Punch Always On Maximum - Superman (USA) (Beta)
+AK9T-AA4C
+
+// Heat Always On Maximum - Superman (USA) (Beta)
+AK6A-AA9L
+AV6T-AA2J
+AK4T-AA98
+
+// Spin Always On Maximum - Superman (USA) (Beta)
+AWAT-AA2A
+
+// Freeze Time Continue - Superman (USA) (Beta)
+R1BT-A6W6
+
+// Infinite Credit
+FF800C:0002

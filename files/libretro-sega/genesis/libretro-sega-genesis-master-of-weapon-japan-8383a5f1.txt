@@ -1,0 +1,32 @@
+// Infinite Lives
+AXKA-AA2G
+
+// Invincibility (alternate)
+AA2A-AA4T
+
+// Infinite Lives
+FF1028:0009
+
+// Infinite Pier
+FF0FF6:0004
+
+// Freeze Time Continue
+AXMT-AA6G
+
+// Infinite Continue
+AXNA-AA5W
+
+// Infinite Pier
+AT6T-AA2G
+
+// Infinite Laser
+AT4T-AA58
+
+// Infinite Guide
+AT7A-AA88
+
+// Infinite Wide
+AT6T-AA6R
+
+// Infinite H-Bomb
+AT5T-AA34

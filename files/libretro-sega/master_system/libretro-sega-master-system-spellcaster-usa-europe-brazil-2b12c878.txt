@@ -1,0 +1,8 @@
+// Invincibility
+C94-B8D-5DD
+
+// Infinite Strength (Health)
+00C0-2599
+
+// Infinite MP
+5BD-7CD-A27

@@ -1,0 +1,56 @@
+// Infinite Fuel
+ALZT-CA9L
+
+// Infinite Ammo
+AKJT-CA3J
+
+// The LHX Chopper Has Infinite Ammo For The 20mm Chain Gun!
+ACWT-EADL
+
+// The LHX Chopper Has Infinite Hellfire Missiles!
+ACWT-EAD0
+
+// The LHX Chopper Has Infinite Sidewinder Missiles!
+ACWT-EAEW
+
+// The LHX Chopper Starts With 3000 Bullets For The 20mm Chain Gun (Instead of Only 2000 Bullets)
+1CWT-E0DJ
+
+// The LHX Chopper Starts With 5000 Bullets For The 20mm Chain Gun (Instead of Only 2000 Bullets)
+VCWT-FGDJ
+
+// The LHX Chopper Starts With 9000 Bullets For The 20mm Chain Gun (Instead of Only 2000 Bullets)
+FCWT-EGMJ
+
+// The LHX Chopper Starts With 20 Hellfire Missiles (instead of Only 8)
+CWWT-EADY
+
+// The LHX Chopper Starts With 50 Hellfire Missiles (instead of Only 8)
+GLWT-EADY
+
+// The LHX Chopper Starts With 20 Sidewinder Missiles (instead of Only 4)
+CWWT-EAET
+
+// The LHX Chopper Starts With 50 Sidewinder Missiles (Instead of Only 4)
+GLWT-EAET
+
+// The Apache Chopper Starts With Infinite 30mm Gun Ammo
+ACWA-EAGW
+
+// The Apache Chopper Starts With Infinite Hellfire Missiles
+ACWA-EAG8
+
+// The Apache Chopper Starts With Infinite Sidewinder Missiles
+ACWA-EAH4
+
+// Infinite 20mm Chain
+FFF1BC:00FF
+
+// Infinite Sidewinders
+FFF1BE:00FF
+
+// Infinite Hellfires
+FFF1C0:00FF
+
+// Infinite Bullets
+GBJT-CA2R

@@ -1,0 +1,104 @@
+// Infinite life on the life meter
+AL1T-CA7N
+
+// Start with 1 life unit
+AFDT-AAGW
+
+// Start with 2 life units
+AKDT-AAGW
+
+// Start with 3 life units
+APDT-AAGW
+
+// Start with 5 life units
+AZDT-AAGW
+
+// Start with 6 life units
+A3DT-AAGW
+
+// Start with 25 life units
+DFDT-AAGW
+
+// Start with 50 life units
+GKDT-AAGW
+
+// Start with 99 life units
+NPDT-AAGW
+
+// Special weapon recharges itself 2x as fast
+SCMT-DJ1Y
+
+// Special weapon recharges itself 4x as fast
+SCMT-DT1Y
+
+// Special weapon recharges itself 8x as fast
+SCMT-DA1Y
+
+// Infinite credits
+AMZA-CA7J
+
+// Start with 1 credit
+ABDT-AAFE
+
+// Start with 5 credits
+AVDT-AAFE
+
+// Start with 7 credits
+A3DT-AAFE
+
+// Start with 9 credits
+BBDT-AAFE
+
+// Start with more firepower
+APDT-AAGA
+
+// Start with maximum firepower [less than max on continues]
+A7DT-AAGA
+
+// Firepower items are worth more
+HC1T-DT16
+
+// Start with more speed
+APDT-AAF4
+
+// Start with much more speed!
+A3DT-AAF4
+
+// Start on stage 2
+ABDT-ACE8
+
+// Start on stage 3
+ABDT-AEE8
+
+// Start on stage 4
+ABDT-AGE8
+
+// Start on stage 5
+ABDT-AJE8
+
+// Start on last stage
+ABDT-ALE8
+
+// Invincibility
+FFB00E:00FF
+
+// Infinite Special Weapon Charge
+FFB7F8:0008
+
+// Invincibility
+AC1T-CA6E
+
+// Infinite Special Weapon Charge
+ALMT-CA7G
+AL2T-CA4C
+
+// Press A (on controller 1) at the title screen for level select
+JBEA-AAAR
+APEA-BP2T
+
+// Level select automatically appears at the title screen
+JBEA-AAAR
+APEA-BP2T
+HKFT-B386
+ABFT-AA9G
+F3FT-B39J

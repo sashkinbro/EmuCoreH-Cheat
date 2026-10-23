@@ -1,0 +1,26 @@
+// Infinite Lives
+006-109-19E
+
+// Collect 1 Polyp To Find Exit
+AF5-AA9-19E
+
+// Start With 3 Lives
+027-4AF-F7A
+
+// Start With 8 Lives
+077-4AF-F7A
+
+// *Start With 10 Lives
+097-4AF-F7A
+
+// *Start With 26 Lives
+197-4AF-F7A
+
+// *Start With 51 Lives
+327-4AF-F7A
+
+// *Start With 99 Lives
+627-4AF-F7A
+
+// Infinite Keys
+005-039-E6E

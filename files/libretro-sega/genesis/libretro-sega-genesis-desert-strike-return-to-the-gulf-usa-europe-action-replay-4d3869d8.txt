@@ -1,0 +1,8 @@
+// Infinite Lives
+006AA4:4A79
+
+// Unlimited Fuel
+00689C:4A79
+
+// Bonus Armor
+0049D0:7FFF

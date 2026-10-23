@@ -1,0 +1,30 @@
+// Infinite Energy
+FFACA0:003D
+
+// Infinite Lives
+FF8216:0009
+
+// Infinite Rocket Pack
+FFB8CC:003D
+
+// Infinite lives Player
+AKVA-GA9T
+
+// Infinite Lives Humans
+AL7T-GA5C
+
+// Infinite Energy Character
+AV6A-GA4G
+AKHT-GA5W
+AKWA-GA24
+AKST-GA74
+
+// Invincibility Character (Disable Hit Detection)
+RZ6A-G6TY
+RZ6A-G6WG
+RZHT-G6XW
+RZWA-G6T4
+RZST-G6Z4
+
+// Infinite Rocket Pack Player
+AKMT-GA72

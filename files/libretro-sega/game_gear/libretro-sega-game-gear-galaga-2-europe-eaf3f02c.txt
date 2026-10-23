@@ -1,0 +1,11 @@
+// Infinite Planes
+00C8-3E03
+
+// Infinite Planes
+002-06C-D5E
+
+// Start with ?? Lives, instead of 3
+04C-12B-E66
+
+// Invincibility
+C36-4DC-C41

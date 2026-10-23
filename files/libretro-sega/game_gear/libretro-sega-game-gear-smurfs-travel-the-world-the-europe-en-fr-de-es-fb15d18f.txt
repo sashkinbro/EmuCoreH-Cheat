@@ -1,0 +1,24 @@
+// Start With 9 Lives
+091-1CF-F7A
+
+// Infinite Lives
+003-45E-E6E
+
+// Infinite Health
+005-62F-19E
+
+// Invulnerability
+355-4BF-3BA
+185-4DF-6EA
+
+// Infinite Lower Left Number On Screen
+00D8-1C06
+
+// Invulnerability
+00DE-9529
+
+// Infinite Health
+00D8-1605
+
+// Infinite Lives
+00D8-1704

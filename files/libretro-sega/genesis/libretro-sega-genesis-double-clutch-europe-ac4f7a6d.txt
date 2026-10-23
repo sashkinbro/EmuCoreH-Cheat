@@ -1,0 +1,19 @@
+// Infinite Energy
+ALYT-EA3J
+
+// Invincibility
+CKZA-EN8E
+AW4T-EN92
+ALRA-EA48
+
+// Freeze Time
+RHFA-E6VT
+
+// Freeze Cpu Cars
+ALST-EA60
+
+// Infinite Energy P1
+FF144A:0030
+
+// Infinite Energy P2
+FF1386:0030

@@ -1,0 +1,80 @@
+// Timer runs 6x faster
+AKVT-CA2N
+
+// Timer runs 1-1/3x faster
+PBVT-DCTJ
+
+// Timer runs at 1/2 speed
+PBVT-DRTJ
+
+// Timer runs at 1/3 speed
+PBVT-DLTJ
+
+// Timer runs at 1/6 speed
+PBVT-DGTJ
+
+// Freeze timer
+AVVA-CA7T
+
+// Freeze player 2's first penalty timer
+AVVA-CA8Y
+
+// Freeze player 2's second penalty timer
+AVVA-CA92
+
+// Freeze all penalty timers
+RZVA-C60C
+
+// Player 1 starts with 1 point
+FCKT-DEXT
+
+// Player 1 starts with 2 points
+FCKT-DJXT
+
+// Player 1 starts with 3 points
+FCKT-DNXT
+
+// Player 1 starts with 4 points
+FCKT-DTXT
+
+// Player 1 starts with 5 points
+FCKT-DYXT
+
+// Player 1 starts with 6 points
+FCKT-D2XT
+
+// Player 1 starts with 7 points
+FCKT-D6XT
+
+// Player 1 starts with 8 points
+FCKT-DAXT
+
+// Player 1 scores 2 for every goal
+FBZT-DJ14
+
+// Player 1 scores 3 for every goal
+FBZT-DN14
+
+// Player 1 scores 4 for every goal
+FBZT-DT14
+
+// Player 1 scores 5 for every goal
+FBZT-DY14
+
+// Player 1 scores 6 for every goal
+FBZT-D214
+
+// Player 1 scores 7 for every goal
+FBZT-D614
+
+// Player 1 scores 8 for every goal
+FBZT-DA14
+
+// Start With 55 Points
+FCKT-DGXT
+
+// Each Goal Worth 55 Points
+FBZT-BA14
+
+// Score Modifier P2/CPU
+FF0B82:0000

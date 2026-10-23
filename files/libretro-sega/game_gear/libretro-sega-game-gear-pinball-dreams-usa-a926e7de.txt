@@ -1,0 +1,19 @@
+// Can't tilt
+C9B-64C-6EE
+
+// Infinite balls
+01C-E2F-B3D
+
+// 1 ball
+01C-E6F-E66
+
+// 5 balls
+05C-E6F-E66
+
+// 15 balls
+0FC-E6F-E66
+
+// Always start with 5x bonus
+3E0-E5E-2A2
+040-E6E-4CE
+000-E7E-B3D

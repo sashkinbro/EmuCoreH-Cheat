@@ -1,0 +1,68 @@
+// P1 Infinite Turbo
+00D3-D820
+
+// P2 Infinite Turbo
+00D4-5220
+
+// Infinite Shot Clock
+00CB-4518
+
+// Defense Powerup - Both Players
+00C8-FE01
+
+// Interception Powerup - Both Players
+00C8-FF01
+
+// Infinite Turbo Powerup - Both Players
+00C9-0001
+
+// Super Dunk Powerup - Both Players
+00C9-0101
+
+// On-Fire Powerup - Both Players
+00C9-0201
+
+// Display Shot% Powerup
+00C9-0301
+
+// Juice Mode Powerup
+00C9-0401
+
+// P3 Infinite Turbo
+00D4-CC20
+
+// P4 Infinite Turbo
+00D5-4620
+
+// Team 1 can't Score
+3A9-0D9-2A2
+
+// Team 2 can't Score
+3A9-2A9-2A2
+
+// Infinite Turbo - Both Players
+7EC-00A-3B7
+
+// Infinite Shot Clock
+3A0-C9D-2A2
+
+// Infinite Turbo Powerup - Both Players
+075-394-C46
+
+// On-Fire Powerup - Both Players
+075-5D4-C46
+
+// Super Dunk Powerup - Both Players
+075-4B4-C46
+
+// Interception Powerup - Both Players
+075-154-C46
+
+// Defense Powerup - Both Players
+005-0D4-F7A
+
+// Display Shot% Powerup
+075-274-C46
+
+// Juice Mode Powerup
+075-6F4-D56

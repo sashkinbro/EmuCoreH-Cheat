@@ -1,0 +1,23 @@
+// Start With Full Skill
+NTST-AACG
+
+// Start With Full Speed
+NTST-AACR
+
+// Infinite Dragons
+AT7A-CA88
+
+// Infinite Esp
+AT5T-CA8Y
+
+// 1 Dragon Item To Get Full Dragons
+LA6T-DTZA
+
+// 1 Esp Item To Get Full Esp
+LE6T-DJZC
+
+// 1 Point Item Worth 8 Points
+SE7A-DAV6
+
+// Always Full Dragon Charging Bar
+AJ7T-CA4Y

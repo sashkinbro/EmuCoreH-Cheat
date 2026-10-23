@@ -1,0 +1,123 @@
+// Infinite lives for player 1
+ACST-AAFT
+
+// Infinite lives for player 2
+ACYT-AAE0
+
+// Infinite credits for player 1
+ACTA-AACJ
+
+// Infinite credits for player 2
+ACZA-AABR
+
+// Each Normal Shot Power-up Worth Half Max Power (Player 1)
+HHVT-B2Y4
+
+// Each Normal Shot Power-up Worth Almost Max Power (Player 1)
+HHVT-BAY4
+
+// Each Normal Shot Power-up Worth Half Max Power (Player 2)
+HHVT-B2ZT
+
+// Each Normal Shot Power-up Worth Almost Max Power (Player 2)
+HHVT-BAZT
+
+// Start on phase 2 (player 1)
+AJGT-AACJ
+
+// Start on phase 3 (player 1)
+ANGT-AACJ
+
+// Start on phase 4 (player 1)
+ATGT-AACJ
+
+// Start on phase 5 (player 1)
+AYGT-AACJ
+
+// Start on phase 6 (player 1)
+A2GT-AACJ
+
+// Start On Phase 2 (Player 2)
+AJGT-AAHW
+
+// Start on phase 3 (player 2)
+ANGT-AAHW
+
+// Start on phase 4 (player 2)
+ATGT-AAHW
+
+// Start on phase 5 (player 2)
+AYGT-AAHW
+
+// Start on phase 6 (player 2)
+A2GT-AAHW
+
+// Start on phase 2 (twin setup)
+AJHA-AAFR
+
+// Start on phase 3 (twin setup)
+ANHA-AAFR
+
+// Start on phase 4 (twin setup)
+ATHA-AAFR
+
+// Start on phase 5 (twin setup)
+AYHA-AAFR
+
+// Start on phase 6 (twin setup)
+A2HA-AAFR
+
+// Infinite Lives
+FFC016:0009
+
+// Invincibility
+FFC000:0007
+
+// Infinite Lives
+AWST-AA7R
+
+// Invincibility
+AWKT-AA6C
+
+// Don't Lose Shot Power When Shot Down - Player 1
+ALKT-AA66
+R0SA-A6Y6
+
+// Don't Lose Shot Power When Shot Down - Player 2
+ALVA-AA5C
+R0SA-A6Y6
+
+// Don't Lose Battle Gear When Shot Down - Player 1
+A4KT-AA7A
+R0SA-A6Y6
+
+// Don't Lose Battle Gear When Shot Down - Player 2
+A4VA-AA5G
+R0SA-A6Y6
+
+// Don't Lose Battle Gear Or Shot Power When Shot Down - Player 1
+BLKT-AA66
+R0SA-A6Y6
+
+// Don't Lose Battle Gear Or Shot Power When Shot Down - Player 2
+BLVA-AA5C
+R0SA-A6Y6
+
+// Infinite Ships
+FFC016:0003
+
+// Most Powerful Shot
+FFC004:00FF
+
+// Have Missiles
+FFC010:0005
+
+// Invincible
+FFC014:0001
+
+// Almost Instant Bombs
+FFC018:007A
+FFC01E:0000
+
+// Infinite Ships P2
+FFC216:0003

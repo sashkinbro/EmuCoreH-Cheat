@@ -1,0 +1,480 @@
+// Controls Player 1's Sprite Speed
+FFA142:0000
+
+// Control In-Game Speed
+FFA10C:0000
+
+// Cuts Out Fade Outs
+FF020E:0000
+
+// Missing Sindel Win Pose Animation
+FF02F6:0000
+
+// No Time For Finishing Moves
+FFF516:0063
+
+// Characters Walk/Run Through Eachother
+FFF502:0032
+
+// Background Placement Modifier
+FF0148:0000
+
+// Control In-Game Brightness
+FF020C:0000
+
+// Round Annoucement Modifier
+FFF51C:0001
+
+// Disfigured Graphics
+FF01EA:0000
+
+// Character Fighting Above/Below Background Modifier
+FF01EE:0000
+
+// Floor Camera Angle
+FF01F4:0052
+
+// Go Off Screen (From The Right)
+FF01F8:0000
+
+// Press B Button To Make Fatality 1
+9G2T-C6ZT
+AW2T-CAFW
+XW2T-D7FY
+
+// Press B Button To Make Fatality 2
+9G2T-C6ZT
+AW2T-CAFW
+042T-D7FY
+
+// Press B Button To Make Stage Fatality
+9G2T-C6ZT
+AW2T-CAFW
+C42T-C57Y
+
+// Press B Button To Make Friendship
+9G2T-C6ZT
+AW2T-CAFW
+6L2T-CVFY
+
+// Left Player Can Hit Anywhere
+ALCT-JA7A
+
+// Right Player Can Hit Anywhere
+ALCT-JA78
+
+// Player 2 Takes All Damage
+RGCT-J61Y
+
+// Win 2 Rounds And You Will Finish The Game (1P Mode)
+REXA-C6Z2
+
+// Players Have Shao Kahn's Strength
+PVYT-KE8T
+
+// Two Hit Kills For Sub-Zero And Classic Sub-Zero ice
+AK8A-JA4Y
+
+// Cheat Menus Enabled
+ADJT-LAFL
+ADJA-LCAA
+
+// Access 'Dragon Box' (In Middle of Select Screen)
+BMTA-AWBA
+
+// Access 'Dragon Box'
+BMTA-AWB4
+
+// Access 'Dragon Box'
+BSTA-AYC2
+
+// Access 'Dragon Box'
+BMTA-AWDC
+
+// Force 'Dragon Box' To Contain Human Smoke
+C5ST-AAG6
+
+// Force 'Dragon Box' To Contain Chameleon
+DHST-AAG6
+
+// Mileena Will Eat All of The Nails When You Do Fatality
+AWWA-JATL
+
+// Night Wolf Turns To Ice When He Does His Fatality
+AXRA-JA1N
+
+// Shang Tsung Dies When He Does Fatality 1
+A09T-JAV6
+
+// Jade Doesn't Stop Shaking Anyone On Fatality 2
+AGVA-JASW
+
+// Hide Character Sprites On Select Screen
+AHLA-BGLE
+
+// Fighter modifier 1
+FF02B0:0000
+
+// Fighter modifier 2
+FF02B0:0000
+
+// Fighter modifier 3
+FF02B2:0000
+
+// Fighter modifier 4
+FF02B2:0000
+
+// Fighter modifier 5
+FF02B4:0000
+
+// Fighter modifier 6
+FF02B4:0000
+
+// Fighter modifier 7
+FF02B6:0000
+
+// Fighter modifier 8
+FF02B6:0000
+
+// Fighter modifier 1
+FF02B8:0000
+
+// Fighter modifier 2
+FF02B8:0000
+
+// Fighter modifier 3
+FF02BA:0000
+
+// Fighter modifier 4
+FF02BA:0000
+
+// Fighter modifier 5
+FF02BC:0000
+
+// Fighter modifier 6
+FF02BC:0000
+
+// Fighter modifier 7
+FF02BE:0000
+
+// Fighter modifier 8
+FF02BE:0000
+
+// Fighter modifier 9
+FF02C0:0000
+
+// Fighter modifier 1
+FF02C0:0000
+
+// Fighter modifier 2
+FF02C2:0000
+
+// Fighter modifier 3
+FF02C2:0000
+
+// Fighter modifier 4
+FF02C4:0000
+
+// Fighter modifier 5
+FF02C4:0000
+
+// Fighter modifier 6
+FF02C6:0000
+
+// Fighter modifier 7
+FF02C6:0000
+
+// Fighter modifier 8
+FF02C8:0000
+
+// Fighter modifier 9
+FF02C8:0000
+
+// Fighter modifier 10
+FF02CA:0000
+
+// Fighter modifier 1
+FF02CA:0000
+
+// Fighter modifier 2
+FF02CC:0000
+
+// Fighter modifier 3
+FF02CC:0000
+
+// Fighter modifier 4
+FF02CE:0000
+
+// Fighter modifier 5
+FF02CE:0000
+
+// Fighter modifier 6
+FF02D0:0000
+
+// Fighter modifier 7
+FF02D0:0000
+
+// Fighter modifier 8
+FF02D2:0000
+
+// Fighter modifier 9
+FF02D2:0000
+
+// Fighter modifier 10
+FF02D4:0000
+
+// Fighter modifier 11
+FF02D4:0000
+
+// Infinite Energy
+9XZA-BCGR
+Y5ZA-AAGT
+FHZA-BF8W
+
+// Mileena Spit The Nails When You Do Fatality 2
+AWWA-JATW
+
+// Mileena Jar Of Nails Are Empty When You Do Fatality 2
+AWWA-JAT2
+
+// Mileena Keep Spiting When You Do Fatality 2
+AWWA-JAMW
+
+// Jade Stable Characters With Her Stick On Fatality 2
+AGVA-JAMC
+
+// Quick Timer
+AAAA-CABC
+
+// Invincibility
+RGCT-J61J
+1CCT-J2HL
+98CT-JAHN
+DWCT-KF9R
+ZWCT-JK1T
+ACCT-JR9W
+LCCT-JAHY
+
+// Game Runs Super Fast
+ABBT-D6SY
+
+// Throws Damage Player 2 Only
+AGHT-F244
+
+// Hit Anywhere Both Players
+ALCT-JA5R
+ALCT-JA6G
+ALCT-JA7A
+ALCT-JA78
+
+// Infinite Energy P1
+ALDA-JA90
+
+// Infinite Run P1
+AL0T-CA8W
+
+// Infinite Time
+AJAA-CA4J
+
+// Infinite Run P2
+AL0T-CA9J
+
+// Infinite Energy P2
+AWDT-JA2T
+
+// Infinite Time (Alternate)
+ATAA-CA2T
+
+// Infinite Fatality Time
+REYT-C6Z6
+
+// Player 1 Doesn't Take Damage
+BCDA-JA9Y
+
+// Player 1 Takes All Damage
+C4DT-JA2N
+
+// Player 2 Takes All Damage
+RGDT-J6TN
+
+// Human Player Automatically Does Fatality 1 or 2, if character has at least one Fatality
+ELCA-EN5L
+
+// Human Player Automatically Does Fatality 1, If Character Has It
+ELCA-EN5L
+JVXA-CA4J
+
+// Human Player Automatically Does Fatality 2, If Character Has It
+ELCA-EN5L
+RFXA-C6WJ
+
+// Human Player Automatically Does Stage Fatality On The Proper Stages
+B4CA-EJ5L
+
+// Human Player Automatically Does Friendship
+DWCA-EN5L
+
+// Human Player Automatically Does Babality
+6LCA-EJ5L
+
+// Human Player Automatically Does Babality (Fast)
+BCCA-EL5L
+
+// Human Player Automatically Does Brutality
+GCCA-EL5L
+RE0A-E610
+
+// Press Just X Instead of Long Combination, And You'll Do Brutality
+RE0A-E610
+
+// Press B Button To Make Fatality 1
+9G2T-C6ZT
+AW2T-CAFW
+XW2T-D7FY
+
+// Press B Button To Make Fatality 2
+9G2T-C6ZT
+AW2T-CAFW
+042T-D7FY
+
+// Press B Button To Make Stage Fatality
+9G2T-C6ZT
+AW2T-CAFW
+C42T-C57Y
+
+// Press B Button To Make Friendship
+9G2T-C6ZT
+AW2T-CAFW
+6L2T-CVFY
+
+// Infinite Energy P1
+FFF228:00A6
+
+// Infinite Energy P2
+FFF39A:00A6
+
+// Infinite Run P1
+FFF22A:0030
+
+// Infinite Run P2
+FFFFD2:0030
+
+// No Energy P1
+FFF228:0000
+
+// No Energy P2
+FFF39A:0000
+
+// No Run P1
+FFF22A:0000
+
+// No Run P2
+FFFFD2:0000
+
+// Cheat Menu Enabled
+FF0020:0001
+
+// Infinite Time
+FFEF68:0009
+
+// P1 Score Modifier (Pong Minigame)
+FFD65C:0000
+
+// P2 Score Modifier (Pong Minigame)
+FFD65A:0000
+
+// Infinite Lives (Galaga Minigame)
+FF0236:0099
+
+// Round Modifier (Galaga Minigame)
+FF0242:0000
+
+// Enemies Constantly Dive (Galaga Minigame)
+FF0228:0000
+
+// Show Illegal Instruction Screen
+FFFFCC:0000
+
+// Win Number Modifier P1
+FF029A:0000
+
+// Win Number Modifier P2
+FF029C:0000
+
+// Infinite Kredits
+FF0222:0063
+
+// Computer Does Brutalities More Often
+FFF4FE:0006
+
+// Computer Does Other Finishers More Often
+FFF4FE:0001
+
+// Character Modifier P1
+FF0126:0000
+
+// Character Modifier P2
+FF0128:0000
+
+// Character Modifier P1 (Uses Palette of Selected Character)
+FFC512:0000
+
+// Character Modifier P2 (Uses Palette of Selected Character)
+FFC55E:0000
+
+// Kombat Kode 1 Modifier
+FF02A6:00BE
+
+// Kombat Kode 2 Modifier
+FF02A6:0001
+
+// Kombat Kode 3 Modifier
+FF02A8:0001
+
+// Kombat Kode 4 Modifier
+FF02A8:0002
+
+// Background Modifier
+FF014C:0000
+
+// P2 Control Modifier
+FF02EE:0008
+
+// Position on Battle Tower Modifier (After 1st Battle)
+FF02F0:0006
+
+// Background Position Modifier (Fighters Start From)
+FF0132:0000
+
+// Background Position Modifier
+FF0146:0000
+
+// Disfigured Graphics
+FF01EA:0000
+
+// Character Fighting Above/Below Background Modifier
+FF01EE:0000
+
+// Floor Camera Angle
+FF01F4:0052
+
+// Go Off Screen (From The Right)
+FF01F8:0000
+
+// Characters Walk/Run Through Each Other
+FFF502:0032
+
+// Missing Sindel Win Pose Animation
+FF02F6:0000
+
+// P1 Free Movement
+FFF21E:B160
+
+// P2 Free Movement
+FFF390:B160
+
+// Skip Intro Screens
+BJDT-AA7R
+
+// Skip VS Screen
+ATEA-AA9A

@@ -1,0 +1,29 @@
+// Lot of Money
+FFE5F8:FFFF
+
+// Alex Atk pwr
+FFE348:00FF
+
+// Alex Agility
+FFE34A:00FF
+
+// Alex # of Moves
+FFE34C:00FF
+
+// Luna Atk pwr
+FFE388:00FF
+
+// Luna Agility
+FFE38A:00FF
+
+// Luna # of Moves
+FFE38C:00FF
+
+// Ramus Atk pwr
+FFE508:00FF
+
+// Ramus Agility
+FFE50A:00FF
+
+// Ramus # of Moves
+FFE50C:00FF

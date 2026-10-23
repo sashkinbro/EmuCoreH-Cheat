@@ -1,0 +1,5 @@
+// Always Player 1's Turn
+FFD2F6:0000
+
+// Always Player 2's Turn
+FFD2F6:0001

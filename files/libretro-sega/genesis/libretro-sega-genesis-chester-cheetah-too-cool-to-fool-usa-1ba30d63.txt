@@ -1,0 +1,40 @@
+// Infinite Energy
+AK5A-CA9E
+
+// Invincibility
+BCAA-CN7W
+ALAA-CR7L
+
+// Infinite Cheese Paws
+FFF81E:0005
+
+// Infinite White Paws
+FFF820:0099
+
+// Untouchable
+RZ0T-C6WN
+RZ1A-C6TC
+
+// Enable Kakusi Mode Program In Option
+RETT-E6VC
+
+// Enables level select, extra lives, etc in Option menu
+A2TT-EA26
+
+// Jump higher
+JB0T-DZ2G
+
+// Press Up at any time to climb upwards (on level 2 only)
+AJZT-CA56
+
+// Always have the Dash ability (hold B while walking)
+BB0A-CA6L
+
+// Water doesn't hurt you in level 3
+BT3T-CA7C
+
+// Multi-Jump
+A30A-CA92
+
+// Infinite Continues
+REHA-E6W0

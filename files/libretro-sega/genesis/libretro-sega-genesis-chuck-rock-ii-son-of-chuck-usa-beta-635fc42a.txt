@@ -1,0 +1,24 @@
+// Infinite Lives
+ALVT-EA94
+
+// Infinite Energy
+RFYA-E618
+
+// Infinite Credits
+ALWT-EA62
+
+// Freeze Time Continue
+ALWT-EA4L
+
+// Skip Levels Pause Right+A And Moving The Character On The Screen Hold A+B+C And D-pad
+RGXT-E6TR
+RFMA-E6YG
+
+// Invincibility
+RZYA-E6XA
+RZRT-E6V0
+RZ1A-E6XJ
+
+// Freeze Time Frog On Level The River Race
+AXYA-GA2T
+AMYA-GA32

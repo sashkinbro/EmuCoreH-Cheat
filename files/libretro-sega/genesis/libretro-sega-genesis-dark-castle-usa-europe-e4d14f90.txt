@@ -1,0 +1,30 @@
+// Infinite Elixir
+AXHT-AA34
+
+// Invincibility
+R1HT-A6TA
+R1HA-A6V0
+R1HA-A6XC
+
+// Infinite Rocks
+AV9A-AA30
+
+// Infinite Bonus
+ABEA-AA4R
+
+// Infinite Lives
+AWKA-AA6J
+AWKA-AA4W
+AWKA-AA8E
+
+// Enabled Hidden Options In Game Paused
+RFGA-A6WJ
+RFGA-A6XY
+RFGA-A6YR
+RFGA-A6ZY
+RFGA-A600
+AKHA-AA3N
+ABET-AA3T
+
+// Enable Extra options when paused
+AE9A-AABY

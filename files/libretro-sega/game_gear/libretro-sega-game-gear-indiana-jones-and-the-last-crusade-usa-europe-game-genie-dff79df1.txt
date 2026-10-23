@@ -1,0 +1,17 @@
+// Start With 5 Lives
+041-42F-F72
+
+// Start With 9 Lives
+081-42F-F72
+
+// Start With 11 Lives
+0A1-42F-F72
+
+// Infinite Lives
+002-9FF-3BE
+
+// Infinite Whips
+002-839-19E
+
+// Infinite Time
+00A-3EE-3BE

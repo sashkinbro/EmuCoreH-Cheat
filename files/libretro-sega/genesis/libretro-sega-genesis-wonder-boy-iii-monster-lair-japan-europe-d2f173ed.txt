@@ -1,0 +1,24 @@
+// Infinite Time
+AJ6A-AA2J
+
+// Infinite Lives
+AKYA-AA7N
+
+// Invincibility
+ATDA-AN42
+
+// 1 Hit Invincible
+FFC088:0010
+
+// Enable Main Menu
+AKNT-CA8E
+
+// Infinite Credits
+AJ9T-AA7J
+
+// Keep Special Weapons After The Death
+AVWA-AA9Y
+AVVT-AA4N
+
+// Infinite Special Weapons
+AVDA-CA9E

@@ -1,0 +1,11 @@
+// All Missiles Destroyed
+00C0-6100
+
+// Always Have Space Lasers
+00C0-6003
+
+// Disable 3-D effect
+C32-82E-C41
+
+// Disable 3-D effect
+00C0-2000

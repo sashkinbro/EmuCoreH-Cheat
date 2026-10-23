@@ -1,0 +1,29 @@
+// Infinite Energy
+00C8-2F06
+
+// Infinite Lives
+00C8-2E04
+
+// Infinite Time
+00C8-2D09
+
+// Invincible (Blinking)
+00C8-B102
+
+// Level Select Enabled
+00C8-0E01
+
+// Cheat Mode (Stage Select)
+CD6-32A-F79
+
+// Invulnerability (Blinking)
+001-51E-B3A
+
+// Infinite Health
+00C-1FE-19E
+
+// Infinite Lives
+008-34A-19E
+
+// Infinite Time
+002-E69-19E

@@ -1,0 +1,23 @@
+// Invincibility
+C9A-E9E-91D
+
+// Infinite Time
+B64-169-3BE
+
+// Invincibility
+3A9-20F-2A2
+
+// Infinite Lives - 1P Game
+3A1-63F-2A2
+
+// P1 Infinite Lives - 2P Game
+3A1-A4F-2A2
+
+// P2 Infinite Lives - 2P Game
+3A1-EDF-2A2
+
+// Infinite Time
+00C0-0D3C
+
+// Freeze Timer
+00C0-0C00

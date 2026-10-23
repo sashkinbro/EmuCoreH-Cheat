@@ -1,0 +1,17 @@
+// Take Has Infinite Hits Vs. Boss
+00C5-1100
+
+// Boss Dies in 1 Hit
+00C5-1209
+
+// Level Select
+00C0-4600
+
+// Infinite Lives
+00C0-4502
+
+// Infinite Lives
+005-71F-3BE
+
+// Invincibility
+C9E-A8E-C49

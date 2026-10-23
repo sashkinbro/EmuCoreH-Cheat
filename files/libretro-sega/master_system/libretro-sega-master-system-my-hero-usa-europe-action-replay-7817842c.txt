@@ -1,0 +1,8 @@
+// Infinite Lives
+00C0-4502
+
+// Take Has Infinite Hits Vs. Boss
+00C5-1100
+
+// Boss Dies in 1 Hit
+00C5-1209

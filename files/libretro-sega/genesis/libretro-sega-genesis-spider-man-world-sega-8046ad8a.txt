@@ -1,0 +1,177 @@
+// Game Over
+VBHT-CA7C
+
+// Invincibility
+WLCA-CA3C
+
+// Invincibility [alternate codes]
+DCJT-CJCG
+WCJT-CRCA
+ALJT-CA4J
+ALJT-CA4A
+RRCA-CNVC
+
+// Spider-Man dies one time
+RRCA-CNV0
+
+// Die instantly
+NBNT-C8D8
+
+// Keep getting hit
+CLKA-C7VE
+
+// Hit any enemies and you get hurt
+ACBT-CAFC
+
+// Hit Anything
+A8JT-CAST
+
+// One Hit Kills
+ACBT-CABR
+
+// Never blink when hit
+2CCA-CABE
+
+// Beat the game
+AEZA-AAST
+
+// Turbo mode
+DRHT-CJDL
+
+// Stick to anything
+67SA-CASE
+
+// Cannot web swing
+DB1A-CA5L
+
+// Swing straight
+L3JT-C23T
+
+// Enemies are invincible
+JCDT-CACG
+
+// No web shooters
+DKZA-CA68
+
+// Web shooter stays on left side
+7ZZA-CBG0
+
+// Auto kick
+M3PA-CP24
+
+// Jump high
+CV2A-CTFJ
+
+// Get more money by taking pictures
+KKHA-CC24
+
+// Infinite life
+ALBT-CA9R
+
+// Shooting a web requires no web energy
+AKZA-CA68
+
+// Shooting a web uses up web energy faster
+PZZA-DWY8
+
+// Infinite time
+AJPA-RA6C
+
+// Using web shield requires no web energy
+AK0A-CA6W
+
+// Web shield lasts longer
+ALBT-CA82
+
+// Infinite number of pictures
+AKGT-CA90
+
+// Swinging on a web increases web energy instead of decreasing it
+PZ1A-DAX0
+
+// Some web cartridges are worth about 3x as much web energy
+MLMT-CAGC
+
+// Web cartridges restore web energy to full
+3CMT-CAGC
+
+// Start time at 11:59 instead of 23:59
+BNZA-AAE4
+
+// Start time at 17:59 instead of 23:59
+CEZA-AAE4
+
+// Invinicible After One Hit
+ACCA-CDBC
+
+// Don't Get Stunned When Hit
+ACCA-CD5N
+
+// Infinite Health And No Blinking When Hit
+ACCA-CD5W
+
+// Infinite Web
+AKZA-CA68
+AK1A-CA50
+
+// Another Invincibility Code
+NLKA-CR2J
+
+// Infinite Health
+FFE71C:003F
+
+// Infinite Webbing
+FFE706:0095
+
+// Infinite Photographs
+FFE6E6:0009
+
+// Infinite/Max Money
+FFE684:00FF
+
+// Each Shot Increases Your Webs Slightly
+PZZA-DEY8
+
+// Gives A Bit of Web Energy Each Time You Use The Shield
+PZ0A-DAYW
+
+// Improved Shield
+AB0A-CGFJ
+
+// Your Shield Is Activated Whenever It's Needed
+A4BT-CA8J
+
+// Invincible
+FFE720:0010
+
+// Enable Debug Menu/Press Start in Game (Button A restore the web) (Button B increase energy) (Button C 5 seconds Invincibility) (Press Start And Buttons A+B+C Skip Levels)
+RH1T-J600
+
+// Enable Debug Menu/Press Start in Game (Button A restore the web) (Button B increase energy) (Button C 5 seconds Invincibility) (Press Start And Buttons A+B+C Skip Levels)
+FFE69E:00FF
+
+// Unlimitet Time Extra
+AJ2T-AA2Y
+AJPA-RA44
+
+// Some enemies don't move
+AKKA-CA5C
+
+// Take less damage when hit
+F0BT-DL1R
+
+// Take much less damage when hit
+F0BT-DG1R
+
+// Invincibility (Disable Hit Detection)
+R0KA-C6TG
+R0GT-C6YY
+RZ4T-G6YR
+R0CA-G60R
+R0GT-C6Y8
+
+// Hit enemies and bosses anywhere (kicks,punches only)
+ACDT-CAGA
+
+// Invincibility (partial)
+NLKA-CA2J

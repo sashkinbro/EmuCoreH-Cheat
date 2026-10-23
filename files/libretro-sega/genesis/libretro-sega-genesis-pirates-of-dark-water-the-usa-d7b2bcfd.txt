@@ -1,0 +1,198 @@
+// Start with 3 lives
+96HT-AEDW
+
+// Start with 6 lives
+96HT-AJDW
+
+// Start with 9 lives
+96HT-ATDW
+
+// Infinite lives
+AWJA-AA9C
+
+// Don't lose any health from falling off screen
+ACJA-AADC
+
+// Take 1/2x damage from falling off screen
+A4JA-AADC
+
+// Don't take any damage from most enemies
+P57T-AA2J
+
+// Infinite projectiles (daggers, arrows)
+ACET-B688
+
+// Infinite food on pick-up
+ACET-B65Y
+AC6A-K686
+
+// Infinite gravity potions on pick-up
+ACEA-B63L
+
+// Infinite stone elixirs on pick-up
+ACEA-B66C
+
+// Infinite shield magic on pick-up
+ACEA-B68N
+
+// Infinite vortex magic on pick-up
+ACET-B62T
+
+// Infinite hearts on pick-up
+ACET-B68E
+AC6A-K686
+
+// Infinite keys on pick-up
+AAYT-D636
+
+// Infinite coins on pick-up
+RHFT-J6VC
+
+// Use password IITBDIA and Ren starts with full sword
+AHNT-NAEA
+
+// Invincible
+FF2120:0100
+
+// Infinite Energy
+FF0F66:7F00
+
+// Max Energy
+FF0F6A:7F00
+
+// Infinite Lives
+FF0EF6:FF09
+
+// Infinite Daggers/Arrows/Magic
+FF0CD0:9900
+
+// Infinite Gold Coins
+FF0CD6:9900
+
+// Infinite Minga Melons
+FF0CD8:9900
+
+// Infinite Keys
+FF0CDA:9900
+
+// Infinite Food
+FF0CDC:9900
+
+// Infinite Vitality Enhancers
+FF0CDE:9900
+
+// Infinite Gravity Potions
+FF0CE0:9900
+
+// Infinite Stone Elixirs
+FF0CE2:9900
+
+// Infinite Shield Magic
+FF0CE4:9900
+
+// Infinite Vortex Magic
+FF0CE6:9900
+
+// Have Compass
+FF0CE8:0100
+
+// Have Ren's Whole Sword
+FF04B0:4004
+FF0CEA:0200
+
+// Character Modifier (Activate Between Levels)
+FF0EB0:0000
+
+// Level Modifier
+FF0EEA:0100
+
+// 99 coins
+FF0CD6:0099
+
+// 99 Food
+FF0CDC:0099
+
+// Infinite Watermelons
+FF0CD8:0099
+
+// Infinite Knifes
+FF0CD0:0099
+
+// Invincible
+FF2194:0010
+
+// Infinite Energy
+AX7T-AA2L
+A4JA-AA5A
+A5NT-AA9N
+A5NT-AA92
+AXJA-AA84
+AXJT-AA80
+
+// Infinite Item
+AWET-AA9G
+AWET-AA9W
+AV7T-AA6J
+AV7T-AA6Y
+ATYT-CA4E
+AWET-AA56
+AWET-AA8N
+AWEA-AA3W
+AWEA-AA6L
+AWEA-AA8Y
+AWET-AA22
+AXFT-JA3E
+ATFT-AA4G
+
+// Keep Keys Round To Round
+ATHA-AA62
+
+// Keep Coins Round To Round
+ATHA-AA7A
+
+// Invincibility
+RYAA-E6YG
+R0FA-A6Y2
+R0FA-A61A
+R1JA-A6V6
+
+// Enable Level Select Hold A+B+C And Press Start On Screen Start Menu
+AJEA-AA7N
+
+// Don't fall when you walk off ledges (walk on air)
+R1TT-A60R
+
+// Jump higher
+AB2A-AAT4
+
+// Walk thru walls
+AC9T-AA2J
+
+// Walk thru doors (no need for keys)
+AAYT-CA28
+AAYT-CA2N
+
+// Hit enemies/bosses from anywhere (in front of you)
+A5VT-AA7G
+
+// Access level select (and character select)
+DJEA-AA7G
+
+// Start a new game with 99 of most items
+XEHA-BA98
+
+// Always get Niddler when you call him
+AAFA-AA94
+AMDA-LA4J
+
+// Hit treasure chests from anywhere
+FX6A-AA3W
+
+// Collect treasure chest items from anywhere
+AX4A-AA5J
+
+// Treasure chest items never disappear
+AM3T-AA84
+
+// Get the maximum amount of any item on pickup (from chests)
+AM5A-AA2Y

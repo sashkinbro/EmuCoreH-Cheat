@@ -1,0 +1,32 @@
+// Infinite Turbo's
+00C2-8203
+
+// Infinite Time
+00C2-3836
+
+// Full Damage To Victim's Car [Hit Him Once When You
+00C2-5380
+
+// Infinite Time
+C94-F3D-6E2
+
+// Level Select (Replace X With 0-2 To Change The Round)
+00C2-2100
+
+// Level Select (Replace X With 0-4 To Change The Stage)
+00C2-2000
+
+// Infinite Time
+2A4-F3D-6E2
+
+// Freeze Timer
+00C2-3700
+
+// Infinite Continues
+00C2-2203
+
+// Infinite Turbos
+006-7AD-3BE
+
+// Infinite Continues
+006-C6C-3BE

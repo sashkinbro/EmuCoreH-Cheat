@@ -1,0 +1,152 @@
+// Invincibility
+ATGT-4A6L
+
+// Infinite lives
+RG7T-26XJ
+
+// Infinite time to complete round
+REHA-46V8
+
+// Start with 2 lives
+GEET-4AEN
+
+// Start with 3 lives
+GJET-4AEN
+
+// Start with 5 lives
+GTET-4AEN
+
+// Start with 6 lives
+GYET-4AEN
+
+// Start with 7 lives
+G2ET-4AEN
+
+// Start with 8 lives
+G6ET-4AEN
+
+// Start with 9 lives
+HAET-4AEN
+
+// Start with 10 lives
+HEET-4AEN
+
+// Start with 1 health point
+AHGT-2AFJ
+
+// Start with 3 health points
+ASGT-2AFJ
+
+// Start with 5 health points
+A1GT-2AFJ
+
+// 10 points needed to get to complete round
+GHGT-3AM4
+
+// 20 points needed to get to complete round
+GMGT-3AM4
+
+// 30 points needed to get to complete round
+GSGT-3AM4
+
+// 40 points needed to get to complete round
+GXGT-3AM4
+
+// 70 points needed to get to complete round
+G9GT-3AM4
+
+// 80 points needed to get to complete round
+HDGT-3AM4
+
+// 90 points needed to get to complete round
+HHGT-3AM4
+
+// 5 points needed to get to bonus round
+GDGT-3AMT
+
+// 15 points needed to get to bonus round
+GHGT-3AMT
+
+// 25 points needed to get to bonus round
+GMGT-3AMT
+
+// 35 points needed to get to bonus round
+GSGT-3AMT
+
+// 45 points needed to get to bonus round
+GXGT-3AMT
+
+// 55 points needed to get to bonus round
+G1GT-3AMT
+
+// 65 points needed to get to bonus round
+G5GT-3AMT
+
+// 75 points needed to get to bonus round
+G9GT-3AMT
+
+// 95 points needed to get to bonus round
+HHGT-3AMT
+
+// Invincibility
+HHPA-2YXE
+
+// Super Jump
+ADAA-3Z5L
+
+// Hyper Jump
+ADAA-3M5L
+
+// Infinite Lives
+AW7T-2A5L
+
+// Invincibility
+ADPA-2N6C
+
+// Invincibility Cheat Enabled
+FF0770:00FF
+
+// Freezability Cheat Enabled
+FF0774:00FF
+
+// Level Select
+FF0776:0002
+
+// Instantly Pass Level While Code Is Enabled
+FFF578:00FF
+
+// Infinite Time
+FF0714:0031
+
+// Bubbles Rise Faster
+FF07A2:0000
+
+// Semi-Moon Jump/Walk In Air
+FF07AA:008E
+
+// Enemies Can't Touch You
+FFF57E:0053
+
+// Walking/Flying Enemies Cannot Move (Sadly your projectiles also stay in place)
+AD0T-2A3E
+
+// Walking Enemies Fall To Their Death
+AD0A-2A36
+
+// 1 Shot Kill Enemies
+PDSA-2EZL
+
+// Infinite Health
+FFF57C:0008
+
+// Invincibility. You can walk through enemies and collect items
+R19T-26T2
+
+// Press A in the Option screen to activate the debug menu (infinite lives, level select, etc)
+AD2T-B98W
+
+// Controllable Jump
+AC9T-2AFN
+
+// Hit enemies from anywhere
+G5RA-2A3T

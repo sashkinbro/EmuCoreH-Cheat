@@ -1,0 +1,62 @@
+// Infinite Energy
+00C2-4908
+
+// Infinite Lives
+00C2-4A04
+
+// Invulnerability
+00C9-AD0E
+
+// Invulnerability
+C35-FA9-E61
+
+// Infinite lives
+006-109-19E
+
+// Collect 1 polyp to find exit
+AF5-AA9-19E
+
+// Start with 3 lives
+027-4AF-F7A
+
+// Start with 8 lives
+077-4AF-F7A
+
+// Start with 10 lives
+097-4AF-F7A
+
+// Start with 26 lives
+197-4AF-F7A
+
+// Start with 51 lives
+327-4AF-F7A
+
+// Start with 99 Lives
+627-4AF-F7A
+
+// Infinite Keys
+005-039-E6E
+
+// Infinite Hearts (Lives)
+00C2-4A09
+
+// Have All Mer-People Saved (Green Icon With Yellow Dots On It)
+00C2-4800
+
+// Infinite Stars
+00C2-1699
+
+// Infinite Keys
+00C2-4B09
+
+// Infinite Sword-Fish
+00C2-0109
+
+// Infinite Yellow-Blue Fish
+00C1-FD09
+
+// Infinite Red Crabs
+00C1-FF09
+
+// Infinite Health
+006-059-19E

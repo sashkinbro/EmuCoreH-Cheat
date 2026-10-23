@@ -1,0 +1,6 @@
+// Have Lots of Gold
+FFC82E:00FF
+
+// Have Maxed Out Gold
+FFC82E:00FF
+FFC82E:00FF

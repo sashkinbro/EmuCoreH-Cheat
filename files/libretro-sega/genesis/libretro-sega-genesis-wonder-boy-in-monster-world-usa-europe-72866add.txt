@@ -1,0 +1,80 @@
+// Invincible
+R1TA-A6WR
+
+// Increase Speed Of Boots And Other Items
+96FA-BTH6
+
+// Hits Take No Energy
+95TA-B768
+
+// Infinite Hearts
+AMTA-AA7E
+
+// Invincibility
+R1TA-A6X4
+R1TA-A6T2
+R1TT-A6TT
+
+// Infinite Gold
+VENA-A0NC
+
+// Infinite Elixir
+AJWA-AA9W
+
+// Infinite All Magic
+BCDT-AA54
+
+// Infinite Medicine, Holly Water, Potion, Ocarina
+AJWT-AA2G
+
+// Super high jump and better traction
+C4DT-AAWE
+
+// One hit kills any enemy or boss.
+RFET-A61C
+
+// Walk a little faster
+JCDT-BTCJ
+
+// Walk a little faster, and your jumps will have slow moon descent
+BWDT-BTCJ
+
+// Walk much faster
+JCDT-AALJ
+
+// Walk much faster, and your jumps will have slow moon descent
+BWDT-AALJ
+
+// Always have all weapons, armor, and boots.
+HWBA-BEH2
+98BA-AAH4
+
+// Never die from enemy attacks
+RHTA-A6Z4
+
+// The guy that gives you 3 Fire Storm's at the beginning of the game will give you 12 instead
+ARFA-A2BY
+
+// Can use any magic, even if you don't have it
+AK6A-AA9Y
+
+// Walk through walls, rocks, etc.
+BA2A-AA4G
+
+// High jump and better traction.
+E4DT-AAWE
+
+// Coins you get from killing enemies are worth a lot more (at least 45).
+HX2T-BB12
+
+// Start a new game with 8 hearts.
+ACHA-ATCL
+
+// Start a new game with 8 hearts, and 12 Quake magic.
+BWHA-ATCL
+
+// Jump in mid-air (multi-jumps).
+RHZT-A6ZY
+
+// Makes the Gradius or Knight swords much stronger (can kill enemies with 1 hit).
+94GA-B73A

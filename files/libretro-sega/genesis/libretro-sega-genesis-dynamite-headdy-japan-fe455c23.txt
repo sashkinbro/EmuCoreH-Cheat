@@ -1,0 +1,32 @@
+// Regional Lockout Bypass Code.
+N2BT-AA5N
+
+// Infinite Lives
+AKRA-CA3E
+
+// Infinite Energy
+A2EA-CA7W
+
+// Invincibility (Disable Hit Detection)
+RYEA-C6ZR
+RZNT-C6Z6
+RZPT-C6WW
+
+// Not die under press obstacles rising up on platform
+RYFA-C6TC
+
+// Input Secret Number 0000
+AK8A-LA8Y
+
+// Select Game Start on Title Screen to enable Stage Select
+RE2T-C6Y6
+
+// Infinite Continues
+AMST-AA6C
+
+// Take Less Damage
+HTEA-DAEY
+AEEA-CAE0
+
+// Start with ?? Lives
+AZ5A-AAHN

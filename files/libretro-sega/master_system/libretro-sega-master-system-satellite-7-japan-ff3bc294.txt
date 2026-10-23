@@ -1,0 +1,20 @@
+// Invulnerability
+00C6-1AFF
+
+// P1 Infinite Lives
+00C1-0509
+
+// P2 Infinite Lives
+00C1-0609
+
+// Infinite Lives P1
+3A3-F9F-2A2
+
+// Infinite Lives P2
+3A4-4FF-2A2
+
+// Enable Invincibility Cheat - Both Players
+00C1-0380
+
+// Disable Invincibility Cheat - Both Players
+00C1-0300

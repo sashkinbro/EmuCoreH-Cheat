@@ -1,0 +1,44 @@
+// Infinite Air Supply
+00C0-AD05
+
+// Infinite Health
+00C0-9902
+
+// Infinite Lives
+00C0-9F09
+
+// Infinite Time
+00C0-A299
+
+// Invulnerability After Taking Damage (Blinking)
+00C2-2726
+
+// Invulnerability
+18D-027-6EA
+
+// Level Select
+00C0-B000
+
+// Start On Level 2
+707-6DA-3B7
+
+// Infinite Lives
+00A-1AD-E6E
+
+// Infinite Time
+002-4CE-E6E
+
+// Freeze Timer
+00C0-A119
+
+// Infinite Air
+001-33E-3BE
+
+// Jump Height Modifier
+FBA-CE6-199
+
+// High Jump
+00C2-2AFF
+
+// Invincibility (blinking)
+00C2-2601

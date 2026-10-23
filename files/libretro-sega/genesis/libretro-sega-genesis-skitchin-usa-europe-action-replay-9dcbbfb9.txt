@@ -1,0 +1,5 @@
+// Infinite Cash
+FFEF58:03E8
+
+// Infinite Time
+FFDC06:0008

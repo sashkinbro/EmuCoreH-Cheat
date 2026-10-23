@@ -1,0 +1,17 @@
+// Infinite Time (Seconds)
+00C9-7300
+
+// Infinite Time (Micro-Seconds)
+00C9-7200
+
+// Infinite Time (Minutes)
+00C9-7400
+
+// Infinite Time (Seconds)
+00C9-1500
+
+// Infinite Time (Ten's Micro-Seconds)
+00C9-1600
+
+// Infinite Time (One's Micro-Seconds)
+00C9-1700

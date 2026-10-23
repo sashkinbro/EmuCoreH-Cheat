@@ -1,0 +1,72 @@
+// Infinite time
+004-03B-19E
+
+// 45-min. game
+2D2-08F-19A
+
+// 20-min. game
+142-08F-19A
+
+// 10-min. game
+0A2-08F-19A
+
+// Start with more health units
+081-38C-E66
+
+// Don't lose health units when you drop off some ledges
+001-E9E-3BE
+
+// Start On Level 02
+049-4ED-E66
+
+// Start On Level 03
+059-4ED-E66
+
+// Start On Level 04
+069-4ED-E66
+
+// Start On Level 05
+079-4ED-E66
+
+// Start On Level 06
+089-4ED-E66
+
+// Start On Level 07
+099-4ED-E66
+
+// Start On Level 08
+0A9-4ED-E66
+
+// Start On Level 09
+0B9-4ED-E66
+
+// Start On Level 10
+0C9-4ED-E66
+
+// Start On Level 11
+0D9-4ED-E66
+
+// Start On Level 12
+0E9-4ED-E66
+
+// Start On Level 13
+0F9-4ED-E66
+
+// Walk all the way to the left to see ending
+109-4ED-E66
+
+// Infinite Energy (Spikes & Big Falls Can Still Kill Though)
+00C2-9203
+
+// Infinite Time
+00C2-983B
+
+// Invincibility
+C92-AAE-C49
+C3A-0AE-E61
+C32-DBC-A21
+181-ECE-08A
+001-E9E-3BE
+
+// Disable Spiked Gates
+C3F-62D-C41

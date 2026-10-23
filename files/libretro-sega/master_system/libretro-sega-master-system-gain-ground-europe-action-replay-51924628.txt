@@ -1,0 +1,14 @@
+// Infinite Time - One's Digit (P1 Only)
+00CF-E409
+
+// Infinite Time - Ten's Digit (P1 Only)
+00CF-E509
+
+// Infinite Time - Hundred's Digit (P1 Only)
+00CF-E609
+
+// Infinite "STY"
+00CD-E709
+
+// High "SCR" (1080ish)
+00CD-D980

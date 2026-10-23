@@ -1,0 +1,17 @@
+// FAKE Infinite Lives
+00C4-C909
+
+// Infinite Lives
+00C4-E009
+
+// Invincibility
+00C4-C703
+
+// Maximum Firepower
+00C4-C307
+
+// Maximum Speed
+00C4-C405
+
+// 3-Way Special Magic (Button 2)
+00C4-C503

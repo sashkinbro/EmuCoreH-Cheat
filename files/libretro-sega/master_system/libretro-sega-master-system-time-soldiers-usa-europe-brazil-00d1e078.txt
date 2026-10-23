@@ -1,0 +1,44 @@
+// Invincible
+00D3-564E
+
+// P1 Infinite Lives
+00C0-1302
+
+// P2 Infinite Lives
+00C0-1402
+
+// P1 Infinite Special Weapons
+00D3-1303
+
+// P2 Infinite Special Weapons
+00D3-3303
+
+// P1 Always Power Lv 3 In Special Weapons
+00C0-3303
+
+// P2 Always Power Lv 3 In Special Weapons
+00C0-3403
+
+// Infinite Lives P1
+00C0-1309
+
+// Infinite Lives P2
+00C0-1403
+
+// Invincibility (blinking) - both players
+004-72B-B32
+
+// P1 Infinite Lives
+3A3-4E9-2A2
+
+// P1 Infinite Special Weapons
+3AA-1AA-2A2
+
+// P2 Infinite Lives
+3A4-049-2A2
+
+// P2 Infinite Special Weapons
+3AA-88A-2A2
+
+// Invulnerability After Being Hit
+C34-5FB-E61

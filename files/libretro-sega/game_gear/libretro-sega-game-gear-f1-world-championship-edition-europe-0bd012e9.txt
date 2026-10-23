@@ -1,0 +1,19 @@
+// Speed Modifier
+00DC-0B00
+
+// Travel At Max Speed Without Pressing The Gas
+00B-E1C-E66
+FFB-E3C-E6A
+FFB-E4C-E6A
+
+// Don't Slow Down As Much From Hitting Other Cars
+7E3-C7B-3B7
+
+// Hitting Signs Does Not Stop You
+C95-324-C49
+
+// Freeze Lap Timer
+7ED-034-3B7
+
+// Freeze Lap Timer
+00C0-F000

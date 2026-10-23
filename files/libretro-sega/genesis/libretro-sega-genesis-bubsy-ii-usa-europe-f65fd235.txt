@@ -1,0 +1,62 @@
+// Infinite Lives
+BTJA-AA5W
+
+// Infinite Energy
+AKLA-AA7E
+
+// Infinite Time
+BWWT-AA2E
+
+// Infinite Lives
+FF0400:0003
+
+// Infinite Energy
+FF1B74:0003
+
+// Invincibility
+FF03D6:0001
+
+// Infinite Time
+FF0446:007D
+
+// Moon Jump
+1G3A-A6V8
+D83A-AACA
+AC3A-BV4C
+RG3A-A6WE
+F16B-8EAA
+JD6B-8VAC
+N96B-8HAE
+AX6B-8R2G
+HX6B-9JJJ
+TD6B-9Z2L
+J16B-9RJN
+KM6B-8AAR
+JM6B-9RJT
+KX6B-8AAW
+R16B-86TY
+
+// Invincibility
+EVLA-AA4L
+ABLA-AA50
+KVLA-ACD2
+ABMA-AA2W
+6BMA-B72Y
+
+// Start Most Main Levels With More Time
+TPAT-ANCN
+
+// Marbles Are Worth 3
+SFHT-BNWR
+
+// Marbles Are Worth 7
+SFHT-B6WR
+
+// Start With 9 Lives
+BEMT-AAF6
+
+// Start With 25 Lives
+DEMT-AAF6
+
+// Start With 50 Lives
+GJMT-AAF6

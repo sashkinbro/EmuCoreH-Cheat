@@ -1,0 +1,29 @@
+// Infinite life on life gauge--both players
+AJ4B-TA9G
+
+// Infinite special attacks for both players
+RE9V-T604
+
+// Infinite fighters for both players
+AT4B-TA2L
+
+// Enable same character select
+A2NV-TA2W
+
+// Infinite Hit Points
+BB0V-AA56
+
+// Infinite Magic
+RF7V-A6T4
+
+// Infinite Lives
+KB8B-AA24
+
+// Infinite Credits
+AJTV-AA8R
+
+// Infinite Oxygen For Sonic Underwater
+AJ9C-WA9A
+
+// Dont lose rings when Hit
+AWRW-TA3W

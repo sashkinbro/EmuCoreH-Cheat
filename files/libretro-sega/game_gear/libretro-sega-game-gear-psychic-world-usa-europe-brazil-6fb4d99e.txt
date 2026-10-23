@@ -1,0 +1,17 @@
+// Infinite ESP
+00DF-1238
+
+// Infinite H.P [Hit Points]
+00DF-1038
+
+// Infinite ESP
+003-704-A28
+
+// Infinite HP
+7E3-264-3B7
+
+// Sound Test & Stage Select
+00D-15F-E69
+
+// Maximum Shot Power
+00DF-1805

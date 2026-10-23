@@ -1,0 +1,22 @@
+// Level Select [Disengage At Correct Level]
+REFT-A6Z0
+
+// Hit Enemies Or Bosses From Anywhere
+A2GA-CA68
+
+// 1 Hit Kills Enemies And Bosses
+REET-C608
+
+// Walk thru walls
+RFJA-A6YL
+C3JA-AA70
+
+// Invincibility
+B2AT-CA46
+
+// Jump higher
+ABKA-BP94
+
+// Level Select
+5NYT-CY0C
+ATET-AA52

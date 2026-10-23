@@ -1,0 +1,73 @@
+// Magic costs 1/2x normal when walking
+95LA-BA82
+
+// Magic costs 1/4x normal when walking
+99LA-BA82
+
+// Magic costs 1/2x normal when jumping
+95MT-BA7J
+
+// Magic costs 1/4x normal when jumping
+99MT-BA7J
+
+// Magic doesn't decrease when walking
+ADLA-BA82
+
+// Magic doesn't decrease when jumping
+ADMT-BA7J
+
+// Start with 2 lives
+AFKA-BA8T
+
+// Start with 6 lives
+AZKA-BA8T
+
+// Start with 10 lives
+BFKA-BA8T
+
+// Infinite lives
+AXST-AA8T
+
+// Each child found restores full power
+JAEA-DA5C
+
+// Each child found does not restore any power
+AAEA-DA5C
+
+// Each child found restores 1/2x normal power
+BAEA-DA5C
+
+// Advance directly to battle with boss!
+AKTT-AA34
+
+// Almost invincible (Michael only)
+JBDT-CEYJ
+
+// Gives Michael Increased Dance Ability
+9VST-BCJ8
+JBST-AABA
+
+// Infinite Lives
+AXST-AA8T
+
+// Infinite Energy
+RZSA-A60G
+
+// Infinite Continue
+AJNA-AA8J
+
+// Freeze Time Continue
+AJ7A-CA8R
+
+// Enabled Cheat Code Round Select
+EBWT-AA7E
+
+// Invincibility (Disable Hit Detection)
+RZDT-C6WR
+RZDT-C6WE
+
+// Infinite Controllable Jump
+AD1A-AAEJ
+
+// Start with ?? Continues
+APKA-BE8W

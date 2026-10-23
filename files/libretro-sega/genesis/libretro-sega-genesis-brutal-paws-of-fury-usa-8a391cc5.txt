@@ -1,0 +1,24 @@
+// Infinite Energy
+FF03A2:0060
+
+// Enable Dali Llama
+FF02F6:4000
+
+// Instant Death P2
+FF0416:0000
+
+// Hit Anywhere P1
+9W1T-DDRC
+981T-CAGE
+8W1T-CGGG
+AC1T-CN8L
+RC1T-CCGN
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Enable Dali Llama
+AKDT-AA38

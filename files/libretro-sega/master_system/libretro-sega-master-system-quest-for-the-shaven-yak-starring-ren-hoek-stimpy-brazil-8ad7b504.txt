@@ -1,0 +1,17 @@
+// Invulnerability
+00D4-CA4C
+
+// Invulnerability
+00E-E8B-6EE
+
+// Infinite Life (Ren)
+00C2-F406
+
+// Infinite Lives (Ren)
+00C2-F209
+
+// Infinite Life (Stimpy)
+00C2-F506
+
+// Infinite Lives (Stimpy)
+00C2-F309

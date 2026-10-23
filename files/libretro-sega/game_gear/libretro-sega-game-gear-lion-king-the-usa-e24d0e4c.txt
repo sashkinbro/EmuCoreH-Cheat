@@ -1,0 +1,64 @@
+// Infinite Lives
+00C6-3D05
+
+// Infinite Energy
+00C6-3E0C
+
+// Invincibility
+00C6-DC06
+
+// Invulnerability
+C32-B29-E61
+
+// Level Select Enabled
+00C6-1A01
+
+// Start With 5 Lives
+057-B98-E66
+
+// Start With 9 Lives
+097-B98-E66
+
+// Start With 1/2 Of A Circle Of Life
+027-BB8-C4A
+
+// Start With 1 Circle Of Life
+047-BB8-C4A
+
+// Start With No Circles Of Life
+007-BB8-C4A
+
+// Get hit and become Invisible
+3A6-439-2A2
+
+// Flash less after getting hit
+0F6-639-7FB
+
+// Flash longer after getting hit
+FF6-639-7FB
+
+// Ladybugs don't restore any energy
+3A9-9E9-2A2
+
+// Infinite lives
+3A6-88C-2A2
+
+// Invisible
+3E5-B5A-4CA
+
+// Invincible
+3E7-73B-7F4
+3D7-76B-A27
+327-77B-082
+
+// Start With 1 Life
+017-B98-E66
+
+// Level Select Enabled
+CD4-67C-F79
+
+// Infinite Health
+006-3F9-A24
+
+// Infinite Lives
+006-87C-19E

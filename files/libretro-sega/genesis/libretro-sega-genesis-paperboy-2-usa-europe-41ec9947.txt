@@ -1,0 +1,35 @@
+// Infinite Lives
+D8TT-AAC6
+
+// Infinite Papers
+D80A-AAHE
+
+// Invincibility
+CLZT-AA5G
+AWZT-AA3Y
+
+// untouchable
+ADCA-AA86
+AF8A-AAHY
+
+// Infinite Lives P1 + P2
+FF59D8:0009
+
+// Infinite Papers P1 + P2
+FF50BE:000A
+
+// Infinite Papers
+AW0A-AA9C
+
+// Infinite Lives
+AWTT-AA44
+
+// Invincibility against obstacles
+CDCT-AA3G
+
+// Invincibility against everything
+CDCT-AA3G
+ACZA-AA2T
+
+// Papers don't break windows
+AW3A-AA3E

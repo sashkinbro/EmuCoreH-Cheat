@@ -1,0 +1,103 @@
+// Infinite Energy
+00B-B19-F79
+
+// View Ending
+001-30A-082
+3E1-31A-C42
+001-32A-F7A
+
+// Infinite Credits
+3A4-026-2A2
+
+// Start With 0 Credits
+001-2CA-F76
+
+// Start With 10 Credits
+0B1-2CA-F76
+
+// Start With 15 Credits
+101-2CA-F76
+
+// Start With 49 Seconds
+04B-7C6-C4E
+
+// Start With 79 Seconds
+07B-7C6-C4E
+
+// Start With 9 Seconds
+00B-7C6-C4E
+
+// Infinite Time
+005-3F5-3BE
+
+// Start With 3/4 Energy - Player 1
+32B-A3E-F77
+
+// Start With 1/2 Energy - Player 1
+22B-A3E-F77
+
+// Start With 1/4 Energy - Player 1
+12B-A3E-F77
+
+// Start With Very Little Energy - Player 1
+02B-A3E-F77
+
+// Start With 3/4 Energy - Player 2
+32B-A6E-F77
+
+// Start With 1/2 Energy - Player 2
+22B-A6E-F77
+
+// Start With 1/4 Energy - Player 2
+12B-A6E-F77
+
+// Start With Very Little Energy - Player 2
+02B-A6E-F77
+
+// Flying Kick Does No Damage
+006-4EF-D56
+
+// Flying Kick Does Mega Damage
+996-4EF-D56
+
+// Uppercut Does No Damage
+006-66F-A2E
+
+// Uppercut Does Mega Damage
+996-66F-A2E
+
+// Crouching Kick Does No Damage
+006-1EF-E66
+
+// Crouching Kick Does Mega Damage
+996-1EF-E66
+
+// Regular High Kick Does No Damage
+006-26F-F72
+
+// Regular High Kick Does Mega Damage
+996-26F-F72
+
+// Roundhouse Foot Sweep Does No Damage
+006-AEF-C42
+
+// Roundhouse Foot Sweep Does Mega Damage
+996-AEF-C42
+
+// CPU Dead At Start
+00B-A9E-F77
+
+// Both Invisible
+990-567-470
+
+// Wacky Mode
+B45-45C-321
+
+// Infinite Energy
+00C4-8847
+
+// Enemies Float In Air
+00C6-47FF
+
+// Computer Cannot Move
+00C6-452E

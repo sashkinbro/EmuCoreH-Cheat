@@ -1,0 +1,75 @@
+// Invincibility
+AAXT-AAE0
+
+// Infinite Items and Lives
+ALJA-AA90
+
+// Infinite Red Marbles
+FFC252:3939
+
+// Infinite Blue Marbles
+FFC254:3939
+
+// Infinite Yellow Marbles
+FFC256:3939
+
+// Infinite Green Marbles
+FFC258:3939
+
+// Have Horn
+FFC25A:3939
+
+// Infinite M-Bottle
+FFC25C:3939
+
+// Infinite S-Bottle
+FFC25E:3939
+
+// Infinite B-Coins
+FFC260:3939
+
+// Infinite Yellow Pills
+FFC262:3939
+
+// Infinite Blue Pills
+FFC264:3939
+
+// Infinite Lives
+FFC266:3939
+
+// Invincibility
+DTXA-AN98
+
+// Invincibility
+FF809C:0092
+
+// Moon Jump
+FF803A:00D8
+
+// Faster Display (Item Menu)
+FFC222:00FF
+
+// Enable Invincibility Shield (Blue Ball)
+FF8064:0001
+
+// Enemies Frozen (Green Ball)
+FF8066:0001
+
+// Move Faster & Jump Higher (M Potion)
+FF8068:0001
+
+// Reach Extended & Punch Stronger (S Potion)
+FF806A:0001
+
+// Faster Death & Immune to Lava
+FF809A:0001
+FF8040:0008
+
+// Infinite Time (Item Usage)
+FFC26E:0080
+FFC270:0018
+
+// Max Score
+FFC268:3939
+FFC26A:3939
+FFC26C:3939

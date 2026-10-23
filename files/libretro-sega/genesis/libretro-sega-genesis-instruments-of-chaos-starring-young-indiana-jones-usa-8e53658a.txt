@@ -1,0 +1,31 @@
+// Infinite Lives
+AKDA-EA2J
+
+// Infinite Energy
+AL9T-EA9E
+
+// Infinite Ammo
+AKTA-EA6C
+
+// Freeze Time
+AMTT-EA20
+
+// Infinite Energy
+FFF08A:0000
+
+// Infinite Lives
+FFF08C:0009
+
+// Infinite Ammo
+FFF090:0063
+
+// Infinite Grenade
+FFF08E:0063
+
+// Invincibility
+R09T-E6ZT
+
+// Infinite Energy against falls from a height
+A3JA-EA2E
+AVJA-EA5J
+AVHT-EA7Y

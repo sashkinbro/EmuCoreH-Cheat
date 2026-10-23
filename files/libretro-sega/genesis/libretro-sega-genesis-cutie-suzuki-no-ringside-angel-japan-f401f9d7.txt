@@ -1,0 +1,17 @@
+// Infinite Health P1
+FF837C:00FF
+
+// Character Modifier P1
+FFE95A:0000
+
+// Infinite Health P1
+FF837E:0080
+
+// No Health P2
+FF83BE:0000
+
+// Crowd Cheers Continuously
+FF8364:0001
+
+// Infinite Special Meter P1 (Alternate)
+FF8376:0001

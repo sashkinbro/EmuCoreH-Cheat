@@ -1,0 +1,15 @@
+// Infinite Energy
+9WLT-BGHC
+98LT-AAHE
+98LT-AAHG
+08LT-A0HJ
+ALLT-AA9L
+
+// Infinite Energy
+FF0BB6:00FF
+
+// No Health P2
+FF0BB8:0000
+
+// Characters Are Stuck Together
+FFFEF0:0000

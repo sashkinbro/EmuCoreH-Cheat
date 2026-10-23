@@ -1,0 +1,20 @@
+// Infinite Red Banded Darts - Grant
+FF000E:0063
+
+// Infinite Gas Grenades - Grant
+FF0010:0063
+
+// Infinite Rockets - Grant
+FF0012:0063
+
+// Character Select - Grant (Playable in Raptor's Stages)
+FFB7E0:0000
+
+// Character Select - Raptor (Not Playable in Grant's Stages)
+FFB7E0:0001
+
+// Level Select - Grant's Stages
+FF0A96:0000
+
+// Level Select - Raptor's Stages (Playable by Grant)
+FF0A96:000D

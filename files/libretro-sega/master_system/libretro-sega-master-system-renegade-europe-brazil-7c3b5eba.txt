@@ -1,0 +1,34 @@
+// Infinite Energy - Player 1 &amp; 2
+00C2-4BA0
+
+// Infinite Time [Stops Countdown Timer]
+00C3-A159
+
+// Mission Select [Replace ? With 0-3]
+00C2-1E00
+
+// Enemies Have No Life
+00C2-6F00
+00C2-8F00
+00C2-AF00
+
+// Invincibility
+002-01A-A28
+
+// Infinite Lives P1
+00C3-AB09
+
+// Infinite Lives - Both Players
+00C3-AB99
+
+// Infinite Health - Both Players
+3A2-02A-2A2
+
+// Infinite Lives - Both Players
+3A4-1CA-2A2
+
+// Infinite Time
+3A3-E8F-2A2
+
+// Freeze Timer
+00C3-A200

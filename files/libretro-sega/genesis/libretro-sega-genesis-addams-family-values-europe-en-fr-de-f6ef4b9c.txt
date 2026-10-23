@@ -1,0 +1,35 @@
+// Infinite Energy
+FF571C:0006
+
+// Invincibility
+FF0B74:1802
+
+// Infinite Energy
+AKLB-TA78
+
+// Untouchable
+RZYB-T6XW
+
+// Walk thru walls, bushes, etc.
+ABSV-TA4J
+
+// Invincibility
+ABXV-TA66
+
+// 1 hit kills enemies
+ACXB-TA6A
+
+// Start a new game with twice as many skulls (6 skulls/2x energy)
+BTDA-AAGN
+
+// Start a new game with all 14 skulls (full energy)
+DTDA-AAGN
+
+// Always have all items
+AL8B-TA88
+AMBV-TA6E
+AL7B-TA42
+
+// Level select
+DJHB-1RX4
+ATDA-AA78

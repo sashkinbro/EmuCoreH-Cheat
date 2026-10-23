@@ -1,0 +1,23 @@
+// Infinite Tries At The Cards Matching Game
+00D2-2801
+
+// Infinite Health
+00D2-A204
+
+// Infinite Lives
+00D2-A109
+
+// Invulnerability
+00D0-00FF
+
+// Invulnerability
+00C-17E-4C6
+
+// Infinite Red Balls
+00D0-BC99
+
+// Infinite Health
+001-70E-19E
+
+// Infinite Lives
+001-80E-E6E

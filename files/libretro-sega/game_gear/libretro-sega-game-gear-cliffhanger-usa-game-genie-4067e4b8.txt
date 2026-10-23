@@ -1,0 +1,41 @@
+// Start With 2 Lives
+011-98E-E62
+
+// Start With 5 Lives
+041-98E-E62
+
+// Start With 10 Lives
+091-98E-E62
+
+// Infinite Lives
+012-73E-B39
+
+// Start With 1 Energy Bar
+011-A3E-A2A
+
+// Start With 5 Energy Bars
+051-A3E-A2A
+
+// One Hit Kills
+018-9AE-B39
+
+// 1 Continue
+011-80E-E66
+
+// 5 Continues
+051-80E-E66
+
+// 9 Continues
+091-80E-E66
+
+// Invincibility
+C90-C6A-E69
+
+// Start On Level 2
+031-85E-E6A
+
+// Start On Level 3
+061-85E-E6A
+
+// Start On Level 4
+081-85E-E6A

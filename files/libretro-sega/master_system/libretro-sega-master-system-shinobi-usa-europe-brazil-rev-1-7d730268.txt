@@ -1,0 +1,51 @@
+// Invincibility
+C93-334-3B7
+
+// Infinite Lives
+00C0-7A02
+
+// One Hit Kills Mandara's Wall Enemies
+01F-DD9-F7A
+
+// Stage Select after Title Screen
+00C0-1A06
+
+// Infinite Lives
+006-51F-3BE
+
+// Infinite Energy
+7E3-334-3B7
+
+// Stage Select after Title Screen
+063-31F-E6A
+
+// Start with ?? Health
+0C5-F0F-F72
+
+// Start with ?? Lives, instead of 2
+035-D7F-E62
+
+// Invincibility
+C3E-6E5-E61
+
+// Jump Higher
+21C-E4E-4C2
+F7C-E6E-E69
+
+// Can use Ninja Magic anytime
+002-0A4-F7E
+
+// Jump Height Modifier
+21C-E4E-4C2
+FAC-E6E-E69
+
+// Jump Height Modifier
+00C0-9DFA
+
+// Always take the minimal amount of damage
+18E-865-19D
+01E-875-913
+
+// Infinite/Max Health
+00C0-6C14
+00C0-6D12

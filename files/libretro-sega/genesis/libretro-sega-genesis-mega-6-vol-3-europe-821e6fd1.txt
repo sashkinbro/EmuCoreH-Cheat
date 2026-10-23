@@ -1,0 +1,14 @@
+// Infinite life on life gauge--both players
+AJ4B-TA9G
+
+// Infinite special attacks for both players
+RE9V-T604
+
+// Infinite fighters for both players
+AT4B-TA2L
+
+// Enable same character select
+A2NV-TA2W
+
+// Dont lose rings when Hit
+AWRV-AA3R

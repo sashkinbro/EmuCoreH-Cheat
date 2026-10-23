@@ -1,0 +1,8 @@
+// Invincible After Being Hit
+FF2F1C:0000
+
+// Infinite Energy
+FF2F00:0C00
+
+// Moon Jump
+FF2EEE:B000

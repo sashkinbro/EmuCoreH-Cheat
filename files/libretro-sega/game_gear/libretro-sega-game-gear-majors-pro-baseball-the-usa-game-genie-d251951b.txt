@@ -1,0 +1,11 @@
+// No Strikeouts
+003-91C-19A
+
+// 4 Strikes And You're Out
+043-93C-E66
+
+// 6 Strikes And You're Out
+063-93C-E66
+
+// 1 Ball And You Walk
+003-56C-19A

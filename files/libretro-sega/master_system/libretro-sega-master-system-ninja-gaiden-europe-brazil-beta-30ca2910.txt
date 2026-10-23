@@ -1,0 +1,22 @@
+// Enable Debug Invincibility
+00DF-C4FF
+
+// Enable Infinite Weapons Option from Debug Menu
+00DF-C3FF
+
+// Disable Debug Invincibility
+00DF-C400
+
+// Disable Infinite Weapons Option from Debug Menu
+00DF-C300
+
+// Enable Debug Invincibility
+C9E-A0D-E69
+186-54C-6EA
+
+// Enable Infinite Weapons Option from Debug Menu
+180-C1A-6EA
+
+// Enable Debug Menu after Title Screen
+00B-9E4-E69
+00B-A64-E69

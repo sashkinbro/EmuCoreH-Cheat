@@ -1,0 +1,153 @@
+// Tom Is Sleepy And Jerry Is Mad
+A1NA-YANC
+
+// Timeout
+2DCT-YALA
+
+// Invincibility
+DH1T-YASC
+
+// Infinite Health
+FFD52E:0081
+
+// Infinite Lives
+FFFC1A:0063
+
+// Infinite Time (Minutes Digit)
+FFFC0E:0009
+
+// Infinite Time (Tens Digit)
+FFFC0E:0009
+
+// Infinite Time (Ones Digit)
+FFFC10:000A
+
+// Infinite Fish Bones
+FFFC28:0009
+
+// Infinite Footballs
+FFD47C:0009
+
+// Infinite Health Jerry
+FFD5F0:009F
+
+// Infinite Throwing Items Jerry
+FFD53E:0004
+
+// Tom Speed Modifier
+FFD4A8:0000
+
+// Jerry Speed Modifier
+FFD56A:0000
+
+// Moonjump Tom
+FFD4A6:0040
+
+// Moonjump Jerry
+FFD568:0020
+
+// 1-Hit To Swim Anywhere Tom
+FFD474:0020
+FFD4A6:0060
+
+// 1-Hit To Swim Anywhere Jerry
+FFD536:0020
+FFD568:0020
+
+// Water Spitting Tom
+FFD476:0080
+
+// Water Spitting Jerry
+FFD538:0080
+
+// Enemies Can't Touch Tom
+FFD478:0088
+
+// Enemies Can't Touch Jerry
+FFD53A:0088
+
+// P1 Character Modifier
+FFFC18:0000
+
+// Players Control Modifier
+FFFC18:0000
+
+// In-Game Music Modifier
+FFFC20:0000
+
+// Level Modifier (All Modes)
+FFFC1C:0000
+
+// Infinite Throwing Items Jerry
+FFCE0C:0004
+
+// Tom Speed Modifier
+FFCD76:0000
+
+// Jerry Speed Modifier
+FFCE38:0000
+
+// Moonjump Tom
+FFCD74:0040
+
+// Moonjump Jerry
+FFCE36:0020
+
+// 1-Hit To Swim Anywhere Tom
+FFCD42:0020
+FFCD74:0060
+
+// 1-Hit To Swim Anywhere Jerry
+FFCE04:0020
+FFCE36:0020
+
+// Water Spitting Tom
+FFCD44:0080
+
+// Water Spitting Jerry
+FFCE06:0080
+
+// Enemies Can't Touch Tom
+FFCD46:0088
+
+// Enemies Can't Touch Jerry
+FFCE08:0088
+
+// Infinite Energy
+FFCDFC:009F
+
+// Infinite Footballs
+FFCD4A:0063
+
+// Invincible (Once You're Hit)
+FFCD40:0039
+
+// Invincibility
+RZ7T-A6VG
+
+// Enabled Cheat Code View Ending
+A26A-AA9W
+
+// Enabled Cheat Code World Selection
+A26T-AA2L
+
+// Enabled Cheat Code Invincibility
+A37T-AA3W
+
+// Keep Fish/Cheese After The Death
+AKJA-AA4L
+
+// Freeze Time Continue
+AKNT-AA88
+
+// Infinite Continue
+AKKT-AA3A
+
+// Infinite Weapon
+FFD47C:000A
+
+// Infinite Weapon
+ATYT-AA66
+
+// Enabled Cheat Code Freeze Time
+ABMA-AA6Y

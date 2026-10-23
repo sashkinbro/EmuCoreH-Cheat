@@ -1,0 +1,79 @@
+// Infinite Lives
+D6KT-AABW
+
+// Infinite Energy
+AK9A-EA82
+
+// Nearly Invincible (Except Against Falling And Timer Running Out)
+AVNA-AA50
+
+// Start With 1 Life
+AEDA-AAH6
+
+// Start With 2 Lives
+AJDA-AAH6
+
+// Start With 4 Lives
+ATDA-AAH6
+
+// Start With 5 Lives
+AYDA-AAH6
+
+// Start With 8 Lives
+BADA-AAH6
+
+// Start With 10 Lives
+BJDA-AAH6
+
+// Start With 20 Lives (Ignore Lives Counter)
+CTDA-AAH6
+
+// Start With 50 Lives (Ignore Lives Counter)
+GJDA-AAH6
+
+// Start With 100 Lives (Ignore Lives Counter)
+NTDA-AAH6
+
+// Do Not Lose Life From Enemy Killing You
+AAKT-AA3Y
+YJKT-BP30
+
+// Do Not Lose Life From Falling
+AAKT-AA9C
+8TKT-BM9E
+
+// Start On Level 2
+AJET-AACJ
+
+// Start On Level 3
+ANET-AACJ
+
+// Start On Level 4
+ATET-AACJ
+
+// Start On Level 5
+AYET-AACJ
+
+// Infinite Shurikens, If Collected (Not If You Crouch And Throw)
+EWNT-AA2L
+
+// Infinite Time To Complete Level (Switch Off Effects At End of Bonus Rounds To Go On)
+RGAA-E60C
+
+// Infinite Continues
+AT5T-AA5W
+
+// Infinite Lives
+AJKT-AA3W
+AJKA-AA4A
+AJKT-AA9C
+
+// Infinite Shurikens
+ALNA-AA24
+ALPA-AA7T
+
+// Untouchable
+RZ1A-E602
+
+// Enable ENIREHTAK cheat
+96DT-B922

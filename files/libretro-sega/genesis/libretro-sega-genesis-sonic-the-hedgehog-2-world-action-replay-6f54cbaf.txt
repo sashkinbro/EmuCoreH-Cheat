@@ -1,0 +1,17 @@
+// Enable Stage Select
+FFFFD0:0100
+
+// Enable Debug Mode
+FFFFFA:0100
+
+// Enable Debug Mode (On An Actual System)
+003B98:0001
+
+// Infinite Rings
+FFFE20:00C8
+
+// Infinite Lives
+FFFE12:0009
+
+// Unlimited Time
+FFFE24:0007

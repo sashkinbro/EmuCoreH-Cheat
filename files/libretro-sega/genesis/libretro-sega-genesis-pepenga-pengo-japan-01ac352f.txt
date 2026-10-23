@@ -1,0 +1,56 @@
+// Infinite Time
+FF51AA:FF77
+
+// Invincibility
+FF65EA:00FF
+
+// Infinite Lives
+FF51D6:0063
+
+// Invincibility
+RZWA-A6Z8
+
+// Infinite Time
+RZCA-A6T2
+
+// Infinite Lives
+AKKA-AA52
+
+// Start With 99 Lives
+NN0A-CAGY
+
+// Infinite Lives P1 (Arcade Mode)
+FFE40C:0004
+
+// Infinite Lives P1 (Story Mode)
+FF51D6:000A
+
+// Infinite Time (Story Mode)
+FF51AA:0072
+
+// Walk thru blocks, walls, etc
+ABNA-AA2N
+
+// 1 Hit Kill Bosses
+ABKT-JAAJ
+ABNA-JAHC
+ABSA-JACT
+ABWT-JAHW
+AB0T-JAEE
+AB7A-JAC4
+ACAA-JAC6
+ACTA-JAC8
+
+// 1 Hit Kill Bosses
+FF67E6:0001
+FF6866:0001
+
+// Infinite Lives (Arcade Mode)
+AW5T-CA7E
+
+// Invincibility (Disable Hit Detection)
+RZWT-A6V6
+RZ5A-A6TT
+RZNA-A6Z0
+RZ8A-J6T8
+R0RT-A6VL

@@ -1,0 +1,26 @@
+// Infinite Lives
+FF0094:0009
+
+// Infinite Time
+FF0096:008F
+
+// Invincible
+FF0060:0001
+
+// Invincibility
+RY9A-A6VC
+
+// Always Keep Weapon After Touching Enemies
+A29A-AA4R
+A5GT-AA52
+A3BT-AA7C
+
+// Always Keep Weapon After The Fall Into The Abyss
+A5RT-AA30
+A3BT-AA7C
+
+// Infinite Weapon
+FF7158:0001
+
+// Play as P2 named Luigi
+FF00B4:0001

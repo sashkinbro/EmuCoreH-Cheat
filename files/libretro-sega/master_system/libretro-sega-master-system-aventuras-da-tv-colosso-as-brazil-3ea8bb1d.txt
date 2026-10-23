@@ -1,0 +1,11 @@
+// Invulnerability
+00C5-2779
+
+// Invulnerability
+003-BBC-7F4
+
+// Infinite Lives
+00C0-DC03
+
+// Infinite Lives
+3AC-F08-2A2

@@ -1,0 +1,31 @@
+// Infinite Lives
+FFE8AE:0300
+
+// Infinite Energy
+FFE8DC:000A
+
+// Infinite Lives
+FFE8F6:0064
+
+// Enable Secret Options Menu
+FFE896:0001
+
+// Speech Modifier
+FFE8A0:0000
+
+// Have Jump Shoes
+FFE91A:0001
+
+// Have Lightning Speed Power-Up
+FFE91C:0096
+
+// Untouchable (prickly plant can still kill)
+R1DA-A6ZR
+
+// Invincibility
+CMFA-AA22
+
+// Enabled Cheat Code Secret Options Menu
+RFJT-A6TL
+AKKA-AA28
+RFJA-A602

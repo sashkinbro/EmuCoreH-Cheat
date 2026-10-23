@@ -1,0 +1,14 @@
+// Infinite Shots - Pocket Game
+3AF-20E-2A2
+
+// Start with ?? shots in Pocket Game, instead of 10
+101-CEE-C42
+
+// Infinite Shots - Pocket Game
+00C2-D020
+
+// Have at least 25,600 Score
+00C2-C701
+
+// Balls pocketed are worth ??, instead of 100
+027-80E-E6E

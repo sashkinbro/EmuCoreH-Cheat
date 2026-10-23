@@ -1,0 +1,258 @@
+// Invincibility (Lightning)
+ATRT-EXYL
+
+// Tap B To Jump Repeatly
+82HT-EH0E
+
+// Turbo mode
+PJCT-AA2R
+
+// Fast music
+APET-BAH4
+
+// Infinite energy
+CJSA-EA7G
+
+// Start with 1 life - Normal Difficulty
+CBTT-AAC8
+
+// Start with 11 lives - Normal Difficulty
+CBTT-AYC8
+
+// Start with 50 lives - Normal Difficulty
+CBTT-BCL8
+
+// Start with 99 lives - Normal Difficulty
+CBTT-AG48
+
+// Each throw costs 2 shurikens (7 for Shuriken Burst)
+SE3A-FLZ2
+
+// Start with 99 shurikens
+HVTT-AG5Y
+
+// Get no shurikens on pick up
+RFST-G6ZC
+
+// Get 8 shurikens on pick up
+JBST-HAZC
+
+// Infinite shurikens (7 for Shuriken Burst)
+AT3A-EA72
+
+// Start with no ninjitsu items
+ABTT-BAEE
+
+// Start with 5 ninjitsu items
+AZTT-BAEE
+
+// Start with 9 ninjitsu items
+BFTT-BAEE
+
+// Infinite ninjitsu items
+AT1T-EA4E
+
+// Start with 1 credit instead of 3 - Normal Difficulty
+APTT-AAD6
+
+// Start with 5 credits - Normal Difficulty
+APTT-ALD6
+
+// Start with 9 credits - Normal Difficulty
+APTT-AWD6
+
+// Infinite credits
+AX6T-AA2E
+
+// Start on round 2
+Y2NA-DRJ2
+APTT-ACD6
+
+// Start on round 3
+Y2NA-DRJ2
+APTT-AED6
+
+// Start on round 4
+Y2NA-DRJ2
+APTT-AGD6
+
+// Start on round 5
+Y2NA-DRJ2
+APTT-AJD6
+
+// Start on round 6
+Y2NA-DRJ2
+APTT-ALD6
+
+// Start on round 7
+Y2NA-DRJ2
+APTT-AND6
+
+// Alternate SEGA Logo Intro
+FF001C:0064
+
+// Start on Round Modifier
+FF37A6:0000
+
+// Auto Kill!
+FF415A:002A
+
+// Ghost Shinobi
+FF4164:001F
+
+// Enemies Can't Touch You [No Flashing]
+FF4164:0001
+
+// Infinite Jumps
+FF377C:0000
+
+// Jitsu of Ikazuchi [Lightning] Enabled
+FF415E:0004
+
+// Flaming Shurikens + Invincibility
+FF00E6:0001
+FF4164:0001
+
+// Invincibility
+AART-EAFW
+
+// Character Flashes
+AJLT-EALR
+
+// Tap B to Double Jump
+AAKA-EAS6
+
+// Tap B two Times for Super Jump
+AAKA-EBS2
+
+// Hold B For Auto Throw
+AA3T-EAEE
+A23T-EA2L
+
+// Start With Power Up Shurikin
+A20T-EAJN
+
+// Invincibility
+G58T-CA5W
+AJHT-EA4J
+
+// Start With Max Shurikens
+GANA-DENL
+67TT-AGDY
+
+// Get Max Shurikens When You Pickup Some
+RFST-G6ZJ
+
+// Change Shuriken Limit From 799 To 999
+67ST-GGFN
+
+// Shuriken Burst Doesn't Cost Any Shurikens
+AT2T-EA9A
+
+// Region Bypass
+BL0T-AN7T
+
+// Bump Into Enemies To Become Invincible Temporarily
+MASA-EPNN
+
+// Die With One Hit
+C97T-DWS4
+
+// Get Hit Or Bump Into The Enemy And Fall Differently
+EESA-E524
+
+// Slow Mode
+F2YA-ETEL
+
+// Infinite Shurikens
+FF37E2:0032
+
+// Infinite Health
+FF37E8:0010
+
+// Have Flaming Shurikens
+FF00E6:0001
+
+// Moon Jump
+FF4160:008B
+FF4160:0002
+
+// Always Flashing
+RELT-E6WT
+
+// Hard Mode
+R18T-C6Y8
+
+// Enable 6-Button Mode
+FF000A:0041
+
+// All in one Invincibility (No Flashing)
+RYSA-E6T4
+
+// Always Only Use Long Sword
+RY3A-E6Y4
+
+// Walk Through Walls
+RYTT-E6ZA
+
+// Can activate the infinite Shuriken cheat without changing the sound effects. see notes.
+RGFT-A6ZL
+
+// Keep Flaming Shurikens after being Hit
+C2YA-EA8R
+
+// Keep Flaming Shurikens after Dying
+A2CT-EA6N
+
+// Jitsu of Mijin doesn't cost a life
+ATDT-EA5N
+
+// Jump On Any Height
+AJJA-EA3J
+
+// Regular shurikens are 5x stronger
+AZGT-EACY
+
+// Regular shurikens are 30x stronger
+D3GT-EACY
+
+// Jump higher
+AD8A-CEL2
+
+// Enable 6-Button Mode
+AALA-EA36
+E23A-EA64
+
+// Enable Alternate Sega Logo Intro
+JBZA-AAC0
+
+// Enable Invincibility Cheat
+42RT-EA72
+
+// Enable Infinite Shuriken Cheat
+ACXA-AA7G
+B23A-EA7R
+BJ2T-EA7R
+
+// Multi-Jump
+AA4A-EA2N
+6T4A-F1TR
+REJA-E6YR
+3TJA-EA8L
+
+// Regional Lockout Bypass
+BL0T-AA7T
+
+// Invincibility
+A58T-CA62
+HTLT-EA4T
+
+// Infinite Health
+B2SA-EA7J
+
+// Infinite Lives
+AW2A-AA60
+
+// Infinite Shurikens
+AT3A-EA72
+AT2T-EA9A

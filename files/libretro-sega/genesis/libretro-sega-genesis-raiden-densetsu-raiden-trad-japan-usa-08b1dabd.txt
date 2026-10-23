@@ -1,0 +1,87 @@
+// Invincible Against Bodies of Enemies [You Can Touch Power-Ups]
+C3HA-AA60
+
+// Invincible Against Bullets [You Can Touch Power-Ups]
+CVHT-AA48
+
+// Invincibility
+YVGA-BP38
+
+// No Music
+AEFA-AAEN
+
+// Enemies don't shoot at you
+AGLA-AG5Y
+
+// Invincibility [Can't touch Power-Ups]
+PVGA-A85C
+
+// Infinite Lives [Alternate]
+CEFA-ATC2
+
+// Drop One Bomb and all Enemies on screen are Dead
+1B5A-A8EE
+
+// Auto Fire
+A3XA-AXAL
+
+// Power Ups are points
+SBCA-A4TL
+
+// Planes Blow Up If They Hit You
+PVHA-ATN0
+
+// Infinite bombs
+AKWT-AA9J
+
+// Start with 1 bomb
+AE9A-AAF0
+
+// Start with 6 bombs
+A29A-AAF0
+
+// Start with 8 bombs
+BA9A-AAF0
+
+// Infinite lives
+AJFT-AA5C
+
+// Each bomb power-up item is worth 2
+PFCA-BJXG
+
+// Some smaller obstacles easier to explode
+AE1T-AAHT
+
+// Some bigger obstacles easier to explode
+AHEA-CAGY
+
+// Don't lose missile power when you lose a life
+BA9A-AA8E
+
+// Permanent invisible missiles
+A69A-BE8E
+
+// First laser power-up item
+BBCT-BA5Y
+
+// Begin Each Life With 10 Bombs
+BJ9A-AAF0
+
+// Begin Your Game With 20 Lives
+CTFA-BA44
+
+// Begin Your Game With 127 Lives
+S6FA-BA44
+
+// Freeze Time Continue
+FFE9B8:0020
+
+// Infinite Credit
+ATHA-AA8E
+
+// Invincibility (Disable Hit Detection)
+RZHA-A6YE
+RZHT-A6WW
+
+// Freeze Time Continue
+AJHA-AA7W

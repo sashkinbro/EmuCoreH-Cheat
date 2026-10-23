@@ -1,0 +1,18 @@
+// Infinite Lives
+00C4-90A2
+00C4-E0B2
+
+// Extra Option SELECT
+00C0-6E08
+
+// Move Enemies, Objects, Etc. Around Level
+00C0-9A03
+
+// Start On Final Stage
+189-62F-6EA
+
+// Infinite Lives
+00E-7EF-19E
+
+// Invincibility
+00C0-C101

@@ -1,0 +1,111 @@
+// Start with primary power supply at 75%
+ZA7T-DPDE
+
+// Start with primary power supply at 50%
+ZA7T-CJ5E
+
+// Start with primary power supply at 25%
+ZA7T-DEME
+
+// Start with primary power supply at 10%
+ZA7T-DJDE
+
+// Start with secondary power supply at 100%
+3C0T-HP0J
+
+// Start with secondary power supply at 75%
+W40T-HP0J
+
+// Start with secondary power supply at 25%
+GL0T-HP0J
+
+// Start with secondary power supply at 1%
+AL0T-HP0J
+
+// Protection from gunfire
+BJ6T-CA4E
+
+// Extra ammo worth 0 rounds
+AAKA-CABW
+
+// Extra ammo worth 50 rounds
+GJKA-CABW
+
+// Extra ammo worth 250 rounds
+9JKA-CABW
+
+// Extra ammo worth 500 rounds
+8TKA-CCBW
+
+// Extra ammo worth 999 rounds
+66KA-CGBW
+
+// Infinite rounds
+ATGT-CA80
+
+// Medicine worth 0% [normally 15%]
+AAKA-CADT
+
+// Medicine worth 50%
+NTKA-CADT
+
+// Medicine worth 100%
+3AKA-CADT
+
+// Start on Level 2 (John's Home)
+ALZA-AAHC
+
+// Start on Level 3 (Mall)
+AWZA-AAHC
+
+// Start on Level 4 (Hospital)
+A4ZA-AAHC
+
+// Start on Level 5- (Compound)
+BCZA-AAHC
+
+// Start on Level 6- (Dyson's Home)
+BLZA-AAHC
+
+// Infinite Energy
+9X6A-BGEC
+3D6A-AAEE
+996A-AAEG
+456A-A0NJ
+AXFA-AA5N
+
+// Infinite energy (on driving levels)
+AXFA-AA5N
+
+// Protection From Explosions
+AJXA-CA98
+
+// Infinite Health (Side Scrolling Levels - Ignore HUD)
+FF2BD6:00FF
+
+// Infinite Ammo Rounds (Side Scrolling Levels)
+FF0260:0064
+
+// Infinite Energy (Driving Levels)
+FF017C:00FF
+
+// Boot Into Region Info Screen
+AJBT-AA3J
+
+// Skip Intro Screens
+MJET-AA2A
+
+// You can drive thru cars, trucks, etc when in driving levels (AKA no-clip mode)
+ADFT-AA66
+
+// Infinite energy (except in driving levels)
+9TSA-DGRW
+AASA-CK0Y
+96SA-CAG0
+42SA-C0R2
+
+// Knife throwers don't hurt you
+AD1A-HP0L
+
+// Knee kick is much stronger
+A13A-GG0E

@@ -1,0 +1,12 @@
+// Infinite Lives
+FF00B4:0300
+
+// Infinite Health
+FF00B2:0100
+
+// Infinite Time
+FF00B6:0168
+
+// Infinite Power
+FF00BA:0050
+FF00BC:0901

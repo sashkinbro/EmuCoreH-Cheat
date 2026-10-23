@@ -1,0 +1,11 @@
+// Infinite Health
+00C0-E20A
+
+// Infinite Nitro/Speed Booster
+00C1-54FF
+
+// Infinite Bullets
+00C1-5DFF
+
+// Infinite Time
+00C1-5FFF

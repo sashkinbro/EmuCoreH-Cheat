@@ -1,0 +1,11 @@
+// Infinite Energy P1
+FFABEA:0068
+
+// No Energy P2
+FFAAB2:0000
+
+// Infinite Time
+FF9CAC:0099
+
+// Infinite Inner Strength P1
+FFACAA:0034

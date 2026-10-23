@@ -1,0 +1,14 @@
+// Infinite Paper
+00C0-1C63
+
+// Infinite Lives
+00DA-6B0A
+
+// Makes it much harder to pick up speed
+003-6FF-6E6
+
+// Infinite Paper
+00E-BAF-19E
+
+// Infinite Lives
+009-06E-801

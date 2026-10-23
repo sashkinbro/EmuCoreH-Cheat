@@ -1,0 +1,22 @@
+// Infinite Time (Micro-Seconds)
+FFB582:0071
+
+// Infinite Time (Seconds)
+FFB582:0071
+
+// Infinite Time (Minutes)
+FFB584:0071
+
+// Infinite Lives
+FFB58C:0009
+
+// Invincibility
+R0MA-A6YW
+R1PA-A6VW
+R1PT-A6TG
+
+// Freeze Time
+AJ0T-AA7A
+
+// Infinite Ships
+A21A-AA7L

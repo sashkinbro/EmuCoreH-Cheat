@@ -1,0 +1,65 @@
+// Invincibility
+RZYA-N6ZT
+
+// Infinite Energy
+HFYA-PFFT
+
+// Start With Energy Level At About 25%
+EAWT-AAH2
+
+// Start With Energy Level At 50%
+JAWT-AAH2
+
+// Start With Hatchet
+STYT-B4ME
+AAYT-AEDG
+CTYT-B6DJ
+
+// Start With Potion
+STYT-B4ME
+AAYT-ANDG
+CTYT-B6DJ
+
+// Start With Laser Rings
+STYT-B4ME
+AAYT-BADG
+CTYT-B6DJ
+
+// Start With Some Coins
+EYYT-AAH4
+
+// Start With Some More Coins
+LAYT-AAH4
+
+// Warrior Jumps Lower
+AN7T-PY36
+
+// Warrior Jumps Higher
+A27T-PY36
+
+// Warrior Jumps Much Higher
+BA7T-PY36
+
+// Hatchet Timer Runs Faster
+CBNA-NAGT
+
+// Hatchet Timer Runs Slower
+JBNA-NAGT
+
+// Hatchet Timer Runs Much Slower
+S7NA-NAGT
+
+// Hatchet Timer Disabled
+AKPT-NA3E
+
+// Protection From Most Hazards
+AKYA-NA4G
+
+// Each Coin Picked Up Worth 2
+AK0T-PA7C
+
+// Each Coin Picked Up Worth 3
+AP0T-PA7C
+
+// 1 Hit Kill Enemies
+RFEA-N6XN

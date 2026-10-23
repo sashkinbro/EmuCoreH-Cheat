@@ -1,0 +1,16 @@
+// Invincibility (Disable Hit Detection)
+R04A-A60R
+R03A-A6WN
+RYJT-C6ZY
+RYKA-C6VR
+
+// Infinite Vitality
+AL4T-AA3W
+ATLT-CA5J
+ATJT-CA7T
+
+// Keep Second Slot Weapon After The Death
+AM0A-AA2W
+
+// Invincibility - Both Players (Blinking)
+AM5A-AA3T

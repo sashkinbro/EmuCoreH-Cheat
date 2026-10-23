@@ -1,0 +1,47 @@
+// Infinite Lives
+AJCT-AA98
+
+// Infinite Energy
+AMTT-AA4R
+
+// Level Select
+AF8T-AAG0
+
+// Infinite Lives
+FFC482:0003
+
+// Infinite Energy
+FFC484:0006
+
+// Start With A Little More Energy
+BHST-AACY
+BHVT-AADL
+
+// Start With A Little More Energy
+BHST-AAAJ
+BHVT-AAA8
+
+// Start With A Lot More Energy
+DDST-AAAJ
+DDVT-AAA8
+
+// Start With Mega Energy
+9MST-AAAJ
+9MVT-AAA8
+
+// Start With A Lot More Energy
+DDST-AACY
+DDVT-AADL
+
+// Start With Mega Energy
+9MST-AACY
+9MVT-AADL
+
+// Continue With 9 Lives
+BECT-AAD6
+
+// Continue With 25 Lives
+DECT-AAD6
+
+// Infinite Continue
+ALBT-AA6N

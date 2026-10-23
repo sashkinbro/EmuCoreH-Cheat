@@ -1,0 +1,35 @@
+// Jump In Midair
+00A-98C-E69
+
+// Zone Select after Title Screen
+00D1-2C0D
+
+// Don't Die When Hit With No Rings
+1D7-B0C-912
+
+// Invincibility (after being hit)
+3A8-84C-2A2
+
+// Don't Lose Rings when Hit
+3A7-DAC-2A2
+
+// Infinite Lives
+009-30F-3BE
+
+// Infinite Time
+000-A9D-3BA
+
+// Infinite Time Underwater
+008-BAB-3BA
+
+// Start with ?? Lives, instead of 3
+042-5CD-E66
+
+// Start with some Rings most of the Time
+222-92D-2A2
+
+// Walk Through Enemies (But Not Spikes)
+007-76C-C4A
+
+// Enemies Die When They Touch You
+008-439-F76

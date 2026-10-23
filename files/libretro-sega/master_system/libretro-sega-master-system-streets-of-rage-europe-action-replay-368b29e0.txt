@@ -1,0 +1,12 @@
+// Infinite Lives P1
+00C0-1309
+
+// Infinite "S" (Police Calls) P1
+00C0-1403
+
+// Game Speed Modifier
+00C0-0B01
+
+// Infinite Time
+00C3-4909
+00C3-4A09

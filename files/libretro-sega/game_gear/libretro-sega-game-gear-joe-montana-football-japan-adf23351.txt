@@ -1,0 +1,98 @@
+// Infinite Time
+00C7-B201
+
+// 1st quarter lasts 1 min.
+01B-B4F-F7E
+
+// 1st quarter lasts 2 min.
+02B-B4F-F7E
+
+// 1st quarter lasts 6 min.
+06B-B4F-F7E
+
+// Infinite time
+001-A9F-E6E
+
+// Always 1st down
+00E-E3E-19A
+
+// Only have 1 down to get 1st down
+02E-E5E-F7E
+
+// Only have 2 downs to get 1st down
+03E-E5E-F7E
+
+// Only have 3 downs to get 1st down
+04E-E5E-F7E
+
+// Have 5 downs to get 1st down
+06E-E5E-F7E
+
+// No scoring
+001-B9B-A22
+001-CDB-3B7
+
+// 1st quarter lasts 1 min.
+01B-BAF-F7E
+
+// 1st quarter lasts 2 min.
+02B-BAF-F7E
+
+// 1st quarter lasts 6 min.
+06B-BAF-F7E
+
+// Infinite time
+001-A6F-E6E
+
+// Always 1st down
+00E-EFE-19A
+
+// Only have 1 down to get 1st down
+02E-F1E-F7E
+
+// Only have 2 downs to get 1st down
+03E-F1E-F7E
+
+// Only have 3 downs to get 1st down
+04E-F1E-F7E
+
+// Have 5 downs to get 1st down
+06E-F1E-F7E
+
+// No Scoring
+001-C8B-A22
+001-DCB-3B7
+
+// 1st Quarter Lasts 1 Minute
+01B-BAF-F7E
+
+// 1st Quarter Lasts 2 Minutes
+02B-BAF-F7E
+
+// 1st Quarter Lasts 6 Minutes
+06B-BAF-F7E
+
+// Infinite Time
+001-A6F-E6E
+
+// Always 1st Down
+00E-EFE-19A
+
+// Only Have 1 Down To Get 1st Down
+02E-F1E-F7E
+
+// Only Have 2 Downs To Get 1st Down
+03E-F1E-F7E
+
+// Only Have 3 Downs To Get 1st Down
+04E-F1E-F7E
+
+// Have 5 Downs To Get 1st Down
+06E-F1E-F7E
+
+// No Scoring
+001-C8B-A22
+001-DCB-3B7
+
+// CPU Opponent Never Scores
+00C7-9500

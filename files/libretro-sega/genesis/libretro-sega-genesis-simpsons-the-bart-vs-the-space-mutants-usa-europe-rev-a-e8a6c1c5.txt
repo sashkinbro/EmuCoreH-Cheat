@@ -1,0 +1,53 @@
+// Infinite lives
+A2RT-AA8R
+
+// Invincible against hits and time
+AJRT-AA6R
+
+// Infinite rockets after you buy one
+AAXT-BJ2E
+
+// Infinite cherry bombs after you buy one
+AAXA-BJ9G
+
+// Infinite spray paint after you get it
+FJ0A-AA6N
+
+// Start on level 2
+AJBT-AAET
+
+// Start on level 3
+ANBT-AAET
+
+// Start on level 4
+ATBT-AAET
+
+// Start on level 5
+AYBT-AAET
+
+// Invincibility (can walk thru enemies)
+A2HA-AA8T
+
+// High jump
+AATT-BV82
+
+// Can walk across wet cement in level 2
+RZCT-A6WA
+
+// If you walk off a ledge, you won't fall (Walk on air)
+B2VT-AA2R
+
+// Invincibility
+FF022A:0010
+
+// Infinite Jump
+AJVA-AA2C
+
+// Infinite Spray Spracan
+AJ0A-AA6W
+
+// Infinite Coins
+AJ8A-AA5A
+
+// Infinite Rockets
+AJXT-AA2J

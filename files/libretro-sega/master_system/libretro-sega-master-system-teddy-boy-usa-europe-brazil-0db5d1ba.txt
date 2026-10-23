@@ -1,0 +1,14 @@
+// Infinite Lives
+00C0-1B04
+
+// Invincibility
+3A6-8FF-2A2
+
+// Infinite Lives
+773-D9C-193
+
+// Infinite Time
+2A4-C3E-6E2
+
+// Infinite Lives
+B62-19C-3BE

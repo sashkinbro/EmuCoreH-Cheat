@@ -1,0 +1,29 @@
+// Enable Stage Select
+FFFFD0:0100
+
+// Enable Debug Mode
+FFFFFA:0100
+
+// Infinite Rings
+FFFE20:00C8
+
+// Infinite Lives
+FFFE12:0009
+
+// Makes Sonic Invulnerable To Enemies, Bullets, And Spikes Until He Picks Up Another Shield
+0039F0:11C1
+
+// Aerial View of A Level
+0039FC:31C1
+
+// Gives Sonic Turbo Shoes With Every TV He Breaks
+00A35E:6042
+
+// Begin With Several Hundred Rings On Each Level
+003242:6010
+
+// Begin The Game With 99 Lives
+00334A:0063
+
+// Infinite Lives
+0138A0:6032

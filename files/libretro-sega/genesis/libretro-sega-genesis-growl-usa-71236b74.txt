@@ -1,0 +1,92 @@
+// Infinite energy
+R1XA-C6W2
+
+// Infinite credits
+AVHT-AA6W
+
+// Each pistol has 0 bullets
+ABPA-GAC8
+
+// Each pistol has 2 bullets
+AKPA-GAC8
+
+// Each pistol has 4 bullets
+AVPA-GAC8
+
+// Each pistol has 8 bullets
+BBPA-GAC8
+
+// Each pistol has infinite bullets
+AW9T-AA4Y
+
+// Each AK-47 has 0 bursts
+ABPA-GADA
+
+// Each AK-47 has 2 bursts
+AKPA-GADA
+
+// Each AK-47 has 4 bursts
+AVPA-GADA
+
+// Each AK-47 has 6 bursts
+A3PA-GADA
+
+// Each AK-47 has infinite bursts
+AXAA-AA5N
+
+// Each rocket launcher has 0 rockets
+ABPA-GADC
+
+// Each rocket launcher has 2 rockets
+AKPA-GADC
+
+// Each rocket launcher has 6 rockets
+A3PA-GADC
+
+// Each rocket launcher has 8 rockets
+BBPA-GADC
+
+// Each rocket launcher has infinite rockets
+AXAT-AA3A
+
+// Each object picked up is nothing
+ACHT-B69T
+
+// Each object picked up is a knife
+AGHT-B69T
+
+// Each object picked up is an iron bar
+ALHT-B69T
+
+// Each object picked up is a sword
+ARHT-B69T
+
+// Each object picked up is a pistol
+AWHT-B69T
+
+// Each object picked up is an AK-47
+A0HT-B69T
+
+// Each object picked up is a rocket launcher
+A4HT-B69T
+
+// Each object picked up is a whip
+A8HT-B69T
+
+// Each object picked up is a grenade
+BCHT-B69T
+
+// Infinite Energy
+AXXA-CA6C
+
+// Invincibility
+ADWT-CR6T
+
+// Infinite Time At Continue
+FF0856:0009
+
+// Infinite Credits
+FF085A:0009
+
+// Highlighting Filed Option By Default (Options Menu)
+AYTT-AAEL

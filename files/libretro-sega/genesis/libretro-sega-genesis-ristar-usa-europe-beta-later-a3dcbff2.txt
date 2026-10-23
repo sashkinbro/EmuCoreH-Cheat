@@ -1,0 +1,35 @@
+// Start with ?? Lives
+AZ5T-BA86
+
+// Continue with ?? Lives
+AZFA-MA94
+
+// Start with 9 Continues, instead of 5, like the Japanese version
+9V5A-BCH8
+BF5T-AAAA
+
+// Invincibility
+RH0A-C6ZG
+
+// Infinite Health
+AJRA-JA6R
+AKPT-CA92
+AKWA-CA5E
+
+// Infinite Lives
+ALCT-AA9L
+
+// Infinite Time (Bonus Rooms)
+AX7T-AA2T
+AX7T-AA38
+
+// Infinite Continues
+AM9A-LA30
+
+// Enable Debug Invincibility
+F50A-CA34
+
+// Jump in Midair
+AB0T-CC6E
+8B0T-CCEG
+RF0T-C6YJ

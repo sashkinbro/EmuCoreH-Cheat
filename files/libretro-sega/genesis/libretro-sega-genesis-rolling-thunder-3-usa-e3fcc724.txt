@@ -1,0 +1,199 @@
+// Untouchable
+ADDA-AAB0
+
+// Don't Get Stunned When Hit
+ASEA-AAXN
+
+// No enemys on some stages
+AV6A-AAKG
+
+// Flamethrower is a bazooka
+AF3A-AAC2
+
+// Flamethrower is a laser
+AF3A-AAC6
+
+// Have alot of ammo for flamethrower
+AF3A-AACR
+
+// Infinite Lives
+AKWT-AA3Y
+
+// Start With 99 Handgun Ammo [Instead of Only 40]
+HEJT-BWMG
+
+// Start With 999 Handgun Ammo [Instead of Only 40]
+AJJT-AA5L
+
+// Infinite Energy
+ABWA-AA6T
+
+// No music
+ATCA-AADR
+
+// Different title screen
+A3KA-AARL
+
+// Infinite Energy
+HPWA-AKFT
+
+// Die With One Hit
+CFWA-AANC
+
+// Walk slow
+A22T-BARG
+
+// Walk Fast
+K22T-BARG
+
+// Ammo Increases By 1 When Using a Weapon
+EVVA-AA8E
+
+// Ammo Increases By 10 When Using A Weapon
+GVVA-AA8E
+
+// Ammo Increases By 100 When Using a Weapon
+JVVA-AA8E
+
+// Ammo Increases By 1,000 When Using A Weapon
+KVVA-AA8E
+
+// Ammo goes down to 10 when using a weapon
+HVVA-AA8E
+
+// A lot of ammo
+9VVA-AA8E
+RVVA-AA8E
+
+// Bullets go in oppisite direction
+AB4A-AAFT
+
+// Start On Level 2
+AK7T-AAE0
+
+// Start On Level 3
+AP7T-AAE0
+
+// Start On Level 4
+AV7T-AAE0
+
+// Start On Level 5
+AZ7T-AAE0
+
+// Start On Level 6
+A37T-AAE0
+
+// Start On Level 7
+A77T-AAE0
+
+// Start On Level 8
+BB7T-AAE0
+
+// Start On Level 9
+BF7T-AAE0
+
+// Start On Level 10
+BK7T-AAE0
+
+// Start On Level EX 1?
+BP7T-AAE0
+
+// Start On Level EX 2?
+BV7T-AAE0
+
+// Start On Level EX 3?
+BZ7T-AAE0
+
+// Game Ending
+B37T-AAE0
+
+// Get Hit And Gain More Life
+2VWA-AA5T
+
+// Infinite Energy
+AVWA-AA7N
+
+// Infinite Primary Weapon
+BKVA-AA4R
+
+// Infinite Secundary Weapon
+BKVA-AA2J
+
+// Once You're Hit, You'll Be Invincible For The Rest of The Level (Unless You Enter A Door)
+AVST-AA3T
+
+// Once You're Hit, You'll Be Invincible For The Rest of The Level (Even If You Enter A Door)
+AVST-AA3T
+AMDA-AA7G
+
+// Unlimited Ammo For Both Weapons
+AVVA-AAAE
+AKVA-AA4G
+
+// Infinite Health
+T7WA-AAFT
+
+// Infinite Health (Alternate)
+NFWA-AANC
+
+// Infinite Ammo
+LVVA-AA8E
+
+// Infinite Ammo (Alternate Codes)
+NVVA-AA8E
+SVVA-AA8E
+XVVA-AA8E
+ZVVA-AA8E
+2VVA-AA8E
+3VVA-AA8E
+6VVA-AA8E
+TVVA-AA8E
+VVVA-AA8E
+
+// Don't Lose Life When Hit #1
+KVWA-AA5T
+
+// Don't Lose Life When Hit #2
+LVWA-AA5T
+
+// Don't Lose Life When Hit #3
+NVWA-AA5T
+
+// Don't Lose Life When Hit #4
+RVWA-AA5T
+
+// Don't Lose Life When Hit #5
+WVWA-AA5T
+
+// Don't Lose Life When Hit #6
+YVWA-AA5T
+
+// Invincible
+FF0172:0045
+
+// Infinite Health
+FF00DA:0A0A
+
+// Infinite Pistol Ammo
+FF00DE:3939
+
+// Infinite Secondary Weapon Ammo
+FF00F6:3939
+
+// Can Select & Use Any Weapon On The Weapon Select Screen, Even If It Says Used
+ABJA-AA2R
+
+// Can Keep Firing Your Secondary Weapon Even If You Run Out Of Ammo
+AKVA-AA28
+
+// Can Shoot Over The Top Of Obstacles (crates, etc) While You Are Crouched Down Behind Them
+AK4A-AA5G
+
+// Special Weapon Modifier
+FF00F4:0000
+
+// Full Auto is always selectable
+FF00C6:0000
+
+// Have 99 Lives in Options
+FF00D2:0063

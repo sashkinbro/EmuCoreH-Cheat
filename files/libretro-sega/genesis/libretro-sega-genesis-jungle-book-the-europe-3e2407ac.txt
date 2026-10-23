@@ -1,0 +1,59 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Infinite Lives
+AJ5V-2A4L
+
+// Untouchable
+R1HV-060J
+
+// Weapon
+AJYV-2A28
+
+// Jump In Mid-Air (Multi Jumps)
+BTZB-2A5J
+
+// Jump On Any Height
+AAZB-2ACC
+
+// The game auto-completes itself, collecting all mysteries
+AJ1B-2A9E
+AJ1B-2A9R
+
+// Points auto-increases
+RHGV-06Z4
+RHGV-06ZY
+
+// Gems automatically collected
+RHHB-06XN
+RHHB-06XR
+
+// Stop the time
+N5JB-0A4C
+
+// Take objects anywhere
+AKVV-2A2A
+AKVB-2A9G
+AKVB-2A8C
+AKVB-2A7J
+
+// Enemies are automatically killed
+AKVV-2A7N
+AKVV-2A76
+AKWB-2A52
+AKVV-2A82
+AKWB-2A26
+AKWB-2A30
+
+// If you fall into the water or into the void you will not die
+AA4V-2A60
+
+// Pause the game and press B to access the debug menu
+RF5B-26TE
+AF5B-2AA2
+
+// Jump higher
+AAZB-3Z7J

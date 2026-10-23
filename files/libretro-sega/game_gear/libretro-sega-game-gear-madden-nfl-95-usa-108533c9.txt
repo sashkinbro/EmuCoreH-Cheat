@@ -1,0 +1,26 @@
+// Infinite Time
+00DD-2501
+
+// Only have 2 downs
+011-7FB-E66
+
+// Infinite downs
+001-7DB-3BA
+
+// Start on down 2
+023-9EB-E6E
+
+// Start on down 3
+033-9EB-E6E
+
+// Start on down 4
+043-9EB-E6E
+
+// Infinite play clock
+00B-287-19E
+
+// Infinite game time
+00B-6B7-19E
+
+// CPU Never Scores
+00C4-2500

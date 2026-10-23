@@ -1,0 +1,26 @@
+// Infinite Time (But Timer Still Counts Down)
+00B-3D6-3BE
+
+// Infinite Energy
+002-B1C-3B7
+
+// Infinite Lives
+00C-F2A-F79
+
+// Infinite Ammo For Grenade Launcher On Pick-Up
+008-0D7-3BE
+
+// Infinite Ammo For Flamethrower On Pick-Up
+002-6E6-19E
+
+// Infinite Ammo For Machine Gun On Pick-Up
+006-4A7-19E
+
+// Start With 5 Lives
+058-BA8-E66
+
+// Start With 7 Lives
+078-BA8-E66
+
+// Start With 9 Lives
+098-BA8-E66

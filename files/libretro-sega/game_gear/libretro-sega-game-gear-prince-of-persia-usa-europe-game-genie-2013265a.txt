@@ -1,0 +1,56 @@
+// Infinite Time
+004-03B-19E
+
+// 45-Minute Game
+2D2-08F-19A
+
+// 20-Minute Game
+142-08F-19A
+
+// 10-Minute Game
+0A2-08F-19A
+
+// *Start With More Health Units
+081-38C-E66
+
+// Don't Lose Health Units When You Drop Off Some Ledges
+001-E9E-3BE
+
+// Start On Level 2
+049-4ED-E66
+
+// Start On Level 3
+059-4ED-E66
+
+// Start On Level 4
+069-4ED-E66
+
+// Start On Level 5
+079-4ED-E66
+
+// Start On Level 6
+089-4ED-E66
+
+// Start On Level 7
+099-4ED-E66
+
+// Start On Level 8
+0A9-4ED-E66
+
+// Start On Level 9
+0B9-4ED-E66
+
+// Start On Level 10
+0C9-4ED-E66
+
+// Start On Level 11
+0D9-4ED-E66
+
+// Start On Level 12
+0E9-4ED-E66
+
+// Start On Level 13
+0F9-4ED-E66
+
+// Walk All The Way To The Left To See Ending
+109-4ED-E66

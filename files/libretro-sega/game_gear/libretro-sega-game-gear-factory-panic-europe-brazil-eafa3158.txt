@@ -1,0 +1,71 @@
+// Only 1 Person Left To Feed
+00D1-5B01
+
+// Infinite Continues
+00C3-9C0A
+
+// Infinite Health
+00C3-9603
+
+// Invulnerability
+00C8-1DFF
+
+// Invulnerability
+000-AAC-3B4
+
+// Infinite timer
+00C-12F-3BE
+
+// Start with 2 lives
+029-72F-E66
+
+// Start with 5 lives
+059-72F-E66
+
+// Start with 8 lives
+089-72F-E66
+
+// Infinite lives
+000-6AC-E65
+
+// Start with 1 continue
+029-77F-F72
+
+// Start with 3 continues
+049-77F-F72
+
+// Start with 8 continues
+099-77F-F72
+
+// Infinite continues
+006-C1F-E65
+
+// No Waiting People
+00D1-5B00
+
+// Infinite Player Rests (Lives)
+00C3-9609
+
+// Infinite Time - Hundred's Digit
+00C7-BB09
+
+// Infinite Time - Ten's Digit
+00C7-BA09
+
+// Infinite Time - One's Digit
+00C7-B909
+
+// Infinite Continues
+00C3-9C09
+
+// Invulnerability
+C9F-08B-E69
+
+// Infinite Lives
+000-6BC-3BE
+
+// Infinite Continues
+006-C2F-3BE
+
+// Feed 1 Person to Win Stage
+006-278-E69

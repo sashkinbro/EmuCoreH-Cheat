@@ -1,0 +1,27 @@
+// Balls Modifier
+FFD3B8:0000
+
+// Strikes Modifier
+FFD3BA:0000
+
+// Outs Modifier
+FFD3BC:0000
+
+// Team 1 (P1) Score Modifier
+FFD340:0063
+
+// Team 2 (Computer/P2) Score Modifier
+FFD342:0000
+
+// Region Modifier
+FFFED4:0000
+
+// Stadium Modifier
+FFFE58:0000
+
+// Innings Modifier
+FFD3BE:0000
+
+// No Strikes
+FFD3E8:0000
+FFE83A:0000

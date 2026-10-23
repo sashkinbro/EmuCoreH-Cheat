@@ -1,0 +1,22 @@
+// Sadler Max Gold
+FFF23E:270F
+
+// Sadler Max Level (99)
+FFF220:0063
+
+// Sadler 999 HP
+FFF226:03E7
+FFF228:03E7
+
+// Sadler 999 MP
+FFF22A:03E7
+FFF22C:03E7
+
+// Sadler Max Exp
+FFF222:FFFF
+
+// Sadler Max AP
+FFF22E:03E5
+
+// Sadler Max AC
+FFF236:03E6

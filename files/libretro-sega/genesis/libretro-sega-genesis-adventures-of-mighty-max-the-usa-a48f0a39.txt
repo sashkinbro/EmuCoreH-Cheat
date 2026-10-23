@@ -1,0 +1,45 @@
+// Infinite Energy
+D6ZA-AAFE
+
+// Infinite Lives
+D6ZA-AAA2
+
+// Freeze Time
+D69A-AAGE
+
+// Invincibility
+BLMA-AN48
+DBMT-AN52
+
+// Infinite Energy
+FF00FE:0000
+
+// Freeze Time
+FF0124:0099
+
+// Invincibility
+FFF3C2:0002
+
+// Infinite Lives
+FF00FA:0009
+
+// Untouchable
+RYYT-A6WE
+RYZA-A6WN
+
+// Walk thru walls
+RZWA-C6Z6
+
+// Moon jump (slow descent)
+97VA-B942
+
+// Moon jump (super slow descent)
+97VA-B940
+
+// Infinite health
+ATZA-AA7C
+ATYT-AA8R
+
+// Infinite lives
+ATZA-AA20
+ATZA-AA9L

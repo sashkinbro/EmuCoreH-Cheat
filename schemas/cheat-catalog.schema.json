@@ -3,10 +3,17 @@
   "$id": "https://raw.githubusercontent.com/sashkinbro/EmuCoreH-Cheat/main/schemas/cheat-catalog.schema.json",
   "title": "EmuCoreH cheat catalog",
   "type": "object",
-  "required": ["schemaVersion", "entries"],
+  "required": [
+    "schemaVersion",
+    "entries"
+  ],
   "properties": {
-    "schemaVersion": { "const": 1 },
-    "generatedAt": { "type": "string" },
+    "schemaVersion": {
+      "const": 1
+    },
+    "generatedAt": {
+      "type": "string"
+    },
     "entries": {
       "type": "array",
       "minItems": 1,
@@ -23,24 +30,77 @@
           "blockCount"
         ],
         "properties": {
-          "id": { "type": "string", "minLength": 1 },
-          "title": { "type": "string", "minLength": 1 },
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
           "serials": {
             "type": "array",
-            "minItems": 1,
-            "items": { "type": "string", "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,31}$" }
+            "minItems": 0,
+            "items": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,31}$"
+            }
           },
-          "crc": { "type": "string", "pattern": "^([0-9A-F]{8})?$" },
-          "authors": { "type": "array", "minItems": 1, "items": { "type": "string" } },
-          "description": { "type": "string" },
-          "downloadUrl": { "type": "string", "pattern": "^https://" },
-          "packPath": { "type": "string" },
-          "sourceUrl": { "type": "string", "pattern": "^https://" },
-          "sourceName": { "type": "string", "minLength": 1 },
-          "license": { "type": "string" },
-          "blockCount": { "type": "integer", "minimum": 1 },
-          "updatedAt": { "type": "string" },
-          "sha256": { "type": "string" }
+          "crc": {
+            "type": "string",
+            "pattern": "^([0-9A-F]{8})?$"
+          },
+          "authors": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string"
+            }
+          },
+          "description": {
+            "type": "string"
+          },
+          "downloadUrl": {
+            "type": "string",
+            "pattern": "^https://"
+          },
+          "packPath": {
+            "type": "string"
+          },
+          "sourceUrl": {
+            "type": "string",
+            "pattern": "^https://"
+          },
+          "sourceName": {
+            "type": "string",
+            "minLength": 1
+          },
+          "license": {
+            "type": "string"
+          },
+          "blockCount": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "updatedAt": {
+            "type": "string"
+          },
+          "sha256": {
+            "type": "string"
+          },
+          "platform": {
+            "type": "string",
+            "enum": [
+              "FLYCAST",
+              "GENESIS",
+              "SEGA_CD",
+              "SEGA_32X",
+              "MASTER_SYSTEM",
+              "GAME_GEAR",
+              "SG_1000"
+            ],
+            "default": "FLYCAST"
+          }
         }
       }
     }

@@ -1,0 +1,8 @@
+// Swim Through Walls
+00D7-8001
+
+// Infinite Health & Air
+00D7-8101
+
+// Swim Through Walls
+00C-7B9-D56

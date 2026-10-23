@@ -1,0 +1,21 @@
+// Infinite Time
+HT6A-BYSJ
+HT6A-BYR6
+
+// Infinite Lives
+ABPT-AAD6
+
+// Infinite Energy
+AB6T-AAHN
+
+// Invincibility (Disable Hit Detection)
+RZ4A-A6ZE
+
+// High Jump
+FF09C2:00FF
+
+// Infinite Controllable Jump + Jump In Mid Air (Multi-Jumps) 2 in 1
+ABSA-AAA2
+
+// 1 Hit Kill Enemies/Bosses
+A38A-AA3J

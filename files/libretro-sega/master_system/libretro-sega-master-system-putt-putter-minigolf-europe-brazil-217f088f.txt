@@ -1,0 +1,11 @@
+// Always On First Shot
+00D1-7601
+
+// Enable Round Select after Select Mode screen
+00D0-2001
+
+// Infinite Balls
+00D1-7863
+
+// Infinite Balls
+B63-5ED-3BE

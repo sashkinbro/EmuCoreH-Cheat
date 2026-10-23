@@ -1,0 +1,118 @@
+// Infinite Energy
+AM2A-YA2C
+
+// Infinite Lives
+AMBA-YA6A
+
+// Infinte Ammo
+FFD47C:0004
+
+// Infinte Time
+FFFC0E:0001
+
+// Go To Final Stage
+FFFC1C:0007
+
+// Start Each Life With Much More Energy
+9S2T-YAFA
+
+// Infinite Time (May Need To Switch Off)
+AMDT-YA3W
+
+// Keep Your Fish If You Die
+AMAA-YA66
+
+// Invincibility
+R11T-Y600
+
+// Enabled Cheat Code View Ending
+A37T-YA92
+
+// Enabled Cheat Code - Freeze Time
+ADDT-YA2T
+
+// Enabled Cheat Code World Selection
+AB8A-YA2T
+
+// Enabled Cheat Code Invincibility
+AD1T-YA9E
+
+// Infinite Throwing Items Jerry
+FFCE0C:0004
+
+// Tom Speed Modifier
+FFCD76:0000
+
+// Jerry Speed Modifier
+FFCE38:0000
+
+// Moonjump Tom
+FFCD74:0040
+
+// Moonjump Jerry
+FFCE36:0020
+
+// 1-Hit To Swim Anywhere Tom
+FFCD42:0020
+FFCD74:0060
+
+// 1-Hit To Swim Anywhere Jerry
+FFCE04:0020
+FFCE36:0020
+
+// Water Spitting Tom
+FFCD44:0080
+
+// Water Spitting Jerry
+FFCE06:0080
+
+// Enemies Can't Touch Tom
+FFCD46:0088
+
+// Enemies Can't Touch Jerry
+FFCE08:0088
+
+// Jump higher
+JDZA-YNHL
+
+// Infinite footballs
+RHMT-Y6X0
+
+// Infinite Continue
+FFFC26:0002
+
+// Freeze Time Continue
+AMFA-AA5W
+
+// Infinite Continue
+AMBT-AA5Y
+
+// Infinite Weapon
+AWVA-YA7N
+
+// Infinite Energy - Tom and Jerry - Frantic Antics (Japan) (En)
+AM2A-YA7C
+
+// Keep Fish/Cheese After The Death - Tom and Jerry - Frantic Antics (Japan) (En)
+AMAT-YA4A
+
+// Freeze Time Continue - Tom and Jerry - Frantic Antics (Japan) (En)
+AMFT-YA2W
+
+// Freeze Time - Tom and Jerry - Frantic Antics (Japan) (En)
+AMDT-YA8W
+
+// Enabled Cheat Code Freeze Time - Tom and Jerry - Frantic Antics (Japan) (En)
+ADDT-YA7T
+
+// Enabled Cheat Code Invincibility - Tom and Jerry - Frantic Antics (Japan) (En)
+AD2A-YA6E
+
+// Enabled Cheat Code View Ending - Tom and Jerry - Frantic Antics (Japan) (En)
+RF7T-Y612
+
+// Infinite Weapon - Tom and Jerry - Frantic Antics (Japan) (En)
+FFCD4A:0010
+
+// Infinite Weapon - Tom and Jerry - Frantic Antics (Japan) (En)
+R0VA-Y606

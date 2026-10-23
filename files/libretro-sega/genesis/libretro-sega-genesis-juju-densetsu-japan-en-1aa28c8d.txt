@@ -1,0 +1,8 @@
+// Kill Bosses in one shot
+PC4A-CEVG
+
+// Power Meter special weapon once the charge is always at maximum
+AM2T-AA56
+
+// Untouchable - You can kill enemies jumping and spitting)))the only drawback cracking sound when you touch the enemy
+R0RT-A6WL

@@ -1,0 +1,11 @@
+// Infinite Time (Seconds - Ones Digit)
+FF17CE:0009
+
+// Infinite Time (Seconds - Tens Digit)
+FF17CC:0009
+
+// Infinite Time (Minutes Digit)
+FF17CC:0009
+
+// Team 2 Score Modifier (P2/CPU)
+FF166C:0000

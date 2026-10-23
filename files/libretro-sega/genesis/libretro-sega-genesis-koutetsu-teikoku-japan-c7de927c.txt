@@ -1,0 +1,8 @@
+// Infinite Lives
+FFCB50:0009
+
+// Infinite Bombs
+FFCB56:0009
+
+// Infinite Health
+FFCB70:0005

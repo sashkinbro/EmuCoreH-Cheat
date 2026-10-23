@@ -1,0 +1,62 @@
+// Infinite Health
+00C9-C230
+
+// Infinite Time
+00CB-BF0A
+
+// Invulnerability
+00CA-144F
+
+// Invulnerability
+C92-A59-E69
+
+// Start with 5 lives
+041-42F-F72
+
+// Start with 9 lives
+081-42F-F72
+
+// Start with 11 lives
+0A1-42F-F72
+
+// Infinite lives
+002-9FF-3BE
+
+// Infinite whips
+002-839-19E
+
+// Infinite time
+00A-3EE-3BE
+
+// Infinite Lives
+00C9-8809
+
+// Infinite Health
+00C9-C251
+
+// Infinite Whips
+00C9-7409
+
+// Infinite Time (Ten's Digit)
+00CB-BE09
+
+// FAKE Infinite Time (Ten's Digit)
+00CB-A809
+
+// Invulnerability (Blinking)
+00A-07B-802
+
+// Infinite Time
+00A-35E-3BE
+
+// Infinite Health
+7E9-D49-3B7
+
+// Enable Level Skip
+00C9-4601
+
+// Infinite Time
+00A-2EE-3BC
+
+// Enable Level Skip
+18B-F6E-6EA

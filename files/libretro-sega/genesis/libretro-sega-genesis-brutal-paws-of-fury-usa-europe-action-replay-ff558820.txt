@@ -1,0 +1,8 @@
+// Enable Dali Llama
+FF02F6:4000
+
+// Infinite Health P1
+FF03A2:0060
+
+// Instant Death P2
+FF0416:0000

@@ -1,0 +1,8 @@
+// Max PW Points
+FF7BD6:0099
+
+// PW Points Refill By 9999 Instead Of 25
+XHPA-BXBA
+
+// PW Points Don't Decrease
+A2YT-CA3E

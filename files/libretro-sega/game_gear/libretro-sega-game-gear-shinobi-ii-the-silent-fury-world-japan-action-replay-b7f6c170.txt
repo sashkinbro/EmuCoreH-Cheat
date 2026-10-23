@@ -1,0 +1,39 @@
+// Infinite Lives
+00C0-4009
+
+// Infinite Hits
+00C0-2404
+
+// Eunlimite Ninjuts Points
+00C0-4109
+
+// Activate All New Ninjas
+00C0-28FF
+
+// All Crystals Collected
+00C0-27FF
+
+// Go Straight To Round 5 (Enemy Base)
+00C0-2005
+
+// Infinite Magic
+00C0-4102
+
+// Invincible With Moon Jump
+00C0-F20D
+00CF-210A
+
+// Transparent Ninja
+00CF-01FF
+
+// Invincible
+00C0-F20D
+
+// Ultimate Jump
+00CF-1504
+
+// Mega Jump
+00CF-1514
+
+// Super Jump
+00CF-1524

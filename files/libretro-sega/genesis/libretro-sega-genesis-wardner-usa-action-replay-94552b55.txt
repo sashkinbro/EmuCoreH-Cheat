@@ -1,0 +1,5 @@
+// Infinite Lives
+FF8294:0004
+
+// Max Gold
+FF82A6:9999

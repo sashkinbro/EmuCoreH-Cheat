@@ -1,0 +1,70 @@
+// Untouchable
+JB9A-AADE
+
+// No Damage from Obstacles
+R0DA-A6W2
+
+// Infinite Lives
+5MJT-AAFR
+
+// Infinite Energy
+ACDA-AACC
+
+// Fly
+FF16B2:0000
+
+// Alternative Fly
+FF0078:00FF
+
+// Pause Code Modifier
+FFEEF2:000A
+
+// Add to Pause Code Modifier Invincibility
+FFEEF0:000C
+
+// Protection From Most Damage
+A4DA-AA38
+
+// Protection From All Damage (Infinite Energy)
+A4DA-AA38
+A4DA-AA5T
+
+// Start With 10 Lives (Normal Difficulty Mode Only)
+BKGA-AAAA
+
+// Continue With 10 Lives (Normal Difficulty Mode Only)
+BKGA-AACA
+
+// Infinite Lives
+A5JT-AA7L
+
+// Infinite Energy
+FF007C:0046
+
+// Infinite Lives
+FF00DA:0009
+
+// Infinite Energy (Alt.)
+WCDA-BRMT
+
+// Fly Tap C
+ACWA-AAFW
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Invincibility
+FF16D2:0010
+
+// Invincibility against all enemies and lava. See note
+R0CT-A61L
+R08T-A6XN
+
+// Enabled Map Mode In Game Hold A + B + C And Gargoyles Move The  D-Pad
+RGPT-A608
+
+// Enabled Map Mode In Game Hold A + B + C And Gargoyles Move The D-Pad
+FF0078:0001

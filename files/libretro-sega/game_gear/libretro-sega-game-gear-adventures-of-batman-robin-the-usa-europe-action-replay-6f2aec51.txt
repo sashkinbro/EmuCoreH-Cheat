@@ -1,0 +1,5 @@
+// Infinite Lives
+00D8-0C09
+
+// Infinite Life
+00D8-0A2A

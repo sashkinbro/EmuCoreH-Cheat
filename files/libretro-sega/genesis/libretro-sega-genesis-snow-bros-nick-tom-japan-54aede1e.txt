@@ -1,0 +1,45 @@
+// Invincible Snowman
+AA8A-AR7N
+
+// Infinite Lives P1
+ATWT-CA2Y
+
+// Infinite Lives P2
+AT8A-AA2T
+
+// Infinite Lives P3
+ATWT-CA6G
+
+// Always Green Power-Up
+AA9T-AR7Y
+
+// Have All Powers
+9TDT-BGRT
+AADT-BA8W
+YTDT-BCG0
+AVCT-AA6J
+
+// Getting Hit By Snowball Gives Green Powerup
+AA8A-AR90
+AAXA-CR5W
+
+// Invincible Princess
+AAXA-CR3G
+
+// Infinite Lives
+AT7T-AA7E
+
+// Infinite Lives P1
+FF003A:0009
+
+// Floor Modifier
+FF0054:0000
+
+// Can select 9 lives in the Option menu
+BEHT-AAF8
+
+// Jump twice as high
+FBAT-AAFC
+
+// Jump 5x as high
+JBAT-AAFC

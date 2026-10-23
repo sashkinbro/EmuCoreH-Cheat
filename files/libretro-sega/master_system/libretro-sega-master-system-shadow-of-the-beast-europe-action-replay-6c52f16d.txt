@@ -1,0 +1,11 @@
+// Infinite Health
+00DA-5109
+
+// Infinite Lives
+00DA-5009
+
+// Always Have The Gun
+00DA-5401
+
+// Always Have A Strange Weapon
+00DA-5201

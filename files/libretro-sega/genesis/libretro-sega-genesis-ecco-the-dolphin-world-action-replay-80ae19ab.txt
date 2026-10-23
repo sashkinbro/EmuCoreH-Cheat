@@ -1,0 +1,8 @@
+// Infinite Health
+FFB634:0040
+
+// Infinite Air
+FFB636:0400
+
+// Air Meter Stays The Same (Official Codes)
+FFB636:0003

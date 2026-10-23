@@ -1,0 +1,11 @@
+// Timer Always "9" (Ten's Digit)
+00C1-6A09
+
+// Timer Always "9" (One's Digit)
+00C1-6909
+
+// Infinite Time
+00C1-6909
+
+// Full Revs All The Time (Takes Car To 315 km/h)
+00C3-6127

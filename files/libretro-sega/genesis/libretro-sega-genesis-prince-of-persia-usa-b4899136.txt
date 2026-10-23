@@ -1,0 +1,44 @@
+// Start With More Energy [New Game Only]
+A1ST-CAFR
+
+// Start A New Game With The Sword
+AEAA-EAEG
+
+// Start With Much More Energy [New Game Only]
+BHST-CAFR
+
+// Protection From Some Falls
+ATJA-EA5A
+
+// Protection From Falling Ceiling Pieces
+AXPA-CA2L
+
+// Protection During Sword Fights
+AT5T-AA5L
+
+// Kill Enemies With One Hit During Sword Fights
+ETXA-EA4Y
+
+// Start With More Time [New Game Only]
+55ST-CPE8
+
+// Start With Much More Time [New Game Only]
+5MST-DFY8
+
+// Infinite Time
+AT9T-AA36
+
+// Infinite Energy
+D6JA-EADC
+
+// Infinite Time
+FF0D5E:0047
+
+// Infinite Energy
+FF1EB4:0003
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T

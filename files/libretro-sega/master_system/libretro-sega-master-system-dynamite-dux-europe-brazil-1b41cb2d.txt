@@ -1,0 +1,32 @@
+// Infinite Health
+00C2-27FF
+
+// Infinite Health
+C93-F8E-3B7
+
+// Infinite Lives (Ignore Lives Display!)
+00C0-4B09
+
+// Infinite Lives
+B68-7DE-3BE
+
+// Invincibility
+00D7-0202
+
+// Invulnerability After Being Hit
+C34-97E-E61
+
+// Enable FM Audio
+00D0-0001
+
+// Invincibility
+C9D-28E-809
+
+// Infinite Health against Enemies
+7E3-F8E-3B7
+
+// Disable Health Loss from taking too much Time
+3A6-47C-2A2
+
+// Disable Health Loss from taking too much Time
+00C0-9900

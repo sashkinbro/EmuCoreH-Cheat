@@ -1,0 +1,66 @@
+// Infinite Lives
+ALKA-AA6N
+
+// Infinite Energy
+AJYA-AA64
+
+// Infinite AMMO [For All The Gun Weapons]
+ALDT-AA2R
+
+// Infinite Grenades
+ALHT-AA80
+
+// Die and go to the next stage
+AJYA-AAYY
+
+// Infinite Pistol Bullets
+FFFB70:0015
+
+// Infinite Lives
+FFFB8A:0009
+
+// Infinite Health
+FFC69E:0012
+
+// Infinite Grenades
+FFFB76:0009
+
+// Infinite Sub-Machine Gun
+FFFB74:001A
+
+// Civilians Killed Modifiers
+FFFC4E:0000
+FFFC4E:0000
+
+// Fake Infinite Health
+FFFBF6:0012
+
+// Weapon Modifier
+FFFB8C:0000
+
+// Walk thru walls
+RY5T-A6WT
+
+// Shoot thru walls
+RY0A-A6TT
+
+// Invincibility
+RGRA-A6ZN
+
+// Stay invincible (flashing) much longer after getting shot
+8CMT-AABA
+
+// Enemies die with 1 shot
+BA5T-AA28
+
+// No Enemies
+RENA-C6T6
+
+// Walk Thru Walls (Enemies Too)
+MJHT-CA72
+
+// Auto-Fire
+ACBT-AA6W
+
+// Infinite Mines
+ALJT-AA9J

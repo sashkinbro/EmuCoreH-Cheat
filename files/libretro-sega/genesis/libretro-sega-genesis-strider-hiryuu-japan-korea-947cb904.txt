@@ -1,0 +1,18 @@
+// Skip ROM Check
+AJBT-AACJ
+
+// Select Starting Stage
+AA2T-AACJ
+
+// Invincibility
+AAGT-EA7R
+
+// Infinite Lives
+AJET-EA9J
+
+// Freeze Time
+RE3T-A6YW
+
+// Infinite Health
+ALCA-AA84
+ALCA-AA8Y

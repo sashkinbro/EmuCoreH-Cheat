@@ -1,0 +1,203 @@
+// Start with 1 shield on 1st credit
+AE3A-AAEW
+
+// Start with 3 shields on 1st credit
+AN3A-AAEW
+
+// Start with 7 shields on 1st credit
+A63A-AAEW
+
+// Start with 9 shields on 1st credit
+BE3A-AAEW
+
+// Start with 1 shield instead of 5 after continue
+AE6T-AAF8
+
+// Start with 3 shields after continue
+AN6T-AAF8
+
+// Start with 7 shields after continue
+A66T-AAF8
+
+// Start with 9 shields after continue
+BE6T-AAF8
+
+// Almost infinite shields
+AJ9T-AA60
+BBAT-AA86
+
+// Super crusher lasts 30 seconds
+GBRA-AABR
+
+// Use hyper laser 9 times
+BFRA-AABC
+
+// Buster laser has 800 energy
+ABRA-ATBG
+
+// Use homing bombs 40 times
+JBRA-AABE
+
+// Start at Round 2: Milky Way
+9T3A-BGMY
+963A-AAD2
+AE3A-AAD0
+
+// Start at Round 3: Merutas
+9T3A-BGMY
+963A-AAD2
+AJ3A-AAD0
+
+// Start at Round 4: Planet Dufa
+9T3A-BGMY
+963A-AAD2
+AN3A-AAD0
+
+// Start at Round 5: Moon
+9T3A-BGMY
+963A-AAD2
+AT3A-AAD0
+
+// Start at Round 6: Planet Venus
+9T3A-BGMY
+963A-AAD2
+AY3A-AAD0
+
+// Start at Round 7: Planet Solaia
+9T3A-BGMY
+963A-AAD2
+A23A-AAD0
+
+// Start at Round 8: Planet Lisubi
+9T3A-BGMY
+963A-AAD2
+A63A-AAD0
+
+// Start at Round 9: Planet Guraivas
+9T3A-BGMY
+963A-AAD2
+BA3A-AAD0
+
+// Start at Round 10: Planet Mars
+9T3A-BGMY
+963A-AAD2
+BE3A-AAD0
+
+// Start at Round 11: Planet Mercury
+9T3A-BGMY
+963A-AAD2
+BJ3A-AAD0
+
+// Start at Round 12: Planet Aluga
+9T3A-BGMY
+963A-AAD2
+BN3A-AAD0
+
+// Start at Round 13: Planet Laia
+9T3A-BGMY
+963A-AAD2
+BT3A-AAD0
+
+// Start at Round 14: Planet Bailam
+9T3A-BGMY
+963A-AAD2
+BY3A-AAD0
+
+// Start at Round 15: Planet Daruta
+9T3A-BGMY
+963A-AAD2
+B23A-AAD0
+
+// Start at Round 16: Planet Lamusa
+9T3A-BGMY
+963A-AAD2
+B63A-AAD0
+
+// Start at Round 17: Planet Ikuru
+9T3A-BGMY
+963A-AAD2
+CA3A-AAD0
+
+// Start at Final Round: Doriasta
+9T3A-BGMY
+963A-AAD2
+CE3A-AAD0
+
+// Infinite Lives
+AT8T-AA9N
+
+// Infinite Shield
+AJ9T-AA60
+
+// Infinite Lives
+AA8T-AA1R
+
+// Level skip
+CA9T-AA2A
+
+// 1 health bar
+DA9T-AA2A
+
+// 10 health bars
+HA9T-AA2A
+
+// Untouchable
+AAWT-AABR
+
+// Enemies don't shoot at you
+ARDT-AASA
+
+// your ship is invisible
+AA9A-AAAT
+
+// one shot kill 1 row of enemies
+AAWA-AAXR
+
+// invincible
+AAWA-AA80
+
+// enemies have no animation
+A8AA-AAAE
+
+// enemies have fast animation
+A8AA-AAAJ
+
+// no background
+ATJA-AAWJ
+
+// Infinite Lives
+FF05C2:0009
+
+// Infinite Shields
+FF05C4:0009
+
+// Infinite Credits (Continues)
+FF04CA:0009
+
+// One health bar
+AA3A-AAYT
+
+// enemies are untouchable
+AAWA-AAK8
+
+// Infinite Credit
+AJ6T-AA62
+
+// Infinite Item
+AVNT-AA80
+
+// Enemies move 1 at a time
+AB7A-AAAC
+
+// Automatically complete missions
+AB7A-AABL
+
+// Invincibility against enemy shots
+L2WA-AA9A
+
+// Invincibility against enemy shots (alt)
+D29T-AA6Y
+
+// Always have Speed-Up
+RFAA-A6VW
+RFAA-A6ZT

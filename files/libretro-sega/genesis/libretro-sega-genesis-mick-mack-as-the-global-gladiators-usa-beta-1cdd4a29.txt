@@ -1,0 +1,8 @@
+// Infinite Health
+FFFEB6:000A
+
+// Infinite Health
+AWXT-2A20
+
+// Invincibility From Shots (Disable Hit Detection)
+R0TT-26TJ

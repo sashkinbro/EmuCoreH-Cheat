@@ -1,0 +1,21 @@
+// Always Move On To The Next Round No Matter How Many Fights You Lose
+FF8416:0500
+
+// Life Bar Size Modifier P1
+FF820A:0000
+
+// Character Modifier P1
+FF840A:0001
+
+// Extra Options Enabled
+HBLT-DGWR
+
+// Enable Extra Options (Scroll Past Exit on Options Screen)
+CAGA-CA9J
+
+// Unlock Dural on Fighter Select Screen (Scroll right past Jacky)
+RE2A-C6XJ
+RE2A-C6X4
+
+// Unlock Dural on Fighter Select Screen (Scroll right past Jacky)
+FF8542:FFFF

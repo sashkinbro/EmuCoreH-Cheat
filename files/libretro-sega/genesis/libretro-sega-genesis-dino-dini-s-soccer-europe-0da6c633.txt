@@ -1,0 +1,5 @@
+// P2 Score Modifier
+FF6D44:0000
+
+// P1 Score Modifier
+FF6D42:0063

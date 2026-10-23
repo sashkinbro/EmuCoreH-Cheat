@@ -1,0 +1,8 @@
+// P1 Has 99 Points
+FF61D4:0063
+
+// P2 Or Computer Has 99 Points
+FF61D4:0000
+
+// P2 Or Computer Has No Points
+FF61D6:0000

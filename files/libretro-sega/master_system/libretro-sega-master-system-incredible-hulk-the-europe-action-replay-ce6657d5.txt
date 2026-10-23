@@ -1,0 +1,5 @@
+// Infinite Lives
+00C4-0F04
+
+// Infinite Health
+00C4-1860

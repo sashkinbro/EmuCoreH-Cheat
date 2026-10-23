@@ -1,0 +1,5 @@
+// Infinite Mutant Power (Blue Bar)
+00DF-8C4B
+
+// Infinite Health
+00DF-8B79

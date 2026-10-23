@@ -1,0 +1,27 @@
+// When you fire a super shot with your pistol (hold down the shoot button for 4 seconds), it only uses 1 part of your ammo (instead of 100)
+AV1T-M96C
+
+// When you use your pistol shield (hold down the shoot button for 2 seconds), it only uses 1 part of your ammo (instead of 10)
+971A-M992
+
+// Jump twice as far (when standing still)
+KVBA-JADG
+0VCA-K92L
+
+// Jump the entire length of the screen (when standing still)
+53BA-JADG
+EKCA-K92L
+
+// Most enemies are gone, and you can walk thru/over most walls or obstacles
+ATMT-AA8Y
+
+// Jump twice as far (when standing still)
+A5AA-L4T4
+A49A-MHSN
+
+// Jump the entire length of the screen (when standing still)
+A5AA-M7T4
+A49A-LESN
+
+// Gun Never Loses Power
+FFEA90:0003

@@ -1,0 +1,26 @@
+// Infinite Time
+00CD-F4FF
+
+// Infinite Health
+00CD-DC64
+
+// Infinite Health For P1 (In Fighting Mode)
+00CD-DC38
+
+// No Health For CPU/P2 (In Fighting Mode)
+00CD-E400
+
+// Infinite Time (Ten's Digit)
+00CD-F509
+
+// Infinite Time (One's Digit)
+00CD-F409
+
+// Infinite Time
+004-79F-19E
+
+// Cheat Menu
+00CD-9E01
+
+// Cheat Menu
+08E-7FD-F76

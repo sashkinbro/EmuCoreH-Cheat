@@ -1,0 +1,75 @@
+// Infinite Lives
+00C3-1409
+
+// Invincible
+00D0-265E
+
+// Invulnerability
+004-347-7F4
+
+// Infinite Lives
+3A4-C07-2A2
+
+// Start with ?? Lives, instead of 2
+032-8DF-E62
+
+// Keep Primary Weapon Power after Dying
+3A9-947-2A2
+
+// Keep Secondary Weapon Power after Dying
+3A9-9C7-2A2
+
+// Keep Primary Weapon Power after Continuing
+3A9-D27-2A2
+
+// Keep Secondary Weapon Power after Continuing
+3A9-D57-2A2
+
+// Temporary Invincibility after Dying and at Start of Level Lasts 1.5x Longer
+B40-6A7-08B
+
+// Temporary Invincibility after Dying and at Start of Level Lasts 2x Longer
+FF0-6A7-08B
+
+// Max Primary Weapon Power
+00C3-300E
+
+// Max Secondary Weapon Power
+00C3-3105
+
+// Set Difficulty to Hidden Comfort Difficulty
+00C3-0000
+
+// Enable Debug Options
+00C3-0D01
+
+// Enable Debug Options in Main Menu
+CD8-35E-F79
+008-63E-E62
+00B-0AA-F7A
+
+// Enable Debug Options in Options Menu
+CD3-78E-F79
+005-75E-C49
+003-A8E-E62
+
+// Unlock Hidden Comfort Difficulty in Options Menu
+004-28E-7F4
+
+// Enable Debug Invincibility Cheat
+000-7B7-C46
+
+// Enable Debug Infinite Lives Cheat
+C34-A17-C41
+
+// Enable Debug Invincibility Cheat
+00C3-0301
+
+// Enable Debug Infinite Lives Cheat
+00C3-0302
+
+// Disable Debug Invincibility and Infinite Lives Cheats
+00C3-0300
+
+// Enable Debug Options
+872-D5E-B34

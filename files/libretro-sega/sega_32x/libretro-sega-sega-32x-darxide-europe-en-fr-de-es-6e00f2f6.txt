@@ -1,0 +1,5 @@
+// Disable The Region Check
+EAAT-BJST
+
+// Infinite Hull Energy
+FFF380:00FF

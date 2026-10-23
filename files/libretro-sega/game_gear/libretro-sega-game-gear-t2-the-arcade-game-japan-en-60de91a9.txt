@@ -1,0 +1,17 @@
+// Infinite Energy
+00DC-CF80
+
+// Infinite Gun
+00DC-CEA0
+
+// Infinite Missiles
+00DC-CC99
+
+// Infinite Energy
+2AD-C7F-6E2
+
+// Infinite Gun Ammo
+002-88D-E6E
+
+// Infinite Missiles
+003-26D-E6E

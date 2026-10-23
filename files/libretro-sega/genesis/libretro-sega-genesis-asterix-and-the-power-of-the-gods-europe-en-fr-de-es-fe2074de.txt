@@ -1,0 +1,55 @@
+// Infinite Lives
+AL6A-AA6R
+
+// Infinite Energy
+AKXT-AA4L
+
+// Invincibility
+AVST-AN2T
+AD4T-AN9R
+
+// Infinite Lives
+FFB02A:0003
+
+// Infinite Energy
+FFB028:0008
+
+// Invincibility
+FFBA60:0025
+00F5EE:6600
+
+// Infinite Health (Asterix)
+FFB028:0008
+
+// Infinite Lives (Asterix)
+FFB02A:0009
+
+// Character Modifier
+FFB026:0000
+
+// Collisions Modifier?
+FFB06C:0000
+
+// Controllable Jump
+ABVT-BACJ
+
+// Invincibility
+RZXT-A6VA
+RZXT-A6Y8
+
+// Infinite Earthquake (Asterix & Obelix)
+AKXA-AA74
+
+// 1 Hit Kill Enemies And Open Chest
+ALCA-AA9N
+
+// Keep Earthquake After The Death
+AKXT-AA7C
+AKSA-AA6N
+
+// Enabled Open Secret In Game
+FFB186:00FF
+
+// Enabled Open Secret In Game
+ALJT-AA2J
+ALJA-AA9Y

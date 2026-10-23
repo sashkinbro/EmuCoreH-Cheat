@@ -1,0 +1,23 @@
+// Invulnerability
+00CA-80E6
+
+// Invulnerability
+C95-5FD-E69
+
+// Infinite Time
+00CA-DF99
+
+// Infinite Time
+2AB-D94-6E2
+
+// Infinite Health
+00CA-9203
+
+// Infinite Health
+000-E4D-19E
+
+// Infinite Lives
+00CA-9109
+
+// Infinite Lives
+003-FCF-E6E

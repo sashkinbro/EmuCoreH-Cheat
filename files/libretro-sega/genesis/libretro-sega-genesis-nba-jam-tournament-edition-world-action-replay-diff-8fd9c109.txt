@@ -1,0 +1,14 @@
+// Start With 8 Points And Go Up By Tens Everytime You Score
+FF1E42:0008
+
+// Infinite Fire - Left Player
+FF3C48:0003
+
+// Infinite Fire - Right Player
+FF3D68:0003
+
+// Player 1 Always On Fire
+FF3C4A:0001
+
+// Infinite Time (Micro-Seconds)
+FF1F16:0009

@@ -1,0 +1,8 @@
+// Infinite Lives
+FF1508:0009
+
+// Infinite Time
+FF1516:0000
+
+// Always Have 9 Lives
+FF1508:0009

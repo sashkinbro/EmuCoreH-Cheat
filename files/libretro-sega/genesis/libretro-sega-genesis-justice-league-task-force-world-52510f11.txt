@@ -1,0 +1,338 @@
+// First Hit Wins
+ANMA-A2R2
+
+// Infinite Health [Player 1]
+ATMA-AAGT
+
+// Different Color #2
+GBEA-AWT8
+
+// Different Color #1
+GBEA-AWD8
+
+// Always Draw
+AA7A-ADFT
+
+// CPU Don't Have No Animation
+2NNA-A5TW
+
+// Die and Float Away
+DGWA-AESR
+
+// Die and hit the ground hard
+XGWA-AX12
+
+// Player 1 is at the background
+AAKA-AAAE
+
+// Player 1 is invisible
+HAKA-AAA2
+
+// Both characters take less damage
+GTMA-AA08
+
+// Infinite Health for Player 1
+GTMA-AA0R
+
+// First Hit Wins
+GTMA-AA02
+
+// Fight the dark clones
+FTMA-AAB2
+
+// Player 1 have Infinite Health and hit CPU one time
+FTMA-AAP2
+
+// Both Characters have Infinite Health
+FTMA-AAR2
+
+// Opponents usually hit themselves
+KTGA-BGGN
+
+// CPU does not fight back
+ATVA-BALE
+
+// Always a draw
+TJSA-AEL4
+
+// Both character take less damage
+HAMA-AAG6
+
+// You always win
+ENSA-ASEG
+
+// Color change
+FEPA-AAZ4
+
+// Hear two different songs at the same time
+AA8A-AALY
+
+// Time runs out faster
+AA7A-AAX8
+
+// Unlimited time
+BA7A-AAX8
+
+// Play as Cheetah in Hero Mode
+AAJA-AADR
+
+// Earthquake mode
+JJRA-AX90
+
+// Game is always paused
+MEGA-AS4R
+
+// Super Moves are easier to do
+RTWA-AAWA
+
+// player 1 can teleport fast
+FTJA-AA84
+FTJA-AAR2
+
+// Superman freeze breath only stun players
+AA4T-CAB6
+
+// player 2 has no animation
+ANVA-AAAC
+
+// CPU always get dizzy from any attack
+AATT-BA5N
+
+// players can pass through each other
+AJ8T-CAEA
+
+// Developed for use only with pal and french secam mega drive systems.
+ATBT-BACC
+
+// players can pass through each other
+ATKA-AA3R
+
+// characters float higher when winning or losing
+AGWA-AAST
+
+// characters dont float when winning or losing
+AGWA-AAS2
+
+// characters dont have no animation pose when winning or losing
+AGWA-AATA
+
+// characters never pose or win a round
+AGWA-AATJ
+
+// characters keep bouncing off the ground when winning or losing
+AGWA-AATN
+
+// slow intro
+A7EA-AAAE
+
+// time run out faster
+A67A-AAD6
+
+// infinite time
+A67A-AAD8
+
+// fast intros
+AN9T-BAEJ
+
+// invincible to regular attacks
+ATGA-BA0N
+
+// P2 is orange
+ATTA-AA26
+
+// Both players can't do there super moves when the player is dizzy
+ATSA-AAJ8
+
+// both players can grab from anywhere
+ATSA-AAJC
+
+// Player 2 can't use super moves
+AEWA-AAPL
+
+// Player 2 can't jump
+AALA-AAC4
+
+// both players invincible to projectiles
+AN6T-CCC0
+
+// players can stay dizzy for a long time
+AGTA-AAFG
+
+// Cpu super moves doesn't do anything
+ATMA-AAA4
+
+// CPU doesn't fight back
+ATGA-BALA
+
+// all characters turns in to wonder woman
+ATJA-BAS4
+
+// flash tornado spin last longer
+ATKA-BA98
+
+// the camera always move to the right side of the screen
+ATZA-BAZW
+
+// Cpu is stuck
+ATXA-BACC
+
+// all projectile sound like darkseid beam
+ATWA-BA2W
+
+// tap any button or direction button for projectiles
+ATWA-BA3N
+
+// both opponents keep moving when winning
+ATWA-BA02
+
+// both opponents keep posing fast when winning
+ATWA-BA1R
+
+// no grabbing
+ATSA-BAAE
+
+// CPU Does Not Fight Back
+ATVA-AW4E
+
+// Super Moves Are Easy To Do Now
+RTWA-AAWG
+
+// Infinite Time
+FF1958:0063
+
+// Infinite Energy P1
+FF119C:0080
+FF11A0:0080
+
+// Infinite Energy P2
+FF13FA:0080
+FF13FE:0080
+
+// No Energy P1
+FF119C:0000
+FF11A0:0000
+
+// No Energy P2
+FF13FA:0000
+FF13FE:0000
+
+// players can do the flash super move many times when the opponent is dizzy
+A85A-AAAJ
+
+// flash tornado spin last forever
+A82A-AAZN
+
+// instantly die from throws or dizzy moves
+AWVA-AA96
+
+// Player 1 Can't be stun by regular attacks
+AATT-BAZJ
+
+// cpu can't get dizzy
+AATT-BALC
+
+// Able to Select All Characters in Hero Mode
+ALHT-CR34
+BCHT-CR8T
+
+// both players can't move
+ATGT-BAAL
+
+// player 1 control changed like batman
+ATJT-BA88
+ATJT-BA86
+
+// player 1 control changed like the flash
+BTJT-BA88
+ATJT-BA86
+
+// player 1 control changed like despero
+CTJT-BA88
+ATJT-BA86
+
+// player 1 control changed like darkseid
+DTJT-BA88
+ATJT-BA86
+
+// The Flash Tornado spin can't hit players
+R82T-B8AC
+
+// The Flash Tornado spin can hit players from anywhere
+R82T-B8AN
+
+// The Flash Tornado spin makes players dizzy when hit
+R82T-B8A6
+
+// The Flash keeps doing his tornado spin
+R82T-B8DJ
+
+// The Flash Tornado spin last forever
+R82T-B8DY
+
+// the D-pad is reversed
+ATRT-BA38
+
+// no health,timer,picture on top of the gameplay screen
+AJ5A-BA0C
+AJ5A-BA0G
+
+// both players has turbo controller and can't be pushed back when being punched can't jump high
+A2TT-AA52
+
+// Player 1 can't attack
+A2TT-AA58
+
+// CPU can't move or push back when attacked
+A2XT-AA2W
+
+// Slow gameplay
+A27T-AAS2
+
+// Cpu doesn't get dizzy
+AATT-AAWE
+
+// player 1 doesn't get dizzy
+AATT-AAVW
+
+// both players move fast
+ATMT-AASN
+
+// both players take less damage
+ATMT-AAAA
+
+// cpu can't jump
+ATKT-AA08
+
+// player 1 is orange
+ATST-AA1N
+
+// can't be frozen
+ATST-AA24
+
+// CPU Don't Have No Animation
+AAVA-AAAC
+
+// both players heavy attack skip animation frames
+AJ8A-BADA
+
+// both players can make the game go dark when defeated
+AJ8A-BAD6
+
+// cpu invincible to regular attacks
+AAGA-AA0A
+
+// Cpu can't jump very high,both players can't do there dizzy moves,cpu recovers from fall
+AAGA-AF1L
+
+// cpu can't throw projectiles or perform there moves
+AAMA-AR3L
+
+// untouchble,cpu can't perform moves
+AAMA-AR3L
+ATGA-BA0N
+
+// Infinite Continue
+AXGT-CA54
+
+// Freeze Time Continue
+AXGA-CA7C

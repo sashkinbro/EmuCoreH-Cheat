@@ -1,0 +1,47 @@
+// Infinite Health For Donald
+AVTT-TA88
+
+// Infinite Hits
+FF8F96:0008
+
+// Infinite Lives
+FF8F98:0009
+
+// Level Modifier
+FF8F34:0000
+
+// Infinite Health For Donald
+FF8F96:0008
+
+// Start With Seven Lives
+A7JA-AABG
+
+// Start With Nine Lives
+BFJA-AABG
+
+// Infinite Lives
+AVEA-AA28
+
+// Invulnerable To Enemy Attack
+BVSA-AA2T
+
+// Donald Doesn't Calm Down Until The End of A Level When He Loses His Temper (Or Until You Turn Off The Action Replay)
+AKST-AA88
+
+// Donald Loses His Temper After Only One Chili Pepper
+AF8T-AAAR
+
+// Begin The Game With About 15 Units of Popcorn
+2KJA-BCK6
+
+// Once Your Grab Popcorn, It Never Decreases
+AKJT-AA2J
+
+// Mickey Only Takes One Damage Point Per Section
+R05T-A6YY
+
+// Infinite Health
+FFF322:0200
+
+// Infinite Apples
+FFF320:0063

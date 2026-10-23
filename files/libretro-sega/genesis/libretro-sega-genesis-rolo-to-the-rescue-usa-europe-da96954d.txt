@@ -1,0 +1,83 @@
+// Infinite Lives
+AV6A-AA3Y
+
+// Invincibility
+ACLT-AR7J
+
+// Always Shield Effect
+FFC512:00FF
+
+// Always Fly
+FFC512:00FF
+
+// Always Small
+FFC520:00FF
+
+// Rescue Only One Friend To Finish Stage
+FFC556:0001
+
+// Start With 2 Chances
+AFVT-AACT
+
+// Start With 10 Chances
+BFVT-AACT
+
+// Start With 26 Chances
+DFVT-AACT
+
+// Start With 51 Chances
+GKVT-AACT
+
+// Start With 100 Chances
+NPVT-AACT
+
+// Unlimited Chances
+AK6A-AA3Y
+
+// Weaker Jump
+AB6T-BAHN
+
+// Stronger Jump
+AB6T-AA1N
+
+// Super Jump
+AB6T-AA9N
+
+// Invincibility
+ACLA-AAGJ
+
+// Lemonade Glass Worth 8 Shots
+HGNA-BAXY
+
+// Lemonade Glass Provides Unlimited Shots
+DB8A-AA2G
+
+// Golden Box Worth No Chances
+ACNT-BA98
+
+// Golden Box Worth 5 Chances
+A0NT-BA98
+
+// Golden Box Worth 10 Chances
+BLNT-BA98
+
+// See Whole Map
+HGSA-BAYT
+
+// Open A Cage Without A Key
+RGYA-A616
+
+// Jump in mid-air (multi-jump) and infinite jump
+CB6T-AA9W
+
+// Invincible
+FFC50A:0004
+
+// Activate Trunk Suction
+FFC51C:0001
+
+// Have Key
+FFC550:00FF
+
+// Super Jump Midair
+FF9A08:0001

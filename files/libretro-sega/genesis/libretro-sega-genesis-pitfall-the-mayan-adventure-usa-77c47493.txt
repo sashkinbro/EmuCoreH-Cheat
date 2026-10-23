@@ -1,0 +1,208 @@
+// Infinite rocks
+AC3B-CAG8
+
+// Start with 50 rocks
+GJ5V-GAHN
+
+// Start with 25 rocks
+DE5V-GAHN
+
+// Start with 0 rocks
+AA5V-GAHN
+
+// Infinite bombs
+AC3B-CAH2
+
+// Start with 50 bombs
+GJ5V-GAHY
+
+// Start with 25 bombs
+DE5V-GAHY
+
+// Start with 0 bombs
+AA5V-GAHY
+
+// Infinite boomerangs
+AC3V-CADG
+
+// Start with 50 boomerangs
+GJ5V-GAH6
+
+// Start with 25 boomerangs
+DE5V-GAH6
+
+// Start with 0 boomerangs
+AA5V-GAH6
+
+// Each rock bag holds 5 rocks
+A07V-CAGL
+
+// Don't get boomerangs back when you catch them
+ADDV-EACG
+
+// Almost infinite energy
+ABCV-CABG
+
+// Flash longer after getting hit
+97CV-CABL
+
+// Don't flash after getting hit
+AVCV-CABL
+
+// 1 hit and you're invisible (switch off to become visible)
+AB0V-GABE
+
+// Almost invincible
+AB0V-GAA6
+
+// Start with a lot more time
+GCPV-GAGA
+
+// Start with 5 lives
+AWPV-GAG2
+
+// Start with mega lives
+PWPV-GAG2
+
+// Start with mega points
+ACPV-GWF2
+
+// Don't lose points from barrels
+ACYB-GAFY
+ACWV-GAEC
+
+// Infinite Lives
+AW2B-CA8G
+
+// Invincibility
+AB0V-GN26
+
+// Always Play Classic Pitfall
+HBAB-GA5N
+
+// Press Down at the title screen to play the 2600 version of Pitfall.
+8FAV-HAHE
+
+// Press C At The Title Screen To Play The 2600 Version Of Pitfall
+8FAV-GJHE
+
+// Press B At The Title Screen For Level Select
+ABBB-HP2L
+
+// Jump Much Higher When Standing Still
+835V-D97C
+
+// Walk thru walls (2600 version).
+R02B-G6W8
+
+// Infinite time (2600 version).
+AWSV-GA74
+
+// Infinite lives (2600 version).
+AWSV-GA4R
+
+// Infinite Pouches
+FF3EC6:0099
+
+// Infinite Lives
+FF3EC4:0009
+
+// Infinite Health
+FF3ED8:00FF
+
+// Infinite Boomerangs
+FF3EC6:0009
+
+// Infinite Explosive Objects
+FF3EC8:0009
+
+// Modify Text Level Button Cheat
+FF3ED2:0000
+
+// Hyper Harry
+FF34E8:0006
+
+// Enemies Can't Touch You
+FF3ECC:003C
+
+// Press Start For Frame By Frame
+FF3EE6:00FF
+
+// Hyper Mode (Game)
+FF3EEC:0001
+
+// Press Down To Play Classic Pitfall Game
+FF5878:00FF
+
+// Press B For Lever Game
+FF58A0:0007
+
+// Press A For Level Select (Use Up And Down To Select)
+FF58AA:0014
+
+// Press Down For Unlimited Continues
+FF58B4:001E
+
+// Press A For Max Weapon Ammo
+FF58BE:0026
+
+// Press Down For 9 Lives
+FF58C8:0030
+
+// Press Down For Super Speed Harry
+FF58D2:0038
+
+// Press Down To Display Credits
+FF58E6:004E
+
+// Infinite Health Or Score? (Classic Pitfall Game)
+FF3B0E:07D0
+
+// Infinite Lives (Classic Pitfall Game)
+FF3824:0002
+
+// Timer Stopped (Classic Pitfall Game)
+FF3824:0000
+
+// Area Modifier (Classic Pitfall Game)
+FF354A:0000
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Invincibility
+FF3ECC:0010
+
+// Untouchable
+RZBV-C6TJ
+
+// Infinite Continue
+AKMB-CA7N
+AL1B-CA2J
+
+// Infinite Weapons
+AW3B-CA84
+AW3V-CA5C
+AXDV-EA4C
+AW3B-CA9Y
+
+// Infinite Jump
+AK7B-CA2A
+AK9B-CA6G
+
+// Run Much Faster
+ALLV-CA32
+ALHV-CA6J
+
+// Don't Fall Into Quicksand
+AAXV-EA52
+
+// Don't Fall When You Walk Off Ledges (Walk On Air)
+AJ2B-CA4T
+
+// Don't Fall Into Tar Pits
+AA3V-CA5G
+AJ2B-CA4T

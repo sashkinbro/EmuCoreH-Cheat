@@ -1,0 +1,5 @@
+// Max Money
+FFFE66:270F
+
+// All Animals Set 2
+FFFE70:EFFF

@@ -1,0 +1,3 @@
+// Gives Michael Increased Dance Ability
+005F1E:31FC
+005F20:0040

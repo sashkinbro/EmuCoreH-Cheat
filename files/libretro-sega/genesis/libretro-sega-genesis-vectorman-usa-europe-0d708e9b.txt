@@ -1,0 +1,270 @@
+// Always Get Real Ending, Even If You Used the Cheat Menu
+FFE8B6:0000
+
+// Always Get the 'Now Play Without Cheating' Ending
+FFE8B6:00FF
+
+// Collect 1 Bolt For Maximum Bolts
+RGSA-A6VT
+
+// Infinite Rocket-boost jumps
+AXKT-AA8C
+
+// Weapons don't run out
+R0RA-N60Y
+
+// All health power ups max out health
+RGNA-A61L
+
+// Invincible
+AL8A-AA72
+
+// Timer counts down half as fast
+R8PT-AAB8
+
+// Infinite time
+F4PT-AA3T
+
+// Infinite lives
+C49T-AA28
+
+// Multiplier goes to 2 after multiplier power-up runs out
+ALRA-NADA
+
+// Multiplier goes to 3 after multiplier power-up runs out
+ARRA-NADA
+
+// Multiplier goes to 5 after multiplier power-up runs out
+L0RA-NADA
+
+// Multiplier goes to 10 after multiplier power-up runs out
+ABLA-NADA
+
+// Multipliers don't run out with time
+ALRA-NA4Y
+
+// Start on metalhead level
+AGMT-AACE
+
+// Start on tidal surge level
+ALMT-AACE
+
+// Start on absolute zero level
+ARMT-AACE
+
+// Start on arctic ridge level
+AWMT-AACE
+
+// Start on bamboo mill level
+A0MT-AACE
+
+// Start on rock 'n' roller level
+A4MT-AACE
+
+// Start on death ally level
+A8MT-AACE
+
+// Start on hydroponic lab level
+BCMT-AACE
+
+// Start on superstructure level
+BGMT-AACE
+
+// Start on stayin' alive level
+BLMT-AACE
+
+// Start on nightscape level
+BRMT-AACE
+
+// Start on dark ruins level
+BWMT-AACE
+
+// Start on underground vault level
+B0MT-AACE
+
+// Start on worldlink center level
+B4MT-AACE
+
+// Start on twist and shout level
+B8MT-AACE
+
+// Start on bonus level
+CCMT-AACE
+
+// Start with 6 health balls
+A4MT-AAF6
+
+// Start with 7 health balls
+A8MT-AAF6
+
+// Start with 8 health balls
+BCMT-AAF6
+
+// Start with 9 health balls
+BGMT-AAF6
+
+// Start with 10 health balls
+BLMT-AAF6
+
+// Start with 1 life
+AGMT-AAFY
+
+// Start with 2 lives
+ALMT-AAFY
+
+// Start with 5 lives
+A0MT-AAFY
+
+// Start with 10 lives
+BLMT-AAFY
+
+// Start with 25 lives
+DGMT-AAFY
+
+// Start with 50 lives
+GLMT-AAFY
+
+// Start with 99 lives
+NRMT-AAFY
+
+// Always Get Real Ending, Even If You Used the Cheat Menu
+ALZA-AA3R
+ALTA-CA5T
+
+// Infinite Lives
+AC9T-AABA
+
+// Infinite Time
+ALPT-AA4C
+
+// Hit Anywhere
+RERA-N6XN
+EJST-NA8N
+RH9T-J60G
+
+// Multiplier Goes To 5 After Multiplier Power-Up Runs Out
+A0RA-NADA
+
+// Invincible ON
+FFE32A:0002
+
+// Invincible OFF
+FFE32A:0000
+
+// Infinite Energy
+FFE878:000B
+
+// Max Energy
+FFE87A:000A
+
+// Infinite Lives
+FFE97C:0009
+
+// Infinite Time
+FFE890:003B
+
+// Weapon Icon Modifier
+FFE884:0000
+
+// Weapon Modifier
+FFE390:0000
+
+// Timer Starts At 99 Minutes
+FFE890:0063
+
+// Start With Health At 10
+FF001E:000A
+
+// Start With 99 Lives
+FF0020:0063
+
+// Start On Stage Modifier
+FF0020:0000
+
+// Hyper Vectorman
+FFE37C:0000
+
+// Hyper/Scrambled Vectorman
+FFE380:0009
+
+// Invincible Vectorman
+FFE46C:001F
+
+// Infinite Ammo (All Weapons)
+FFE886:0078
+
+// Shadow Vectorman
+FFC11E:0000
+FFC11E:0000
+FFC120:0000
+FFC120:0000
+FFC122:0000
+FFC122:0000
+FFC124:0000
+FFC124:0000
+FFC126:0000
+FFC126:0000
+FFC128:0000
+FFC128:0000
+
+// Coordinates Display Modifier
+FFF658:0001
+
+// Infinite Rocket Thrusts
+FFE38C:0000
+
+// Rapid Fire (All Weapons)
+FFE390:00FF
+
+// Fire Ant Red Vectorman
+FFC11E:0000
+FFC11E:002E
+FFC120:0000
+FFC120:000C
+FFC122:0000
+FFC122:000C
+FFC124:0000
+FFC124:000A
+FFC126:0000
+FFC126:0008
+FFC128:0000
+FFC128:0004
+
+// Inf Health (Game Genie)
+R08A-A6YL
+
+// Invincibility
+MC8A-AN5J
+
+// Invincibility Go Through Enemies
+R14T-G6T4
+
+// Rapid Fire (All Weapons)
+AL4A-AA8G
+
+// 1 Shot Kill Some Enemies
+A29A-LA8R
+
+// Press A in the Option menu to go to the Debug screen
+ACZT-AAB6
+
+// Enables all cheats
+RGXT-A6ZL
+
+// Infinite Power Of Weapon
+ALRA-NA8Y
+
+// Press A in the Options Menu for Debug Menu
+FFE8A8:0008
+
+// Pause the game and press B for Free Movement
+FFE8A8:0007
+
+// Pause the game and Press B for Vectorman's Hitbox Display
+FFE8AE:0005
+
+// Invincibility
+RH4T-G6VA
+RG8A-A6V8
+LXDA-AA8A
+SC6T-AA2C

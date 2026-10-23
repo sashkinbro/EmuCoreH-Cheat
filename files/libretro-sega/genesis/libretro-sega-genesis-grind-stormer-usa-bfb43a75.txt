@@ -1,0 +1,48 @@
+// Infinite Lives
+ADAA-AACR
+
+// Infinite Bombs
+AC2A-AAH4
+
+// Invincibility
+R1LA-A6Z4
+
+// Enable Debug Mode Settings In The Training Selection In Options
+RE3A-A60N
+AE3A-A2GW
+AT3A-AAGY
+AJ3A-A480
+JE3A-AE02
+
+// Enable Free play Credit Limit Option
+AA2T-AAHW
+AA2T-AAGY
+
+// Hit Anywhere
+RHGT-A60W
+BXGT-AA9E
+RHJT-A6VG
+
+// One Hit Kill
+RHHA-A6VT
+
+// Free play Credit
+AYYA-AAJT
+
+// Infinite Bombs
+AL2A-AA92
+
+// Infinite Lives
+SDAA-BCWN
+
+// Infinite Ships
+FFD944:0009
+
+// Infinite &quot;B&quot; (Explosive Blasts)
+FFD946:0006
+
+// Infinite Credits
+ALHT-AA5W
+
+// Freeze Time Continue
+ALHT-AA3E

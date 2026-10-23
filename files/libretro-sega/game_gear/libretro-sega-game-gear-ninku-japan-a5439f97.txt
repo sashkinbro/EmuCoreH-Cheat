@@ -1,0 +1,14 @@
+// 99 Meat
+00C0-2799
+
+// Infinite Health (In Fighting Portion of Game - Top Red Bar)
+00CF-0560
+
+// 1-Hit Death For Enemies (In Fighting Portion of Game - Bottom Red Bar)
+00D0-0500
+
+// High Health For Enemies (In Fighting Portion of Game - Bottom Red Bar)
+00D0-0555
+
+// Advanced Options Menu
+095-20B-F7A

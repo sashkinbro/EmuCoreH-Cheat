@@ -1,0 +1,24 @@
+// Collect 1 Gun Power-Up & Get Max
+00F-5FF-E69
+04F-5EF-C43
+3EF-5DF-082
+
+// Collect 1 Thrust For Maximum Speed
+00F-74F-E69
+03F-73F-C4F
+3EF-72F-082
+
+// Keep Power-Ups After Dying
+00F-E1E-19E
+
+// Infinite Lives
+00F-F2E-19E
+
+// Start With 1 Life
+014-43F-E66
+
+// Start With 5 Lives
+054-43F-E66
+
+// Start With 7 Lives
+074-43F-E66

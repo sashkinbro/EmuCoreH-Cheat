@@ -1,0 +1,36 @@
+// Infinite Lives Player 1
+2AA-6CF-6EE
+
+// Infinite Lives Player 2
+2AA-AFF-6EE
+
+// Start with ?? Lives both players
+006-96F-E66
+
+// Infinite Bombs player 1
+004-8BE-3BE
+
+// Infinite Bombs player 2
+007-3EE-3BE
+
+// Start with ?? bombs player 1
+00A-DCE-F7E
+
+// Start with ?? bombs player 2
+00B-30E-F7E
+
+// Start at Level ?
+020-87F-E6E
+028-F1F-E6E
+
+// Infinite Arrows
+00C1-2109
+
+// Infinite Lives
+00C1-1F02
+
+// Invincibility - Both Players
+5E7-03D-2A7
+
+// P1 Invincibility
+00C4-0001

@@ -1,0 +1,23 @@
+// Infinite Superpunches
+21C-04C-2A2
+
+// Both Boxers Start With 3/4 Energy
+602-CEE-E68
+
+// Both Boxers Start With 1/2 Energy
+402-CEE-E68
+
+// Both Boxers Start With 1/4 Energy
+202-CEE-E68
+
+// Infinite Ring Timer
+000-BED-19E
+
+// 2-Minute Rounds
+02F-59E-E66
+
+// 4-Minute Rounds
+04F-59E-E66
+
+// 6-Minute Rounds
+06F-59E-E66

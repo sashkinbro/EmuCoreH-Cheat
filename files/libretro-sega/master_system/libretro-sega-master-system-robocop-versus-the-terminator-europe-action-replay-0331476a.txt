@@ -1,0 +1,11 @@
+// Infinite Lives
+00D0-5B09
+
+// Infinite Health
+00D0-6920
+
+// Invincibility
+00CC-74FF
+
+// Rapid Fire Weapons
+00CC-6300

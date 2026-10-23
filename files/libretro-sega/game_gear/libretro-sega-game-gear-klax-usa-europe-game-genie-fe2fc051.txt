@@ -1,0 +1,14 @@
+// Unlimited Dropped Tiles
+003-28C-19A
+
+// Start On Wave 25, 30 Or 35
+197-3CD-E6E
+
+// Start On Wave 50, 55 Or 60
+327-3CD-E6E
+
+// Start On Wave 99 (Don't Choose 104 Or 109)
+637-3CD-E6E
+
+// Randomizes Goal For Completing Each Wave
+008-72D-193

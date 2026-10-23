@@ -1,0 +1,347 @@
+// Infinite Lightnings
+FF00E6:000A
+
+// Infinite Homing Missiles
+FF00E4:000A
+
+// Infinite 3-way missiles
+FF00E2:000A
+
+// Infinite Shields
+FF00E8:000A
+
+// Rapid, more powerful gunfire
+FF00DE:0001
+FF00DC:0002
+
+// Protection from most hazards (Not in top view mode)
+BVLT-JA5Y
+
+// Medium Falls Don't Hurt
+D5VA-GA90
+
+// Start with 1 life
+ACBA-GAB2
+
+// Start with 2 lives
+AGBA-GAB2
+
+// Start with 5 lives
+AWBA-GAB2
+
+// Start with 10 lives
+BGBA-GAB2
+
+// Start with 20 lives
+CRBA-GAB2
+
+// Infinite lives (Not in top view mode)
+SCBT-GA5E
+
+// Jump about 6x normal height in vehicle
+8H5A-H98G
+
+// Jump about 3x normal height in vehicle
+815A-H98G
+
+// Jump about 2x normal height in vehicle
+895A-H98G
+
+// Jump about 1-1/2x normal height in vehicle
+9D5A-H98G
+
+// Jump about 3/4x normal height in vehicle
+9M5A-H98G
+
+// Jump about 1/2x normal height in vehicle
+9S5A-H98G
+
+// Jump about 2x normal height when walking and don't take damage from medium falls
+9D5T-H99C
+D5VA-GA90
+
+// Jump about 1-1/2x normal height when walking and don't take damage from medium falls
+9H5T-H99C
+D5VA-GA90
+
+// Jump about 3/4x normal height when walking
+9S5T-H99C
+
+// Jump about 1/2x normal height when walking
+9X5T-H99C
+
+// Infinite 3-way fire
+B5ZT-GA9J
+
+// Infinite hyper missiles
+CD0T-GA94
+BD0T-GA62
+
+// Infinite 8-way lightnings
+CD1A-GA86
+
+// Infinite shields
+B4FT-GA3G
+
+// Weapon icon adds 0 more to amt. you have
+ABMT-JAHR
+
+// Weapon icon adds 1 more to amt. you have
+AFMT-JAHR
+
+// Weapon icon adds 3 more to amt. you have
+APMT-JAHR
+
+// Weapon icon adds 10 more to amt. you have
+BKMT-JAHR
+
+// Weapon icon adds 20 more to amt. you have
+CVMT-JAHR
+
+// Weapon icon adds 50 more to amt. you have
+GKMT-JAHR
+
+// Weapon icon adds 99 more to amt. you have
+NPMT-JAHR
+
+// Heart icon adds 0 points to energy bar
+ABMA-JACW
+
+// Heart icon adds 1 point to energy bar
+AFMA-JACW
+
+// Heart icon adds 2 points to energy bar
+AKMA-JACW
+
+// Heart icon adds 4 points to energy bar
+AVMA-JACW
+
+// Heart icon adds 5 points to energy bar
+AZMA-JACW
+
+// Heart icon adds 6 points to energy bar
+A3MA-JACW
+
+// Heart icon adds 7 points to energy bar
+A7MA-JACW
+
+// Heart icon adds 8 points to energy bar
+BBMA-JACW
+
+// Heart icon adds 9 points to energy bar
+BFMA-JACW
+
+// Heart icon adds 10 points to energy bar
+BKMA-JACW
+
+// Heart icon adds 11 points to energy bar
+BPMA-JACW
+
+// Heart icon adds 12 points to energy bar
+BVMA-JACW
+
+// Shields last 10x normal time
+VCFT-HGCG
+
+// Shields last 5x normal time
+2WFT-GWCG
+
+// Shields last 3x normal time
+5WFT-GLCG
+
+// Shields last 2x normal time
+7CFT-GGCG
+
+// Shields last 1/2x normal time
+9LFT-GACG
+
+// Shields last 1/3x normal time
+Y8FT-GACG
+
+// Shields last 1/5x normal time
+NWFT-GACG
+
+// Shields last 1/10x normal time
+GLFT-GACG
+
+// Infinite continue credits
+A3FT-AA82
+
+// Infinite time to decide whether to use a continue credit
+A3GA-AA5L
+
+// Infinite Energy
+A3LT-JA5Y
+
+// Infinite Lives
+A4BT-GA5E
+
+// Invincibility
+C4CT-GN7Y
+
+// Infinite Health
+FF00B4:000C
+
+// Infinite Lives
+FF00BA:0005
+
+// Always At Top Of Screen
+FF179E:0001
+
+// Regular (Starting) Weapon Is 4x Stronger (Side View)
+BBHA-JAF2
+
+// Regular (Starting) Weapon Is 10x Stronger (Side view)
+CVHA-JAF2
+
+// Your gun (in the overhead view) is twice as strong.
+BKGT-AAHA
+
+// Your Gun (In Overhead View) Is 10x As Strong
+GKGT-AAHA
+
+// + Icon Pick-ups Never Disappear (The Ones That Make The Enemies Temporarily Stop Shooting).
+AB4T-AAD6
+
+// When You Get The + Icon/Pick-up, The Enemies Will Stop Shooting For The Entire Level
+ACET-AABJ
+
+// No Damage From Even The Highest Falls When On Foot (Side view)
+C5TT-GA42
+
+// High Moon Jump With Slow Descent When On Foot (Side View).
+ADTT-G2EG
+C5TT-GA42
+
+// Super High Moon Jump With Even Slower Descent When On Foot (Side View)
+ADTT-GTEG
+C5TT-GA42
+
+// Infinite Energy Extra
+A5VA-GA90
+ALDA-AA6R
+ALDT-AA2E
+
+// Invincibility
+RZLT-J6VL
+R1VA-G6Z8
+R0CT-A6X2
+R0FA-A6ZY
+
+// Infinite 3-Way Fire (Alt.)
+WDZT-GR1Y
+WD0A-GRYE
+
+// Infinite 8-Way Lightnings (Alt.)
+WD1A-GR1L
+WD1A-GRZY
+
+// Walk Through Walls When Walking Right (On Foot)
+CMST-GA9T
+BDTA-GA2Y
+
+// Walk Through Walls When Walking Left (On Foot)
+CMTA-GA8J
+GMTA-GA9N
+
+// The fireball will never attack for standing still (side view).
+ABNT-JAA0
+
+// Vehicle Has Moon Jump With Slow Descent
+ADLA-HYFR
+
+// Vehicle Has High Moon Jump With Slower Descent
+ADLA-HAFR
+
+// Vehicle Has Super High Moon Jump With Even Slower Descent.
+ADLA-GYFR
+
+// Stay In The Same Area After You Die (Instead Of Having To Start Back At The Beginning Of The Stage)
+ALBT-GA38
+2CBT-HGLC
+
+// Automatically advance to the next level everytime you die.
+SGBT-GNCA
+AGBT-GACC
+
+// One Hit Kills Enemies And Bosses (Side view)
+PEBA-JEYN
+
+// Start a new game on stage 1, section 2 (lower level).
+GXDT-GLE6
+
+// Start a new game on stage 2.
+AXDT-GAE2
+GXDT-GLE6
+
+// Start a new game on stage 3.
+BDDT-GAE2
+GXDT-GLE6
+
+// Start a new game on stage 4.
+BXDT-GAE2
+GXDT-GLE6
+
+// Start a new game on stage 5.
+B9DT-GAE2
+GXDT-GLE6
+
+// Start a new game on stage 6.
+CSDT-GAE2
+GXDT-GLE6
+
+// Start a new game on stage 7.
+C5DT-GAE2
+GXDT-GLE6
+
+// Start a new game on stage 8.
+DHDT-GAE2
+GXDT-GLE6
+
+// Start each life with twice as much energy (overhead view).
+TBCA-ACHT
+
+// Start each life with 4x as much energy (overhead view).
+ABCA-AGHT
+
+// While On Foot, Press UP To Climb. Works Anywhere, Even Without A Ladder
+EMNA-GAGA
+AMSA-GA48
+
+// Enemies Always Drop Something (Heart, Weapon, etc) When You Kill Them (Side View)
+RZVT-J6ZE
+
+// All Enemies And Hazards Are Gone (Side view)
+AVGT-JA6W
+
+// Drive Across Any Opening Without Falling (Drive on air).
+DXMA-GA3Y
+
+// Infinite Fuel
+BD5A-GA36
+BD5T-GA3N
+
+// Infinite 3-Way Missiles
+A5ZT-GA9T
+A50A-GA6A
+
+// Infinite Homing Missiles
+A51A-GA2E
+A52A-GA22
+
+// Infinite Lightnings
+A51A-GA9G
+A51A-GA7R
+
+// Infinite Shield
+A4FT-GA3R
+A4FT-GA5T
+
+// Hit Enemies/Bosses Anywhere, No Matter Where You Shoot
+B2BA-JA4J
+
+// Shoot Thru Walls (Top View Levels Only)
+ACFT-AA4L
+
+// Invincibility (top view levels only)
+RFET-A6YR

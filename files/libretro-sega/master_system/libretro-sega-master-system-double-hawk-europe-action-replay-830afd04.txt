@@ -1,0 +1,17 @@
+// FAKE Infinite Health
+00D4-C614
+
+// Infinite Health/Hits
+00C3-9803
+
+// Infinite Bombs
+00C3-960F
+
+// Invincible
+00C3-9732
+
+// Always Have Speed Power-Up
+00C3-9102
+
+// Super Rapid Fire
+00C3-9200

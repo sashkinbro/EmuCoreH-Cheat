@@ -1,0 +1,11 @@
+// Start Level 1 With 3 Lives
+031-CFD-F7E
+
+// Start Level 1 With 7 Lives
+071-CFD-F7E
+
+// Start Level 1 With 9 Lives
+091-CFD-F7E
+
+// Infinite Lives
+00E-32E-3B7

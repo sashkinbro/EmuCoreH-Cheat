@@ -1,0 +1,59 @@
+// Start With 2 Lives
+027-3CF-E66
+
+// Start With 5 Lives
+057-3CF-E66
+
+// Start With 8 Lives
+087-3CF-E66
+
+// Infinite Time
+3A9-667-2A2
+
+// *Start With 90 Seconds Instead of 40 In Round 1
+090-6E7-F7A
+
+// *Start With 20 Seconds In Round 1
+020-6E7-F7A
+
+// *Start With 90 Seconds Instead of 50 In Rounds 2 Thru 4
+090-737-F7E
+
+// *Start With 20 Seconds In Rounds 2 Thru 4
+020-737-F7E
+
+// *Start With 90 Seconds Instead of 50 In Round 5
+090-787-F7E
+
+// *Start With 20 Seconds In Round 5
+020-787-F7E
+
+// Infinite Lives
+008-DD6-19E
+
+// Infinite Energy
+009-0A6-3B7
+
+// Start With 2 Lives
+027-3CF-E66
+
+// Start With 5 Lives
+057-3CF-E66
+
+// Start With 8 Lives (Ignore Counter)
+087-3CF-E66
+
+// Start on Round 2
+677-CC9-913
+
+// Start on Round 3
+677-CC9-913
+027-CA9-E6E
+
+// Start On Round 4
+677-CC9-913
+037-CA9-E6E
+
+// Start On Round 5
+677-CC9-913
+047-CA9-E6E

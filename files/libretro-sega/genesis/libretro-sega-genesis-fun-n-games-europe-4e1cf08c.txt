@@ -1,0 +1,18 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Infinite Mouse - Mouse Maze
+AJTA-CA4T
+
+// Infinite NRG - Space Lazer
+AXBA-AA7W
+
+// Invincibility - Space Lazer (Disable Hit Detection)
+R1EA-A60R
+R1AA-A6T4
+
+// Invincibility - Mouse Maze
+RYVA-C6TJ

@@ -1,0 +1,189 @@
+// Game clock starts at 100 (all scenes)
+YANA-BK38
+NTGT-AAC6
+
+// Game clock starts at 200 (all scenes)
+YANA-BK38
+3AGT-AAC6
+
+// Game clock starts at 300 (all scenes)
+YANA-BK38
+FTGT-ACC6
+
+// Game clock starts at 500 (all scenes)
+YANA-BK38
+8TGT-ACC6
+
+// Game clock starts at 999 (all scenes)
+YANA-BK38
+66GT-AGC6
+
+// Game clock runs slower
+SAFA-AADT
+
+// Game clock runs faster
+EAFA-AADT
+
+// Freeze clock (no time limit)
+CJFA-AA58
+
+// Start with 1 life instead of 3
+AAGA-AAHY
+
+// Start with 2 lives
+AEGA-AAHY
+
+// Start with 3 lives
+AJGA-AAHY
+
+// Start with 5 lives
+ATGA-AAHY
+
+// Start with 7 lives
+A2GA-AAHY
+
+// Infinite lives
+A2ET-AA8G
+
+// HP (life) gauge never loses energy
+BCMA-AA2R
+
+// MP (magic) gauge never loses energy
+AK2A-AA52
+
+// Small heart increases HP gauge by 8 instead of 4
+JCCA-BAYW
+
+// Small heart restores HP gauge to full
+A4CA-AA6W
+
+// Small heart worth same as large heart
+CLCA-AA6R
+
+// Small heart worth same as 1-up
+RCCA-AA6R
+
+// Large heart increases HP gauge by 4 instead of 16
+AWCA-AAFJ
+
+// Large heart increases HP gauge by 10
+BLCA-AAFJ
+
+// Large heart restores HP gauge to full
+DCCA-AAFJ
+
+// Large heart worth same as 1-up
+MWCA-AA7C
+
+// B-magic restores MP gauge to full
+A4CA-AA8T
+
+// S-magic increases MP gauge by 6 instead of 2
+JCCA-B2Z6
+
+// S-magic restores MP gauge to full
+A4CA-AA76
+
+// S-magic worth same as B-magic
+CLCA-AA72
+
+// 1-up worth 2 lives instead of 1
+JCCT-BJTE
+
+// 1-up worth 4 lives
+JCCT-BTTE
+
+// 1-up worth 6 lives
+JCCT-B2TE
+
+// 1-up worth nothing
+RGCT-A6TE
+
+// Start game at Act 2
+AYNT-AAFA
+
+// Start game at Act 3
+BYNT-AAFA
+
+// Invincibility
+A30T-AN2G
+
+// Small Heart Increases HP Gauge By 12
+BWCA-BA6R
+SCCA-BBYT
+J4CA-BK6W
+
+// S-Magic Increases MP Gauge By 12
+BWCA-BA72
+SCCA-BBZ4
+KLCA-BK76
+
+// B-Magic Increases MP Gauge By 16
+CCCA-BA8N
+SCCA-BB0R
+KLCA-BK8T
+
+// Level Modifier
+AYNT-AAFA
+
+// Dark Level Backround
+AYNA-AAFA
+
+// See Ending Game Intro
+AANT-AAFA
+
+// Almost Invincible
+D4LT-AA6J
+
+// Infinite Health
+FFF446:0024
+
+// Infinite Magic
+FFF44A:0024
+
+// Infinite Time
+FFF45A:003F
+
+// Fake Timer
+FFC0BA:0000
+
+// Infinite Lives
+FFF458:0009
+
+// Infinite HP
+ALMA-AA2R
+AK6A-AA4L
+
+// Untouchable
+R0LT-A6YJ
+RZ6A-A6V6
+
+// Keep MP After The Death
+AJGT-AA26
+
+// Infinite Special
+AJGT-AA3A
+
+// Power of the sword is always at maximum
+AK2T-AA4T
+AK1T-AA64
+
+// Keep Lenghth of the sword after the death
+AJET-AA8R
+
+// Don't fall when you walk off ledges (walk on air)
+RZ4T-A6WR
+
+// Move faster when walking
+JB4T-BJXG
+JB4T-BL0C
+
+// Move faster when walking and jumping at the same time (diagonally).
+JB5A-BJVT
+JB5A-BLV6
+
+// Jump higher
+631A-BA38
+
+// Invincibility (can walk thru enemies and enemy fire)
+ACLT-AA7Y

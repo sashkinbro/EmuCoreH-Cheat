@@ -1,0 +1,29 @@
+// Infinite Lives
+RYST-06VJ
+
+// Infinite Energy
+AJTT-0A46
+
+// Invincibility
+CTDT-0N7J
+
+// Start With 9 Lives
+BHJT-CAGT
+
+// Start With 25 Lives
+DHJT-CAGT
+
+// Infinite Time
+AVLA-LA9C
+
+// Infinite Health P1
+FF9256:0088
+
+// Infinite Time
+FF0BB2:00FF
+
+// Infinite Lives P1
+FF080E:0099
+
+// Invincibility
+FF9226:0010

@@ -1,0 +1,11 @@
+// Infinite Lives
+00D4-8509
+
+// Infinite Hits
+00D4-8704
+
+// Infinite Time (One's Digit)
+00D2-6509
+
+// Infinite Time (Ten's Digit)
+00D2-6609

@@ -1,0 +1,132 @@
+// Infinite Magic
+00C0-DB80
+
+// Infinite Keys
+00C0-DEFF
+
+// Infinite Gold
+00C0-DDFF
+
+// Start With Maximum Life Hearts
+00C0-DA80
+
+// Start With Maximum Magic Pots
+00C0-DC80
+
+// Have ? Sword
+00C0-E002
+
+// Have ? Axe
+00C0-E101
+
+// Have Magic Oil
+00C0-E201
+
+// Have Torch
+00C0-E301
+
+// Have Thunder Magic
+00C0-E401
+
+// Have Earth Magic
+00C0-E501
+
+// Have Fire Magic
+00C0-E601
+
+// Have Water Magic
+00C0-E701
+
+// Have Golden Apple
+00C0-E801
+
+// Have Magic Feather
+00C0-E901
+
+// Have Ice Bell
+00C0-EA01
+
+// Have Magic Balloon
+00C0-EB01
+
+// Have Canoe
+00C0-EC01
+
+// Have Magic Rope
+00C0-ED01
+
+// Have Thief's Key
+00C0-EE01
+
+// Have Speed Shoes
+00C0-EF01
+
+// Have Ship
+00C0-F001
+
+// Have ? Armor
+00C0-F102
+
+// Have ? Shield
+00C0-F202
+
+// Hero Is Impervious To Most Attacks
+00C3-1B80
+
+// All Hearts Always Full
+00C3-1880
+
+// Infinite Life
+C97-D6D-91D
+
+// Invulnerability
+003-52D-3B4
+
+// Invulnerability
+00C3-0502
+
+// Infinite Health
+00C3-181F
+
+// Untouchable (Alternate)
+00C6-9880
+
+// One Hit Kills
+007-A6D-91B
+
+// Items Are Free
+004-AE8-A28
+3A4-B98-D5D
+
+// Infinite Health
+7E7-D7D-3B7
+
+// Infinite Magic
+3A0-CEC-2A2
+
+// Infinite Keys
+3AC-5FA-2A2
+
+// Infinite Gold
+001-EB9-3BE
+
+// Infinite Golden Apples
+3A0-E2C-2A2
+
+// Infinite Magic Feathers
+3A1-0CC-2A2
+
+// Blink 1.5x longer after being hit
+48E-D4D-2AA
+
+// Blink 2x longer after being hit
+60E-D4D-2AA
+
+// Blink 2.5x longer after being hit
+7FE-D4D-2AA
+
+// Invincibility
+003-D4D-194
+
+// Item Pickups don't dissapear until picked up or left behind
+C99-3CD-E69

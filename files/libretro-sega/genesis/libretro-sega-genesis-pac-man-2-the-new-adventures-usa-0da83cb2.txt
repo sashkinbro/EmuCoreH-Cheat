@@ -1,0 +1,47 @@
+// Infinite Powerdots
+FFFC20:0003
+
+// Pacman Mood Modifier
+FFE840:0000
+
+// Have Ropeway Ticket
+FFFC26:0001
+
+// Have Train Ticket
+FFFC28:0001
+
+// Have Baby Milk (Turn Off After Giving To Pacbaby)
+FFFC2A:0002
+
+// Have Flower (Turn Off After Giving To Lucy)
+FFFB24:0004
+
+// Have Guitar (Turn Off After Giving To Junior)
+FFFC2A:0006
+
+// Infinite Lives (Pacman Arcade)
+FF0DA4:0004
+
+// Infinite Powerdot Time (Pacman Arcade)
+FF0D0A:0046
+
+// Infinite Power-Pellet
+AVJT-AA98
+
+// Select Start at the title screen to play the original Pac Man
+AEXA-JAGN
+
+// Select Password at the title screen to play the original Pac Man
+AEXA-JAC0
+
+// Select Exit at the Password screen to play the original Pac Man
+AA7T-JAD0
+
+// Select Exit at the Password screen to play Pac Man Jr
+AE7T-JAD0
+
+// Infinite Lives - Pac-Man Arcade
+ATTV-WA9W
+
+// Infinite Power Pill Time - Pac-Man Arcade
+AAHB-WADC

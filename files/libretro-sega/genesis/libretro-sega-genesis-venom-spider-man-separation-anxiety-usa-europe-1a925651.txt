@@ -1,0 +1,157 @@
+// When you get hit you attack with a spin kick
+1MBT-CAJC
+TMBT-CATJ
+
+// When you get hit you attack back
+1MBT-CAJC
+
+// Untouchable against normal attacks
+PMAT-CAAA
+
+// Enemy's don't get stun when hit
+ZCBT-CAL4
+
+// Start with 1 life
+AG9T-EAB0
+
+// Start with 5 lives
+A09T-EAB0
+
+// Start with 9 lives
+BG9T-EAB0
+
+// Start with 50 lives
+GL9T-EAB0
+
+// Infinite lives
+ABET-EAD2
+
+// Start with 1/4 energy on 1st life
+B4LA-CACR
+
+// Start with 1/2 energy on 1st life
+DCLA-CACR
+
+// Start with 3/4 energy on 1st life
+ELLA-CACR
+
+// Almost infinite energy
+R5CT-DBXL
+
+// 1 hit kills most enemies
+RG1A-C60E
+
+// Infinite Health For Spiderman &amp; Venom
+R1CT-C6XL
+
+// Infinite Lives For Spiderman &amp; Venom
+RZET-E6X4
+
+// Invincibility For Spiderman &amp; Venom
+AAZA-EN2N
+
+// Infinite Health - Spiderman
+FF07BC:0030
+
+// Infinite Lives - Spiderman
+FF1FA2:0009
+
+// Invincibility - Spiderman
+FF1F52:00FF
+
+// Infinite Health - Venom
+FF0836:0030
+
+// Infinite Lives - Venom
+FF1FA4:0009
+
+// Invincibility - Venom
+FF1F54:00FF
+
+// Start With All The Super Heroes Except Captain America
+AMHA-CAA2
+
+// Enable Super Heroes
+AXHA-CAE8
+
+// Infinite Super Heroes
+AMJA-CA7E
+
+// Infinite Daredevil
+FF20E2:0009
+
+// Infinite Ghost Rider
+FF20E0:0009
+
+// Infinite Captain America
+FF20DE:0009
+
+// Enable Super Heroes
+FF20D4:0004
+
+// Infinite Hawkeye
+FF20E4:0009
+
+// Player 1 cusor select option
+FFE502:0000
+
+// Punk#1/Boss#1 Character Modifier
+FF08B4:0000
+
+// Punk#2 Character Modifier
+FF092E:0000
+
+// Punk#3 Character Modifier
+FF09A8:0000
+
+// Spiderman Becomes Venom
+FF07C0:997A
+
+// Venom Becomes Spiderman
+FF083A:9900
+
+// Punk#4 Character Modifier
+FF0A22:0000
+
+// Punk#5 always has 1hp
+FF0A98:0000
+
+// Punk#5 character modifier
+FF0A9C:0000
+
+// Infinite Health P1
+FF07BC:0032
+
+// Infinite Health P2
+FF0836:0032
+
+// 1 Hit Death Enemies
+FF08B0:0000
+FF092A:0000
+FF09A4:0000
+FF0A1E:0000
+FF0A98:0000
+
+// Level Modifier
+FF139C:0000
+
+// Press X To Skip Level
+FF20E6:0009
+
+// 1st Enemy Character Modifier
+FF08B4:0000
+
+// 2nd Enemy character modifier
+FF092E:0000
+
+// 3rd Enemy Character Modifier
+FF09A8:0000
+
+// 4th Enemy Character Modifier
+FF0A22:0000
+
+// 5th Enemy Character Modifier
+FF0A9C:0000
+
+// Enable Level Select
+AC9T-EA4E

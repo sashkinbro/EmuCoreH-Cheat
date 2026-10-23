@@ -1,0 +1,16 @@
+// Infinite Balls
+9T0T-PCET
+AA0T-NAEW
+HY0T-NKEY
+
+// Enable in-game Level Select
+FFFFFA:0045
+
+// Skip Levels Before you launch the ball Hold Up Press B Or Hold Down And Press B return to previous levels
+RE1T-N60J
+
+// Infinite Balls
+AT0T-NA6N
+
+// Sound Test Before you launch the ball Press A+B+C
+AMST-LA3J

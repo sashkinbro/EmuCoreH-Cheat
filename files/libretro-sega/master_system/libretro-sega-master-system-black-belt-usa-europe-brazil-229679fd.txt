@@ -1,0 +1,36 @@
+// Start with 0? Lives
+00E-05F-E66
+
+// Infinite Lives
+2AB-B9E-6EE
+
+// Infinite Energy
+7EA-ACE-3B7
+
+// Infinite Time
+00D-7DA-3BE
+
+// Hit Anywhere
+007-97F-809
+004-E0B-809
+
+// Invincibility
+187-22F-08A
+
+// One Hit Kills
+004-E5B-A29
+
+// Infinite Lives
+00D9-AC09
+
+// Infinite Health
+00DB-9340
+
+// Infinite Time
+00D9-A964
+
+// Infinite Lives
+B6B-BCE-3BE
+
+// Level Select (title: up on gamepad 2)
+00DB-6B12

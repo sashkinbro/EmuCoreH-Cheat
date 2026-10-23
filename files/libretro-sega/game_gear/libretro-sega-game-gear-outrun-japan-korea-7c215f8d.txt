@@ -1,0 +1,33 @@
+// Infinite Time
+00C1-6909
+
+// Full Revs All The Time [Takes Car To 315 km/h]
+00C3-6127
+
+// Timer Always &quot;9&quot; (Ten's Digit)
+00C1-6A09
+
+// Infinite Time
+007-99F-E6E
+
+// Enable Invincibility and Infinite Time Cheat
+00C1-0E01
+
+// Start with ?? seconds, instead of 70
+083-36C-F76
+
+// Start with 99 seconds
+093-36C-F76
+093-35C-E6A
+
+// Checkpoint adds ?? seconds, instead of 60
+07A-337-F72
+
+// Freeze Timer
+00C1-6800
+
+// Infinite Time
+002-2CE-3BA
+
+// Enable Invincibility and Infinite Time Cheat
+00E-7DF-C42

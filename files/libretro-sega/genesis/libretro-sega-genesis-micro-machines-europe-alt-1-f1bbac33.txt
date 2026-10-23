@@ -1,0 +1,176 @@
+// Infinite lives in 4-man race
+REHA-A60N
+
+// Start with 1 life in 4-man race
+AEBT-AAHL
+
+// Start with 2 lives in 4-man race
+AJBT-AAHL
+
+// Start with 4 lives in 4-man race
+ATBT-AAHL
+
+// Start with 5 lives in 4-man race
+AYBT-AAHL
+
+// Start with 10 lives in 4-man race
+BJBT-AAHL
+
+// Start with 20 lives in 4-man race
+CTBT-AAHL
+
+// Infinite lives in head-to-head race only
+REET-A6Y6
+
+// Start with 1 life in head-to-head race only
+AEEA-AAAW
+
+// Start with 2 lives in head-to-head race only
+AJEA-AAAW
+
+// Start with 4 lives in head-to-head race only
+ATEA-AAAW
+
+// Start with 5 lives in head-to-head race only
+AYEA-AAAW
+
+// Start with 10 lives in head-to-head race only
+BJEA-AAAW
+
+// Start with 20 lives in head-to-head race only
+CTEA-AAAW
+
+// You qualify for next race only if you win (Except initial qualifying race)
+AEFT-AAH4
+
+// You qualify for next race if you get 3rd or better (Except initial qualifying race)
+ANFT-AAH4
+
+// You always qualify for next race (Except initial qualifying race)
+ATFT-AAH4
+
+// You get to time trial every time you win 1 race
+AEGT-AAC8
+
+// You get to time trial every time you win 2 races
+AJGT-AAC8
+
+// You get to time trial every time you win 5 races
+ATGT-AAC8
+
+// You get to time trial every time you win 6 races
+AYGT-AAC8
+
+// You get to time trial every time you win 8 races
+A6GT-AAC8
+
+// You get to time trial every time you win 11 races
+BJGT-AAC8
+
+// Infinite time in Ruff Trux time trial
+RYXT-A61R
+
+// Winning Ruff Trux time trial worth 0 extra lives
+AJHA-AA5W
+
+// Winning Ruff Trux time trial worth 2 extra lives
+SAHA-BJXW
+
+// Winning Ruff Trux time trial worth 5 extra lives
+SAHA-BYXW
+
+// Winning Ruff Trux time trial worth 8 extra lives
+SAHA-BAXW
+
+// Each race lasts 1 lap
+AKHT-AAH0
+
+// Each race lasts 2 laps
+APHT-AAH0
+
+// Each race lasts 4 laps
+AZHT-AAH0
+
+// Each race lasts 5 laps
+A3HT-AAH0
+
+// Each race lasts 7 laps
+BBHT-AAH0
+
+// Each race lasts 10 laps
+BPHT-AAH0
+
+// Each race lasts 20 laps
+CZHT-AAH0
+
+// Each race lasts 50 laps
+GPHT-AAH0
+
+// Each race lasts 100 laps
+NZHT-AAH0
+
+// Each race lasts infinite laps (only on head-to-head races)
+BA7T-AA34
+
+// 100 Seconds To Get Through Ruff Trux Time Trial
+XFYA-BXFC
+JBYA-AE0C
+
+// 90 Seconds To Get Through Ruff Trux Time Trial
+ABYA-BBFC
+JBYA-AE0C
+
+// 60 Seconds To Get Through Ruff Trux Time Trial
+ABYA-AA7C
+JBYA-AE0C
+
+// 30 Seconds To Get Through Ruff Trux Time Trial
+ABYA-BAPC
+JBYA-AE0C
+
+// 20 Seconds To Get Through Ruff Trux Time Trial
+ABYA-AAPC
+JBYA-AE0C
+
+// Always Finish 1st - Challenge Race
+ST6T-BCGY
+AA6T-AAG0
+066T-ACG2
+
+// Freeze CPU Counter - Head-to-Head Race
+SAXA-AEWL
+
+// Much Higher Top Speed
+FTSA-AA3A
+
+// Don't Fall when Driving off the Edge of Track
+RZBT-A6YC
+
+// Drive Thru Obstacles
+A3GA-AA8T
+BVGA-AA98
+A3GA-AA70
+
+// Infinite Time in Ruff Trux time trial
+FF838E:0055
+
+// Enable Better Traction Cheat
+FFA690:0002
+
+// Enable Faster Vehicle Cheat
+FFA6F6:00FF
+
+// Enable Extra Crash Power Cheat
+FFA6FA:00FF
+
+// Disable Better Traction Cheat
+FFA690:0001
+
+// Disable Faster Vehicle Cheat
+FFA6F6:0000
+
+// Disable Extra Crash Power Cheat
+FFA6FA:0000
+
+// Disable Higher/Much Higher Difficulty Cheat - Challenge Race
+FF80CE:FFF6

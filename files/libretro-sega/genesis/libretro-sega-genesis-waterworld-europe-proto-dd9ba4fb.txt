@@ -1,0 +1,47 @@
+// Infinite Gun Ammo (Overworld)
+FFB06C:0063
+
+// Infinite Mines (Overworld)
+FFB06E:0063
+
+// Infinite Harpoons (Overworld)
+FFB070:0063
+
+// Infinite Arrows (Action Levels)
+FF0CB0:0063
+
+// Infinite Fire Arrows (Action Levels)
+FF0CB2:0063
+
+// Infinite Dynamite (Action Levels)
+FF0CBC:0063
+
+// Infinite Energy (Action Levels)
+FF0CAA:0064
+
+// Instant Level Cleared (Action Levels)
+FF0CE6:0000
+
+// Rock &amp; Rope Salvage
+FF0742:0201
+
+// Anchor &amp; Coin Salvage
+FF0744:0403
+
+// Fire Extinguisher &amp; Chalice Salvage
+FF0746:0605
+
+// Wrench &amp; Hook Salvage
+FF0748:0807
+
+// Boot &amp; Bottle Salvage
+FF074A:0A09
+
+// Book Salvage
+FF074C:000B
+
+// Infinite Energy (Overworld)
+FFBBEA:001F
+
+// Enables &quot;TESTING123&quot; Password
+CYLT-B4FN

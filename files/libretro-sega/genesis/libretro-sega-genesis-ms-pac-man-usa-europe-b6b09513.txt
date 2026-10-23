@@ -1,0 +1,178 @@
+// Invincible
+XJWA-AAPA
+
+// Invincibility
+XJWT-AAVG
+
+// Ghost cannot turn back to Normal after being eaten
+RA6A-A7NE
+
+// Game flashes Gray and Black
+BEDA-ASCJ
+
+// Ghost can't go back in the Box
+A26A-A1NE
+
+// Ghost keeps going back in the Box
+ZJ5T-AXGE
+
+// Infinite Power Pellets and Pellets
+7VAA-ART4
+
+// Power Pellets don't Work
+RPAA-A5CW
+
+// Level skip
+HATT-AACA
+
+// P1 Infinite Lives (except Alternating Game)
+AJNA-AA30
+
+// P1 starts with 1 life (except Alternating Game)
+AEEA-AACA
+
+// P1 starts with 9 lives (except Alternating Game)
+BEEA-AACA
+
+// P2 Infinite Lives (except Alternating Game)
+AJNA-AA4J
+
+// P2 starts with 9 lives (except Alternating Game)
+BEEA-AACG
+
+// P2 starts with 1 life (except Alternating Game)
+AEEA-AACG
+
+// When Pac Man gets hit, Ms. Pac Man loses a life instead
+4JNA-BACL
+
+// When Ms. Pac Man gets hit, Pac Man loses a life instead
+5JNA-BAB2
+
+// Ghosts stay blue 1/2x as long as normal (most of the time)
+2CWA-CAGN
+
+// Ghosts stay blue 2x as long as normal (most of the time)
+ACWA-CGGN
+
+// Ghosts stay blue 4x as long as normal (most of the time)
+ACWA-CNGN
+
+// Ghosts stay blue until you eat them (most of the time)
+AJ1A-AA6R
+
+// keep geting extra lives from hi-score
+MEKT-AN30
+
+// no hi-score
+MEKT-AN3E
+
+// Infinite Lives
+FF10D2:0002
+
+// Invincibility
+FF10E2:0000
+
+// Infinite Pac-Women
+AJNA-AA30
+
+// ghost don't move when you eat them
+AA6A-AADJ
+
+// ghost can't go back in to there box when you eat them
+AA6A-AAER
+
+// blue,pink,orange ghost can't return to there form and get stuck in the box but the red ghost can return his form and come out
+AA6A-AATJ
+
+// all 3 ghost don't turn blue when you get the power pallet
+AA1A-AARA
+
+// red ghost move very fast
+AA0A-AAZN
+
+// all ghost don't move
+AA0A-AAZA
+
+// can't eat fruit
+AAXA-AAVC
+
+// untouchable
+AAWA-AAPT
+
+// the game starts when the screen scroll down
+AAWA-AAC4
+
+// the game already starts at the gameplay
+AAWA-AACL
+AAWA-AAW2
+
+// Stage finished
+AATA-AAC0
+
+// Can't finish the levels
+AATA-AAC2
+
+// score no points from eating anything
+AAKT-AA26
+
+// get points from eating ghost only
+AJKT-AA26
+
+// get high score from geting anything and get an extra life
+AAKT-AAKR
+
+// Dark pellets
+AAJT-AACT
+
+// you move faster and the ghosts move slower on Crazy difficulty
+AAFT-AAA8
+
+// Ghosts move faster and you move slower on Crazy difficulty
+AAFT-AAA4
+
+// You move super slow and the ghosts move faster on Crazy difficulty
+AAFT-AABC
+
+// no sound
+ACAT-AA2N
+
+// Infinite Lives - Both Players (Alternating Game)
+AJNA-AA42
+
+// Infinite Power Pill Time
+FF10E4:0180
+
+// Get 1-ups from almost everything
+AAKT-AAAY
+
+// Invincibility - Both Players
+AAWT-AAHY
+
+// Select any Starting Level
+REDT-A6YL
+
+// get fruit automatically
+A6XA-AAFJ
+
+// Ms. Pac-Man's and Pac-Man's default and Pac-Booster speeds are slightly faster
+HT7T-BYRA
+EA7T-AAGC
+
+// Hold C for slightly faster Pac-Booster
+DA8A-AAFA
+
+// Hold C for faster Pac-Booster
+EA8A-AAFA
+
+// Hold C for even faster Pac-Booster
+FA8A-AAFA
+
+// Power Pill always lasts as long as it does in the first level (the longest amount of time)
+ABAA-AC7N
+2KAA-BCPR
+9V3A-BGMT
+TB3A-ACDW
+973A-AADY
+6V3A-BAD0
+RZ3A-A6X2

@@ -1,0 +1,5 @@
+// Infinite Balls
+00CF-4D09
+
+// Infinite Time (Ten's Digit)
+00CA-F209

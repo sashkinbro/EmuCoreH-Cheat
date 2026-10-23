@@ -1,0 +1,329 @@
+// Don't get charged for items you can afford
+AK8A-CA30
+
+// Dagger costs nothing instead of 8
+AC7T-EAEA
+
+// Nunchakas costs nothing instead of 30
+AC7T-EAF0
+
+// Hand axe costs nothing instead of 10
+AC7T-EAEN
+
+// Long dagger costs nothing instead of 20
+AC7T-EAFE
+
+// Short sword costs nothing instead of 15
+AC7T-EAFT
+
+// Cudgel costs nothing instead of 15
+AC7T-EAEW
+
+// Sell items at their full value
+CK9T-CA64
+
+// Many of the more expensive items cost nothing
+AB4A-DE86
+
+// Create characters with all stats at 25
+HWDA-FEMC
+A0DA-ELDE
+
+// Invincibility against many monsters
+AMEA-CA8C
+
+// Create New Character With All Stats At 25
+HWDA-FEMC
+A0DA-ELDE
+
+// Create New Character With All Stats At X Amount
+HWDA-FEMC
+AADA-ELDE
+
+// Max Might
+FFCA76:0099
+
+// Max Intellect
+FFCA76:0099
+
+// Max Personality
+FFCA78:0099
+
+// Max Endurance
+FFCA78:0099
+
+// Max Speed
+FFCA7A:0099
+
+// Max Accuracy
+FFCA7A:0099
+
+// Max Luck
+FFCA7C:0099
+
+// 1st Character
+FFCE7C:0001
+FFCE7C:0001
+
+// 2nd Character
+FFCF02:0000
+FFCF02:0000
+
+// 3rd Character
+FFCF88:0000
+FFCF88:0000
+
+// Only One Monster In Battle
+FFFE4A:0100
+
+// Max Character 1 Gold (4 Billions)
+FFCEA6:FFFF
+FFCEA8:FFFF
+
+// Max Character 1 Gems
+FFCE9C:FFFF
+
+// Max Character 1 Food &amp; Always In &quot;Good&quot; Conditions
+FFCE66:FF00
+
+// Max Character 1 Exp
+FFCEA2:FFFF
+
+// Max Character 1 HP
+FFCE9E:FFFF
+FFCEB4:FFFF
+
+// Max Character 1 SP
+FFCE98:FFFF
+FFCE9A:FFFF
+
+// Max Character 1 Luc &amp; Level
+FFCEB0:FFFF
+
+// Max Character 1 Can Cast Spells &amp; AC
+FFCE64:01FF
+
+// Max Character 1 Alignment &amp; Mig
+FFCEAA:00FF
+
+// Max Character 1 Int &amp; Per
+FFCEAC:FFFF
+
+// Max Character 1 Spd &amp; Acy
+FFCEAE:FFFF
+
+// Max Character 1 SL &amp; End
+FFCEB2:09FF
+
+// Max Character 1 Thvy
+FFCE5E:00FF
+
+// Character 1 Age Modifier
+FFCE62:0C00
+
+// Character 1 Skills Modifiers
+FFCE90:0000
+
+// Character 1 Sex Modifiers
+FFCE4C:0100
+
+// Character 1 Class Modifiers
+FFCE50:0000
+
+// Character 1 Race Modifiers
+FFCE4E:0000
+
+// Character 1 Equipped Items
+FFCE68:1400
+FFCE6E:0000
+
+// Character 1 Equipped Items Bonus Modifiers
+FFCE74:0000
+FFCE76:0000
+FFCE78:0000
+
+// Character 1 Backpack Items
+FFCE7C:0000
+FFCE7E:0000
+FFCE80:0000
+
+// Character 1 Backpack Items Bonus Modifiers
+FFCE86:0000
+FFCE88:0000
+FFCE8A:0000
+FFCE8C:0000
+
+// Character 1 Learned All Sorcerer Spells
+FFCE92:FFFF
+FFCE94:FFFF
+FFCE96:FFFF
+
+// Max Character 2 Gold (4 Billions)
+FFCF2C:FFFF
+FFCF2E:FFFF
+
+// Max Character 2 Gems
+FFCF22:FFFF
+
+// Max Character 2 Food &amp; Always In &quot;Good&quot; Conditions
+FFCEEC:FF00
+
+// Max Character 2 Exp
+FFCF28:FFFF
+FFCF2A:FFFF
+
+// Max Character 2 HP
+FFCF24:FFFF
+FFCF3A:FFFF
+
+// Max Character 2 SP
+FFCF1E:FFFF
+FFCF20:FFFF
+
+// Max Character 2 Luc &amp; Level
+FFCF36:FFFF
+
+// Max Character 2 Can Cast Spells &amp; AC
+FFCEEA:01FF
+
+// Max Character 2 Alignment &amp; Mig
+FFCF30:00FF
+
+// Max Character 2 Int &amp; Per
+FFCF32:FFFF
+
+// Max Character 2 Spd &amp; Acy
+FFCF34:FFFF
+
+// Max Character 2 SL &amp; End
+FFCF38:09FF
+
+// Max Character 2 Thvy
+FFCEE4:00FF
+
+// Character 2 Age Modifier
+FFCEE8:0000
+
+// Character 2 Skills Modifiers
+FFCF16:0000
+
+// Character 2 Sex Modifiers
+FFCED2:0100
+
+// Character 2 Class Modifiers
+FFCED6:0000
+
+// Character 2 Race Modifiers
+FFCED4:0000
+
+// Character 2 Equipped Items
+FFCEEE:0000
+FFCEF0:0000
+FFCEF2:0000
+FFCEF4:0000
+
+// Character 2 Equipped Items Bonus Modifiers
+FFCEFA:0000
+FFCEFC:0000
+FFCEFE:0000
+
+// Character 2 Backpack Items
+FFCF02:0000
+FFCF04:0000
+FFCF06:0000
+
+// Character 2 Backpack Items Bonus Modifiers
+FFCF0C:0000
+FFCF0E:0000
+FFCF10:0000
+FFCF12:0000
+
+// Character 2 Learned All Sorcerer Spells
+FFCF18:FFFF
+FFCF1A:FFFF
+FFCF1C:FFFF
+
+// Max Character 3 Gold (4 Billions)
+FFCFB2:FFFF
+FFCFB4:FFFF
+
+// Max Character 3 Gems
+FFCFA8:FFFF
+
+// Max Character 3 Food &amp; Always In &quot;Good&quot; Conditions
+FFCF72:FF00
+
+// Max Character 3 Exp
+FFCFAE:FFFF
+FFCFB0:FFFF
+
+// Max Character 3 HP
+FFCFAA:FFFF
+FFCFC0:FFFF
+
+// Max Character 3 SP
+FFCFA4:FFFF
+FFCFA6:FFFF
+
+// Max Character 3 Luc &amp; Level
+FFCFBC:FFFF
+
+// Max Character 3 Can Cast Spells &amp; AC
+FFCF70:01FF
+
+// Max Character 3 Alignment &amp; Mig
+FFCFB6:01FF
+
+// Max Character 3 Int &amp; Per
+FFCFB8:FFFF
+
+// Max Character 3 Spd &amp; Acy
+FFCFBA:FFFF
+
+// Max Character 3 SL &amp; End
+FFCFBE:09FF
+
+// Max Character 3 Thvy
+FFCF6A:00FF
+
+// Character 3 Age Modifier
+FFCF6E:0000
+
+// Character 3 Skills Modifiers
+FFCF9C:0000
+
+// Character 3 Sex Modifiers
+FFCF58:0000
+
+// Character 3 Class Modifiers
+FFCF5C:0000
+
+// Character 3 Race Modifiers
+FFCF5A:0000
+
+// Character 3 Equipped Items
+FFCF74:0000
+FFCF76:0000
+FFCF78:0000
+FFCF7A:0000
+
+// Character 3 Equipped Items Bonus Modifiers
+FFCF80:0000
+FFCF82:0000
+FFCF84:0000
+
+// Character 3 Backpack Items
+FFCF88:0000
+FFCF8A:0000
+FFCF8C:0000
+
+// Character 3 Backpack Items Bonus Modifiers
+FFCF92:0000
+FFCF94:0000
+FFCF96:0000
+FFCF98:0000
+
+// Character 3 Learned All Sorcerer Spells
+FFCF9E:FFFF
+FFCFA0:FFFF
+FFCFA2:FFFF

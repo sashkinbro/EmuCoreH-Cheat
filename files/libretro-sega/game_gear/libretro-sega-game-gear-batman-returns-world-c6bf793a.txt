@@ -1,0 +1,83 @@
+// Infinite Lives
+00C0-2163
+
+// Infinite Health
+00C1-590A
+
+// Infinite Special
+00C0-1F63
+
+// Invulnerability
+00DD-8FFF
+
+// Start with 2 lives
+028-498-E66
+
+// Start with 5 lives
+058-498-E66
+
+// Start with 7 lives
+078-498-E66
+
+// Infinite lives
+00A-57A-E6E
+
+// Infinite special items
+004-758-19E
+
+// Start with 2 energy units (1st life)
+028-4E8-C42
+
+// Start with 6 energy units (1st life)
+068-4E8-C42
+
+// Start with 8 energy units (1st life)
+088-4E8-C42
+
+// Start with 2 energy units (after 1st life)
+02B-33A-C42
+
+// Start with 4 energy units (after 1st life)
+04B-33A-C42
+
+// Start with 8 energy units (after 1st life)
+08B-33A-C42
+
+// Start with 3 special items (1st life)
+038-538-E6E
+
+// Start with 3 special items (after 1st life)
+03B-38A-E6E
+
+// Start with 6 special items (after 1st life)
+06B-38A-E6E
+
+// Start with 9 special items (after 1st life)
+09B-38A-E6E
+
+// Infinite Lives
+00C0-2109
+
+// Infinite Specials
+00C0-1F09
+
+// Infinite Health
+00C1-5910
+
+// Boot Into The Sound Test
+181-05B-6EA
+
+// Infinite Health From Punches (Stage 1)
+005-EB9-19D
+005-EC9-3BE
+005-ED9-C4E
+
+// Infinite Health From Sliding Enemies (Stage 1)
+00A-22A-19D
+00A-23A-3BE
+00A-24A-C4E
+
+// Infinite Health From Rolling Enemies (Stage 1)
+00A-9BD-19D
+00A-9CD-3B7
+00A-9DD-C4E

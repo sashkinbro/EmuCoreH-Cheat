@@ -1,0 +1,184 @@
+// Start with maximum power
+BBJA-AAD0
+
+// Start with less power
+AKJA-AAD0
+
+// Start with maximum power after you lose a Donald Duck
+BBEA-AABW
+
+// Start with less power after you lose a Donald Duck
+AKEA-AABW
+
+// Almost infinite power
+AKSA-AA24
+
+// Start with 1 Donald Duck
+AFJA-AABG
+
+// Start with 5 Donald Ducks
+AZJA-AABG
+
+// Start with 8 Donald Ducks
+BBJA-AABG
+
+// Start with 10 Donald Ducks
+BKJA-AABG
+
+// Start with 25 Donald Ducks
+DFJA-AABG
+
+// Start with 50 Donald Ducks
+GKJA-AABG
+
+// Start with 99 Donald Ducks
+NPJA-AABG
+
+// Infinite Donald Ducks
+AVEA-AA28
+
+// Infinite popcorn on popcorn pick-up
+AKJT-AA2J
+
+// Infinite Lives
+ABEA-AABA
+
+// Infinite Energy
+A3SA-AA20
+
+// Invincibility
+BL6A-AR32
+
+// Super Fast Donald
+FFEE62:00FF
+
+// Always Have Hero Key
+FFEEE0:00FF
+
+// Always Have Viking Key
+FFEEE0:00FF
+
+// Always Have Sphinx Tear
+FFEEE2:00FF
+
+// Always Have Scepter Of Ra
+FFEEE2:00FF
+
+// Always Have 1 Sun 2 Moon 3 Star
+FFEEE4:00FF
+
+// Always Have Viking Diary
+FFEEE4:00FF
+
+// Always Have Red Plunger
+FFEE48:0001
+
+// Always Have Green Plunger
+FFEE48:0002
+
+// Goto Final Stage
+FF8F34:0009
+
+// Invincibilty
+FFEE0A:00FF
+
+// Donald Can Call Plane And Go Back To Main Map From Anywhere.
+FFEE5C:00FF
+
+// Hit Anywhere
+MC6A-AA78
+
+// Get Items From Anywhere
+RF9A-A6XE
+
+// Take No Damage From Enemies
+BVSA-AA2T
+
+// Start With About 15 Things Of Popcorn
+2KJA-BCK6
+
+// Donald Loses His Temper After 1 Chili Pepper
+AF8T-AAAR
+
+// Infinite Hits
+FF8F96:0008
+
+// Infinite Lives
+FF8F98:0009
+
+// Level Modifier
+FF8F34:0000
+
+// Start With Seven Lives
+A7JA-AABG
+
+// Start With Nine Lives
+BFJA-AABG
+
+// Infinite Lives
+AVEA-AA28
+
+// Invulnerable To Enemy Attack
+BVSA-AA2T
+
+// Donald Doesn't Calm Down Until The End of A Level When He Loses His Temper (Or Until You Turn Off The Action Replay)
+AKST-AA88
+
+// Donald Loses His Temper After Only One Chili Pepper
+AF8T-AAAR
+
+// Begin The Game With About 15 Units of Popcorn
+2KJA-BCK6
+
+// Once Your Grab Popcorn, It Never Decreases
+AKJT-AA2J
+
+// Infinite Popcorn
+AKJT-AA2J
+
+// Infinite Bubble Gum
+AKJT-AA3T
+
+// Invincibility (Disable Hit Detection)
+R06A-A6XG
+RZ4A-A6VA
+R14A-A6TG
+
+// Press Jump to enable Debug free movement with invincibility.  See notes.
+9X9A-SCH2
+999A-RAH4
+A99A-R796
+
+// Enables Debug free movement with invincibility. see notes.
+ABTA-AA6W
+
+// Jump in mid-air (multi-jump)
+CV2A-AA48
+CV2A-AA7G
+
+// Jump higher
+EV2A-AAH6
+
+// Jump much higher. See notes.
+JK2A-AAH6
+
+// Can select 6 levels on the map instead of only 3.  See notes.
+A4TA-ATCY
+
+// Once you hit an enemy with a plunger, they will remain frozen for as long as they're on the screen.  See notes.
+AKPA-CA7J
+
+// Start with the red plunger
+AFJA-BA4W
+
+// Start with the green plunger
+AKJA-BA4W
+
+// Invincibility (can walk thru enemies, bullets, hazards, etc)
+A46A-AA5E
+
+// When walking, you'll automatically walk up and over any obstacles. See notes.
+RFPA-A6TR
+
+// 1 Hit Kill Bosses
+FF9038:0000

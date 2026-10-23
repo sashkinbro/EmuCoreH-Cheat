@@ -1,0 +1,26 @@
+// Infinite Energy
+AM0T-CA72
+
+// Invincibility
+CXLA-CN2W
+
+// Infinite Energy
+FF9256:0020
+
+// Skip Intro Screens
+ATGT-AA7Y
+ATGT-AA8C
+
+// Infinite Burning Stick
+AMZT-CA7L
+
+// Untouchable
+RYMT-A6TA
+RYLT-A61N
+RYMT-A6ZN
+
+// Enabled Cheat Mode Skip Levels, Return To The Previous Level, Energy Replenishment, Light Burning Stick, And Infinite Life. See Note
+AXYA-CA9G
+
+// Invincible Flash Fix
+FF9186:0010

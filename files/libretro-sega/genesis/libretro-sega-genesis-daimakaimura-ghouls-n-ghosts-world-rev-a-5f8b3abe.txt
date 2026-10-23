@@ -1,0 +1,249 @@
+// Infinite Time
+J34T-AA3Y
+
+// Invincible against most things
+AAJA-CA38
+
+// Invincible against giant hands
+KJ9A-GA26
+
+// Invincible against spiked balls
+CMMA-GA4N
+
+// Jump higher without magic armor
+ACJT-ATF4
+
+// Jump higher with magic armor
+ACJT-ATGC
+
+// Can shoot up to 4 shields at a time
+AX5T-AAG2
+
+// Can shoot up to 4 fires at a time
+AXZT-AADW
+
+// Can swing the sword 4 times faster
+AX3A-AAAG
+
+// Can shoot up to 5 daggers at a time
+A1XT-AAAT
+
+// Can shoot up to 4 lances at a time
+A1WA-AAE8
+
+// Start new game and continues with 8 lives
+BAYT-AAAG
+
+// Longer slow motion
+AJCA-AADY
+
+// With the gold armor and shield weapon the magic lasts alot
+AL8A-AA36
+
+// Infinite time on continue screen
+AKGA-AA3C
+
+// Open a chest and lots of items start appearing
+RGLT-C6WW
+
+// Don't collect too many different weapons, because it seems like the game gets confused as to which weapon you have. Disables timer on the continue screen
+AKFT-AA96
+
+// Only takes one hit to open chests
+JCLT-CAC6
+
+// Enables the cheat for slow motion. During gameplay, press
+AEEA-AAH4
+
+// Pause and hold the B button to play in slow motion enables Debug info during gameplay
+AEZT-AAEE
+
+// Arthur begins each life with the gold armor
+9VWA-BGKN
+AFWA-AABR
+
+// Enables the stage select cheat
+AETT-AAEA
+
+// your weapon can't hit enemies or chest box
+ABAA-CAWR
+
+// you can't throw weapons
+ABAA-CAVY
+
+// sword or knifes go upwards then you throw them
+ABAA-CADJ
+
+// the reapers are untouchable
+ABPA-CA1C
+
+// jump farther with out magic armor
+ACJT-ATF2
+
+// Infinite Lives
+A3WT-AA6G
+
+// Each Point Worth 10
+9TZA-ABZY
+BJZA-AAF0
+
+// Start On Floating Island
+9TEA-BCKL
+TTEA-B93R
+AEEA-AABN
+
+// Start In Windmall Village
+9TEA-BCKL
+TTEA-B93R
+AAEA-ACBN
+
+// Start In Town Of Fire
+9TEA-BCKL
+TTEA-B93R
+AEEA-ACBN
+
+// Start In Baron Rankle's Tower
+9TEA-BCKL
+TTEA-B93R
+AAEA-AEBN
+
+// Start In Horrible Faced MountaIns
+9TEA-BCKL
+TTEA-B93R
+AEEA-AEBN
+
+// Start In Crystal Forest
+9TEA-BCKL
+TTEA-B93R
+AAEA-AGBN
+
+// Start On Ice Slides And Giant Hands
+9TEA-BCKL
+TTEA-B93R
+AEEA-AGBN
+
+// Start On Dragons And Demons
+9TEA-BCKL
+TTEA-B93R
+AAEA-AJBN
+
+// Start On Base Of Morningstar Ladder
+9TEA-BCKL
+TTEA-B93R
+AEEA-AJBN
+
+// Start On Prince Of Darkness
+9TEA-BCKL
+TTEA-B93R
+AAEA-ALBN
+
+// Instant Charge On Magic Armor/Weapon
+AF3T-AAFY
+
+// Change Title To Dai Makaimura
+DTBA-AA58
+ZJAT-A8ER
+
+// Change Title To Dai Makaimura
+DTBA-AA58
+4EAT-B0NR
+
+// Enable Invincibility
+FFFF80:0000
+FFFF80:0000
+FFFF82:0000
+
+// Infinite Lives (Player 1)
+FFB212:0003
+
+// Infinite Lives (Player 2)
+FFB272:0003
+
+// Infinite Time (Player 1&amp;2)
+FFB048:0059
+
+// Invincibility after 1st hit (Player 1&amp;2)
+FFB318:00FF
+
+// Infinite Armor (Player 1)
+FFB210:0001
+
+// Infinite Armor (Player 2)
+FFB270:0001
+
+// Armor Upgrade Modifier (Player 1)
+FFB212:0000
+
+// Armor Upgrade Modifier (Player 2)
+FFB272:0000
+
+// Set Magic Meter (Player 1&amp;2)
+FFB344:0001
+
+// Magic Meter Builds Up Faster (Player 1&amp;2)
+FFE532:0001
+
+// Set Weapon Modifier (Player 1)
+FFB22C:0000
+
+// Set Weapon Modifier (Player 2)
+FFB28C:0000
+
+// Switch F/X On To Levitate Jump (Player 1)
+FFB216:0060
+
+// Switch F/X On To Levitate Jump (Player 2)
+FFB276:0060
+
+// Stage Select
+FFB22E:0000
+
+// Enable Cheat Mode Option (Invincibility/Slow Motion)
+FFFFF2:0001
+
+// Untouchable
+AAJA-CACG
+
+// Enables all cheats
+REEA-A618
+
+// Don't fall when you walk off ledges (walk on air) (when moving Right only)
+AATA-CA6E
+
+// Play as the old man
+ACCA-BA9R
+RGCA-A61T
+
+// Play as the duck
+AWCA-BA9R
+RGCA-A61T
+
+// get hit to have charge power
+AWGA-AALW
+
+// Play in your underwear
+AGCA-BA9R
+RGCA-A61T
+
+// Play in your golden armor
+ARCA-BA9R
+RGCA-A61T
+
+// No music on gameplay
+AAEA-AA5G
+
+// Move backwards
+AAWA-CACA
+
+// Golden armor makes you move and attack slow like an old man
+AYCA-AAEE
+
+// Untouchable in underwear only
+AGGA-AAR2
+
+// Use your super powers instantly on the 2nd attack or power supers done twice when charged
+AB4A-AAMY
+AF3T-AAFY
+
+// Always play as old man
+ARCA-AAHT

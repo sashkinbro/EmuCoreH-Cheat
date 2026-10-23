@@ -1,0 +1,20 @@
+// Infinite Time - Seconds Digits
+00C0-A309
+
+// Infinite Time - Seconds Digits
+00C0-A299
+
+// Infinite Lives
+00C0-9D09
+
+// Infinite Red Blocks (Hits)
+00C0-9A03
+
+// Bombs From The Start
+00C0-8B01
+
+// Bonus Stage After Every Level
+00C0-9F50
+
+// Have Key From Start
+00C0-8C01

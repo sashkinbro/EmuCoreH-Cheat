@@ -1,0 +1,34 @@
+// Infinite Fuel
+AKWT-AA52
+
+// Freeze Time
+ABRT-AN2T
+
+// Always Win The Race
+RGEA-A61E
+RGET-A6TY
+
+// Freeze All Cars
+ALGT-AA5W
+
+// Low Timer (Minutes)
+FFA1CC:0000
+
+// Low Timer (Seconds)
+FFA1CE:0000
+
+// Low Timer (Micro-Seconds)
+FFA1CE:0000
+
+// Have Excellent Acceleration P1
+FFA396:0004
+FFA398:0004
+
+// Fake? Always In 1st
+FFA366:0001
+
+// Fake? Lap Modifier
+FFA33C:0000
+
+// Boot Into Region Info Screen
+AJBT-AA3J

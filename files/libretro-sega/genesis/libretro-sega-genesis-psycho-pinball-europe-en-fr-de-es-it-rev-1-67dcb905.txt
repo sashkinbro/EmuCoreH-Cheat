@@ -1,0 +1,17 @@
+// Infinite Balls
+AB6A-RAGL
+
+// Infinite Balls - All Players
+AV6A-RA8G
+
+// Infinite Balls - Mini Games - All Players
+C3PT-CA8T
+
+// Pause the Game and Press Down for an Extra Ball
+VBMA-P2WL
+
+// Pause the Game and Press C for a Free Ride
+VBMA-P6T6
+
+// Pause the Game and Press B to Play the Mini Games
+VBMA-PAX4

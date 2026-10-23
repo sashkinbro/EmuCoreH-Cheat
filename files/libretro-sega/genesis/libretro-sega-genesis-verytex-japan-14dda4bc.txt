@@ -1,0 +1,26 @@
+// Infinite Lives
+ATVT-AA5R
+
+// Infinite Bombs
+AT3T-AA84
+
+// Invincibility
+FAWA-AR72
+
+// Infinite Lives
+FF08B0:0063
+
+// Infinite Bombs
+FF0A46:0063
+
+// Have Spread Shot
+FF0A3E:0001
+
+// Have Shield
+FF08AC:0003
+
+// 1 Shot Kill All Enemies And Bosses Throughout The Game. Major Bosses are killed by parts
+BBSA-AA3Y
+
+// Always Have S After Touching Enemies
+AJWA-AA94

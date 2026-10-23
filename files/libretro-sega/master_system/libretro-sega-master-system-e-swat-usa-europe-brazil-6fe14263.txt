@@ -1,0 +1,51 @@
+// Always Have E-Suit
+00C0-5E03
+
+// Infinite Ammo For Special Weapons
+00C0-C705
+
+// Level Select
+00C0-5600
+
+// Invulnerability
+00D-6AD-3B4
+
+// Invulnerability
+00C0-8039
+
+// Infinite Health
+00C0-6404
+
+// Infinite Time - Ten's Digit
+00C0-CA09
+
+// Infinite Time - One's Digit
+00C0-CB09
+
+// Infinite Ammo - One's Digit
+00C0-D709
+
+// Infinite Ammo - Ten's Digit
+00C0-D609
+
+// Infinite Ammo - Hundred's Digit
+00C0-D509
+
+// Infinite Lives
+00C0-C104
+
+// Infinite Lives
+3AE-03F-2A2
+
+// Max Top Score
+00C0-5009
+00C0-5109
+00C0-5209
+00C0-5309
+00C0-5409
+
+// Never Die Even if Your Health Runs Out
+00C0-5A01
+
+// Most Bosses Die with 1 Hit
+00CA-5B00

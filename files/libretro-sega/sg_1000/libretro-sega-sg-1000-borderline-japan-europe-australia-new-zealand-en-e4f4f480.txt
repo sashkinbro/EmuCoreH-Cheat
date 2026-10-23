@@ -1,0 +1,5 @@
+// Infinite Lives
+00C0-DE03
+
+// Infinite Fuel
+00C0-DF80

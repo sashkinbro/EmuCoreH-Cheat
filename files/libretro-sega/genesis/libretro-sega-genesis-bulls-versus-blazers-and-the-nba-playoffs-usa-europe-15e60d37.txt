@@ -1,0 +1,11 @@
+// Infinite Timer
+FFA6EC:0059
+
+// Infinite Shot Time
+FFA6F4:0099
+
+// Score Modifier (Team 1)
+FFA6E4:0063
+
+// Score Modifier (Team 2)
+FFA6E6:0000

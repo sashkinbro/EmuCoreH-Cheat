@@ -1,0 +1,14 @@
+// Golf bag holds 14 clubs plus putter, instead of 13 clubs
+B9RT-AAB4
+
+// Golf bag holds 15 clubs plus putter
+CDRT-AAB4
+
+// Golf bag holds 16 clubs plus putter
+CHRT-AAB4
+
+// Always on same Stroke
+AV7T-AA9G
+
+// No penalty stroke for hitting ball in water hazard or out of bounds
+AV6T-AA6C

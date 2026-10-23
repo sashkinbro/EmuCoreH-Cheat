@@ -1,0 +1,80 @@
+// Infinite Lives
+00DF-BA03
+
+// Infinite Energy
+00CA-3A20
+
+// Invulnerability
+00CA-3C36
+
+// Invulnerability
+C96-DBB-E69
+
+// Debug Invincibility
+006-72B-3B4
+
+// Infinite time
+00B-3AB-E6E
+
+// Start with 2 lives
+022-727-E66
+
+// Start with 7 lives
+072-727-E66
+
+// Start with 9 lives
+092-727-E66
+
+// Infinite Energy
+3A7-02B-2A2
+
+// Infinite lives
+3A1-2AE-2A2
+
+// Infinite ammo for special weapons
+3A3-23D-2A2
+
+// Die and get special weapons given to you
+3C1-32E-5D4
+
+// Don't lose special weapons after dying
+211-36E-2A2
+211-39E-2A2
+
+// Invincibility
+3E6-FFB-2AA
+207-00B-E6E
+007-01B-5D4
+
+// Infinite Time (One's Digit)
+00DF-C309
+
+// Infinite Time (Ten's Digit)
+00DF-C409
+
+// Infinite Time (Hundred's Digit)
+00DF-C509
+
+// Invulnerability (Alt)
+C96-73B-E69
+
+// Infinite Health
+006-FEB-A28
+
+// No Game Over From 0 Lives
+181-16E-6EA
+
+// Powerups Don't Disappear
+00CC-9C80
+
+// Powerups Don't Disappear
+C91-48B-E69
+
+// Boot Into The Ending
+00DF-EC09
+
+// Freeze Timer
+00DF-C21E
+
+// Press Start on Title Screen for Debug Menu
+000-D87-2AE

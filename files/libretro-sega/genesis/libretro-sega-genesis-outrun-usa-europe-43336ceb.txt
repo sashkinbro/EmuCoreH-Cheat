@@ -1,0 +1,122 @@
+// Infinite time to complete race
+RY4T-A6ZJ
+
+// Start with 99 seconds (hard and normal levels)
+BE2A-AWAY
+
+// Start with 60 seconds (hard and normal levels)
+AA2A-ANAY
+
+// Start with 99 seconds (pro and super levels)
+BE2A-AWAJ
+
+// Start with 60 seconds (pro and super levels)
+AA2A-ANAJ
+
+// Start with 99 seconds (easy and super easy levels)
+BE2A-AWAR
+
+// Start with 60 seconds (easy and super easy levels)
+AA2A-ANAR
+
+// Infinite Time
+RE4T-A6ZJ
+
+// Turn Options Menu into Hyper Options Menu
+AJET-AA68
+AJET-AA8R
+AAFA-AA2E
+AAFT-AA7A
+
+// Enable Hyper Difficulty Level
+AAFT-AA7A
+
+// Enable Invincibility Cheat
+RZGT-A610
+
+// Display Debug Codes
+AJSA-AA46
+AJ2T-AA88
+
+// Enable Infinite Time Cheat
+AA4T-AA8C
+AA4T-AA86
+
+// Infinite Time
+FFF130:0909
+
+// Automatically turns on roads
+ABFA-AAPC
+
+// Top speed in low gear is around 202 mph
+JKCT-ACHA
+
+// Top speed in low gear is around 220 mph
+M3CT-ACHA
+
+// Accelerate much faster in low gear, and have a top speed of 119 mph (in low gear)
+1VCT-AAHA
+BBCT-AAHC
+
+// Accelerate much faster in low gear, and have a top speed of 202 mph (in low gear)
+JKCT-ACHA
+BBCT-AAHC
+
+// Accelerate much faster in low gear, and have a top speed of 220 mph (in low gear)
+M3CT-ACHA
+BBCT-AAHC
+
+// Have Hyper Difficulty Level Max Speed and Acceleration on non-Hyper Difficulty Levels
+ABCA-AA6L
+
+// Default Control Scheme is the same as the Japanese version
+AAJT-AAD2
+
+// Always burning rubber
+AVBT-AANG
+AVBT-AANJ
+
+// Instantly stop when using your breaks or switching gears
+ABCT-AANL
+
+// Untouchable
+ABGT-AAHA
+ABGT-AAHG
+
+// Untouchable
+ABGT-AAHL
+
+// Only watch the demo play
+AB0T-AAMY
+
+// No cars
+AAZA-AAS0
+
+// Accelerate much faster in high gear
+EVDA-ACC2
+BBDA-AAC4
+
+// Accelerate much faster in high gear, with a top speed of 214 mph
+LFDT-ACDY
+BBDT-AAD0
+
+// Accelerate much faster in Low and high gear
+1VCT-AAHA
+BBCT-AAHC
+EVDA-ACC2
+BBDA-AAC4
+
+// Untouchable to obstacles
+ABHA-AAXY
+
+// Always drive at 200MPH/320KPH
+FFF03E:0140
+
+// The light is already blue so you can drive
+ABBA-AADJ
+
+// High gear top speed is 223
+ABFA-AAPC
+
+// If you switch in to high gear the game will restart
+ABFA-AAKT

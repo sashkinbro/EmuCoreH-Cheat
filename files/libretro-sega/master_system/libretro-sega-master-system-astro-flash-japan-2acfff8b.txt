@@ -1,0 +1,8 @@
+// Infinite Lives
+00C1-5D03
+
+// Never Battle
+00C1-6F04
+
+// Infinite Energy
+00C5-F0F0

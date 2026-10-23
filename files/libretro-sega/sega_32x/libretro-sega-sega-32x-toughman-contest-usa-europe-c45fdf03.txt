@@ -1,0 +1,24 @@
+// Infinite Energy
+FFFB68:0001
+
+// Opponent has no energy
+FFF920:0000
+
+// Infinite Time
+FFFA5A:0000
+FFFA58:0001
+
+// Turbo Mode
+FFFB62:0001
+
+// Decapitated Opponent
+FFFB5E:0001
+
+// Pitch Dark Opponent
+FFFB66:0001
+
+// Short Opponent
+FFFB6A:0001
+
+// Neon Colored Opponent
+FFFB60:0001

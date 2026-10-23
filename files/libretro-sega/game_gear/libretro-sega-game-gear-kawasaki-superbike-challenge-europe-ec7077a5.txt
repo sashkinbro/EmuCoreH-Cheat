@@ -1,0 +1,8 @@
+// Go 255 Mph
+00C9-30FF
+
+// Low Timer (Ten's Digit)
+00C8-F200
+
+// Infinite Time
+00A-EED-19A

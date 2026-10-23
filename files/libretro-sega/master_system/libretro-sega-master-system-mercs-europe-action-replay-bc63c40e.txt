@@ -1,0 +1,34 @@
+// Infinite "Nuke" Blasts
+00D3-9C09
+
+// Infinite Health
+00D3-B21F
+
+// Infinite Time
+00D0-9101
+
+// Have Full Power Rifle
+00D0-A203
+00D0-A303
+00D0-A603
+
+// Have Flamethrower
+00D0-A204
+00D0-A301
+00D0-A501
+00D0-A602
+
+// Have Rocket Launcher
+00D0-A206
+00D0-A304
+00D0-A502
+00D0-A603
+
+// Have Spread Gun
+00D0-A207
+00D0-A302
+00D0-A503
+00D0-A603
+
+// First Boss Cannot Shoot
+00D2-0E00

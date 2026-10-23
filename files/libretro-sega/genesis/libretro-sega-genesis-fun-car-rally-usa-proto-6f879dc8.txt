@@ -1,0 +1,8 @@
+// Infinite Boost
+FF0F90:0006
+
+// Infinite time
+AJ7A-AA6T
+
+// Can drive thru anything (guard rails, rocks, trees, etc).  See notes.
+ABAT-AA72

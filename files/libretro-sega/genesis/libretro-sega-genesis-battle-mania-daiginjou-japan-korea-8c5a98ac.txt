@@ -1,0 +1,29 @@
+// Infinite Energy
+AMET-CA8G
+
+// Infinite Charge
+AKSA-AA6R
+
+// Invincibility
+EL9A-CN8Y
+
+// Infinite Energy
+FFFE20:0004
+
+// Infinite Charge
+FFC3AE:0800
+
+// Invincibility
+FFC2D2:0065
+
+// Start a new game with a little more energy
+A9ST-CACN
+
+// Start a new game with a lot more energy
+CDST-CACN
+
+// Enable Stage Select Menu when Starting a New Game
+FFFE3A:0403
+
+// Automatically go to the level select screen when you start the game
+ALLT-EA8J

@@ -1,0 +1,49 @@
+// Always Robot
+FFC51E:0001
+FFC520:0005
+
+// Infinite Energy
+AKSA-AA70
+
+// Infinite Lives
+AXRT-AA92
+
+// Invincibility
+EM3A-AN24
+
+// Infinite Energy
+FFDE46:0040
+
+// Infinite Lives
+FFDE44:0002
+
+// Invincibility
+FFDFC4:0003
+
+// Infinite HP
+JBCT-CE0J
+
+// Infinite Health P1
+FFDE46:0045
+
+// Infinite Lives P1
+FFDE44:0009
+
+// Children Remaining Modifier
+FFDE4E:0000
+
+// Invincibility (Disable Hit Detection)
+RZCT-C6YG
+RZCT-C6X6
+
+// Infinite Energy
+RZSA-A6Z0
+
+// Enabled Cheat Code Level Select
+FFFE58:00FF
+
+// Enabled Cheat Code Level Select
+EBWT-AA6Y
+
+// Infinite Controllable Jump
+AD0A-AAF4

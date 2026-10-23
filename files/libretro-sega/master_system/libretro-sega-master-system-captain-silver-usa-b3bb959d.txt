@@ -1,0 +1,23 @@
+// Invincibility
+00C1-4001
+
+// High Jump [Always Have Boots]
+00C0-2A01
+
+// Start With Key
+00C1-4901
+
+// Have Shot Type
+00C0-2903
+
+// Infinite Time
+C99-2DF-E62
+
+// Infinite Lives
+00C0-2809
+
+// Infinite Time
+00C0-2B99
+
+// Infinite Lives
+7EA-BFE-3B7

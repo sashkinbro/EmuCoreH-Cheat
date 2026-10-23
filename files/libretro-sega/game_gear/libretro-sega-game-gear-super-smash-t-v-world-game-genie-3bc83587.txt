@@ -1,0 +1,23 @@
+// Infinite Lives
+001-76D-19E
+
+// Start With 5 Lives
+050-809-F76
+
+// Start With 8 Lives
+080-809-F76
+
+// Start With 10 Lives
+0A0-809-F76
+
+// Green Men Freeze
+C93-605-91D
+
+// Start With 5 Credits
+051-299-F76
+
+// Start With 8 Credits
+081-299-F76
+
+// Start With 10 Credits
+0A1-299-F76

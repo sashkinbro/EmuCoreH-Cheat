@@ -1,0 +1,11 @@
+// Infinite Health
+00CE-B80F
+
+// Infinite Lives
+00CE-BE04
+
+// Enemies Have No Health
+00CE-9200
+
+// Infinite Weapon Ammo On Pick-Up
+00CE-E032

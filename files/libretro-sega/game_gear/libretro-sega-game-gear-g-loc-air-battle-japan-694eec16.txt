@@ -1,0 +1,11 @@
+// Infinite Fuel
+00C2-C91F
+
+// Infinite Time
+00C0-CE32
+
+// Infinite Time
+001-C58-E6E
+
+// Infinite Fuel
+2A0-ED9-6E2

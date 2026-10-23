@@ -1,0 +1,64 @@
+// Infinite Energy
+9TLA-BCG8
+RALA-AAHA
+6JLA-B31C
+
+// Hit Anywhere P1
+AJLA-CA5E
+
+// Hit Anywhere P2
+AJLA-CA76
+
+// Invincibility P1
+AALA-CA76
+
+// Invincibility P2
+AALA-CA5E
+
+// 1 Hit Kills Opponent
+AH6T-AAFJ
+
+// It Only Takes Half The Number Of Hits To Kill Your Opponent
+HD6T-AAFJ
+
+// Character Modifier P1
+FF06C6:0000
+
+// Character Highlighter Modifier P1
+FF06E2:0000
+
+// Infinite Health P1
+FFDCE2:0070
+
+// Rounds Won Modifier P1 (Ignore HUD)
+FFDC0C:0000
+
+// Character Modifier P2
+FF06EA:0000
+
+// Character Highlighter Modifier P2
+FF06FE:0000
+
+// No Health P2
+FFDEE2:0000
+
+// Position Modifier P2 In Match
+FFCB98:00BE
+
+// Rounds Won Modifier P2 (Ignore HUD)
+FFDE0C:0000
+
+// Infinite Time To Choose Character (Character Select)
+FF0700:0063
+
+// Infinite Time Left (In Match)
+FF021A:0063
+
+// Low Timer For Time Spent Fighting (Minutes) (In Match)
+FF0212:0000
+
+// Low Timer For Time Spent Fighting (Seconds) (In Match)
+FF0212:0000
+
+// Low Timer For Time Spent Fighting (Micro-Seconds) (In Match)
+FF0214:0000

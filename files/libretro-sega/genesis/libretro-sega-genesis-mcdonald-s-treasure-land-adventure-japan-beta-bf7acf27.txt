@@ -1,0 +1,25 @@
+// Infinite Lives
+AJKA-CA4W
+
+// Infinite Hamburger (Health)
+ALNT-AA4N
+ALPA-AA7A
+
+// Invincibility
+R0NT-A6VT
+
+// Infinite Golds
+AJTA-CA86
+
+// Infinite Balloons
+AM7A-AA78
+
+// Infinite Magic Power-Up After The Death
+AJKA-CA36
+
+// Keep Potato After The Death
+AKJT-AA78
+
+// Freeze Time Continue
+AJRA-CA24
+AJRA-CA3T

@@ -1,0 +1,104 @@
+// Infinite Lives
+FFB1D8:0009
+
+// Infinite Candies
+FFB1B8:0009
+
+// Have Fire Extinguisher
+FFB05A:0001
+
+// Have Bus Ticket
+FFB058:0001
+
+// Have Icing Sugar
+FFB058:0001
+
+// Have Passport
+FFB056:0001
+
+// Have Cosmic Joke Book
+FFB056:0001
+
+// Have A Ready Made Letter
+FFB054:0001
+
+// Have Trampoline
+FFB054:0001
+
+// Have Blowpipe
+FFB052:0001
+
+// Have Bridge
+FFB052:0001
+
+// Have Anti Gravity Slide
+FFB050:0001
+
+// Have Money Box
+FFB050:0001
+
+// Have Supa Color Film
+FFB04E:0001
+
+// Have Camera
+FFB04E:0001
+
+// Have Computer Key
+FFB04C:0001
+
+// Have A Metal Bar
+FFB04C:0001
+
+// Have Car Keys
+FFB04A:0001
+
+// Have Surfboard
+FFB04A:0001
+
+// Have Match
+FFB048:0001
+
+// Have Targetting Device
+FFB048:0001
+
+// Have Gunpowder
+FFB046:0001
+
+// Have Fuse Wire
+FFB046:0001
+
+// Have Mail From Linograd
+FFB044:0001
+
+// Have Driving Licence
+FFB044:0001
+
+// Have Linograd Telekey
+FFB042:0001
+
+// Have Formica Telekey
+FFB042:0001
+
+// Have Linoville Telekey
+FFB040:0001
+
+// Have Dodgey City Telekey
+FFB040:0001
+
+// Have Lino Town Telekey
+FFB03E:0001
+
+// Have Helium Balloon
+FFB03E:0001
+
+// Have A Rubber Plug
+FFB03C:0001
+
+// Have Passport Photos
+FFB03C:0001
+
+// Have 99 Lino Dollars
+FFB03A:0063
+
+// Invincibility
+RZST-C6ZC

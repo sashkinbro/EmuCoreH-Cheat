@@ -1,0 +1,8 @@
+// Infinite Continues
+00C5-E103
+
+// FAKE Infinite Tries On Slot Machine (Bonus Game)
+00C0-BE09
+
+// Infinite Tries On Slot Machine (Bonus Game)
+00C5-CF09

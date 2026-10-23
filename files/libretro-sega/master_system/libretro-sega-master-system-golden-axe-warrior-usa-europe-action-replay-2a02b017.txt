@@ -1,0 +1,17 @@
+// Infinite Health
+00C3-181F
+
+// Infinite Magic
+00C0-DB80
+
+// Infinite Keys
+00C0-DEFF
+
+// Infinite Gold
+00C0-DDFF
+
+// Start With Maximum Life Hearts
+00C0-DA80
+
+// Start With Maximum Magic Pots
+00C0-DC80

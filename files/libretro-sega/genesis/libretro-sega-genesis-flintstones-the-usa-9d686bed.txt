@@ -1,0 +1,83 @@
+// Invincibility
+R0WA-A6XG
+
+// Infinite Enegy
+AWTT-AA80
+
+// Infinite Lives
+FF0154:0009
+
+// Infinite Energy
+FF2F00:0006
+
+// Invincibility
+FF2F1C:0005
+
+// Stage Modifier
+FF014E:0000
+
+// 99 Fred Heads
+FF0158:0063
+
+// Wavy Background
+FF0220:0001
+FF0224:00D8
+
+// All Bosses' One Hit Kills
+FF0804:0001
+FF0904:0000
+FF0984:0000
+FF0A84:0000
+FF0B04:0000
+
+// Swim Anywhere
+FF2F2C:0001
+
+// Start Each Life With More Energy
+AY1T-AAG0
+RGJA-A6Z8
+
+// Infinite Lives
+AWVT-AA92
+
+// Most &quot;Fred Stars&quot; Are Worth 8 (Instead Of 1)
+SGET-DAWW
+
+// You Only Need To Get 1 &quot;Fred Star&quot; To Get An Extra Life (Instead Of 50)
+AGET-CAC4
+
+// Max Heart Containers
+FF0156:0006
+
+// Invincible After Being Hit
+FF2F1C:0000
+
+// Infinite Energy
+FF2F00:0C00
+
+// Moon Jump
+FF2EEE:B000
+
+// Invincibility
+R0TT-A600
+R0TT-A6Z8
+R1SA-A6VY
+
+// Infinite Credits
+AT4T-AA96
+
+// 1 Pow Kill Bosses
+A37A-CA6G
+
+// Jump to any Height (Hold Jump to go higher, release to descend)
+ACRA-AABG
+
+// Enabled Cheat Code Stage Select
+AJTT-AA2W
+RETT-A6VL
+
+// Invincibility (mostly)
+BLTT-AA7C
+
+// Jump to any Height in Car (Hold Jump to go higher, release to descend)
+ADVT-AAB4

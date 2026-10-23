@@ -1,0 +1,17 @@
+// Infinite Health
+00CB-1930
+
+// Infinite Lives
+00C0-1303
+
+// Invulnerability
+00CB-25FF
+
+// Invulnerability
+C94-68C-E69
+
+// Infinite Health
+002-A5C-C4A
+
+// Infinite Lives
+007-83D-E69

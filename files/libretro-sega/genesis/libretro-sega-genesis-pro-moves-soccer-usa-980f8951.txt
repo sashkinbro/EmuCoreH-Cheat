@@ -1,0 +1,5 @@
+// Time Modifier (One's Digit)
+FF1294:0000
+
+// 2P Team Score Modifier
+FF1298:0000

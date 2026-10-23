@@ -1,0 +1,43 @@
+// Infinite small spells
+RFVA-A6WT
+
+// Infinite large spells
+RFVA-A6VJ
+
+// Infinite lives
+ATVA-AA78
+
+// Infinite strength against obstacles
+RFRT-A6XR
+
+// Infinite strength under water
+JBRT-AEYW
+
+// Most Enemies Will Give You Energy
+HVRT-BACY
+RFRT-A6W2
+
+// Invincible
+RYVA-A6V6
+
+// Infinite Health. Falling into the abyss have to disable the code
+AJVA-AA6G
+
+// Invincibility
+FF0830:0010
+
+// Rise To The Skies
+FF000C:0000
+
+// Walk/accelerate faster
+CEWT-BJXE
+CAWT-BJV4
+
+// Longer invincibility after getting hit (about 2 seconds)
+YAVA-AAD8
+
+// Don't fall when you walk off ledges (walk on air)
+BA3T-AA2J
+
+// Get double the normal points from enemies/items
+JVTT-BVT8

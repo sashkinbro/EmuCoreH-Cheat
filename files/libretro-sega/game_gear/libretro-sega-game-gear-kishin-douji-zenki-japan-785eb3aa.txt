@@ -1,0 +1,29 @@
+// Invulnerability
+00CF-0902
+
+// Invincibility
+00CE-FE06
+
+// Infinite Lives
+00C0-1503
+
+// Stage Select
+00C1-A000
+
+// Infinite Health
+7E0-7FD-3B7
+
+// Invulnerability (Blinking)
+00E-A39-C4E
+
+// Invulnerability After Taking Damage
+18E-A29-4CA
+
+// Start On Stage 2
+138-FAF-F72
+
+// Start On Stage 4
+058-FAF-F72
+
+// Infinite Lives
+3A7-60F-2A2

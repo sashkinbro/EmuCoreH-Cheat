@@ -1,0 +1,56 @@
+// Invulnerability
+00C2-2681
+
+// Invulnerability
+C93-7A7-E69
+
+// Infinite lives
+008-A6E-E6E
+
+// Infinite Energy
+003-64C-E69
+
+// Start with 2 energy stars
+029-76F-E66
+
+// Start with 4 energy stars
+049-76F-E66
+
+// Start with 5 energy stars
+059-76F-E66
+
+// Timer starts at 300
+036-C1E-F7A
+
+// Timer starts at 500
+056-C1E-F7A
+
+// Timer starts at 600
+066-C1E-F7A
+
+// Infinite Health
+00C0-BD03
+
+// Infinite Time
+003-498-E6E
+
+// Get Hit Once For Invincibility (Blinking)
+00C2-27FF
+
+// Infinite Tires (Lives)
+00C0-C803
+
+// Infinite Time
+00DC-0099
+
+// Mickey Jumps Higher
+00C2-28FF
+
+// Freeze Timer
+00DC-0219
+
+// Jump Higher
+FAE-DEC-199
+
+// Jump Height Modifier
+FBE-DEC-199

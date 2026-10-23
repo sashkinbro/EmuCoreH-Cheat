@@ -1,0 +1,15 @@
+// Infinite Lives
+RFLA-A6Y4
+
+// Infinite Papers
+AVLT-AA7G
+
+// Invincibility
+BBWA-AA4N
+DVWA-AA3L
+
+// Infinite Lives P1
+FFC04E:0005
+
+// Infinite Papers P1 + P2
+FFC04A:0014

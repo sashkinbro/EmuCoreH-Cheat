@@ -1,0 +1,23 @@
+// Infinite Hearts
+FFE372:0010
+
+// Infinite Lives
+FFE370:0009
+
+// Infinite Energy
+FFE372:0028
+
+// Untouchable
+R1AT-A6TN
+
+// Infinite Hearts
+AMAT-AA3G
+
+// Infinite Lives
+AL6T-AA8L
+
+// Infinite Continue
+AWMT-AA4J
+
+// Freeze Time Continue
+A2MT-AA54

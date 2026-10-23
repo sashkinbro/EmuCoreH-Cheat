@@ -1,0 +1,345 @@
+// Start with 1 life
+AE3T-AACL
+
+// Start with 5 lives
+AY3T-AACL
+
+// Once invincible, stay invincible for the rest of stage or until you die
+AE0T-CABE
+
+// Each ring counts as 2
+SCRA-BJX0
+
+// Each ring counts as 3
+SCRA-BNX0
+
+// Each ring counts as 4
+SCRA-BTX0
+
+// Each ring counts as 5
+SCRA-BYX0
+
+// Each ring counts as 6
+SCRA-B2X0
+
+// Each ring counts as 7
+SCRA-B6X0
+
+// Each ring counts as 8
+SCRA-BAX0
+
+// Infinite lives
+GJ6A-CA7A
+
+// Level select menu
+AJ3A-AA4G
+
+// Start with 5 chaos emeralds
+AY3T-BA4R
+
+// Super jump
+DDLT-AAGL
+
+// Skywalking
+BDLT-AAGL
+
+// Low jump
+KDLT-AAGL
+
+// Jump In Midair
+BT4A-CA66
+AA4A-DZ7N
+RE4A-C6ZW
+AN4A-DP70
+AT4A-CR76
+
+// Get Rings From Anywhere
+FGPT-BT0A
+
+// Sonic and other things are black
+ATTT-AAEE
+
+// Start With All Chaos Emeralds
+A23T-BA4R
+
+// Never Lose Rings
+AWRT-AA5W
+
+// Start With 2 Continues
+663T-B64R
+
+// Kill The First Enemy And Get 9,999,999 Points!
+663T-BA4R
+
+// Get Rings From Computers Only
+SCRA-BZX0
+
+// Enable Debugger!
+AE2T-AAAL
+
+// Start On Level 2 (Labyrinth Zone)
+AA2A-ACC8
+
+// Start On Level 2, Act 2 (Labyrinth Zone, Act 2)
+AE2A-ACC8
+
+// Start On Level 3 (Marble Zone)
+AA2A-AEC8
+
+// Start On Level 4 (Star Light Zone)
+AA2A-AGC8
+
+// Ring Count Goes To 50 After Getting Hit
+GLRT-AADY
+
+// Ring Count Goes To 99 After Getting Hit
+NRRT-AADY
+
+// Enable Stage Select
+FFFFD0:0100
+
+// Infinite Rings
+FFFE20:00C8
+
+// Infinite Lives
+FFFE12:0009
+
+// Stage/Act Modifier
+FFFE10:0000
+
+// Makes Sonic Invulnerable To Enemies, Bullets, And Spikes Until He Picks Up Another Shield
+2E6T-BCHT
+
+// Aerial View of A Level
+2E6T-BCS6
+
+// Gives Sonic Turbo Shoes With Every TV He Breaks
+JLVT-AA48
+
+// Begin With Several Hundred Rings On Each Level
+CA3A-AA4C
+
+// Begin The Game With 99 Lives
+NN3T-AACL
+
+// Invincibility (Enemies Can't Touch You)
+FFD030:00FF
+
+// Invincibility (Always Have Shield)
+FFFE2C:0000
+
+// Invincibility (Starman Effect)
+FFFE2C:0001
+
+// Set Total Time To 0:01
+FFFE24:0000
+
+// Infinite Time Underwater For Sonic
+FFFE14:00FA
+
+// Defeat Stage 1 Robotnik Boss With 1 Hit
+FFD920:0001
+
+// Defeat Stage 2 Robotnik Boss With 1 Hit
+FFD820:0001
+
+// Defeat Stage 3 Robotnik Boss With 1 Hit
+FFDA20:0001
+
+// Defeat Stages 4 &amp; 5 Robotnik Bosses With 1 Hit
+FFD860:0001
+
+// Defeat Final Stage Robotnik Boss With 1 Hit
+FFFE5E:0001
+
+// Set All Chaos Emeralds
+FFFE56:0006
+
+// Switch F/X On For Levitate Jump
+FFD012:00FE
+
+// Faster Music
+FFF000:0000
+
+// Hyper Mode (Sonic)
+FFD01E:0000
+
+// Warp To End of Stage
+FFD008:0000
+
+// Alot of animals come out of enemies when you destroy them
+AGJA-AAX2
+
+// Invincibility
+R01T-C614
+R02A-C6Y6
+
+// Skip Intro Screens
+ATBT-AAEE
+
+// Sonic Is Always In Debug Object Placement Mode
+NAZT-CA9L
+
+// When Sonic Dies He Falls Straight Through The Ground With No Expression On His Face
+HW2A-CA7L
+
+// God Mode
+FFD024:0002
+
+// Invincibility - Sonic the Hedgehog (Japan, Korea)
+R05T-C6ZR
+R06A-C6WW
+
+// Walk On Air
+BVDA-CA7T
+
+// Infinite Time Underwater
+AJ9T-CA3A
+
+// Control Mode, in Pause press A reboot game, Press B play in slow motion, Press C move frame by frame
+REKT-A602
+
+// Don't Lose Rings When Hit, No Ring Scatter Either
+R0RT-A6TE
+
+// Disable Rings
+R0PT-A6VN
+
+// Invincibility Lasts Until The End Of The Level
+RY0A-C61R
+
+// Ring Monitors Gives You Speed Shoes Instead of 10 Rings
+FCVT-AA52
+
+// Ring Monitors Give You An Extra Life Instead of 10 Rings
+FCVT-BAX2
+
+// Walk Through Solid Objects (Except Ring Monitors)
+R17T-A6VN
+
+// Invincible
+R01T-C612
+
+// All Monitors Give You Speed Shoes Instead of 10 Rings (REV01)
+FCYT-AA94
+
+// All Monitors Give You An Extra Life Instead of 10 Rings (REV01)
+FCYT-BA14
+
+// Music Continue (No SFX)
+RYST-R6WN
+
+// No Music
+RYTA-R6W4
+
+// Music Sounds Different
+RY0A-R6V0
+
+// Walk Through Ring Monitors
+ALWA-AA8A
+
+// Disable HUD
+R1CT-C6WW
+
+// Disable Moveable Objects
+R1KT-A6W6
+
+// Pause the game to enable debugger. See notes.
+9JKT-B98J
+
+// Pause The Game To Enable Debugger (alternate version).  See notes.
+BEKT-B78J
+
+// Pause The Game To Become Invincible. See notes.
+HASA-SEXE
+FYSA-S75G
+
+// Pause The Game And Press A To Play Special Stages. See notes.
+ATKT-AA8Y
+CAKT-AAHE
+
+// Pause the game and press A to see ending sequence and credits. See notes.
+ATKT-AA8Y
+DAKT-AAHE
+
+// Pause the game and press A, B, or C for different cheats.  See notes.
+ATKT-AA8Y
+FYKT-B79G
+DJKT-AA9J
+HALA-BETW
+CJLA-B72Y
+SALA-ANA0
+BJLA-AAA2
+EALA-B724
+62LA-AA26
+DJKT-AN94
+
+// Pause The Game And Press A For Invincibility, or Press B Or C To Add 10 Rings To Your Total. See notes.
+ATKT-AA8Y
+FYKT-B79G
+DJKT-AA9J
+SALA-ANAW
+BJLA-AAAY
+EALA-B720
+DYLA-B726
+6TLA-AA28
+
+// Invincibility (walk thru enemies and enemy fire). See notes.
+RG1T-C61E
+
+// Invincibility (partial). See notes.
+BL1T-CA3Y
+
+// Protection From Spikes
+FMHA-AA90
+
+// Don't Fall When You Walk Off Ledges (Walk on air). See notes
+RZDA-C6ZT
+
+// Pause The Game And Press A, B, Or C For Different Effects.  See Notes
+ATKT-AA8Y
+BEKT-B79G
+DJKT-AA9J
+AALA-AYAY
+NALA-BS20
+D2LA-AAA4
+NNLA-BS26
+6TLA-AA28
+DTKT-AN94
+
+// Walk thru rocks, spikes, walls (some), springs, etc. See notes.
+AD7A-AA88
+
+// Touching The Red Goal Markers In The Special Stages Won't Make You Exit
+AL9T-CA3N
+
+// Special/Bonus Stages Rotate Slower.  See notes.
+CBDA-AAGG
+
+// Special/bonus stages don't rotate at all.  See notes.
+ABDA-AAGG
+
+// Special/Bonus Stages Don't Rotate At All, And You'll Have High Moon Jump With Super Slow Moon Descent. See notes.
+AG8A-CAEE
+ABDA-AAGG
+
+// Don't Die When Timer Reaches 10 Minutes
+RHDT-C6TR
+
+// Always get 5000, 10000, or 50000 Time Bonus points at the end of levels
+RHDT-C6VJ
+
+// Timer runs at half speed (2x slower than normal)
+SDDT-CAAY
+
+// Timer runs at one quarter speed (4x slower than normal)
+8DDT-CAAY
+
+// Always get the giant ring at the end of the level (for the special/bonus stage)
+ACSA-AACJ
+
+// Don't die when crushed by moving pillars
+RH7T-A60A
+
+// Start Almost Every Life With 1 Ring
+SA6T-BE06

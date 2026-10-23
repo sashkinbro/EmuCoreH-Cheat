@@ -1,0 +1,41 @@
+// Infinite Lives
+00D1-8E03
+
+// Invincibility
+00D1-BD02
+
+// Infinite Time
+00D0-9055
+
+// 99% Cool (Enables Bonus Game After Level)
+00C7-6999
+
+// Infinite Health
+00D1-8F30
+
+// Invulnerability
+C9F-DED-E69
+
+// Infinite Health
+005-D3C-C4A
+
+// Infinite Lives
+004-E9E-A2D
+
+// Start At The Cheats Menu
+4D7-DF9-6EE
+
+// Cheat Menu Enabled
+00CE-4704
+
+// Infinite Time
+00E-3BB-3BE
+
+// Get 1 Spot for Bonus Game
+639-AAD-E6E
+
+// Freeze Timer
+00D0-8F3C
+
+// Jump in Midair
+00A-D4C-E69

@@ -1,0 +1,68 @@
+// Regional Lockout Bypass
+ABWA-AN98
+
+// Infinite Lives
+AL7T-LA2G
+
+// Infinite Energy
+AJYT-JA2G
+
+// Invincibility
+C2XA-JR9W
+AKET-JA8A
+
+// Infinite Energy
+FFC0C2:0008
+
+// Infinite Lives
+FFBFCA:0009
+
+// Invincibility
+RZGA-J6V4
+RZSA-L60C
+R18T-G6XT
+RY8T-A6VR
+
+// Infinite Items
+A5TT-LA6R
+AKPT-LA86
+AMTT-LA22
+A5CA-LA8A
+AMCT-LA4Y
+
+// Keep Items After The Death
+AKDA-JA7R
+
+// Infinite Lives - Pink Goes to Hollywood (USA) (Beta)
+AL7T-LA6Y
+
+// Infinite Energy - Pink Goes to Hollywood (USA) (Beta)
+AJYT-JA3W
+
+// Invincibility - Pink Goes to Hollywood (USA) (Beta)
+RZGA-J6XG
+RZSA-L61R
+R18T-G6Y6
+RY8T-A6VR
+
+// Infinite Items - Pink Goes to Hollywood (USA) (Beta)
+A5VA-LA26
+AKRA-LA2J
+AMTT-LA7G
+A5CT-LA4R
+AMCT-LA9C
+
+// 1 Hit Kill Enemies/Bosses - Pink Goes to Hollywood (USA) (Beta)
+AJ1T-JA26
+
+// Enabled Cheat Code Cheat Mode - Pink Goes to Hollywood (USA) (Beta)
+AKVA-NA34
+
+// 1 Hit Kill Enemies/Bosses
+AJ1A-JA9T
+
+// Enabled Cheat Code Cheat Mode
+AKTT-NA7N
+
+// Keep Items After The Death - Pink Goes to Hollywood (USA) (Beta)
+AKDA-JA84

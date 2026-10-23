@@ -1,0 +1,89 @@
+// Infinite Lives
+00CE-B765
+
+// Invincibility
+00CE-9BFF
+00CE-9CFF
+
+// Invincibility
+007-3B7-E68
+
+// Start with 1 life
+01F-0BE-F72
+
+// Start with 9 lives
+09F-0BE-F72
+
+// Start with 15 lives
+0FF-0BE-F72
+
+// Start with letters &quot;X&quot; and &quot;T&quot;
+00F-12E-5D4
+
+// Almost invincible
+FF0-4B7-E6A
+FF9-607-E6A
+
+// Infinite Lives P1
+00CE-B709
+
+// Round Modifier
+00DB-0000
+
+// Hit Anywhere Normal Enemies
+001-A15-A22
+001-AA5-C4E
+187-246-191
+1A7-256-806
+
+// Invulnerability
+C92-B9B-E69
+
+// Infinite Time
+00CE-7E00
+
+// Infinite Lives
+B68-847-3BE
+
+// Infinite Time
+2A2-D6F-6E2
+2AD-096-6E2
+
+// Have All Magical Items In The Game
+00CE-EBFF
+
+// Select 1P Continue for Round Select
+00DC-8BC7
+
+// Invincibility against Enemies
+002-BDB-E68
+
+// Invincibility against Projectiles
+003-39B-E68
+
+// Infinite Time - Bonus Rounds (Disable to exit room)
+00DC-8500
+
+// Invincibility against Deadly Monster (appears when you take too much time)
+00B-AD6-E68
+
+// Invincibility against Super Drunk Boss
+00C-606-E68
+00C-196-E68
+
+// Infinite Time - Bonus Rounds (Disable to exit room)
+00E-62A-3BE
+
+// Bonus Round Timer starts at 30 seconds, instead of 20
+1E9-9C4-B3A
+
+// Bonus Round Timer starts at 40 seconds
+289-9C4-B3A
+
+// Pause during gameplay to get all Special Items
+3E7-346-6EA
+FF7-356-C4A
+327-366-082
+
+// Select 1P Continue for Round Select
+23E-DC4-3B2

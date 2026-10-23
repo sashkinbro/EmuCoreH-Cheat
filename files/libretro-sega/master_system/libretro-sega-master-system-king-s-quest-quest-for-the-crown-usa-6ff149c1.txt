@@ -1,0 +1,80 @@
+// Maximum Score - 255
+00D2-7CFF
+
+// Invisibility
+00D2-8201
+
+// Shrunken [Worn Off - Use Mushroom Code Below Inste
+00D2-8301
+
+// Spell [Protection From Monsters]
+00D2-4A01
+
+// Dagger
+00D2-4B01
+
+// Bucket
+00D2-4C01
+
+// Water [Used On Dragon In Well]
+00D2-4D01
+
+// Magic Shield
+00D2-4E01
+
+// Magic Mirror
+00D2-4F01
+
+// Magic Chest
+00D2-5001
+
+// Beans [Plant For Beanstalk]
+00D2-5101
+
+// Ring [Causes Invisibility]
+00D2-5201
+
+// Pouch
+00D2-5301
+
+// Carrot [Lures Goat]
+00D2-5401
+
+// Key [To Tower]
+00D2-5501
+
+// Walnut
+00D2-5601
+
+// Sceptre
+00D2-5701
+
+// Golden Egg
+00D2-5801
+
+// Clover
+00D2-5901
+
+// Bowl [Give To Woodcutter]
+00D2-5A01
+
+// Pebbles [For Slingshot]
+00D2-5B01
+
+// Mushroom [Eat To Become Shrunken]
+00D2-5C01
+
+// Cheese [Give To Giant Rat In Cavern]
+00D2-5D01
+
+// Fiddle [Play For Leprechauns]
+00D2-5E01
+
+// Note [Clue For Rumplestiltskin]
+00D2-5F01
+
+// Slingshot
+00D2-6001
+
+// 4-Leafer [Protection From Leprechauns]
+00D2-6101

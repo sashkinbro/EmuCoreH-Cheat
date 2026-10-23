@@ -1,0 +1,26 @@
+// Unlimited Time
+00C0-7B06
+
+// Need One Hostage To Open Exit
+00C0-7501
+
+// Keep Flame Weapon
+00C8-ED01
+
+// Invulnerability
+00C5-5502
+
+// Invulnerability
+B67-7FE-3B4
+
+// Infinite Lives
+3A6-F5F-2A2
+
+// Infinite Time
+7E1-22E-3B7
+
+// Keep fire weapon
+3A3-ADE-2A2
+
+// Infinite Lives
+00C0-5409

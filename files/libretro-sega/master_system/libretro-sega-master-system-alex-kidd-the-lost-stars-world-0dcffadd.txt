@@ -1,0 +1,33 @@
+// Invincible After 1 Hit [Time Still Decreases]
+00CD-0A01
+
+// Infinite Energy
+00CD-1D02
+
+// Unlimited Cloud Shots
+00CD-0114
+
+// High Jump [Makes Buzzing Noise]
+00CD-0601
+
+// End Level After Just 1 Screen
+00C0-50FF
+
+// Level Select [Replace ? With 0-C]
+00C0-4D00
+
+// Moon Jump
+00CD-16BE
+
+// Infinite Energy
+2A3-D0C-6E2
+2A4-03C-6E2
+
+// Invincibility
+36B-CED-193
+
+// Infinite Shots
+001-AEC-3BE
+
+// Level Select (Replace &Atilde;— With 0-C)
+D00-C0F

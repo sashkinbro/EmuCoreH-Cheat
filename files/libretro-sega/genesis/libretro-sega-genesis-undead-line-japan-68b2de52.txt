@@ -1,0 +1,30 @@
+// Infinite Lives
+D6FT-AADY
+
+// Infinite Energy
+D6FA-AAHY
+
+// Infinite Special
+D6HT-AAEN
+
+// Invincibility
+AADA-AN7G
+
+// Infinite Health
+AJFT-AA78
+
+// Infinite Lives
+AJFT-AA5W
+
+// Infinite Bombs
+AJHT-AA6L
+
+// Expert Mode (1 Hit And You Are Dead!)
+AJFA-AA9W
+
+// Invincibility
+FF0784:0010
+
+// Start Game Protected
+ATFA-AA8E
+ATHT-AA32

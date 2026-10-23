@@ -1,0 +1,29 @@
+// Start A New Game With Twice As Much Fuel
+6DET-CAAN
+
+// Infinite Fuel
+RGFA-A6X4
+
+// Start A New Game With 99 AA-8 Missiles
+NSDT-CAEW
+
+// Start A New Game With 99 AS-8 Missiles
+NSDT-CAE8
+
+// Infinite Gun
+FFC574:0009
+
+// Infinite 57mm
+FFC576:0009
+
+// Infinite AA-8
+FFC578:0009
+
+// Infinite AA-7
+FFC57A:0009
+
+// Infinite AS-8
+FFC57C:0009
+
+// Infinite AS-7
+FFC57E:0009

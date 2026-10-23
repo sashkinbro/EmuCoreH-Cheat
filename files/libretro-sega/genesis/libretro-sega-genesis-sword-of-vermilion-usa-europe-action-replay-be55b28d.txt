@@ -1,0 +1,51 @@
+// Infinite MP
+00B5BA:E475
+
+// Invincible
+01A242:4A78
+01A20E:4A78
+
+// Lots Of, And Infinite, Money
+FFC622:FFFF
+
+// Max Dex
+FFC63A:0FFF
+
+// Max Intel
+FFC638:0FFF
+
+// Max Strength
+FFC634:0FFF
+
+// Max MP
+FFC630:0FFF
+
+// Max Luck
+FFC63C:0FFF
+
+// 9999 HP
+FFC62C:270F
+
+// Max HP
+FFC62E:270F
+
+// 9999 MP
+FFC632:270F
+
+// Max MP
+FFC630:270F
+
+// 9999 STR
+FFC634:270F
+
+// 9999 AC
+FFC636:270F
+
+// 9999 INT
+FFC638:270F
+
+// 9999 DEX
+FFC63A:270F
+
+// 9999 LUCK
+FFC63E:270F

@@ -1,0 +1,49 @@
+// Infinite Rings - Main Stages
+00D2-5E30
+
+// Infinite Rings - Special Stage
+00DD-9E50
+
+// Each Ring Worth ??
+004-5A5-E6E
+
+// Don't Lose Rings When Hit
+3A2-265-2A2
+
+// Don't Die When Hit With No Rings
+542-525-91F
+
+// Invulnerability
+00D5-22AF
+
+// Invulnerability After Getting Hit (Blinking)
+C95-E05-E69
+
+// Don't Blink From Taking Damage
+775-DC5-193
+
+// Infinite Time Underwater
+00D5-4A05
+
+// Infinite Time Underwater
+007-AB7-3BE
+
+// Infinite Double Jumps
+00D5-3E00
+
+// Infinite Double Jumps
+008-027-195
+
+// Walk Through Walls
+C3F-E59-E61
+C3F-219-E61
+
+// Stage Select
+00D1-40FF
+
+// Stage Select
+C34-FDD-E61
+
+// Jump in Midair Knuckles
+F97-FE7-806
+198-007-E62

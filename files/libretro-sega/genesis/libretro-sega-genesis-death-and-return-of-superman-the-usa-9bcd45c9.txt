@@ -1,0 +1,259 @@
+// Invincibility
+AT6T-AA2N
+ST6T-BWKG
+TA6T-BLBL
+
+// Start with 1 life
+AA0T-DYFC
+
+// Start with 3 lives
+AJ0T-DYFC
+
+// Start with 4 lives
+AN0T-DYFC
+
+// Start with 6 lives
+AY0T-DYFC
+
+// Start with 10 lives
+BE0T-DYFC
+
+// Infinite lives
+ACDT-ANPE
+
+// Start with 1/2 health on your first life
+ACBA-AANL
+
+// Start with 3/4 health on your first life
+ACBA-BANL
+
+// Start with double health on your first life
+ACBA-ABEL
+
+// Start with 1/2 health after your first life
+ECDT-BYFT
+
+// Start with 3/4 health after your first life
+GCDT-BYFT
+
+// Start with double health after your first life
+TCDT-BYFT
+
+// Start with 1 special attack
+AE0T-DYE0
+
+// Start with 2 special attacks
+AJ0T-DYE0
+
+// Start with 5 special attacks
+AY0T-DYE0
+
+// Start with 9 special attacks
+BE0T-DYE0
+
+// Infinite special attacks
+ACLT-ANLC
+
+// Infinite Energy
+9TFT-BCEN
+NTFT-AAER
+TEFT-BMET
+
+// Infinite Lives
+JBZA-BWJR
+MVZA-AN20
+
+// Infinite Special
+JBZA-BWM0
+
+// Invincibility
+B26T-AR3E
+GJ6T-AN2N
+
+// Invincibility
+RE6T-A6TN
+
+// Improved Invincibility
+AT6T-AA2N
+ST6T-BWKG
+TA6T-BLBL
+
+// Infinite Health Superman
+FF9580:0064
+
+// Infinite Lives Superman
+FF9346:0009
+
+// Infinite Special Move
+FF84F6:0005
+
+// Almost No Health Some Enemies
+FF9584:0001
+
+// Fake Health Superman
+FF84EA:002D
+
+// Music Instrument Screwer
+FF8032:0009
+
+// Sound Test
+FF8202:0000
+
+// Control Mode
+FF8242:0000
+
+// 2nd Enemy HP Modifier
+FF9586:0000
+
+// 3rd Enemy HP Modifier
+FF9588:0000
+
+// 4th Enemy HP Modifier
+FF958A:0000
+
+// 5th Enemy HP Modifier
+FF958E:0000
+
+// 6th Enemy HP Modifier
+FF9590:0000
+
+// 7th Enemy HP Modifier
+FF9594:0000
+
+// Cursor Select Modifier for Main Menu/Game Options
+FF9460:0000
+
+// P1 X-Axis Modifier
+FF91E0:0000
+
+// P1 Y-Axis Modifier
+FF9720:0000
+
+// P1 X-Axis View Mode
+FF9260:0000
+
+// P1 Y-Axis View Mode
+FF9760:0000
+
+// Punches
+AW9A-AATE
+
+// Bullets
+ADBA-A214
+
+// Electricity
+ACDT-AAG2
+
+// Tick
+K5DT-AACY
+
+// Falling Rocks
+KX4A-AAH0
+
+// Molotov
+AH3A-ACC2
+
+// Destruction Ball
+155A-A2Z4
+
+// Motorbikes
+K1JA-AAAN
+
+// Flying Stages
+KWTT-AABJ
+
+// Sentinel Shots
+J11T-A4V4
+
+// Sentinel Hits
+AD1T-AAYE
+
+// Engine's Core Rays
+AAVT-CCGA
+
+// Engine's Core Asteroids
+96WA-D96W
+
+// Engine's Core Gas
+AETT-C20N
+
+// Engine's Core Bots
+MEYA-C4WR
+
+// Warbot Grab
+0MST-A4ZA
+
+// Warbot Uppercut
+ACDT-AEGW
+
+// Mines
+AD3T-ACAL
+
+// Air Attacks Does 3X Damage
+ACJA-A2LJ
+
+// Upward Throw Does 3X Damage
+FWMT-BYA6
+
+// Forward Throw Does 3X Damage
+ACWT-A2S6
+
+// Back Throw Does 3X Damage
+ACWT-A2MC
+
+// Down+B Grab Does 11X Damage
+ACXA-AGKE
+
+// Shots Does 20X Damage
+ED2T-BYGT
+ED2T-BYG2
+
+// Auto Finish Boss Battles
+AABT-CCDR
+
+// Engine's Core Bots Autodestruct Themselves
+ANXT-C2X6
+
+// Powerups Behind Walls Show Up Automatically
+AATT-CAAA
+
+// Level 2 - Doomsday in Metropolis
+ET0T-DYFR
+
+// Level 3 - Assault on Cadmus
+E60T-DYFR
+
+// Level 4 - The Last Son of Krypton
+F20T-DYFR
+
+// Level 5 - Ambush at Coast City
+F60T-DYFR
+
+// Level 6 - The Metropolis Kid
+GY0T-DYFR
+
+// Level 6-2 - Coast City
+G20T-DYFR
+
+// Level 6-3 - Engine City
+G60T-DYFR
+
+// Level 7 - Steel Reign
+HY0T-DYFR
+
+// Level 8 - Metropolis: Ground Zero
+JN0T-DYFR
+
+// Level 9 - The Engine's Core
+J60T-DYFR
+
+// Level 10 - The Return of Superman
+KJ0T-DYFR
+
+// Superman Walks Faster
+CWFT-AABA
+84FT-AACE
+D0FT-AYCY
+
+// Disable KO
+ACEA-AAGJ

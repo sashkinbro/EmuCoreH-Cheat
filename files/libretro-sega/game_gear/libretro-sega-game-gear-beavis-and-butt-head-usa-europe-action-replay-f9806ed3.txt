@@ -1,0 +1,8 @@
+// Infinite Lives
+00CC-2507
+
+// Infinite Hits
+00CC-2103
+
+// Infinite Cash (Always $153)
+00CC-2399

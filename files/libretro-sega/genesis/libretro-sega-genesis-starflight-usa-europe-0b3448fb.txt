@@ -1,0 +1,267 @@
+// Class 1 shield costs 0 instead of 4,000
+ACFT-CAA2
+
+// Class 2 shield costs 0 instead of 12,000
+ACFT-CAA6
+
+// Class 3 shield costs 0 instead of 32,000
+ACFT-CABA
+
+// Class 4 shield costs 0 instead of 70,000
+ACFT-CABC
+ACFT-CABE
+
+// Class 5 shield costs 0 instead of 125,000
+ACFT-CABG
+ACFT-CABJ
+
+// Cargo pod costs 0 instead of 500
+ABPA-CABG
+
+// Class 1 armor costs 0 instead of 1,500
+ACFT-CABN
+
+// Class 2 armor costs 0 instead of 3,100
+ACFT-CABT
+
+// Class 3 armor costs 0 instead of 6,200
+ACFT-CABY
+
+// Class 4 armor costs 0 instead of 12,500
+ACFT-CAB2
+
+// Class 5 armor costs 0 instead of 25,000
+ACFT-CAB6
+
+// Pulse cannon costs 0 instead of 1,000
+ACFT-CACA
+
+// Tri-cannon costs 0 instead of 2,500
+ACFT-CACE
+
+// Buzz bombs cost 0 instead of 50,000
+ACFT-CACJ
+
+// Fusion blaster costs 0 instead of 100,000
+ACFT-CACL
+ACFT-CACN
+
+// Photon torpedo costs 0 instead of 250,000
+ACFT-CACR
+ACFT-CACT
+
+// Lance costs 0 instead of 8,000
+ACFT-CACY
+
+// Twin beam costs 0 instead of 100,000
+ACFT-CAC0
+ACFT-CAC2
+
+// Phaser costs 0 instead of 450,000
+ACFT-CAC4
+ACFT-CAC6
+
+// Class 1 shield costs 0 instead of 4,000
+ACGA-CAAT
+
+// Class 2 shield costs 0 instead of 12,000
+ACGA-CAAY
+
+// Class 3 shield costs 0 instead of 32,000
+ACGA-CAA2
+
+// Class 4 shield costs 0 instead of 70,000
+ACGA-CAA4
+ACGA-CAA6
+
+// Class 5 shield costs 0 instead of 125.000
+ACGA-CAA8
+ACGA-CABA
+
+// Cargo pod costs 0 instead of 500
+ABPA-CAFN
+
+// Class 1 armor costs 0 instead of 1,500
+ACGA-CABE
+
+// Class 2 armor costs 0 instead of 3,100
+ACGA-CABJ
+
+// Class 3 armor costs 0 instead of 6,200
+ACGA-CABN
+
+// Class 4 armor costs 0 instead of 12,500
+ACGA-CABT
+
+// Class 5 armor costs 0 instead of 25,000
+ACGA-CABY
+
+// Pulse cannon costs 0 instead of 1,000
+ACGA-CAB2
+
+// Tri-cannon costs 0 instead of 2,500
+ACGA-CAB6
+
+// Buzz bombs cost 0 instead of 50,000
+ACGA-CACA
+
+// Fusion blaster costs 0 instead of 100,000
+ACGA-CACC
+ACGA-CACE
+
+// Photon torpedo costs 0 instead of 250,000
+ACGA-CACG
+ACGA-CACJ
+
+// Lance costs 0 instead of 8,000
+ACGA-CACN
+
+// Twin beam costs 0 instead of 100,000
+ACGA-CACR
+ACGA-CACT
+
+// Phaser costs 0 instead of 450,000
+ACGA-CACW
+ACGA-CACY
+
+// Class 5 Engine Is Free (Instead Of $100,000)
+ACFT-CAAW
+ACFT-CAAY
+
+// Class 5 Engine Cost $34,464 (Instead Of $100,000)
+ACFT-CAAW
+
+// Class 4 Engine Is Free (Instead Of $40,000)
+ACFT-CAAT
+
+// Class 3 Engine Is Free (Instead Of $20,000)
+ACFT-CAAN
+
+// Phaser Cost $56,784 (Instead Of $450,000)
+ACFT-CAC4
+
+// Cargo Pods Are Free (Instead Of $500)
+ABPA-CABL
+
+// Photon Torpedo Cost $53,392 (Instead Of $250,000)
+ACFT-CACR
+
+// Fusion Blaster Cost $34,464 (Instead Of $100,000)
+ACFT-CACL
+
+// Twinbeam Cost $34,464 (Instead Of $100,000)
+ACFT-CAC0
+
+// Class 5 Shield Cost $59,000 (Instead Of $125,000)
+ACFT-CABG
+
+// Class 4 Shield Cost $4,464 (Instead Of $70,000)
+ACFT-CABC
+
+// Have Lots of Money
+FF9782:00FF
+
+// Infinite Cargo Pods
+FF97A4:0063
+
+// Class 2 or 3 armor adds zero mass to your ship.
+AB8A-CAH8
+
+// Class 4 or 5 armor adds zero mass to your ship.
+AB8T-CAAA
+
+// Your ship starts a new game with zero mass, and no mass is added from weapons, shields, armor, cargo pods, etc.
+RZ8T-C6WN
+
+// Start a new game with $115,536 (instead of $50,000).
+AGZT-AAE2
+
+// Start a new game with $705,360 (instead of $50,000).
+BLZT-AAE2
+
+// Start a new game with $2,016,080 (instead of $50,000).
+D4ZT-AAE2
+
+// All items are free (shields, armor, weapons, training, etc).
+BKWT-CA4R
+
+// Your ship can carry up to 26 cargo pods (instead of 16).
+DPPA-CAA4
+
+// Acceleration doesn't decrease when adding mass.
+AK8T-CA50
+
+// Class 1 engines (the engine you start with) has 20 acceleration instead of 4.
+CWMA-RAGY
+
+// Your TV (Terrain Vehicle) starts with twice as much fuel (200 instead of 100).
+ACKT-ACJ4
+
+// Your TV (Terrain Vehicle) will have infinite fuel.
+AJYA-AA7R
+
+// Your TV (Terrain Vehicle) can travel twice as fast on flat/open terrain.
+TCRA-AAF6
+
+// Your TV (terrain Vehicle) can travel 3x as fast on flat/open terrain.
+2CRA-AAF6
+
+// Your TV (Terrain Vehicle) can travel 3x as fast on dark green terrain.
+KCRT-AAC4
+
+// Your TV (Terrain Vehicle) can travel 5x as fast on dark green terrain.
+SCRT-AAC4
+
+// Your TV (Terrain Vehicle) can travel 8x as fast on mountain terrain.
+JCRA-AAGL
+
+// Your TV (Terrain Vehicle) can travel 16x as fast on mountain terrain.
+TCRA-AAGL
+
+// Your TV (Terrain Vehicle) can travel twice as fast on water.
+JCRT-AAAJ
+
+// Your TV (Terrain Vehicle) can travel 4x as fast on water.
+TCRT-AAAJ
+
+// You can embark from anywhere on the planet.
+DLBT-AA8A
+
+// Your terrain vehicle can carry an infinite amount of cargo.
+ALMA-AA2G
+
+// Start a new game with twice as much endurium (fuel).
+WCZT-ACFA
+
+// Your TV (Terrain Vehicle) can travel 4x as fast on ice planets.
+JCRT-AAFE
+
+// Your TV (Terrain Vehicle) can travel 8x as fast on ice planets.
+TCRT-AAFE
+
+// Your ship has almost infinite fuel.  See notes.
+RYYA-A6Z8
+
+// Your terrain vehicle has protection from most &quot;damage&quot;.
+ALMT-AA5Y
+
+// Your ship's armor won't take damage during most enemy attacks.
+AJ5A-AA3L
+
+// Your terrain vehicle &quot;armor&quot; has protection from most damage.
+ACMT-AAER
+
+// Makes the Pulse Cannon 10x stronger.
+CTPA-CAFA
+
+// Makes the Pulse Cannon 20x stronger.
+FAPA-CAFA
+
+// Makes the Pulse Cannon 30x stronger.
+HTPA-CAFA
+
+// Kill most enemies with one hit.
+AAPT-CA3E
+
+// Firing your ship's weapons doesn't use any fuel.
+ALZA-AA20

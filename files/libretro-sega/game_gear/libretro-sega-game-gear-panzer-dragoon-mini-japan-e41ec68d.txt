@@ -1,0 +1,22 @@
+// Sound Test Track 2
+00D2-A402
+
+// Sound Test Track 9
+00D2-A409
+
+// Infinite Health
+00D2-0A97
+
+// Infinite Health (Normal Enemies)
+00F-46F-F7E
+
+// Infinite Health (Boss)
+00F-CEF-C4A
+
+// Sound 002 Accessible (Options Menu)
+026-708-E66
+026-2E8-E6E
+
+// Sound 009 Accessible (Options Menu)
+096-858-C42
+096-438-C4A

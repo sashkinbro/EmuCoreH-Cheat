@@ -1,0 +1,26 @@
+// Infinite "Fire Ball" Blocks
+00CF-3E99
+
+// Infinite Health
+00CF-52FF
+
+// Infinite Blue Potions
+00CF-4A09
+
+// Invincibility
+00CF-5308
+
+// Start As Lizard-Man
+00C2-4F01
+
+// Start As Mouse-Man
+00C2-4F02
+
+// Start As Piranha-Man
+00C2-4F03
+
+// Start As Lion-Man
+00C2-4F04
+
+// Start As Hawk-Man
+00C2-4F05

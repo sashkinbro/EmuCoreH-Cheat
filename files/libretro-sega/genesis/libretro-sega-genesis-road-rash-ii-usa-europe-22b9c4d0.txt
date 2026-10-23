@@ -1,0 +1,784 @@
+// Invincibility
+BD3T-AA8C
+
+// Infinite Nitro
+AXXT-AA4L
+
+// Night Time
+MMCT-AZFW
+
+// Car Mode
+CBNA-CP22
+
+// You Are The CPU's Color
+CBNA-CPZR
+
+// Everybody Is The Same As You
+RNET-CFER
+
+// See Thru Your Rider!
+AWVT-AAHT
+
+// Player 1 starts with Wildthing 2000
+B6ST-AAEG
+
+// Tracks are different plus, there is a huge instrument panel on the horizon!
+BL3T-A4WW
+
+// White flashing grass
+BC3T-A0WW
+
+// Camera is mounted about 3 feet lower than normal.
+AG5T-AE52
+
+// Camera is mounted much lower
+AG5T-AEX2
+
+// Diablo 1000N Is Free
+ACST-AAF2
+
+// Banzai 7.11N Is Free
+ACST-AAF0
+
+// Diablo 1000 Is Free
+ACST-AAGC
+
+// Slows The Game Way Down
+AMTA-AA3R
+
+// Slows The Game Down A Little Bit
+AMTA-AA3R
+ASTA-AABY
+
+// No Damage From Hitting Cars Head On
+AW3T-CA7E
+
+// No Damage From Hitting Road Signs
+AW1T-CA56
+
+// No Damage From Hitting Trees
+AW2A-CA6C
+
+// The starting bike [Shuriken 400] will accelerate faster from a dead stop
+H36A-EAFJ
+
+// The starting bike will accelerate MUCH faster from a dead stop
+PV6A-EAFJ
+
+// The starting bike will accelerate MUCH faster on top end [5th gear]
+FB6A-EAFW
+
+// The starting bike will have a top speed of 150 MPH [instead of only 120]
+XB6A-FYP8
+
+// The starting bike will have a top speed of 200 MPH [instead of only 120]
+EB6A-E6Z8
+
+// The starting bike will have 8 nitro bursts [instead of none]
+BB5T-EACJ
+
+// The starting bike will steer much faster [can do tighter turns]
+LB5T-EACA
+
+// Different color for player 1
+XTDT-CACE
+
+// Tree's and other obstacles can knock you off your bike
+FTJT-CADC
+
+// The starting bike will not slide out [much better traction on turns]
+EB5T-EACE
+
+// V roads
+CC3T-AABL
+
+// Night time/blue grass
+DMCT-A5FG
+
+// Hit a pole to change color
+XG1T-CXTT
+
+// Player is too dizzy to get up
+RHDT-CE9T
+
+// Camera does not move
+SEZA-CPS0
+
+// Player is the CPU's color
+CBNA-CP2R
+
+// Color player
+BADT-CK3W
+
+// Pink roads and sky
+ZMCT-AZFG
+
+// Everything in the road
+MP2T-CJEE
+
+// Moving background
+HT1T-CRS2
+
+// Start on level 2
+AJST-AAF8
+
+// Start on Level 3
+ANST-AAF8
+
+// Start on Level 4
+ATST-AAF8
+
+// Start on Level 5
+AYST-AAF8
+
+// Start  on Secret Level 6 (You get to race against the cops!)
+A2ST-AAF8
+
+// All tracks have massive jumps!
+DR5T-AAXN
+
+// Tracks have more turns
+AC4T-BA5N
+
+// All tracks are straight
+AC5T-AA1N
+
+// Tracks have no hills
+AL3T-AAKN
+
+// All 5 tracks are different
+AC3T-AA70
+
+// Cool! Try Arizona
+AR3T-AAFY
+
+// Try this one!
+DC3T-AJ5T
+
+// Not as many hills
+DL3T-AAVY
+
+// 5 more new tracks!
+HR3T-AJXJ
+
+// Tracks have several small jumps
+AC3T-AE40
+
+// Tracks have big jumps
+AC5T-AE30
+
+// Tracks are different
+AG3T-AE70
+
+// More different tracks
+AG3T-AE72
+
+// Hardly any hills
+DR5T-AAE2
+
+// Moto-cross tracks!
+AG5T-AE72
+
+// There's a 4 mile long uphill climb
+AG3T-AE52
+
+// Tracks are straight, and no cops!
+AG4T-AE22
+
+// Jump about 2 miles! (may glitch)
+AC3T-AAG2
+
+// An excellent track modifier code
+AG5T-AE02
+
+// Another excellent track modifier code
+AG3T-AEZ2
+
+// More moto-cross tracks
+AL5T-AAP2
+
+// Almost no hills
+AG5T-AEY2
+
+// More different tracks
+AG5T-AER2
+
+// Different tracks with very small hills
+AL5T-AAN2
+
+// Big jumps
+AC5T-AAJ2
+
+// A great track changer code
+AC5T-AAG2
+
+// More moto-x tracks
+AC5T-AAF2
+
+// Tracks are straight
+BW4T-BA6T
+
+// Super twisty tracks (doesn't glitch)
+AW4T-AJTT
+
+// Alaska track is cool (after 5 mile mark)
+BL3T-BA7T
+
+// All tracks are very different (Doesn't glitch.)
+AR3T-AAXW
+
+// Similar to above code
+BC5T-AAVN
+
+// Huge jumps (Vermont track doesn't glitch)
+AW5T-AATT
+
+// Tracks are VERY different.
+AW3T-AAWW
+
+// Similar to above code, but different
+A03T-AAWW
+
+// Similar to above code, but different
+BC3T-AAWW
+
+// Similar to above code, but different
+CC3T-AAWW
+
+// All tracks are perfectly straight
+BL3T-A4W2
+
+// Tracks are different, and have a lot more traffic, and have little jumps about every 1/4 mile
+BL3T-A4W6
+
+// Track starts out normal, then at about 1 mile, there's a super sharp turn and everyone wrecks
+AW3T-AAFT
+
+// All tracks are 98% straight
+AW4T-AJNW
+
+// Tracks are different, with big jumps (doesn't glitch)
+AG5T-AE82
+
+// Tracks have large &quot;S&quot; turns
+AW4T-AAFT
+
+// Huge jumps (doesn't glitch)
+AW5T-AJTW
+
+// All tracks are really different
+AW3T-AEFW
+
+// Awesome jumps
+AW5T-AJJW
+
+// Awesome jumps (Alaska doesn't glitch)
+AW3T-AJKW
+
+// Awesome jumps (Alaska doesn't glitch)
+AW5T-AJMW
+
+// Track only makes a giant right hand turn
+AW4T-AAGT
+
+// Tracks are much different
+AW3T-AJPW
+
+// Gigantic jumps
+AW5T-AJ6Y
+
+// One of the better track changer codes. Tracks are really different.
+AL3T-ANWY
+
+// Massive jumps (doesn't glitch)
+AC3T-AEX0
+
+// Very sharp left hand curves
+AG4T-AA5T
+
+// Sharp right hand turns
+AL4T-AA5T
+
+// Tracks are different
+AR4T-AJ4Y
+
+// Very windy tracks
+AC4T-AEW0
+
+// Vermont has BIG jumps (doesn't glitch)
+AL5T-ANXY
+
+// Alaska track is different, with big jumps (doesn't glitch)
+A83T-AC7T
+
+// Right hand turns
+BR4T-AA5T
+
+// All left hand turns
+CC4T-AA5T
+
+// Some long straight aways, and some big jumps.
+AL3T-ANM0
+
+// Very drivable curvy roads. Good code.
+AC4T-AEY0
+
+// Killer jumps
+E03T-BA3T
+
+// All tracks are perfectly straight and have hills.
+AR4T-AJYY
+
+// Tracks are different
+AC3T-BA5T
+
+// Super big jumps
+AC5T-AAXN
+
+// Tracks are completely different (doesn't glitch)
+A03T-AA5W
+
+// Whoop dee do's everywhere
+BW3T-AA3J
+
+// Very twisty road
+AG4T-ANL0
+
+// Several small jumps
+A43T-AC3N
+
+// Vermont track has all left hand turns, Tennessee track has all right hand turns.
+DC3T-AAXT
+
+// Hawaii track has all right hand turns, Arizona track has all left hand turns.
+D03T-AAZN
+
+// Tracks are different
+AC3T-AC70
+
+// Twisty roads
+AL4T-AA6N
+
+// More twisty roads
+AW4T-BA5N
+
+// Tracks are different
+AC3T-AEZ0
+
+// All 5 tracks are straight
+AR4T-BA5T
+
+// Level roads (no hills)
+H43T-AA3N
+
+// Tracks are different
+AL3T-ANVY
+
+// Super cool jumps
+A43T-AA5N
+
+// Very good &quot;tracks are different&quot; code
+AC3T-AEP0
+
+// Great with Tennessee track
+H03T-AA5T
+
+// No hills
+A43T-AAVN
+
+// Alaska track has all left turns
+AC4T-BA5T
+
+// Alaska track has all right turns. And, Tennessee track is cool (doesn't glitch)
+AC3T-AAPY
+
+// Different - cool
+AW3T-AA5T
+
+// Very good &quot;twisty track&quot; code
+AC4T-BA6N
+
+// Cool
+AC3T-AAZN
+
+// Very sharp left and right hand turns
+A83T-AA5T
+
+// Different tracks (doesn't glitch)
+AC3T-AAMT
+
+// Different tracks (doesn't glitch)
+AC3T-AAPN
+
+// Different tracks (doesn't glitch)
+DL3T-AAPT
+
+// No hills
+DL3T-AAVN
+
+// No hills until 5 mile mark, then there is a BIGGIE (glitches on Arizona track)
+A03T-AAKY
+
+// Tracks are different (doesn't glitch)
+BL3T-AAMY
+
+// Alaska is different (doesn't glitch)
+B83T-AADN
+
+// Alaska, Hawaii, and Tennessee are all right (doesn't glitch)
+CL3T-AADA
+
+// Arizona and Alaska tracks are different (doesn't glitch)
+C83T-AAH2
+
+// Arizona and Alaska tracks are different (doesn't glitch)
+DG3T-AJ1T
+
+// Alaska has &quot;U&quot; shaped right hand turns, Arizona is different, and Tennessee has all right hand
+D03T-AJ5J
+
+// Tennessee and Alaska tracks are cool
+ER3T-AT5T
+
+// Lots of uphills, and downhills
+E02T-AJ5T
+
+// Most tracks are different
+HW3T-AGXJ
+
+// Arizona, Alaska, and Tennessee tracks are cool [Hawaii track glitches].
+H03T-BA5T
+
+// Player A starts game with $5,000 instead of $1,000
+8TST-ACD8
+
+// Player A starts game with $10,000
+7AST-AGD8
+
+// Player A starts game with $25,000
+2TST-AWD8
+
+// Player A starts game with $50,000
+VAST-BGD8
+
+// Player A starts game with $100,000
+CAST-ARM8
+
+// Player A starts game with $250,000
+ZAST-AC58
+
+// Player A starts game with no money
+AAST-AAD8
+
+// Player B starts game with $5,000 instead of $1,000
+8TTA-ACDW
+
+// Player B starts game with $10,000
+7ATA-AGDW
+
+// Player B starts game with $25,000
+2TTA-AWDW
+
+// Player B starts game with $50,000
+VATA-BGDW
+
+// Player B starts game with $100,000
+CATA-ARMW
+
+// Player B starts game with $250,000
+ZATA-AC5W
+
+// Player B starts game with no money
+AATA-AADW
+
+// Player A starts game with Panda 500 bike instead of Shuriken 400
+AEST-AAEG
+
+// Player A starts game with Shuriken TT 250 bike
+AJST-AAEG
+
+// Player A starts game with Panda 900 bike
+ANST-AAEG
+
+// Player A starts game with Banzai 7.11 bike
+ATST-AAEG
+
+// Player A starts game with Banzai 600N bike
+AYST-AAEG
+
+// Player A starts game with Banzai 750N bike
+A2ST-AAEG
+
+// Player A starts game with Shuriken 1000N bike
+A6ST-AAEG
+
+// Player A starts game with Banzai 7.11N bike
+BAST-AAEG
+
+// Player A starts game with Diablo 1000N bike
+BEST-AAEG
+
+// Player A starts game with Panda 600 bike
+BJST-AAEG
+
+// Player A starts game with Banzai 600 bike
+BNST-AAEG
+
+// Player A starts game with Banzai 750 bike
+BTST-AAEG
+
+// Player A starts game with Shuriken 1000 bike
+BYST-AAEG
+
+// Player A starts game with Diablo 1000 bike
+B2ST-AAEG
+
+// Player B starts game with Panda 500 bike instead of Shuriken 400
+AETA-AAD4
+
+// Player B starts game with Shuriken TT 250 bike
+AJTA-AAD4
+
+// Player B starts game with Panda 900 bike
+ANTA-AAD4
+
+// Player B starts game with Banzai 7.11 bike
+ATTA-AAD4
+
+// Player B starts game with Banzai 600N bike
+AYTA-AAD4
+
+// Player B starts game with Banzai 750N bike
+A2TA-AAD4
+
+// Player B starts game with Shuriken 1000N bike
+A6TA-AAD4
+
+// Player B starts game with Banzai 7.11N bike
+BATA-AAD4
+
+// Player B starts game with Diablo 1000N bike
+BETA-AAD4
+
+// Player B starts game with Panda 600 bike
+BJTA-AAD4
+
+// Player B starts game with Banzai 600 bike
+BNTA-AAD4
+
+// Player B starts game with Banzai 750 bike
+BTTA-AAD4
+
+// Player B starts game with Shuriken 1000 bike
+BYTA-AAD4
+
+// Player B starts game with Diablo 1000 bike
+B2TA-AAD4
+
+// Player A pre-qualifies on Alaska track
+AEST-AAER
+
+// Player A pre-qualifies on Hawaii track
+AEST-AAE0
+
+// Player A pre-qualifies on Tennessee track
+AEST-AAE8
+
+// Player A pre-qualifies on Arizona track
+AEST-AAFG
+
+// Player A pre-qualifies on Vermont track
+AEST-AAFR
+
+// Player B pre-qualifies on Alaska track
+AETA-AAEC
+
+// Player B pre-qualifies on Hawaii track
+AETA-AAEL
+
+// Player B pre-qualifies on Tennessee track
+AETA-AAEW
+
+// Player B pre-qualifies on Arizona track
+AETA-AAE4
+
+// Player B pre-qualifies on Vermont track
+AETA-AAFC
+
+// Freeze Cpu
+ACPA-CAD4
+
+// One hit will knock the other riders off their bike. Works with punching or weapons.
+AL7T-CA5E
+
+// Opponents health is not restored after you hit them
+AWPA-CA4Y
+
+// Some riders start with no health
+A73A-EAF8
+
+// Slows down all the other riders so it's much easier to win 1st place. Plus, you'll start every race with a club.
+WJEA-CEX4
+
+// Start every race with a club.
+AAHT-DAEW
+
+// Start every race with a chain.
+AAHT-DANW
+
+// Cops will never show up when you are standing still on your bike, or walking.
+AWYT-CA38
+
+// Walk faster
+4B6T-D8FC
+
+// Walk (run) MUCH faster
+4B6T-CNZC
+
+// your rider is a different color
+JADT-DA3R
+
+// Your Bike Stays Much Closer to You When You Crash
+AGBA-CAEY
+AGBA-CAE8
+
+// When you knock another rider off their bike, it will take them much longer to get back on the bike.
+ACBA-CAFJ
+
+// All traffic is gone (no cars).
+A4XA-CA34
+
+// you rider is a different color
+NADT-DA3R
+
+// Everybody Has The Same Color On Their Bikes
+M2EA-CAAA
+
+// Tracks Are Different
+BL3T-A4XW
+
+// Very Sharp Left And Right Hand Turns
+AC3T-AAPT
+
+// Auto Race At 325+ MPH
+FF0A74:007F
+
+// Switch F/X On To Instantly Win Race
+FF0A66:0040
+
+// Don't get knocked off your bike or take any damage when you hit a car
+AW4T-CA4R
+
+// Can drive thru signs, posts, and animals without slowing down or taking any damage
+AW1T-CA32
+
+// Can drive thru trees without slowing down or taking any damage
+AL1T-CA7T
+
+// Accelerate faster when you go off the track. See notes.
+JLYA-DFZR
+
+// Don't slow down when you go off the track. See notes.
+RGYA-C6ZR
+
+// Panda 500 has 20 Nitros
+CV5T-EAC2
+
+// Shuriken TT 250 has 20 Nitros
+CV5T-EADJ
+
+// Panda 900 has 20 Nitros
+CV5T-EAD2
+
+// Banzai 7.11 has 20 Nitros
+CV5T-EAEJ
+
+// Panda 500 can reach 200 MPH
+EB6A-E608
+
+// Activates the Wild Thing 2000 cheat. See notes.
+AJTA-AA9N
+
+// Pause the game to get the club
+EKTA-CAAE
+3VTA-CYAJ
+
+// Pause the game to get the chain
+EVTA-CAAE
+3VTA-CYAJ
+
+// P1 Infinite Money
+FFF4DC:270F
+
+// P2 Infinite Money
+FFF4DE:270F
+
+// P1 Instantly Win Race
+FF0A66:0040
+
+// P2 Instantly Win Race
+FF0EE6:0040
+
+// P1 Max Current Speed
+FF0A74:007F
+
+// P2 Max Current Speed
+FF0EF4:007F
+
+// Player is the same color as the other Rashers
+FF0AD8:0002
+
+// Camera is Zoomed in Further
+FF0A1A:0001
+
+// All bikes accelerate faster and have an unlimited top speed
+9TLT-BGKN
+AELT-AABR
+96LT-AABT
+SJLT-AYBW
+
+// Always finish in 1st place
+AD7T-BJ84
+ACAT-AA5W
+
+// Always level-up after a race
+ALHA-AA2E
+
+// All bikes are free, even if you don't have enough money
+A4RT-AA4L
+
+// Always have the Club
+SX5A-DGAG
+EM5A-CAAJ
+
+// Always have the Chain
+SX5A-DGAG
+EX5A-CAAJ
+AD5A-CA2N
+
+// Infinite Time
+ADST-AA5A
+
+// Don't get charged for fines
+RH9T-A6XT
+
+// Don't get charged for repairs
+RH9T-A6YN
+
+// P1 Infinite Health
+FF0ABE:000A
+
+// P2 Infinite Health
+FF0F3E:000A
+
+// Cops can't bust you
+ACDT-CA50
+
+// Fix AI Gear Ratios
+CV7A-FRS2
+
+// Bike takes less damage
+KC2T-CP6T
+
+// Bike takes no damage
+AC2T-DA6T

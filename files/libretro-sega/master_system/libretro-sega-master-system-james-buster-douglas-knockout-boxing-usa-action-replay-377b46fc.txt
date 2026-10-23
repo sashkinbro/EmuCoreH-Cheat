@@ -1,0 +1,8 @@
+// Invincibility
+00C1-28A0
+
+// Infinite Power Punch
+00C1-1508
+
+// SP 5 On Match-Up
+00C1-1405

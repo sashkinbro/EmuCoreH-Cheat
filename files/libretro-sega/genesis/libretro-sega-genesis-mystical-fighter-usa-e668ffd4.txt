@@ -1,0 +1,77 @@
+// Infinite Lives
+AJRT-AA7W
+
+// Infinite Energy
+AMXT-AA98
+
+// Infinite Time
+AJCA-AA40
+
+// Invincibility
+AANT-AN5A
+
+// Player 1 Has Almost Infinite Energy (Only In Normal Difficulty Mode)
+AA0T-CNG4
+AA0T-CNHA
+
+// Player 1 Has Almost Infinite Energy (Only In Hard Difficulty Mode)
+AA0T-CNHJ
+AA0T-CNHR
+
+// Player 2 Has Almost Infinite Energy (Normal and Hard Difficulty Modes)
+AA0T-CNH0
+AA0T-CNH6
+
+// Player 1 &amp; 2 Start With 99 Lives (Normal And Hard Difficulty Modes)
+NNFA-CAE4
+
+// Infinite Time
+FFE700:0060
+
+// Infinite Health P1
+FFE538:0064
+
+// Infinite Health P2
+FFE638:0064
+
+// Infinite Lives P1
+FFE492:0009
+
+// Infinite Lives P2
+FFE592:0009
+
+// 1-Hit Enemies
+FFC0E8:0000
+FFC1E8:0000
+FFC2E8:0000
+FFC3E8:0000
+
+// Infinite Magic P1
+AKVT-CA2C
+
+// Infinite Health When untwist enemies
+AJPA-AA2C
+
+// 1 Hit Kill Enemies/Bosses P1/P2
+ATZA-AA26
+AMVT-AA9E
+
+// Infinite Health Extra
+AJPA-AA2C
+AL8T-AA90
+
+// Invincibility (No Flashing)
+R1XT-A600
+
+// Enabled Cheat Code Stage Select
+AA7A-CA3E
+
+// Invincibility P1/P2
+R1XT-A6ZJ
+RY2T-A6TC
+
+// Infinite Magic P2
+AKVA-CA9T
+
+// Enables Expert mode in the Option menu
+ABBA-CA5A

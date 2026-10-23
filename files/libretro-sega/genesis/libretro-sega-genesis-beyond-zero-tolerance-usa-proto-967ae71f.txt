@@ -1,0 +1,56 @@
+// Kirsten Holdsted Never Deceased
+FF2BAC:0001
+
+// Chris Olsen Never Deceased
+FF2BAC:0001
+
+// Victor Reisen Never Deceased
+FF2BAE:0001
+
+// Erich Hershel Never Deceased
+FF2BAE:0001
+
+// Verner Romberg Never Deceased
+FF2BB0:0001
+
+// Infinite Ammo Slot 1
+FF105C:0063
+
+// Infinite Ammo Slot 2
+FF1060:0063
+
+// Infinite Ammo Slot 3
+FF1064:0063
+
+// Infinite Ammo Slot 4
+FF1068:0063
+
+// Infinite Ammo Slot 5
+FF106C:0063
+
+// Infinite Accessory Slot 1
+FF1070:000A
+
+// Infinite Accessory Slot 2
+FF1074:000A
+
+// Infinite Accessory Slot 3
+FF1078:000A
+
+// Infinite Energy
+AMKA-AA2L
+
+// Infinite Ammo Regular Weapons
+ATDT-CA6N
+
+// Infinite Energy
+FF0DEC:0064
+
+// Infinite Ammo
+AJDT-CA6N
+
+// Players Never Deceased
+AJNA-AA3G
+
+// Invincibility (Disable Hit Detection)
+R1JT-A6ZG

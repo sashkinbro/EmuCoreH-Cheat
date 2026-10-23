@@ -1,0 +1,68 @@
+// Infinite Hellfire missiles
+ATZA-AA9R
+
+// Infinite lives
+ATYA-AA4J
+
+// First power-up item worth more
+SEXA-BNTW
+
+// First power-up item gives max power
+SEXA-BATW
+
+// Start with no missiles instead of 2
+AALA-BA9A
+
+// Start with 4 missiles
+ATLA-BA9A
+
+// Start with 6 missiles
+A2LA-BA9A
+
+// Start with 8 missiles
+BALA-BA9A
+
+// Start with 1 player instead of 3
+AERA-AABR
+
+// Start with 8 players
+BARA-AABR
+
+// Start with 25 players
+DERA-AABR
+
+// Start with 50 players
+GJRA-AABR
+
+// Start with 99 players
+NNRA-AABR
+
+// Invincibility
+DADA-AA8A
+DADA-AA5E
+BADA-AA60
+
+// Invincibility
+RY1A-A60Y
+
+// Infinite Lives
+FF0066:0009
+
+// Infinite Super Weapons
+FF0068:0009
+
+// Max Weapon Power
+FF0844:0005
+
+// Unlimited Super Weapons
+ATZA-AA9R
+
+// Power-Up Completely When You Collect Your First &quot;P&quot;
+9TXA-BGKN
+AYXA-AABR
+
+// Infinite Credit
+ATMA-AA7R
+
+// Enable Debug Invincibility
+GAYT-AA5E

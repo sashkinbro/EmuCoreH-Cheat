@@ -1,0 +1,95 @@
+// Each Round Is 69 Seconds
+063-7B4-C4E
+
+// Each Round Is 29 Seconds
+023-7B4-C4E
+
+// Infinite Time
+00B-40C-3BE
+
+// Infinite Credits
+004-2D6-19E
+
+// Blood
+DEB-9F6-5D3
+
+// Player 1 Is Invincible
+003-48B-F79
+
+// Player 1 Starts With 1/2 Health
+240-BFD-C4B
+
+// Player 2 Usually Starts With 1/2 Health
+240-C5D-C4B
+
+// Punches Do More Damage
+20B-06F-F7A
+
+// Most Kicks Do More Damage
+2CB-26F-C42
+
+// Foot Sweeps Do More Damage
+30B-86F-C42
+
+// Flying Punches Do More Damage
+30B-2EF-D5A
+
+// Uppercuts Do More Damage
+33B-56F-A2E
+
+// Throws Do More Damage
+2AF-237-D5A
+
+// Sonya Blade's Leg-Grab Does More Damage
+2BB-76F-F7A
+
+// Scorpion's Harpoon Does More Damage
+2BB-66F-F7A
+
+// Rayden's Flying Thunderbolt Does More Damage
+2BB-6EF-F7A
+
+// Johhny Cage's Shadow Kick Does More Damage
+2BB-4EF-D56
+
+// Some Other Special Moves Do More Damage
+37B-36F-D52
+
+// Start On Match 2
+01B-C9A-E6A
+
+// Start On Match 3
+02B-C9A-E6A
+
+// Start On Match 4
+03B-C9A-E6A
+
+// Start On Match 5
+04B-C9A-E6A
+
+// Start On Mirror Match
+05B-C9A-E6A
+
+// Start On Endurance Match 1
+06B-C9A-E6A
+
+// Start On Endurance Match 2
+07B-C9A-E6A
+
+// Start On Endurance Match 3
+08B-C9A-E6A
+
+// Start On Match Against Goro
+09B-C9A-E6A
+
+// Start On Match Against Shang Tsung
+0AB-C9A-E6A
+
+// Start With 1 Credit
+02B-E1A-F76
+
+// Start With 5 Credits
+06B-E1A-F76
+
+// Start With 10 Credits
+0BB-E1A-F76

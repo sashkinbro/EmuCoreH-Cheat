@@ -1,0 +1,28 @@
+// Infinite Magic
+AL3A-AA6A
+
+// Infinite Lives
+FF4A66:0009
+
+// Infinite Shurikens
+FF4A68:0063
+
+// Infinite Ninjitsu Items
+FF4A6A:0009
+
+// Infinite Magic
+ATMT-CA76
+
+// Infinite Life
+ATKA-CA78
+
+// Infinite Lives
+ALXT-AA7C
+
+// Infinite Shuriken
+AJNT-CA94
+
+// Enabled Cheat Code Infinite 999 Shurikens
+ACCA-AA34
+ALVA-AA4R
+RENT-C612

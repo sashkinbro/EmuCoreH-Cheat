@@ -1,0 +1,110 @@
+// Invincibility
+ACCA-EN5L
+
+// Infinite Lives
+AKMA-AA5E
+
+// Get 8X As Much Magic From Killing Some Enemies
+SA9T-FA00
+
+// Don't Lose Any Magic When You're Hit
+AKLT-AA9C
+
+// Don't Lose Any Magic When You Die (Ie. Fall Off The Screen)
+AK0T-AA56
+
+// Infinite Lives
+FFA2CA:0009
+
+// Infinite/Max Magic
+FFC8D0:001F
+
+// Keep Magic When Using It
+AKRT-EA3C
+AKSA-EA6T
+AKZT-EA2L
+AJ5A-EA6J
+AK1T-EA98
+AK0T-EA6C
+AKVT-EA4G
+AKWT-EA8R
+AKXT-EA94
+AKYA-EA60
+
+// Infinite Magic Keys
+AA3T-EAG6
+
+// Infinite Items To Create Speel
+REYA-A6VC
+REYA-A6TA
+
+// Infinite Continues
+AJWA-EA6T
+
+// Jump in mid-air (multi-jumps)
+AB3A-AAAC
+
+// Invincibility
+RZLT-A6VW
+
+// Enable Leave Level And Cheat Menu In Pause
+FFC744:00FF
+
+// 1 Hit Kill Bosses
+FFC86A:00FF
+
+// Enable Leave Level And Cheat Menu In Pause
+AK0A-AA2E
+AJLA-AA7Y
+AA1T-AA56
+
+// Free Movement By Levels
+FFC8D2:0001
+
+// Jump in mid-air (multi-jumps)
+FFC878:0000
+
+// Have All Ingredients with Infinite Use
+FFA2DC:0909
+FFA2DE:0909
+FFA2E0:0909
+FFA2E2:0909
+FFA2E4:0909
+FFA2E6:0909
+
+// Jump higher
+AB3A-AEY2
+
+// Jump much higher
+AB3A-BAN2
+
+// Flink starts to run immediately when starting to move
+AK9A-AAF0
+939A-B97R
+939A-B978
+
+// Flink starts to run immediately when starting to move, and he runs faster
+AP9A-AAF0
+9Z9A-B97R
+9Z9A-B978
+
+// Have 9 of all Ingredients (Enter Create Spell Menu Twice to Activate)
+AAYT-AC2C
+1TYT-BNTE
+9V9T-ACRA
+BF9T-AWGC
+BF9T-AWGE
+5V9T-AFRG
+9V9T-ACRJ
+BF9T-AWGL
+BF9T-AWGN
+6B9T-AFRR
+9V9T-ACRT
+BF9T-AWGW
+BF9T-AWGY
+6V9T-AFR0
+9V9T-BCG2
+BF9T-AAG4
+7F9T-AFR6
+BF9T-BJ88
+RZ9T-A61A

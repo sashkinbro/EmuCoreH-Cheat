@@ -1,0 +1,46 @@
+// Infinite Lives
+AJ4T-AA42
+
+// Invincibility
+GT3T-AN2R
+
+// Infinite Lives
+FFBE9C:0004
+
+// Invincibility
+FFC2F0:0002
+
+// Keep Special Helpers Shots After The Death
+AJ1T-AA6L
+
+// Keep Special Helpers Shots After The Death
+FFC2EC:0001
+
+// Invincibility (can fly thru enemies, enemy fire, etc). (Alternate).
+GT3T-AA2R
+
+// Enables level select and extra lives cheats. See notes.
+BTLA-AA8R
+
+// The extra lives controller cheat adds 5 lives each time instead of just 1
+SAST-BYV0
+
+// Main gun is twice as strong
+CA5T-AAFY
+
+// Main gun is 10x as strong
+LA5T-AAFY
+
+// Hit Anywhere
+HL0T-AA3J
+RG0T-A6Y0
+
+// One Hit Kills
+Z40T-AJZT
+
+// Skip Intro Screens
+ATWA-AA8N
+HALT-BAWG
+
+// Enable Stage Select
+RTMA-ACC8

@@ -1,0 +1,155 @@
+// Infinite hit points
+BB1A-AA78
+
+// Infinite magic
+RF8A-A6W6
+
+// Each magic pot worth 2
+FGYT-BJVY
+
+// Each magic pot worth 3
+FGYT-BNVY
+
+// Infinite lives
+KB8T-AA46
+
+// Infinite credits
+AJVT-AA2T
+
+// Start with 2 credits instead of 4
+AJ7T-BA28
+
+// Start with 6 credits
+A27T-BA28
+
+// Start with 8 credits
+BA7T-BA28
+
+// Start with 1 life instead of 3 [1st credit only]
+ABBA-ACC4
+
+// Start with 5 lives [1st credit only]
+ABBA-ALC4
+
+// Start with 7 lives [1st credit only]
+ABBA-ARC4
+
+// Start with 9 lives [1st credit only]
+ABBA-AWC4
+
+// Continue with 1 life instead of 3
+AAVT-ACBR
+
+// Continue with 5 lives
+AAVT-ALBR
+
+// Continue with 7 lives
+AAVT-ARBR
+
+// Continue with 9 lives
+AAVT-AWBR
+
+// Start with 2 magic pots instead of 1
+ABBA-AEDA
+
+// Start with 4 magic pots
+ABBA-AJDA
+
+// Start on stage 2
+SA8A-BET2
+
+// Start on stage 3
+SA8A-BJT2
+
+// Start on stage 4
+SA8A-BNT2
+
+// Start on stage 5
+SA8A-BTT2
+
+// Start on stage 6
+SA8A-BYT2
+
+// Start on stage 7
+SA8A-B2T2
+
+// Start on stage 8
+SA8A-B6T2
+
+// Infinite Energy
+FFFE7E:0050
+
+// Infinite Lives
+FFFE7C:0003
+
+// Infinite Magic
+FFFE80:0009
+
+// Invincibility
+FFD002:0004
+
+// Start With 16 Of Energy
+8BBA-AAGL
+
+// Stage Select
+SA8A-BET2
+
+// Infinite Energy
+9TST-BCNY
+GAST-BAN0
+S2ST-B762
+
+// Max And Infinite Fighter Magic
+ABBA-ANDA
+RF8A-A6W6
+
+// Max And Infinite Dwarf Magic
+ABBA-AJDA
+RF8A-A6W6
+
+// Max And Infinite Amazon Magic
+ABBA-AWDA
+RF8A-A6W6
+
+// Infinite Magic
+RF8A-A6W6
+
+// Invincibility
+R1AA-A6T4
+
+// Kill Enemies In One Hit
+PD1A-AEZA
+
+// One Hit Kill Bosses
+PAEA-CEXL
+PALT-CEVT
+
+// Keep Extra Magic From Round To round
+AJZA-AA38
+
+// Enabled Cheat Code Level Select
+AKCA-AACE
+
+// Dragons don't run away when sitting alone
+BT0A-CA6N
+
+// Invincibility Extra
+RY2A-C6V6
+
+// Infinite Life Meter (Health) P1/P2
+AK1A-AA78
+
+// Freeze Time The Duel
+AKGT-AA9N
+
+// Infinite Credits P1
+AJVT-AA2T
+
+// Infinite Credits P2
+AJVT-AA5A
+
+// Freeze Time Continue P1
+ATVA-AA5J
+
+// Freeze Time Continue P2
+A2VA-AA7L

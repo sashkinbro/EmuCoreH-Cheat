@@ -1,0 +1,24 @@
+// Region Lockout  Bypass
+AACA-AR86
+
+// Prevent The Game From Freezing When You Beat Bosses or Get 1-Ups.
+AKMT-AA6W
+AJTA-AA20
+
+// Invincibility (Disable Hit Detection)
+RZWA-A6WT
+RZVT-A604
+RZWA-A60L
+
+// Freeze Time Continue
+AJKT-AA9T
+
+// Enabled Cheat Code Get All Weapons In Pause Press Up
+AJ2T-AA8T
+
+// All extra/bonus music (Ending, Omake, etc) is available in the option screen
+RH9T-A6WG
+
+// Enabled Hidden Options In Configuration Mode
+A56T-AA4Y
+AX7A-AAET

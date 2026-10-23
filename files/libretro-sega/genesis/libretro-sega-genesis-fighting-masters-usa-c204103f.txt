@@ -1,0 +1,44 @@
+// Infinite Energy
+987T-M6F0
+TC7T-LEF4
+
+// Select Up To 9 Continues At The Option Screen
+BJLT-LAH6
+
+// Infinite Continues
+AXWT-LA7T
+
+// Access Valgasu on Character Select screen
+FF01B6:0000
+FF00FC:000C
+
+// Access Valgasu on Character Select screen
+ABJT-LAGC
+AB6T-LA5E
+
+// Hit Anywhere P1
+3HBT-MMJC
+BDBT-LL2E
+3HBT-MMMW
+BDBT-LL5Y
+3HBT-MMPE
+BDBT-LL7G
+
+// always get a victory
+AMFT-LAMW
+
+// access valgasu on character select screen
+ABJT-LAGC
+AB6T-LA5J
+
+// Infinite Energy P1
+FF0280:0028
+
+// Instant Win P1
+FF0380:0000
+
+// Infinite Energy P2
+FF0380:0028
+
+// Instant Win P2
+FF0280:0000

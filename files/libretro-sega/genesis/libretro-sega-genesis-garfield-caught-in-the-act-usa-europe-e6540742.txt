@@ -1,0 +1,95 @@
+// Start with 5 shots
+A02A-EAD4
+
+// Start with 50 shots
+KR2A-EAD4
+
+// Start with 99 shots
+NR2A-EAD4
+
+// Infinite ammo when standing
+RHCA-E6Y2
+RHCA-E6Y4
+
+// Can't collect any ammo
+AA6A-CAGY
+AA6A-CAHA
+
+// Infinite lives
+RHYT-E61T
+RHYT-E61W
+
+// Can't collect any energy
+AA5A-CAD4
+
+// Don't lose energy (Ignore counter)
+ADZT-EACC
+RGZA-A6YJ
+RGZA-A6YL
+
+// Start with very little energy energy (Ignore counter)
+AG2A-EADC
+
+// Start with half energy (Ignore counter)
+A02A-EADC
+
+// Start with about 3/4 energy (Ignore counter)
+BC2A-EADC
+
+// 1 hit and you're invincible
+RHDT-A6T8
+RHDT-A6VA
+
+// Infinite Energy
+9W1T-FCMW
+NW1T-EADY
+RC1T-E9X0
+
+// Infinite Lives
+AMYT-EA9T
+
+// Infinite Weapon
+AMCA-EA62
+
+// Invincibility
+ADDA-AR5C
+
+// Infinite Hits (Garfield)
+FFCF70:0064
+
+// Infinite Lives P1
+FFCF9E:0009
+
+// Infinite Skulls
+FFCFA0:0063
+
+// Debug Movement Mode
+AC3T-EA3W
+
+// Game Runs Faster
+7TJT-CR3N
+
+// Enemies Are Faster
+HCTT-AA8A
+
+// Automatically Beat Stage
+AC3T-ER3J
+
+// Remove Everything
+ADDA-AN2T
+
+// 1 Hit Invincibility
+FFCF2A:0010
+
+// Invincibility Works Perfectly. See Note
+R02A-E6VY
+
+// Pause the game and press Up for an Extra Life, Down for Invincibility, Left for Level Skip, Right for a Health Refill, A for Free Movement, B for Special Mode, and C for 99 Ammo
+JCET-B21G
+ACET-BE96
+ECFT-AJCC
+JCFT-AACR
+AGFT-BACY
+
+// Title screen music / sound effect / DAC/PCM sample modifier
+A6LA-AEWG

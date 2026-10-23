@@ -1,0 +1,176 @@
+// Almost invincible
+ACNT-AAF6
+
+// Start with 3x normal energy
+WB4T-AABE
+
+// Start with 1/2x normal energy
+DB4T-AABE
+
+// Getting magic life shard increases life meter to maximum
+NCHT-GAG4
+
+// Getting magic life shard does not increase life meter
+ACHT-GAG4
+
+// Faarg and Chaaz are nearly invincible
+AM2T-CA94
+
+// Infinite bullets for Faarg and flames for Chazz
+AM0A-CA62
+
+// Infinite rockets for Faarg and fireballs for Chazz
+AM0A-CA6W
+
+// Infinite continues
+ALWT-GA76
+
+// Start with 10 continues
+BJMA-CACT
+
+// Infinite basic spells
+BCRT-AA68
+
+// Infinite lightning spells
+DCWA-AA9E
+
+// Infinite super spells
+DCWT-AA44
+
+// Infinite angle spells
+DCYT-AA2R
+
+// Infinite time bomb spells
+DCVA-AA8J
+
+// Infinite mondo major spells
+DCZA-AA8G
+
+// Infinite hold spells
+DCVT-AA7T
+
+// Infinite wide spells
+DCXT-AA7R
+
+// Infinite levitate spells
+DCVT-AA2G
+
+// Infinite invulnerable spells
+ALRT-AA3W
+
+// Infinite teleport spells
+BCRT-AA26
+
+// Start with 20 basic spells
+CV6A-AAFJ
+
+// Start with 20 lightning spells
+CV6A-AAEE
+
+// Start with 20 super spells
+CV6A-AAE6
+
+// Start with 20 angle spells
+CV6A-AAFA
+
+// Start with 20 time bomb spells
+CV6A-AAEJ
+
+// Start with 20 mondo major spells
+CV6A-AAD6
+
+// Start with 20 hold spells
+CV6A-AAD2
+
+// Start with 20 wide spells
+CV6A-AAFE
+
+// Start with 20 death spells
+CV6A-AAE2
+
+// Start with 99 heal spells
+NP6A-AAEN
+
+// Start with 20 heal spells
+CV6A-AAEN
+
+// Start with 20 levitate spells
+CV6A-AAEA
+
+// Start with 20 teleport spells
+CV6A-AAEY
+
+// Start with 20 invulnerable spells
+CV6A-AAFT
+
+// Always get hurt from bombs' explosions
+AGZT-AAGE
+
+// Time bombs go off after about 1 second
+AWZT-AAGE
+
+// Time bombs go off after about 10 seconds
+GCZT-AAGE
+
+// Invulnerability lasts until level is completed
+BCRT-AA82
+
+// Invulnerability lasts about 4 seconds
+T4RT-AACA
+
+// Levitation lasts about 2 seconds
+BCVT-AADJ
+
+// Levitation lasts about 8 seconds
+ECVT-AADJ
+
+// Levitation lasts about 60 seconds
+6CVT-AADJ
+
+// Infinite Health
+FF86D8:0063
+
+// Infinite Blast Shots
+FF86F4:0063
+
+// Infinite &quot;A&quot;
+FF86F2:0063
+
+// Infinite &quot;L&quot;
+FF86EC:0063
+
+// Infinite &quot;S&quot;
+FF86F2:0063
+
+// Infinite &quot;T&quot;
+FF86EC:0063
+
+// Infinite &quot;M&quot;
+FF86EA:0063
+
+// Infinite &quot;H&quot;
+FF86E8:0063
+
+// Infinite &quot;W&quot;
+FF86F4:0063
+
+// Infinite &quot;D&quot;
+FF86F0:0063
+
+// Infinite Heal
+ALRA-AA9Y
+
+// Infinite Teeleport
+ALRT-AA3C
+
+// Infinite Death
+AL0A-AA2R
+
+// Can walk and shoot thru anything (walls, rocks, etc)
+RZNA-A6X0
+
+// Start a new game with 25 of everything
+JV6A-AA5N
+
+// Invincibility
+RGRT-A6Z8

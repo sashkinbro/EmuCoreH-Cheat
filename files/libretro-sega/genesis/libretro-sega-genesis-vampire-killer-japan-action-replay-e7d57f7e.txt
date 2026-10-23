@@ -1,0 +1,8 @@
+// Infinite Health
+FF9C10:0056
+
+// Infinite Gems
+FFFB0E:0909
+
+// Infinite Lives
+FFFB2E:0003

@@ -1,0 +1,68 @@
+// Infinite Lives
+00CE-0103
+
+// Invulnerability
+00CE-D83C
+
+// Invulnerability
+C3A-C9F-E61
+
+// Infinite Credits (Continues)
+00CC-0409
+
+// Invincibility (Flashing)
+00CE-D8FF
+
+// Always Have Missiles
+00CE-0B01
+
+// Speed Modifier
+00CE-0200
+
+// Always Have Weapon
+00CE-0400
+
+// Infinite Lives
+B6A-F9F-3BE
+
+// Infinite Continues
+3AB-96F-2A2
+
+// Start with ?? Lives, instead of 3
+05F-EBF-E66
+
+// Start with ?? Continues, instead of 2
+05F-DEF-E62
+
+// Cannon Autofires Full-Power Shots
+00CE-091E
+
+// Temporary Invincibility after Dying and at Start of Level Lasts ?? Longer
+801-166-19A
+
+// Always have Missiles
+004-D35-C49
+
+// Keep Missiles after Dying
+3A1-326-2A2
+
+// Keep Bit Units (Power Spheres) and Droid after Dying
+7E1-016-3B7
+3A1-046-2A2
+
+// Always have Bit Units (Power Spheres)
+00CE-1E80
+00CE-2281
+
+// Always have Droid
+00CE-1A80
+00CE-0502
+
+// Droid Shot Type Modifier (when mounted)
+00CE-0400
+
+// Droid Shot Direction Modifier (when mounted)
+00CE-0600
+
+// Droid Behavior Modifier
+00CE-0800

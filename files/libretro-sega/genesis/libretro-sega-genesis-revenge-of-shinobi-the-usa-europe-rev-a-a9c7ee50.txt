@@ -1,0 +1,43 @@
+// Infinite Lives
+AMTT-GA7Y
+
+// Infinite Energy
+AMTA-GA7E
+
+// Infinite Shurikens
+ADTT-GACN
+
+// Invincibility
+AXXA-GN24
+
+// Jump in Midair
+1LZA-A5SR
+HC0T-AEF4
+EC0T-AAF6
+BG0T-AD78
+DL0T-AAGC
+1LZA-A5SE
+
+// Hit Anywhere Normal Enemies
+F3BT-AYZT
+AKBT-AAFW
+
+// Untouchable
+RZBA-A61Y
+RZBT-A6Z6
+RZTA-A6WC
+R09T-A6Y2
+RY5A-A6TC
+R1LT-A6X0
+RYDA-A60A
+RYET-A61A
+RZ0T-A6Z2
+RZLT-A6ZA
+RZMA-A6TG
+RZ3A-A614
+
+// High moon jump with slower descent
+AC8A-B2F0
+
+// Higher moon jump with slower descent
+AC8A-BAF0

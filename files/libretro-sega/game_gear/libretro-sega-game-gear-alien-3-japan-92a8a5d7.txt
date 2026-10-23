@@ -1,0 +1,35 @@
+// Infinite Health
+00C4-6A64
+
+// Infinite Lives
+00C4-2409
+
+// Infinite Machine Gun
+00C4-2763
+
+// Infinite Time
+00C4-7903
+
+// Invincible
+00C4-8504
+
+// Infinite Health
+7E2-ABC-3B7
+
+// Infinite Lives
+00C-D1A-3BE
+
+// Always Have Machine Gun Bullets
+3C1-156-3B4
+
+// Machine Gun Bullets Never Decrease
+006-4A7-19E
+
+// Infinite Time (Minutes)
+00B-396-3BE
+
+// Invulnerability
+183-0E6-6EA
+
+// Enable Level Select Menu
+00C0-0A5C

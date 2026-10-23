@@ -1,0 +1,11 @@
+// Infinite Ammo In Cannon
+FF280E:00FF
+
+// Infinite Air Missiles
+AV7T-NA4N
+
+// Enable Resupply Option in the In-Game Options Menu
+FF0622:00FF
+
+// Enable Resupply Option in the In-Game Options Menu
+CD4T-4A5T

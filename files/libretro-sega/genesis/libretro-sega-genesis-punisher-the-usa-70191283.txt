@@ -1,0 +1,144 @@
+// Infinite time.
+ATET-AA74
+
+// Player 1 starts with 9 lives
+BERT-AACW
+
+// Hit Anywhere
+AFZT-BA8W
+
+// Infinite Health (Punisher)
+FFA0D8:0063
+
+// Infinite Health (Nick Fury)
+FFA0DA:0063
+
+// Infinite Time
+FF8780:003F
+
+// Infinite Lives (Punisher)
+FFA140:0009
+
+// Infinite Lives (Nick Fury)
+FFA142:0009
+
+// No Health Bosses
+FFA0DC:0000
+
+// No Health Most Enemies
+FFAD0E:0000
+FFA0E0:0000
+FFA0E2:0000
+FFA0E2:0000
+
+// Infinite Blasts (Punisher)
+FF8936:0009
+
+// Infinite Blasts (Nick Fury)
+FF8936:0009
+
+// Infinite Continue Time
+FF8940:0009
+
+// Infinite Weapon Usage (Nick Fury)
+FF9E32:0010
+
+// Always Have Machine Gun (Punisher)
+FF9DA4:0003
+
+// Always Have Machine Gun (Nick Fury)
+FF9DA6:0003
+
+// Tens Millions
+FF8794:0009
+
+// Millions
+FF8794:0000
+
+// Hundred Thousands
+FF8796:0000
+
+// Ten Thousands
+FF8796:0000
+
+// Thousands
+FF8798:0000
+
+// Hundreds
+FF8798:0000
+
+// Tens
+FF879A:0000
+
+// Ones
+FF879A:0000
+
+// Tens Millions
+FF87A4:0009
+
+// Millions
+FF87A2:0000
+
+// Hundreds Thousands
+FF87A2:0000
+
+// Ten Thousands
+FF87A0:0000
+
+// Thousands
+FF87A0:0000
+
+// Hundreds
+FF879E:0000
+
+// Tens
+FF879E:0000
+
+// Ones
+FF879C:0000
+
+// Infinite Health (Punisher)
+AB8T-CA9E
+
+// Invincibility (Disable Hit Detection)
+RZ1T-A6Z6
+R01A-A614
+RZ3T-A6TY
+RZ5A-A6Z0
+RZ4A-A6VC
+R13A-A6ZJ
+RZ4T-A6VR
+
+// Infinite Health
+AK8T-CA9J
+AKGA-AA5Y
+AK8T-CA3G
+
+// Infinite Health Super Kick
+AMSA-AA8R
+
+// The Punisher Starts With 9 Bombs
+BHST-CAHE
+
+// Nick Fury Starts With 9 Bombs
+BHST-CAHN
+
+// Start With 9 Bombs After Losing A Life
+BGPT-AACG
+
+// Infinite Nombs
+AKMT-AA4G
+
+// Infinite Bombs
+AL4T-AA98
+
+// Infinite Use Weapon
+AK0A-AA68
+AMET-AA6Y
+AMET-AA5E
+
+// Freeze Time Bonus Shooting the Barrels
+AWZA-CA28
+AWZA-CA96
+AWZT-CA84
+AW0A-CA72

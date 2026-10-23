@@ -1,0 +1,23 @@
+// Invincibility
+ABPT-AA9J
+
+// Infinite Lives
+AVSA-AA58
+
+// Invincibility
+DBPT-AN90
+
+// Invincibility
+A3RT-AADC
+
+// Untouchable
+FFC976:0001
+
+// Infinite Alternate Weapon
+FFD6C6:0099
+
+// Alternate Weapon Select
+FFD6C8:0000
+
+// Round Modifier
+FFD74A:0000

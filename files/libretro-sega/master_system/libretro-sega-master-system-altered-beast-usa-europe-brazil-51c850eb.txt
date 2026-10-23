@@ -1,0 +1,29 @@
+// Infinite Health P1
+00C0-900C
+
+// Level Select [Replace ? To Select Level]
+00C0-8D00
+
+// Invulnerability
+00C2-6174
+
+// Invulnerability
+C97-EFE-19D
+
+// 5 Hits Instead Of 3
+00C0-8701
+
+// Infinite Energy
+3A7-D3C-2A2
+
+// Start with ? Lives
+004-6BF-E62
+
+// Infinite Lives
+7EC-84F-3B7
+
+// Start with 5 Energy
+C6D-43F-F73
+
+// Infinite Lives P1
+00C0-8F09

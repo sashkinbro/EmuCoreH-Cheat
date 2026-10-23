@@ -1,0 +1,92 @@
+// Infinite Health
+FFB0AE:0006
+
+// Infinite Ammo
+FFB0BE:0006
+
+// Infinite Credits
+FFB0A4:0008
+
+// Infinite Energy
+AJHA-AA92
+
+// Infinite Ammo
+REGA-A61T
+
+// Start A New Game With 25 Credits (Instead Of Only 10)
+EZ1A-CAG8
+
+// Start A New Game With 50 Credits (Instead Of Only 10)
+LB1A-CAG8
+
+// Infinite Credits
+AJLT-AA7C
+
+// Start A New Game With Much More Life (Only Works On The First Credit)
+LB1T-CABC
+
+// Start A New Game With MEGA Life (Only Works On The First Credit)
+XF1T-CABC
+
+// Infinite Health P1
+FFB0AE:0099
+
+// Infinite Health P2
+FFB0B0:0099
+
+// Infinite Bullets P2
+FFB0C0:0006
+
+// Infinite Credits
+FFB0A4:0063
+
+// Always Have The Rifle P1
+FFB0BA:0003
+
+// Invincibility
+RYHA-A6W8
+
+// Don't Lose Your Weapon When You Lose A Life, Or Run Out Of Ammo
+REHA-A600
+
+// Start A New Game With The Double Revolver
+SAVT-BE0G
+
+// Start A New Game With The 50 Caliber Sharp
+SAVT-BJ0G
+
+// Start A New Game With The Rifle
+SAVT-BN0G
+
+// Start A New Game With The Shotgun
+SAVT-BT0G
+
+// Start A New Game With The Gatling Gun
+SAVT-BY0G
+
+// Start A New Game With The Cannon
+SAVT-B20G
+
+// All Guns Have Fully Automatic Rapid Fire
+REFT-A612
+
+// Start on Stage 2 (Stage Holdup)
+AJ8A-AAFT
+
+// Start on stage 3 (Saloon Showdown)
+AN8A-AAFT
+
+// Start on stage 4 (The Train Robbery)
+AT8A-AAFT
+
+// Start on stage 5 (The Hide Out)
+AY8A-AAFT
+
+// Start On Section 3
+SA8A-BEZY
+
+// Start On Section 4
+SA8A-BJZY
+
+// Start On Section 5
+SA8A-BNZY

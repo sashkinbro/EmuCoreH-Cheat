@@ -1,0 +1,26 @@
+// Infinite Missiles
+FF4A48:0019
+
+// Infinite Time
+FF45A2:0099
+
+// Downed Bogies Modifier
+FF45B2:0000
+
+// Infinite Credits
+AD0T-AAD8
+
+// Infinite Missiles
+ALRT-AA9J
+AWZA-AA2N
+AWPT-AA7E
+
+// Invincibility
+RYDA-C6YW
+RZFT-A616
+
+// Freeze Time - G-LOC Air Battle (World) (Beta)
+FF4334:0051
+
+// Infinite Missiles - G-LOC Air Battle (World) (Beta)
+FF47D8:0030

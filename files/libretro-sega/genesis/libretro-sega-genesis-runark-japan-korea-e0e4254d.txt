@@ -1,0 +1,5 @@
+// Infinite Time At Continue
+FF0856:0009
+
+// Infinite Credits
+FF085A:0009

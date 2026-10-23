@@ -1,0 +1,5 @@
+// Infinite Time (Minutes)
+FFA8AE:0000
+
+// Infinite Time (Hours)
+FFA8AC:0007

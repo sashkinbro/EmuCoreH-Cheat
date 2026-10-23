@@ -1,0 +1,49 @@
+// Infinite Hearts
+FFFA08:0005
+
+// Infinite Lives
+FFFA0C:0007
+
+// Crystals Remaining Modifier
+FFFA0C:0000
+
+// Stage Modifier
+FFFA10:0000
+
+// Invincibility
+RZ5A-A6ZN
+R1AA-A6ZC
+R08T-A6YC
+R1CT-A61T
+R1CT-A6Z6
+R1CA-A6ZW
+R1CT-A6Z6
+R1DA-A6VY
+
+// Freeze Time In Bonus
+AJJA-AA3W
+
+// High moon jump with slow descent.
+GMJT-AABG
+
+// Super high moon jump with slow descent.
+DXJT-AABG
+
+// Stage Select Enabled
+BCEA-CR26
+
+// Invincibility
+RGST-A6X6
+RDET-AA6A
+
+// Infinite Health
+AJGA-AA4R
+
+// Infinite Lives
+ALFA-CA2Y
+
+// Start with 7 Lives
+A8DT-CAGG
+
+// Start with 10 Lives
+BLDT-CAGG

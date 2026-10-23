@@ -1,0 +1,47 @@
+// Character Highlighter Modifier P1
+FF01E2:0000
+
+// Infinite Time (Minutes)
+FF1C6A:0000
+
+// Infinite Time (Seconds)
+FF1C6A:0000
+
+// Infinite Time (Seconds)
+FF1C6C:0000
+
+// Crazy Acceleration P1
+FF136E:00FF
+
+// Infinite Turbos P1
+FF140A:0009
+
+// Score Modifier (Sumo)
+FF0A26:0000
+
+// Score Modifier (Helmut)
+FF0A24:0000
+
+// Score Modifier (Surf)
+FF0A22:0000
+
+// Score Modifier (Raph)
+FF0A20:0000
+
+// Score Modifier (Biff)
+FF0A1E:0000
+
+// Score Modifier (Frank)
+FF0A1C:0000
+
+// Score Modifier (Hodja)
+FF0A1A:0000
+
+// Score Modifier (Suzulu)
+FF0A18:0000
+
+// Always have +1 Star Bonus
+FF140A:00FF
+
+// Infinite Turbo
+FF1408:0099

@@ -1,0 +1,20 @@
+// Invincibility
+030-DDF
+
+// Infinite Lives
+00DD-5C09
+
+// Infinite Health
+00DD-5D08
+
+// Infinite Health
+000-44A-19E
+
+// Infinite Lives
+000-94A-19E
+
+// Invincibility to Enemies
+00E-48E-3B4
+
+// Jump Higher
+F0A-9DB-3B1

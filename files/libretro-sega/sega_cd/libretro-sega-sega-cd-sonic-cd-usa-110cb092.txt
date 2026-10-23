@@ -1,0 +1,44 @@
+// Always Have 50 Rings
+FF1512:0032
+
+// Infinite Time
+FF1516:0000
+
+// Always Have Shield
+FF151E:0001
+
+// Have All 7 Time Stones/Good Futures
+FF0F20:7F00
+
+// Inf Speed shoes/Invincibility after pickup
+FFD032:00FF
+
+// Infinite Invincibility after Pickup
+FFD032:051B
+
+// Infinite Shields
+FF151E:0001
+
+// Infinite Lives
+FF1508:0009
+
+// Infinite Rings
+FF1512:03E7
+
+// Infinite Speed Shoes after Pickup
+FFD034:051B
+
+// Have all 7 Time Stones/Good Futures
+FF0F20:007F
+
+// Levitate
+FFD012:00FA
+
+// Press B for Level Select on Title Screen
+FFE438:0005
+
+// Press A for Sound Test on Title Screen
+FFE434:0005
+
+// Press C for Sonic CD Staff's Time Attack Scores
+FFE43C:0005

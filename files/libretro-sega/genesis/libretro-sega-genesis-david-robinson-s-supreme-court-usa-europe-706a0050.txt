@@ -1,0 +1,14 @@
+// Infinite Time (Minutes)
+FF90F6:0063
+
+// Infinite Time (Seconds)
+FF90F6:0073
+
+// Fake Infinite Time
+FF90FE:0059
+
+// Score Modifier P1
+FF91D8:0000
+
+// Score Modifier P2/CPU
+FF91DA:0000

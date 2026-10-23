@@ -1,0 +1,8 @@
+// Infinite B Button Weapon
+FFD45C:03E7
+
+// Infinite C Button Weapon
+FFD45E:03E7
+
+// Infinite Time
+FFCAFC:09FF

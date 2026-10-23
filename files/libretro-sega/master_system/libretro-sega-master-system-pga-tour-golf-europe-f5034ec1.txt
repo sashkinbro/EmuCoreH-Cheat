@@ -1,0 +1,24 @@
+// Always on 1st Stroke
+00DB-6700
+
+// Always on Same Stroke
+006-D2D-19A
+
+// Strong wind
+3E7-27C-191
+0F7-28C-195
+187-29C-6EA
+
+// Massive wind
+3E7-27C-191
+1F7-28C-195
+187-29C-6EA
+
+// Hit longer shots
+017-55C-4CA
+
+// Hit even longer shots
+FF7-55C-4CA
+
+// No penalty stroke for hitting ball in water hazard or out of bounds
+3AB-32E-2A2

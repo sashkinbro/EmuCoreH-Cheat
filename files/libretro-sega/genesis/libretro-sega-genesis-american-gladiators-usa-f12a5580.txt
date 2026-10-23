@@ -1,0 +1,24 @@
+// Infinite Time P1&amp;P2 (Seconds - Ones Digit)
+FF01FE:0009
+
+// Infinite Health P1&amp;P2 (Joust)
+FF10D0:0032
+
+// Health Modifier CPU (Joust)
+FF11D0:0000
+
+// Invincibility (From Attack Shooting  Balls)
+R0YA-C6Z6
+R0TT-C6WG
+
+// 1 Hit No Energy CPU (Joust)
+A4YT-GA8W
+
+// Infinite Energy (Joust)
+ALYT-GA34
+
+// Invincibility (Joust)
+R0YT-G6V4
+
+// Invincibility (Climbing Wall)
+RZWT-T6VR

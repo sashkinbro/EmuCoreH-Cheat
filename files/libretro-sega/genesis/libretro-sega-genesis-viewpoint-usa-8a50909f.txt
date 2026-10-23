@@ -1,0 +1,21 @@
+// Infinite Lives
+ATFT-6A86
+
+// Invincibility
+HAHT-BTW6
+HAHT-BNXL
+FTHT-AVC8
+F2HT-AVDN
+
+// Invincibility
+FF882C:0004
+FF882E:0003
+
+// 1 Shot Kill Enemies And Bosses
+A29T-6A5T
+
+// Infinite Special Attack
+EA2T-6A5N
+
+// Invincibility
+RY3T-661E

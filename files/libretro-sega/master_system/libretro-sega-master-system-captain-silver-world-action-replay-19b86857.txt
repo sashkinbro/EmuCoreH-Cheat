@@ -1,0 +1,14 @@
+// Infinite Lives
+00C0-2809
+
+// Infinite Time
+00C0-2B99
+
+// Invincibility
+00C1-4001
+
+// High Jump (Always Have Boots)
+00C0-2A01
+
+// Start With Key
+00C1-4901

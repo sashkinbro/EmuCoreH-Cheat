@@ -1,0 +1,14 @@
+// Infinite Time
+007-6BD-E6E
+
+// Infinite Turbos
+00C-8EF-19E
+
+// Start With 8 Shields
+054-27F-C42
+
+// Start With 5 Shields
+024-27F-C42
+
+// Infinite Ammo
+007-E4E-19E

@@ -1,0 +1,17 @@
+// Infinite Lives
+AK8T-AA7T
+
+// Invincibility
+AK5T-AA5L
+
+// Infinite Time For Level Preview
+FF10E2:0063
+
+// Infinite Lives P1
+FF0750:0009
+
+// People Rescued Modifier
+FF075A:0000
+
+// People Left To Be Rescued Modifier
+FF075C:0000

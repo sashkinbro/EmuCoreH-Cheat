@@ -1,0 +1,17 @@
+// Infinite Time
+00D6-8D37
+
+// Invincibility
+C95-A5A-2A2
+
+// Infinite Time
+C9D-56A-3B7
+
+// Infinite Lives
+00D4-E809
+
+// Strider Height From Ground Modifier
+00D4-9A00
+
+// Infinite Health
+00D4-F27E

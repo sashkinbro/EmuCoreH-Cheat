@@ -1,0 +1,24 @@
+// Infinite Lives
+FFF746:0063
+
+// Infinite Time
+FFF788:0020
+
+// Have Clone Powerup
+FFF74A:000F
+
+// Have Dragon Wing Powerup
+FFF748:0007
+
+// Area Modifier
+FFF60C:0008
+
+// Untouchable
+RYNT-E6XT
+R13T-A6TG
+
+// Freeze Time
+AJPA-EA54
+
+// Infinite Lives
+AJ1T-CA5T

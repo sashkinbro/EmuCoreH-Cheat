@@ -1,0 +1,9 @@
+// Always Have 1 Ball Used P1 [Most Modes]
+FF06AA:0003
+
+// Wind is always at 0 MPH
+AX9A-AA3W
+AX8T-AA5C
+
+// Always score zero strokes
+AJWT-JA4A

@@ -1,0 +1,9 @@
+// Unlimited Gold (9999 Golds)
+FF120E:270F
+
+// Invincible
+FF1142:0D00
+
+// All Swords
+FF1040:AAAA
+FF1042:AAAA

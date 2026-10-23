@@ -1,0 +1,94 @@
+// Don't Die From Damage
+AXCT-AA62
+
+// Infinite Continues
+AT4T-AA4N
+
+// If you die, you will get $9000 on the first continue, $18,000 on the second continue, etc (instead of $1000, $2000).
+FA4T-AGLY
+
+// Infinite Time [Timer Counts Up Instead of Down]
+SHDT-BEVJ
+
+// Infinite energy, Radar never gets damaged, Infinite continues
+FFB0A0:0264
+
+// Have lots of money/points in the shop
+FFB12E:3A98
+
+// Infinite Ammo Weapon 3
+FFB0CE:0009
+
+// Start each mission with 500 seconds (instead of 360)
+8YMT-ACCE
+
+// Start each mission with 900 seconds (instead of 360)
+TYMT-AGCE
+
+// Infinite ammo for Grenade Cannon and Hyper G. Cannon
+AVXT-AA3G
+
+// Get 25 Flying Mines (instead of 3)
+DEKA-AAH8
+
+// Get 50 ammo for Missile launcher (instead of 4)
+GJKA-AAHL
+
+// Start each mission with 199 power (instead of 100)
+26MT-CAFN
+
+// Infinite ammo for Missile Launcher
+HEBT-DEZJ
+
+// Start a new game with the Laser (instead of Chain gun), and anytime you get the free Chain gun in the shop, you'll get the Laser instead
+FA6T-AAE2
+
+// Start a new game with the level 3 Mega Chain gun (instead of level 1 Chain gun), and anytime you get the free Chain gun in the shop, you'll get the level 3 Mega Chain gun instead
+DA6T-AAE2
+AJ6T-AAFA
+
+// Don't get charged for the Missile Launcher.  See notes.
+AA7A-AAE2
+
+// Don't get charged for the Mega Chain Gun. See notes.
+AA6T-AAGR
+
+// Don't get charged for the Hyper G. Cannon. See notes.
+AA7A-AAEG
+
+// Don't get charged for the Extra Armor. See notes.
+ABKA-AAC6
+
+// Almost complete protection from enemies. See notes.
+ATET-CA9R
+ATHA-CA7R
+
+// Walk faster. See notes.
+TAMT-D97Y
+
+// Walk much faster. See notes.
+JAMT-D97Y
+
+// Run faster than you normally would when you double tap the directional pad
+JAMT-D98R
+
+// Run MUCH faster than you normally would when you double tap the directional pad
+AAMT-D98R
+
+// Always have Extra Armor. See notes.
+AD8A-AA9W
+
+// Start on stage 2, mission 1.
+HE6A-BL1T
+
+// Start on stage 4, mission 1.
+HE6A-BN1T
+
+// Start on stage 5, mission 1.
+HE6A-BY1T
+
+// Start on stage 6, mission 1.
+HE6A-BA1T
+
+// Start on stage 3, mission 1.
+HE6A-BE1T

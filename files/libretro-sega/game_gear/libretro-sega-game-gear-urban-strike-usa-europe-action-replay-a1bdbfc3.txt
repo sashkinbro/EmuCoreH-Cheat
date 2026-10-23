@@ -1,0 +1,14 @@
+// Infinite Lives
+00DA-A909
+
+// Infinite Gun
+00DA-B6FF
+
+// Infinite Fuel
+00DA-B8FF
+
+// Infinite Health
+00DA-B3FF
+
+// FAKE Infinite Health
+00DA-7D38

@@ -1,0 +1,11 @@
+// Infinite Lives
+00D9-AC09
+
+// Infinite Health
+00DB-9340
+
+// Infinite Time
+00D9-A964
+
+// Level Select (title: up on gamepad 2)
+00DB-6B12

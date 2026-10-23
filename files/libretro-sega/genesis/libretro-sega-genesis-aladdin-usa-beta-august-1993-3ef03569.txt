@@ -1,0 +1,74 @@
+// MoonJump - ASM
+ACMV-YACW
+
+// Start with 9 lives (Normal difficulty)
+HEAB-0AC2
+
+// Infinite apples
+ATBV-0A5N
+
+// Aladdin invincible\walks through enemies
+AMWV-YA78
+AMWV-YA8R
+
+// Infinite gems
+ATBV-0A8L
+
+// Genie's bonus faces are added when used in roulette
+HENV-1EZA
+
+// Minimum speed at Genie's roulette
+AENB-0ABE
+
+// Apples taken...reappear!
+AM4B-YA5W
+
+// Start with 99 apples (Normal difficulty)
+HGXB-ZWNA
+
+// Start with 99 gems (Normal difficulty)
+HGXB-ZWMJ
+
+// Going into the options menu opens the debug menu
+REGB-06WT
+
+// Open the debug menu by pressing any button 11 times\any combination of keys in the options menu
+BJGB-0A5L
+
+// Invincibility
+R1WV-Y6TA
+
+// Infinite Energy - Aladdin (USA) (Beta) (1993-06-27)
+FFF7CA:0008
+
+// Infinite Energy
+FFEFFA:0008
+
+// Infinite Energy - Aladdin (USA) (Beta) (1993-06-27)
+AXTV-YA8T
+
+// Enable Debug Infinite Health
+FF7E20:00FF
+
+// Disable Debug Infinite Health
+FF7E20:0000
+
+// Infinite Controllable Jump - Aladdin (USA) (Beta) (1993-06-27)
+ACEB-YABW
+
+// Take objects and hit enemies anywhere
+AL8B-YA5G
+AL8B-YA3C
+AL8B-YA6A
+
+// Using the sword adds apples
+1GMV-Y6VJ
+DLMV-YABL
+TWMV-ZK3N
+RGMV-Y6VR
+
+// Throwing apples adds lives
+1GKV-Y6ZN
+DLKV-YAFR
+RLKV-Y97T
+RGKV-Y6ZW

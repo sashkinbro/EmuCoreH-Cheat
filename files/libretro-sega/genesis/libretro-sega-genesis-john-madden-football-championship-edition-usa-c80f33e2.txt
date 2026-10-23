@@ -1,0 +1,5 @@
+// You will have 6 downs if you don't punt on the 4th, but the CPU will usually still punt on the 4th down.
+A5JA-AAAR
+
+// You will have 8 downs if you don't punt on the 4th, but the CPU will usually still punt on the 4th down.
+BDJA-AAAR

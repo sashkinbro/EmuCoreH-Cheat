@@ -1,0 +1,257 @@
+// Pitchers don't get tired
+RF0T-A60J
+
+// Infinite innings
+AKSA-AA3E
+
+// Infinite outs
+AL5A-AA6A
+AK5T-AA9A
+
+// Infinite strikes
+AK5T-AA7R
+
+// Infinite balls
+AK5T-AA6A
+
+// Only need 1 strike for a strikeout
+AF5T-AAF8
+AF2T-AADJ
+
+// Only need 2 strikes for a strikeout
+AK5T-AAF8
+AK2T-AADJ
+
+// Must get 4 strikes for a strikeout
+AV5T-AAF8
+AV2T-AADJ
+
+// Must get 5 strikes for a strikeout
+AZ5T-AAF8
+AZ2T-AADJ
+
+// Only need 1 ball for a walk
+AF5T-AAE2
+AF2T-AAEA
+AGHT-AABC
+AGNA-AAAW
+AGSA-AAHA
+
+// Only need 2 balls for a walk
+AK5T-AAE2
+AK2T-AAEA
+ALHT-AABC
+ALNA-AAAW
+ALSA-AAHA
+
+// Only need 3 balls for a walk
+AP5T-AAE2
+AP2T-AAEA
+ARHT-AABC
+ARNA-AAAW
+ARSA-AAHA
+
+// Need 5 balls for a walk
+AZ5T-AAE2
+AZ2T-AAEA
+A0HT-AABC
+A0NA-AAAW
+A0SA-AAHA
+
+// Need 6 balls for a walk
+A35T-AAE2
+A32T-AAEA
+A4HT-AABC
+A4NA-AAAW
+A4SA-AAHA
+
+// Infinite outs
+AL5T-AA9E
+AL6A-AA7R
+
+// Infinite strikes
+AK5T-AA7W
+
+// Infinite balls
+AK5T-AA6E
+
+// Only need 1 strike for a strikeout
+AF2T-AADN
+AF5T-AAGC
+AGGA-AAG8
+
+// Only need 2 strikes for a strikeout
+AK2T-AADN
+AK5T-AAGC
+ALGA-AAG8
+
+// Must get 4 strikes for a strikeout
+AV2T-AADN
+AV5T-AAGC
+AWGA-AAG8
+
+// Must get 5 strikes for a strikeout
+AZ2T-AADN
+AZ5T-AAGC
+A0GA-AAG8
+
+// Only need 1 ball for a walk
+AF2T-AAEE
+AF5T-AAE6
+AGHT-AADJ
+AGNA-AAC2
+AGST-AACY
+
+// Only need 2 balls for a walk
+AK2T-AAEE
+AK5T-AAE6
+ALHT-AADJ
+ALNA-AAC2
+ALST-AACY
+
+// Only need 3 balls for a walk
+AP2T-AAEE
+AP5T-AAE6
+ARHT-AADJ
+ARNA-AAC2
+ARST-AACY
+
+// Need 5 balls for a walk
+AZ2T-AAEE
+AZ5T-AAE6
+A0HT-AADJ
+A0NA-AAC2
+A0ST-AACY
+
+// Need 6 balls for a walk
+A32T-AAEE
+A35T-AAE6
+A4HT-AADJ
+A4NA-AAC2
+A4ST-AACY
+
+// Infinite Outs
+AL5A-AA6A
+AK5T-AA9A
+
+// Only Need 1 Strike For A Strikeout
+AF5T-AAF8
+AF2T-AADJ
+
+// Only Need 2 Strikes For A Strikeout
+AK5T-AAF8
+AK2T-AADJ
+
+// Must Get 4 Strikes For A Strikeout
+AV5T-AAF8
+AV2T-AADJ
+
+// Must Get 5 Strikes For A Strikeout
+AZ5T-AAF8
+AZ2T-AADJ
+
+// Only Need 1 Ball For A Walk
+AF5T-AAE2
+AF2T-AAEA
+AGHT-AABC
+AGNA-AAAW
+AGSA-AAHA
+
+// Only Need 2 Balls For A Walk
+AK5T-AAE2
+AK2T-AAEA
+ALHT-AABC
+ALNA-AAAW
+ALSA-AAHA
+
+// Only Need 3 Balls For A Walk
+AP5T-AAE2
+AP2T-AAEA
+ARHT-AABC
+ARNA-AAAW
+ARSA-AAHA
+
+// Need 5 Balls For A Walk
+AZ5T-AAE2
+AZ2T-AAEA
+A0HT-AABC
+A0NA-AAAW
+A0SA-AAHA
+
+// Need 6 Balls For A Walk
+A35T-AAE2
+A32T-AAEA
+A4HT-AABC
+A4NA-AAAW
+A4SA-AAHA
+
+// Infinite Outs
+AL5T-AA9E
+AL6A-AA7R
+
+// Only Need 1 Strike For A Strikeout
+AF2T-AADN
+AF5T-AAGC
+AGGA-AAG8
+
+// Only Need 2 Strikes For A Strikeout
+AK2T-AADN
+AK5T-AAGC
+ALGA-AAG8
+
+// Must Get 4 Strikes For A Strikeout
+AV2T-AADN
+AV5T-AAGC
+AWGA-AAG8
+
+// Must Get 5 Strikes For A Strikeout
+AZ2T-AADN
+AZ5T-AAGC
+A0GA-AAG8
+
+// Only Need 1 Ball For A Walk
+AF2T-AAEE
+AF5T-AAE6
+AGHT-AADJ
+AGNA-AAC2
+AGST-AACY
+
+// Only Need 2 Balls For A Walk
+AK2T-AAEE
+AK5T-AAE6
+ALHT-AADJ
+ALNA-AAC2
+ALST-AACY
+
+// Only Need 3 Balls For A Walk
+AP2T-AAEE
+AP5T-AAE6
+ARHT-AADJ
+ARNA-AAC2
+ARST-AACY
+
+// Need 5 Balls For A Walk
+AZ2T-AAEE
+AZ5T-AAE6
+A0HT-AADJ
+A0NA-AAC2
+A0ST-AACY
+
+// Need 6 Balls For A Walk
+A32T-AAEE
+A35T-AAE6
+A4HT-AADJ
+A4NA-AAC2
+A4ST-AACY
+
+// Balls Modifier
+FFFF24:0000
+
+// Strikes Modifier
+FFFF26:0000
+
+// Outs Modifier
+FFFF28:0000
+
+// Batter Stance Modifier
+FFFF20:0000

@@ -1,0 +1,23 @@
+// Enable everyone for Career Mode
+AASV-4AEC
+
+// Enable everyone for Tournament Mode
+AAXV-4AEA
+
+// Health Regenerates Fast For P1
+FF5A3E:0063
+
+// Infinite Health P1
+FF5A60:0063
+
+// No Health P2/CPU
+FF599C:0000
+
+// Infinite Time (Minutes Digit)
+FF327E:0009
+
+// Infinite Time (Seconds - Ten's Digit)
+FF3280:0009
+
+// Infinite Time (Seconds - One's Digit)
+FF3280:0009

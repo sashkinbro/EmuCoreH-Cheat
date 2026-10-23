@@ -1,0 +1,60 @@
+// Infinite Energy
+FF019C:0005
+
+// Infinite Lives
+FF0198:0009
+
+// Infinite Fruit
+FF01AA:0099
+
+// Infinite Flags
+FF019E:0099
+
+// Infinite Minigame Chances
+FF013C:0003
+
+// Infinite Energy (Boy And Dog Mini-Game)
+FFD476:0005
+
+// Infinite Gum (Boy And Dog Mini-Game)
+FFD47A:0001
+
+// Infinite Lives - Rocky and Bullwinkle
+AJDA-JA62
+
+// Infinite Energy Bullwinkle
+ADVT-GAF8
+
+// Invincibility Bullwinkle
+R1VT-G6YY
+
+// Infinite Energy Rocky
+AD5T-GACR
+
+// Invincibility Rocky
+R15T-G6VE
+
+// Infinite Apples Rocky And Bullwinkle
+AJCT-JA78
+
+// Infinite Continues
+AW2A-NA8G
+
+// Infinite Energy (Boy And Dog - Mini-Game)
+AVDT-RA86
+
+// Invincibility (Boy And Dog - Mini-Game)
+RZDT-R6Z6
+RZCA-R6YW
+
+// Jump in Midair - Bullwinkle
+ADPA-GA7Y
+
+// Walk Thru Walls
+ACVA-JA5Y
+
+// Jump in Midair - Rocky
+AD2T-GA60
+
+// Invincibility - Rocky & Bullwinkle
+AD0T-GA7G

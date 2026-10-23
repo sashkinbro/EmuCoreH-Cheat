@@ -1,0 +1,72 @@
+// Infinite Energy
+9TVA-BCKW
+AAVA-BABY
+JTVA-BBK0
+
+// Infinite Energy
+AKGT-AA8R
+AL8A-AA9R
+AL8A-AA8T
+AKXA-AA4A
+AJ7T-AA20
+AKZT-AA5Y
+AL5T-AA60
+AK0A-AA78
+AL4T-AA92
+AJ8T-AA7J
+
+// Untouchable/Invincibility
+RZGT-A6YN
+R08A-A60R
+RZXA-A6V2
+RY7T-A6T0
+RZZT-A6XY
+RZGT-A6YJ
+R05T-A6Y0
+R04T-A612
+RY8T-A6ZJ
+
+// Infinite LG-GUN
+AMTA-AA72
+
+// Infinite 25-SC
+RHTT-A60A
+
+// Infinite D-D
+RHXA-A6ZN
+
+// Infinite Energy
+FFB044:0016
+
+// Infinite GL
+RHVT-A6VL
+
+// Infinite 150BZ
+RHWA-A6TN
+
+// Infinite MGL
+RHVT-A6ZL
+
+// Infinite Missile
+RHWA-A608
+
+// Infinite E-AS
+RHWT-A61A
+
+// Infinite M.POD
+RHWT-A6YA
+
+// Infinite 40-SC
+RHVA-A6XN
+
+// Infinite E-CH
+RHXA-A6W8
+
+// Infinite BURST
+RHXT-A6V6
+
+// Infinite HG-GUN
+RHTT-A6WY
+
+// 1 Shot Kill Enemies And Bosses
+ABGT-AADT

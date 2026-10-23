@@ -1,0 +1,43 @@
+// Play Japanese Cart on US Genesis
+BTBT-AA4E
+
+// Enabled Stage Select/Selection Languages In Options
+DDHA-AA36
+NMHA-AA8T
+
+// Infinite Lives
+AKET-CA8R
+
+// Infinite Jewels (Health)
+AC0T-AAF0
+AL1T-AA30
+
+// Invincibility
+R00T-A6YC
+
+// Infinite Golds
+AVRA-CA4Y
+
+// Infinite Balloon
+AJXA-CA68
+
+// Infinite Magic Power-Up After The Death
+AL2A-EA3C
+
+// Infinite m Continue
+AKMT-CA6R
+
+// Freeze Time Continue
+AKMA-CA86
+
+// Keep Three Silver Rings After Touching Enemies
+AKJA-CA6E
+
+// Keep Gold Rings After The Death
+AL2A-EA9A
+
+// Keep Silver Rings After The Death
+AL2A-EA9J
+
+// Keep Shake After The Death
+AKJT-AA8G

@@ -1,0 +1,67 @@
+// Exp Boost
+FFF114:00FF
+
+// Invincibility
+RZTA-C6T4
+R1XT-C60A
+
+// Infinite MP
+AK2T-CA6C
+
+// Infinite Bombs
+AK5A-CA7C
+
+// Infinite Medical Herb
+AMXA-AA8J
+
+// Infinite Keys
+FFF13C:0001
+
+// Infinite Keys
+AK5T-CA58
+
+// Infinite Life
+AKTT-CA72
+
+// Infinite Full Life
+FFF110:9000
+
+// EXP x2
+FXCT-DACY
+K9CT-CAC0
+VDCT-CH42
+
+// EXP x4
+FXCT-DACY
+K9CT-CAC0
+VDCT-CM42
+
+// EXP x8
+FXCT-DACY
+K9CT-CAC0
+VDCT-CS42
+
+// EXP x16
+FXCT-DACY
+K9CT-CAC0
+VDCT-CX42
+
+// EXP x32
+FXCT-DACY
+K9CT-CAC0
+VDCT-C142
+
+// EXP x64
+FXCT-DACY
+K9CT-CAC0
+VDCT-C542
+
+// EXP x128
+FXCT-DACY
+K9CT-CAC0
+VDCT-C942
+
+// EXP x256
+FXCT-DACY
+K9CT-CAC0
+VDCT-CD42

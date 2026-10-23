@@ -1,0 +1,48 @@
+// Infinite Lives
+00C2-2F09
+
+// Get Hit Once For Invincibility
+00C2-28FF
+
+// Have Weapon
+00C2-2C01
+
+// Moon Jump
+00C2-2300
+
+// One Hit Kills Bosses
+00C3-1E01
+
+// Infinite Lives
+7E4-DCF-3B7
+
+// Infinite Energy
+7E8-FDD-3BE
+
+// Infinite Hits
+00C2-2E03
+
+// Infinite Energy
+B68-FDD-3BE
+
+// Invincibility (blinking) (Disable to pickup items)
+00C2-2781
+00C2-2830
+
+// Start with ?? Health Units, instead of 3
+040-028-E66
+040-44E-E66
+
+// Start with ?? Lives, instead of 2
+03D-EFE-E62
+
+// Invulnerability
+18D-97E-6EA
+
+// Multi-Jump
+869-A8D-F71
+BEC-FBE-191
+867-C8A-F71
+
+// Multi-Jump
+00C2-2200

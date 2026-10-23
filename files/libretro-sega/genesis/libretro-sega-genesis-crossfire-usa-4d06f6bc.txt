@@ -1,0 +1,167 @@
+// Infinite Special (On Foot)
+FF2E1A:0002
+
+// Infinite Special (In Chopper)
+FF18AC:0070
+
+// Infinite Bombs
+FF2E18:0003
+
+// Infinite Lives
+FF2E52:0003
+
+// Choose from 1 to 10 lives
+BNXT-CAF4
+BJXT-CAHE
+
+// Choose from 1 to 25 lives
+DJXT-CAF4
+DEXT-CAHE
+
+// Choose from 1 to 100 lives
+NYXT-CAF4
+NTXT-CAHE
+
+// Infinite lives
+BAJA-AA2N
+
+// Start with 0 bombs
+ACHT-AAB2
+
+// Start with 1 bomb
+AGHT-AAB2
+
+// Start with 2 bombs
+ALHT-AAB2
+
+// Start with 5 bombs
+A0HT-AAB2
+
+// Start with 7 bombs
+A8HT-AAB2
+
+// Start with 9 bombs
+BGHT-AAB2
+
+// Infinite bombs
+AT8A-EA6R
+
+// Each Set Of Bs Worth 2 Bombs
+HGBA-BJ1Y
+
+// Each Set Of Bs Worth 3 Bombs
+HGBA-BN1Y
+
+// Each Set Of Bs Worth 4 Bombs
+HGBA-BT1Y
+
+// Each Set Of Bs Worth 5 Bombs
+HGBA-BY1Y
+
+// Start with 0 turbos
+AAJA-AAAG
+ACHT-AACA
+
+// Start with 2 turbos
+AJJA-AAAG
+ALHT-AACA
+
+// Start with 3 turbos
+ANJA-AAAG
+ARHT-AACA
+
+// Start with 5 turbos
+AYJA-AAAG
+A0HT-AACA
+
+// Start with 7 turbos
+A6JA-AAAG
+A8HT-AACA
+
+// Start with 9 turbos
+BEJA-AAAG
+BGHT-AACA
+
+// Infinite turbos
+ATKA-AA2T
+
+// Each set of Ts worth 2 turbos
+HGBA-BJ1C
+
+// Each set of Ts worth 3 turbos
+HGBA-BN1C
+
+// Each set of Ts worth 4 turbos
+HGBA-BT1C
+
+// Each set of Ts worth 5 turbos
+HGBA-BY1C
+
+// Each turbo lasts about 1 second
+GNKA-AAA8
+
+// Each turbo lasts about 2 seconds
+N2KA-AAA8
+
+// Each turbo lasts about 3 seconds
+XJKA-AAA8
+
+// Each turbo lasts about 7 seconds
+N2KA-ACA8
+
+// Each turbo lasts about 10 seconds
+AAKA-AEA8
+
+// Each turbo lasts about 15 seconds
+AAKA-AGA8
+
+// Each turbo lasts for the rest of the round
+ATKA-AA4R
+
+// Start with 0 calls
+ACHT-AACJ
+
+// Start with 2 calls
+ALHT-AACJ
+
+// Start with 3 calls
+ARHT-AACJ
+
+// Start with 5 calls
+A0HT-AACJ
+
+// Start with 7 calls
+A8HT-AACJ
+
+// Start with 9 calls
+BGHT-AACJ
+
+// Infinite calls
+ATST-AA5C
+
+// Each transceiver item worth 2 calls
+HF9T-BJYN
+
+// Each transceiver item worth 3 calls
+HF9T-BNYN
+
+// Each transceiver item worth 4 calls
+HF9T-BTYN
+
+// Each transceiver item worth 5 calls
+HF9T-BYYN
+
+// Each Set Of Ps Worth 2x Normal In Shot Power
+HGBT-BJTR
+
+// Each set of Ps worth 3x normal in shot power
+HGBT-BNTR
+
+// Keep shot power level after dying
+ATHT-AA9W
+
+// 1 Hit And Invincibility (Disable Hit Detection)
+R0CT-A616
+
+// Invincibility (Disable Hit Detection)
+R0AA-A6TC

@@ -1,0 +1,14 @@
+// Infinite Lives
+AKST-AA84
+
+// Invincibility
+AKEA-AA6E
+
+// Infinite Ships P1
+FF088A:0009
+
+// Enable Muteki
+FF0860:00FF
+
+// Disable Muteki
+FF0860:0000

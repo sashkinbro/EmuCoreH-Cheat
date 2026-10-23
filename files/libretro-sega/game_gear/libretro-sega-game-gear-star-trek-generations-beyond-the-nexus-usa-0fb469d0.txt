@@ -1,0 +1,11 @@
+// Infinite Shields
+00D3-1464
+
+// Infinite Lasers
+00D3-1564
+
+// Infinite Phasers
+7E1-77D-3B7
+
+// Infinite Shields
+002-91C-A28

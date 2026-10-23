@@ -1,0 +1,17 @@
+// Invincibility - Player 1
+00C6-0300
+
+// Infinite Time
+00C6-E250
+
+// Name of Last Attack Stays
+00C0-1101
+
+// Round Select [Replace ??]
+00C0-2600
+
+// Infinite Health Player 1
+C9D-5ED-3B7
+
+// Infinite Life P1&amp;P2 (Team 1)
+00C6-0737

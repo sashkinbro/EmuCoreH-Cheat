@@ -1,0 +1,29 @@
+// Infinite Hat
+00C0-9012
+
+// Invulnerability
+00C-7BC-082
+
+// Invulnerability
+00C5-712E
+
+// Infinite Lives
+090-67D
+
+// Children Remaining Modifier
+00C1-EC00
+
+// Infinite Health
+00C5-7606
+
+// Round Select after Title Screen
+00DD-F808
+
+// Infinite Health
+3AC-8EC-2A2
+
+// Infinite Lives
+B67-EBF-3BE
+
+// Start with ?? Lives, instead of 2
+049-EBF-E66

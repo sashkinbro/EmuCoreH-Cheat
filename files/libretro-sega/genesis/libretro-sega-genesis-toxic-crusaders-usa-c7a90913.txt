@@ -1,0 +1,32 @@
+// Infinite Lives
+AKVA-CA5Y
+
+// Infinite Energy
+AK1T-CA4L
+
+// Infinite Health P1
+FF24FA:001F
+
+// Infinite Lives P1
+FF2520:0009
+
+// Infinite Time To Continue
+FF255A:0009
+
+// Invincibility
+RZHT-C6T6
+RZJA-C60N
+R0FT-C614
+RZEA-C6WY
+
+// Infinite Continue
+AKVA-CA96
+
+// Freeze Time Continue
+AJ3A-EA54
+
+// Start with ?? Lives
+A0MA-CABR
+
+// Continue with ?? Lives
+AY3A-EAH6

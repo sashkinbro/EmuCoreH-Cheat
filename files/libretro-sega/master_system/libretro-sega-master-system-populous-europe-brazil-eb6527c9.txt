@@ -1,0 +1,49 @@
+// Infinite/Max Supreme Power
+301-7DD-7F3
+021-7ED-B3D
+
+// Infinite/Max Supreme Power
+00D5-66FF
+00D5-67FF
+
+// instant end
+00D3-9D01
+
+// enable volcanoes
+00D3-C701
+
+// enable Earthquakes
+00D3-C401
+
+// enable floods
+00D3-C801
+
+// enable Swamps
+00D3-C501
+
+// level reset
+00D5-65FF
+
+// Instant Armageddon
+00D5-4001
+
+// Enable Knights
+00D3-C601
+
+// constant flooding
+00D5-69FF
+
+// Build near towns or people
+00D3-BF00
+
+// Evil Speed
+00D3-BE01
+
+// Evil Rating
+00D3-BD01
+
+// Edit Swamps
+00D3-C001
+
+// Water setting
+00D3-C101

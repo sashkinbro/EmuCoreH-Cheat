@@ -1,0 +1,5 @@
+// Have Infinite Players (In Fighting Scenes)
+00D7-2209
+
+// Have Infinite Movements
+00C4-5E09

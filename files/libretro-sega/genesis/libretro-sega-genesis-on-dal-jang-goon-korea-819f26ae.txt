@@ -1,0 +1,8 @@
+// Infinite Lives
+AMDT-AA90
+
+// Infinite Energy
+AK2A-AA34
+
+// Invincibility
+RZ1T-A618

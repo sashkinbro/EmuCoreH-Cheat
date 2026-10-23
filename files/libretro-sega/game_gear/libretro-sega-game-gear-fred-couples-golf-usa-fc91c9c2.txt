@@ -1,0 +1,11 @@
+// Never Taken A Shot
+00C2-2400
+
+// Always On First Shot
+00C2-2401
+
+// Always on Same Stroke
+181-0ED-2AA
+
+// No penalty stroke for hitting ball in water hazard or out of bounds
+182-B0B-2AA

@@ -1,0 +1,29 @@
+// Lots of Balls
+00DD-1999
+
+// Enable Disabled Password
+201-76E-4C2
+
+// Configuration Menu
+CDE-CBF-D59
+
+// Always On First Shot
+00D1-7601
+
+// Always on 1st Stroke
+00DC-E401
+
+// Infinite Balls
+00DC-E563
+
+// Enable Hole Select after Game Mode screen
+00C2-F601
+
+// Always on Same Stroke
+C90-CBD-E69
+
+// Infinite Balls
+000-E1D-3BE
+
+// Start with 99 Balls
+63E-88F-F7E

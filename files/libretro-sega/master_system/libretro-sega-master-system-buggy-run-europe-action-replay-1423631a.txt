@@ -1,0 +1,12 @@
+// Infinite Points P1
+00CE-2464
+
+// Infinite Money P1
+00CE-4CFF
+00CE-4DFF
+
+// Infinite Mines (At Setup Screen)
+00C8-3963
+
+// Infinite Nitoro (At Setup Screen)
+00C8-3A63

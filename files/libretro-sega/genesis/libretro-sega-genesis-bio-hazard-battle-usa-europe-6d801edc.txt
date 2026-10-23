@@ -1,0 +1,42 @@
+// Invincibility
+FFA60C:0047
+
+// Start With 99 Lives
+NNGA-BE2T
+
+// Start With 255 Lives
+96GA-BE2T
+
+// Infinite Lives
+ADSA-AAEY
+
+// Invincibility
+R1RT-A61L
+
+// Infinite Lives
+FFF248:0003
+
+// Invincibility
+FFA60C:004A
+
+// Invincibility
+EXPT-AAEY
+A5PT-AA7N
+
+// Infinite Lives
+AXRA-AA38
+
+// Enabled Cheat Code Stage Select
+FFF226:00FF
+
+// Enabled Cheat Code Stage Select
+REFT-A6YN
+
+// Opportunity play choose one and the same ship P1 P2
+FFF246:0001
+
+// Invincibility
+RYHT-C6VJ
+
+// Infinite Credit
+FFF204:0009

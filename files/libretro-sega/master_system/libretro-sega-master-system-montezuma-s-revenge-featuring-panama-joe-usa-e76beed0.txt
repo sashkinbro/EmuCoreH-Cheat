@@ -1,0 +1,11 @@
+// Jump Warp Through Screens - End
+00C0-0409
+
+// Enemies Don't Hurt You
+00C0-89E2
+
+// Infinite Lives
+00C0-0709
+
+// Level Modifier (0-5)
+00C0-0500

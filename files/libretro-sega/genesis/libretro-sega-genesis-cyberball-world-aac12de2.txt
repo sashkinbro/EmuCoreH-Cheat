@@ -1,0 +1,113 @@
+// Start with $10,000 (1-player game)
+ACLT-ACGY
+
+// Start with $25,000 (1-player game)
+LCLT-AEGY
+
+// Start with $100,000 (1-player game)
+ACLT-BAGY
+
+// Start with $250,000 (1-player game)
+ACLT-ALRY
+
+// Start with $500,000 (1-player game)
+ACLT-BA0Y
+
+// Start with $999,900 (1-player game)
+XGLT-BXGY
+
+// Player 1 starts with $10,000 (2-player game)
+ACLT-ACHL
+
+// Player 1 starts with $25,000 (2-player game)
+LCLT-AEHL
+
+// Player 1 starts with $50,000 (2-player game)
+ACLT-ALHL
+
+// Player 1 starts with $100,000 (2-player game)
+ACLT-BAHL
+
+// Player 1 starts with $250,000 (2-player game)
+ACLT-ALSL
+
+// Player 1 starts with $500,000 (2-player game)
+ACLT-BA1L
+
+// Player 1 starts with $999,900 (2-player game)
+XGLT-BXHL
+
+// Player 2 starts with $10,000
+ACLT-ACHT
+
+// Player 2 starts with $25,000
+LCLT-AEHT
+
+// Player 2 starts with $50,000
+ACLT-ALHT
+
+// Player 2 starts with $100,000
+ACLT-BAHT
+
+// Player 2 starts with $250,000
+ACLT-ALST
+
+// Player 2 starts with $500,000
+ACLT-BA1T
+
+// Player 2 starts with $999,900
+XGLT-BXHT
+
+// Workshop purchases are free (1 player game)
+ALVT-AACA
+
+// Workshop purchases are free for player 1 (2-player game)
+ALTT-AAEA
+
+// Workshop purchases are free for player 2
+ALVA-AADN
+
+// Play selection timer runs down at 1/10x normal speed
+LDDT-AAHJ
+
+// Play selection timer runs down at 1/7x normal speed
+HDDT-AAHJ
+
+// Play selection timer runs down at 1/4x normal speed
+EDDT-AAHJ
+
+// Play selection timer runs down at 1/2x normal speed
+CDDT-AAHJ
+
+// Play selection timer runs down at 2x normal speed
+AXDT-AAHJ
+
+// Play selection timer runs down at 3x normal speed
+ASDT-AAHJ
+
+// Play selection timer runs down at 4x normal speed
+AMDT-AAHJ
+
+// Freeze play selection timer
+BXDT-AA9N
+
+// Game clock runs at 10x normal speed
+AMEA-AAGW
+
+// Game clock runs at 5x normal speed
+AXEA-AAGW
+
+// Game clock runs at 2x normal speed
+BMEA-AAGW
+
+// Game clock runs at 1/2x normal speed
+FDEA-AAGW
+
+// Game clock runs at 1/5x normal speed
+NXEA-AAGW
+
+// Game clock runs at 1/10x normal speed
+3DEA-AAGW
+
+// Infinite Gametime
+FFF56C:0046

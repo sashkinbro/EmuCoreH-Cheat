@@ -1,0 +1,36 @@
+// Infinite Health
+00CB-1930
+
+// Infinite Lives
+00C0-1303
+
+// Invulnerability
+00CB-25FF
+
+// Invulnerability
+C96-59C-E69
+
+// Start with 1 lives
+014-FAF-E66
+
+// Start with 5 lives
+054-FAF-E66
+
+// Start with 9 lives
+094-FAF-E66
+
+// Infinite lives
+008-E2D-E69
+
+// Infinite energy
+004-56C-D5A
+
+// Start on Toys in the Hood
+344-F3F-3BE
+344-EFF-3BE
+
+// Infinite Lives
+00C0-1305
+
+// Infinite Lives
+188-E4D-6EA

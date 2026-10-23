@@ -1,0 +1,47 @@
+// Infinite Lives
+00C4-2903
+
+// Level Select
+00C4-2B00
+
+// Infinite Health
+008-5D5-B31
+
+// Start with 2 lives
+028-52D-E66
+
+// Start with 5 lives
+058-52D-E66
+
+// Start with 9 lives
+098-52D-E66
+
+// Infinite lives
+21F-215-19D
+
+// Infinite energy
+008-5E5-C42
+
+// Start with 7 pies
+078-87D-C4E
+
+// Start with 11 pies
+0B8-87D-C4E
+
+// Start with 15 pies
+0F8-87D-C4E
+
+// Infinite pies
+21C-134-19D
+
+// Infinite Health
+00C4-2A64
+
+// Infinite Lives
+C9F-1C5-E69
+
+// Invulnerability
+C38-4C5-E61
+
+// Automatically Complete Level
+00C2-4C00

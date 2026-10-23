@@ -1,0 +1,44 @@
+// Start With 5 Lives
+05D-DDF-E66
+
+// Start With 8 Lives
+08D-DDF-E66
+
+// Start With 12 Lives
+0CD-DDF-E66
+
+// Start With 5 Health/Vitality Units
+055-7E9-D5A
+
+// Start With 8 Health/Vitality Units
+085-7E9-D5A
+
+// Infinite Health
+005-C09-3BE
+
+// Infinite Lives
+007-30E-3BE
+
+// Infinite Lives
+00C1-2D09
+
+// Infinite Health
+00CC-360C
+
+// Start On Stage
+00C1-2800
+
+// Invincibility + Stone Hammers
+00C1-2703
+
+// Invulnerability
+9B3-8CD-6E0
+
+// Have Skateboard
+CDF-FBC-F79
+
+// Have Stone Hammers
+000-04B-91E
+
+// Area/Round Select after Title Screen
+00C0-5401

@@ -1,0 +1,26 @@
+// Infinite Lives
+00DF-BA03
+
+// Infinite Energy
+00CA-3A20
+
+// Infinite Time (One's Digit)
+00DF-C309
+
+// Infinite Time (Ten's Digit)
+00DF-C409
+
+// Infinite Time (Hundred's Digit)
+00DF-C509
+
+// Infinite Lives
+3A1-60E-2A2
+
+// Infinite Energy
+3A6-FCB-2A2
+
+// Freeze Timer
+00DF-C21E
+
+// Press 1 or 2 on Title Screen for Debug Menu
+000-EB7-2AE

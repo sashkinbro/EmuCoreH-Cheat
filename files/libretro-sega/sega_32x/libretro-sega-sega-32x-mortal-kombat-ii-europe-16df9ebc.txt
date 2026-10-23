@@ -1,0 +1,321 @@
+// You Only Have To Win One Fight To Win The Match, But The CPU Still Has To Win Two
+SDVT-BJT6
+
+// The CPU Will Never Win The Match
+AMVT-AA3N
+
+// Enable Secret Cheat Menu!
+RGTT-A6T2
+
+// Always Fight Smoke
+B2LT-DE4J
+
+// Always Fight Noob Saibot
+B6LT-DE4J
+
+// Always Fight Jade
+CALT-DE4J
+
+// Always Fight Kung Lao
+AALT-DE4J
+
+// Always Fight Liu Kang
+AELT-DE4J
+
+// Always Fight Johnny Cage
+AJLT-DE4J
+
+// Always Fight Baraka
+ANLT-DE4J
+
+// Always Fight Kitana
+ATLT-DE4J
+
+// Always Fight Mileena
+AYLT-DE4J
+
+// Always Fight Shang Tsung
+A2LT-DE4J
+
+// Always Fight Raiden
+A6LT-DE4J
+
+// Always Fight Sub-Zero
+BALT-DE4J
+
+// Always Fight Reptile
+BELT-DE4J
+
+// Always Fight Scorpion
+BJLT-DE4J
+
+// Always Fight Jax
+BNLT-DE4J
+
+// Always Fight Kintaro
+BTLT-DE4J
+
+// Always Fight Shao Kahn (Once You Beat Him, The Game Is Over)
+BYLT-DE4J
+
+// Gives You More Time To Do Fatalities
+A5WA-AJHY
+
+// You Will Automatically Do A Fatality
+ADZT-CA4C
+AC7T-CA6E
+
+// Shadow Fighters
+AAMA-CADL
+
+// Air Fighting
+AAMA-CAD6
+
+// Shadow Air Fighting
+BJMA-CAD6
+
+// Disfigured Backgrounds
+AGMA-AAHJ
+
+// Backgrounds Out Of Line
+YLMA-ACHJ
+
+// Background Effects Out Of Place
+YLMA-ATHJ
+
+// No Backgrounds
+ACMA-AAH8
+
+// Total Blackout
+XGMT-AAWA
+
+// 10 Minute Fatality Time
+A5WA-BBHY
+
+// Liu Kang's High Fireball Does Massive Damage
+A33A-CA88
+
+// Kung Lao's Hat Throw Does Massive Damage
+A34T-CA6E
+
+// Cage's Shadow Kick Does Massive Damage
+A33A-CA9E
+
+// Reptile's Force Ball Does Massive Damage
+AVYT-CA48
+
+// Shang Tsung's Flaming Skull Attack Does Massive Damage
+AV0T-CA38
+
+// Kitana's Fan Throw Does Massive Damage
+AV1A-CA88
+
+// Mileena's Sai Throw Does Massive Damage
+AV1A-CA9T
+
+// Raiden's Lighting Bolt Does Massive Damage
+AV2T-CA7L
+
+// In Second Round, The Loser From First Round Lies On Floor
+AS9T-BA2J
+
+// First Player Lies On Floor
+AM9T-BA2J
+
+// Second Player Lies On Floor
+AH9T-BA2J
+
+// Full Room Fighting
+AD2A-AA3W
+
+// Instead of Finish Him/Her Text, It Says Friendship
+A5WA-AJG8
+
+// No Finish Him/Her Text
+A5WA-AGG8
+
+// Finishing Moves Can Be Done At The End of Any Round
+RHVT-A6X8
+
+// Revenge Code
+RHVT-A6X8
+AS9T-BA2T
+
+// Auto Friendships
+ADZT-CA4C
+BW7T-CA6N
+
+// Auto Babalities
+ADZT-CA4C
+RG7T-C6YN
+
+// Auto Kombat Tomb &amp; Pit 2 Fatality
+ADZT-CA4C
+AC7T-CAAE
+
+// Timer Is 2x As Fast
+CXXT-BA5A
+
+// Timer Is 2x As Slow
+LDXT-BA5A
+
+// Infinite Time
+ADVA-BE52
+
+// Immortal Kombat
+CALA-DE4J
+
+// When Both Players Choose The Same Character, Both Characters Will Have Player 1's Palette
+AEFT-DELC
+
+// When Both Players Choose The Same Character, Both Characters Will Have Player 2's Palette
+AEFT-DEKY
+
+// High Jump
+AD3T-AAZE
+
+// Super High Jump
+AD3T-AAPE
+
+// Jump Farther Across The Screen
+AD5A-BAM0
+
+// Jump Across The Entire Length of The Screen
+AD5A-BTD0
+
+// Opponent Selector
+FFF730:0001
+
+// Background Selector
+FFF72E:0000
+
+// Cheat Selector
+FFED00:0002
+
+// Character Modifier P1
+FFAB7E:0000
+
+// Character Modifier P2
+FFAB80:0000
+
+// Character Modifier P1 (Uses Palette of Selected Character)
+FFF806:000A
+
+// Character Modifier P2 (Uses Palette of Selected Character)
+FFF81A:0000
+
+// Infinite Time To Do A Fatality, Babality, Or Friendship
+FFB956:0037
+
+// Infinite Energy P1
+FFB99A:0078
+
+// Infinite Energy P2
+FFBA5A:0078
+
+// No Energy P1
+FFB99A:0000
+
+// No Energy P2
+FFBA5A:0000
+
+// Infinite Time
+FFAB8E:0099
+
+// Enable 6 Button P1
+FFF736:0001
+
+// Win Number Modifier P1
+FFEC2A:0000
+
+// Win Number Modifier P2
+FFEC2C:0000
+
+// Difficulty Modifier
+FFF776:0000
+
+// Finish Move Title Display Modifier
+FFEDAC:0000
+
+// Background Modifier
+FFAAC0:0000
+
+// Color And Move Modifier P1 (Do Not Activate Until After Character Select Screen)
+FFB6D8:0000
+
+// Color And Move Modifier P2 (Do Not Activate Until After Character Select Screen)
+FFB7C8:0000
+
+// No Music
+FFB4F6:0005
+
+// Background Music Is Really Fast
+FFB4F6:0006
+
+// Music Replacement/Maker Modifier
+FFB4F8:0000
+
+// Infinite Time Without Freezing The Game
+FFAB8E:0015
+
+// Background Layers Does Cool Things When Players Move Around
+FFAC30:0001
+
+// Floor Camera Angle
+FFAB64:0035
+
+// Character Sprites Are A Little Higher In Select Screen
+FFAB5E:0014
+
+// Magic Carpet Ride (Background)
+FFAB5A:0001
+
+// Move Off Screen (From The Left Only)
+FFAB56:00C8
+
+// Round Announcement Modifier
+FFAB3C:0001
+
+// Added Background Layers Overlap Original Background
+FFABB4:00FF
+
+// Kombat Tomb & Pit 2 Fatality Are Edited
+FFBA86:0001
+
+// CPU/Player 2 Is Confined To One Spot
+FFBAD2:0026
+
+// One Hit To Player 2 And CPU Will Take Over
+FFBA8A:0002
+
+// One Hit To Player 1 And CPU Will Take Over
+FFB9CA:0002
+
+// Player 1 Projectile Changer
+FFBB9C:0000
+FFBBA2:0000
+
+// Player 1 Projectile Speed Modifier
+FFBBAA:0000
+
+// Player 1 Sprite Speed Modifier
+FFB9C2:0000
+
+// Player 1 Animation Slows
+FFB9C4:0002
+
+// Background Color Modifier(s)
+FFB718:0000
+FFB796:0000
+
+// Dead Pool Acid Color Modifiers
+FFB78E:0000
+FFB790:0000
+FFB792:0000
+FFB794:0000
+
+// Hide hud(status bar)
+FFEDC2:0001
+
+// None of players can hit each other
+FFF734:0001

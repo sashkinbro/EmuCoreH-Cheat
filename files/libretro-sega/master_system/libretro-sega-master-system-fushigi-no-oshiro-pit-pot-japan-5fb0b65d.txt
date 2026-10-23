@@ -1,0 +1,8 @@
+// Free Play Cheat
+00CC-8200
+
+// No Enemy Cheat
+00CC-8400
+
+// Infinite Lives
+00C0-2104

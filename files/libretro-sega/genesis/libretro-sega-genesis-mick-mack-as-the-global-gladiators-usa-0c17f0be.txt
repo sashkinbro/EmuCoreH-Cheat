@@ -1,0 +1,245 @@
+// Don't lose energy when slimed
+AW3T-2A20
+
+// Start with 1 energy unit
+AF3T-2AFE
+
+// Start with 3 energy units
+AP3T-2AFE
+
+// Start with 5 energy units
+AZ3T-2AFE
+
+// Start with 8 energy units
+BB3T-2AFE
+
+// Start with 15 energy units
+B73T-2AFE
+
+// Start with 20 energy units
+CV3T-2AFE
+
+// Start with 30 energy units
+D33T-2AFE
+
+// Start with 50 energy units
+GK3T-2AFE
+
+// Start with 100 energy units
+NV3T-2AFE
+
+// Infinite lives
+RFVT-26ZN
+
+// Start with 1 life (Normal Difficulty only)
+GC1T-2AFT
+
+// Start with 2 lives (Normal Difficulty only)
+GG1T-2AFT
+
+// Start with 6 lives (Normal Difficulty only)
+G01T-2AFT
+
+// Start with 7 lives (Normal Difficulty only)
+G41T-2AFT
+
+// Start with 8 lives (Normal Difficulty only)
+G81T-2AFT
+
+// Start with 9 lives (Normal Difficulty only)
+HC1T-2AFT
+
+// Start with 10 lives (Normal Difficulty only)
+HG1T-2AFT
+
+// Extra life symbol [1-up] gives you 0 more lives
+RGXT-26X2
+
+// Extra life symbol [1-up] gives you 2 more lives
+ACXT-3JX2
+
+// Extra life symbol [1-up] gives you 3 more lives
+ACXT-3NX2
+
+// Extra life symbol [1-up] gives you 4 more lives
+ACXT-3TX2
+
+// Extra life symbol [1-up] gives you 5 more lives
+ACXT-3YX2
+
+// Extra life symbol [1-up] gives you 6 more lives
+ACXT-32X2
+
+// Extra life symbol [1-up] gives you 7 more lives
+ACXT-36X2
+
+// Extra life symbol [1-up] gives you 8 more lives
+ACXT-3AX2
+
+// 0 arches needed to complete a level
+AL2T-2A6N
+
+// 10 arches needed to complete a level
+GG2T-3ANJ
+
+// 20 arches needed to complete a level
+GL2T-3ANJ
+
+// 40 arches needed to complete a level
+GW2T-3ANJ
+
+// 50 arches needed to complete a level
+G02T-3ANJ
+
+// 60 arches needed to complete a level
+G42T-3ANJ
+
+// 70 arches needed to complete a level
+G82T-3ANJ
+
+// 80 arches needed to complete a level
+HC2T-3ANJ
+
+// 90 arches needed to complete a level
+HG2T-3ANJ
+
+// 0 arches needed to get to bonus round
+ABNT-2A7E
+
+// 5 arches needed to get to bonus round
+GBNT-3APA
+
+// 15 arches needed to get to bonus round
+GFNT-3APA
+
+// 25 arches needed to get to bonus round
+GKNT-3APA
+
+// 35 arches needed to get to bonus round
+GPNT-3APA
+
+// 45 arches needed to get to bonus round
+GVNT-3APA
+
+// 55 arches needed to get to bonus round
+GZNT-3APA
+
+// 65 arches needed to get to bonus round
+G3NT-3APA
+
+// 85 arches needed to get to bonus round
+HBNT-3APA
+
+// 95 arches needed to get to bonus round
+HFNT-3APA
+
+// Each arch is worth more
+CC2T-3NX4
+
+// Infinite time to complete level
+RG3T-2606
+
+// Clock runs about 3x as fast as normal
+CC3T-3R06
+
+// 9:50 to complete each level
+G04A-3WLW
+
+// 9:00 to complete each level
+GC4A-3WLW
+
+// 8:00 to complete each level
+GC4A-3TLW
+
+// 7:00 to complete each level
+GC4A-3RLW
+
+// 6:00 to complete each level
+GC4A-3NLW
+
+// 5:00 to complete each level
+GC4A-3LLW
+
+// 4:00 to complete each level
+GC4A-3JLW
+
+// 3:00 to complete each level
+GC4A-3GLW
+
+// 2:00 to complete each level
+GC4A-3ELW
+
+// 1:00 to complete each level
+GC4A-3CLW
+
+// Collecting a clock adds 1 minute to time clock
+ACXT-3E1J
+
+// Collecting a clock adds 3 minutes to time clock
+ACXT-3N1J
+
+// Collecting a clock adds 4 minutes to time clock
+ACXT-3T1J
+
+// Collecting a clock adds 5 minutes to time clock
+ACXT-3Y1J
+
+// Collecting a clock adds 6 minutes to time clock
+ACXT-321J
+
+// Collecting a clock adds 7 minutes to time clock
+ACXT-361J
+
+// Collecting a clock adds 8 minutes to time clock
+ACXT-3A1J
+
+// Infinite Lives
+D7VT-2AFT
+
+// Infinite Energy
+D83T-2AA2
+
+// Freeze Time
+BC3T-2A8Y
+
+// Infinite Lives
+FF00B4:0033
+
+// Infinite Energy
+FFFED2:000A
+
+// Freeze Time
+FF001C:0039
+
+// High jump.
+FBYT-2AFW
+
+// Super High Jump
+DBYT-2AFW
+
+// Pause The Game And Press A, Then Unpause And You'll Get An Extra Life
+WW9A-2VX6
+
+// Invincibility and infinite lives.
+FF0074:00FF
+
+// Unlimited Time
+FF001C:0035
+
+// Unlimited Energy
+FFFED2:000A
+
+// Unlimited Men
+FF00B4:0033
+
+// Infinite Time (Seconds)
+FF001C:0052
+
+// Infinite Health
+FFFED2:0009
+
+// Infinite Lives
+FF00B4:0055
+
+// Invincibility, Infinite Lives, And Infinite Time (3 In 1)
+HF2T-3EW8

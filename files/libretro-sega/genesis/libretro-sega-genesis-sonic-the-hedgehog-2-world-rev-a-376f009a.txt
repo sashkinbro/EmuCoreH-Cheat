@@ -1,0 +1,720 @@
+// Tails is very light
+ABLT-CAR2
+
+// Tails can't spin dash
+ABRT-CATN
+
+// Enable Debugger
+AE7T-AAE2
+
+// Sonic's Rings Go To 99 When You're Hit
+NNTT-CACY
+
+// Tails' Rings go to 99 when you're Hit
+NNTT-CADJ
+
+// Access Hidden Palace Zone [Or At Least Whats Left]
+ACLA-ATD4
+
+// Auto Spin Dash
+MA3A-AAAT
+
+// Always go to the special stage
+DADA-AAAR
+
+// Skip levels
+AADA-AAAE
+
+// Rings worth 2 (player 1)
+SAST-DJ1A
+
+// Rings worth 3 (player 1)
+SAST-DN1A
+
+// Rings worth 4 (player 1)
+SAST-DT1A
+
+// Rings worth 5 (player 1)
+SAST-DY1A
+
+// Rings worth 6 (player 1)
+SAST-D21A
+
+// Rings worth 7 (player 1)
+SAST-D61A
+
+// Rings worth 8 (player 1)
+SAST-DA1A
+
+// Start with 1 life instead of 3 (player 1)
+AE8A-AAD2
+
+// Start with 5 lives (player 1)
+AY8A-AAD2
+
+// Start with 7 lives (player 1)
+A68A-AAD2
+
+// Start with 9 lives (player 1)
+BE8A-AAD2
+
+// Start with 25 lives (player 1)
+DE8A-AAD2
+
+// Start with 50 lives (player 1)
+GJ8A-AAD2
+
+// Start with 75 lives (player 1)
+KN8A-AAD2
+
+// Start with 99 lives (player 1)
+NN8A-AAD2
+
+// Infinite lives (player 1)
+JW3A-CA4J
+
+// Rings worth 2 (player 2)
+SATA-DJVW
+
+// Rings worth 3 (player 2)
+SATA-DNVW
+
+// Rings worth 4 (player 2)
+SATA-DTVW
+
+// Rings worth 5 (player 2)
+SATA-DYVW
+
+// Rings worth 6 (player 2)
+SATA-D2VW
+
+// Rings worth 7 (player 2)
+SATA-D6VW
+
+// Rings worth 8 (player 2)
+SATA-DAVW
+
+// Start with 1 life instead of 3 (player 2)
+AE8A-AAD8
+
+// Start with 5 lives (player 2)
+AY8A-AAD8
+
+// Start with 7 lives (player 2)
+A68A-AAD8
+
+// Start with 9 lives (player 2)
+BE8A-AAD8
+
+// Start with 25 lives (player 2)
+DE8A-AAD8
+
+// Start with 50 lives (player 2)
+GJ8A-AAD8
+
+// Start with 75 lives (player 2)
+KN8A-AAD8
+
+// Start with 99 lives (player 2)
+NN8A-AAD8
+
+// Infinite lives (player 2)
+JXGA-CA7G
+
+// Jump lower
+KBVT-CAE2
+
+// Jump a little higher
+FVVT-CAE2
+
+// Jump a lot higher
+EBVT-CAE2
+
+// Jump really high
+CBVT-CAE2
+
+// Sonic stays invincible for a shorter time after getting hit
+A02T-CAF8
+
+// Sonic stays invincible for a longer time after getting hit
+982T-CAF8
+
+// Sonic becomes invisible and invincible  for the rest of the level after getting hit
+ALTA-CA8N
+
+// Once invincible [stars], Sonic stays Invincible for the rest of the level
+ALTA-CA9J
+
+// Sonic doesn't lose rings when hit
+ATTT-CA4W
+
+// Tails doesn't lose rings when hit
+ATTT-CA5G
+
+// Sonic needs only 1 ring instead of 50 to enter special stage after touching a star post
+AH2T-CAH6
+
+// Rings worth 2 in special stages (Sonic only)
+SBJA-HJWJ
+
+// Rings worth 3 in special stages (Sonic only)
+SBJA-HNWJ
+
+// Rings worth 4 in special stages (Sonic only)
+SBJA-HTWJ
+
+// Rings worth 5 in special stages (Sonic only)
+SBJA-HYWJ
+
+// Rings worth 6 in special stages (Sonic only)
+SBJA-H2WJ
+
+// Rings worth 7 in special stages (Sonic only)
+SBJA-H6WJ
+
+// Rings Worth 8 In Special Stages (Sonic only)
+SBJA-HAWJ
+
+// Rings worth 2 in special stage (Tails only)
+SBJA-HJWR
+
+// Rings worth 3 in special stages (Tails only)
+SBJA-HNWR
+
+// Rings worth 4 in special stages (Tails only)
+SBJA-HTWR
+
+// Rings worth 5 in special stages (Tails only)
+SBJA-HYWR
+
+// Rings worth 6 in special stages (Tails only)
+SBJA-H2WR
+
+// Rings worth 7 in special stages (Tails only)
+SBJA-H6WR
+
+// Rings worth 8 in special stages (Tails only)
+SBJA-HAWR
+
+// Need 1 Chaos Emerald to become Super Sonic
+AGZT-CACA
+
+// Need 2 chaos emeralds to become Super Sonic
+ALZT-CACA
+
+// Need 3 chaos emeralds to become Super Sonic
+ARZT-CACA
+
+// Need 4 chaos emeralds to become Super Sonic
+AWZT-CACA
+
+// Need 5 chaos emeralds to become Super Sonic
+A0ZT-CACA
+
+// Need 6 chaos emeralds to become Super Sonic
+A4ZT-CACA
+
+// Need 1 ring to become Super Sonic, don't lose rings with time
+AGZT-CACJ
+K4ZT-CA9N
+
+// Need 5 rings to become Super Sonic
+A0ZT-CACJ
+
+// Need 10 rings to become Super Sonic
+BLZT-CACJ
+
+// Need 25 rings to become Super Sonic
+DGZT-CACJ
+
+// Need 40 rings to become Super Sonic
+FCZT-CACJ
+
+// Super Sonic doesn't lose rings with time
+K4ZT-CA9N
+
+// Level select menu
+RE8A-A60W
+
+// Start most levels with some rings 1 player game only)
+2VAT-BCRN
+
+// Invincibility
+J56T-GR3L
+8X6A-GR5Y
+AVPA-CA76
+
+// Infinite Lives
+AL3A-CA4J
+
+// Infinite Time
+REHA-J6TA
+
+// Infinite Time In Debugger
+REHT-J6V0
+
+// Get Rings From Anywhere
+E32T-CA3A
+
+// Start With All Emeralds
+SA8A-B61J
+
+// Don't Use Up Rings To Maintain Transformation of Super Sonic
+ACZT-CAFY
+
+// Become Super Sonic With 0 Rings
+ACZT-CACJ
+
+// Become Super Sonic With 0 Emeralds
+ACZT-CACA
+
+// The Regular Level Music Plays When Super Sonic, Instead of The Super Theme
+ADFT-8AF6
+
+// One Hit And You Are Invincible
+982T-C9F8
+
+// Disable HUD
+ATEA-JA2J
+
+// Walk Thru Solid Objects
+J4PA-CA5R
+
+// Untouchable
+R16A-G6YW
+R16A-G6Z8
+
+// Sonic - Super-jump
+2CZA-CWC6
+
+// Sonic - Mega-jump
+ACZA-C4C6
+
+// Sonic - Orbital-jump
+ACZA-DYC6
+
+// Tails - Super-jump
+2DDA-CWCC
+
+// Tails - Mega-jump
+ADDA-C4CC
+
+// Tails - Orbital-jump
+ADDA-DYCC
+
+// Rings Don't Protect Sonic
+PD6A-GA7R
+
+// Touching an enemy will kill it.
+BM5T-GA64
+
+// Don't Lose Rings When Hit (Alternate)
+BJTT-CA28
+
+// All in One Invincibility
+R16A-G6YY
+
+// Walk Through Solid Objects (Alternate)
+R0PA-C6T4
+
+// Tails Dies Instantly When Not in CPU Flight Mode
+AMCT-CA62
+
+// Disable Tails Completely
+R06A-C6ZE
+
+// No animation change when hit
+R16A-G61A
+
+// Disable Super Sonic Transformation
+R0ZA-C61T
+
+// Stationary Sonic Has Super Sonic's Posture
+RG3T-C6W4
+
+// Sonic Stays Super After Rings Counter Hits Zero
+SCZT-CA9W
+
+// Don't Die When Hit With No Rings
+EX6A-GA6W
+
+// Jump In Midair - Sonic
+BWZA-CA9Y
+ACZT-DZ2E
+RGZT-C6TL
+ARZT-DP2R
+AWZT-CR2Y
+
+// Jump In Midair - Tails
+BXDA-CA8T
+ADDA-DZ9A
+RHDA-C61G
+PSDA-DP9L
+AXDA-CR9T
+
+// Skip Intro Screens
+ATBT-AAET
+
+// Remove Floor Spikes
+ABNT-CA60
+
+// Get One Emerald To Get Them All
+A7TT-GAEY
+
+// Never Drown
+AMMA-CA66
+
+// Pause The Game And Press A To Access The Level Select Screen
+REKT-A60A
+FAKT-AAGN
+
+// Pause The Game And Press A To Play Special/Bonus Stages
+REKT-A60A
+CAKT-AAGN
+
+// Timer Runs At Half Speed (2x Slower Than Normal)
+SAGT-JAH2
+
+// Timer Runs At One Quarter Speed (4x Slower Than Normal)
+8AGT-JAH2
+
+// Don't Die When Timer Reaches 10 Minutes
+AJGT-JA9T
+
+// Pause The Game To Enable Debugger. See notes.
+9JKT-B97T
+
+// Pause The Game To Enable Debugger (Alternate version). See notes.
+BEKT-B77T
+
+// Always Get The Chaos Emerald In Special/Bonus Stages
+AK5T-AA26
+
+// Don't Fall When You Walk Off Ledges (Walk on air). See notes.
+R1VT-C6TR
+
+// Don't lose any rings when you hit the black spikes in Special/bonus stages
+ABLA-GAA8
+
+// Pause The Game And Press A For Invincibility. See notes.
+REKT-A60A
+AJKT-AAGN
+FNKT-BBRR
+
+// Pause The Game And Press A For Invincibility, Or Press B or C to Add 10 Rings to Your Total. See notes.
+REKT-A60A
+AJKT-AAGN
+FNKT-BBRR
+SALA-ANAA
+BJLA-AAAC
+EALA-B72E
+DYLA-B72L
+6TLA-AA2N
+
+// Pause the game and press A to become Super Sonic. See notes.
+REKT-A60A
+AJKT-AAGN
+FNKT-BBRR
+FTKT-AA8W
+AALA-AYAC
+NALA-BS2E
+D2LA-AAAJ
+NNLA-BS2L
+6TLA-AA2N
+DEKT-B790
+R0ZT-C60G
+ATKT-AA7N
+
+// Doors Never Close After You Pass Thru Them (like the ones in Chemical Plant Zone)
+REMT-C6ZT
+
+// Can turn into Super Sonic at any time. See notes.
+BCZT-CA4E
+
+// Can turn into Super Sonic at any time. See notes.
+BCZT-CA4E
+R0ZT-C60G
+
+// Invincibility / Star Power-up Lasts Half As Long
+MAZA-CEDN
+
+// Invincibility / Star Power-up Lasts Twice As Long
+NAZA-CWDN
+
+// Ring Monitors Add 5 Rings (instead of 10)
+AYYT-CAFC
+
+// Ring Monitors Add 25 Rings
+DEYT-CAFC
+
+// Ring Monitors Add 100 Rings
+NTYT-CAFC
+
+// Get rings from anywhere in special/bonus stages. See notes.
+C3JT-GA2J
+G3HT-GA3T
+
+// Can Run Right Through Black Spikes In Special/Bonus Stages. See notes.
+G3HT-GA3T
+
+// Keep The Rings You Originally Had When You Exit Bonus Stages
+A53T-CA56
+
+// Special/Bonus Stages Are Always Accessible. See notes.
+B52T-CA9W
+
+// 2P Emerald Hill plays in 1P Emerald Hill
+TJ9A-A3FA
+
+// 2P Casino Night plays in 1P Casino Night
+V29A-AVFN
+
+// 2P Mystic Cave plays in 1P Mystic Cave
+TN9A-AKFL
+
+// 1P Emerald Hill plays in 2P Emerald Hill
+TJ9A-AFFW
+
+// 1P Mystic Cave plays in 2P Mystic Cave
+VN9A-AKF6
+
+// 1P Casino Night plays in 2P Casino Night
+V29A-AXF8
+
+// Start on Emerald Hill Zone, Act 2
+RE8A-A60G
+9T8A-BCRJ
+AE8A-AAGL
+
+// Start on Chemical Plant Zone, Act 1
+RE8A-A60G
+9T8A-BCRJ
+AA8A-A4GL
+
+// Start on Chemical Plant Zone, Act 2
+RE8A-A60G
+9T8A-BCRJ
+AE8A-A4GL
+
+// Start on Aquatic Ruin Zone, Act 1
+RE8A-A60G
+9T8A-BCRJ
+AA8A-A8GL
+
+// Start on Aquatic Ruin Zone, Act 2
+RE8A-A60G
+9T8A-BCRJ
+AE8A-A8GL
+
+// Start on Casino Night Zone, Act 1
+RE8A-A60G
+9T8A-BCRJ
+AA8A-A2GL
+
+// Start on Casino Night Zone, Act 2
+RE8A-A60G
+9T8A-BCRJ
+AE8A-A2GL
+
+// Start on Hill Top Zone, Act 1
+RE8A-A60G
+9T8A-BCRJ
+AA8A-ARGL
+
+// Start on Hill Top Zone, Act 2
+RE8A-A60G
+9T8A-BCRJ
+AE8A-ARGL
+
+// Start on Mystic Cave Zone, Act 1
+RE8A-A60G
+9T8A-BCRJ
+AA8A-A0GL
+
+// Start on Mystic Cave Zone, Act 2
+RE8A-A60G
+9T8A-BCRJ
+AE8A-A0GL
+
+// Start on Oil Ocean Zone, Act 1
+RE8A-A60G
+9T8A-BCRJ
+AA8A-AYGL
+
+// Start on Oil Ocean Zone, Act 2
+RE8A-A60G
+9T8A-BCRJ
+AE8A-AYGL
+
+// Start on Metropolis Zone, Act 1
+RE8A-A60G
+9T8A-BCRJ
+AA8A-AJGL
+
+// Start on Metropolis Zone, Act 2
+RE8A-A60G
+9T8A-BCRJ
+AE8A-AJGL
+
+// Start on Metropolis Zone, Act 3
+RE8A-A60G
+9T8A-BCRJ
+AA8A-ALGL
+
+// Start on Sky Chase Zone
+RE8A-A60G
+9T8A-BCRJ
+AA8A-BAGL
+
+// Start on Wing Fortress Zone
+RE8A-A60G
+9T8A-BCRJ
+AA8A-ANGL
+
+// Start on Death Egg Zone
+RE8A-A60G
+9T8A-BCRJ
+AA8A-A6GL
+
+// Tails doesn't lose rings from Spikes in Special Stages
+CT9A-GA3N
+
+// Extended Emerald Mini-Game
+RZLT-G6W8
+
+// Enable Stage Select
+FFFFD0:0100
+
+// Enable Debug Mode
+FFFFFA:0100
+
+// Infinite Rings
+FFFE20:00C8
+
+// Infinite Lives
+FFFE12:0009
+
+// Stage/Act Modifier
+FFFE10:0000
+
+// Unlimited Time
+FFFE24:0007
+
+// Invincibility For Sonic (Always Have Shield)
+FFB02A:0001
+
+// Invincibility For Tails (Always Have Shield)
+FFB06A:0001
+
+// Infinite Time Underwater For Sonic
+FFB028:00FA
+
+// Infinite Time Underwater For Tails
+FFB068:00FA
+
+// Defeat Stage 1 Robotnik With 1 Hit
+FFB520:0001
+
+// Defeat Stage 2 Robotnik With 1 Hit
+FFB620:0001
+
+// Defeat Stage 3 Robotnik With 1 Hit
+FFB720:0001
+
+// Defeat Stage 4 Robotnik With 1 Hit
+FFB820:0001
+
+// Defeat Stage 5 Robotnik With 1 Hit
+FFB920:0001
+
+// Defeat Stage 6 Robotnik With 1 Hit
+FFBA20:0001
+
+// Defeat Stage 7 Robotnik With 1 Hit
+FFBB20:0001
+
+// Defeat Stage 8 Robotnik With 1 Hit
+FFBC20:0001
+
+// Defeat Final Stage Bosses With 1 Hit
+FFB460:0001
+
+// Enable Super Sonic (All Chaos Emeralds Collected)
+FFFFB0:0007
+
+// Switch F/X On For Levitate Jump For Sonic
+FFB012:00FE
+
+// Switch F/X On For Levitate Jump For Tails
+FFB052:00FE
+
+// Hyper Mode P1
+FFB01E:0000
+
+// Hyper Mode P2
+FFB05E:0000
+
+// HUD Display Modifier
+FFF710:0000
+
+// Rings Multiplier
+FFF710:0000
+
+// Warp To End of Stage P1
+FFB008:003C
+
+// Warp To End of Stage P2
+FFB048:003C
+
+// Play As Super Sonic (No Powers)
+FFFE18:0001
+
+// Disable Water
+FFF730:0000
+
+// Glowing Sonic
+FFF65E:00FF
+
+// Invincibility - Sonic and Tails
+R16A-G6YA
+
+// Speed Shoes last 2x longer
+NAYT-CWHL
+
+// Speed Shoes last until the end of the level or until you die
+ALTT-CA24
+
+// Disable Tails following Sonic in Special Stages
+A3JT-AA4L
+A35T-AA2T
+
+// Sonic And Tails Together Need to Collect Fewer Rings To Meet the checkpoint And Emerald Requirements In Special Stages
+A35T-AA2T
+
+// Change Tails name to Miles
+AJBT-AA5E
+
+// Change Tails name to Miles
+FFFFF8:0000
+
+// Start Almost Every Life With 1 Ring
+SBAT-BE0N
+
+// Sonic jumps as high as Super Sonic
+ACZA-CTC6
+
+// Tails jumps as high as Super Sonic
+ADDA-CTCC
+
+// Sonic jumps as high as Super Sonic and has Super Sonic's faster acceleration and top speed
+ACZA-CTC6
+EWTT-CA2W
+PCTT-DGC2
+
+// Tails jumps as high as Super Sonic and has Super Sonic's faster acceleration and top speed
+ADDA-CTCC
+BW7A-CA7C
+AC7A-CYFW
+GC7A-CAF2
+AC7A-CCF8
+PC7A-DGGT

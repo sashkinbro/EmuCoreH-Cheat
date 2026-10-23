@@ -1,0 +1,28 @@
+// Start With 4 Lives & 4 Continues
+002-76F-B30
+
+// Start With 1 Life
+012-72F-F7A
+
+// Start With 7 Lives
+072-72F-F7A
+
+// Start With 9 Lives
+092-72F-F7A
+
+// Start With 15 Lives
+0F2-72F-F7A
+
+// Start With Very Little Energy
+3EE-3D5-B31
+01E-3E5-F7E
+
+// Infinite Energy
+3AA-CAB-2A2
+
+// Almost Invincible
+3E9-14E-4CA
+3E5-54C-4CA
+
+// Infinite Lives
+3A2-E2B-2A2

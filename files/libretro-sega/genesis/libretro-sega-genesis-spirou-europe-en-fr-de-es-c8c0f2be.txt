@@ -1,0 +1,72 @@
+// Infinite Energy
+RF2A-460C
+
+// Invincibility
+A56A-2N4N
+DJNA-6R8C
+
+// Infinite Lives
+FF60B6:0009
+
+// Infinite Health
+FF60B8:0005
+
+// Infinite Piccolo Hats
+FF60B2:0099
+
+// Infinite Yellow Helicopter Fuel/Air Tank
+FF60B6:0014
+
+// Stage Modifier
+FF62EA:0000
+
+// Start With 9 Lives.
+BF4A-4AB0
+
+// Start With 20 Lives
+EB4A-4AB0
+
+// High Jump.
+GALT-6ADJ
+
+// Super High Jump.
+CTLT-6ADJ
+
+// Ultra High Jump.
+BTLT-6ADJ
+
+// Enable debugger.
+HENT-5GWG
+
+// Enable debugger.
+FF62D2:00FF
+
+// Invincibility
+FFE800:0010
+
+// Untouchable
+RY5T-46T2
+
+// Enable debugger (improved version)
+AJNA-4A8J
+
+// Turn code on at any time to automatically finish the level
+RFPA-6608
+
+// Start each life with twice as much helicopter fuel (Chase/Poursuite level)
+JB3T-4AFA
+
+// Start each life with 3x as much helicopter fuel (Chase/Poursuite level)
+NB3T-4AFA
+
+// Start with 40 seconds of air every time you go in the water (Cave/Grotte level, Easy difficulty)
+JC8A-4ACC
+
+// Start with 60 seconds of air every time you go in the water (Cave/Grotte level, Easy difficulty)
+NC8A-4ACC
+
+// Start with 40 seconds of air every time you go in the water (Cave/Grotte level, Medium difficulty)
+JC8A-4ACE
+
+// Start with 60 seconds of air every time you go in the water (Cave/Grotte level, Medium difficulty)
+NC8A-4ACE

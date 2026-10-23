@@ -1,0 +1,190 @@
+// Infinite Lives
+FF004E:0006
+
+// Speed
+FF00E4:0024
+
+// All &quot;Ps&quot; - Full Weapon Power
+FF003A:000A
+
+// Infinite Truxton Bombs
+FF0050:000A
+
+// Invincible
+FF00C8:0080
+
+// Truxton Beam
+FF00D0:0010
+
+// Infinite ships
+ATLT-AA6T
+
+// Start with 1 ship (first time)
+AEFA-AAEG
+
+// Start with 2 ships (first time)
+AJFA-AAEG
+
+// Start with 4 ships (first time)
+ATFA-AAEG
+
+// Start with 5 ships (first time)
+AYFA-AAEG
+
+// Start with 6 ships (first time)
+A2FA-AAEG
+
+// Start with 8 ships (first time)
+BAFA-AAEG
+
+// Start with 10 ships (first time)
+BJFA-AAEG
+
+// Start with 25 ships (first time)
+DEFA-AAEG
+
+// Start with 50 ships (first time)
+GJFA-AAEG
+
+// Start with 75 ships (first time)
+KNFA-AAEG
+
+// Start with 100 ships (first time)
+NTFA-AAEG
+
+// Start with 1 ship (after continue)
+AEGT-AAG2
+
+// Start with 2 ships (after continue)
+AJGT-AAG2
+
+// Start with 4 ships (after continue)
+ATGT-AAG2
+
+// Start with 5 ships (after continue)
+AYGT-AAG2
+
+// Start with 6 ships (after continue)
+A2GT-AAG2
+
+// Start with 8 ships (after continue)
+BAGT-AAG2
+
+// Start with 10 ships (after continue)
+BJGT-AAG2
+
+// Start with 25 ships (after continue)
+DEGT-AAG2
+
+// Start with 50 ships (after continue)
+GJGT-AAG2
+
+// Start with 75 ships (after continue)
+KNGT-AAG2
+
+// Start with 100 ships (after continue)
+NTGT-AAG2
+
+// Start with no bombs
+AAFA-AAFY
+
+// Start with 1 bomb
+AEFA-AAFY
+
+// Start with 2 bombs
+AJFA-AAFY
+
+// Start with 4 bombs
+ATFA-AAFY
+
+// Start with 5 bombs
+AYFA-AAFY
+
+// Start with 6 bombs
+A2FA-AAFY
+
+// Start with 8 bombs
+BAFA-AAFY
+
+// Start with 10 bombs
+BJFA-AAFY
+
+// Start with 25 bombs
+DEFA-AAFY
+
+// Start with 50 bombs
+GJFA-AAFY
+
+// Start with 75 bombs
+KNFA-AAFY
+
+// Start with 100 bombs
+NTFA-AAFY
+
+// Infinite bombs
+ATTA-AA8L
+
+// 2 power boosters on pick-up
+LA7T-BJVW
+
+// 3 power boosters on pick-up
+LA7T-BNVW
+
+// 4 power boosters on pick-up
+LA7T-BTVW
+
+// 5 power boosters on pick-up
+LA7T-BYVW
+
+// Start at power 2
+B2RA-AA30
+
+// Start at power 3
+B2RA-AA30
+BARA-AA4N
+
+// Start with Truxton beam instead of power shots
+BATA-AABW
+
+// Start with thunder laser instead of power shots
+CATA-AABW
+
+// Infinite continues in all difficulty levels
+ATGA-AA9G
+
+// Invincibility
+BBAA-AN64
+
+// Enemys Shoot At You Faster
+JA0A-AATW
+
+// You Get An 1Up For Dying Or Killing Enemys
+GA2A-AAZ8
+
+// You Beat The Game
+HAMA-AAYW
+
+// All Enemys Destroyed
+1A8A-AADC
+CA6A-AAXC
+
+// Black Background
+FANA-AATE
+
+// Switch To Japan Region
+A2HA-AN46
+
+// Infinite Lives
+AAFA-AAYJ
+
+// Insane Mode
+RAMA-AAFL
+
+// Invincibility
+AJCT-AAHL
+
+// Begin With Over 400 Ships
+JAFA-BAEG
+
+// Begin With Over 4000 Bombs
+JAFA-BAFY

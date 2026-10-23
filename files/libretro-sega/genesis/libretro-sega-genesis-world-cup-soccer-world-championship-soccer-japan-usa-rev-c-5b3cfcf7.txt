@@ -1,0 +1,98 @@
+// Player 1 starts with 1 point
+AJMA-AA3N
+9TMA-BGKT
+AAMA-ACBW
+
+// Player 1 starts with 2 points
+AJMA-AA3N
+9TMA-BGKT
+AAMA-AEBW
+
+// Player 1 starts with 3 points
+AJMA-AA3N
+9TMA-BGKT
+AAMA-AGBW
+
+// Player 1 starts with 4 points
+AJMA-AA3N
+9TMA-BGKT
+AAMA-AJBW
+
+// Player 1 starts with 5 points
+AJMA-AA3N
+9TMA-BGKT
+AAMA-ALBW
+
+// Player 1 starts with 6 points
+AJMA-AA3N
+9TMA-BGKT
+AAMA-ANBW
+
+// Player 2 starts with 1 point
+AJMA-AA3N
+9TMA-BGKT
+AEMA-AABW
+
+// Player 2 starts with 2 points
+AJMA-AA3N
+9TMA-BGKT
+AJMA-AABW
+
+// Player 2 starts with 3 points
+AJMA-AA3N
+9TMA-BGKT
+ANMA-AABW
+
+// Player 2 starts with 4 points
+AJMA-AA3N
+9TMA-BGKT
+ATMA-AABW
+
+// Player 2 starts with 5 points
+AJMA-AA3N
+9TMA-BGKT
+AYMA-AABW
+
+// Player 2 starts with 6 points
+AJMA-AA3N
+9TMA-BGKT
+A2MA-AABW
+
+// Each player 1 goal worth 2
+AJYA-BE80
+
+// Each player 1 goal worth 3
+ANYA-BE80
+
+// Each player 1 goal worth 4
+ATYA-BE80
+
+// Each player 1 goal worth 5
+AYYA-BE80
+
+// Each player 1 goal worth 6
+A2YA-BE80
+
+// Each player 2 goal worth 2
+AJYT-BE3Y
+
+// Each player 2 goal worth 3
+ANYT-BE3Y
+
+// Each player 2 goal worth 4
+ATYT-BE3Y
+
+// Each player 2 goal worth 5
+AYYT-BE3Y
+
+// Each player 2 goal worth 6
+A2YT-BE3Y
+
+// Time goes by 2x as fast
+AJXA-BE9J
+
+// Time goes by 3x as fast
+ANXA-BE9J
+
+// Time goes by 4x as fast
+ATXA-BE9J

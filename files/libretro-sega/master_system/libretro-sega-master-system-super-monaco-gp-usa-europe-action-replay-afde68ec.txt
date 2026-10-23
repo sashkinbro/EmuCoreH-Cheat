@@ -1,0 +1,11 @@
+// Low Timer - Seconds
+00C3-6C00
+
+// Low Timer - Minutes
+00C3-6D00
+
+// Thar She Blows, Cap'N!
+00C3-0B08
+
+// Finish First Everytime
+00C3-6201

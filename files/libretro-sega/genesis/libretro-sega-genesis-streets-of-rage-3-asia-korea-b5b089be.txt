@@ -1,0 +1,37 @@
+// Invincibility (Disable Hit Detection)
+RZCA-E6XC
+R02T-E6ZN
+RZHA-E608
+RZBA-E6ZE
+
+// Infinite Lives
+AMDA-AA9E
+
+// Enabled Cheat Code Play As The Same Character
+ACAA-JA3J
+ALBA-JA56
+ALBA-JA3Y
+
+// Enabled Cheat Code Ash In Select Player
+RHYT-A61N
+
+// Enabled Cheat Code Shiva In Select Player
+RHYT-A60T
+
+// Infinite Energy Power Attack All Characters
+AMGT-AA84
+AMHA-AA4L
+AMKA-AA3L
+AMJA-AA80
+AMHT-AA70
+AMKT-AA7E
+AMRA-AA3A
+AMLT-AA46
+AMMA-AA3T
+
+// Enabled Cheat Code Stage Select In Options
+ALXT-JA22
+AWXT-JA3T
+RGXT-J6X0
+CC1T-JA4L
+CC2A-JA5N

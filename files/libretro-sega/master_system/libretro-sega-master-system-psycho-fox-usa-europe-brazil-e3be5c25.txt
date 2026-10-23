@@ -1,0 +1,60 @@
+// Start with ?? lives
+00E-F66-E66
+
+// Infinite Lives
+25F-33F-3BE
+
+// Infinite Invincible
+C99-66E-6E2
+
+// Infinite items
+255-B77-3BE
+
+// Infinite Lives
+00F-30F-6EE
+
+// Infinite Lives
+00C0-1609
+
+// Start With BirdFly
+00C0-1C03
+
+// Rapid Fire BirdFly (Instant Return)
+00C0-B701
+
+// Unlimited Money (Turn Off To Finish Betting)
+00C0-1905
+
+// Unlimited Potions
+00C0-1B09
+
+// Unlimited Effigies
+00C0-1809
+
+// Unlimited Psycho Sticks
+00C0-1A09
+
+// Start As Hippo
+00C0-1701
+
+// Start As Monkey
+00C0-1702
+
+// Start As Tiger
+00C0-1703
+
+// Level Select (Replace ?? With 00-14)
+00C0-2000
+
+// Infinite Lives
+B6F-33F-3BE
+
+// Infinite Invincibility Potion Time
+00C2-4D02
+
+// Invulnerability
+019-9EE-A2E
+
+// Jump in Midair
+3ED-E1F-2AD
+009-44F-E62

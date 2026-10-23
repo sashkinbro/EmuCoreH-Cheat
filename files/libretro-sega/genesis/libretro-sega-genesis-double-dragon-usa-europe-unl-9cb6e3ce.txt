@@ -1,0 +1,315 @@
+// Ghost P2
+FF09A0:0049
+
+// Ghost P1
+FF0860:0049
+
+// Infinite Energy
+AJ1A-AA7E
+
+// Infinite Lives
+AVKT-AA7G
+
+// Infinite Time
+AXKT-AA9A
+
+// Start On Mission 2
+AECA-AAEW
+
+// Start On Mission 3
+AJCA-AAEW
+
+// Start On Mission 4
+ANCA-AAEW
+
+// Jump Higher
+EKET-AAG8
+
+// Jump Much Higher
+MVET-AAG8
+
+// Walk Slower
+AFNT-AAA2
+
+// Walk Faster
+APNT-AAA2
+
+// Teleport To The Top. See notes.
+JLWA-AA7C
+
+// Enemies Don't Attack Nearly As Much
+ACCT-AMVE
+
+// Enemies Are More Defensive
+LD0T-ADDR
+
+// Weapons Dissapear When Thrown Up Against A Wall
+4PCA-ALYG
+
+// Enemies Move Faster On Missions 1, 2, & 4 / Enemies Move Slower On Mission 3
+BBNA-BNTE
+
+// Enemies move faster on Missions 2 &amp; 4 / Enemies move slower on Missions 1 &amp; 3
+ABNA-BBTE
+
+// Enemies Moves Slower
+BBNA-BNTR
+
+// Enemies Moves Faster On All Stages
+BBNA-BNTC
+
+// Enemies Move Slower On All Stages
+BBNA-BNTJ
+
+// Victory music is played on the title screen instead of the Opening theme
+DEGA-BCBN
+
+// Players & enemies land on their feet when thrown
+DEBA-ABTJ
+
+// Enemies Don't Attack As Much
+ACCT-AMVE
+
+// Infinite Energy - All Players & Enemies
+002EA4:6002
+
+// Slower Enemies
+BBNA-BNTJ
+
+// Faster Enemies
+005802:5608
+
+// Most attacks don't knock enemies down
+002F50:046D
+
+// Boss theme music is played throughout the entire game
+009944:8158
+
+// Boss theme music is never played
+009944:0000
+
+// All Enemies Are Lindas
+SWLA-BCN0
+ARLA-AAE2
+ACLA-AAE4
+
+// Can't Climb Ladders / Fences
+FF0868:0000
+
+// Long Ladders / Fences
+FF0868:0004
+
+// High Score Always Displayed 999999 Score Points
+FF0358:0099
+FF035A:9999
+
+// Player 1 Always Has 999999 Score Points
+FF088E:0099
+FF0890:9999
+
+// Player 2 Always Has 999999 Score Points
+FF09CE:0099
+FF09D0:9999
+
+// Player 1 Always Has 9 Lives
+FF07D4:000A
+
+// Player 2 Always Has 9 Lives
+FF0914:000A
+
+// Infinite Time
+FF0352:0099
+
+// All Enemies Are Abobos
+SWLA-BCN0
+AWLA-AAE2
+ACLA-AAE4
+
+// All Enemies Are Williams
+SWLA-BCN0
+A0LA-AAE2
+ACLA-AAE4
+
+// All Enemies Are Rowpers
+SWLA-BCN0
+A4LA-AAE2
+ACLA-AAE4
+
+// Mission Select
+FF02E2:0000
+
+// Player 1 palette modifier
+FF07CE:0000
+
+// Player 2 palette modifier
+FF090E:0000
+
+// Enemy#1 palette modifier
+FF0A4E:0000
+
+// Enemy#2 palette modifier
+FF0B8E:0000
+
+// Enemy#3 palette modifier
+FF0CCE:0000
+
+// Enemy#4 palette modifier
+FF0E0E:0000
+
+// Enemy#5 palette modifier
+FF0F4E:0000
+
+// Enemy#6 palette modifier
+FF108E:0000
+
+// Enemy#7 palette modifier
+FF11CE:0000
+
+// Enemy#8 palette modifier
+FF130E:0000
+
+// Enemy#9 palette modifier
+FF144E:0000
+
+// Enemy#10 palette modifier
+FF158E:0000
+
+// Player 1 character modifier
+FF07C6:0002
+
+// Player 2 character modifier
+FF0906:0002
+
+// Enemy#1 always has 1hp
+FF0A50:0000
+
+// Enemy#2 always has 1hp
+FF0B90:0000
+
+// Enemy#3 always has 1hp
+FF0CD0:0000
+
+// Enemy#4 always has 1hp
+FF0E10:0000
+
+// Enemy#5 always has 1hp
+FF0F50:0000
+
+// Enemy#6 always has 1hp
+FF1090:0000
+
+// Enemy#7 always has 1hp
+FF11D0:0000
+
+// Enemy#8 always has 1hp
+FF1310:0000
+
+// Enemy#9 always has 1hp
+FF1450:0000
+
+// Enemy#10 always has 1hp
+FF1590:0000
+
+// Player 1 is blocky
+FF08A8:0000
+
+// Player 1 consists of numbers & letters
+FF08A8:0002
+
+// Player 1 is invisible
+FF09E8:0007
+
+// Player 2 is blocky
+FF09E8:0000
+
+// Player 2 consists of numbers & letters
+FF09E8:0002
+
+// Enemies Are Invisible
+FF0B28:0007
+FF0C68:0007
+FF0DA8:0007
+FF0EE8:0007
+FF1028:0007
+FF1168:0007
+FF12A8:0007
+FF13E8:0007
+FF1528:0007
+FF1668:0007
+
+// Invincibility
+NT0A-AGDT
+
+// Infinite Energy P1
+FDJA-AEZ6
+
+// Infinite Energy P1
+FF07D0:0037
+
+// Infinite Lives P1
+FF07D4:0009
+
+// Infinite Energy P2
+FF0910:0037
+
+// Infinite Lives P2
+FF0914:0009
+
+// Infinite Time
+FF66C6:0000
+
+// Infinite Credits
+FF0356:0009
+
+// Super Strength P1
+FF081C:0008
+
+// Super Strength P2
+FF095C:0008
+
+// Barrel Can Be Reused (Level 1)
+FF0B84:0003
+
+// Intro Marian Ready For Love (Level 1)
+FF0BF8:000B
+
+// Intro Marian Evades Enemy (Level 1)
+FF0C78:0000
+
+// Box Can Be Reused (Mission 2)
+FF0F44:0000
+
+// Rapid Score Gain P1
+FF088C:0800
+
+// Rapid Score Gain P2
+FF09CC:0800
+
+// Barrel Can Be Reused (Mission 3)
+FF1084:0000
+
+// Rock 1 Can Be Reused (Mission 3)
+FF16C4:0000
+
+// Rock 2 Can Be Reused (Mission 3)
+FF1584:0000
+
+// Rock 3 Can Be Reused (Mission 3)
+FF1304:0000
+
+// Defeating Mr X Will Not Rescue Marian (Bwahaha!)
+FF12B8:0006
+
+// No Final Battle With Mr X (Instant Win)
+FF10A6:0000
+
+// Can reuse barrels, boxes, and rocks as many times as you want
+ABST-AAGR
+
+// Tighter camera when walking right
+2AET-AAGE
+2AET-AAHL
+
+// Tighter camera when walking left
+NAET-AADY
+NAET-AAE4

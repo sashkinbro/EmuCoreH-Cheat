@@ -1,0 +1,11 @@
+// Get full &quot;juice&quot; quicker
+CCVA-CAHE
+
+// Get &quot;juice&quot; real slowly
+J94T-C53W
+
+// Team 1 Points Modifiers
+FFCCD8:0000
+
+// Team 2 Points Modifiers
+FFCCBC:0000

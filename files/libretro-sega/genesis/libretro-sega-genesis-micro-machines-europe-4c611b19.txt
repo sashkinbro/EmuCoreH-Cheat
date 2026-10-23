@@ -1,0 +1,10 @@
+// Drive thru obstacles (pencils, waffles, etc)
+A3GA-AA8Y
+BVGT-AA2C
+A3GA-AA74
+
+// Don't fall if you drive off the edge
+RZBT-A6YG
+
+// MUCH higher top speed
+FTSA-AA3E

@@ -1,0 +1,26 @@
+// Invulnerability
+00D3-E8D4
+
+// Memory Viewer (When Hit)
+00F-0BB-2AD
+
+// Invulnerability
+C9F-0DB-E69
+
+// Infinite Health
+00CC-3F15
+
+// Infinite Bullets
+00D3-C363
+
+// Infinite Lives
+00D3-C209
+
+// Infinite Health
+7EF-89B-3B7
+
+// Infinite Bullets
+005-1B5-19E
+
+// Infinite Lives
+3A3-9E4-2A2

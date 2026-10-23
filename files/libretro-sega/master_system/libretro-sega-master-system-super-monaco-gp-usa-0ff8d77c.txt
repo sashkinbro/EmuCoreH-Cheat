@@ -1,0 +1,20 @@
+// Finish First Everytime
+00C3-6201
+
+// Low Timer - Seconds
+00C3-6C00
+
+// Low Timer - Minutes
+00C3-6D00
+
+// Thar She Blows, Cap'N!
+00C3-0B08
+
+// Freeze Lap Timer - Both Players
+009-E2F-3BA
+
+// P1 Freeze Lap Timer
+00C3-6B00
+
+// P2 Freeze Lap Timer
+00C3-EB00

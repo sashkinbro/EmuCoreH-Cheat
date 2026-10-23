@@ -1,0 +1,5 @@
+// Always On First Shot
+00D3-6200
+
+// FAKE Always On First Shot
+00D3-9D00

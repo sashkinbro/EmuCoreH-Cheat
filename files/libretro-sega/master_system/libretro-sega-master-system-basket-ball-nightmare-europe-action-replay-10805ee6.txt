@@ -1,0 +1,5 @@
+// P1/CPU Has High Score
+00C0-32FF
+
+// P2/CPU's Team Never Scores
+00C0-3300

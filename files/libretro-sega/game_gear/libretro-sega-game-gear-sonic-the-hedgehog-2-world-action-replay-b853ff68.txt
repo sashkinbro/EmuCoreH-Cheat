@@ -1,0 +1,23 @@
+// Infinite Rings
+00D2-9963
+
+// Infinite Lives
+00D2-9809
+
+// Better Invincibility
+00D3-A915
+
+// Keeps Time At Zero (Seconds)
+00D2-B900
+
+// Keeps Time At Zero (Minutes)
+00D2-BA00
+
+// High Gravity
+00D5-18FF
+
+// Glider From Start
+00D5-0213
+
+// Invisible Sonic
+00D5-2876

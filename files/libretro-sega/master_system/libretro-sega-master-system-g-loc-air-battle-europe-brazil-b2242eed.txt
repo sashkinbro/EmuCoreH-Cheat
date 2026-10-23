@@ -1,0 +1,14 @@
+// Infinite Armour
+00CC-0D07
+
+// Terrain Modifier
+00CB-4200
+
+// Infinite Time
+00CB-2CFF
+
+// Infinite Missiles
+00CC-0EFF
+
+// Target Modifier
+00CC-0F12

@@ -1,0 +1,33 @@
+// Enable Stage Select
+FFFFD0:0100
+
+// Enable Debug Mode
+FFFFFA:0100
+
+// Enable Debug Mode (On An Actual System)
+00362A:0001
+
+// Infinite Rings
+FFFE20:00C8
+
+// Infinite Lives
+FFFE12:0009
+
+// Only Need 1 Blue Sphere For Chaos Emerald
+FFE438:0001
+
+// All Emeralds Collected
+FFFFB0:0007
+
+// Stop Timer
+FFFE24:000F
+
+// Super Fast
+FFF760:1600
+FFF762:0046
+
+// All Powerful! [Invincible, Aqua Breathe, Magnetism]
+FFB02A:006E
+
+// Yellow & Flashes, As If Super Sonic
+FFF65E:04FF

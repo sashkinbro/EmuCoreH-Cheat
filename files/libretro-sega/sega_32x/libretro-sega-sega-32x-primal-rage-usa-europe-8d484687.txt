@@ -1,0 +1,20 @@
+// Extra Option Menu Enabled
+FFC99E:0001
+
+// Infinite Character Select Time
+FFC15E:0099
+
+// Infinite Energy P1
+FFC22C:0000
+
+// No Energy P1
+FFC22C:0030
+
+// Infinite Energy P2
+FFC3F2:0000
+
+// No Energy P2
+FFC3F2:0030
+
+// P2 Or CPU Jumps Only
+FFC4EA:00FF

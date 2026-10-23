@@ -1,0 +1,71 @@
+// Infinite energy (player 1)
+ATHA-AA3N
+
+// Infinite power (player 1)
+ATHA-AA4E
+
+// Infinite energy (player 2 or computer in a 1-player game)
+ATJT-AA60
+
+// Infinite power (player 2 or computer in a 1-player game)
+ATJT-AA7R
+
+// Limit player 2 (or computer in a 1 player game) to power level 6
+AART-ANEA
+AART-ANEG
+
+// Limit player 2 (or computer in a 1-player game) power level 4
+AART-AJEA
+AART-AJEG
+
+// Limit player 2 (or computer in a 1-player game) to power level 2
+AART-AEEA
+AART-AEEG
+
+// Start computer at low energy level
+VA1T-DJTJ
+2E1T-DCJL
+
+// Infinite time
+B3AT-AA9R
+
+// Run time down at 1/2x normal speed
+AFAT-AAHJ
+AFAT-AAHW
+
+// Run time down at 2x normal speed
+SFAT-BJZW
+
+// Run time down at 3x normal speed
+SFAT-BNZW
+
+// Run time down at 4x normal speed
+SFAT-BTZW
+
+// Run time down at 8x normal speed
+SFAT-BAZW
+
+// Infinite continues
+ATET-AA4W
+
+// 9 continues
+BE0T-CACJ
+
+// 1 continue
+AE0T-CACJ
+
+// No continues
+AA0T-CACJ
+
+// Limit Player 2 (Or Computer In A 1-Player Game) To Power Level 6
+AART-ANEA
+AART-ANEG
+
+// Infinite Health P1
+FFF026:00FF
+
+// Untouchable
+R0KT-A6VT
+
+// Invulnerability (Walk Thru Enemies)
+LWKT-AN26

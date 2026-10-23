@@ -1,0 +1,5 @@
+// Always On First Shot P1
+00C3-8700
+
+// Always On First Shot P1 (Alternate)
+00C3-EB00

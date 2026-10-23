@@ -1,0 +1,14 @@
+// Invulnerability
+CC6-CDD-D5D
+
+// Infinite Health
+00CF-5280
+
+// Infinite Health
+006-C4D-A23
+
+// Infinite Potion
+00CF-4A09
+
+// Invincibility
+00C2-4080

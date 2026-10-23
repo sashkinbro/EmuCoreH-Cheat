@@ -1,0 +1,80 @@
+// 3 penalty strokes for hitting in water hazard
+PZYT-BNVE
+
+// 2 penalty strokes for hitting in water hazard
+PZYT-BJVE
+
+// 0 penalty strokes for hitting in water hazard
+AKYT-AA3E
+
+// 1 penalty stroke for hitting in water hazard
+PZYT-BGVE
+
+// 2 penalty strokes for hitting in water hazard„
+PZYT-BLVE
+
+// Round ends after hole 1
+AE9T-AAC2
+
+// Round ends after hole 2
+AJ9T-AAC2
+
+// Round ends after hole 3
+AN9T-AAC2
+
+// Round ends after hole 4
+AT9T-AAC2
+
+// Round ends after hole 5
+AY9T-AAC2
+
+// Round ends after hole 6
+A29T-AAC2
+
+// Round ends after hole 7
+A69T-AAC2
+
+// Round ends after hole 8
+BA9T-AAC2
+
+// Round ends after hole 9
+BE9T-AAC2
+
+// Round ends after hole 10
+BJ9T-AAC2
+
+// Round ends after hole 11
+BN9T-AAC2
+
+// Round ends after hole 12
+BT9T-AAC2
+
+// Round ends after hole 13
+BY9T-AAC2
+
+// Round ends after hole 14
+B29T-AAC2
+
+// Round ends after hole 15
+B69T-AAC2
+
+// Round ends after hole 16
+CA9T-AAC2
+
+// Round ends after hole 17
+CE9T-AAC2
+
+// 14 clubs plus putter in set instead of 13
+B8PA-AADL
+
+// 15 clubs plus putter in set instead of 13
+CCPA-AADL
+
+// 16 clubs plus putter in set instead of 13
+CGPA-AADL
+
+// Always on same Stroke (Disable for CPU)
+AKZT-AA4E
+
+// No penalty stroke for hitting ball in water hazard or out of bounds
+AKYT-AA3E

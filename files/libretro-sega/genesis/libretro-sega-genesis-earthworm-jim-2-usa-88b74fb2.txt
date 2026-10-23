@@ -1,0 +1,208 @@
+// Start with no ammo
+GBZW-LAFN
+
+// Start with 2000 bullets
+GKZW-LAFN
+
+// Start with 3000 bullets
+GPZW-LAFN
+
+// Start with 4000 bullets
+GVZW-LAFN
+
+// Start with 5000 bullets
+GZZW-LAFN
+
+// Start with 6000 bullets
+G3ZW-LAFN
+
+// Start with 7000 bullets
+G7ZW-LAFN
+
+// Start with 8000 bullets
+HBZW-LAFN
+
+// Start with 9000 bullets
+HFZW-LAFN
+
+// Start with mega ammo
+K7ZW-L8FN
+
+// Start with 1 life and no continues
+GBZW-LAH4
+
+// Start with 2 lives
+GFZW-LAH4
+
+// Start with 5 lives
+GVZW-LAH4
+
+// Start with 10 lives
+G7ZW-LAH4
+
+// Start with 25 lives
+KBZW-LAH4
+
+// Start with 50 lives
+MFZW-LAH4
+
+// Infinite lives
+RH2W-J6T8
+
+// Start with 200% health
+GK1C-LAH6
+
+// Start with 300% health
+GP1C-LAH6
+
+// Start with 400% health
+GV1C-LAH6
+
+// Start with 500% health
+GZ1C-LAH6
+
+// Start with 600% health
+G31C-LAH6
+
+// Start with 700% health
+G71C-LAH6
+
+// Start with 800% health
+HB1C-LAH6
+
+// Start with 900% health
+HF1C-LAH6
+
+// Start with mega health
+971C-LAH6
+
+// Don't flash at all after getting hit
+AB1W-LAET
+
+// Don't flash as long after getting hit
+A71W-LAET
+
+// Flash longer after getting hit
+971W-L8ET
+
+// Infinite Energy
+RZ1C-L61G
+
+// Infinite Energy
+FFFAFE:0031
+
+// Infinite Ammo First Weapon
+FFFAE0:0032
+
+// Infinite Ammo
+RF0C-L60A
+
+// Invincibility
+ABPW-LN2N
+A3DW-LN88
+
+// High Jump
+ZJPC-LAHT
+
+// Super High Jump
+3APC-LAHT
+
+// Infinite Health
+FFFAFE:0037
+
+// Jim Runs Funny
+FFA230:00E0
+
+// Infinite Worms (In Game Show Mini-Game)
+FFFC14:0009
+
+// Infinite Puppies
+AXFW-LA5Y
+
+// Infinite Puppies
+FFFCC6:0000
+
+// Invincibility
+RZZC-L6TN
+R0ZC-L6XJ
+R0YW-L6XY
+R0XW-L6Z4
+R16C-L61C
+R07C-L6YN
+R06W-L604
+
+// Freeze Time in Level 2
+AVGC-NA3R
+
+// Walk Thru Walls
+AA8C-LA5T
+
+// Remove Enemies
+JTWW-LA9C
+
+// Regular Enemies Don't Attack
+AAYC-LA3W
+
+// Regular Enemy Shots Miss
+AJXC-LN68
+
+// Don't Blink After Taking Damage
+ABPW-LA2A
+
+// Jim Is Invisible
+ABPW-LA66
+
+// Game Runs Faster
+AM0C-JA7N
+
+// Hyper Animations
+A3HW-LA8T
+
+// Walk On Air
+AA9W-LA7R
+
+// Enemies Can't Move Or Attack
+AAWW-LN72
+
+// Enable Infinite Health Cheat
+FFA1C4:00FF
+
+// Disable Infinite Health Cheat
+FFA1C4:0000
+
+// Jump In Mid-Air (Multi Jumps)
+REPW-L6TL
+
+// Infinite Jump
+AAPC-LAG4
+
+// Invincibility
+FFFBD6:0010
+
+// Invincibility (blinking)
+FFFBD6:0010
+
+// Infinite Lives
+FFA1EA:0039
+
+// Infinite Ammo
+FFFADE:3939
+FFFAE0:3939
+
+// Pause the game and press any button to enter the debug menu
+AD5C-JA98
+PX5W-JGAA
+
+// Pause the game and press Left to enter the debug menu
+FF943A:4020
+FF943C:2040
+FF943E:1040
+FF9440:0010
+
+// Pause the game and press any button to enter the debug menu
+AD5W-JA2N
+M55W-JGAR
+
+// Invincibility
+RFDW-L608
+ABPW-LA2N

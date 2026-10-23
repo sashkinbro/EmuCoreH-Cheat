@@ -1,0 +1,1226 @@
+// Infinite time
+AM9T-AA5T
+
+// Player 1 is invincible against regular hits (untouchable by them)
+BT8T-CA5T
+
+// All fireballs are harmless
+AA9T-CA6J
+
+// Start with 3/4 energy
+TWPA-AAH0
+
+// Start with 1/2 energy
+MCPA-AAH0
+
+// Start with 1/4 energy
+FWPA-AAH0
+
+// Start with 90 seconds instead of 99
+FDTA-BBHT
+
+// Start with 70 seconds
+FDTA-BA9T
+
+// Start with 50 seconds
+FDTA-BA1T
+
+// Start with 30 seconds
+FDTA-BAST
+
+// Start with 10 seconds
+FDTA-BAHT
+
+// First bonus round is 99 seconds instead of 40
+FDTA-BXHW
+
+// First bonus round is 80 seconds
+FDTA-ABHW
+
+// First bonus round is 60 seconds
+FDTA-AA9W
+
+// First bonus round is 20 seconds
+FDTA-AASW
+
+// Second bonus round is 99 seconds
+FDTA-BXHY
+
+// Second bonus round is 80 seconds
+FDTA-ABHY
+
+// Second bonus round is 60 seconds
+FDTA-AA9Y
+
+// Second bonus round is 20 seconds
+FDTA-AASY
+
+// Most attacks do no damage (Throws still work)
+RFBT-C6VY
+
+// Throws do 3x normal damage
+VL6A-EZEG
+
+// Throws do 2x normal damage
+MW6A-F2YG
+
+// Throws do 3/4x normal damage
+ER6A-EGNG
+
+// Throws do 1/2x normal damage
+C86A-FREG
+
+// Throws do no damage
+AC6A-EAEG
+
+// First hit wins battle
+97BT-DE3Y
+
+// Allows special moves in mid-air
+AC3T-CAGE
+
+// Special moves are sometimes disabled
+AG1T-DA8C
+
+// Ryu jumps forward farther
+ADBA-F332
+
+// Ryu jumps forward not as far
+ADBA-F932
+
+// Ryu jumps backward farther
+YDBA-EJCA
+
+// Ryu jumps backward not as far
+EDBA-ECCA
+
+// Ryu jumps up much lower
+ADBA-EJCN
+ADBA-EJCY
+
+// Ryu jumps up lower
+ADBA-ELCN
+ADBA-ELCY
+
+// Ryu jumps up higher
+ADBA-ETCN
+ADBA-ETCY
+
+// Ryu jumps up much higher
+ADBA-EYCN
+ADBA-EYCY
+
+// Ryu jumps forward much lower
+ADBA-EJB6
+
+// Ryu jumps forward lower
+ADBA-ELB6
+
+// Ryu jumps forward higher
+ADBA-ETB6
+
+// Ryu jumps forward much higher
+ADBA-EYB6
+
+// Ryu jumps backward much lower
+ADBA-EJCE
+
+// Ryu jumps backward lower
+ADBA-ELCE
+
+// Ryu jumps backward higher
+ADBA-ETCE
+
+// Ryu jumps backward much higher
+ADBA-EYCE
+
+// E. Honda jumps forward farther
+ADBA-F342
+
+// E. Honda jumps forward not as far
+ADBA-F942
+
+// E. Honda jumps backward farther
+YDBA-EJDA
+
+// E. Honda jumps backward not as far
+EDBA-ECDA
+
+// E. Honda jumps up much lower
+ADBA-EJDN
+ADBA-EJDY
+
+// E. Honda jumps up lower
+ADBA-ELDN
+ADBA-ELDY
+
+// E. Honda jumps up higher
+ADBA-ETDN
+ADBA-ETDY
+
+// E. Honda jumps up much higher
+ADBA-EYDN
+ADBA-EYDY
+
+// E. Honda jumps forward much lower
+ADBA-EJC6
+
+// E. Honda jumps forward lower
+ADBA-ELC6
+
+// E. Honda jumps forward higher
+ADBA-ETC6
+
+// E. Honda jumps forward much higher
+ADBA-EYC6
+
+// E. Honda jumps backward much lower
+ADBA-EJDE
+
+// E. Honda jumps backward lower
+ADBA-ELDE
+
+// E. Honda jumps backward higher
+ADBA-ETDE
+
+// E. Honda jumps backward much higher
+ADBA-EYDE
+
+// E. Honda's light sumo head butts are faster
+CCFT-CWC4
+
+// E. Honda's light sumo head butts are slower
+CCFT-CGC4
+
+// E. Honda's medium sumo head butts are faster
+CCFT-CWC6
+
+// E. Honda's medium sumo head butts are slower
+CCFT-CGC6
+
+// E. Honda's hard sumo head butts are faster
+CCFT-CWC8
+
+// E. Honda's hard sumo head butts are slower
+CCFT-CGC8
+
+// Blanka jumps forward farther
+ADBA-F352
+
+// Blanka jumps forward not as far
+ADBA-F952
+
+// Blanka jumps backward farther
+YDBA-EJEA
+
+// Blanka jumps backward not as far
+EDBA-ECEA
+
+// Blanka jumps up much lower
+ADBA-EJEN
+ADBA-EJEY
+
+// Blanka jumps up lower
+ADBA-ENEN
+ADBA-ENEY
+
+// Blanka jumps up higher
+ADBA-E0EN
+ADBA-E0EY
+
+// Blanka jumps up much higher
+ADBA-E4EN
+ADBA-E4EY
+
+// Blanka jumps forward much lower
+ADBA-EJD6
+
+// Blanka jumps forward lower
+ADBA-END6
+
+// Blanka jumps forward higher
+ADBA-E0D6
+
+// Blanka jumps forward much higher
+ADBA-E4D6
+
+// Blanka jumps backward much lower
+ADBA-EJEE
+
+// Blanka jumps backward lower
+ADBA-ENEE
+
+// Blanka jumps backward higher
+ADBA-E0EE
+
+// Blanka jumps backward much higher
+ADBA-E4EE
+
+// Blanka's light rolling attack is faster
+ACLA-CTAL
+
+// Blanka's light rolling attack is slower
+ACLA-CGAL
+
+// Blanka's medium rolling attack is faster
+ACLA-CTAN
+
+// Blanka's medium rolling attack is slower
+ACLA-CGAN
+
+// Blanka's hard rolling attack is faster
+ACLA-CTAR
+
+// Blanka's hard rolling attack is slower
+ACLA-CGAR
+
+// Guile jumps forward farther
+ADBA-F362
+
+// Guile jumps forward not as far
+ADBA-F962
+
+// Guile jumps backward farther
+YDBA-EJFA
+
+// Guile jumps backward not as far
+EDBA-ECFA
+
+// Guile jumps up much lower
+ADBA-EJFN
+ADBA-EJFY
+
+// Guile jumps up lower
+ADBA-ELFN
+ADBA-ELFY
+
+// Guile jumps up higher
+ADBA-ETFN
+ADBA-ETFY
+
+// Guile jumps up much higher
+ADBA-EYFN
+ADBA-EYFY
+
+// Guile jumps forward much lower
+ADBA-EJE6
+
+// Guile jumps forward lower
+ADBA-ELE6
+
+// Guile jumps forward higher
+ADBA-ETE6
+
+// Guile jumps forward much higher
+ADBA-EYE6
+
+// Guile jumps backward much lower
+ADBA-EJFE
+
+// Guile jumps backward lower
+ADBA-ELFE
+
+// Guile jumps backward higher
+ADBA-ETFE
+
+// Guile jumps backward much higher
+ADBA-EYFE
+
+// Ken jumps forward farther
+ADBA-F372
+
+// Ken jumps forward not as far
+ADBA-F972
+
+// Ken jumps backward farther
+YDBA-EJGA
+
+// Ken jumps backward not as far
+EDBA-ECGA
+
+// Ken jumps up much lower
+ADBA-EJGN
+ADBA-EJGY
+
+// Ken jumps up lower
+ADBA-ELGN
+ADBA-ELGY
+
+// Ken jumps up higher
+ADBA-ETGN
+ADBA-ETGY
+
+// Ken jumps up much higher
+ADBA-EYGN
+ADBA-EYGY
+
+// Ken jumps forward much lower
+ADBA-EJF6
+
+// Ken jumps forward lower
+ADBA-ELF6
+
+// Ken jumps forward higher
+ADBA-ETF6
+
+// Ken jumps forward much higher
+ADBA-EYF6
+
+// Ken jumps backward much lower
+ADBA-EJGE
+
+// Ken jumps backward lower
+ADBA-ELGE
+
+// Ken jumps backward higher
+ADBA-ETGE
+
+// Ken jumps backward much higher
+ADBA-EYGE
+
+// Chun Li jumps forward farther
+ADBA-F382
+
+// Chun Li jumps forward not as far
+ADBA-F982
+
+// Chun Li jumps backward farther
+YDBA-EJHA
+
+// Chun Li jumps backward not as far
+EDBA-ECHA
+
+// Chun Li jumps up much lower
+ADBA-EJHN
+ADBA-EJHY
+
+// Chun Li jumps up lower
+ADBA-ENHN
+ADBA-ENHY
+
+// Chun Li jumps up higher
+ADBA-EYHN
+ADBA-EYHY
+
+// Chun Li jumps up much higher
+ADBA-E2HN
+ADBA-E2HY
+
+// Chun Li jumps forward much lower
+ADBA-EJG6
+
+// Chun Li jumps forward lower
+ADBA-ENG6
+
+// Chun Li jumps forward higher
+ADBA-EYG6
+
+// Chun Li jumps forward much higher
+ADBA-E2G6
+
+// Chun Li jumps backward much lower
+ADBA-EJHE
+
+// Chun Li jumps backward lower
+ADBA-ENHE
+
+// Chun Li jumps backward higher
+ADBA-EYHE
+
+// Chun Li jumps backward much higher
+ADBA-E2HE
+
+// Chun Li's whirlwind kick goes faster
+ACWA-CJAT
+
+// Chun Li's whirlwind kick goes slower
+ACWA-CCAT
+
+// Zangief jumps forward farther
+ADBA-F392
+
+// Zangief jumps forward not as far
+ADBA-F992
+
+// Zangief jumps backward farther
+YDBT-EJAA
+
+// Zangief jumps backward not as far
+EDBT-ECAA
+
+// Zangief jumps up much lower
+ADBT-EJAN
+ADBT-EJAY
+
+// Zangief jumps up lower
+ADBT-ELAN
+ADBT-ELAY
+
+// Zangief jumps up higher
+ADBT-ETAN
+ADBT-ETAY
+
+// Zangief jumps up much higher
+ADBT-EYAN
+ADBT-EYAY
+
+// Zangief jumps forward much lower
+ADBA-EJH6
+
+// Zangief jumps forward lower
+ADBA-ELH6
+
+// Zangief jumps forward higher
+ADBA-ETH6
+
+// Zangief jumps forward much higher
+ADBA-EYH6
+
+// Zangief jumps backward much lower
+ADBT-EJAE
+
+// Zangief jumps backward lower
+ADBT-ELAE
+
+// Zangief jumps backward higher
+ADBT-ETAE
+
+// Zangief jumps backward much higher
+ADBT-EYAE
+
+// Dhalsim jumps forward farther
+ADBT-F322
+
+// Dhalsim jumps forward not as far
+ADBT-F922
+
+// Dhalsim jumps backward farther
+YDBT-EJBA
+
+// Dhalsim jumps backward not as far
+EDBT-ECBA
+
+// Dhalsim jumps up much lower
+ADBT-EJBN
+ADBT-EJBY
+
+// Dhalsim jumps up higher
+ADBT-ETBN
+ADBT-ETBY
+
+// Dhalsim jumps up much higher
+ADBT-EYBN
+ADBT-EYBY
+
+// Dhalsim jumps forward much lower
+ADBT-EJA6
+
+// Dhalsim jumps forward higher
+ADBT-ETA6
+
+// Dhalsim jumps forward much higher
+ADBT-EYA6
+
+// Dhalsim jumps backward much lower
+ADBT-EJBE
+
+// Dhalsim jumps backward higher
+ADBT-ETBE
+
+// Dhalsim jumps backward much higher
+ADBT-EYBE
+
+// M. Bison jumps forward farther
+ADBT-F332
+
+// M. Bison jumps forward not as far
+ADBT-F932
+
+// M. Bison jumps backward farther
+YDBT-EJCA
+
+// M. Bison jumps backward not as far
+EDBT-ECCA
+
+// M. Bison jumps up much lower
+ADBT-EJCN
+ADCT-EJCY
+
+// M. Bison jumps up lower
+ADBT-ENCN
+ADCT-ENCY
+
+// M. Bison jumps up higher
+ADBT-EYCN
+ADCT-EYCY
+
+// M. Bison jumps up much higher
+ADBT-E2CN
+ADCT-E2CY
+
+// M. Bison jumps forward much lower
+ADBT-EJB6
+
+// M. Bison jumps forward lower
+ADBT-ENB6
+
+// M. Bison jumps forward higher
+ADBT-EYB6
+
+// M. Bison jumps forward much higher
+ADBT-E2B6
+
+// M. Bison jumps backward much lower
+ADBT-EJCE
+
+// M. Bison jumps backward lower
+ADBT-ENCE
+
+// M. Bison jumps backward higher
+ADBT-EYCE
+
+// M. Bison jumps backward much higher
+ADBT-E2CE
+
+// M. Bison's light psycho crusher is faster
+AARA-ETHC
+
+// M. Bison's light psycho crusher is slower
+AARA-EEHC
+
+// M. Bison's medium psycho crusher is faster
+AARA-ETHE
+
+// M. Bison's medium psycho crusher is slower
+AARA-EEHE
+
+// M. Bison's hard psycho crusher is faster
+AARA-ETHG
+
+// M. Bison's hard psycho crusher is slower
+AARA-EEHG
+
+// M. Bison's light scissor kick is faster
+AASA-ETBY
+
+// M. Bison's light scissor kick is slower
+AASA-EGBY
+
+// M. Bison's medium scissor kick is faster
+AASA-ETB0
+
+// M. Bison's medium scissor kick is slower
+AASA-EGB0
+
+// M. Bison's hard scissor kick is faster
+AASA-ETB2
+
+// M. Bison's hard scissor kick is slower
+AASA-EGB2
+
+// Sagat jumps forward farther
+ADBT-F342
+
+// Sagat jumps forward not as far
+ADBT-F942
+
+// Sagat jumps backward farther
+YDBT-EJDA
+
+// Sagat jumps backward not as far
+EDBT-ECDA
+
+// Sagat jumps up much lower
+ADBT-EJDN
+ADBT-EJDY
+
+// Sagat jumps up lower
+ADBT-ELDN
+ADBT-ELDY
+
+// Sagat jumps up higher
+ADBT-ETDN
+ADBT-ETDY
+
+// Sagat jumps up much higher
+ADBT-EYDN
+ADBT-EYDY
+
+// Sagat jumps forward much lower
+ADBT-EJC6
+
+// Sagat jumps forward lower
+ADBT-ELC6
+
+// Sagat jumps forward higher
+ADBT-ETC6
+
+// Sagat jumps forward much higher
+ADBT-EYC6
+
+// Sagat jumps backward much lower
+ADBT-EJDE
+
+// Sagat jumps backward lower
+ADBT-ELDE
+
+// Sagat jumps backward higher
+ADBT-ETDE
+
+// Sagat jumps backward much higher
+ADBT-EYDE
+
+// Sagat's light tiger shot is faster
+ADBA-FZ3L
+
+// Sagat's light tiger shot is slower
+ADBA-F93L
+
+// Sagat's medium tiger shot is faster
+ADBA-FZ3N
+
+// Sagat's medium tiger shot is slower
+ADBA-F93N
+
+// Sagat's hard tiger shot is faster
+ADBA-FZ3R
+
+// Sagat's hard tiger shot is slower
+ADBA-F93R
+
+// Balrog jumps forward farther
+ADBT-F352
+
+// Balrog jumps forward not as far
+ADBT-F952
+
+// Balrog jumps backward farther
+YDBT-EJEA
+
+// Balrog jumps backward not as far
+EDBT-ECEA
+
+// Balrog jumps up much lower
+ADBT-EJEN
+ADBT-EJEY
+
+// Balrog jumps up lower
+ADBT-ELEN
+ADBT-ELEY
+
+// Balrog jumps up higher
+ADBT-ETEN
+ADBT-ETEY
+
+// Balrog jumps up much higher
+ADBT-EYEN
+ADBT-EYEY
+
+// Balrog jumps forward much lower
+ADBT-EJD6
+
+// Balrog jumps forward lower
+ADBT-ELD6
+
+// Balrog jumps forward higher
+ADBT-ETD6
+
+// Balrog jumps forward much higher
+ADBT-EYD6
+
+// Balrog jumps backward much lower
+ADBT-EJEE
+
+// Balrog jumps backward lower
+ADBT-ELEE
+
+// Balrog jumps backward higher
+ADBT-ETEE
+
+// Balrog jumps backward much higher
+ADBT-EYEE
+
+// Balrog's dash punch is faster
+AAXA-EWAW
+
+// Balrog's dash punch is slower
+AAXA-EEAW
+
+// Balrog's quick turn punch is faster
+AAXT-E0FC
+
+// Balrog's quick turn punch is slower
+AAXT-EGFC
+
+// All of Balrog's turn punches are the fastest
+HTWT-FALJ
+AAWT-EYCL
+
+// All of Balrog's turn punches are the slowest
+HTWT-FALJ
+AEWT-EACL
+
+// Vega jumps forward farther
+ADBT-F362
+
+// Vega jumps forward not as far
+ADBT-F962
+
+// Vega jumps backward farther
+YDBT-EJFA
+
+// Vega jumps backward not as far
+EDBT-ECFA
+
+// Vega jumps up much lower
+ADBT-ENFN
+ADCT-ENFY
+
+// Vega jumps up lower
+ADBT-ETFN
+ADCT-ETFY
+
+// Vega jumps up higher
+ADBT-E2FN
+ADCT-E2FY
+
+// Vega jumps up much higher
+ADBT-E6FN
+ADCT-E6FY
+
+// Vega jumps forward much lower
+ADBT-ENE6
+
+// Vega jumps forward lower
+ADBT-ETE6
+
+// Vega jumps forward higher
+ADBT-E2E6
+
+// Vega jumps forward much higher
+ADBT-E6E6
+
+// Vega jumps backward much lower
+ADBT-ENFE
+
+// Vega jumps backward lower
+ADBT-ETFE
+
+// Vega jumps backward higher
+ADBT-E2FE
+
+// Vega jumps backward much higher
+ADBT-E6FE
+
+// P1 Can Perform Moves in Mid-Air
+FF80C0:0000
+
+// P2 Can Perform Moves in Mid-Air
+FF8340:0000
+
+// Hyper Mode P1
+FF801A:0000
+
+// Hyper Mode P2
+FF829A:0000
+
+// P1 Costume Modifier
+FF81DC:0000
+
+// P2 Costume Modifier
+FF845C:0000
+
+// All P1 Projectiles Are Normal
+FF82E0:0014
+FF82E2:0014
+
+// All P1 Hits/Projectiles Burn [Red]
+FF82E0:0018
+FF82E2:0018
+
+// All P1 Hits/Projectiles Shock
+FF82E0:001A
+FF82E2:001A
+
+// All P1 Hits/Projectiles Burn [Blue]
+FF82E0:0022
+FF82E2:0022
+
+// All P2 Projectiles Are Normal
+FF8060:0014
+FF8062:0014
+
+// All P2 Hits/Projectiles Burn [Red]
+FF8060:0018
+FF8062:0018
+
+// All P2 Hits/Projectiles Shock
+FF8060:001A
+FF8062:001A
+
+// All P2 Hits/Projectiles Burn [Blue]
+FF8060:0022
+FF8062:0022
+
+// All P2 Hits/Projectiles Are 1-Hit Kills
+FF8060:0028
+FF8062:0028
+
+// P1 Can't Be Hit [Can still be grabbed]
+FF80EC:0010
+
+// P2 Can't Be Hit [Can still be grabbed]
+FF836C:0010
+
+// P1 Throws Disabled
+FF82CA:0000
+FF82CA:0000
+FF82CC:0000
+
+// P2 Throws Disabled
+FF804A:0000
+FF804A:0000
+FF804C:0000
+
+// Stage Music Modifier [Round 1]
+FFA3E0:004F
+
+// Stage Music Modifier [Round 2]
+FFA3DE:004F
+
+// Infinite Energy
+9T0A-DGS4
+0A0A-CAH6
+960A-CAH8
+JJ0T-CBAA
+
+// Dhalsim's Yoga Fire is Lower
+ADBA-F322
+
+// Ryu Can't Jump Forward
+ADBA-F432
+
+// E. Honda Can't Jump Forward
+ADBA-F442
+
+// Blanka Can't Jump Forward
+ADBA-F452
+
+// Guile Can't Jump Forward
+ADBA-F462
+
+// Ken Can't Jump Forward
+ADBA-F472
+
+// Chun-Li Can't Jump Forward
+ADBA-F482
+
+// Zangief Can't Jump Forward
+ADBA-F492
+
+// Dhalsim Can't Jump Forward
+ADBT-F422
+
+// M. Bison Can't Jump Forward
+ADBT-F432
+
+// Sagat Can't Jump Forward
+ADBT-F442
+
+// Balrog Can't Jump Forward
+ADBT-F452
+
+// Vega Can't Jump Forward
+ADBT-F462
+
+// Players Don't Reel Back From Hits
+ADBT-FVH2
+
+// Ryu Teleports To The Other Side When Jumping Forward
+ADBA-FVK2
+
+// E. Honda Teleports To The Other Side When Jumping Forward
+ADBA-FVL2
+
+// Blanka Teleports To The Other Side When Jumping Forward
+ADBA-FVM2
+
+// Guile Teleports To The Other Side When Jumping Forward
+ADBA-FVN2
+
+// Ken Teleports To The Other Side When Jumping Forward
+ADBA-FVP2
+
+// Chun-Li Teleports To The Other Side When Jumping Forward
+ADBA-FVR2
+
+// Zangief Teleports To The Other Side When Jumping Forward
+ADBA-FVS2
+
+// Dhalsim Teleports To The Other Side When Jumping Forward
+ADBT-FVJ2
+
+// M. Bison Teleports To The Other Side When Jumping Forward
+ADBT-FVK2
+
+// Sagat Teleports To The Other Side When Jumping Forward
+ADBT-FVL2
+
+// Balrog Teleports To The Other Side When Jumping Forward
+ADBT-FVM2
+
+// Vega Teleports To The Other Side When Jumping Forward
+ADBT-FVN2
+
+// Character Selection Only Shows Ryu's Picture
+1RBA-FWCJ
+
+// Character Selection Shows Mostly Ryu's Picture With Bison'S, Vega'S, Balrog'S, &amp; Blanka's Picture Out Of Place.
+1CBA-FCCN
+
+// Character selection screen is missing (can still select characters)
+1CBA-FCCW
+
+// Hit Anywhere
+PJ8T-CY0C
+JJ8T-CAGE
+0T8T-C08G
+
+// Light Fireballs Go Faster
+LDBA-F13E
+
+// Light Fireballs Go Slower
+4XBA-F73E
+
+// Medium Fireballs Go Faster
+LDBA-F13G
+
+// Medium Fireballs Go Slower
+4XBA-F73G
+
+// Hard Fireballs Go Faster
+LDBA-F13J
+
+// Hard Fireballs Go Slower
+4XBA-F73J
+
+// Hyper On Main Menu Modifier
+FFFE46:0020
+
+// Infinite Time
+FF972A:0099
+
+// Player 1 Infinite Health
+FF8042:0099
+
+// Player 1 Action Modifier
+FF8040:00BE
+
+// Player 1 Win Modifier
+FF81DA:0000
+
+// Player 2 Win Modifier
+FF845A:0000
+
+// Player 2 No Health
+FF82C2:0000
+
+// Player 2 Action Modifier
+FF82C0:0000
+
+// Fake Player 2 Health Modifier
+FF8368:0000
+
+// Character Modifier P1
+FF81DA:0000
+
+// Character Modifier P2
+FF845A:0000
+
+// P1 Attack Level Modifier (0-7) (VS Mode)
+FFFE48:0000
+
+// P2 Attack Level Modifier (0-7) (VS Mode)
+FFFE48:0000
+
+// Stage Modifier (All Modes)
+FF96AA:0000
+
+// E. Honda's 1000 Hand Slap Charged
+FF8022:0000
+
+// All P1 Hits/Projectiles Burn
+FF82E0:0018
+FF82E2:0018
+
+// All P2 Hits/Projectiles Burn
+FF8060:0018
+FF8062:0018
+
+// Stage Music Modifier (Round 1)
+FFA3E0:004F
+
+// Stage Music Modifier (Round 2)
+FFA3DE:0049
+
+// All P1 Hits/Projectiles Burn (Blue)
+FF82E0:0022
+FF82E2:0022
+
+// All P2 Hits/Projectiles Burn (Blue)
+FF8060:0022
+FF8062:0022
+
+// Skip Intro Screens
+RGTA-A6XJ
+
+// Skip VS Screen
+SDTA-B2XT
+
+// Enable Turbo Champion Mode and Choose Same Character Twice in Group Mode
+FFFE4E:FFFF
+
+// Enable Turbo Champion Mode
+RHFT-A6YL
+RHET-A60L
+RHGA-A6ZR
+
+// Choose Same Character Twice in Group Mode
+RGEA-E60A
+RH5A-A6VT
+
+// Only Special Moves and Throws allowed for Human Players in Game Start Mode
+RHHT-C6WG
+
+// Vega's Rolling Crystal Flash is slightly faster/farther
+JA0A-EGGC
+
+// Disable Throws - Both Players
+RYHT-A60W
+
+// No Charging required for most Special Moves
+CMJT-DT08
+
+// Select Options on Title Screen for Debug Menu
+55FA-BBS2
+
+// Turbo M. Bison has Champion Edition M. Bison's faster/farther Scissor Kick speed
+RERT-E61T
+
+// Turbo Vega's Throws do the same damage as most other Characters' Throws
+BYZA-FJ4N
+BYZA-FJ8W
+VY4T-EAAW
+
+// Dhalsim's Throws do the same damage as most other Characters' Throws
+BYLA-EAGJ
+
+// Ryu's Dragon Punch and Sagat's Tiger Uppercut goes as far as Ken's Dragon Punch
+A4BT-CA68
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Champion Edition Vega's Throws do the same damage as most other Characters' Throws
+BYZA-FJ4E
+BYZA-FJ8L
+VY4T-EAAJ
+
+// Vega never loses his Claw
+AMET-CA3J
+
+// Vega's Claw absorbs 4 more hits before there is a chance of it becoming dislodged
+BXET-CABC
+
+// Balrog's Turnaround Punches are always Level 2 Turnaround Punches
+HTWT-FALJ
+8AWT-EACL
+
+// Bug Fix for Turbo M. Bison's Light Psycho Crusher (makes Light Psycho Crusher chip twice on block)
+T6XT-L2KE
+T6XT-L4KJ
+VEXT-L2KN
+8EXT-LGBR
+T6XT-L6KT
+4AXT-M93W
+
+// Turbo M. Bison's Scissor Kick charges as fast as Champion Edition M. Bison's Scissor Kick
+MYPT-EAHC
+
+// Zangief's Deadly Driver and Leg Throws do the same damage as most other Characters' Throws
+BYFA-EAEC
+BYFA-EAHA
+
+// Turbo M. Bison's Scissor Kick charges as fast as Super Street Fighter II M. Bison's Scissor Kick
+K2PT-EAHC
+
+// Champion Edition M. Bison's Scissor Kick charges as fast as Super Street Fighter II M. Bison's Scissor Kick
+K2PT-EAHL
+
+// Turbo Guile's Flash Kick recovers as fast as Champion Edition Guile's Flash Kick
+XGRA-CAH2
+
+// Turbo M. Bison's Scissor Kick starts as fast and recovers as fast as Champion Edition M. Bison's Scissor Kick
+RERT-E602
+
+// Regional Lockout Bypass (European and Japanese Systems)
+MLST-AA8C
+
+// Turbo M. Bison has Champion Edition M. Bison's (better) Psycho Crusher
+RERT-E6TT
+
+// Zangief Easy Spinning Piledriver
+CJGT-FATR
+
+// Vega goes to the wall instead of the cage before diving on his stage
+AA0T-EA3G
+
+// Ryu and Ken's Hadoukens (Fireballs) are always Red Hadoukens (instead of almost always Blue Hadoukens)
+AK8A-CA44
+
+// Vega goes to an imaginary cage before diving when not on his stage
+AJ0T-EA3G
+
+// Fix incorrect damage value (too high) assigned to Dhalsim's Yoga Noogie Grab
+A6LA-EABE
+
+// Fix incorrect charge time (too high) assigned to Turbo Guile's Sonic Boom
+RGPT-C61C
+
+// Turbo Vega's Rolling Crystal Flash charges as fast as Super Street Fighter II Vega's Rolling Crystal Flash
+J2ZT-EABL
+
+// Turbo Vega's Rolling Crystal Flash charges as fast as Champion Edition Vega's Rolling Crystal Flash
+HTZT-EABL
+
+// CPU Plays Instead of You
+F40T-CEWE
+AM8T-AA62
+
+// Turbo Vega's Backflip is performed like Champion Edition Vega's Backflip
+PTZT-EA4J
+
+// Champion Edition Vega's Backflip is performed like Turbo Vega's Backflip
+REZT-E6WJ
+
+// Game Speed Modifier
+FF97A4:0000
+
+// P1 Infinite Health
+9WGA-BCF6
+0CGA-AAF8
+JRGA-ABGA
+
+// P2 Infinite Health
+9WGA-BCGL
+0CGA-AAGN
+2RGA-AFGR
+
+// Easier Special Moves
+CJGT-FATR
+FMJT-CA4T
+AMLA-CA4N
+CMJT-DA08
+
+// Easier Button Mashing Moves (Hundred Hand Slap, Lightning Kick, and Electric Thunder)
+FDJT-DJZE

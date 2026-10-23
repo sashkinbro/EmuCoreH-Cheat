@@ -1,0 +1,9 @@
+// Invincibility
+R1EA-C6ZY
+R02A-A60L
+
+// Invincibility
+FFB0F4:0010
+
+// Region Check Bypass
+AABT-AA72

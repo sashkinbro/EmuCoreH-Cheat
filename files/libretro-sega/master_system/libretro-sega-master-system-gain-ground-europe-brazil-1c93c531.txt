@@ -1,0 +1,44 @@
+// Invulnerability
+00CD-E358
+
+// Invulnerability
+000-18D-4CA
+
+// Level Select
+00C4-0000
+
+// Infinite Time - One's Digit (P1 Only)
+00CF-E409
+
+// Infinite Time - Ten's Digit (P1 Only)
+00CF-E509
+
+// Infinite Time - Hundred's Digit (P1 Only)
+00CF-E609
+
+// Infinite &quot;STY&quot;
+00CD-E709
+
+// High &quot;SCR&quot; (1080ish)
+00CD-D980
+
+// Number of Enemies Modifier
+00C4-D600
+
+// Infinite Lives - Both Players
+00A-F7E-3BE
+
+// Infinite Time
+B62-60E-3BE
+
+// Start with ?? Lives, instead of 3 - Both Players
+048-2DE-E66
+
+// P1 Infinite Lives
+00CD-E709
+
+// P2 Infinite Lives
+00CE-2709
+
+// Freeze Timer
+00CF-E33C

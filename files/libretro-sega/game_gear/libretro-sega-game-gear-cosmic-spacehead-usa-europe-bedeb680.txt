@@ -1,0 +1,14 @@
+// Infinite Lives
+00C2-3E09
+
+// Access Level Select
+00C2-7D72
+
+// Infinite Lives
+007-CC6-3BE
+
+// Access Level Select
+725-A1E-A23
+
+// Default To Highlighting Level Select On Main Menu
+725-3DE-A23

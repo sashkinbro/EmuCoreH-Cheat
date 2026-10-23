@@ -1,0 +1,5 @@
+// Infinite Time
+00CF-0A50
+
+// Infinite Health
+00C1-B4FF

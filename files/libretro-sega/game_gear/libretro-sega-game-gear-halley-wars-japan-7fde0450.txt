@@ -1,0 +1,51 @@
+// Super Rapid Fire
+00C0-480D
+
+// Fast Ship
+00C0-4904
+
+// Full Weapons
+00C0-4A05
+
+// Invincibility
+00C2-1A81
+
+// Infinite Lives
+00C0-4C09
+
+// 0% Damage
+00C0-6D00
+
+// Invulnerability
+00C0-6501
+
+// Invulnerability
+C9E-A0F-E69
+
+// Infinite Planes
+00F-A6E-19E
+
+// 0% Damage
+009-4AC-2AB
+
+// Shoot Planes As Bullets
+001-0BD-C49
+
+// Auto Shoot
+000-D5D-C49
+
+// Always Access Cheat Menu
+119-31B-A2A
+
+// Access Collision Setting in Cheat Menu
+08A-D2B-F76
+07A-CAB-F72
+
+// Go to Extra Options Menu
+00C0-6411
+
+// Enable Invincibility Cheat
+00C0-6501
+
+// Disable Invincibility Cheat
+00C0-6500

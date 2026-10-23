@@ -1,0 +1,17 @@
+// Infinite Lives
+00D2-F209
+
+// Infinite Bullets
+00D2-AA99
+
+// Infinite 3 Way (Pick Up 3 Way To Use
+00D2-AC10
+
+// Infinite Rapid Fire(Pick Up Rapid Fire To Use)
+00D2-AE10
+
+// Infinite Grenades(Pick Up Grenades To Use)
+00D2-B410
+
+// Infinite Blaster (Pick Up Blaster To Use)
+00D2-B010

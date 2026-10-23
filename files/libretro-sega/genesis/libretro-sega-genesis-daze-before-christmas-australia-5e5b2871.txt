@@ -1,0 +1,50 @@
+// Start With 99 Lives
+NSBT-AABY
+
+// Start With 255 Lives
+99BT-AABY
+
+// Infinite Lives
+AL1T-AA9C
+
+// Invincibility
+ABSA-AN94
+
+// Regional Lockout Bypass
+AABT-AA3J
+
+// Infinite Presents (Hundred Digit) P1
+FF0064:0009
+
+// Infinite Presents (Tens &amp; Ones Digits) P1
+FF0064:0099
+
+// Fake Infinite Santa Hats (Health Bar) P1
+FF003A:0007
+
+// Infinite Santas (Lives) P1
+FF002C:0009
+
+// Infinite Health Santa P1
+FF0FB0:0007
+
+// Level Modifier
+FF0054:0000
+
+// 1 Shot Kill Bosses
+FF0FF8:0000
+
+// 1 Shot Kill Bosses
+PCKT-AE1J
+
+// Enable Level Select
+FF2CBE:00FF
+
+// Enable Level Select
+AL0T-AA2Y
+
+// Invincibility
+R0KA-A6WC
+
+// Infinite Santa Hats (Health)
+A4KA-AA4W

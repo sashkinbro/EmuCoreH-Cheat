@@ -1,0 +1,23 @@
+// Infinite Energy Player 1
+00C1-2880
+
+// Infinite Timer
+00C1-3309
+
+// Pause Cheat Mode
+00C1-0301
+
+// Cheat Mode
+01B-D5E-E66
+
+// No Health P2
+00C1-2900
+
+// Infinite Health Player 1
+294-EBB-4CA
+
+// Enemy Loses Health Instead Of Gains
+3DF-B6D-19A
+
+// One Hit Knockouts
+92E-6AC-A28

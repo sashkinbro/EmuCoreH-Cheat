@@ -1,0 +1,82 @@
+// Infinite Energy
+AL0T-AA6J
+
+// Invincibility
+R00T-A6YJ
+
+// Infinite Lives
+AKFT-CA6E
+
+// Invincibility
+AAXA-CN7E
+
+// Walk Through Enemies
+FFA602:0020
+
+// Float Jump
+FFE066:0080
+
+// Area Modifier
+FFE03C:0000
+
+// Level Modifier
+FFE03A:00BE
+
+// Boss Dies
+FFA060:0000
+
+// Stage Select Enabled
+FFE226:0005
+
+// Infinite Energy
+FFE050:0005
+
+// Infinite Lives
+FFE058:0099
+
+// Infinite Magic
+FFE142:0005
+
+// Infinite Balloons
+FFE056:0005
+
+// Fill Orange Flowers Bar
+FFE052:0002
+
+// Fill White Flowers Bar
+FFE054:0003
+
+// Enabled Stage Select/Selection Languages In Options
+DDGT-AA9C
+NMHA-AA50
+
+// Invincibility
+FFA602:0010
+
+// Infinite Golds
+AVRT-CA8C
+
+// Infinite Balloons
+AJYA-CA28
+
+// Infinite m Continue
+AKNA-CA96
+
+// Invincibility
+R00T-A6WY
+
+// Infinite Jewels (Health)
+AC0T-AAEJ
+AL1T-AA2J
+
+// Keep Three White Flowers After Touching Enemies
+AKJT-CA9W
+
+// Keep White Flowers After The Death
+AL3T-EA6C
+
+// Keep Orange Flowers After The Death
+AL3T-EA54
+
+// Freeze Time Continue
+AKNA-CA4L

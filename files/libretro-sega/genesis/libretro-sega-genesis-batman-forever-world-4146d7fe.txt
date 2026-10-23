@@ -1,0 +1,149 @@
+// You can't be caught
+A36T-AA62
+
+// You're invincible against most of Regular Attacks
+SB6T-AAGN
+
+// Almost Invincible
+3B8T-BSJY
+AB8T-A020
+
+// Almost Invincible [Alternate Version]
+3P8T-BDJY
+AB8T-AY20
+
+// No enemies
+CWBA-AXW6
+
+// Infinite lives
+A40A-AA9R
+
+// Infinite Time (not in training mode)
+CDXA-AA3N
+
+// Start with 10 lives (not in 2p competitive mode)
+BJNT-AADE
+
+// Start with 20 lives (not in 2p competitive mode)
+CTNT-AADE
+
+// Start with 50 lives (not in 2p competitive mode)
+GJNT-AADE
+
+// Player 1 starts with 10 lives in 2p competitive mode
+BJNT-AAEE
+
+// Player 1 starts with 20 lives in 2p competitive mode
+CTNT-AAEE
+
+// Player 1 starts with 50 lives in 2p competitive mode
+GJNT-AAEE
+
+// Player 2 starts with 10 lives in 2p competitive mode
+BJNT-AAEL
+
+// Player 2 starts with 20 lives in 2p competitive mode
+CTNT-AAEL
+
+// Player 2 starts with 50 lives in 2p competitive mode
+GJNT-AAEL
+
+// You can use any special weapon at any time
+BDBT-AA9A
+
+// Most enemies die with one hit
+A4CT-AA6A
+
+// Start On Level 2
+RENA-A60R
+9TNA-BGRT
+AENA-AAGW
+
+// Start On Level 3
+RENA-A60R
+9TNA-BGRT
+AJNA-AAGW
+
+// Start On Level 4
+RENA-A60R
+9TNA-BGRT
+ANNA-AAGW
+
+// Start On Level 5
+RENA-A60R
+9TNA-BGRT
+ATNA-AAGW
+
+// Start On Level 6
+RENA-A60R
+9TNA-BGRT
+AYNA-AAGW
+
+// Start On Level 7
+RENA-A60R
+9TNA-BGRT
+A2NA-AAGW
+
+// Start On Level 8
+RENA-A60R
+9TNA-BGRT
+A6NA-AAGW
+
+// Infinite Lives
+RG0A-A610
+
+// Infinite Energy
+HAVA-BAT0
+C6VA-AX22
+
+// Infinite Lives
+FFD9D4:0006
+
+// Infinite Energy
+FFE916:0050
+
+// Some Enemies Automatically Die
+FFE578:0000
+FFE9CE:0000
+
+// Fake Infinite Health P1
+FFE6FC:0000
+
+// Infinite Lives Alt
+A40A-AA9R
+
+// Hit Anywhere
+RF6T-A60W
+3B8T-BSJY
+AB8T-A020
+
+// Invincibility/Untouchable You Can Pass Through Enemies
+RZ7A-A6YJ
+RZ0T-A6WA
+
+// Freeze Time In Training Mode
+ADYA-AAA4
+
+// Freeze Time In A Third Level Circus
+AMXA-AA3N
+
+// All in one Invincibility
+RZ8T-A60R
+
+// Idiot A.I
+AKWA-AA54
+
+// Disable Targeting Assist
+AK0A-AA72
+
+// Disable Enemies
+AWBA-AA48
+
+// Freeze Animation
+RZ9T-A6ZL
+
+// Disable Sprite Layer
+AJ9A-AA48
+
+// Enemies act stupid
+ALAT-AA6C

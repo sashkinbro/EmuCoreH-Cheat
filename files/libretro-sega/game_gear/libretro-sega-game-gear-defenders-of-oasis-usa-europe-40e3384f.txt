@@ -1,0 +1,593 @@
+// Gain Even More Experience [Up To 65 535]
+00DC-81FF
+
+// Infinite Dinar [Money]
+00DB-79FF
+
+// Infinite Energy [Genie]
+00DC-11FF
+
+// Infinite Energy [Salem]
+00DC-21FF
+
+// Infinite Energy [Agmar]
+00DC-31FF
+
+// Infinite Items Slot 1
+00DB-7F09
+
+// Infinite Items Slot 2
+00DB-8109
+
+// Infinite Items Slot 3
+00DB-8309
+
+// Infinite Items Slot 4
+00DB-8509
+
+// Infinite Items Slot 5
+00DB-8709
+
+// Infinite Items Slot 6
+00DB-8909
+
+// Infinite Items Slot 7
+00DB-8B09
+
+// Infinite Items Slot 8
+00DB-8D09
+
+// Infinite Items Slot 9
+00DB-8F09
+
+// Infinite Items Slot 10
+00DB-9109
+
+// Infinite Items Slot 11
+00DB-9309
+
+// Infinite Items Slot 12
+00DB-9509
+
+// Infinite Items Slot 13
+00DB-9709
+
+// Infinite Items Slot 14
+00DB-9909
+
+// Infinite Items Slot 15
+00DB-9B09
+
+// Infinite Items Slot 16
+00DB-9D09
+
+// Infinite Items Slot 17
+00DB-9F09
+
+// Infinite Items Slot 18
+00DB-A109
+
+// Infinite Items Slot 19
+00DB-A309
+
+// Infinite Items Slot 20
+00DB-A509
+
+// Infinite Items Slot 21
+00DB-A709
+
+// Infinite Items Slot 22
+00DB-A909
+
+// Infinite Items Slot 23
+00DB-AB09
+
+// Infinite Items Slot 24
+00DB-AD09
+
+// Infinite Items Slot 25
+00DB-AF09
+
+// Infinite Items Slot 26
+00DB-B109
+
+// Infinite Items Slot 27
+00DB-B309
+
+// Infinite Items Slot 28
+00DB-B509
+
+// Infinite Items Slot 29
+00DB-B709
+
+// Infinite Items Slot 30
+00DB-B909
+
+// Infinite Items Slot 31
+00DB-BB09
+
+// Infinite Items Slot 32
+00DB-BD09
+
+// Infinite Items Slot 33
+00DB-BF09
+
+// Infinite Items Slot 34
+00DB-C109
+
+// Infinite Items Slot 35
+00DB-C309
+
+// Infinite Items Slot 36
+00DB-C509
+
+// Infinite Items Slot 37
+00DB-C709
+
+// Infinite Items Slot 38
+00DB-C909
+
+// Infinite Items Slot 39
+00DB-CB09
+
+// Infinite Items Slot 40
+00DB-CD09
+
+// Infinite Items Slot 41
+00DB-CF09
+
+// Infinite Items Slot 42
+00DB-D109
+
+// Infinite Items Slot 43
+00DB-D309
+
+// Infinite Items Slot 44
+00DB-D509
+
+// Infinite Items Slot 45
+00DB-D709
+
+// Infinite Items Slot 46
+00DB-D909
+
+// Infinite Items Slot 47
+00DB-DB09
+
+// Infinite Items Slot 48
+00DB-DD09
+
+// Infinite Items Slot 49
+00DB-DF09
+
+// Infinite Items Slot 50
+00DB-E109
+
+// Infinite Items Slot 51
+00DB-E309
+
+// Infinite Items Slot 52
+00DB-E509
+
+// Infinite Items Slot 53
+00DB-E709
+
+// Infinite Items Slot 54
+00DB-E909
+
+// Infinite Items Slot 55
+00DB-EB09
+
+// Infinite Items Slot 56
+00DB-ED09
+
+// Infinite Items Slot 57
+00DB-EF09
+
+// Infinite Items Slot 58
+00DB-F109
+
+// Infinite Items Slot 59
+00DB-F309
+
+// Infinite Items Slot 60
+00DB-F509
+
+// Infinite Items Slot 61
+00DB-F709
+
+// Infinite Items Slot 62
+00DB-F909
+
+// Infinite Items Slot 63
+00DB-FB09
+
+// Infinite Items Slot 64
+00DB-FD09
+
+// Gain 255~511+ Experience Points (In Battle)
+00DC-80FF
+
+// Gain 511+ Dinars (In Battle)
+00DC-82FF
+
+// Infinite Energy (Prince)
+00DC-01FF
+
+// Infinite Money
+003-8A5-910
+
+// Infinite HP - All Characters
+6E9-C19-3BF
+
+// Infinite MP - Genie - In Battle
+2A0-609-6E2
+
+// Infinite Items
+002-A45-3BE
+
+// Infinite Dinar (Money)
+00DB-783F
+00DB-7942
+00DB-7A0F
+
+// Prince - Inf HP (In-Battle)
+00DC-01E7
+00DC-0203
+
+// Genie - Inf HP (In-Battle)
+00DC-11E7
+00DC-1203
+
+// Saleem - Inf HP (In-Battle)
+00DC-21E7
+00DC-2203
+
+// Agmar - Inf HP (In-Battle)
+00DC-31E7
+00DC-3203
+
+// Prince - Inf HP
+00DA-5FE7
+00DA-6003
+
+// Prince - Max HP
+00DA-61E7
+00DA-6203
+
+// Prince - Max Level (Level 51)
+00DA-6633
+
+// Prince - Max EXP
+00DA-673F
+00DA-6842
+00DA-690F
+
+// Prince - Max Power
+00DA-5A63
+
+// Prince - Max Speed
+00DA-5B63
+
+// Prince - Max Stamina
+00DA-5C63
+
+// Prince - Max Will
+00DA-5D63
+
+// Genie - Inf HP
+00DA-6FE7
+00DA-7003
+
+// Genie - Max HP
+00DA-71E7
+00DA-7203
+
+// Genie - Inf MP
+00DA-76E7
+00DA-7703
+
+// Genie - Max MP
+00DA-78E7
+00DA-7903
+
+// Genie - Max Power
+00DA-6A63
+
+// Genie - Max Speed
+00DA-6B63
+
+// Genie - Max Stamina
+00DA-6C63
+
+// Genie - Max Will
+00DA-6D63
+
+// Saleem - Inf HP
+00DA-7FE7
+00DA-8003
+
+// Saleem - Max HP
+00DA-81E7
+00DA-8203
+
+// Saleem - Max Level (Level 51)
+00DA-8633
+
+// Saleem - Max EXP
+00DA-873F
+00DA-8842
+00DA-890F
+
+// Saleem - Max Power
+00DA-7A63
+
+// Saleem - Max Speed
+00DA-7B63
+
+// Saleem - Max Stamina
+00DA-7C63
+
+// Saleem - Max Will
+00DA-7D63
+
+// Agmar - Inf HP
+00DA-8FE7
+00DA-9003
+
+// Agmar - Max HP
+00DA-91E7
+00DA-9203
+
+// Agmar - Max Level (Level 51)
+00DA-9633
+
+// Agmar - Max EXP
+00DA-973F
+00DA-9842
+00DA-990F
+
+// Agmar - Max Power
+00DA-8A63
+
+// Agmar - Max Speed
+00DA-8B63
+
+// Agmar - Max Stamina
+00DA-8C63
+
+// Agmar - Max Will
+00DA-8D63
+
+// Item Slot 01
+00DB-7E01
+
+// Item Slot 02
+00DB-8001
+
+// Item Slot 03
+00DB-8201
+
+// Item Slot 04
+00DB-8401
+
+// Item Slot 05
+00DB-8601
+
+// Item Slot 06
+00DB-8801
+
+// Item Slot 07
+00DB-8A01
+
+// Item Slot 08
+00DB-8C01
+
+// Item Slot 09
+00DB-8E01
+
+// Item Slot 10
+00DB-9001
+
+// Item Slot 11
+00DB-9201
+
+// Item Slot 12
+00DB-9401
+
+// Item Slot 13
+00DB-9601
+
+// Item Slot 14
+00DB-9801
+
+// Item Slot 15
+00DB-9A01
+
+// Item Slot 16
+00DB-9C01
+
+// Item Slot 17
+00DB-9E01
+
+// Item Slot 18
+00DB-A001
+
+// Item Slot 19
+00DB-A201
+
+// Item Slot 20
+00DB-A401
+
+// Item Slot 21
+00DB-A601
+
+// Item Slot 22
+00DB-A801
+
+// Item Slot 23
+00DB-AA01
+
+// Item Slot 24
+00DB-AC01
+
+// Item Slot 25
+00DB-AE01
+
+// Item Slot 26
+00DB-B001
+
+// Item Slot 27
+00DB-B201
+
+// Item Slot 28
+00DB-B401
+
+// Item Slot 29
+00DB-B601
+
+// Item Slot 30
+00DB-B801
+
+// Item Slot 31
+00DB-BA01
+
+// Item Slot 32
+00DB-BC01
+
+// Item Slot 33
+00DB-BE01
+
+// Item Slot 34
+00DB-C001
+
+// Item Slot 35
+00DB-C201
+
+// Item Slot 36
+00DB-C401
+
+// Item Slot 37
+00DB-C601
+
+// Item Slot 38
+00DB-C801
+
+// Item Slot 39
+00DB-CA01
+
+// Item Slot 40
+00DB-CC01
+
+// Item Slot 41
+00DB-CE01
+
+// Item Slot 42
+00DB-D001
+
+// Item Slot 43
+00DB-D201
+
+// Item Slot 44
+00DB-D401
+
+// Item Slot 45
+00DB-D601
+
+// Item Slot 46
+00DB-D801
+
+// Item Slot 47
+00DB-DA01
+
+// Item Slot 48
+00DB-DC01
+
+// Item Slot 49
+00DB-DE01
+
+// Item Slot 50
+00DB-E001
+
+// Item Slot 51
+00DB-E201
+
+// Item Slot 52
+00DB-E401
+
+// Item Slot 53
+00DB-E601
+
+// Item Slot 54
+00DB-E801
+
+// Item Slot 55
+00DB-EA01
+
+// Item Slot 56
+00DB-EC01
+
+// Item Slot 57
+00DB-EE01
+
+// Item Slot 58
+00DB-F001
+
+// Item Slot 59
+00DB-F201
+
+// Item Slot 60
+00DB-F401
+
+// Item Slot 61
+00DB-F601
+
+// Item Slot 62
+00DB-F801
+
+// Item Slot 63
+00DB-FA01
+
+// Item Slot 64
+00DB-FC01
+
+// Drop Item In Slot One To Receive ??
+012-A95-E6A
+
+// Buy A Pillow And Receive Key of E Instead
+702-9A5-2AF
+
+// Start A New Game With 51,200 Money
+79F-94D-08B
+
+// Start A New Game With 983,040 Money
+0FF-92D-C49
+7AF-94D-08B
+
+// Walk Anywhere
+189-FAC-4CA
+
+// No Random Battles
+C97-8AC-E69
+
+// Infinite MP - Genie - Outside Battle
+2A8-E64-6E2
+
+// Immune to Poison - All Characters
+7E6-6B9-3BA
+
+// Prince - Immune to Poison
+00DC-0F00
+
+// Saleem - Immune to Poison
+00DC-2F00
+
+// Agmar - Immune to Poison
+00DC-3F00
+
+// No Random Battles
+C97-8FC-809
+
+// No Random Battles
+00D4-B298
+00D4-B3FE

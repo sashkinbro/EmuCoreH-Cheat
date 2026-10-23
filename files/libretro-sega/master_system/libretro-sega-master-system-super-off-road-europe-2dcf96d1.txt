@@ -1,0 +1,88 @@
+// P1 Infinite Nitros (Red Car)
+00C1-1363
+
+// P2/CPU Has No Nitros (Yellow Car)
+00C1-4800
+
+// CPU Has No Nitros (Dark Blue Car)
+00C1-7D00
+
+// CPU Has No Nitros (Grey Car)
+00C3-5000
+
+// FAKE Infinite Time
+00D2-1100
+
+// Infinite Credits
+00D0-6509
+
+// P1 Infinite Nitros
+00C1-1364
+
+// P1 No Nitros
+00C1-1300
+
+// P1 Infinite Credits
+00D0-6563
+
+// P1 Infinite Money
+00D0-6399
+00D0-6499
+
+// P1 Max Accel Upgrade
+00C1-1008
+
+// P1 Max Tires Upgrade
+00C1-0F08
+
+// P1 Max Top Spd Upgrade
+00C1-1208
+
+// P1 Max Shocks Upgrade
+00C1-1108
+
+// P2 Infinite Nitros
+00C1-4864
+
+// P2 No Nitros
+00C1-4800
+
+// P2 Infinite Credits
+00D0-8263
+
+// P2 Infinite Money
+00D0-8099
+00D0-8199
+
+// P2 Max Accel Upgrade
+00C1-4508
+
+// P2 Max Tires Upgrade
+00C1-4408
+
+// P2 Max Top Spd Upgrade
+00C1-4708
+
+// P2 Max Shocks Upgrade
+00C1-4608
+
+// P3 No Nitros
+00C1-7D00
+
+// P4 No Nitro
+00C1-B200
+
+// Infinite Nitros - Both Players
+004-0EC-3BE
+
+// Infinite Credits - Both Players
+00D-34E-3BE
+
+// Infinite Money - Both Players
+7E1-F4B-3B7
+
+// Start with ?? Credits, instead of 2 - Both Players
+05F-2BC-E62
+
+// Start with ?? Nitros, instead of 25 - Both Players
+236-2FF-80E

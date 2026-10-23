@@ -1,0 +1,42 @@
+// Infinite Lives
+AJ4T-AA5R
+
+// Infinite Run Metter
+AWEA-AA2C
+
+// Infinite Energy
+AJ4T-AA5G
+
+// Invincibility
+BT9T-AN54
+
+// Infinite Lives
+FFA18E:0009
+
+// Infinite Run Meter
+FFD786:00FA
+
+// Invincibility (Disable Hit Detection)
+RY4A-A6WN
+R0YA-A6W4
+RYFT-A6TG
+RYLT-A60J
+
+// Infinite Lives Extra
+AJFT-AA22
+AJ7T-AA5A
+
+// Infinite Energy Extra
+AJMA-AA4L
+
+// Invincibility
+FFA196:0010
+
+// Infinite Continue
+AJDA-CA6G
+
+// Level Select (Options Menu)
+FFD63C:6ADA
+
+// Enable Level Select in Options Menu
+5JVT-AY2E

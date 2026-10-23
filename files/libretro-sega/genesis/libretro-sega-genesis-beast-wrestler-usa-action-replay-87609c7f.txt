@@ -1,0 +1,8 @@
+// Max Power
+FFF2B4:03E7
+
+// Max Stamina
+FFF2B2:03E7
+
+// Max Speed
+FFF2BC:03E7

@@ -1,0 +1,11 @@
+// Invulnerability
+00CA-80BE
+
+// Invulnerability
+C9C-314-082
+
+// Infinite Lives
+00CA-9109
+
+// Invincible
+00CA-9203

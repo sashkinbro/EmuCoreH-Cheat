@@ -1,0 +1,8 @@
+// Infinite Music Notes
+FF13F8:03E7
+
+// Infinite Lives
+FF13D6:03E7
+
+// Infinite Time
+FF13DA:03E7

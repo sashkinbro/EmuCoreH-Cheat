@@ -1,0 +1,23 @@
+// Level Select Enabled
+00C6-1A01
+
+// Infinite Energy
+00C6-3E0C
+
+// Infinite Lives
+00C6-3D05
+
+// Invincibility
+00C6-DC06
+
+// Cheat Mode (Level Select)
+CD4-65C-F79
+
+// Invulnerability
+C32-FE9-E61
+
+// Infinite Health
+006-8B9-A24
+
+// Infinite Lives
+006-85C-19E

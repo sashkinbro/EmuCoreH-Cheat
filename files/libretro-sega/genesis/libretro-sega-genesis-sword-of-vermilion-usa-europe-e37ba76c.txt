@@ -1,0 +1,352 @@
+// Infinite MP
+FFC630:270F
+
+// Invincible
+SCVA-CYWC
+SCVA-CYTR
+
+// Lots Of, And Infinite, Money
+FFC622:FFFF
+
+// Have Item Listed
+FFC444:0000
+
+// Start new game with 80 MP [magic points]
+LDPT-DE5T
+
+// Start new game with 80 LUK [luck points]
+LDPA-DE8T
+
+// Start new game with 80 INT [intelligence points]
+LDPT-DE4J
+
+// Blade gives you 0 Kim
+ADGT-EAHE
+
+// Blade gives you 900 Kim
+ADGT-EWHE
+
+// Blade gives you 9.000 Kim
+ADGT-FBHE
+
+// Blade gives you 90,200 Kim
+BHGT-EAHC
+
+// Increase experience level MUCH faster
+REXA-A60L
+
+// Leather armor costs nothing instead of 200
+AAVT-EAG6
+
+// Bronze armor costs nothing instead of 400
+AAVT-EAHA
+
+// Metal armor costs nothing instead of 900
+AAWA-EAAC
+
+// Scale armor costs nothing instead of 1,100
+AAWA-EAAG
+
+// Plate armor costs nothing instead of 2,800
+AAWA-EABJ
+
+// Crystal armor costs nothing instead of 4,500
+AAWA-EABN
+
+// Silver armor costs nothing instead of 7,000
+AAWA-EACJ
+
+// Knight armor costs nothing instead of 9,200
+AAWA-EACN
+
+// Gold armor costs 5.000 instead of 15,000
+AAWA-EADG
+
+// Ultimate armor costs 4,000 instead of 24.000
+AAWA-EADL
+
+// Odin armor costs 8,000 instead of 38,000
+AAWA-EAEG
+
+// Diamond armor costs nothing instead of 50,000
+AAWA-EAEL
+
+// Bronze sword costs nothing instead of 100
+AAVT-EAGT
+
+// Iron sword costs nothing instead of 400
+AAVT-EAHW
+
+// Sharp sword costs nothing instead of 800
+AAVT-EAH0
+
+// Long sword costs nothing instead of 1,800
+AAWA-EAA2
+
+// Silver sword costs nothing instead of 3,700
+AAWA-EAA6
+
+// Prime sword costs nothing instead of 5,100
+AAWA-EAB6
+
+// Golden sword costs nothing instead of 8,200
+AAWA-EACA
+
+// Platinum sword costs 4.800 instead of 14,800
+AAWA-EAC8
+
+// Leather shield costs nothing instead of 50
+AAVT-EAGY
+
+// Small shield costs nothing instead of 80
+AAVT-EAG2
+
+// Large shield costs nothing instead of 250
+AAVT-EAH4
+
+// Silver shield costs nothing instead of 500
+AAVT-EAH8
+
+// Gold shield costs nothing instead of 1,500
+AAWA-EABA
+
+// Platinum shield costs nothing instead of 3,200
+AAWA-EABE
+
+// Diamond shield costs nothing instead of 4,100
+AAWA-EACE
+
+// Knight shield costs nothing instead of 6,300
+AAWA-EADE
+
+// Carmine shield costs 2,700 instead of 12,700
+AAWA-EAEC
+
+// Invincibility against most enemies and protection from poison
+R04T-A6Z4
+
+// Don't lose half your money to charity after you lose your hit points and return to the church
+JJ0A-AA8A
+
+// Herbs at Parma cost nothing instead of 25
+AATT-EAHT
+
+// Candles at Parma cost nothing instead of 15
+AATT-EAHN
+
+// Herbs at Wyclif cost nothing instead of 20
+AATT-EAG2
+
+// Candles at Wyclif cost nothing instead of 10
+AATT-EAG6
+
+// Poison balm costs nothing instead of 40
+AATT-EAHY
+
+// Lantern costs nothing instead of 65
+AATT-EAH2
+
+// Gnome stone costs nothing instead of 300
+AATT-EAH6
+
+// Ferros magic spell book costs nothing instead of 500
+AAVT-EAAN
+
+// Sangua magic spell book costs nothing instead of 800
+AAVT-EAAT
+
+// Fortunetelling and a room at the Inn at Wyclif costs nothing instead of 10
+AAST-EAAL
+
+// Fortune telling and a room at the Inn at Parma costs nothing instead of 13
+AAST-EAAR
+
+// 9999 HP
+FFC62C:270F
+
+// Max HP
+FFC62E:270F
+
+// 9999 MP
+FFC632:270F
+
+// 9999 STR
+FFC634:270F
+
+// 9999 AC
+FFC636:270F
+
+// 9999 INT
+FFC638:270F
+
+// 9999 DEX
+FFC63A:270F
+
+// 9999 LUCK
+FFC63E:270F
+
+// Max EXP
+FFC624:00FF
+
+// Permanent Candle Till Cave Exited
+FFC562:0008
+
+// Have Inaudios spell
+FFC462:0001
+FFC464:0010
+
+// Have luminos spell
+FFC462:0002
+FFC466:0011
+
+// Have Extrios spell
+FFC462:0003
+FFC468:000F
+
+// Have Aries Spell
+FFC462:0004
+FFC46A:000E
+
+// Have Aerios spell
+FFC462:0005
+FFC46C:0001
+
+// Always have Terrafisi as your equipped combat spell
+FFC4D8:00FF
+FFC4D6:000D
+
+// Inaudios, once cast, lasts till you exit a cave or enter a town
+FFC68E:001E
+
+// All Cave Maps, all levels
+FFC8C8:00FF
+
+// Infinite, unlimited Kim
+FFC620:00FF
+
+// First spell slot
+FFC462:0001
+FFC464:0000
+
+// Second spell slot
+FFC462:0002
+FFC466:0000
+
+// All overworld maps
+FFC55E:00FF
+
+// Item Slot 2
+FFC446:0000
+
+// Walk through walls, fences, buildings, etc.
+EA6T-AA94
+
+// All Doors Open
+FFC720:00FF
+
+// Infinite MP
+R04T-AK74
+
+// Max Intel
+FFC638:270F
+
+// Max Strength
+FFC634:270F
+
+// Max MP
+FFC630:270F
+
+// Max Luck
+FFC63C:270F
+
+// Quantity (1-Cool)
+FFC442:0000
+
+// Slot 2 - Items
+FFC446:0000
+
+// Number of Spell Slots Used For Having Spells With Codes
+FFC462:00BE
+
+// Enable Slot 1 Spell To Be Readied And Used In Battle
+FFC464:0002
+
+// Spells Slot 1
+FFC464:0000
+
+// Enable Slot 2 Spell To Be &quot;Readied&quot;, Used In Battle
+FFC466:0002
+
+// # 0f Equipment Slots Used
+FFC484:00DC
+
+// Equipment Class, Slot 2
+FFC486:0004
+
+// Equipment Item Slots, Slot 1
+FFC484:0000
+
+// Equipment Item Slots, Slot 2
+FFC486:00BE
+
+// Caves Always Lit
+FFC560:0001
+
+// Walk thru walls, barriers, trees etc in caves, and on maps.
+AKCA-AA9R
+
+// Infinite All Item
+AW2T-CA5W
+
+// Infinite Kim
+ATLT-CA7J
+
+// Infinite MP
+ALVA-CA2R
+
+// Inffinite HP
+AL4T-AA74
+
+// Invincibility (Disable Hit Detection)
+R0JT-A616
+R1FA-A6X2
+R1FA-A614
+
+// Invincibility (Disable Hit Detection) - Vermilion (Japan)
+R0JA-A6ZR
+R1ET-A6VW
+R1ET-A6ZY
+
+// Infinite HP - Vermilion (Japan)
+AL4A-AA5N
+
+// Infinite Kim - Vermilion (Japan)
+ATKT-CA3Y
+
+// Infinite MP - Vermilion (Japan)
+ALPT-CA5W
+
+// Infinite Item - Vermilion (Japan)
+AWZA-CA6T
+
+// No Enemies
+AJXT-AA88
+
+// Infinite Lit Candle/Lantern In Area Map Caves
+AKWT-AA36
+
+// Area Map/Area Map Cave Always Lit
+RZWA-A6XN
+ATWT-AA92
+AJZA-AA20
+
+// Area Map/Area Map Cave Always Lit - Vermilion (Japan)
+RZVA-A6ZG
+AJWA-AA7N
+AJYA-AA7N
+
+// Infinite Lit Candle/Lantern In Area Map Caves - Vermilion (Japan)
+AKVT-AA5T
+
+// No Enemies - Vermilion (Japan)
+AJXA-AA6G

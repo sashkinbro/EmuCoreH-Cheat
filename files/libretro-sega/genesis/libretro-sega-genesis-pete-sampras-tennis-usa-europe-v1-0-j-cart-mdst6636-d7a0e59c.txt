@@ -1,0 +1,2 @@
+// Enable Crazy and Huge Tour Modes on Title Screen
+FFDEB4:0001

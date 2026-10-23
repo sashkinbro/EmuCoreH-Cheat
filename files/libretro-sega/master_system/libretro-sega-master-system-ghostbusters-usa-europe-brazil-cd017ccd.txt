@@ -1,0 +1,40 @@
+// Infinite Ghostbusters
+00CE-0D03
+
+// Infinite Money
+00CE-0199
+
+// Infinite Beam Power
+00CE-815F
+
+// Infinite Overall Time
+00CE-0B00
+
+// Never Have Items On Car
+00CD-A400
+00CD-A500
+
+// Start With $9999990
+998-72E-E6A
+998-6EE-A2A
+998-6AE-E6A
+
+// Infinite money
+FD4-61B-91D
+FD4-67B-91D
+FD4-6DB-91D
+
+// Infinite Items on Car
+003-179-F70
+
+// Infinite Beam Power
+2AE-9A9-6E2
+
+// Infinite Ghostbusters
+001-9AC-3BE
+
+// No City's PK Energy
+000-CEE-A22
+
+// No Driving
+2A9-07B-6E2

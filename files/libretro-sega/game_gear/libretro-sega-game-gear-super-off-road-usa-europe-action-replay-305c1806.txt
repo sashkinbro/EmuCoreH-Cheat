@@ -1,0 +1,26 @@
+// P1 Has Infinite Nitros
+00C2-0399
+
+// P2 Has No Nitros
+00C2-3800
+
+// P3 Has No Nitros
+00C2-6D00
+
+// P4 Has No Nitros
+00C2-A200
+
+// Infinite Cash
+00D0-3E35
+
+// Infinite Credits (Only Works On Dumped Rom 'B')
+00D0-4002
+
+// Infinite Money (Alternate Code)
+00D0-3F09
+
+// Accelerator Stuck Down, Achieve Nitro Speed, Turns Accelerator Button Into Brake
+00C2-1BFF
+
+// Permanent Nitro Speed With No Brakes, Car Can Bounce Around Like A Pinball At Times
+00C2-1EFF

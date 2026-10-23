@@ -1,0 +1,22 @@
+// Cpu Never Scores
+HEMT-CE1A
+96MT-CAHC
+EEMT-CEHE
+
+// P1 Score Modifier
+FF0210:0063
+
+// Opponent Score Modifier (CPU/P2)
+FF0220:0000
+
+// Opponent Always Win Game
+FF0220:0002
+
+// Character Menu Select Modifier
+FFA6F4:0010
+
+// Character Modifier P1
+FF7F0A:0000
+
+// Character Modifier (Opponent/P2)
+FF7F0E:0000

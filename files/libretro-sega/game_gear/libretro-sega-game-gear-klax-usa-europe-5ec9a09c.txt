@@ -1,0 +1,35 @@
+// Unlimited Credits
+00C0-DB03
+
+// Infinite Lives
+00C0-9401
+
+// Level Select [00-64]
+00C1-F000
+
+// Unlimited dropped tiles
+003-28C-19A
+
+// Start on wave 25, 30 or 35
+197-3CD-E6E
+
+// Start on wave 50, 55 or 60
+327-3CD-E6E
+
+// Start on wave 99--don't choose 104 or 109
+637-3CD-E6E
+
+// Randomizes goal for completing each wave
+008-72D-193
+
+// No Klaxes/Diagonals, Etc. Left (Except Point Waves!)
+00C1-F300
+
+// FAKE No Klaxes Left
+00C2-0600
+
+// Level Select (00-64)
+00C1-F000
+
+// Infinite Credits
+3A1-44C-2A2

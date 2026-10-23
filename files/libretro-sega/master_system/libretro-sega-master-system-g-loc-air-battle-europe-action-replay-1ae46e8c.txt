@@ -1,0 +1,8 @@
+// Infinite Time
+00CB-2CFF
+
+// Infinite Missiles
+00CC-0EFF
+
+// Infinite Armour
+00CC-0D07

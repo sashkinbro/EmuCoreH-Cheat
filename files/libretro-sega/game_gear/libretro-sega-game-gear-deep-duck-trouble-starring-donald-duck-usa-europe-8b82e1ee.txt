@@ -1,0 +1,65 @@
+// Start with 1 life
+016-DBF-E66
+
+// Start with 10 lives
+0A6-DBF-E66
+
+// Start with 15 lives
+0F6-DBF-E66
+
+// Start with 1 gem
+016-E8F-E66
+
+// Start with 10 gems
+0A6-E8F-E66
+
+// Start with 15 gems
+0F6-E8F-E66
+
+// Start on Inlet
+886-E4F-5D4
+
+// Infinite lives
+3A9-319-2A2
+
+// Get 1 star after you lose a life
+014-35E-E66
+
+// Get 10 stars after you lose a life
+0A4-35E-E66
+
+// Get 15 stars after you lose a life
+0F4-35E-E66
+
+// Almost infinite stars
+3A0-5D5-2A2
+
+// Almost invincible
+C90-C65-082
+
+// Invulnerability
+00D3-69B2
+
+// X-Position Modifier
+00D5-1100
+
+// Invulnerability
+C90-315-E69
+
+// Jump Higher
+F82-027-085
+
+// Infinite Health against Enemies
+3A0-FB5-2A2
+
+// Infinite Health against Spikes
+3A0-5D5-2A2
+
+// Jump Height Modifier
+FA2-027-085
+
+// Infinite Health
+00D2-B204
+
+// Infinite Lives
+00D2-B199

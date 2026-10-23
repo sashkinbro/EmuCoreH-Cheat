@@ -1,0 +1,38 @@
+// Infinite lives
+HE3A-BETE
+
+// Infinite time
+AT2A-AA46
+
+// Infinite Energy
+ALZA-AA6Y
+
+// Invincibility
+K43A-AN4C
+
+// Start With Mega Time (Over 65,000 Seconds!)
+SE2A-BCW6
+
+// Infinite Time
+FF1F2A:03E7
+
+// Infinite Energy
+FF0AC0:000A
+
+// Infinite Lives
+FF0AC2:0009
+
+// Weapon Power-Ups
+FF0A9C:0001
+
+// Invincible
+FF0ABE:00FF
+
+// Untouchable - Japan Version
+R0YT-A6W0
+
+// Untouchable
+R0ZA-A6YR
+
+// 1 Hit Kill Enemies And Bosses
+A3BA-AA6G

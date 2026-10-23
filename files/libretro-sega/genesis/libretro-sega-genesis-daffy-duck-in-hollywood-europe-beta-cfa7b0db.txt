@@ -1,0 +1,57 @@
+// Infinite Lives
+D6PT-AADE
+
+// Infinite Energy
+ATWA-CA7N
+
+// Infinite Time
+AM7A-AA36
+
+// Invincibility
+ADRT-AN9L
+
+// Always 99 Diamonds
+FF28D8:0063
+
+// Always 99 Gold Coin
+FF28DA:0063
+
+// Always 99 Hollywood Awards
+FF28E0:0063
+
+// Always 99 Jewllery Box
+FF28DC:0063
+
+// Enabled Cheat Code Level Select/Infinite 99 time/Press Start On Map Levels
+FFAF14:00FF
+
+// Enabled Cheat Code Level Select/Infinite 99 time/Press Start On Map Levels
+AKLT-AA38
+AD6T-AA8Y
+
+// Invincibility
+R0AA-C6VY
+RYLA-C6ZJ
+
+// Infinite Lives
+AJPT-AA5C
+AM6A-AA5J
+
+// Freeze Time Well Done-Enter Your Name
+FFAEFC:0099
+
+// Freeze Time Well Done-Enter Your Name
+REVA-E6WT
+
+// Freeze Time Burning Daffy Duck
+AM7T-AA7A
+
+// Infinite Continue
+AJXA-EA80
+
+// Freeze Time Well Done-Enter Your Name
+FFAEFC:0040
+
+// Infinite Controllable Jump
+AAMA-CAFA
+AAMA-CAET

@@ -1,0 +1,32 @@
+// Don't lose any energy when your ship moves
+RH0T-A6TJ
+
+// Shields will take less damage from enemy attacks
+REAT-C6ZA
+
+// Infinite shields
+D2AT-CA9W
+
+// Shields will take much less damage from enemy attacks
+JEAT-DGZA
+
+// Makes Shot Laser twice as strong
+AVDT-CACR
+
+// Makes Shot Laser 5 times stronger
+BKDT-CACR
+
+// Makes Homing Missile 1 twice as strong
+HVDT-CAH4
+
+// Makes Homing Missile 1 five times stronger
+W3DT-CAH4
+
+// 1 shot kills enemy
+BKAT-CA3J
+
+// Infinite Homing Missile 1
+AJ9A-CA6W
+
+// No key needed to open gates
+CL9T-AA5L

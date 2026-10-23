@@ -1,0 +1,184 @@
+// Much higher top speed.
+EC2A-AAH6
+
+// Infinite ammo
+AMFA-AA22
+
+// Infinite machine gun rounds
+AMEA-AA66
+
+// Infinite smoke canisters
+AJJA-CA6R
+
+// Infinite fuel
+CDMT-AA30
+
+// Infinite smoke
+AJHT-CA9J
+
+// 10 seconds of smoke per canister
+BJJA-CAEY
+
+// 20 seconds of smoke per canister
+CTJA-CAEY
+
+// 45 seconds of smoke per canister
+FYJA-CAEY
+
+// 60 seconds of smoke per canister
+HTJA-CAEY
+
+// 120 seconds of smoke per canister
+SAJA-CAEY
+
+// 300 seconds of smoke per canister
+FTJA-CCEY
+
+// Fuel is consumed 2x as fast
+SDMT-BLV0
+
+// Fuel is consumed 4x as fast
+SDMT-BWV0
+
+// Start with 10 gallons of fuel
+BLFT-AAF6
+
+// Start with 25 gallons of fuel
+DGFT-AAF6
+
+// Start with 50 gallons of fuel
+GLFT-AAF6
+
+// Start with 150 gallons of fuel
+W4FT-AAF6
+
+// Start with 200 gallons of fuel
+3CFT-AAF6
+
+// Start with 500 gallons of fuel
+8WFT-ACF6
+
+// Start with 60 rounds of total ammo
+HWGT-AABJ
+HWGT-AACE
+
+// Start with 80 rounds of total ammo
+LCGT-AABJ
+LCGT-AACE
+
+// Start with 100 rounds of total ammo
+NWGT-AABJ
+NWGT-AACE
+
+// Start with 200 rounds of total ammo
+3CGT-AABJ
+3CGT-AACE
+
+// Start with 0 smoke canisters
+ACFT-AAF0
+
+// Start with 3 smoke canisters
+ARFT-AAF0
+
+// Start with 10 smoke canisters
+BLFT-AAF0
+
+// Start with 20 smoke canisters
+CWFT-AAF0
+
+// Start with 50 smoke canisters
+GLFT-AAF0
+
+// Start with 100 smoke canisters
+NWFT-AAF0
+
+// Start with 0 machine gun rounds
+ACFT-AAFT
+
+// Start with 20 machine gun rounds
+CWFT-AAFT
+
+// Start with 50 machine gun rounds
+GLFT-AAFT
+
+// Start with 100 machine gun rounds
+NWFT-AAFT
+
+// Start with 150 machine gun rounds
+W4FT-AAFT
+
+// Start with 250 machine gun rounds
+9LFT-AAFT
+
+// Start with 500 machine gun rounds
+8WFT-ACFT
+
+// Start with 40 HEAT rounds
+FCFT-AAE8
+
+// Start with 60 HEAT rounds
+HWFT-AAE8
+
+// Start with 80 HEAT rounds
+LCFT-AAE8
+
+// Start with 100 HEAT rounds
+NWFT-AAE8
+
+// Start with 20 Sabot rounds
+CWFT-AAFE
+
+// Start with 40 Sabot rounds
+FCFT-AAFE
+
+// Start with 60 Sabot rounds
+HWFT-AAFE
+
+// Start with 80 Sabot rounds
+LCFT-AAFE
+
+// Start with 100 Sabot rounds
+NWFT-AAFE
+
+// Start with 20 AX rounds
+CWFT-AAFL
+
+// Start with 40 AX rounds
+FCFT-AAFL
+
+// Start with 60 AX rounds
+HWFT-AAFL
+
+// Start with 80 AX rounds
+LCFT-AAFL
+
+// Start with 100 AX rounds
+NWFT-AAFL
+
+// Equipment can't be damaged
+RHNA-A6ZC
+
+// Equipment can't be destroyed
+AHNA-BZ7C
+
+// Invincibility And Infinite Ammo
+ALCA-AN6Y
+
+// Ammo Reloads Twice As Fast
+SDFT-BLT8
+
+// Ammo Reloads Instantly (Don't Use With AX Rounds)
+SDFT-BWT8
+
+// Max Heat
+FFEC8E:0063
+
+// Max Sabot
+FFEC90:0063
+
+// Drive through trees, tanks, etc.
+R0ZA-A6T0
+
+// Ready Heat Sabot Ax Always At Maximum
+AMFA-AA6L
+AMGT-AA88

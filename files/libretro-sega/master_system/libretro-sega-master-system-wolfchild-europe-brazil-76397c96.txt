@@ -1,0 +1,11 @@
+// Infinite Energy
+00C1-0107
+
+// Invulnerability
+00C1-0C2E
+
+// Invulnerability
+C97-F8F-19D
+
+// Infinite Lives
+00C1-0009

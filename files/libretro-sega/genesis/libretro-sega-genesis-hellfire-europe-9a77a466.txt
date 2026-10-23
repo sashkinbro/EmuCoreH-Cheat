@@ -1,0 +1,10 @@
+// Infinite Hellfire Missiles
+ATZA-AA9E
+
+// Invincibility
+DADA-AA8A
+DADA-AA5E
+BADA-AA60
+
+// Enable Debug Invincibility
+GAYT-AA44

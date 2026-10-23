@@ -1,0 +1,78 @@
+// Infinite Energy Alisia
+ATKT-AA94
+
+// Invincibility Alicia
+RYKT-A614
+
+// Invincibility Dragoons
+AJJA-AA8L
+
+// Infinite Lightning
+FF00C2:000A
+
+// Infinite Dragon Power
+FF0022:0010
+
+// Lightning Never Decreases
+BK6T-AAEJ
+AV7T-AA36
+
+// Alisia Can Fly
+AV5T-AA5Y
+
+// Dragon Invincibility
+FFD936:0005
+
+// Max Energy Alisia
+FF002C:1800
+
+// Infinite Energy Alisia
+FF0008:1800
+
+// Max Attack Power Alisia
+FF00C2:000A
+
+// Max Energy Partner
+FF0034:1400
+
+// Infinite Energy Partner
+FF0030:1400
+
+// Max Attack Power Partner
+FF0022:0010
+
+// Alisia Level 8
+FF001C:0702
+
+// Dragon Frye Level 3
+FF0020:0200
+
+// Ball o' Fire Level 3
+FF0020:0201
+
+// Thunder Raven Level 3
+FF0020:0202
+
+// Boomerang Lizard Level 3
+FF0020:0203
+
+// Infinite Energy Dragon
+NAJA-ADR0
+
+// Infinite Maximum Special Energy Weapon Alisia
+A36T-AA6G
+
+// Infinite Maximum Special Energy Weapon Dragon
+WDZT-AGLE
+
+// Skip Levels And Others Configuration
+FF0456:0001
+
+// Skip Levels And Others Configuration
+AJBT-CA4N
+
+// Alisia Invincibility
+FF0018:0010
+
+// Cheat mode is automatically activated
+HEBT-BE0N

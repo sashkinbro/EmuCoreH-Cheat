@@ -1,0 +1,25 @@
+// Most Homeruns Are Counted As Outs
+AK6T-AE9E
+
+// Some In-Park Hits Are Counted As Homeruns
+AK7A-AE2N
+
+// Causes An Error Message To Appear When You Hit The Ball
+AK6A-AE9R
+
+// Outs Modifier
+FF0B9A:0000
+
+// Strikes Modifier
+FF0B98:0000
+
+// Team 1 Score Modifier
+FF05CA:0063
+
+// Team 2 Score Modifier
+FF05CA:0000
+
+// Enable BADACODEAAAA Password
+JHFA-CJYE
+JHFA-CCYL
+JHFA-CCYN

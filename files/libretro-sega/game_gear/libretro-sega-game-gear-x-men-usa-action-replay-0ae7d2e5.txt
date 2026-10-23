@@ -1,0 +1,5 @@
+// Infinite Health
+00DF-8BCF
+
+// Infinite Mutant Powers
+00DF-8CCF

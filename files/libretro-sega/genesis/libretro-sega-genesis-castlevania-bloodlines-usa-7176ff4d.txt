@@ -1,0 +1,628 @@
+// Infinite Continues
+FFFB0C:0003
+
+// Set Boss Health To Zero
+FFE8D4:0000
+
+// Invincibility
+FF9C84:0080
+
+// Max Power For Weapon
+FF90DE:0003
+
+// Attack Everything On Screen At Once
+FF90DE:0004
+
+// Switch F/X On For Levitate Jump
+FFB36E:00FE
+
+// Auto Selected Expert Game Level
+FFFB12:0003
+
+// Auto Selected 9 Lives
+FFFB14:0005
+
+// Invincibility
+B2XA-CA48
+
+// Enables Expert Difficulty During Gameplay, Not In The Options Screen
+9WET-BGK2
+ARET-AAB4
+
+// Enables Expert Difficulty In Option Screen
+AMNA-AN38
+
+// Enables 9 Lives In Option Screen
+AMNA-AN8G
+
+// John Starts Each Life With The Super Whip
+9XBA-BGJ8
+
+// Eric Always Has The Super Lance, Even If Hit By An Enemy
+9VWT-DGKT
+
+// Go into options and set BGM to 05 and SE to 073 to enable the original Castlevania music when you collect the super whip
+9XBA-BGJ8
+AHBA-AABA
+
+// Super High Jump
+AA9T-D2GJ
+
+// High Jump
+AA9T-CYRJ
+
+// Start with 7 lives (Do not change menu option)
+ARFA-ANAR
+
+// Start with 8 lives (Do not change menu option)
+ARFA-ARAR
+
+// Start with 9 lives (Do not change menu option)
+ARFA-ATAR
+
+// Start with 10 lives (Do not change menu option)
+ARFA-AWAR
+
+// Start with 11 lives (Do not change menu option)
+ARFA-BAAR
+
+// Start with 26 lives (Do not change menu option)
+ARFA-ALJR
+
+// Start with 51 lives (Do not change menu option)
+ARFA-BATR
+
+// Start with 76 lives (Do not change menu option)
+ARFA-BL2R
+
+// Start with 100 lives (Do not change menu option)
+ARFA-BXAR
+
+// Infinite lives
+AA0A-DA42
+
+// Protection from most hazards (Not falls)
+REST-C6XR
+
+// Start with 1 continue
+AE6T-ACCW
+
+// Start with 3 continues
+AN6T-AGCW
+
+// Start with 5 continues
+AY6T-ALCW
+
+// Start with 7 continues
+A66T-ARCW
+
+// Start with 9 continues
+BE6T-AWCW
+
+// Infinite Continues
+AXJA-AA5N
+
+// Always restart on the last level (even if you choose END)
+A26T-AA22
+
+// Red gems are worth 0
+AB5T-CAE2
+
+// Red gems worth 2
+AK5T-CAE2
+
+// Red gems worth 3
+AP5T-CAE2
+
+// Red gems worth 4
+AV5T-CAE2
+
+// Red gems worth 5
+AZ5T-CAE2
+
+// Red gems worth 10
+CB5T-CAE2
+
+// Red gems worth 20
+EB5T-CAE2
+
+// Red gems worth 30
+GB5T-CAE2
+
+// Blue gems worth 0
+AB6A-CAGJ
+
+// Blue gems worth 8
+BB6A-CAGJ
+
+// Blue gems worth 10
+CB6A-CAGJ
+
+// Blue gems worth 20
+EB6A-CAGJ
+
+// Blue gems worth 30
+GB6A-CAGJ
+
+// Blue gems worth 40
+JB6A-CAGJ
+
+// Blue gems worth 50
+LB6A-CAGJ
+
+// Weapon Power-ups Worth 2x As Much (Maximum normal level)
+JB7A-DJXA
+
+// Weapon Power-ups Instantly Take You To Maximum Level
+JB7A-DNXA
+
+// Don't lose super weapon when damaged
+ANXT-CAHY
+
+// Don't lose super items (seeker orb/super holy water) when damaged
+AJYA-CA32
+
+// Keep current item after dying
+AWEA-AA98
+
+// Keep current weapon level after dying
+AWET-AA2E
+
+// Keep current number of gems after dying
+AWET-AA5E
+
+// Begin each life with 8 gems
+BCET-BN30
+
+// Begin each life with 16 gems
+C4ET-BN30
+
+// Begin each life with 25 gems
+E0ET-BN30
+
+// Begin each life with 50 gems
+LCET-BN30
+
+// Begin each life with 75 gems
+R0ET-BN30
+
+// Begin each life with 99 gems
+XGET-BN30
+
+// Using holy water doesn't cost any gems
+AC6A-CAAW
+
+// Using holy water costs 2 gems
+AL6A-CAAW
+
+// Using axe doesn't cost any gems
+AG6A-CAAY
+
+// Using axe costs 2 gems
+AG6A-CEAY
+
+// Using boomerang doesn't cost any gems
+AC6A-CCAY
+
+// Using boomerang costs 2 gems
+AL6A-CCAY
+
+// Using stronger (Up+C) holy water doesn't cost any gems
+AW6A-CAA0
+
+// Using stronger axe doesn't cost any gems
+AC6A-CJA0
+
+// Using stronger boomerang doesn't cost any gems
+BC6A-CAA2
+
+// Using seeker orb costs 4 gems instead of 8
+AW6A-CJA2
+
+// Using seeker orb doesn't cost any gems
+AC6A-CJA2
+
+// Using super holy water costs 4 gems instead of 8
+AC6A-CJA4
+
+// Using super holy water doesn't cost any gems
+AC6A-CAA4
+
+// No items use up any gems when used
+RG5T-C6Z0
+
+// Start on level 1-2
+9T6T-BGJ2
+AE6T-AAA4
+
+// Start on level 1-3
+9T6T-BGJ2
+AJ6T-AAA4
+
+// Start on level 1-4
+9T6T-BGJ2
+AN6T-AAA4
+
+// Start on level 1-5
+9T6T-BGJ2
+A66T-AAA4
+
+// Start on level 1-6
+9T6T-BGJ2
+BA6T-AAA4
+
+// Start on level 1-6 Part 2
+9T6T-BGJ2
+GN6T-AAA4
+
+// Start on level 1-7
+9T6T-BGJ2
+BE6T-AAA4
+
+// Start on level 1-8
+9T6T-BGJ2
+BJ6T-AAA4
+
+// Start on level 1-9
+9T6T-BGJ2
+BN6T-AAA4
+
+// Start on level 1-10
+9T6T-BGJ2
+BT6T-AAA4
+
+// Start on level 1-11
+9T6T-BGJ2
+BY6T-AAA4
+
+// Start on level 2-1
+9T6T-BGJ2
+CE6T-AAA4
+
+// Start on level 2-2
+9T6T-BGJ2
+CJ6T-AAA4
+
+// Start on level 2-3
+9T6T-BGJ2
+CN6T-AAA4
+
+// Start on level 2-4
+9T6T-BGJ2
+CY6T-AAA4
+
+// Start on level 2-5
+9T6T-BGJ2
+C66T-AAA4
+
+// Start on level 2-6
+9T6T-BGJ2
+DE6T-AAA4
+
+// Start on level 2-7
+9T6T-BGJ2
+DA6T-AAA4
+
+// Start on level 3-1
+9T6T-BGJ2
+DJ6T-AAA4
+
+// Start on level 3-2
+9T6T-BGJ2
+DN6T-AAA4
+
+// Start on level 3-3
+9T6T-BGJ2
+D66T-AAA4
+
+// Start On Level 3-4
+9T6T-BGJ2
+GE6T-AAA4
+
+// Start on level 3-4 (Alternate Route)
+9T6T-BGJ2
+JA6T-AAA4
+
+// Start On Level 3-5
+9T6T-BGJ2
+DT6T-AAA4
+
+// Start on level 3-6
+9T6T-BGJ2
+GJ6T-AAA4
+
+// Start on level 3-7
+9T6T-BGJ2
+D26T-AAA4
+
+// Start on level 3-8
+9T6T-BGJ2
+ET6T-AAA4
+
+// Start on level 3-9
+9T6T-BGJ2
+DY6T-AAA4
+
+// Start on level 4-1
+9T6T-BGJ2
+EA6T-AAA4
+
+// Start On Level 4-2
+9T6T-BGJ2
+EE6T-AAA4
+
+// Start On Level 4-3
+9T6T-BGJ2
+EJ6T-AAA4
+
+// Start On Level 4-4
+9T6T-BGJ2
+EN6T-AAA4
+
+// Start on level 4-5
+9T6T-BGJ2
+FE6T-AAA4
+
+// Start on level 4-6
+9T6T-BGJ2
+FJ6T-AAA4
+
+// Start on level 4-7
+9T6T-BGJ2
+KA6T-AAA4
+
+// Start on level 4-8
+9T6T-BGJ2
+GY6T-AAA4
+
+// Start on level 4-9
+9T6T-BGJ2
+FT6T-AAA4
+
+// Start On Level 4-10
+9T6T-BGJ2
+FY6T-AAA4
+
+// Start on level 4-11
+9T6T-BGJ2
+F26T-AAA4
+
+// Start on level 5-1
+9T6T-BGJ2
+G26T-AAA4
+
+// Start on level 5-2
+9T6T-BGJ2
+G66T-AAA4
+
+// Start on level 5-3
+9T6T-BGJ2
+HA6T-AAA4
+
+// Start on level 5-4
+9T6T-BGJ2
+HE6T-AAA4
+
+// Start on level 5-5
+9T6T-BGJ2
+HT6T-AAA4
+
+// Start on level 5-6
+9T6T-BGJ2
+J66T-AAA4
+
+// Start on level 5-7
+9T6T-BGJ2
+H26T-AAA4
+
+// Start on level 5-8
+9T6T-BGJ2
+H66T-AAA4
+
+// Start on level 6-1
+9T6T-BGJ2
+JJ6T-AAA4
+
+// Start on level 6-2
+9T6T-BGJ2
+JN6T-AAA4
+
+// Start on level 6-3
+9T6T-BGJ2
+JY6T-AAA4
+
+// Start on level 6-4
+9T6T-BGJ2
+JT6T-AAA4
+
+// Start on level 6-5
+9T6T-BGJ2
+E66T-AAA4
+
+// Start on level 6-6
+9T6T-BGJ2
+C26T-AAA4
+
+// Start on level 6-7
+9T6T-BGJ2
+FA6T-AAA4
+
+// Start on level 6-8
+9T6T-BGJ2
+EY6T-AAA4
+
+// Start on level 6-9
+9T6T-BGJ2
+KY6T-AAA4
+
+// Start on level 6-10
+9T6T-BGJ2
+K26T-AAA4
+
+// Start on level 6-11
+9T6T-BGJ2
+GA6T-AAA4
+
+// Infinite Lives
+AT0A-CA5E
+
+// Infinite Energy
+ATST-CA6A
+
+// Infinite Jewels
+AW5T-CA72
+
+// Invincibility
+CJXA-CR5E
+
+// Infinite Lives
+FFFB2E:0002
+
+// Infinite Health
+FF9C10:007F
+
+// Infinite Jewels
+FFFB0E:9999
+
+// Area Modifier
+FFFB2A:0000
+
+// Start On Level 5-2 (Alternate Route)
+9T6T-BGJ2
+J26T-AAA4
+
+// Start Each Life With 3/4 Health
+HWET-AABT
+
+// Start Each Life With 1/2 Health
+FCET-AABT
+
+// Start Each Life With 1/4 Health
+CWET-AABT
+
+// Meat Power-Up Always Fully Heals
+0B8A-D960
+
+// Meat Power-Up Heals 3/4 Of Total Health
+2V8A-D960
+
+// Meat Power-Up Heals 1/4 Of Total Health
+7V8A-D960
+
+// Hit Anywhere
+AJYA-GA5G
+
+// Enable Expert And 9 Lives in Options
+RHNA-A6V8
+RHNA-A60G
+
+// Enable Expert And 9 Lives in Options
+FFFB20:0001
+FFFB20:0001
+
+// Jump Midair w/Slow Descent
+FF9EFC:0003
+
+// Walk Through Walls
+RZET-C6X4
+
+// Up and Over
+RZJA-C6WJ
+
+// Automatically enables Original Music cheat
+AACA-ALDL
+RNCA-AADN
+
+// Invincibility
+RYZA-G6TG
+RYLA-G6XR
+RY2T-C608
+
+// No Knockback From Getting Hit
+AAZA-CAF2
+JTYA-CAG8
+JTYA-CAHG
+
+// Take Less Damage
+JEST-DWXR
+
+// All Subweapon Pickups Are Level 1 Holy Water
+AGBA-DE7N
+
+// All Subweapon Pickups Are Level 1 Axes
+ALBA-DE7N
+
+// All Subweapon Pickups Are Level 1 Boomerangs
+ARBA-DE7N
+
+// All Subweapon Pickups Are Level 2 Holy Water
+AWBA-DE7N
+
+// All Subweapon Pickups Are Level 2 Axes
+A0BA-DE7N
+
+// All Subweapon Pickups Are Level 2 Boomerangs
+A4BA-DE7N
+
+// All Subweapon Pickups Are Level 3 Thunderbolts
+BCBA-DE7N
+
+// All Subweapon Pickups Are Level 3 Water Dragons
+A8BA-DE7N
+
+// Continue a Password Game With ?? Lives
+9VCT-BCRC
+AZCT-AAGE
+
+// Regional Lockout Bypass
+A2CT-AA44
+
+// Multi-Jump - John
+AYET-CAFT
+NAET-DRFW
+HAMT-LTDA
+ATMT-LADC
+NEMT-MBDE
+A2MT-LR5G
+9EMT-L6XJ
+AEMT-LADL
+NAMT-LYDN
+9EMT-L6XR
+AEMT-LADT
+9TMT-M2MW
+
+// Multi-Jump - Eric
+AYNT-CAHW
+RTNT-DRHY
+HAMT-LTDY
+ATMT-LAD0
+NEMT-MBD2
+A2MT-LR54
+9EMT-L6X6
+AEMT-LAD8
+WTMT-MYEA
+9EMT-L6YC
+AEMT-LAEE
+HAMT-LCYG
+
+// Level select
+DCET-B16A
+
+// Walking Into A Wall Will Automatically Teleport You To The Walkway Above
+BBLT-CA60
+BBLA-CA82
+
+// Whip Will Always Grab/Grapple On To Something Even If There's Nothing Above You
+E32A-CA9R
+
+// Skip quick demo is ON
+FFFB1C:0001
+
+// Disable music (could be better)
+FF4000:0001
+
+// No cooldown for special weapons
+FF9C1C:0000
+
+// Infinity time in main menu
+FF900E:0001

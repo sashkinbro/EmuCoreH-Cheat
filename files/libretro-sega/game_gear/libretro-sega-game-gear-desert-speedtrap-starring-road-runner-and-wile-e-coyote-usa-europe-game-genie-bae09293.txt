@@ -1,0 +1,57 @@
+// Infinite Hits
+212-39B-19D
+
+// 2 Energy Points Allowed For 1st Life Only
+014-74E-E66
+
+// 3 Energy Points Allowed For 1st Life Only
+024-74E-E66
+
+// 1 Energy Point Allowed For 1st Life Only
+004-74E-E66
+
+// 10 Energy Points Allowed For 1st Life Only (May Mess Up Energy Bar)
+094-74E-E66
+
+// Start With 2 Lives
+015-3AF-E62
+
+// Start With 6 Lives
+065-3AF-E62
+
+// Start With 9 Lives
+095-3AF-E62
+
+// Infinite Timer
+001-59B-A2A
+
+// Start With 1 Credit
+015-0FF-E66
+
+// Start With 5 Credits
+055-0FF-E66
+
+// Start With 7 Credits
+075-0FF-E66
+
+// Start With 9 Credits
+095-0FF-E66
+
+// Enemies Can't Hurt
+C31-A8B-E61
+
+// Start On Level 3
+035-0FF-E66
+325-13F-082
+
+// Start On Level 6
+065-0FF-E66
+325-13F-082
+
+// Start On Level 9
+095-0FF-E66
+325-13F-082
+
+// Start On Last Level
+0E5-0FF-E66
+325-13F-082

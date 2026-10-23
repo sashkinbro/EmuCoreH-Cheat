@@ -1,0 +1,15 @@
+// Infinite Time
+00D0-9059
+00D0-9109
+
+// Pause Enabler
+00D0-9301
+
+// Turn On To Rise To The Ceiling
+00D1-7E06
+
+// Invinicibility
+00D1-BD02
+
+// Can Open Cage
+00C7-6801

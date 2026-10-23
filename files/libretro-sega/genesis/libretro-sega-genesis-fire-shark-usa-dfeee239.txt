@@ -1,0 +1,153 @@
+// Invincibility
+FF044A:0000
+
+// Infinite Lives
+ATEA-AA5J
+
+// Infinite Bombs
+AK8T-AA4L
+
+// Play &quot;Same! Same! Same!&quot;
+MJGT-AR8N
+
+// Start With 5 Lives
+9TEA-BGKC
+AYEA-AABE
+
+// Start With 6 Lives
+9TEA-BGKC
+A2EA-AABE
+
+// Start With 7 Lives
+9TEA-BGKC
+A6EA-AABE
+
+// Start With 8 Lives
+9TEA-BGKC
+BAEA-AABE
+
+// Start With 9 Lives
+9TEA-BGKC
+BEEA-AABE
+
+// Start With 1 Bomb
+AFMT-AAEC
+
+// Start With 5 Bombs
+AZMT-AAEC
+
+// Start With 7 Bombs
+A7MT-AAEC
+
+// Start With 9 Bombs
+BFMT-AAEC
+
+// Start With 1 Bomb After Losing A Life
+AFMT-AACC
+
+// Start With 5 Bombs After Losing A Life
+AZMT-AACC
+
+// Start With 7 Bombs After Losing A Life
+A7MT-AACC
+
+// Start With 9 Bombs After Losing A Life
+BFMT-AACC
+
+// Start With 4 Credits
+ANEA-BE2A
+
+// Start With 8 Credits
+A6EA-BE2A
+
+// Start With 10 Credits
+BEEA-BE2A
+
+// Start With 26 Credits
+DEEA-BE2A
+
+// Start With 51 Credits
+GJEA-BE2A
+
+// Start With 100 Credits
+NNEA-BE2A
+
+// Infinite Credits
+ATFA-AA3R
+
+// Each Power-Up Item Is Worth 3X Normal
+LCGA-BNWY
+
+// Keep Regular Weapon Upgrade After You Lose A Life
+BBMT-AACA
+
+// Invincibility
+ACAA-AA3E
+
+// 1 Hit Kills Weaker Enemies
+ABXA-AA7Y
+
+// 1 Hit Kills Stronger Enemies
+RFZA-A6YW
+
+// Start With 9 Lives.
+BEHT-AAHC
+
+// Start With Max Speed
+C3MT-AAE2
+
+// Have Max Speed After You Lose a Life
+C3MT-AAC2
+
+// Start With Super Max Speed (Faster than what the game normally allows).
+DVMT-AAE2
+
+// Have Super Max Speed After You Lose a Life (Faster than what the game normally allows).
+DVMT-AAC2
+
+// Start With Ultra Max Speed (Much faster than what the game normally allows)
+E3MT-AAE2
+
+// Have Ultra Max Speed After You Lose a Life (Much faster than what the game normally allows).
+E3MT-AAC2
+
+// Start With Max Power
+APMT-AAEA
+
+// Have Max Power After You Lose a Life
+APMT-AACA
+
+// Enables &quot;Berserk&quot; mode.
+RFGA-A610
+
+// Super Berserk Mode
+RFGA-A610
+GBGA-AAH4
+
+// Ultra Berserk Mode
+RFGA-A610
+JBGA-AAH4
+
+// Pause The Game, Press Up, Then Unpause For Debug Menu
+AAFT-BE4G
+
+// Always Have Wide Shot Weapon
+HV3A-BAKN
+AB3A-AABR
+RF3A-A6VY
+HV3T-BAMG
+AB3T-AADJ
+
+// Always Have Shark Beam Weapon
+HV3A-BAKN
+BB3A-AABR
+RF3A-A6VY
+HV3T-BAMG
+BB3T-AADJ
+
+// Always Have Super Fire Weapon
+HV3A-BAKN
+CB3A-AABR
+RF3A-A6VY
+HV3T-BAMG
+CB3T-AADJ

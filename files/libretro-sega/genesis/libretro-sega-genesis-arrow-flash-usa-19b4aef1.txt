@@ -1,0 +1,144 @@
+// Start with 100 lives
+9WET-AGSG
+XLET-AAHJ
+
+// Start with 75 lives
+9WET-AGSG
+R0ET-AAHJ
+
+// Start with 50 lives
+9WET-AGSG
+LCET-AAHJ
+
+// Start with 25 lives
+9WET-AGSG
+E0ET-AAHJ
+
+// Start with 20 lives
+9WET-AGSG
+ECET-AAHJ
+
+// Start with 15 lives
+9WET-AGSG
+C0ET-AAHJ
+
+// Start with 10 lives
+9WET-AGSG
+CCET-AAHJ
+
+// Start with 2 lives
+9WET-AGSG
+ALET-AAHJ
+
+// Start with 1 life
+9WET-AGSG
+AGET-AAHJ
+
+// Infinite lives
+RFLT-A6WA
+
+// Invincibility
+ALGA-AA36
+
+// Start with 16 arrow force shots (no effect in charge mode)
+CCWT-AAGR
+
+// Start with 12 arrow force shots (no effect in charge mode)
+BWWT-AAGR
+
+// Start with 8 arrow force shots (no effect in charge mode)
+BCWT-AAGR
+
+// Start with 6 arrow force shots (no effect in charge mode)
+A4WT-AAGR
+
+// Start with 2 arrow force shots (no effect in charge mode)
+ALWT-AAGR
+
+// Start with 1 arrow force shots (no effect in charge mode)
+AGWT-AAGR
+
+// Start with no arrow force shots (no effect in charge mode)
+ACWT-AAGR
+
+// Infinite arrow force shots (no effect in charge mode)
+R07A-A6VT
+
+// Robot arrow flash lasts 2x as long as normal
+CG7A-BJV8
+
+// Robot arrow flash lasts 3x as long as normal
+CG7A-BNV8
+
+// Robot arrow flash lasts 4x as long as normal
+CG7A-BTV8
+
+// Robot arrow flash lasts 6x as long as normal
+CG7A-B2V8
+
+// Robot arrow flash lasts 8x as long as normal
+CG7A-BAV8
+
+// Start on stage 2
+AJCA-AAB2
+
+// Start on stage 3
+ANCA-AAB2
+
+// Start on stage 4
+ATCA-AAB2
+
+// Start on stage 5
+AYCA-AAB2
+
+// Infinite Lives
+FFC068:0003
+
+// Infinite Arrow Flashes
+FF3302:000F
+
+// Invincible against most enemies
+FF17D0:0002
+
+// Speed Modifier
+FF17C4:000A
+
+// Rapid-Fire Arrow Flashes, regular gun
+FF32CE:0004
+
+// Infinite Lives
+AVLT-AA4E
+
+// Infinite Af
+AW7A-AA3T
+
+// Invincibility
+ACGA-AN36
+ACGA-AR42
+
+// Ten Special Weapons Per Life
+BLWT-AAGR
+
+// Unlimited Special Weapons
+AW7A-AA3T
+
+// Unlimited Lives
+AVLT-AA4E
+
+// Invincibility
+FF1804:0010
+
+// Infinite Continue
+AKMT-AA40
+
+// 1 Shot Destroy All Enemies And Bosses
+A5LA-AA3C
+
+// Invincibility (Disable Hit Detection)
+R18A-A60L
+
+// Can Select 1 Through 8 Lives In Options
+RGSA-A60E
+AGSA-AAHA
+ACSA-AAGL
+BCSA-AAGW

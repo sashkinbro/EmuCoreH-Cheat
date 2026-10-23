@@ -1,0 +1,74 @@
+// Infinite Health
+FF81C8:0080
+
+// Infinite Lives
+FF81C2:0003
+
+// Infinite lives
+AMKT-AA70
+
+// Start with 9 lives
+BHFT-AADY
+
+// Infinite energy
+R1KA-A61L
+
+// Infinite ammo
+AM6T-AA6E
+
+// Weapon Modifier Slot 1
+FF812C:0001
+
+// Weapon Modifier Slot 2
+FF8134:0000
+
+// Weapon Modifier Slot 3
+FF813C:0000
+
+// Weapon Modifier Slot 4
+FF8144:0000
+
+// Weapon Modifier Slot 5
+FF814C:0000
+
+// Weapon Modifier Slot 6
+FF8154:0000
+
+// Weapon Modifier Slot 7
+FF815C:0000
+
+// Weapon Modifier Slot 8
+FF8164:0000
+
+// Weapon Modifier Slot 9
+FF816C:0000
+
+// Infinite Ammo Weapon 1
+FF812E:0015
+
+// Infinite Ammo Weapon 2
+FF8136:0015
+
+// Infinite Ammo Weapon 3
+FF813E:0015
+
+// Infinite Ammo Weapon 4
+FF8146:0015
+
+// Infinite Ammo Weapon 5
+FF814E:0015
+
+// Infinite Ammo Weapon 6
+FF8156:0015
+
+// Infinite Ammo Weapon 7
+FF815E:0015
+
+// Infinite Ammo Weapon 8
+FF8166:0015
+
+// Infinite Ammo Weapon 9
+FF816E:0015
+
+// Regional Lockout Bypass
+EAAT-AY1T

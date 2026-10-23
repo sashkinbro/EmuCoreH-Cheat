@@ -1,0 +1,58 @@
+// Infinite Double Jump P1
+FF8486:0000
+
+// Infinite Special Time [Toguro Ani]
+FF8448:0001
+
+// Special Skill Always Full Loaded P1 [Example: Reigun]
+FF847C:00FF
+
+// No Special P4
+FF90B8:0000
+
+// Infinite Special P4
+FF90B8:00DF
+
+// Infinite Health P4
+FF9078:00DF
+
+// Infinite Special P3
+FF8CB8:00DF
+
+// No Special P3
+FF8CB8:0000
+
+// Infinite Health P3
+FF8C78:00DF
+
+// No Special P2
+FF88B8:0000
+
+// Infinite Special P1
+FF84B8:00DF
+
+// Infinite Energy
+9TWT-BCCN
+96WT-AACR
+SEWT-AKCT
+
+// Player 1 Character Modifier
+FFA110:0000
+
+// Player 1 Costume Color Modifier
+FFA108:0000
+
+// Player 2 Costume Color Modifier
+FFA10A:0000
+
+// Stage Select Modifier
+FFA060:0000
+
+// Infinite Energy P1
+FF8478:00FF
+
+// Infinite Energy P2
+FF9078:00FF
+
+// Regional Lockout Bypass
+AA9T-AA8Y

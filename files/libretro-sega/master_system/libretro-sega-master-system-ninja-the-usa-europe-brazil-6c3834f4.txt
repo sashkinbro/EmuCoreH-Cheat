@@ -1,0 +1,17 @@
+// Invincibility
+00CE-A301
+
+// Invulnerability
+C92-18A-91D
+
+// Infinite Lives
+00CD-C009
+
+// Infinite Lives - Both Players
+3A9-4EC-2A2
+
+// Start with ?? Lives, instead of 2 - Both Players
+053-F9F-E62
+
+// Invincibility
+098-E7E-F7E

@@ -1,0 +1,133 @@
+// Don't get charged in shops (sugar, food, goods).
+ALKA-AA2N
+
+// Infinite energy during sword fights.
+AMEA-AA96
+
+// Infinite energy during sword fights, plus your opponent won't gain any energy when he hits you (this makes it much easier to win the fight).
+A5EA-AA96
+
+// Never age (your age and health will never change).
+AMYT-AA4J
+
+// Age is always 25 years old (and health is always fine).
+FF01E8:0000
+
+// When You Choose English Buccaneer As Your Nationality, You Will Start The Game With $5000 Gold! (Instead Of Only $2000 Gold)
+8VKA-JCC0
+
+// When You Choose English Buccaneer As Your Nationality, You Will Start The Game With $20,000 Gold! (Instead Of Only $2000 Gold)
+4BKA-JRC0
+
+// When You Choose English Buccaneer As Your Nationality, You Will Start The Game With $80,000 Gold! (Instead Of Only $2000 Gold)
+JBKA-K8C0
+
+// When You Choose English Buccaneer As Your Nationality, You Will Start The Game With 12 Cannons (Instead Of Only 8)
+AFKA-J2CY
+
+// When You Choose English Buccaneer As Your Nationality, You Will Start The Game With 20 Cannons (Instead Of Only 8)
+AFKA-KJCY
+
+// When You Choose English Buccaneer As Your Nationality, You Will Start The Game With 30 Crew Members (Instead of 40)
+D3KA-JACW
+
+// When You Choose English Buccaneer As Your Nationality, You Will Start The Game With 56 Crew Members (Instead Of Only 40)
+HBKA-JACW
+
+// When You Choose English Buccaneer As Your Nationality, You Will Start The Game With 250 Crew Members (Instead Of Only 40)
+9KKA-JACW
+
+// The Number of Cannons You Have Doesn't Decrease When You Try To Sell Them At Seaside Towns
+AJ1A-AA84
+
+// Don't Lose Any Crew Members When You Have Sword Fights (Although You Can Still Lose The Duel)
+AMRA-AA2J
+
+// Enemy Cannons Can Only Shoot At You Once During A Battle
+RG6A-C6VA
+
+// Historical Period Modifier
+FFFF18:0000
+
+// Nationality Modifier
+FFFFAE:0000
+
+// Infinite Health While Sword Fighting
+FF12FA:0024
+
+// Almost No Health For Enemy While Sword Fighting
+FF69BE:0001
+
+// Max Crew Members
+FF01C4:00FF
+
+// Cannons Reload Much Faster During Sea Battles
+FFFF40:0000
+
+// Infinite Food
+FF01CA:00FF
+
+// Cannons/Food Modifier (On Ship)
+FFFE04:0000
+
+// Always Have Empty Space (On Ship)
+FFFE08:0000
+
+// Have Lots of Money
+FF01E0:00FF
+
+// Have Money Maxed Out
+FF01E0:00FF
+FF01E0:00FF
+
+// Fake No Allies CPU
+FF12F4:00FF
+
+// Fake Max Allies P1
+FF12F6:00FF
+
+// 1 Hit Kills Enemy Pirate
+FF69DE:0000
+
+// Item Merchant Has Lots of Money
+FFFE1C:00FF
+
+// Item Merchant Has Maxed Out Money
+FFFE1C:00FF
+FFFE1C:00FF
+
+// Have Lots of Free Space (In Merchant Shop)
+FFFE38:00FF
+
+// Free Space Increases When You Trade (In Item Merchant Shop)
+FFFE38:00FF
+FFFE3A:00FF
+
+// Item Merchant Has Max Sugar
+FFFF20:00FF
+
+// Have Lots of Food (Works For Both Yourself And Merchant)
+FFFE58:00FF
+
+// Have Max Goods
+FFFE5A:00FF
+
+// Item Merchant Has Max Goods
+FFFF24:00FF
+
+// Merchant Always Has 9 Cannons (In Ship Merchant Area)
+FF01C6:0009
+
+// Always Have 9 Cannons (In Ship Merchant Area)
+FF01C8:0009
+
+// Have Lots of Money ($99,990)
+FF01E0:270F
+
+// Your ship always sails faster on map
+CLXA-CA2Y
+ECXA-DA3J
+
+// Your ship always sails much faster on map
+CLXA-CA2Y
+G4XA-DA3J

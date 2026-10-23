@@ -1,0 +1,37 @@
+// Infinite Credits
+00C0-C109
+
+// Infinite Time
+00C0-B49A
+
+// Infinite Time
+00C-38B-E6E
+
+// Infinite Credits
+008-C38-3BE
+
+// P1 Infinite Health
+00DB-3B40
+
+// P1 No Health
+00DB-3B01
+
+// P2 Infinite Health
+00DB-B340
+
+// P2 No Health
+00DB-B301
+
+// Freeze Timer
+00C0-B500
+
+// P1 Character Modifier
+00DB-0600
+00DB-0700
+
+// P2 Character Modifier
+00DB-7E00
+00DB-7F00
+
+// Stage Modifier
+00C0-AF00

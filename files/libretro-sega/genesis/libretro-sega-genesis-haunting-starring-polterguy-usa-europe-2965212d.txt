@@ -1,0 +1,37 @@
+// Infinite Plasma
+9V9A-DCL6
+KK9A-CAC8
+EV9A-C9MA
+
+// Infinite Plasma
+FFAF24:004A
+
+// Infinite Energy
+AM2A-AA9W
+
+// Infinite Ecto
+SD3A-AND6
+EM3A-A9NA
+
+// Infinite Energy Bar/Time
+FFAF24:0045
+
+// Infinite Plasma In One Code
+AM1A-AA4J
+
+// Have all spells (Only tested on Gens)
+FFAF0E:00DF
+
+// Always have all spells, and infinite use of them
+9V9A-DCC6
+579A-CAC8
+B39A-C9MA
+
+// Have infinite use of all spells, even if they're greyed out
+RG2T-A61W
+
+// Start a new game with all 5 spells
+MF6A-AABT
+
+// Spells (letters) stay longer before they disappear (5 seconds instead of 2 seconds)
+BECA-7732

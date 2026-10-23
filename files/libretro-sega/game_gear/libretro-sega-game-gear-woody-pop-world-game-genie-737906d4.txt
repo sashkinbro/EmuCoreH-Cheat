@@ -1,0 +1,11 @@
+// Infinite Balls
+009-3FE-E6D
+
+// Start With 15 Balls
+0F7-16F-E66
+
+// Start With 7 Balls
+077-16F-E66
+
+// Start With 1 Ball
+017-16F-E66

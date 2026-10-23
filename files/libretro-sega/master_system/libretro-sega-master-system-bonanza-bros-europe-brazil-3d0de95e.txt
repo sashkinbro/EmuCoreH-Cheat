@@ -1,0 +1,39 @@
+// Infinite Lives
+00C4-E10A
+
+// Infinite Time - One's Digit
+00C5-8509
+
+// Infinite Time - Ten's Digit
+00C5-8609
+
+// Infinite Time - Hundred's Digit
+00C5-8709
+
+// Infinite Continues (Credits)
+00C4-E209
+
+// Infinite Lives
+B65-E8D-3BE
+
+// Freeze Timer
+00C5-843C
+
+// Enable Stage Select in Options Menu
+00C4-1EFF
+
+// Invincibility (blinking) (after dying)
+3A6-D5D-2A2
+
+// Infinite Continues
+00B-26B-3BE
+
+// Infinite Time
+B6A-53B-3BE
+
+// Invulnerability (Blinking)
+CD6-B4D-F79
+
+// Stage Select Unlocked In Options Menu
+180-717-6EA
+181-0E7-6EA

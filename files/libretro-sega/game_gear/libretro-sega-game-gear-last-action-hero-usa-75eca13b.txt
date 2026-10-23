@@ -1,0 +1,61 @@
+// Infinite Energy
+00C1-3509
+
+// Invincible
+00C1-CB03
+
+// 0 Tickets
+00C1-3100
+
+// Invincibility
+C92-1DC-C49
+227-40E-082
+C97-44E-C49
+
+// Start on Scene Modifier
+001-20F-E6E
+
+// Start With 1 Life
+011-25F-E66
+
+// Start With 5 Lives
+051-25F-E66
+
+// Start With 9 Lives
+091-25F-E66
+
+// Start With 1 Heart
+011-2AF-F76
+
+// Start With 5 Hearts
+051-2AF-F76
+
+// Start With 9 Hearts
+091-2AF-F76
+
+// Infinite lives
+00DF-2AF3
+
+// Collect 1 token to get fire extinguisher
+AFE-9CF-19E
+
+// Infinite timer
+3A1-B1F-2A2
+
+// Start On Scene 3
+031-20F-E6E
+
+// Start On Scene 5
+051-20F-E6E
+
+// Start On Scene 7
+071-20F-E6E
+
+// Infinite Health
+007-2AE-19E
+
+// Don't Blink From Taking Damage
+007-4EE-19E
+
+// Invulnerability
+C97-0EE-E69

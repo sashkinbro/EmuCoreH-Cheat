@@ -1,0 +1,29 @@
+// Infinite Fuel
+ACRA-AABY
+
+// Your Tank Has Complete Protection From Damage
+ACSA-AAGL
+
+// Infinite 120mm Ammo
+AC0A-AAD6
+
+// Infinite Laser Ammo
+AC0T-AABR
+
+// Infinite Smoke Ammo
+AC0T-AAHE
+
+// Infinite 7.62mm Ammo
+AC1A-AAF8
+
+// You Can Use The Scope An Infinite Number Of Times [Once You Have It]
+AC1T-AAC8
+
+// Infinite 120mm
+FFC3EE:0099
+
+// Infinite Laser
+FFC3F2:0099
+
+// Infinite Smoke
+FFC3F6:0099

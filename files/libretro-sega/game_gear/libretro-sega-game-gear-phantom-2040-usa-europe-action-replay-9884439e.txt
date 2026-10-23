@@ -1,0 +1,5 @@
+// Infinite Blue Missiles
+00CF-8A09
+
+// Infinite Health
+00D7-BE40

@@ -1,0 +1,29 @@
+// Infinite Lives
+00D5-1303
+
+// Infinite Papers
+00D5-140C
+
+// Start with 2 lives
+012-3CF-E66
+
+// Start with 7 lives
+062-3CF-E66
+
+// Start with 10 lives
+092-3CF-E66
+
+// Infinite lives
+00C-57F-19E
+
+// Start with 5 papers
+052-41F-C42
+
+// Start with 15 papers
+0F2-41F-C42
+
+// Start with 20 papers
+142-41F-C42
+
+// Infinite papers
+00C-6C9-19E

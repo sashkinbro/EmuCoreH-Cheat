@@ -1,0 +1,8 @@
+// P1 High Score - One's Digit
+00DC-C709
+
+// P1 High Score - Hundred's Digit
+00DC-C601
+
+// P1 High Score - Ten-Thousand's Digit
+00DC-C507

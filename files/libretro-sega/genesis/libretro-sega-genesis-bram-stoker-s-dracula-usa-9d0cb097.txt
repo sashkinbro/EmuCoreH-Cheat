@@ -1,0 +1,145 @@
+// Infinite Lives
+FF0978:0005
+
+// Infinite Energy
+FF096E:0003
+
+// Invincibility
+FF0A68:000E
+
+// Start A New Game On Level 2
+AE3T-EAAG
+
+// Start A New Game On Level 3
+AJ3T-EAAG
+
+// Start A New Game On Level 4
+AN3T-EAAG
+
+// Start A New Game On Level 5
+AT3T-EAAG
+
+// Start A New Game On Level 6
+AY3T-EAAG
+
+// Start A New Game On Level 7
+A23T-EAAG
+
+// Start A New Game On Level 8
+A63T-EAAG
+
+// Start A New Game On Level 9
+BA3T-EAAG
+
+// Start A New Game On Level 10
+BE3T-EAAG
+
+// Start A New Game On Level 11
+BJ3T-EAAG
+
+// Start A New Game On Level 12
+BN3T-EAAG
+
+// Start A New Game On Level 13
+BT3T-EAAG
+
+// Start A New Game On Level 14
+BY3T-EAAG
+
+// Start A New Game On Level 15
+B23T-EAAG
+
+// Start A New Game On Level 16
+B63T-EAAG
+
+// Invincibility
+AX9A-CA2E
+
+// Infinite Lives
+AT5T-EA52
+
+// Get 20 Special Weapons On Pick-Up
+CTYT-EAGE
+
+// Get 99 Special Weapons On Pick-Up
+NNYT-EAGE
+
+// Bosses Are Much Easier To Beat
+SFVA-FCVY
+SFVA-FCVR
+
+// High moon jump
+AC9A-CJKY
+
+// Super high moon jump
+AC9A-DTBY
+
+// 1 Hit And 1 Shot Kill Bosses
+ABVA-EABY
+
+// 1 Hit And 1 Shot Kill Bosses
+FF49D0:0090
+
+// Infinite Energy
+AXLA-CA3R
+AXLA-CA58
+AXAT-AA4J
+AXPT-AA7J
+AXAT-AA52
+ATYA-CA52
+AT5T-CA5W
+AT5T-CA9T
+AVBT-CA76
+AVJA-CA64
+AVHT-CA9E
+AWHT-CA52
+AVYT-CA6R
+AVTT-CA60
+AVLA-CA26
+AV5T-CA7T
+
+// Untouchable
+R1KT-C6YT
+R1AT-A6V6
+R1PT-A6Y4
+RYYA-C6X2
+RY5T-C6XW
+RY5T-C61T
+RZBT-C6Z6
+RZJA-C6YR
+RZHT-C61E
+R0HT-C6X2
+RZYT-C6YR
+R1AT-A6XY
+RZTT-C6YN
+RZLA-C6T6
+RZ5T-C6ZT
+
+// Infinite Weapons
+AVHA-EA8G
+AVFT-EA8T
+AVFT-EA5T
+AVHT-EA7T
+AVJA-EA6Y
+AVLA-EA32
+
+// Level Select in pause press UP. See Note
+FF097C:0001
+
+// Level Select in pause press UP
+AJ9A-EA6T
+
+// Once hit your untouchable
+AD9A-CAAG
+
+// Invincibility
+AD9A-CAAW
+
+// Jump different
+AD9A-CADC
+
+// High jump
+AC9A-CAKY
+
+// Infinite Continue
+AT8T-EA7L

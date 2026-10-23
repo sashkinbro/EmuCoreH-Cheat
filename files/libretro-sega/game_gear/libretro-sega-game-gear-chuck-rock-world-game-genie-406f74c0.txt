@@ -1,0 +1,23 @@
+// Start With 1 Life
+008-52E-E66
+
+// Start With 2 Lives
+018-52E-E66
+
+// Start With 6 Lives
+058-52E-E66
+
+// Start With Mega Energy (1st Life)
+88A-5CE-F72
+
+// Start On Level 2
+02E-EBF-E6A
+
+// Start On Level 3
+03E-EBF-E6A
+
+// Start On Level 4
+04E-EBF-E6A
+
+// Start With Lots Of Lives (Ignore Counter)
+3AB-0EE-19D

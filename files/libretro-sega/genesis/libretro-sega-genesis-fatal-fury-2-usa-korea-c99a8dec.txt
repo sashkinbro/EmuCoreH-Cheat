@@ -1,0 +1,198 @@
+// Infinite credits
+ATTT-CA4Y
+
+// Player 1's health starts at 1% (1P and VS games)
+AG3A-AAD2
+
+// Player 1's health starts at 25% (1P and VS games)
+DC3A-AAD2
+
+// Player 1's health starts at 50% (1P and VS games)
+GC3A-AAD2
+
+// Player 1's health starts at 75% (1P and VS games)
+KC3A-AAD2
+
+// Player 1's health starts at 132% (1P and VS games)
+S83A-AAD2
+
+// Player 2's health starts at 1% (1P and VS games)
+AG3A-AAEJ
+
+// Player 2's health starts at 25% (1P and VS games)
+DC3A-AAEJ
+
+// Player 2's health starts at 50% (1P and VS games)
+GC3A-AAEJ
+
+// Player 2's health starts at 75% (1P and VS games)
+KC3A-AAEJ
+
+// Player 2's health starts at 132% (1P and VS games)
+S83A-AAEJ
+
+// Player 1's health starts at 1% (Survival games)
+AG3A-AABL
+AG2T-AAGN
+
+// Player 1's health starts at 25% (Survival games)
+DC3A-AABL
+DC2T-AAGN
+
+// Player 1's health starts at 50% (Survival games)
+GC3A-AABL
+GC2T-AAGN
+
+// Player 1's health starts at 75% (Survival games)
+KC3A-AABL
+KC2T-AAGN
+
+// Player 1's health starts at 132% (Survival games)
+S83A-AABL
+S82T-AAGN
+
+// Player 2's health starts at 1% (Survival games)
+AG3A-AACY
+AG2T-AAG6
+
+// Player 2's health starts at 25% (Survival games)
+DC3A-AACY
+DC2T-AAG6
+
+// Player 2's health starts at 50% (Survival games)
+GC3A-AACY
+GC2T-AAG6
+
+// Player 2's health starts at 75% (Survival games)
+KC3A-AACY
+KC2T-AAG6
+
+// Player 2's health starts at 132% (Survival games)
+S83A-AACY
+S82T-AAG6
+
+// Player 1 needs 1 victory for a win (1P games only)
+AG3A-AAGA
+
+// Player 1 needs 3 victories for a win (1P games only)
+AR3A-AAGA
+
+// Player 1 needs 4 victories for a win (1P games only)
+AW3A-AAGA
+
+// Player 1 needs 5 victories for a win (1P games only)
+A03A-AAGA
+
+// Player 2 needs 1 victories for a win (1P games only)
+AG3A-AAGE
+
+// Player 2 needs 3 victories for a win (1P games only)
+AR3A-AAGE
+
+// Player 2 needs 4 victories for a win (1P games only)
+AW3A-AAGE
+
+// Player 2 needs 5 victories for a win (1P games only)
+A03A-AAGE
+
+// Infinite Energy
+9TNT-BCEJ
+NANT-AAEL
+CENT-B5YN
+
+// Enable Bosses To Select
+ACEA-AR2R
+
+// Turbo Buttons
+AANA-AFZC
+
+// Enable Dipswitches
+9T2A-BGBC
+YA2A-AABE
+
+// Faster Charaters
+HXFT-DEAN
+ADFT-CAAR
+
+// Partial Invincibility
+9V8T-DCG2
+HB8T-C106
+
+// Hit Anywhere P1
+AMJA-AA8R
+AMKA-AA60
+
+// Hit Anywhere P2
+AMJT-AA36
+AMJT-AA74
+
+// Invincibility P1
+ADJT-AA36
+ADJT-AA74
+
+// Invincibility P2
+ADJA-AA8R
+ADKA-AA60
+
+// Player 1's Health Starts At 1% In Survival Games
+AG3A-AABL
+AG2T-AAGN
+
+// Player 1's Health Starts At 25% In Survival Games
+DC3A-AABL
+DC2T-AAGN
+
+// Player 1's Health Starts At 50% In Survival Games
+GC3A-AABL
+GC2T-AAGN
+
+// Player 1's Health Starts At 75% In Survival Games
+KC3A-AABL
+KC2T-AAGN
+
+// Player 1's Health Starts At 132% In Survival Games (Ignore Energy Bar)
+S83A-AABL
+S82T-AAGN
+
+// Player 2's Health Starts At 1% In Survival Games
+AG3A-AACY
+AG2T-AAG6
+
+// Player 2's Health Starts At 25% In Survival Games
+DC3A-AACY
+DC2T-AAG6
+
+// Player 2's Health Starts At 50% In Survival Games
+GC3A-AACY
+GC2T-AAG6
+
+// Player 2's Health Starts At 75% In Survival Games
+KC3A-AACY
+KC2T-AAG6
+
+// Player 2's Health Starts At 132% In Survival Games
+S83A-AACY
+S82T-AAG6
+
+// Infinite Energy P1
+FFDD10:0060
+
+// Infinite Energy P2
+FFDF10:0060
+
+// Win One Round To Win Battle P1
+FFDCBA:0002
+
+// Win One Round To Win Battle P2
+FFDEBA:0002
+
+// P1 Modifier
+FFDC04:000C
+FFDC74:000C
+
+// P2 Modifier
+FFDE04:0000
+FFDE74:0000
+
+// Infinite Time
+FF019E:0099

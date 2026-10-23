@@ -1,0 +1,29 @@
+// Infinite Health
+00C3-9603
+
+// Infinite Time
+00C7-B909
+
+// Infinite Continues
+00C3-9C0A
+
+// Invulnerability
+00C8-1DFF
+
+// Only 1 Person Left To Feed
+00D1-5B01
+
+// Invulnerability
+C9E-FBB-E69
+
+// Infinite Lives
+000-5EC-3BE
+
+// Feed One Person To Win The Stage
+006-1A8-E69
+
+// Infinite Time
+00B-D7F-19E
+
+// Infinite Continues
+006-B0F-3BE

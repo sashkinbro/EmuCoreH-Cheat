@@ -1,0 +1,12 @@
+// Unlimited Lives
+FFF62E:000C
+FFF776:0000
+FFF628:0002
+FFF7C2:0028
+FFF62A:0008
+
+// Invincibility
+ADHA-AN8T
+
+// Power Never Goes Down
+AVLA-AA5N

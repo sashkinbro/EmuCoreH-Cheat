@@ -1,0 +1,68 @@
+// Infinite Hit Points
+214-EBA-6E2
+
+// Start With 75 Hit Points
+4BF-FAF-7FB
+
+// Start With 150 Hit Points
+96F-FAF-7FB
+
+// Start With 125 Hit Points
+7DF-FAF-7FB
+
+// Start With 50 Food
+50F-F5F-2AA
+
+// Start With 75 Food
+75F-F5F-2AA
+
+// Start With Maximum Food (99)
+99F-F5F-2AA
+
+// Infinite Food
+3AE-FBD-2A2
+
+// Start On Floor 2 As Ranger
+02F-EDF-E6E
+
+// Start On Floor 3 As Soldier
+03F-EDF-E6E
+
+// Start On Floor 4 As Warrior
+04F-EDF-E6E
+
+// Start On Floor 5 As Fighter
+05F-EDF-E6E
+
+// Start On Floor 6 As Swordsman
+06F-EDF-E6E
+
+// Start On Floor 7 As Veteran
+07F-EDF-E6E
+
+// Start On Floor 8 As Knight
+08F-EDF-E6E
+
+// Start On Floor 9 As Champion
+09F-EDF-E6E
+
+// Start On Floor 10 As Hero
+0AF-EDF-E6E
+
+// Start On Floor 11 As Master
+0BF-EDF-E6E
+
+// Start On Floor 12 As Paladin
+0CF-EDF-E6E
+
+// Start On Floor 13 As Warlord
+0DF-EDF-E6E
+
+// Start On Floor 14 As Dragon Lord
+0EF-EDF-E6E
+
+// Start On Floor 15 As Avatar
+0FF-EDF-E6E
+
+// Start On Floor 16 As Master Lord
+10F-EDF-E6E

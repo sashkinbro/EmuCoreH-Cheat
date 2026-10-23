@@ -1,0 +1,17 @@
+// All Abilities
+FF12DA:01FF
+
+// Super high jump for pocahontas (when standing still)
+AC0A-HAAW
+
+// Groovy Graphics
+FF1188:00CE
+
+// High jump for Pocahontas (when standing still)
+AC0A-HAAW
+
+// High jump for Meeko the raccoon (when standing still)
+AB3T-MAM8
+
+// Super high jump for Meeko the raccoon (when standing still)
+AB3T-MLD8

@@ -1,0 +1,29 @@
+// Infinite Health
+00C5-3E04
+
+// Infinite Lives
+00C5-3D03
+
+// Invulnerability (Blinking)
+00C5-D2FF
+
+// Cheat Mode
+00C5-2001
+
+// Invulnerability
+00C5-2201
+
+// Cheat Mode
+CD2-3FA-F79
+
+// Infinite Health
+00A-F5E-19E
+
+// Invulnerability
+C99-57E-E69
+
+// Invulnerable To Water & Spikes
+C39-95E-E61
+
+// Invulnerable To Enemies
+C3A-8EE-E61

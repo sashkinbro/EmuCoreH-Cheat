@@ -1,0 +1,89 @@
+// Regional Lockout Bypass
+RYXT-A6XL
+
+// Infinite Lives
+ATJT-EA4Y
+
+// Infinite Energy
+AXLA-CA2N
+
+// Invincibility
+A5YT-CN3E
+
+// Infinite Health
+8RDA-AAD8
+
+// Start With 99 Lives
+XGDA-AADY
+
+// Stage Modifier
+FFF9AA:0000
+
+// Infinite Lives
+FFFD44:0063
+
+// Infinite Health
+FFFD46:0009
+
+// Always Have Aerial Supercharge Attack (Not Visible, No Sound)
+FFF302:2079
+FFF47E:00B0
+FFFA30:0004
+
+// Walk thru walls/blocks, etc.
+ADGT-AA6L
+
+// Jump in mid-air (multi-jump)
+RHMA-C6VG
+
+// High moon jump
+AAAA-EJPE
+
+// Super high moon jump
+AAAA-FJFE
+
+// Less gravity when falling (can use with jump codes for slower descent)
+AJAA-EAFN
+
+// Much less gravity when falling (can use with jump codes for super slow descent)
+AEAA-EAFN
+
+// Freeze Time Continue
+FFF804:0009
+
+// Infinite Continue
+AWEA-AA7W
+
+// Freeze Time
+FFFAD0:0059
+
+// Invincibility
+R1AT-C6XJ
+R1AT-C60C
+
+// Infinite Voltteccer once you have it
+A2DA-EA7A
+
+// Pulseman accelerates much faster
+REGA-E6VW
+
+// Pulseman accelerates instantly
+BJGA-EA3J
+
+// Enable level select in the Option menu
+C2VT-AA44
+
+// Bonus stages start with more time
+TAVA-EACJ
+
+// Bonus stages have infinite time
+REYA-E6Y6
+
+// Keep your power-ups when you change screens/areas
+ATDA-EA94
+
+// Start with 9 Lives
+BGDA-AADY
+
+// Start with 9 Credits
+BEXA-AABL

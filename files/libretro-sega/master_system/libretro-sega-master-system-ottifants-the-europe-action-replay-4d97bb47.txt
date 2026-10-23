@@ -1,0 +1,8 @@
+// Infinite Lives
+00D1-2109
+
+// Infinite Health
+00CE-D76F
+
+// FAKE Infinite Health
+00D7-D306

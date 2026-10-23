@@ -1,0 +1,101 @@
+// Player 1 Starts A New Game With $300,000 [Instead Of $100,000]
+APWA-AAAE
+
+// Player 1 Starts A New Game With $900,000 [Instead Of $100,000]
+BFWA-AAAE
+
+// Player 1 Starts A New Game With $2,000,000 [Instead Of $100,000]
+CVWA-AAAE
+
+// Player 1 Only Has To Do 2 Laps To Finish The Race, But All The Other Cars Have To Do 4 Laps To Finish
+AECA-AGGL
+
+// Player 1 Only Has To Do 1 Lap To Finish The Race, But All The Other Cars Have To Do 4 Laps To Finish
+AECA-AJGL
+
+// Start On Track 5
+AVET-AAHC
+
+// Start On Track 10
+BFET-AAHC
+
+// Start On Track 15
+B3ET-AAHC
+
+// Infinite Nitros P1
+AJ4T-AA32
+
+// Infinite Money (Hundred Thousands Digit)
+FF084E:0009
+
+// Infinite Money (Ten Thousands Digit)
+FF0850:0009
+
+// Infinite Money (Thousands Digit)
+FF0850:0009
+
+// Infinite Money (Hundreds Digit)
+FF0852:0009
+
+// Infinite Nitros
+FF0CEA:0099
+
+// Have Best Engines
+FF0CEE:0006
+
+// Have Best Tires
+FF0CF2:0006
+
+// Have Best Speed Gauge
+FF0CF6:0006
+
+// Have Best Shocks
+FF0CFA:0006
+
+// Infinite Money (Hundred Thousands Digit)
+FF0854:0009
+
+// Infinite Money (Ten Thousands Digit)
+FF0856:0009
+
+// Infinite Money (Thousands Digit)
+FF0856:0009
+
+// Infinite Money (Hundreds Digit)
+FF0858:0009
+
+// Infinite Nitros
+FF0CEA:0099
+
+// Have Best Engines
+FF0CEE:0006
+
+// Have Best Tires
+FF0CF2:0006
+
+// Have Best Speed Gauge
+FF0CF6:0006
+
+// Have Best Shocks
+FF0CFA:0006
+
+// Blue Car Has No Nitros
+FF0CEA:0000
+
+// Orange Car Has No Nitros
+FF0CEC:0000
+
+// Grey Car Has No Nitros
+FF0CEC:0000
+
+// Infinite Money (Both Players)
+AK6A-AA7J
+
+// P2 Start With $300,000 Instead Of $100,000
+APWT-AAF6
+
+// P2 Start With $900,000
+BFWT-AAF6
+
+// P2 Start With $2,000,000
+CVWT-AAF6

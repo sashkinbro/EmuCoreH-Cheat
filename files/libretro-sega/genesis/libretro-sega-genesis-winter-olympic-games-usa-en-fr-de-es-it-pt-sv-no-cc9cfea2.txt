@@ -1,0 +1,11 @@
+// Stops The Timer For Player 1 In The Mogul Event
+AMPA-EA50
+
+// Timer Runs At Half Speed On Downhill, Super G, Giant Slalom, And Slalom Events
+SHCT-FE16
+
+// Stops The Timer On Downhill, Super G, Giant Slalom, And Slalom Events
+AXCT-EA96
+
+// Infinite Ammo (Biathlon)
+FFE65E:0009

@@ -1,0 +1,47 @@
+// Always Have 99 Gold
+00C0-B999
+
+// Invincibility
+00C0-BC14
+
+// Infinite Revival Potions
+00C1-AB04
+
+// Mega Jumps
+00C1-C301
+
+// Infinite Money
+00C0-BA44
+
+// Start With The Sword
+00C2-5400
+
+// Start With The Shield
+00C1-A102
+
+// Start With The Gauntlet
+00C1-A302
+
+// Start With The Helmet
+00C1-A502
+
+// Start With The Wing Boots
+00C1-A702
+
+// Start With The Key
+00C1-BF03
+
+// Legendary Sword (When You Pick Up 1st Sword)
+00C1-A204
+
+// Legendary Armor
+00C1-A005
+
+// Start With The Bell
+00C1-EC05
+
+// Wonderboy Is Invulnerable
+00C1-C101
+
+// Wonderboy Starts With Maximum Hearts
+00C0-BD0A

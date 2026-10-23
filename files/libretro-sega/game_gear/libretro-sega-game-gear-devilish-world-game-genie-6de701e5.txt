@@ -1,0 +1,44 @@
+// Infinite Balls
+00C-EDA-19E
+
+// Infinite Credits
+3A3-A6E-2A2
+
+// Start With 2 Balls
+011-76D-E62
+
+// Start With 7 Balls
+061-76D-E62
+
+// Start With 9 Balls
+081-76D-E62
+
+// Start With 2 Credits
+012-9AE-E62
+
+// Start With 6 Credits
+052-9AE-E62
+
+// Start With 8 Credits
+072-9AE-E62
+
+// Start On Stage 2 - Under Passage
+022-E2E-E6E
+
+// Start On Stage 3 - Waterfalls
+032-E2E-E6E
+
+// Start On Stage 4 - Old Castle
+042-E2E-E6E
+
+// Start On Stage 5 - Prairie
+052-E2E-E6E
+
+// Start On Stage 6 - Volcano
+062-E2E-E6E
+
+// Start On Stage 7 - World of Ice
+072-E2E-E6E
+
+// Start On Stage 8 - Evil Temple
+082-E2E-E6E

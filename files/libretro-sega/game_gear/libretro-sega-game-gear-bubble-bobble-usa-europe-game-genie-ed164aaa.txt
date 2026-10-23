@@ -1,0 +1,15 @@
+// Start With 1 Life
+01F-0BE-F72
+
+// Start With 9 Lives
+09F-0BE-F72
+
+// Start With 15 Lives
+0FF-0BE-F72
+
+// Start With Letters "X" & "T"
+00F-12E-5D4
+
+// Almost Invincible
+FF0-4B7-E6A
+FF9-607-E6A

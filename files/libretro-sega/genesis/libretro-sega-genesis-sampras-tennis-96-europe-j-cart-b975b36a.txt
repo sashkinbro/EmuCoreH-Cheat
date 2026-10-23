@@ -1,0 +1,20 @@
+// Cpu Never Scores
+9WTT-BGBC
+ACTT-AABE
+98TT-AABG
+BRTT-AYKJ
+
+// Opponent Score Modifier (CPU/P2)
+FF2A0A:0000
+
+// Character Modifier P1
+FF2816:0000
+
+// Character Modifier P2
+FF28AA:0000
+
+// Court Modifier
+FF7738:0000
+
+// Robot (fastest player in the game) is available in the character select menu. See notes.
+AEKT-AAC0

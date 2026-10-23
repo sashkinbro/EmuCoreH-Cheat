@@ -1,0 +1,39 @@
+// Infinite Lives
+00F-D2E-3BE
+
+// Infinite Ammo (All Weapons)
+001-8EE-19E
+
+// Start On Level 2
+7F2-38D-911
+7B2-3CD-197
+012-33D-E66
+
+// Start On Level 3
+7F2-38D-911
+7B2-3CD-197
+022-33D-E66
+
+// Start On Level 4
+7F2-38D-911
+7B2-3CD-197
+
+// Start On Level 5
+7F2-38D-911
+7B2-3CD-197
+042-33D-E66
+
+// Start On Level 6
+7F2-38D-911
+7B2-3CD-197
+052-33D-E66
+
+// Start On Level 7
+7F2-38D-911
+7B2-3CD-197
+062-33D-E66
+
+// See End Credits
+7F2-38D-911
+7B2-3CD-197
+072-33D-E66

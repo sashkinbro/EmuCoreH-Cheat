@@ -1,0 +1,5 @@
+// Infinite Time
+00C2-1000
+
+// FAKE Infinite Time
+00C8-4E00

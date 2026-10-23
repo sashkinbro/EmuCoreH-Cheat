@@ -1,0 +1,26 @@
+// &quot;Coin&quot; Object Value - Ten's/One's Digits
+00C9-8299
+
+// &quot;Coin&quot; Object Value - Hundred's Digit
+00C9-8109
+
+// No Waiting People
+00D1-5B00
+
+// Infinite Player Rests (Lives)
+00C3-9609
+
+// Infinite Time - Hundred's Digit
+00C7-BB09
+
+// Infinite Time - Ten's Digit
+00C7-BA09
+
+// Infinite Time - One's Digit
+00C7-B909
+
+// Infinite Continues
+00C3-9C09
+
+// custom enemies expresion
+00C4-BC04

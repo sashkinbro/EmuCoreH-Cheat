@@ -1,0 +1,210 @@
+// C.1 Infinite Life
+9T6T-FGN0
+TA6T-EAE2
+966T-EAE4
+GA6T-EAE6
+
+// Each round lasts 79 seconds
+A7NA-AAER
+
+// Each round lasts 59 seconds
+AZNA-AAER
+
+// Each round lasts 39 seconds
+APNA-AAER
+
+// Each round lasts 19 seconds
+AFNA-AAER
+
+// Each round lasts 9 seconds
+ABNA-AAER
+
+// Set any number of continues in Options screen
+AJXT-AA96
+
+// Set any number of rounds in Options screen
+AJYA-AA3Y
+
+// Set any difficulty level in Options screen
+AJYA-AA5G
+
+// Player 1 starts with 75% health
+NACT-EAHY
+
+// Player 1 starts with 50% health
+JACT-EAHY
+
+// Player 1 starts with 25% health
+EACT-EAHY
+
+// Player 1 starts with almost no health
+AECT-EAHY
+
+// Player 2 starts with 75% health
+NACT-EAH4
+
+// Player 2 starts with 50% health
+JACT-EAH4
+
+// Player 2 starts with 25% health
+EACT-EAH4
+
+// Player 2 starts with almost no health
+AECT-EAH4
+
+// Jumps are disabled for all players
+AVWT-EA76
+
+// Jump codes work on all speed settings
+JATT-EET0
+
+// Mega-jump [Leonardo]
+AD0T-FM5R
+
+// Bogus jump [Leonardo]
+TD0T-FX5R
+
+// No jump [Leonardo]
+AD0T-EADR
+
+// Mega-jump [Donatello]
+AD0T-FM58
+
+// Bogus jump [Donatello]
+TD0T-FX58
+
+// No jump [Donatello]
+AD0T-EAD8
+
+// Mega-jump [Michaelangelo]
+AD0T-FM6R
+
+// Bogus jump [Michaelangelo]
+TD0T-FX6R
+
+// No jump [Michaelangelo]
+AD0T-EAER
+
+// Mega-jump [Raphael]
+AD0T-FM68
+
+// Bogus jump [Raphael]
+TD0T-FX68
+
+// No jump [Raphael]
+AD0T-EAE8
+
+// Mega-jump [April O'Neal]
+AD0T-FM7R
+
+// Bogus jump [April O'Neal]
+TD0T-FX7R
+
+// No jump [April O'Neal]
+AD0T-EAFR
+
+// Mega-jump [Casey Jones]
+AD0T-FM78
+
+// Bogus jump [Casey Jones]
+TD0T-FX78
+
+// No jump [Casey Jones]
+AD0T-EAF8
+
+// Mega-jump [Ray Fillet]
+AD0T-FM8R
+
+// Bogus jump [Ray Fillet]
+TD0T-FX8R
+
+// No jump [Ray Fillet]
+AD0T-EAGR
+
+// Mega-jump [Sisyphus]
+AD0T-FM88
+
+// Bogus jump [Sisyphus]
+TD0T-FX88
+
+// No jump [Sisyphus]
+AD0T-EAG8
+
+// Mega-jump [Triceraton]
+AD0T-FM9R
+
+// Bogus jump [Triceraton]
+TD0T-FX9R
+
+// No jump [Triceraton]
+AD0T-EAHR
+
+// Mega-jump [Krang's Android]
+AD0T-FM98
+
+// Bogus jump [Krang's Android]
+TD0T-FX98
+
+// No jump [Krang's Android]
+AD0T-EAH8
+
+// Mega-jump [Karai]
+AD1A-FM2R
+
+// Bogus jump [Karai]
+TD1A-FX2R
+
+// No jump [Karai]
+AD1A-EAAR
+
+// Infinite Energy PL1
+9TLA-BGG4
+TALA-AAG6
+96LA-AAG8
+GELA-AAHA
+
+// P1 Rare Turbo Mode Attacks
+FFA052:0001
+
+// P1 Fast Leo Ball
+FF0110:0010
+
+// Player 1 character modifier (alternate)
+FFA200:0000
+
+// Player 2 character modifier (alternate)
+FFA202:0000
+
+// Hit Anywhere Both Players
+AJ3T-EA28
+AJ3T-EA4C
+AJ3T-EA46
+AJ3T-EA52
+
+// April Is Karai, Sisyphus Is Triceraton
+BAMA-AYGN
+
+// April Is Karai
+A6MA-AYGN
+
+// Character Modifier P1 (Uses Selected Characters Palette)
+FFA200:0000
+
+// Infinite Energy P1
+FF0030:0080
+
+// No Charge For Special Moves P1
+FF0028:0019
+FF002A:0019
+
+// Player 1 Maximum Score
+FF892A:0909
+FF892C:0909
+
+// Player 2 Maximum Score
+FF8930:0909
+FF8932:0909
+
+// High Score always 999900 points
+FFFE0A:0909
+FFFE0C:0909

@@ -1,0 +1,10 @@
+// Invincibility
+DADA-AA8G
+DADA-AA5L
+BADA-AA66
+
+// Pause the game, press C, then unpause for Debug menu
+AANA-BE5C
+
+// Enable Debug Invincibility
+GAZT-AA32

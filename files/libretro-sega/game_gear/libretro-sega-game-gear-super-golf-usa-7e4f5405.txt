@@ -1,0 +1,68 @@
+// Turn codes on and bad shots won't be scored
+21F-4CE-19D
+
+// No wind
+AF2-83E-08F
+
+// Start on hole 02
+02F-6DF-E6E
+
+// Start on hole 03
+03F-6DF-E6E
+
+// Start on hole 04
+04F-6DF-E6E
+
+// Start on hole 05
+05F-6DF-E6E
+
+// Start on hole 06
+06F-6DF-E6E
+
+// Start on hole 07
+07F-6DF-E6E
+
+// Start on hole 08
+08F-6DF-E6E
+
+// Start on hole 09
+09F-6DF-E6E
+
+// Start on hole 10
+0AF-6DF-E6E
+
+// Start on hole 11
+0BF-6DF-E6E
+
+// Start on hole 12
+0CF-6DF-E6E
+
+// Start on hole 13
+0DF-6DF-E6E
+
+// Start on hole 14
+0EF-6DF-E6E
+
+// Start on hole 15
+0FF-6DF-E6E
+
+// Start on hole 16
+10F-6DF-E6E
+
+// Start on hole 17
+11F-6DF-E6E
+
+// Start on hole 18
+12F-6DF-E6E
+
+// Take Points On Character Select And Put Them Into Point Bin
+00F-16C-3BE
+
+// Infinite Rest (For Editting 1P's Character)
+00C6-0B09
+
+// Hole Modifier
+00C5-0218
+
+// Always On First Stroke
+00C6-1500

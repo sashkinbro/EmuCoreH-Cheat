@@ -1,0 +1,26 @@
+// Start With 4 Energy Bars
+052-50F-F7A
+
+// Start With 6 Energy Bars
+072-50F-F7A
+
+// Start With 9 Energy Bars (Ignore Counter)
+0A2-50F-F7A
+
+// Infinite Energy
+21A-41C-2A2
+
+// Infinite Ninjitsu Magic
+008-30D-3BE
+
+// Start With 4 Lives
+032-58F-F7A
+
+// Start With 7 Lives
+062-58F-F7A
+
+// Start With 10 Lives
+092-58F-F7A
+
+// Infinite Lives
+00B-A0C-3BE

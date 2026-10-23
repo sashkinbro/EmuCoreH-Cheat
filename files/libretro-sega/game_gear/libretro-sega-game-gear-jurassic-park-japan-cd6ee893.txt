@@ -1,0 +1,51 @@
+// Infinite Health (Player)
+00C1-EA03
+
+// Infinite Health (Car)
+00CA-0003
+
+// Infinite Continues
+00C0-3309
+
+// Pause Numbers Screen Modifier
+00C0-EA00
+
+// Infinite Players (Lives)
+00C0-2F09
+
+// FAKE Infinite Health (Player)
+00C0-2D03
+
+// Infinite Energy In The Car (Alternate)
+00C9-0003
+
+// Infinite Med-Kit
+00C0-3209
+
+// Invulnerability
+00C0-37FF
+
+// Infinite Vehicle Damage
+3A6-E78-2A2
+
+// Invulnerability
+188-0DD-6EA
+
+// Infinite Health
+008-39D-A20
+
+// Infinite Health (Alt.)
+C98-35D-E69
+
+// Infinite Med-Kit
+008-63A-3BE
+
+// Disable Game Over From Loss Of Lives
+03C-949-F73
+00C-979-E67
+
+// Infinite Lives
+00C-959-19E
+
+// Infinite Continues
+00E-4D9-3BE

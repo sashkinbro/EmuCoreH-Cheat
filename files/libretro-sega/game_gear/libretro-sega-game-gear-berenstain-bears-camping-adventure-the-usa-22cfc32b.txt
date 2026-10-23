@@ -1,0 +1,17 @@
+// Infinite Health
+00C3-1910
+
+// Infinite Lives
+00C3-1A09
+
+// Invulnerability
+00DB-8001
+
+// Infinite Health
+00DC-0B01
+
+// Invulnerability
+C90-8EA-E69
+
+// Infinite Health
+180-98A-6EA

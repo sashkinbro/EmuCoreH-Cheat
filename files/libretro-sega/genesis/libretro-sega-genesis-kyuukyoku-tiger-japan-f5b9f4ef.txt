@@ -1,0 +1,12 @@
+// Infinite Lives
+AAZA-AAAC
+
+// Infinite Bombs
+AAYA-AADL
+
+// Invincibility
+RYZA-A616
+
+// Invincibility (Disable Hit Detection)
+RY7T-A6W2
+RY8A-A6Z8

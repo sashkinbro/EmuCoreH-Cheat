@@ -1,0 +1,23 @@
+// Infinite Health
+00CF-166F
+
+// Level Skip Enabled
+00D1-6D01
+
+// Invulnerability
+00C9-0724
+
+// Stage Skip Enabled
+006-0FA-A26
+
+// Invulnerability
+C9C-10B-E69
+
+// Infinite Lives
+00D1-6009
+
+// Infinite Health
+7EC-47B-3B7
+
+// Infinite Lives
+00F-97F-19E

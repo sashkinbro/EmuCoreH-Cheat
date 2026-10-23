@@ -1,0 +1,26 @@
+// Infinite Time
+00C4-0963
+
+// Infinite Health
+00C4-2232
+
+// No Energy Player 2
+00C4-3300
+
+// Character Modifier Player 1
+00C4-2000
+
+// Character Modifier Player 2
+00C4-3000
+
+// Infinite Health From Most Hits
+3AE-9DE-2A2
+
+// Infinite Health From Throws
+7E1-4A6-3B7
+
+// Infinite Time
+2A7-46B-6E2
+
+// Select any character to play as Dural in Vs Com Mode
+EB4-E99-085

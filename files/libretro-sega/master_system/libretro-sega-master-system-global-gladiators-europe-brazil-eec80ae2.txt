@@ -1,0 +1,50 @@
+// Infinite Energy
+00D0-BA3F
+
+// Invulnerability
+00D-E3D-7F4
+
+// Invulnerability
+00D5-062C
+
+// Enable Cheats Menu
+1A4-3EA-E6E
+
+// Infinite Lives and Shield
+00D5-12E6
+
+// Infinite Lives
+00D0-B903
+
+// Infinite &quot;M&quot;'s
+00D5-0399
+
+// Infinite McDonald's Symbols
+00D5-0199
+
+// Infinite Minutes (On Clock)
+00D4-EB09
+
+// Infinite Seconds (On Clock)
+00D4-EA59
+
+// Enable Cheat Menu
+00D5-12FF
+
+// Infinite Health
+7E1-B8C-3B7
+
+// Infinite Lives
+B62-06E-3BE
+
+// Infinite Time
+009-77B-3BE
+
+// Each M icon counts as ??
+020-33C-E6E
+
+// Cheat Modifier
+00D5-1286
+
+// Freeze Timer
+00D4-EA3C

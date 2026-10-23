@@ -1,0 +1,32 @@
+// Infinite Health (Skull)
+007-A4E-A28
+
+// Stay Invincible Longer After Getting Hit
+307-90E-D5A
+
+// Stay Invincible A Lot Longer After Getting Hit
+807-90E-D5A
+
+// Stay Invincible For Almost Forever After Getting Hit
+002-6FE-19E
+
+// *Start With Ice Sword In Inventory
+AA0-1D4-5DC
+
+// *Start With Fire Sword
+AB0-1D4-5DC
+
+// *Start With Lightning Sword
+AC0-1D4-5DC
+
+// Start With Eye
+A60-184-6E8
+FF0-164-E6E
+
+// Start With Sickle
+A80-184-6E8
+FF0-164-E6E
+
+// Start With Egg Timer
+A90-184-6E8
+FF0-164-E6E

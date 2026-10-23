@@ -1,0 +1,23 @@
+// Start With 3 Lives
+02F-31D-E66
+
+// Start With 5 Lives
+04F-31D-E66
+
+// Start With 7 Lives
+06F-31D-E66
+
+// Start With 9 Lives
+08F-31D-E66
+
+// Start With 11 Lives
+0AF-31D-E66
+
+// Infinite Lives
+009-FAD-E6E
+
+// Infinite Time
+002-4CE-E6E
+
+// Infinite Energy
+00C-337-E69

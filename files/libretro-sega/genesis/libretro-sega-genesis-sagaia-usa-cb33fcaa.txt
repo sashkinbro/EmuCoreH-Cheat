@@ -1,0 +1,79 @@
+// Infinite lives [Both Warriors]
+A3SA-AA4L
+
+// Makes the force field invincible [Both Warriors]
+GANA-AA58
+
+// Upgrade starting level of Silver Hawk blue bombs
+AVNT-AADA
+
+// Upgrade starting level of Silver Hawk blue missiles
+AVNT-AAC4
+
+// Upgrade starting level of Silver Hawk blue lasers
+AVNT-AADG
+
+// Laser power-ups worth more [Both Warriors]
+FRCA-BJW8
+
+// Laser power-ups worth much more [Both Warriors]
+FRCA-BTW8
+
+// Bomb power-ups worth more [Both Warriors]
+FRCA-BJVE
+
+// Bomb power-ups worth much more [Both Warriors]
+FRCA-BTVE
+
+// Missile power-ups worth more [Both Warriors]
+FFXT-BJZJ
+
+// Missile power-ups worth much more [Both Warriors]
+FFXT-BTZJ
+
+// Start with increased defense capability [Both Warriors]
+FCAA-B2ZW
+
+// Defense capability power-ups worth more [Both Warriors]
+FCAA-BN08
+
+// Infinite Lives
+RFSA-A6WL
+
+// Invincibility
+CANA-AR2N
+
+// Start with 15 Lives
+B2BT-AACJ
+
+// Keep Firepower After Dying
+CKXT-AR62
+
+// Infinite Ships P1
+FF0872:0009
+
+// Enable Zone Select Mode
+ABBA-AA9E
+
+// 1 Hit Invincibility
+FF0976:0010
+
+// Untouchable/Invincibility
+RYNA-A6TT
+RZPT-A6T8
+
+// Freeze Time To Continue
+AKCA-AA6Y
+
+// Keep Power of Weapons After The Death
+AKXT-AA7C
+AWCA-AA4R
+
+// Special Mode
+RFBA-A612
+
+// Keep Extra Bomb After The Death
+ALCA-AA2Y
+
+// Enabled Cheat Code Invincibility
+RFBA-A602

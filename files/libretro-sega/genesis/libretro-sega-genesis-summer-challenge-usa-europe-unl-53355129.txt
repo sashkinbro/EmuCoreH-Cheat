@@ -1,0 +1,33 @@
+// No Time Limit To Shoot In Archery Event [Instead Of 30 Seconds]
+2D9T-AGHT
+
+// Missed Gates Don't Count In Kayak Event
+AV0T-EA2G
+
+// Knockdowns Don't Count In Equestrian Event
+AV1T-CA62
+
+// 9 Tries In Pole Vault Event [Instead Of Only 3]
+BDJT-CAAL
+
+// 9 Tries In High Jump Event [Instead Of Only 3]
+BCMT-CAHW
+
+// 9 Tries In Javelin Event [Instead Of Only 3]
+BCPA-EAD2
+
+// You Only Need To Complete 2 Laps In The Cycling Event [Instead Of 4 Laps]
+HETA-DJ0J
+
+// You Only Need To Complete 1 Lap In The Cycling Event [Instead Of 4 Laps]
+HETA-DT0J
+
+// Max Total Points (Archery)
+FF1632:00FF
+
+// Gates Missed Modifier (Kayak)
+FF157A:0000
+
+// Gates Hit Modifier (Kayak)
+FF1578:0000
+FF166E:0000

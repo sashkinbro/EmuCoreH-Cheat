@@ -1,0 +1,30 @@
+// Infinite Health
+FFAA1E:0040
+
+// Infinite Air
+FFAA20:0004
+
+// Gates Taken In 3D Stages
+FFD6C0:000C
+
+// Level Select
+FFA7D6:0000
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Invincibility (Stars)
+FFAB74:0258
+
+// Pause the game and press A for Debug Menu
+BHLA-VN2R
+RHLA-T6VA
+
+// Swim in air
+RFHT-T6XA
+
+// Swim through walls
+ACNA-TA9L

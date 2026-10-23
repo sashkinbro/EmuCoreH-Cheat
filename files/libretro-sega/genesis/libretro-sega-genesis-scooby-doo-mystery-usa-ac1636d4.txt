@@ -1,0 +1,5 @@
+// Boot Into Region Info Screen
+AJBT-AA3J
+
+// Debug menu is always available in the pause menu
+RGCT-A6WT

@@ -1,0 +1,179 @@
+// Raise Score Slowly
+FFE008:0063
+
+// Raise Score Quickly
+FFE008:0100
+
+// Lower Score Quickly
+FFE008:6300
+
+// Always Have Shield (Leader)
+FFADB8:0001
+
+// Enable Grow (Leader)
+FFADC0:0005
+
+// Always Have Shield (Partner)
+FFAE78:0001
+
+// Enable Grow (Partner)
+FFAE80:0005
+
+// Have Speed Shoes (Leader)
+FFADFC:0001
+
+// Have Speed Shoes (Partner)
+FFAEBC:0001
+
+// Have All Chaos Rings
+FFE01A:0006
+
+// All Levels Cleared
+FFDFFE:0606
+FFE000:0606
+FFE002:0606
+
+// Play as Bomb the Mechanic [Must use at the &quot;Player Select&quot; screen)
+FFE20E:0500
+
+// Play as Heavy the Mechanic [Must use at the &quot;Player Select&quot; screen)
+FFE20E:0600
+
+// Enable level select
+FFFFEE:FF00
+
+// Enable Debugger
+FFFFEC:FF00
+
+// Always have 255 Rings
+FFE008:00FF
+
+// Enable Level Select
+RE8T-A6XN
+AN8T-AAE0
+
+// Infinite Time/Your Ring Count Constantly Increase!
+BC2A-EB2L
+
+// Infinite Time
+AL2A-EA2J
+
+// Rings Are Worth 4
+SAXT-DTWA
+
+// It Doesn't Cost Any Rings To Call Your Partner
+AAPT-CAF4
+
+// You Only Have To Have 1 Ring To Access The Special Stages At The End of Levels (You Normally Need 50 Rings)
+AEYA-CAG2
+AEDA-CADJ
+AEET-CABA
+
+// Keep Rings Between Levels
+AKGA-AA3L
+
+// Enable Debugger
+RFHA-A6TY
+RFHA-A6W8
+AJLT-CA8W
+
+// Get 10 Rings Everytime You Call Your Partner
+SAPT-CNF2
+
+// Get 100 Rings Everytime You Call Your Partner (Press A)
+SAPT-CNF2
+NTPT-CAF4
+
+// Knuckles Has Mega Jump
+AC9A-BAGR
+
+// Get Rings From Anywhere
+B2WA-CA5E
+B2WA-CA6N
+B2WA-CA7Y
+B2WA-CA86
+
+// You Only Have To Have 1 Ring To Access The Special Stages At The End of Levels (You Normally Need 50 Rings)
+AEYA-CAG2
+AEDA-CADJ
+AEET-CABA
+
+// Attachment To Partner Modifier
+FFFCEA:0000
+
+// Time of Day Modifier
+FFDFF6:0000
+
+// Amy Appears In Sound Test
+FFFFEC:00FF
+
+// Character Modifier
+FFE038:0000
+
+// Partner Select
+FFE03A:0000
+
+// Knuckles glides level
+AC9A-AAHT
+
+// Vector the Crocodile can jump in mid-air as many times as you want (multi-jump)
+AW6T-AA8Y
+
+// Always have slow Stage Select (allows you to easily pick which stage you want).
+AK7A-EA88
+
+// Always have slow Combi Catcher (allows you to easily pick any charcter you want).
+BWFA-EA8W
+ALFT-EA72
+ALKT-EA4T
+
+// Invincibility for both characters (main character and partner).
+RY2A-E6ZT
+
+// Invincibility for both characters against Metal Sonic (one of the final battles in the stage select room).
+AM4T-AA4W
+
+// Invincibility for main/primary character.
+CJ2A-EA7T
+
+// Invincibility for partner/secondary character.
+CJ2A-EA8R
+
+// Automatically collect all power-ups on screen by pressing the C button (Jump).
+RFFA-C6Y8
+
+// Collect some rings from anywhere above you, and collect some rings as many times as you want (at least one ring in each group won't disappear when you collect them).
+SAWA-CA5W
+
+// Don't lose rings when hit (main character).
+AM8T-AA8J
+
+// Always have Speed Shoes.
+RGTA-A6TW
+
+// Start a new game as Espio (you are normally forced to start as Knuckles).
+DX1T-GAFC
+
+// Start a new game as Mighty (you are normally forced to start as Knuckles).
+AD1T-GAFC
+
+// Always get Knuckles as your partner in the Combi Catcher.
+BCNT-FA4L
+RGNT-E6WN
+
+// Always get Mighty as your partner in the Combi Catcher.
+ACNT-FA4L
+RGNT-E6WN
+
+// Always get the deleted/hidden character as your partner in the Combi Catcher.
+AWNT-FA4L
+RGNT-E6WN
+
+// If you lose your partner, he won't return for the rest of the level (you can play solo).
+ALZA-AA6J
+
+// Walk thru walls.
+BD0T-AA6W
+D51A-AA90
+D50T-AA42
+BD1T-AA3T

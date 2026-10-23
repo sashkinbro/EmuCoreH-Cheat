@@ -1,0 +1,32 @@
+// Untouchable
+RYVA-C6V0
+
+// Infinite Lives
+ATEA-AA8R
+
+// Infinite Energy
+AL8T-CA3A
+AMDA-CA8J
+AXET-CA4G
+
+// Infinite Ammo For Weapons
+AJNT-EA3J
+AJMT-EA66
+AJKA-EA2C
+AJKT-EA8Y
+
+// Skip Levels In Game Pause Press C, A, B Start
+BJLT-CA7J
+
+// Moon Jump
+EDXT-DA8R
+C5XT-CN8Y
+ADXT-CA84
+SXXT-C0SN
+9XXT-D99R
+ADXT-CAHT
+CXXT-CAHW
+BMXT-CA8C
+
+// Disables Falling When Jumping To High
+BMXT-CA8C

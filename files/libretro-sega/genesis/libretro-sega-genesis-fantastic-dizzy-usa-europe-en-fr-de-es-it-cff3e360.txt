@@ -1,0 +1,68 @@
+// Infinite lives
+AKAA-AA4R
+
+// High jump
+AALT-B6C4
+
+// Super high jump
+AALT-A8C4
+
+// Walk through solid obstacles (railing etc)
+REPA-A6ZE
+
+// Take no damage from most enemies.
+AKEA-AA7J
+AKET-AA2A
+
+// Fruit removes twice as much damage.
+SBEA-BL1R
+
+// All Stars Collected
+FF8112:0000
+
+// Infinite Energy
+FF8838:0000
+
+// Infinite Lives
+FF8148:0009
+
+// Invincibility
+RZEA-A6ZJ
+RZST-A6Y6
+R03T-A6TN
+RZRA-A6ZR
+R04A-A6Y6
+R02A-A6VW
+RZ7T-A6XE
+RZZA-A616
+R0AT-A6X6
+R0JT-A6V2
+R0JT-A6YG
+R07T-A6ZR
+R06T-A6Z2
+R07A-A61R
+R10A-A61T
+RZ0T-A6ZA
+RYDA-A6Y2
+RYPT-C61W
+RYNA-C6ZY
+RYRT-C6XJ
+RYLA-A6TJ
+
+// Freeze Time Puzzle Swap
+AMJA-AA4A
+
+// Infinite Oxygen
+AJWT-CA2R
+
+// Freeze Time Archery
+AM1A-AA5C
+
+// Infinite Status Archery
+AM0A-AA9T
+
+// Freeze Time Archery
+FF9108:001C
+
+// Infinite Oxygen
+FF9126:0020

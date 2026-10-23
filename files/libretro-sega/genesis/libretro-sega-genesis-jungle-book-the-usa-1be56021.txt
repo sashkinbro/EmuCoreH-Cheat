@@ -1,0 +1,62 @@
+// Power menu
+AM6V-0A86
+
+// Start with 2 lives
+GHGV-0ACC
+
+// Start with 5 lives
+GXGV-0ACC
+
+// Start with 10 lives
+HHGV-0ACC
+
+// Infinite weapons
+AJYV-2A3E
+
+// Infinite Lives
+AJ5V-2A4T
+
+// Infinite Energy
+AMHV-0A86
+
+// Infinite Time
+AMJV-0A54
+
+// Invincibility
+B3SV-2N2G
+
+// Infinite Lives
+FFFAD4:0033
+
+// Infinite Time
+FFF9BE:0035
+
+// 0 Red Gems Remaining
+FFFA46:0030
+FFFA48:0030
+
+// Infinite Double Bananas
+FFFB0C:0009
+FFFB0C:0009
+
+// Infinite Wooden Boomerangs
+FFFB0E:0009
+FFFB0E:0009
+
+// Infinite Coconuts
+FFFB10:0009
+FFFB10:0009
+
+// Infinite Tribe Mask (ie. Infinite Invulnerability)
+FFFB12:0009
+FFFB12:0009
+
+// Jump On Any Height
+AAZB-2ACJ
+
+// Jump In Mid-Air (Multi Jumps)
+BTZB-2A5R
+
+// Pause the game and press A to enable free movement
+AANT-EAFN
+JANT-EAFL

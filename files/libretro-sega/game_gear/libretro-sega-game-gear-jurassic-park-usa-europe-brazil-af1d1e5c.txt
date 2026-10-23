@@ -1,0 +1,128 @@
+// Infinite Energy In The Car [Alternate]
+00C9-0003
+
+// Infinite Health
+00C0-2D03
+
+// Infinite Lives
+00C0-2F09
+
+// Infinte Continues
+00C0-3309
+
+// Infinite Medkit
+00C0-3209
+
+// Invulnerability
+00C0-37FF
+
+// Invulnerability
+187-F6D-6EA
+
+// Invincibility
+3A6-E78-2A2
+
+// Start with 1 energy point
+01A-11B-E66
+
+// Start with 2 energy points
+02A-11B-E66
+
+// Start with 5 energy points
+05A-11B-E66
+
+// Start with 9 energy points
+09A-11B-E66
+
+// One hit by an enemy is fatal
+AF6-E68-19A
+
+// Start with 1 life
+01E-2EB-E66
+
+// Start with 2 lives
+02E-2EB-E66
+
+// Start with 5 lives
+05E-2EB-E66
+
+// Start with 9 lives
+09E-2EB-E66
+
+// Hit enemies 1x and they run away
+012-509-E62
+
+// Hit enemies 5x and they run away
+052-509-E62
+
+// Hit enemies 9x and they run away
+092-509-E62
+
+// Start with 5 lives on continue
+05E-679-E66
+
+// Start with 1 life on continue
+01E-679-E66
+
+// Start with 9 lives on continue
+09E-679-E66
+
+// Invincibility
+C98-26D-19D
+
+// Start first game with 1 life and 1 continue
+01E-2EB-E66
+01E-11B-E66
+
+// Start first game with 5 lives and 5 continues
+05E-2EB-E66
+05E-11B-E66
+
+// Start first game with 9 lives and 9 continues
+09E-2EB-E66
+09E-11B-E66
+
+// Infinite lives
+3AC-B49-2A2
+
+// Infinite continues
+00E-739-E69
+
+// 1 touch by an enemy is fatal
+AF8-22D-A20
+
+// Infinite Health (Player)
+00C1-EA03
+
+// Infinite Health (Car)
+00CA-0003
+
+// Infinite Continues
+00C0-3309
+
+// Pause Numbers Screen Modifier
+00C0-EA00
+
+// Infinite Players (Lives)
+00C0-2F09
+
+// FAKE Infinite Health (Player)
+00C0-2D03
+
+// Don't Blink From Taking Damage
+7EC-29D-3B7
+
+// Infinite Health (Player)
+008-22D-A20
+
+// Infinite Continues
+00E-749-3BE
+
+// Infinite Lives
+00C-B19-19E
+
+// Infinite Med-Kit
+008-81A-3BE
+
+// T-Rex Boss Easier To Kill (Driving Stage)
+00F-24B-E66

@@ -1,0 +1,8 @@
+// Infinite Rings
+00DA-0063
+
+// Have Invincibility
+00DA-0406
+
+// Character Modifier
+00D7-AE00

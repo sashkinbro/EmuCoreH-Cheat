@@ -1,0 +1,11 @@
+// Infinite Time (Seconds)
+FF9C9A:0049
+
+// Team 1 Has A High Score (P1)
+FF9CD6:00FF
+
+// Team 2 Never Scores (P2/CPU)
+FF9DD6:0000
+
+// Infinite Shot Time
+FF9C9C:0025

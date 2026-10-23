@@ -1,0 +1,22 @@
+// Infinite Time
+00DF-ACB3
+
+// Enable Stage Select
+00DF-D002
+00DF-D205
+
+// Infinite Time (One's Digit)
+00DE-D809
+
+// Infinite Time
+00DF-C4B3
+
+// Infinite Time
+3AD-16F-2A2
+
+// Unlock Starting Level Option on Title Screen
+005-E0F-C4E
+005-E7F-E62
+
+// Kill Count = 0
+00DF-C900

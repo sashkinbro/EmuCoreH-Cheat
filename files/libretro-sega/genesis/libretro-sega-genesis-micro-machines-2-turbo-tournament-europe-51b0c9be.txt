@@ -1,0 +1,36 @@
+// Stop Timer
+FFE05E:0001
+
+// Freeze Cpu Cars [Challenge]
+AXDA-CA3J
+AXDT-CA5R
+AXEA-CA7Y
+
+// Freeze Cpu Counter [Head To Head]
+AVGA-AA72
+
+// Freeze Cpu Cars [Challenge]
+FFD880:0000
+FFD87E:0000
+FFD87C:0000
+
+// Infinite Lives - Challenge Race
+AJHA-AA4E
+
+// Infinite Lives - Head-to-Head Race
+AJJA-AA3E
+
+// Infinite Time - Challenge Race and Time Trial
+RFRA-A618
+
+// Infinite Time - Extra Life Game
+RFSA-A6Z2
+
+// Start with 5 Lives, instead of 3
+ATCA-AAHN
+
+// Start with 7 Lives
+A2CA-AAHN
+
+// Start with 9 Lives
+BACA-AAHN

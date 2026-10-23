@@ -1,0 +1,24 @@
+// Infinite lives
+AJEA-AA8A
+
+// Infinite energy
+ATMA-AA3A
+ATMA-AA3T
+
+// Infinite Energy
+E2MA-AR28
+
+// Infinite Time
+AJ5T-AA7N
+
+// Infinite Time
+AJ5T-AA6W
+
+// Last Level
+FF0008:0004
+
+// Infinite Lives
+FF7F94:0063
+
+// Invincibility
+RYLT-A616

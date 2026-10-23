@@ -1,0 +1,23 @@
+// Infinite Hearts (Lives)
+00C2-4A09
+
+// Have All Mer-People Saved (Green Icon With Yellow Dots On It)
+00C2-4800
+
+// Infinite Stars
+00C2-1699
+
+// Infinite Keys
+00C2-4B09
+
+// Infinite Sword-Fish
+00C2-0109
+
+// Infinite Yellow-Blue Fish
+00C1-FD09
+
+// Infinite Red Crabs
+00C1-FF09
+
+// Infinite Energy
+00C2-4908

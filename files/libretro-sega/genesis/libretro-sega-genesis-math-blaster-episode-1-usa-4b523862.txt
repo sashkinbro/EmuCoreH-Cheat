@@ -1,0 +1,25 @@
+// Infinite &quot;S&quot;
+FF0CD2:003F
+
+// Infinite Energy
+FF0D04:0009
+
+// Infinite Lives
+FF0E46:0009
+
+// Infinite S
+AWPA-AA4N
+AWPA-AA7R
+
+// Infinite Energy
+AL0A-AA2Y
+AL1T-AA66
+AK9T-AA96
+AKAT-AA28
+AT4A-AA32
+AT4T-AA52
+
+// Infinite Lives
+AWDA-AA8W
+AV4A-AA2C
+AT4T-AA5W

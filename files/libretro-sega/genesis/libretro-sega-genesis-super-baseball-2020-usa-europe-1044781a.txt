@@ -1,0 +1,45 @@
+// Don't Get Charged For Power-ups
+ALAA-CA7L
+
+// All Power-ups Are Free, Even If You Don't Have Enough Money
+ALAA-CA7L
+RF5T-C6WC
+
+// 1 Strike For An Out
+AF0T-AAAY
+
+// 5 Strikes For An Out
+AZ0T-AAAY
+
+// Strikes Don't Count
+AK0T-AA2J
+
+// 1 Ball For A Walk
+AF0T-AAE0
+
+// 6 Balls For A Walk
+A30T-AAE0
+
+// Balls Don't Count
+AK0T-AA6L
+
+// Outs Don't Count For Batter Outs In The Outfield Still Count
+AK0T-AA5A
+
+// Strikes Modifier
+FF9940:0000
+
+// Balls Modifier
+FF9940:0000
+
+// Team 1 Score Modifier (P1)
+FF9944:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FF9944:0000
+
+// Team 1 Has Max Money
+FF864A:0099
+FF864A:0099
+FF864C:0099
+FF864C:0099

@@ -1,0 +1,29 @@
+// Infinite Energy
+00DA-6510
+
+// Infinite Lives
+00DA-6F02
+
+// Invulnerability
+00DA-7915
+
+// Invulnerability
+C9B-2DC-19E
+
+// Infinite Continues
+00DA-CB09
+
+// Enable Level Select on Continue Screen
+00DE-7D01
+
+// Infinite Health
+3AF-3DB-2A2
+
+// Infinite Lives
+3A0-6B9-2A2
+
+// Infinite Continues
+3A0-8A9-2A2
+
+// Invincibility - Vehicle (after being hit)
+00D-C8B-19E

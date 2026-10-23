@@ -1,0 +1,255 @@
+// Control Enemies
+RY6T-A6TR
+
+// Control Enemie (Alternate)
+DT6T-AA2R
+GT6T-AA3W
+AA6T-AADL
+
+// Regional Lockout Bypass
+BT7T-CA9E
+
+// Always Do Level 4 Magic
+CX4T-AA8W
+
+// Always Do Level 3 Magic
+B55A-AA2N
+
+// Untouchable By Regular Hits
+9JHA-AA4J
+
+// Untouchable By Special Hits
+RYFA-A6WC
+
+// 1 Hit Kills Enemy
+PAHA-AETE
+
+// Lives
+FFC8E0:0003
+
+// Magic Bottles
+FFC8E4:0006
+
+// Energy
+FFC8E6:0033
+
+// Start with 9 Lives
+BHWA-AABC
+
+// Start with Max Magic
+A5WA-AAD8
+
+// Infinite Lives
+AKYT-AA54
+
+// Infinite Magic
+AM5A-AA44
+
+// Thiefs can't steal magic from you
+AM8A-AA8Y
+
+// Infinite Health
+AJHA-AA5Y
+
+// Dinosaurs Never Escapes When Sleeping
+FA4A-AYTL
+
+// Dinosaurs Never Escapes When Get Hit
+RE4A-A6XR
+
+// Infinite Magic
+FFC8E4:0606
+
+// Infinite Energy
+FFC8E6:4B4B
+
+// Infinite Lives
+FFC8E0:0909
+
+// Invincibility
+FFC84C:00FF
+
+// Max Score
+FFC73C:FFFF
+
+// Dinosaurs Never Escapes when sleeping
+FFD022:013B
+
+// Dinosaurs Never Escapes when get hit
+FFD024:0000
+
+// Invincibility
+9TET-DCFE
+ATET-CAFG
+KYET-CVZJ
+
+// Invincibility (Flickering)
+9TET-DCFE
+BAET-CAFG
+KTET-CVZJ
+
+// Invincibility
+AT8T-AA78
+26HA-DCGC
+KTHA-CV0E
+
+// Enable Level Select
+RFRA-C6X6
+
+// Infinite Double Jump For Sara Baan And Kuronosu Reito
+AKKA-AAF2
+
+// Some Of Your Attacks Are Much More Powerfull
+96GT-ACH4
+
+// Regional Lockout Bypass Code
+AJ7T-CA9R
+
+// Maximum Damage
+1AFT-A6VN
+SJFT-A6BR
+S6GT-BE96
+
+// Dont Loose Mp After Casting Super Magic
+AM5A-AA5Y
+AM5A-AA56
+
+// Go To Dim Jungle After Cave Of Crystal
+A9TT-AJDT
+
+// Go To Death Mountain After A Voyage To Castle
+BXTT-ATDY
+
+// Go To Cursed City After Ride The Whirlwind
+B1TT-AYD0
+
+// Thiefs Never Escape
+ALPA-AA4N
+
+// Super Magic Allways Avalaible
+RH4T-A602
+RH4T-A61G
+
+// Guards Drop Meat
+BLJA-AA2T
+ALJA-AA3A
+
+// Kain Gurindaa Walks Faster Horizontally
+AA5T-GGHR
+
+// Kain Gurindaa Walks Faster Vertically
+AA5T-GGHT
+
+// Sara Baan Walks Faster Horizontally
+AA5T-GGH0
+
+// Sara Baan Walks Faster Vertically
+AA5T-GGH2
+
+// Puraudo Kuragga Walks Faster Horizontally
+AA5T-GGHG
+
+// Puraudo Kuragga Walks Faster Vertically
+AA5T-GGHJ
+
+// Kuronosu Reito Walks Faster Horizontally
+AA5T-GGHW
+
+// Kuronosu Reito Walks Faster Vertically
+AA5T-GGHY
+
+// Knights Can't Block
+FA4T-GAF2
+
+// Skeletons Can't Block
+FA4T-GAHW
+
+// Ogres Can't Block
+FA4T-GABW
+
+// Bird Can't Block
+FA3T-GAC4
+
+// One Hit Kills
+FFCBA6:0000
+FFCD06:0000
+FFCE66:0000
+FFCFC6:0000
+
+// Start Each Life With Stronger Magic
+ASWA-AAD8
+
+// Each Magic Pick-Up (Vial) Is Worth 3 (Instead of 1)
+FEFA-BNVA
+
+// Control Enemies (Alternate)
+DT6T-AA2R
+GT6T-AA3W
+AA6T-AADL
+
+// Infinite Energy (Take No Damage From Enemies)
+FFC8E6:3300
+
+// Infinite Lives (Player 1)
+FFC8E0:0002
+
+// Infinite Lives (Player 2)
+FFCA40:0002
+
+// Infinite Health (Player 2)
+FFCA46:0033
+
+// Set Max. Health Meter (Player 1)
+FFC8E8:0003
+
+// Set Max. Health Meter (Player 2)
+FFCA48:0003
+
+// Invincibility (Player 1)
+FFC84C:0080
+
+// Invincibility (Player 2)
+FFC9AC:0080
+
+// Set Max./Infinite Magic (Player 2)
+FFCA44:0006
+
+// Always Have 4 Rescued Allies (Player 1)
+FFC8E2:0004
+
+// Always Have 4 Rescued Allies (Player 2)
+FFCA42:0004
+
+// Infinite Credits
+FFC77C:0005
+
+// Stage Select
+FFC776:0000
+
+// Set Character Modifier (Player 1)
+FFF314:0000
+
+// Set Character Modifier (Player 2)
+FFF394:0000
+
+// Instant Kills 1st Enemy
+FFCA64:0000
+
+// Instant Kills 2nd Enemy
+FFCBC4:0000
+
+// Instant Kills 3rd Enemy
+FFCD24:0000
+
+// Instant Kills 4th Enemy
+FFCE84:0000
+
+// Invincibility (Disable Hit Detection)
+RYHA-A6WJ
+RYFA-A6WE
+RYFT-A6T0
+
+// 1 Hit/Use Magic Kill All Enemies/Bosses
+ATHA-AA2E
+AX6A-AA76
+ATHA-AA5Y

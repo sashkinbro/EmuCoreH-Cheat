@@ -1,0 +1,150 @@
+// Almost Infinite life
+ALAT-AA4N
+
+// Infinite mega crash bombs
+RHNA-A6Z0
+
+// Start with 4 mega crash bombs
+ATMT-AAAA
+
+// Start with 5 mega crash bombs
+AYMT-AAAA
+
+// Start with 6 mega crash bombs
+A2MT-AAAA
+
+// Start with 7 mega crash bombs
+A6MT-AAAA
+
+// Start with 8 mega crash bombs
+BAMT-AAAA
+
+// Infinite continues
+A5KA-AA4W
+
+// Start with 8 continues in arcade mode (normal)
+ETMT-AACA
+
+// Start with 7 continues in arcade mode (normal)
+EAMT-AACA
+
+// Start with 6 continues in arcade mode (normal)
+DTMT-AACA
+
+// Start with 5 continues in arcade mode (normal)
+DAMT-AACA
+
+// Start with 8 continues in arcade mode (hard)
+ETMT-AACC
+
+// Start with 7 continues in arcade mode (hard)
+EAMT-AACC
+
+// Start with 6 continues in arcade mode (hard)
+DTMT-AACC
+
+// Start with 5 continues in arcade mode (hard)
+DAMT-AACC
+
+// Start with 8 continues in arcade mode (easy)
+ETMT-AAB8
+
+// Start with 7 continues in arcade mode (easy)
+EAMT-AAB8
+
+// Start with 6 continues in arcade mode (easy)
+DTMT-AAB8
+
+// Start with 5 continues in arcade mode (easy)
+DAMT-AAB8
+
+// Start with 5x normal firepower level
+RG3A-A61C
+B83A-BJ9A
+
+// Start with 10x normal firepower level
+RG3A-A61C
+D83A-BJ9A
+
+// Start with 20x normal firepower level
+RG3A-A61C
+JC3A-BJ9A
+
+// Start with 40x normal firepower level
+RG3A-A61C
+7C3A-BJ9A
+
+// Invincibility
+HMVA-AN56
+EDVA-AN6C
+
+// Enable Stage Select
+A3WA-AN9A
+
+// Infinite Bombs
+LGAA-AHZ2
+
+// Infinite Energy
+RG2A-A6YY
+
+// Invincible
+FFC5C2:0010
+
+// Untouchable
+R02A-A6V8
+
+// Freeze Time
+AK9T-AA6C
+
+// All levels start with 400 seconds in Arcade mode
+9V9T-BCLL
+AB9T-AJCN
+
+// All levels start with 600 seconds in Arcade mode
+9V9T-BCLL
+AB9T-ANCN
+
+// Infinite time in Arcade mode
+EK9T-AA6C
+
+// Start with all 5 characters in original mode. See notes.
+9TVT-BCGC
+BAVT-AAGE
+
+// Infinite money (medals) in shops. See notes.
+EDBT-AA5L
+
+// Can buy items as many times as you want in the shops. See notes.
+R1BA-A6Y6
+
+// Many enemies are gone
+R00A-A6ZC
+
+// Walk thru Walls, Fences, Forests, etc. See notes.
+C5SA-AA26
+C5SA-AA4A
+SDVA-AA8C
+
+// Bosses at the end of levels are much easier to kill
+RE4T-E61R
+
+// Blink 1.5x Longer After Being Hit
+T82T-AAFJ
+RSVA-AAE0
+
+// Blink 2x Longer After Being Hit
+0W2T-AAFJ
+YDVA-AAE0
+
+// Blink 3x Longer After Being Hit
+982T-AAFJ
+7SVA-AAE0
+
+// Infinite Health
+RG2A-A6YY
+
+// Have Bullet-Proof Vest (Take 1/2 Damage)
+RG2A-A6YC
+
+// Have Gas Mask (Take No Damage from Gas)
+AC2A-AA5G

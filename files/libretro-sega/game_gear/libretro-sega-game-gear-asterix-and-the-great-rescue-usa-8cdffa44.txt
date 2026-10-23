@@ -1,0 +1,27 @@
+// Invincible
+00C1-9E01
+
+// Mega Power
+00C1-B102
+
+// Invulnerability
+C92-5EB-E69
+
+// Infinite Continues
+00C1-9509
+
+// Infinite Lives
+00C1-9709
+
+// Infinite Health
+00C1-9605
+
+// Infinite Health
+002-C4B-19D
+002-C5B-3BE
+002-C6B-D52
+
+// Infinite Lives
+00A-F0C-19D
+00A-F1C-3BE
+00A-F2C-D56

@@ -1,0 +1,155 @@
+// Infinite lives
+007-01A-3BE
+
+// Rings worth 2 points
+020-54A-E6E
+
+// Rings worth 3 points
+030-54A-E6E
+
+// Rings worth 4 points
+040-54A-E6E
+
+// Rings worth 5 points
+050-54A-E6E
+
+// Rings worth 6 points
+060-54A-E6E
+
+// Rings worth 7 points
+070-54A-E6E
+
+// Rings worth 8 points
+080-54A-E6E
+
+// Never lose rings
+3A0-21C-2A2
+
+// Stop timer
+003-F8C-3B7
+
+// Start with 1 life
+013-7DE-E66
+
+// Start with 5 lives
+053-7DE-E66
+
+// Start with 9 lives
+093-7DE-E66
+
+// Moon Jump
+18D-7CB-6EA
+
+// Infinite Rings
+00D2-A963
+
+// Infinite Lives
+00D2-4009
+
+// Freezes The Time
+00D2-D106
+
+// Strange Noises
+00D7-F700
+
+// Infinite Shields
+00D2-D628
+
+// Infinite Sneakers
+00DC-0A02
+
+// Changes The Music
+00DC-31FF
+
+// Super Invinciblity
+00D2-0901
+
+// Infinite Continues
+00D2-7E09
+
+// Infinite Time Underwater
+00D2-9700
+
+// Invincibility
+C9F-DDD-E69
+
+// Infinite Time Underwater
+2A2-7CA-6E2
+
+// Start on Green Hill Zone, Act 2
+003-8BE-5D4
+013-87E-91A
+
+// Start on Green Hill Zone, Act 3
+003-8BE-5D4
+023-87E-91A
+
+// Start on Bridge Zone, Act 1
+003-8BE-5D4
+033-87E-91A
+
+// Start on Bridge Zone, Act 2
+003-8BE-5D4
+043-87E-91A
+
+// Start on Bridge Zone, Act 3
+003-8BE-5D4
+053-87E-91A
+
+// Start on Jungle Zone, Act 1
+003-8BE-5D4
+063-87E-91A
+
+// Start on Jungle Zone, Act 2
+003-8BE-5D4
+073-87E-91A
+
+// Start on Jungle Zone, Act 3
+003-8BE-5D4
+083-87E-91A
+
+// Start on Labyrinth Zone Act 1
+003-8BE-5D4
+093-87E-91A
+
+// Start on Labyrinth Zone Act 2
+003-8BE-5D4
+0A3-87E-91A
+
+// Start on Labyrinth Zone Act 3
+003-8BE-5D4
+0B3-87E-91A
+
+// Start on Scrap Brain Zone, Act 1
+003-8BE-5D4
+0C3-87E-91A
+
+// Start on Scrap Brain Zone, Act 2
+003-8BE-5D4
+0D3-87E-91A
+
+// Start on Scrap Brain Zone, Act 3
+003-8BE-5D4
+0E3-87E-91A
+
+// Start on Sky Base Zone, Act 1
+003-8BE-5D4
+0F3-87E-91A
+
+// Don't Lose Rings When Hit
+3A0-21C-2A2
+
+// Don't Die When Hit With No Rings
+18F-F2D-6EA
+
+// Infinite Lives
+007-01A-3BE
+
+// Infinite Time
+7E3-ECC-3B7
+
+// Infinite Time - Bonus Stage
+7E4-12C-3B7
+
+// Only need to finish level with ?? rings to get Bonus Stage, instead of 50
+013-4E9-A2B

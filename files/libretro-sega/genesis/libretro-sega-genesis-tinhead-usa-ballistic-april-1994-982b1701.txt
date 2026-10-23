@@ -1,0 +1,40 @@
+// Infinite Lives And Energy
+AK1T-LA2T
+
+// Invincibility
+EL2A-LN4J
+
+// Infinite Energy
+FF4644:0009
+
+// Infinite Lives
+FF4642:0009
+
+// Have Multishot Power-Up
+FF4646:0004
+
+// Invincible
+FF4704:0010
+
+// Invincibility
+RZGA-26WR
+R1JT-R600
+R0KT-L6TL
+R1MT-R6TW
+R0FA-L614
+
+// 1 Shot Kill All Enemies In Game And All Bosses
+AD5A-RAF4
+
+// Regional Lockout Bypass (European and Japanese Systems)
+CLCT-8A32
+
+// Invincibility
+RG2A-L6WJ
+NG2A-MA4L
+
+// Infinite Health
+RF1T-L6TC
+
+// Infinite Lives
+AV1A-LA2W

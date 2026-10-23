@@ -1,0 +1,14 @@
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Infinite Lives
+AJJA-AA40
+
+// Disable Bosses
+REWT-A6XT
+
+// 1 Hit Full Chi
+FFBBBE:00FF
+
+// 1 Hit Full Chi
+RGNA-A6XA

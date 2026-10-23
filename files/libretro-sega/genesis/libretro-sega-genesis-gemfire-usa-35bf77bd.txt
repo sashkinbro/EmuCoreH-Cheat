@@ -1,0 +1,704 @@
+// Family Selection Code
+FF2DCC:0001
+
+// Political Stat
+FF10B6:0000
+
+// War Stat
+FF10B6:0000
+
+// Charisma Stat
+FF10B8:0000
+
+// Fame Stat
+FF10BC:0000
+
+// Vassals
+FF10B8:0000
+
+// Active Player In List
+FF10BA:0000
+
+// Activate Fame Stat
+FF10BA:0000
+
+// Family Relation
+FF10BC:0000
+
+// Political Stat
+FF10C2:0000
+
+// War Stat
+FF10C2:0000
+
+// Charisma Stat
+FF10C4:0000
+
+// Fame Stat
+FF10C8:0000
+
+// Vassals
+FF10C4:0000
+
+// Active Player In List
+FF10C6:0000
+
+// Activate Fame Stat
+FF10C6:0000
+
+// Family Relation
+FF10C8:0000
+
+// Political Stat
+FF10CE:0000
+
+// War Stat
+FF10CE:0000
+
+// Charisma Stat
+FF10D0:0000
+
+// Fame Stat
+FF10D4:0000
+
+// Vassals
+FF10D0:0000
+
+// Active Player In List
+FF10D2:0000
+
+// Activate Fame Stat
+FF10D2:0000
+
+// Family Relation
+FF10D4:0000
+
+// Political Stat
+FF10DA:0000
+
+// War Stat
+FF10DA:0000
+
+// Charisma Stat
+FF10DC:0000
+
+// Fame Stat
+FF10E0:0000
+
+// Vassals
+FF10DC:0000
+
+// Active Player In List
+FF10DE:0000
+
+// Activate Fame Stat
+FF10DE:0000
+
+// Family Relation
+FF10E0:0000
+
+// Political Stat
+FF10E6:0000
+
+// War Stat
+FF10E6:0000
+
+// Charisma Stat
+FF10E8:0000
+
+// Fame Stat
+FF10EC:0000
+
+// Vassals
+FF10E8:0000
+
+// Active Player In List
+FF10EA:0000
+
+// Activate Fame Stat
+FF10EA:0000
+
+// Family Relation
+FF10EC:0000
+
+// Political Stat
+FF10F2:0000
+
+// War Stat
+FF10F2:0000
+
+// Charisma Stat
+FF10F4:0000
+
+// Fame Stat
+FF10F8:0000
+
+// Vassals
+FF10F4:0000
+
+// Active Player In List
+FF10F6:0000
+
+// Activate Fame Stat
+FF10F6:0000
+
+// Family Relation
+FF10F8:0000
+
+// Political Stat
+FF10FE:0000
+
+// War Stat
+FF10FE:0000
+
+// Charisma Stat
+FF1100:0000
+
+// Fame Stat
+FF1104:0000
+
+// Vassals
+FF1100:0000
+
+// Active Player In List
+FF1102:0000
+
+// Activate Fame Stat
+FF1102:0000
+
+// Family Relation
+FF1104:0000
+
+// Political Stat
+FF110A:0000
+
+// War Stat
+FF110A:0000
+
+// Charisma Stat
+FF110C:0000
+
+// Fame Stat
+FF1110:0000
+
+// Vassals
+FF110C:0000
+
+// Active Player In List
+FF110E:0000
+
+// Activate Fame Stat
+FF110E:0000
+
+// Family Relation
+FF1110:0000
+
+// Political Stat
+FF1116:0000
+
+// War Stat
+FF1116:0000
+
+// Charisma Stat
+FF1118:0000
+
+// Fame Stat
+FF111C:0000
+
+// Vassals
+FF1118:0000
+
+// Active Player In List
+FF111A:0000
+
+// Activate Fame Stat
+FF111A:0000
+
+// Family Relation
+FF111C:0000
+
+// Political Stat
+FF1122:0000
+
+// War Stat
+FF1122:0000
+
+// Charisma Stat
+FF1124:0000
+
+// Fame Stat
+FF1128:0000
+
+// Vassals
+FF1124:0000
+
+// Active Player In List
+FF1126:0000
+
+// Activate Fame Stat
+FF1126:0000
+
+// Family Relation
+FF1128:0000
+
+// Political Stat
+FF112E:0000
+
+// War Stat
+FF112E:0000
+
+// Charisma Stat
+FF1130:0000
+
+// Fame Stat
+FF1134:0000
+
+// Vassals
+FF1130:0000
+
+// Active Player In List
+FF1132:0000
+
+// Activate Fame Stat
+FF1132:0000
+
+// Family Relation
+FF1134:0000
+
+// Political Stat
+FF113A:0000
+
+// War Stat
+FF113A:0000
+
+// Charisma Stat
+FF113C:0000
+
+// Fame Stat
+FF1140:0000
+
+// Vassals
+FF113C:0000
+
+// Active Player In List
+FF113E:0000
+
+// Activate Fame Stat
+FF113E:0000
+
+// Family Relation
+FF1140:0000
+
+// Political Stat
+FF1146:0000
+
+// War Stat
+FF1146:0000
+
+// Charisma Stat
+FF1148:0000
+
+// Fame Stat
+FF114C:0000
+
+// Vassals
+FF1148:0000
+
+// Active Player In List
+FF114A:0000
+
+// Activate Fame Stat
+FF114A:0000
+
+// Family Relation
+FF114C:0000
+
+// Max Gold
+FF141E:00FF
+
+// Max Food
+FF1420:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF1422:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF1424:00FF
+
+// Max Yellow Crops Icon (?)
+FF1424:00FF
+
+// Max Blue Castle Icon (?)
+FF1426:00FF
+
+// Max Gold
+FF1452:00FF
+
+// Max Food
+FF1454:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF1456:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF1458:00FF
+
+// Max Yellow Crops Icon (?)
+FF1458:00FF
+
+// Max Blue Castle Icon (?)
+FF145A:00FF
+
+// Max Gold
+FF14BA:00FF
+
+// Max Food
+FF14BC:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF14BE:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF14C0:00FF
+
+// Max Yellow Crops Icon (?)
+FF14C0:00FF
+
+// Max Blue Castle Icon (?)
+FF14C2:00FF
+
+// Max Gold
+FF13EA:00FF
+
+// Max Food
+FF13EC:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF13EE:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF13F0:00FF
+
+// Max Yellow Crops Icon (?)
+FF13F0:00FF
+
+// Max Blue Castle Icon (?)
+FF13F2:00FF
+
+// Max Gold
+FF18CA:00FF
+
+// Max Food
+FF18CC:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF18CE:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF18D0:00FF
+
+// Max Yellow Crops Icon (?)
+FF18D0:00FF
+
+// Max Blue Castle Icon (?)
+FF18D2:00FF
+
+// Max Gold
+FF1896:00FF
+
+// Max Food
+FF1898:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF189A:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF189C:00FF
+
+// Max Yellow Crops Icon (?)
+FF189C:00FF
+
+// Max Blue Castle Icon (?)
+FF189E:00FF
+
+// Max Gold
+FF1522:00FF
+
+// Max Food
+FF1524:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF1526:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF1528:00FF
+
+// Max Yellow Crops Icon (?)
+FF1528:00FF
+
+// Max Blue Castle Icon (?)
+FF152A:00FF
+
+// Max Gold
+FF15F2:00FF
+
+// Max Food
+FF15F4:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF15F6:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF15F8:00FF
+
+// Max Yellow Crops Icon (?)
+FF15F8:00FF
+
+// Max Blue Castle Icon (?)
+FF15FA:00FF
+
+// Max Gold
+FF1486:00FF
+
+// Max Food
+FF1488:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF148A:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF148C:00FF
+
+// Max Yellow Crops Icon (?)
+FF148C:00FF
+
+// Max Blue Castle Icon (?)
+FF148E:00FF
+
+// Max Gold
+FF13B6:00FF
+
+// Max Food
+FF13B8:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF13BA:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF13BC:00FF
+
+// Max Yellow Crops Icon (?)
+FF13BC:00FF
+
+// Max Blue Castle Icon (?)
+FF13BE:00FF
+
+// Max Gold
+FF14EE:00FF
+
+// Max Food
+FF14F0:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF14F2:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF14F4:00FF
+
+// Max Yellow Crops Icon (?)
+FF14F4:00FF
+
+// Max Blue Castle Icon (?)
+FF14F6:00FF
+
+// Max Gold
+FF18FE:00FF
+
+// Max Food
+FF1900:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF1902:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF1904:00FF
+
+// Max Yellow Crops Icon (?)
+FF1904:00FF
+
+// Max Blue Castle Icon (?)
+FF1906:00FF
+
+// Max Gold
+FF1556:00FF
+
+// Max Food
+FF1558:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF155A:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF155C:00FF
+
+// Max Yellow Crops Icon (?)
+FF155C:00FF
+
+// Max Blue Castle Icon (?)
+FF155E:00FF
+
+// Max Gold
+FF1626:00FF
+
+// Max Food
+FF1628:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF162A:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF162A:00FF
+
+// Max Yellow Crops Icon (?)
+FF162C:00FF
+
+// Max Blue Castle Icon (?)
+FF162C:00FF
+
+// Max Gold
+FF165A:00FF
+
+// Max Food
+FF165C:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF165E:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF1660:00FF
+
+// Max Yellow Crops Icon (?)
+FF1660:00FF
+
+// Max Blue Castle Icon (?)
+FF1662:00FF
+
+// Max Gold
+FF15BE:00FF
+
+// Max Food
+FF15C0:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF15C2:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF15C4:00FF
+
+// Max Yellow Crops Icon (?)
+FF15C4:00FF
+
+// Max Blue Castle Icon (?)
+FF15C6:00FF
+
+// Max Gold
+FF158A:00FF
+
+// Max Food
+FF158C:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF158E:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF1590:00FF
+
+// Max Yellow Crops Icon (?)
+FF1590:00FF
+
+// Max Blue Castle Icon (?)
+FF1592:00FF
+
+// Max Gold
+FF1966:00FF
+
+// Max Food
+FF1968:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF196A:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF196C:00FF
+
+// Max Yellow Crops Icon (?)
+FF196C:00FF
+
+// Max Blue Castle Icon (?)
+FF196E:00FF
+
+// Max Gold
+FF199A:00FF
+
+// Max Food
+FF199C:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF199E:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF1A00:00FF
+
+// Max Yellow Crops Icon (?)
+FF1A02:00FF
+
+// Max Blue Castle Icon (?)
+FF1A02:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF148E:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF1490:00FF
+
+// Max Yellow Crops Icon (?)
+FF1490:00FF
+
+// Max Blue Castle Icon (?)
+FF1492:00FF
+
+// Max Gold
+FF172A:00FF
+
+// Max Food
+FF172C:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF172E:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF1730:00FF
+
+// Max Yellow Crops Icon (?)
+FF1730:00FF
+
+// Max Blue Castle Icon (?)
+FF1732:00FF
+
+// Max Gold
+FF16F6:00FF
+
+// Max Food
+FF16F8:00FF
+
+// Max Blue Armor Suit Icon (?)
+FF16FA:00FF
+
+// Max Red/Yellow Flag Icon (?)
+FF16FC:00FF
+
+// Max Yellow Crops Icon (?)
+FF16FC:00FF
+
+// Max Blue Castle Icon (?)
+FF16FE:00FF

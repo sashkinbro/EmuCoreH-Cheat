@@ -1,0 +1,8 @@
+// Invulnerability
+00C1-C1B9
+
+// Invulnerability
+008-AFE-19B
+
+// Always Have 99 Gold
+00C0-B999

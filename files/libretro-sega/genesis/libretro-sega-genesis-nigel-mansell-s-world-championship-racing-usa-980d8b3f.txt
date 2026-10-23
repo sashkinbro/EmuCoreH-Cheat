@@ -1,0 +1,11 @@
+// Low Timer (Minutes)
+FF73F0:0000
+
+// Low Timer (Seconds)
+FF73F2:0000
+
+// Low Timer (Micro-Seconds)
+FF73F2:0000
+
+// Accelerate much faster
+KKMA-AK4N

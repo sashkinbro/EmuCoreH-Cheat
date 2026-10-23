@@ -1,0 +1,5 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Invincibility
+R1WA-A60L

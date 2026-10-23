@@ -1,0 +1,48 @@
+// Infinite Time Outs
+3A2-6DB-2A2
+
+// No Time Outs
+00C-DAF-E66
+
+// Start With 5 Time Outs
+05C-DAF-E66
+
+// Start With 10 Time Outs
+10C-DAF-E66
+
+// Only Have Enough Time For 1 Play After Kick Off In Each Quarter
+00C-F4F-F7E
+
+// 2-Minute Quarters
+02C-F4F-F7E
+
+// 60-Minute Quarters
+3CC-F4F-F7E
+
+// Infinite Play Timer
+3A8-D7E-2A2
+
+// Start With 10 Seconds On Play Clock After Most Plays
+0A0-79B-4CA
+
+// Touchdowns Worth 0 Points
+006-B09-F72
+
+// Touchdowns Worth 1 Point
+016-B09-F72
+
+// Touchdowns Worth 3 Points
+036-B09-F72
+
+// Touchdowns Worth 5 Points
+056-B09-F72
+
+// Touchdowns Worth 9 Points
+096-B09-F72
+
+// Extra Points Worth 0 Points
+000-6C9-3BA
+
+// Always 4th And Goal After A Kickoff
+049-35E-E6E
+509-30E-C42

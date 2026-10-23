@@ -1,0 +1,263 @@
+// Player 1 starts with 100 cannon rounds
+AC6T-AADG
+GW6T-BLM6
+
+// Continue with 0 machine gun rounds instead of 30
+ADST-AAGY
+
+// Continue with 10 machine gun rounds
+BMST-AAGY
+
+// Continue with 50 machine gun rounds
+GMST-AAGY
+
+// Continue with 100 machine gun rounds
+NXST-AAGY
+
+// Continue with 0 cannon rounds instead of 30
+ADST-AAG0
+
+// Continue with 10 cannon rounds
+BMST-AAG0
+
+// Continue with 50 cannon rounds
+GMST-AAG0
+
+// Continue with 100 cannon rounds
+NXST-AAG0
+
+// Continue with 0 super bombs instead of 4
+ADST-AAG2
+
+// Continue with 2 super bombs
+AMST-AAG2
+
+// Continue with 5 super bombs
+A1ST-AAG2
+
+// Continue with 9 super bombs
+BHST-AAG2
+
+// Infinite lives (player 1)
+BDMA-AA9E
+
+// Infinite lives (player 2)
+BDNA-AA3N
+
+// 1-up worth nothing
+RF3T-E60R
+
+// 1-up worth double
+LK3T-FJ0R
+
+// 1-up worth triple
+LK3T-FN0R
+
+// Start At Stage 2
+9W6T-BCKL
+AW6T-AABN
+
+// Start At Stage 3
+9W6T-BCKL
+BC6T-AABN
+
+// Start At Stage 4
+9W6T-BCKL
+BW6T-AABN
+
+// Player 1 Starts With 1 Life
+AC6T-AACG
+WW6T-BCCJ
+
+// Player 1 Starts With 2 Lives
+AC6T-AACG
+YC6T-BCCJ
+
+// Player 1 Starts With 6 Lives
+AC6T-AACG
+V46T-BECJ
+
+// Player 1 Starts With 11 Lives
+AC6T-AACG
+R46T-BECJ
+
+// Player 1 Starts With 26 Lives
+AC6T-AACG
+Z46T-AG4J
+
+// Player 2 Starts With 1 Life
+AC6T-AAD4
+WW6T-BCD6
+
+// Player 2 Starts With 2 Lives
+AC6T-AAD4
+YC6T-BCD6
+
+// Player 2 Starts With 6 Lives
+AC6T-AAD4
+V46T-BED6
+
+// Player 2 Starts With 11 Lives
+AC6T-AAD4
+R46T-BED6
+
+// Player 2 Starts With 26 Lives
+AC6T-AAD4
+Z46T-AG56
+
+// Player 1 Starts With 50 Machine Gun Rounds
+AC6T-AAC6
+FC6T-AG48
+
+// Player 1 Starts With 100 Machine Gun Rounds
+AC6T-AAC6
+GW6T-BLL8
+
+// Player 1 Starts With 50 Cannon Rounds
+AC6T-AADG
+FC6T-AG5J
+
+// Player 1 Starts With 100 Cannon Rounds
+AC6T-AADG
+GW6T-BLMJ
+
+// Player 1 Starts With 6 Super Bombs
+AC6T-AADT
+6C6T-BRDW
+
+// Player 1 Starts With 9 Super Bombs
+AC6T-AADT
+8C6T-BRDW
+
+// Player 1 Has Infinite Super Bombs
+AVMT-AA5W
+AVNA-AA4R
+
+// Player 2 Starts With 50 Machine Gun Rounds
+AC6T-AAET
+FC6T-AG6W
+
+// Player 2 Starts With 100 Machine Gun Rounds
+AC6T-AAET
+GW6T-BLNW
+
+// Player 2 Starts With 50 Cannon Rounds
+AC6T-AAE4
+FC6T-AG66
+
+// Player 2 Starts With 100 Cannon Rounds
+AC6T-AAE4
+GW6T-BLN6
+
+// Player 2 Starts With 6 Super Bombs
+AC6T-AAFE
+6C6T-BRFG
+
+// Player 2 Starts With 9 Super Bombs
+AC6T-AAFE
+8C6T-BRFG
+
+// Player 2 Has Infinite Supply Of Super Bombs
+AVMT-AA76
+AVNA-AA2G
+
+// Player 1 Continues With 1 Life
+ADMT-AADL
+WXMT-BCDN
+
+// Player 1 Continues With 2 Lives
+ADMT-AADL
+YDMT-BCDN
+
+// Player 1 Continues With 6 Lives
+ADMT-AADL
+V5MT-BEDN
+
+// Player 1 Continues With 11 Lives
+ADMT-AADL
+R5MT-BEDN
+
+// Player 1 Continues With 26 Lives
+ADMT-AADL
+Z5MT-AG5N
+
+// Player 2 Continues With 1 Life
+ADNA-AAFT
+WXNA-BCFW
+
+// Player 2 Continues With 2 Lives
+ADNA-AAFT
+YDNA-BCFW
+
+// Player 2 Continues With 6 Lives
+ADNA-AAFT
+V5NA-BEFW
+
+// Player 2 Continues With 11 Lives
+ADNA-AAFT
+R5NA-BEFW
+
+// Player 2 Continues With 26 Lives
+ADNA-AAFT
+Z5NA-AG7W
+
+// Get First 1-Up At 1,000 Points
+1K3T-FBFC
+JV3T-EL7G
+
+// Get 2nd, 3rd, Etc., 1-Ups Every 10,000 Points
+HV3T-FEP8
+AF3T-EAGA
+
+// Gives Ben Unlimited Machine Gun Bullets
+ALBA-EA2T
+
+// Gives Andy Unlimited Machine Gun Bullets
+ALBA-EA8L
+
+// Gives Ben Unlimited Cannon Shots
+ALAT-EA9W
+
+// Gives Andy Unlimited Cannon Shots
+ALBA-EA7N
+
+// Gives Ben Unlimited Super Bombs
+AVNA-AA4R
+
+// Gives Andy Unlimited Super Bombs
+AVMT-AA76
+
+// Combined Gives Ben Infinite Lives
+AXMA-AA9E
+ATTA-AA6G
+
+// Combined Gives Andy Infinite Lives
+AXNA-AA3N
+
+// Infinite Time
+ATGT-AA2L
+
+// Can shoot thru walls, buildings, etc
+ACGA-EA6L
+
+// Can walk thru walls, buildings, etc
+ABFA-AA5E
+
+// Character Blinks
+AB6A-EA50
+
+// Infinite S. Bomb P1
+AKNA-AA4R
+AKMT-AA5W
+
+// Infinite S. Bomb P2
+AKNA-AA2G
+
+// Infinite Ammo P1 P2
+ALCT-EA3L
+
+// Infinite Credit P1
+AMPT-AA5A
+
+// Infinite Credit P2
+AMRA-AA2T

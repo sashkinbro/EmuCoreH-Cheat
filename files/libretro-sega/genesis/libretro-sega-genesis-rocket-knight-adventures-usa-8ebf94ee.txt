@@ -1,0 +1,168 @@
+// Infinite Health
+FFC040:003F
+
+// Infinite Power Meter
+FFC05C:003F
+
+// Infinite Lives
+FFFB0C:0009
+
+// Invincible
+FFC068:0030
+
+// Start on Level 2
+ATFA-AAET
+
+// Start on Level 3
+HJFA-AAET
+
+// Start on Level 4
+FYFA-AAET
+
+// Start on Level 5
+GAFA-AAET
+
+// Start on Level 6
+GEFA-AAET
+
+// Start on Level 7
+F6FA-AAET
+
+// Infinite Lives
+RENA-C6Y8
+
+// Start with 99 Lives in Children difficulty
+XFRA-AABN
+
+// Start with 99 Lives in Easy difficulty
+XFRA-AABR
+
+// Start with 99 Lives in Normal difficulty
+XFRA-AABT
+
+// Start with 9 Continues in Children difficulty
+BFRA-AABY
+
+// Start with 9 Continues in Easy difficulty
+BFRA-AAB0
+
+// Start With 9 Continues In Normal difficulty
+BFRA-AAB2
+
+// Start With 9 Continues In Hard Difficulty
+BFRA-AAB4
+
+// Infinite Continues
+AKWA-AA46
+
+// Infinite Energy
+AM4T-AA4L
+
+// Infinite Energy in Pig Droid Battle
+LL9A-EJEA
+
+// Invincibility normal stages
+AD4A-AA5L
+
+// Invincibility Flying stages
+AD4A-AA48
+
+// Invincible To Pig Robot
+EL3T-EA50
+
+// Invincible To Pig Robot Battle
+GC8T-ETSE
+
+// 2x Faster Rocket Charging
+PH5A-BJTL
+
+// walk very fast
+AD3A-AAVG
+AD3A-AAJW
+
+// Start With More Energy
+P6FA-AAF4
+P7LT-AACG
+
+// Start With MUCH More Energy
+76FA-AAF4
+77LT-AACG
+
+// Infinite Health
+AX4T-AA4L
+
+// Infinite Lives
+ATNA-CA64
+
+// Higher Jump
+9D0T-B97C
+
+// Keep Charge When Hit
+LX4T-AA90
+
+// 3x Charge Speed
+PH5A-BNTL
+
+// 4x Charge Speed
+PH5A-BTTL
+
+// 8x Charge Speed (Nearly Instantaneous)
+PH5A-BATL
+
+// Infinite Lives (Alt)
+AJNA-CA6Y
+
+// Invincible Against Moving Wall (Stage 1-3)
+3BRA-C96Y
+
+// Rocket Knight Can't Be Crushed By The Moving Floor (Stage 5)
+ACTA-CA3G
+
+// Rocket Knight Can Go Through The Spikes On The Railroad Level
+RZWT-C608
+
+// Rocket Knight Is Invincible Against Touching Big Pig Robot While Running of From It
+R03T-E6XC
+
+// Invincible In The Battle With Pig Robot
+E48T-EA82
+
+// Rocket Knight Can't Be Dropped Off The Spaceship In His Final Battle With Another Knight (Without Switching Into The Flying Mode)
+R0VT-G6W0
+
+// Invincible Against Falling Off The Screen And Against Being Crushed Between Big Pig Robot's Body And A Wall (Stage 5)
+ADDT-AA2W
+0XDT-ATJY
+
+// Switches Flying Rocket Knight Into 'Just Walking' One
+9DPT-A57N
+
+// Switches Flying Rocket Knight Into 'Just Walking' One  (But After Pressing Hit And Jump Buttons Together)
+HD1T-ATHL
+AX1T-AAHN
+RH1T-BBSR
+AX1T-AR9T
+AD1T-AC9W
+AX1T-B79Y
+R11T-A610
+
+// Rocket Knight Hits All The Enemies On The Screen
+E53T-AA9E
+
+// Autofire In The Flying Mode
+RHPT-A6Y4
+
+// Hyper Sparkster
+FFC01E:00FF
+
+// Moon Jump
+FFC014:00A0
+
+// Press Right For Record Demo Cheat (pause game)
+FFB1AA:000B
+
+// Stage Modifier
+FFFB12:0001
+
+// Regional Lockout Bypass (European and Japanese Systems)
+A2BT-AA7W

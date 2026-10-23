@@ -1,0 +1,16 @@
+// Max Score
+00C4-6609
+00C4-6709
+00C4-6809
+00C4-6909
+00C4-6A09
+00C4-6B09
+
+// Infinite Red Blocks (Hits)
+00C7-0603
+
+// Infinite Health
+000-BBE-3BE
+
+// Invulnerability
+00DA-177E

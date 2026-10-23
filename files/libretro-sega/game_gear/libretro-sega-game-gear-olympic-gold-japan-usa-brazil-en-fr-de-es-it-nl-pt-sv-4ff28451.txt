@@ -1,0 +1,20 @@
+// Start With 10 Arrows
+0A6-08B-F72
+
+// Start With 15 Arrows
+0F6-08B-F72
+
+// Start With 20 Arrows
+146-08B-F72
+
+// Infinite Arrows
+009-A7B-3BE
+
+// Infinite Time
+005-6EF-3BA
+
+// Infinite Arrows
+00D6-7C06
+
+// Infinite Stamina - Swimming
+66A-1A8-3BB

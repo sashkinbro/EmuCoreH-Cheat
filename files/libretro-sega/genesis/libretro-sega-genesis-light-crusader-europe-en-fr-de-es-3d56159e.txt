@@ -1,0 +1,83 @@
+// Infinite Gold
+FFF028:FFFF
+
+// All Weapons
+FFF134:00FF
+
+// All Gloves
+FFF136:00FF
+
+// Infinite Air
+FFF130:0063
+
+// Infinite Earth
+FFF132:0063
+
+// Inventory
+FFF100:0000
+FFF13E:0000
+
+// Infinite Boots effect and costume effect
+FFF030:0008
+
+// Start with max gold
+96ZT-F99Y
+
+// Infinite Gold
+AL4A-CA84
+
+// Infinite Magic
+R1RT-A61L
+
+// Infinite Health
+AMWT-AA2J
+R1WT-A6TT
+
+// Any Heal method
+G6TA-CAF4
+
+// Start with Sextant and Boots
+E60A-EGJ2
+
+// Start with Costume and Crest
+G60A-FLJ4
+
+// Infinite Boots effect and costume effect
+F1ST-ATCW
+
+// Mega Jump
+AA4T-ATHR
+
+// Start With 9999 Gold
+B6ZT-ERSY
+
+// Almost Invincible Except Fire From Pillars
+JMWA-AR68
+
+// Invincible To Fire From Pillars
+GJ1A-CA2C
+
+// Eat Food Anytime
+RETA-C6Z0
+
+// The Bartender Sells Cubes Instead Of Wine
+EHHA-CAS0
+
+// Infinite Cubes
+AKZA-EA8Y
+
+// Walk Through Doors, Enemies And Some Objects
+BKHT-AA94
+
+// Start With All The Equipment
+96ZT-F99A
+96ZT-F99C
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Invincibility
+R1WA-A6ZA

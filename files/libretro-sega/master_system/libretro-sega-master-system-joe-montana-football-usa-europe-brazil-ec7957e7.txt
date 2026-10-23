@@ -1,0 +1,5 @@
+// Team 1 Has A High Scores
+00C8-6699
+
+// Team 2/CPU Never Scores
+00C8-6800

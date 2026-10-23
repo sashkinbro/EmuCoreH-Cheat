@@ -1,0 +1,8 @@
+// Infinite lives
+AMEA-AA9Y
+
+// Infinite missiles
+ALBA-AA94
+
+// Start with 90 missiles (instead of 50)
+MJCT-CAAA

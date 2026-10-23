@@ -1,0 +1,98 @@
+// Infinite Energy [1/2]
+RZRT-A6YT
+
+// Infinite Energy [2/2]
+RZRA-A60R
+
+// Infinite Weapons 1, 2, 4
+ATKA-CA7T
+
+// Start With Twice As Much Energy
+TADA-CAC2
+
+// Start With 3X As Much Energy
+2ADA-CAC2
+
+// Start With All Weapons!
+D6DA-CAA0
+
+// Regular Gun Starts With Twice As Much Ammo (200 Rounds)
+AADA-CEBJ
+
+// Regular Gun Starts With 4X As Much Ammo (400 Rounds)
+AADA-CJBJ
+
+// Tri-Gun Starts With Twice As Much Ammo (400 Rounds)
+AADA-CJBR
+
+// Tri-Gun Starts With 3 Times As Much Ammo (600 Rounds)
+AADA-CNBR
+
+// Laser Starts With 4x As Much Ammo (200 Rounds)
+AADA-CEBY
+
+// Flamethrower Starts With 4X As Much Ammo (800 Rounds)
+AADA-CTB4
+
+// Rocket Launcher Starts With 4X As Much Ammo (200 Rounds)
+AADA-CECA
+
+// Infinite Health
+FF0920:0040
+FF0922:0040
+
+// Infinite Lives
+FF09AA:0001
+
+// Infinite Gun Ammo
+FF0936:0255
+
+// Infinite Tri-Gun Ammo
+FF0938:0255
+
+// Infinite Laser Ammo
+FF093A:0255
+
+// Infinite Flame Thrower Ammo
+FF093C:0255
+
+// Infinite Rocket Ammo
+FF093E:0255
+
+// Have All Guns
+FF0926:001F
+
+// Infinite Time
+FF0906:0255
+
+// Infinite ammo (all weapons).
+EJKA-CA7G
+
+// Skip Intro Screens
+C2BT-AA34
+
+// Skip Intro Screens (Goes in game automatically)
+C2BT-AA34
+
+// Untouchable
+AZRT-AAVL
+RZRA-A60E
+
+// P item give you all weapons (only works in stage 1)
+ASJT-AAPN
+
+// Extremely hard
+ABPT-AADY
+
+// Enabled Cheat Code Skip Levels In Pause Hold A+B+C/Start
+RFKA-A606
+
+// 1 Shot Kill Enemies/Bosses
+RFSA-A6XN
+
+// Invincibility
+LVRT-AA40
+KVRA-AA7A
+
+// Protection from all falls.
+AAEA-CAAC

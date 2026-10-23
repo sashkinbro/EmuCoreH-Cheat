@@ -1,0 +1,17 @@
+// Infinite Energy
+AM3T-4A9A
+
+// Infinite Health
+FF6F46:0025
+
+// Invincibility/Untouchable Against Enemies. See Notes
+R1YA-4602
+
+// Enable Scene Selction in Tweaker menu
+RHTT-E6V8
+
+// Enable Operational Controls In Twearker Menu
+RHTT-E6WT
+
+// Press Z for password
+REWT-A6TA

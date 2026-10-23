@@ -1,0 +1,6 @@
+// Infinite Lives
+02B6D6:6002
+02E39A:6002
+
+// Invulnerable
+028980:4E71

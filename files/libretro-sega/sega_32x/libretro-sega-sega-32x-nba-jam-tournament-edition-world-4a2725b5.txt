@@ -1,0 +1,192 @@
+// P1 has Quick Hands Powerup
+PE0T-DEYT
+
+// P1 has Max Power Powerup
+PE0T-DEZA
+
+// P1 has Goaltending Powerup
+PE0T-DEZT
+
+// P1 has On-Fire Powerup
+PE0T-DE0A
+
+// P1 has Infinite Turbo Powerup
+PE0T-DE0T
+
+// P1 has Offense Powerup
+PE0T-DE1A
+
+// P1 has 3-Point Powerup
+PE0T-DE1T
+
+// P1 has Super Dunk Powerup
+PE1A-DETA
+
+// P1 has Power Push Powerup
+PE1A-DETT
+
+// P1 has Knockdown Both Opponents Powerup
+PE1A-DEVA
+
+// P1 has Knockdown Opposite Opponent Powerup
+PE1A-DEVT
+
+// P1 has Super Speed Powerup
+PE1A-DEWA
+
+// P1 has Teleport Pass Powerup
+PE1A-DEWT
+
+// P1 has High Shots Powerup
+PE1A-DEX6
+
+// P2 has Quick Hands Powerup
+PJ0T-DEYY
+
+// P2 has Max Power Powerup
+PJ0T-DEZE
+
+// P2 has Goaltending Powerup
+PJ0T-DEZY
+
+// P2 has On-Fire Powerup
+PJ0T-DE0E
+
+// P2 has Infinite Turbo Powerup
+PJ0T-DE0Y
+
+// P2 has Offense Powerup
+PJ0T-DE1E
+
+// P2 has 3-Point Powerup
+PJ0T-DE1Y
+
+// P2 has Super Dunk Powerup
+PJ1A-DETE
+
+// P2 has Power Push Powerup
+PJ1A-DETY
+
+// P2 has Knockdown Both Opponents Powerup
+PJ1A-DEVE
+
+// P2 has Knockdown Opposite Opponent Powerup
+PJ1A-DEVY
+
+// P2 has Super Speed Powerup
+PJ1A-DEWE
+
+// P2 has Teleport Pass Powerup
+PJ1A-DEWY
+
+// P2 has High Shots Powerup
+PJ1A-DEYA
+
+// P3 has Quick Hands Powerup
+PN0T-DEY2
+
+// P3 has Max Power Powerup
+PN0T-DEZJ
+
+// P3 has Goaltending Powerup
+PN0T-DEZ2
+
+// P3 has On-Fire Powerup
+PN0T-DE0J
+
+// P3 has Infinite Turbo Powerup
+PN0T-DE02
+
+// P3 has Offense Powerup
+PN0T-DE1J
+
+// P3 has 3-Point Powerup
+PN0T-DE12
+
+// P3 has Super Dunk Powerup
+PN1A-DETJ
+
+// P3 has Power Push Powerup
+PN1A-DET2
+
+// P3 has Knockdown Both Opponents Powerup
+PN1A-DEVJ
+
+// P3 has Knockdown Opposite Opponent Powerup
+PN1A-DEV2
+
+// P3 has Super Speed Powerup
+PN1A-DEWJ
+
+// P3 has Teleport Pass Powerup
+PN1A-DEW2
+
+// P3 has High Shots Powerup
+PN1A-DEYE
+
+// P4 has Quick Hands Powerup
+PT0T-DEY6
+
+// P4 has Max Power Powerup
+PT0T-DEZN
+
+// P4 has Goaltending Powerup
+PT0T-DEZ6
+
+// P4 has On-Fire Powerup
+PT0T-DE0N
+
+// P4 has Infinite Turbo Powerup
+PT0T-DE06
+
+// P4 has Offense Powerup
+PT0T-DE1N
+
+// P4 has 3-Point Powerup
+PT0T-DE16
+
+// P4 has Super Dunk Powerup
+PT1A-DETN
+
+// P4 has Power Push Powerup
+PT1A-DET6
+
+// P4 has Knockdown Both Opponents Powerup
+PT1A-DEVN
+
+// P4 has Knockdown Opposite Opponent Powerup
+PT1A-DEV6
+
+// P4 has Super Speed Powerup
+PT1A-DEWN
+
+// P4 has Teleport Pass Powerup
+PT1A-DEW6
+
+// P4 has High Shots Powerup
+PT1A-DEYJ
+
+// All secret powerups on - all players
+AXLT-GA8G
+9DLT-GA8Y
+
+// All secret powerups except slippery floors on - all players
+AXLT-GA8G
+9DLT-GA8Y
+5DMT-GLWR
+
+// Dunk/Layup from Anywhere - all players
+AA3A-EA86
+3J3A-ECG8
+
+// Team 1 Enable Extended Roster
+FF2238:007F
+
+// Team 2 Enable Extended Roster
+FF223A:007F
+
+// Display Shot% Powerup
+FF2CE6:0001
+
+// Enable Extended Roster
+98JA-H98W

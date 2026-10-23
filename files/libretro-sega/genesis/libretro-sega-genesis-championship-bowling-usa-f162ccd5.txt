@@ -1,0 +1,38 @@
+// Character Modifier P1
+FFF7D8:0000
+
+// Bowling Ball P1 Modifier
+FFF7DA:0000
+
+// Alley Modifier
+FFFA68:0000
+
+// First Ball Always Gets A Strike P1
+FFF824:000A
+
+// Second Ball Always Gets A Strike P1
+FFF828:000A
+
+// Third Ball Always Gets A Strike P1
+FFF82C:000A
+
+// Fourth Ball Always Gets A Strike P1
+FFF830:000A
+
+// Fifth Ball Always Gets A Strike P1
+FFF834:000A
+
+// Sixth Ball Always Gets A Strike P1
+FFF838:000A
+
+// Seventh Ball Always Gets A Strike P1
+FFF83C:000A
+
+// Eighth Ball Always Gets A Strike P1
+FFF840:000A
+
+// Nineth Ball Always Gets A Strike P1
+FFF844:000A
+
+// Tenth Ball Always Gets A Strike P1
+FFF848:000A

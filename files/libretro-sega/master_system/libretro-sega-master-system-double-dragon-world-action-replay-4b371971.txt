@@ -1,0 +1,11 @@
+// Infinite Lives P1
+00CB-2B09
+
+// Infinite Health P1
+00CB-2A55
+
+// Infinite Lives P2
+00CB-6B09
+
+// Infinite Energy P2
+00CB-6A55

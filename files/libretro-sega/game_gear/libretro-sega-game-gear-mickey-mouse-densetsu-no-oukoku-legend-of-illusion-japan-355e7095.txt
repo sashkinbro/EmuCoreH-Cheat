@@ -1,0 +1,26 @@
+// Invicibly
+00C0-9907
+
+// Gameplay Tme Always Stuck at 234sec
+00C0-A235
+
+// Maximum Life
+00C0-9F99
+
+// Infinite Health
+00C3-0503
+
+// Infinite Lives
+00C3-0409
+
+// Invulnerability
+00CB-2D7E
+
+// Invulnerability
+18E-EEE-6EA
+
+// Infinite Health
+000-ECA-E65
+
+// Infinite Lives
+002-29A-3BE

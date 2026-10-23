@@ -1,0 +1,17 @@
+// Infinite Energy (Invincible)
+AMNA-AA6T
+
+// Start With 7 Energy Balls
+A8XT-AAG6
+
+// Start With 10 Energy Balls
+BLXT-AAG6
+
+// Infinite Time
+F4ZT-AA4T
+
+// Infinite Lives
+C5NT-AA5L
+
+// Multi-Jump
+AX1T-AA6N

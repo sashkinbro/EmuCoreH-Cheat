@@ -1,0 +1,11 @@
+// Start With 1 Energy Bar
+02C-0BF-F72
+
+// Start With 2 Energy Bars
+04C-0BF-F72
+
+// 31 Vases On Pick-Up (Maximum)
+3E7-23B-80E
+
+// Hotels, Weapons, Etc. Cost Nothing
+3A4-C1D-2A2

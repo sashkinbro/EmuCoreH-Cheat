@@ -1,0 +1,189 @@
+// Infinite Energy
+RZMT-06TR
+
+// Infinite Time
+AVLT-0A4J
+
+// No Enemies
+A5ZA-YA7R
+
+// Start With 1 Skull
+ST8A-KGK2
+AE8A-JAB4
+ST8A-K736
+
+// Start With 2 Skulls
+ST8A-KGK2
+AJ8A-JAB4
+ST8A-K736
+
+// Start With 3 Skulls
+ST8A-KGK2
+AN8A-JAB4
+ST8A-K736
+
+// Start With 5 Skulls
+ST8A-KGK2
+AY8A-JAB4
+ST8A-K736
+
+// Start With 7 Skulls
+ST8A-KGK2
+A68A-JAB4
+ST8A-K736
+
+// Start With 9 Skulls
+ST8A-KGK2
+BE8A-JAB4
+ST8A-K736
+
+// Start With 5 Links
+ST8A-KGK8
+AY8A-JACA
+0T8A-K74C
+
+// Start With 10 Links
+ST8A-KGK8
+CA8A-JACA
+0T8A-K74C
+
+// Start With 15 Links
+ST8A-KGK8
+CY8A-JACA
+0T8A-K74C
+
+// Start With 25 Links
+ST8A-KGK8
+EY8A-JACA
+0T8A-K74C
+
+// Start With Silver Armor
+ST8A-KGK8
+LA8A-JACA
+0T8A-K74C
+
+// Start With Gold Armor
+ST8A-KGK8
+RY8A-JACA
+0T8A-K74C
+
+// Start With 1 Life
+BJ8A-JACN
+
+// Start With 2 Lives
+CY8A-JACN
+
+// Start With 3 Lives
+EA8A-JACN
+
+// Start With 6 Lives
+JE8A-JACN
+
+// Start With 8 Lives
+L68A-JACN
+
+// Start With 10 Lives
+PY8A-JACN
+
+// Start At Level 2
+CA8A-JA8G
+
+// Start At Level 3
+EJ8A-JA8G
+
+// Start At Level 4
+GT8A-JA8G
+
+// Start At Level 5
+J28A-JA8G
+
+// Start At Level 6
+MA8A-JA8G
+
+// Start At Level 7
+PJ8A-JA8G
+
+// Start At Level 8
+ST8A-JA8G
+
+// Start At Level 9
+AA8A-JA8G
+V28A-JAGJ
+
+// Start At Level 10
+AA8A-JA8G
+YA8A-JAGJ
+
+// Start At Level 11
+AA8A-JA8G
+0J8A-JAGJ
+
+// Start At Level 12
+AA8A-JA8G
+2T8A-JAGJ
+
+// Unlimited Time
+AVLT-0A2W
+
+// Keep Skull After Using It
+AWYA-0A6G
+
+// Link Prize Worth 5 Links
+A0ZT-2AD4
+
+// Link Prize Worth 15 Links
+C0ZT-2AD4
+
+// Link Prize Worth 25 Links
+E0ZT-2AD4
+
+// Infinite Time (Seconds)
+FF1118:0034
+
+// Infinite Health
+FF11A4:002A
+
+// Max Silver Coins
+FF11AE:0036
+
+// Invincible (Disable Hit Detection)
+V4PT-2A42
+AWSA-2A2Y
+BWRT-2A84
+ELNT-2A8R
+TW7T-2A3R
+EW0T-2A7Y
+FC2T-2A4R
+
+// Jump a little higher
+ACDT-3Z3Y
+
+// Jump a lot higher
+ACDT-3V3Y
+
+// High moon jump with slow descent
+MCDT-2ADJ
+
+// Higher moon jump with slow descent
+JCDT-2ADJ
+
+// Much less gravity when walking off ledges and touching enemies
+ECEA-2AFL
+
+// Invincibility
+FF1144:0010
+
+// Start with 9 Minutes instead of 4
+HKKT-1WJ8
+
+// 1 Hit Kill on Bosses
+A46A-2A86
+EW0T-2A7Y
+AMAA-2A5R
+
+// Enabled Secret Code Level Select In Options
+FF10EE:00FF
+
+// Enabled Secret Code Level Select In Options
+RF6T-W6WL
+RE8A-J6YE

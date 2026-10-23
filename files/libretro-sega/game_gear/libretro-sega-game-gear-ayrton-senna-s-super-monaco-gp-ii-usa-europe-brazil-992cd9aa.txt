@@ -1,0 +1,20 @@
+// Can't lose or gain place
+21B-60B-2A2
+
+// Infinite time
+00B-3DF-3B7
+
+// Always Super High Speed
+00C5-1799
+
+// You Never Crash
+00C5-2981
+
+// Auto Drive Right Turns
+663-99D-3BB
+
+// Freeze Lap Timer
+7EB-23F-3B7
+
+// Freeze Lap Timer
+00C3-2700

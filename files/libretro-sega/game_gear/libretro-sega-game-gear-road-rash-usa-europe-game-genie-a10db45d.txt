@@ -1,0 +1,25 @@
+// Don't Lose Speed On Grass
+00A-C6C-E62
+
+// Always Travel At Max Speed
+3EA-C3C-08A
+FFA-C4C-E62
+
+// Start With Very Little Bike Energy
+058-49C-916
+
+// Start With Mega Bike Energy
+FF8-49C-916
+
+// Infinite Bike Energy
+213-054-91D
+
+// Biker Information Disappears
+001-24A-A2C
+
+// Infinite Time
+00D-B5E-E6E
+
+// Inflict More Damage When You Punch Other Bikers
+3EE-9A5-4CA
+00E-9B5-F7A

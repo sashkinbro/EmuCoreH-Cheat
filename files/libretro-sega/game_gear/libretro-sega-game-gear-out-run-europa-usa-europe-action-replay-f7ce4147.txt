@@ -1,0 +1,8 @@
+// Infinite Shields
+00C0-E208
+
+// Infinite Ammo
+00C1-5D05
+
+// Infinite Turbos
+00C1-5402

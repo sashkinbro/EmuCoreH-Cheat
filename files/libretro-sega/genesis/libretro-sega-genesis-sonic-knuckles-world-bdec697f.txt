@@ -1,0 +1,917 @@
+// Enable Level Select
+RFLA-A6W4
+
+// Enable Debugger
+RFTT-A6XW
+
+// Knuckles can fight Knuckles
+BCTT-LA3Y
+BA8T-NA24
+
+// Invincible against dynamic objects (bullets, enemies, for example), except Knuckles.
+REBA-C6V6
+
+// Invincible against static objects (spikes, for example)
+RZBA-E6YA
+
+// Invincible against Knuckles
+ABTA-NA7Y
+
+// Touch an enemy, and you will destroy it (except Knuckles)
+PJAA-CA8C
+
+// Touch Knuckles, and you will damage him.
+ABTT-NA3G
+
+// Become Super/Hyper Sonic with 0 rings
+AANT-CAHL
+
+// Become Super/Hyper Knuckles with 0 rings
+AB6A-CADA
+
+// Don't use up rings to maintain the transformation of any Super/Hyper character
+AAPT-CAB8
+
+// Become Super Sonic without collecting Emeralds first
+AANT-CAG6
+
+// Become Hyper Sonic without collecting Emeralds first
+AANT-CAGY
+AAPA-CAB8
+
+// Become Super Knuckles without collecting Emeralds first
+AB6A-CACW
+
+// Become Hyper Knuckles without collecting Emeralds first
+AB6A-CACL
+AB6A-CAHR
+
+// Don't lose rings when hit
+AWXT-CA4C
+
+// Infinite time
+HXRT-AA6A
+
+// Keep shields [fire, water, lightning] when hit
+96BA-CAG6
+98MA-CAF0
+
+// Keep rings between levels
+AKVT-AA76
+AMNA-EA24
+
+// Super shoes don't run out with time
+ATGT-CA3Y
+
+// Sonic can always double jump [can't use water shield or become Super Sonic]
+RENT-C6YA
+
+// Sonic can always use Fireball Spin Dash [can't double jump, bounce, or become Super Sonic]
+RENT-C6V6
+
+// Only 1 blue sphere needed to get a chaos emerald
+RGSA-A6YY
+
+// Sonic jumps as high as Knuckles [slightly lower than usual]
+AANA-CNA0
+
+// High jump for Sonic
+4ANA-CRA0
+
+// Super jump for Sonic
+2ANA-CWA0
+
+// Mega jump for Sonic
+AANA-C4A0
+
+// Orbital jump for Sonic
+AANA-DYA0
+
+// Knuckles jumps as high as Sonic [slightly higher than usual]
+TB5T-CNCR
+
+// High jump for Knuckles
+PV5T-CRCR
+
+// Super jump for Knuckles
+AB5T-CWCR
+
+// Mega jump for Knuckles
+AB5T-C2CR
+
+// Orbital jump for Knuckles
+AB5T-DTCR
+
+// Rings worth 2 in special stage
+ALNA-AACR
+
+// Rings worth 3 in special stage
+ARNA-AACR
+
+// Rings worth 4 in special stage
+AWNA-AACR
+
+// Rings worth 5 in special stage
+A0NA-AACR
+
+// Rings worth 10 in special stage
+BLNA-AACR
+
+// Only 6 chaos emeralds needed to become Super Sonic
+A2NT-CAG6
+
+// Only 5 chaos emeralds needed to become Super Sonic
+AYNT-CAG6
+
+// Only 4 chaos emeralds needed to become Super Sonic
+ATNT-CAG6
+
+// Only 3 chaos emeralds needed to become Super Sonic
+ANNT-CAG6
+
+// Only 2 chaos emeralds needed to become Super Sonic
+AJNT-CAG6
+
+// Only 1 chaos emerald needed to become Super Sonic
+AENT-CAG6
+
+// 100 rings needed to become Super Sonic instead of 50
+NTNT-CAHL
+
+// 40 rings needed to become Super Sonic
+FANT-CAHL
+
+// 25 rings needed to become Super Sonic
+DENT-CAHL
+
+// 10 rings needed to become Super Sonic
+BJNT-CAHL
+
+// 1 ring needed to become Super Sonic
+AENT-CAHL
+
+// Rings aren't used up as Super [or Super-Duper] Sonic/Knuckles
+NTPT-CA50
+
+// Bonus round always activated after every checkpoint
+RHJA-E60L
+
+// Bonus round is always Slot Machine
+BXLA-EA5G
+
+// Bonus round is always Glowing Spheres
+A5LA-EA5G
+
+// Only 6 chaos emeralds needed to become Super Knuckles
+A36A-CACW
+
+// Only 5 chaos emeralds needed to become Super Knuckles
+AZ6A-CACW
+
+// Only 4 chaos emeralds needed to become Super Knuckles
+AV6A-CACW
+
+// Only 3 chaos emeralds needed to become Super Knuckles
+AP6A-CACW
+
+// Only 2 chaos emeralds needed to become Super Knuckles
+AK6A-CACW
+
+// Only 1 chaos emerald needed to become Super Knuckles
+AF6A-CACW
+
+// 100 rings needed to become Super Knuckles instead of 50
+NV6A-CADA
+
+// 40 rings needed to become Super Knuckles
+FB6A-CADA
+
+// 25 rings needed to become Super Knuckles
+DF6A-CADA
+
+// 10 rings needed to become Super Knuckles
+BK6A-CADA
+
+// 1 ring needed to become Super Knuckles
+AF6A-CADA
+
+// Can't drown
+ACCT-CA2R
+
+// Knuckles doesn't lose rings when hit
+AX6D-AA3W
+
+// Infinite time
+HWLX-GA2Y
+
+// Rings worth 2
+SD5X-BJT2
+
+// Rings worth 3
+SD5X-BNT2
+
+// Rings worth 4
+SD5X-BTT2
+
+// Rings worth 5
+SD5X-BYT2
+
+// Rings worth 6
+SD5X-B2T2
+
+// Rings worth 7
+SD5X-B6T2
+
+// Rings worth 8
+SD5X-BAT2
+
+// Knuckles starts with 1 life instead of 3
+AE5X-AAFY
+
+// Knuckles starts with 5 lives
+AY5X-AAFY
+
+// Knuckles starts with 7 lives
+A65X-AAFY
+
+// Knuckles starts with 9 lives
+BE5X-AAFY
+
+// Knuckles starts with 25 lives
+DE5X-AAFY
+
+// Knuckles starts with 50 lives
+GJ5X-AAFY
+
+// Knuckles starts with 75 lives
+KN5X-AAFY
+
+// Knuckles starts with 99 lives
+NN5X-AAFY
+
+// Infinite lives
+JV1D-CA6W
+
+// High jump for Knuckles
+PVWD-CRDC
+
+// Super jump for Knuckles
+ABWD-CWDC
+
+// Mega jump for Knuckles
+ABWD-C2DC
+
+// Orbital jump for Knuckles
+ABWD-DTDC
+
+// Start with 1 life instead of 3
+AFKT-AAG0
+
+// Start with 2 lives
+AKKT-AAG0
+
+// Start with 4 lives
+AVKT-AAG0
+
+// Start with 5 lives
+AZKT-AAG0
+
+// Start with 7 lives
+A7KT-AAG0
+
+// Start with 9 lives
+BFKT-AAG0
+
+// Start with 25 lives
+DFKT-AAG0
+
+// Start with 50 lives
+GKKT-AAG0
+
+// Start with 99 lives
+NPKT-AAG0
+
+// Infinite lives
+K2WA-CA4J
+
+// Get One Emerald To Get Them All
+CLRA-BA0Y
+
+// Only One Blue Sphere Needed To Win Emerald
+9WSA-BCET
+
+// Infinite Lives
+AJWA-CA4J
+
+// Invincibility
+ZTBA-CR6T
+AVBA-EA7N
+KJBT-CR5L
+
+// Knuckles Can Fight Knuckles
+BCTT-LA3Y
+BA8T-NA24
+
+// Become Hyper Sonic Without Collecting Emeralds First
+AANT-CAGY
+AAPA-CAB8
+
+// Become Hyper Knuckles Without Collecting Emeralds First
+AB6A-CACL
+AB6A-CAHR
+
+// Blue Knuckles In Level Select
+AV8A-AAE6
+
+// Tails Through Level Select
+AK8A-AAE6
+
+// Each Ring Is Worth 3
+SCWT-DNZR
+
+// Each Ring Is Worth 8
+SCWT-DAZR
+
+// Rings Worth 51
+SCWT-DDZR
+
+// Rings Worth 16
+SCWT-DXZR
+
+// Rings Worth 22
+SCWT-D1ZR
+
+// Rings Worth 12
+SCWT-D5ZR
+
+// Rings Worth 109
+SCWT-D9ZR
+
+// Whenever You're Hit, Your Ring Count Goes To 99
+NRXT-CACE
+
+// Level Select
+RE6D-A6TN
+
+// Enable Debugger
+RE7D-A60W
+
+// Become Super Knuckles With 0 Rings
+ABWX-CADG
+
+// Don't Use Up Rings To Maintain Transformation of Super Knuckles
+ABXD-CACA
+
+// Become Super Knuckles With 0 Emeralds
+ABWX-CAC8
+
+// The Regular Level Music Plays When Super Knuckles, Instead of The Super Theme
+ADFW-8AF6
+
+// Keep Shields (Fire, Water, Lightning) When Hit
+96BA-CAG6
+98MA-CAF0
+
+// Keep Rings Between Levels
+AKVT-AA76
+AMNA-EA24
+
+// Can Access 'Sound Test' Menu From Title Screen
+AVFA-AR74
+
+// Knuckles Travels With Tails!
+ABZT-AA5Y
+PKZT-B950
+
+// Double Jump For Invincible (Sonic Only)
+AX9A-A59C
+
+// Sonic Has Less Gravity When Hit
+KJVA-DXSE
+
+// Sonic Spins When Standing
+92ZT-C9KA
+
+// Become Super Tails With 0 Rings
+ABJT-CACJ
+
+// Become Super Tails Without Collecting Emeralds First
+ABJT-CACA
+
+// Push Any Jump Button To Make Knuckles Float
+AB6A-DAJC
+
+// Knuckles Don't Go Anywhere When Spin Dashing
+AP2A-DAR2
+
+// Knuckles Can't Glide When Flying
+AP6A-DAXT
+
+// Knuckles Fly Upwards
+AP2A-DAEE
+
+// Knuckles Is Untouchable To Enemies
+AEBA-DAJW
+
+// Knuckles Is Invincible
+AEBA-DAGE
+
+// Knuckles Spin Fast When Jumping
+AZ9A-DARG
+
+// Knuckles Runs Hyper
+AZ9A-DADT
+
+// Knuckles Runs Differently #1
+AB9A-DA3J
+
+// Knuckles Runs Differently #2
+BB9A-DA3J
+
+// Knuckles Runs Differently #3
+CB9A-DA3J
+
+// Knuckles Runs Differently #4
+DB9A-DA3J
+
+// Knuckles Runs Differently #5
+EB9A-DA3J
+
+// Knuckles Runs Differently #6
+FB9A-DA3J
+
+// Knuckles Runs Differently #7
+GB9A-DA3J
+
+// Knuckles Runs Differently #8
+HB9A-DA3J
+
+// Knuckles Runs Differently #9
+JB9A-DA3J
+
+// Knuckles Runs Differently #10
+KB9A-DA3J
+
+// Knuckles Runs Differently #11
+LB9A-DA3J
+
+// Knuckles Runs Differently #12
+MB9A-DA3J
+
+// Knuckles Runs Differently #13
+NB9A-DA3J
+
+// Knuckles Runs Differently #14
+PB9A-DA3J
+
+// Knuckles Runs Differently #15
+RB9A-DA3J
+
+// Knuckles Runs Differently #16
+SB9A-DA3J
+
+// Knuckles Runs Differently #17
+TB9A-DA3J
+
+// Knuckles Can Be Easily Control When Jumping
+AK5A-DA6C
+
+// Music 1
+ATRA-CAAA
+
+// Music 2
+BTRA-CAAA
+
+// Music 3
+CTRA-CAAA
+
+// Music 4
+DTRA-CAAA
+
+// Music 5
+ETRA-CAAA
+
+// Music 6
+FTRA-CAAA
+
+// Music 7
+BARA-CAAA
+
+// Music 8
+CARA-CAAA
+
+// Music 9
+DARA-CAAA
+
+// Music 10
+EARA-CAAA
+
+// Music 11
+FARA-CAAA
+
+// Music 12
+GARA-CAAA
+
+// Music 13
+AERA-CAAA
+
+// Music 14
+BERA-CAAA
+
+// Music 15
+CERA-CAAA
+
+// Music 16
+DERA-CAAA
+
+// Music 17
+EERA-CAAA
+
+// Music 18
+FERA-CAAA
+
+// Music 19
+GERA-CAAA
+
+// Music 20
+AJRA-CAAA
+
+// Music 21
+BJRA-CAAA
+
+// Music 22
+CJRA-CAAA
+
+// Music 23
+DJRA-CAAA
+
+// Music 24
+EJRA-CAAA
+
+// Music 25
+GJRA-CAAA
+
+// Music 26
+ANRA-CAAA
+
+// Music 27
+BNRA-CAAA
+
+// Music 28
+CNRA-CAAA
+
+// Music 29
+DNRA-CAAA
+
+// Music 30
+ENRA-CAAA
+
+// Music 31
+AYRA-CAAA
+
+// Music 32
+BYRA-CAAA
+
+// Music 33
+CYRA-CAAA
+
+// Music 34
+DYRA-CAAA
+
+// Music 35
+EYRA-CAAA
+
+// Music 36
+FYRA-CAAA
+
+// Music 37
+A2RA-CAAA
+
+// Music 38
+B2RA-CAAA
+
+// Music 39
+C2RA-CAAA
+
+// Music 40
+D2RA-CAAA
+
+// Music 41
+E2RA-CAAA
+
+// Music 42
+F2RA-CAAA
+
+// Music 43
+A6RA-CAAA
+
+// Music 44
+B6RA-CAAA
+
+// Music 45
+C6RA-CAAA
+
+// Music 46
+D6RA-CAAA
+
+// Music 47
+E6RA-CAAA
+
+// Music 48
+F6RA-CAAA
+
+// Play As Shadow
+Y26A-AAAG
+
+// Play As Prism
+A26A-AAA4
+
+// Level Select
+AJNA-AA32
+
+// Enter Debug Mode By Pressing Down
+ZAPT-CRH0
+
+// Never Drown
+ACCT-CA6W
+
+// Music Still Plays When You Pause The Game
+AALA-AAA8
+
+// Sonic, Knuckles And Tails Are Completely Black
+XA7T-AAY8
+
+// Keep Rings Between Levels
+AKVT-AA76
+
+// Rings Leave Sparkles In The Special Stages
+RGSA-A6AN
+
+// Blue Spheres Disappear And Count As Rings
+RGSA-A6WY
+
+// The Clock Runs Fast But When It Reaches 10 Minutes It Returns To 9 Minutes
+HXRT-AC6A
+
+// Invincibility
+NTBT-CB50
+
+// No Spin When JumpIng
+AANA-DYYY
+
+// Sonic Uses Hyper Sonic's Flash Attack By Pressing A, B Or C Twice
+RENT-CNA6
+
+// Extremely Fast Game
+WAPT-D2B0
+
+// Sonic Never Gets Dashing
+AAXT-CBA4
+
+// When Hit Your Rings Fall From The Sky!
+AWXT-CADA
+
+// Infinite Rings
+FFFE20:00C8
+
+// Infinite Lives
+FFFE12:0009
+
+// Infinite Continues
+FFFE18:0009
+
+// Only Need 1 Blue Sphere For Chaos Emerald
+FFE438:0001
+
+// Stage/Act Modifier
+FFFE10:0004
+
+// Invincible (Only Tested On Sonic &amp; Knuckles With Sonic 2)
+FFB02A:0002
+
+// Stage Select (Press A + Start)
+FFFFE0:0001
+
+// Infinite Time
+FFFE24:0005
+
+// Switch F/X On For Levitate Jump For Sonic Or Knuckles
+FFB01A:00FE
+
+// Play As Knuckles
+FFFF0A:0003
+
+// Play As Tails
+FFFF0A:0002
+
+// Play As Sonic
+FFFF0A:0001
+
+// Knuckles Level Layout
+FFB038:0002
+
+// Tails Level Layout
+FFB038:0001
+
+// Sonic Level Layout
+FFB038:0000
+
+// Sonic, Tails, and Knuckles Shoe Color Modifier (Base Color)
+FFFC0C:0000
+
+// HUD Display Modifier
+FFF710:0000
+
+// Disable Water
+FFF730:0000
+
+// Infinite Air P1
+FFB02C:001E
+
+// Infinite Air P2
+FFB076:001E
+
+// Hacc's Difficulty Mode
+FFF710:0003
+
+// P1 Status Modifier
+FFFE18:00BE
+
+// Rings Multiplier
+FFF710:0000
+
+// Water Height
+FFF646:0000
+
+// Water Height
+FFF648:00BE
+
+// Controls The Draining
+FFF64A:0006
+
+// Water Height
+FFF64A:0000
+
+// Stage Music Modifier (1 Player Mode)
+FFFF90:0000
+
+// Glowing Player
+FFF65E:00FF
+
+// Infinite Super/Hyper Powers
+FFF670:000B
+
+// Press Up for Sound Test (Far Left Swing Vine)
+FFBFC0:0008
+
+// Knuckles can fly.
+JB2A-CCEJ
+
+// Knuckles Can Fly
+AB2A-CJEJ
+
+// Knuckles Can Fly (Alternate 2).
+AB2A-CTEJ
+
+// Less gravity. Makes Sonic or Knuckles do high moon jumps with slow descent
+C4ZT-CACE
+
+// Much less gravity. Makes Sonic or Knuckles do super high moon jumps with slow descent
+BLZT-CACE
+
+// Sonic Can Glide a Short Distance (Press jump button twice)
+9ENT-C6TY
+AENT-CAA0
+JJNT-DT22
+
+// Sonic Can Glide a Longer Distance (Press jump button twice)
+9ENT-C6TY
+AENT-CAA0
+JJNT-DT22
+BLZT-CACE
+
+// Sonic Accelerates Much Faster.
+KJFT-CACC
+
+// Knuckles accelerates much faster.
+KKWA-CAHW
+
+// 1 Hit Kills Bosses
+FEAT-CEWW
+
+// 1 hit kills bosses (alternate code).
+KCHT-NA5N
+
+// Press Start In-game to exit gameplay.
+AJLA-AA38
+
+// Can't Pause The Game
+AAKT-AA94
+
+// Invisible Treadmill(Run/Walk in place)
+R0ZT-C6Y2
+
+// Hit an enemy for a 1-up
+RHRA-A61J
+
+// Invincibility
+RYBA-C6YY
+R1NT-T6XL
+R1NT-T6TG
+
+// Don't lose rings when hit (my alternate version)
+ALXT-CA36
+
+// Don't Lose Rings When Hit, No Ring Scatter Either
+R0XA-C606
+
+// Yellow Flying Things On Mushroom Hill Are Frozen
+R1TA-T61T
+
+// Some Rings Fall Through The Ground When Hit
+R00A-C6V0
+
+// Walk Through Walls Horizontal (Straight Floor/Grounds Only)
+RYKT-C6WL
+
+// Restart Level (Turn Off To Disable)
+RZWT-A6WR
+
+// Mushroom Platforms Don't Give Way
+R0ZT-C6XC
+
+// Speed Posts Can't Be Grabbed
+R13A-G6Z8
+
+// Random Spring Jumping
+BA4A-EA7L
+
+// Green Trap Thing On Mushroom Hill Has No Effect/Pull
+R10A-G6YL
+
+// Slide/Roll Over Certain Objects
+BDTT-CA6G
+
+// Pause the game and press A to play Special Stages.  See notes.
+RELA-A6V8
+GTLA-AACL
+
+// Pause the game and press A for Level Select menu. See notes.
+RELA-A6V8
+FALA-AACL
+
+// Pause the game and press B or C to give Sonic or Knuckles much faster acceleration. See notes.
+RELA-A6V8
+KJLA-AAF8
+NJLA-BS8A
+
+// Sonic Can Always Double Jump. See notes.
+N2NT-CA24
+
+// Sonic Jumps Higher On His Second Jump When Using the Double Jump
+AANT-DS6T
+
+// Sonic Jumps Much Higher On His Second Jump When Using the Double Jump
+TANT-DK6T
+
+// Press the jump button twice to become invincible. See notes.
+AX9A-AA9A
+
+// Timer Runs At Double Speed (2x Faster Than Normal)
+D5RT-AAD8
+
+// Timer Runs At Half Speed (2x Slower Than Normal)
+SDRT-AAD8
+
+// Timer Runs At One Quarter Speed (4x Slower Than Normal)
+8DRT-AAD8
+
+// Can Become Super Sonic At Any Time By Doing a Double Jump. See notes.
+C2NT-CA82
+
+// No rings are subtracted when you are Super/Hyper Sonic or Knuckles.
+RYPT-C6X0
+
+// Can Become Super Knuckles At Any Time By Doing a Double Jump. See Notes.
+C36A-CA4R
+
+// Can Become Hyper Knuckles At Any Time By Doing a Double Jump. See notes.
+C36A-CA4R
+RF6A-C61W
+
+// Anytime Knuckles Lands On A Wall, The Ground Shakes Killing All Enemies On Screen
+BBYT-CA7N
+
+// Double jump to make Sonic do a Super Glide and kill all enemies on screen.  See notes.
+RENT-C6T8
+AANT-CA3A
+
+// Can Become Hyper Sonic At Any Time By Doing a Double Jump.  See notes.
+C2NT-CA82
+REPA-C6WC
+
+// Pause the game to enable debugger (alternate version).  See notes.
+BALA-B72N
+
+// Red Spheres Have No Effect
+A4MT-AA5J

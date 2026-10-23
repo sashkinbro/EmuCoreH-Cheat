@@ -1,0 +1,67 @@
+// Infinite Energy
+AJRA-JA60
+AKRA-CA2A
+AKWA-CA5N
+
+// Invincibility
+RYRA-J6Y0
+RZRA-C6TA
+RZWA-C6XN
+
+// Infinite Lives
+ALCT-AA9W
+
+// Invincibility
+AABT-AEG4
+
+// Invincibility And Level Select
+AABT-ANG4
+
+// Invincibility, Level Select, And All Hidden Items Are Shown With A Blue Star
+AABT-B8G4
+
+// Get Dropped At The Spot After A Special Stage
+BK8A-AA96
+
+// Infinite Health
+FFC038:0004
+
+// Infinite Lives
+FFE578:0063
+
+// Cheat Enabled Modifier
+FFFE04:0004
+
+// High moon jump with slow descent.
+CBSA-CAA8
+
+// Super high moon jump with slow descent.
+BKSA-CAA8
+
+// Start with ?? Lives
+AZ5T-BA9E
+
+// Continue with ?? Lives
+AZFT-MA2C
+
+// Start with 9 Continues, instead of 5, like the Japanese version
+9V5T-BCAG
+BF5T-AAAJ
+
+// Invincibility
+RH0A-C6ZR
+
+// Infinite Time (Bonus Rooms)
+AX7T-AA22
+AX7T-AA4G
+
+// Infinite Continues
+AM9A-LA4E
+
+// Enable Debug Invincibility
+F50A-CA4C
+
+// Jump in Midair
+AB0T-CC6N
+8B0T-CCER
+RF0T-C6YT

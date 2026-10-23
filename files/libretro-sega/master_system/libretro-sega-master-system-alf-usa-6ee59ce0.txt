@@ -1,0 +1,35 @@
+// Infinite Lives
+00C2-4A09
+
+// Infinite Money ($255)
+00CF-70FF
+
+// Item Slot Modifier 1
+00CF-5701
+
+// Item Slot Modifier 2
+00CF-5800
+
+// Item Slot Modifier 3
+00CF-5900
+
+// Item Slot Modifier 4
+00CF-5A00
+
+// Item Slot Modifier 5
+00CF-5B00
+
+// Item Slot Modifier 6
+00CF-5C00
+
+// Item Slot Modifier 7
+00CF-5D00
+
+// Item Slot Modifier 8
+00CF-5E00
+
+// Item Slot Modifier 9
+00CF-5F00
+
+// Infinite Lives
+3A3-7BF-2A2

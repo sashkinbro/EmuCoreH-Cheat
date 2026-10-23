@@ -1,0 +1,107 @@
+// Start Timer Runs Slower
+AEPT-AADY
+
+// Player 1 Starts With 1 Life
+AARA-AAAA
+
+// Player 1 Starts With 2 Lives
+AERA-AAAA
+
+// Player 1 Starts With 3 Lives
+AJRA-AAAA
+
+// Player 1 Starts With 6 Lives
+AYRA-AAAA
+
+// Player 1 Starts With 8 Lives
+A6RA-AAAA
+
+// Player 1 Starts With 10 Lives
+BERA-AAAA
+
+// Player 2 Starts With 1 life
+AARA-AAAG
+
+// Player 2 Starts With 2 Lives
+AERA-AAAG
+
+// Player 2 Starts With 3 Lives
+AJRA-AAAG
+
+// Player 2 Starts With 6 Lives
+AYRA-AAAG
+
+// Player 2 Starts With 8 Lives
+A6RA-AAAG
+
+// Player 2 Starts With 10 Lives
+BERA-AAAG
+
+// Trip Timer Is Disabled
+AJSA-AA9N
+
+// Unlimited Lives For Player 1
+ATST-AA92
+
+// Unlimited Lives For Player 2
+ATTA-AA66
+
+// Unlimited Continues For Both Players
+AJVA-AA5Y
+AJVT-AA2C
+AMWA-AA3R
+
+// Burger Prize Worth Same As Star Prize
+EX1A-AA38
+
+// Star Prize Is Worth Double
+P11A-BJXW
+
+// Star Prize Is Worth Triple
+P11A-BNXW
+
+// Baloo Jumps Much Higher
+9GXT-D982
+9GYA-D99C
+
+// Baloo Jumps Higher
+9LXT-D982
+9LYA-D99C
+
+// Baloo Jumps Lower
+90XT-D982
+90YA-D99C
+
+// Kit Jumps Much Higher
+9MAA-D94Y
+9MAT-D98E
+
+// Kit Jumps Higher
+9SAA-D94Y
+9SAT-D98E
+
+// Kit Jumps Lower
+91AA-D94Y
+91AT-D98E
+
+// Unlimited Health For Both Players
+EMST-CA66
+
+// Infinite Lives (Baloo &amp; Kit)
+FF27CC:0009
+
+// Infinite Health (Baloo &amp; Kit)
+FF2BAC:0009
+
+// Auto Attack
+AC0A-CA8E
+
+// Walk Thru Walls
+ABCA-AA9Y
+
+// Invulnerability (Walk Thru Enemies)
+ABGA-AR3N
+
+// Title music / sound effect / DAC/PCM modifier
+ACFA-BA5G
+ACFA-A8FR

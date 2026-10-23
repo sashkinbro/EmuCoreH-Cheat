@@ -1,0 +1,57 @@
+// Hit Anywhere/Get Items From Anywhere
+ABST-AA56
+XVST-AAD8
+
+// Invincibility
+R1CT-A600
+
+// One Hit Kills
+RE3A-C6WY
+
+// P1 always has 999999990 score points
+FF40B0:9999
+FF40B2:9999
+
+// P2 always has 999999990 score points
+FF40E0:9999
+FF40E2:9999
+
+// Option Rank
+FF340A:0000
+
+// Main Menu Cursor Select Modifier
+FF34C6:0000
+
+// Instant kills P1
+FF6032:000C
+FF603C:0000
+FF603C:0000
+
+// Instant kills P2
+FF6132:000C
+FF613C:0000
+FF613C:0000
+
+// Instant Kills 1st Enemy
+FF6232:000C
+FF623C:0000
+FF623C:0000
+
+// Instant Kills 2nd Enemy
+FF6332:000C
+FF633C:0000
+FF633C:0000
+
+// Instant Kills 3rd Enemy
+FF6432:000C
+FF643C:0000
+FF643C:0000
+
+// Instant Kills 4th Enemy
+FF6532:000C
+FF653C:0000
+FF653C:0000
+
+// P2 always has Full HP
+FF613C:0001
+FF613C:0067

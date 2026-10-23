@@ -1,0 +1,41 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Infinite Lives
+AVRC-JA5J
+
+// Health Always 100%
+AL3W-JA9N
+
+// Ammo
+AL3W-JA30
+
+// Infinite Ammo for Weapon Plasma
+AVTC-JA3W
+
+// Infinite Shield In The Level Asteroids
+AV2C-JA70
+
+// Coninue
+AW6C-JA5A
+
+// Freeze Time To Sea Pod From Running Intro Walls
+AT4W-LA6L
+
+// No Damage To Sea Pod From Running Intro Walls
+AWCC-LA9L
+
+// Invincibility
+R02C-J6YT
+R04C-J6YW
+R04C-J6WC
+R0FC-L6X6
+
+// Infinite Health
+AL3W-JA9N
+
+// Infinite Jump
+ABXW-JACY

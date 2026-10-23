@@ -1,0 +1,17 @@
+// Invulnerability
+00E-8EE-3B4
+
+// Invulnerability
+007-71A-3B4
+
+// Infinite Lives
+00DD-5C09
+
+// Infinite Health
+00DD-5D08
+
+// Infinite Lives
+3AB-67A-2A2
+
+// Infinite Health
+3AB-17A-2A2

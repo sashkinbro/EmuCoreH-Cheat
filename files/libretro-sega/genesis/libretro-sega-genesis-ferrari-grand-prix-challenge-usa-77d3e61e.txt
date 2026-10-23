@@ -1,0 +1,21 @@
+// Decent Speed
+FFA0A2:00FF
+
+// Crazy Speed
+FFA0A2:00FF
+FFA0A4:00FF
+
+// No Lap Time (Minutes)
+FFA0C2:0000
+
+// No Lap Time (Seconds)
+FFA0C4:0000
+
+// No Lap Time (Micro-Seconds)
+FFA0C4:0000
+
+// Track Scroller
+FFA0B4:0000
+
+// Lap Counter
+FFA0CE:000D

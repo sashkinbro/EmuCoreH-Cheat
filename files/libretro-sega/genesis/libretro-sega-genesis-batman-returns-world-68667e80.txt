@@ -1,0 +1,348 @@
+// Batcape makes you go upward
+AB2A-AA20
+
+// Black Batman
+EAHA-AAEG
+
+// Infinite Lives
+BLZA-AA6C
+
+// Infinite Batcape
+AK2A-AA20
+
+// Play The Demo Level!
+GFJA-AAJW
+
+// Invincibility
+CPJA-AAN2
+0LYT-AA4R
+
+// 1 Hit And You Become Invincible (Except from Iron Ball)
+APJA-AAN2
+
+// Lose all your Health and become Untouchable
+JLYT-AAMY
+
+// Lifebar keeps blinking
+AAKA-ASC0
+
+// Lifebar never blinks when it's low
+AAKA-ASCC
+
+// Background Is Brown
+KJMA-AJAA
+
+// Don't get stunned when you are hit [Sometimes]
+BB8A-AHG8
+
+// Batman can moonwalk
+KFRT-BGYC
+
+// Invincibility (still can die if you fall)
+BLYT-AA4R
+
+// Infinite Batarangs
+ALFA-AA9N
+
+// Infinite Smoke Bombs
+BLGT-AA5N
+
+// Infinite Swarms
+BLHT-AA8C
+
+// Infinite Grappling Guns
+BLJT-AA4L
+
+// Infinite Super Seeking Batarangs
+BLLA-AA7A
+
+// Start With 10 Lives
+BEFA-AABL
+
+// Start With 2 Swarms
+AKFA-AAFT
+
+// Start With 5 Swarms
+AZFA-AAFT
+
+// Start With 10 Swarms
+BKFA-AAFT
+
+// Start With 20 Swarms
+CVFA-AAFT
+
+// Start With 99 Swarms
+NPFA-AAFT
+
+// Start with 20 Batarangs
+CVFA-AAFE
+
+// Start With 30 Batarangs
+D3FA-AAFE
+
+// Start With 40 Batarangs
+FBFA-AAFE
+
+// Start with 50 Batarangs
+GKFA-AAFE
+
+// Start With 99 Batarangs
+NPFA-AAFE
+
+// Start With 6 Smoke Bombs
+A3FA-AAFL
+
+// Start With 10 Smoke Bombs
+BKFA-AAFL
+
+// Start With 15 Smoke Bombs
+B7FA-AAFL
+
+// Start With 20 Smoke Bombs
+CVFA-AAFL
+
+// Start With 99 Smoke Bombs
+NPFA-AAFL
+
+// Start With 2 Grappling Guns
+AKFA-AAF0
+
+// Start With 5 Grappling Guns
+AZFA-AAF0
+
+// Start With 10 Grappling Guns
+BKFA-AAF0
+
+// Start With 20 Grappling Guns
+CVFA-AAF0
+
+// Start With 99 Grappling Guns
+NPFA-AAF0
+
+// Start With 2 Super Bats
+AKFA-AAF6
+
+// Start With 5 Super Bats
+AZFA-AAF6
+
+// Start With 10 Super Bats
+BKFA-AAF6
+
+// Start With 20 Super Bats
+CVFA-AAF6
+
+// Start With 99 Super Bats
+NPFA-AAF6
+
+// Start on level 2
+AMGA-CAD6
+
+// Start on level 3
+ASGA-CAD6
+
+// Start on level 4
+AXGA-CAD6
+
+// Start on level 5
+A1GA-CAD6
+
+// Start on level 6
+A5GA-CAD6
+
+// Start on level 7
+A9GA-CAD6
+
+// Start on level 8
+BDGA-CAD6
+
+// Start on level 9
+BHGA-CAD6
+
+// Start on level 10
+BMGA-CAD6
+
+// Start on level 11
+B1GA-CAD6
+
+// Start on level 12
+B9GA-CAD6
+
+// Start on level 13
+CDGA-CAD6
+
+// Start on secret level
+CHGA-CAD6
+
+// Start on secret level
+CMGA-CAD6
+
+// Start on level 14
+CSGA-CAD6
+
+// Start on level 15
+CXGA-CAD6
+
+// Start on level 16
+C1GA-CAD6
+
+// Start on level 17
+C5GA-CAD6
+
+// Infinite Lives
+ACZA-AN58
+
+// Infinite Energy
+ACYT-AN4L
+
+// Invincibility
+ACYA-AR7A
+
+// Infinite Lives
+FFFE32:0300
+
+// Infinite Energy
+FFFE30:3A2C
+
+// Infinite Weapon
+FFFE34:0A03
+
+// Invincibility
+FFFE4C:0002
+005098:0000
+
+// Start On Secret Level
+CHGA-CAD6
+CMGA-CAD6
+
+// Unlimited Gliding
+FFFCC8:FF05
+
+// Infinite Smoke Bombs And Batarangs
+FFFE34:6363
+
+// Infinite Grappling Hooks And Bats
+FFFE34:4343
+
+// Infinite Homing Batarangs
+FFFE38:0363
+
+// Enable Stage Select
+ADFT-CN8G
+
+// batman dies with 1 hit
+ALYT-AACW
+
+// Untouchable
+ALYT-AAC8
+ACYT-AN4L
+
+// Untouchable
+ALXT-AAFY
+ACYA-AR7A
+
+// Infinite Glide
+AB2A-AL20
+
+// Stop in mid air when pushing the A button
+AB2A-AWTE
+
+// 1 Hit And You Will Have Invincibility (Flashing)
+ABJA-AAPA
+
+// Walk On air
+APZA-AATR
+
+// stop on any walk animation
+AVXA-AA78
+
+// Jump to play intro music
+ABTA-AAA2
+
+// Jump to play the stage 1 music
+BBTA-AAA2
+
+// Jump to play stage 2 music
+CBTA-AAA2
+
+// Jump to play stage 3 music
+CBTA-AAA2
+
+// Jump to play the stage 4 music
+AFTA-AAA2
+
+// Jump to play the stage 5 music
+BFTA-AAA2
+
+// Jump to play the stage 6 music
+CFTA-AAA2
+
+// Jump to play the boss music
+BKTA-AAA2
+
+// Jump to play the boss music 2
+CKTA-AAA2
+
+// some of the game color is purple
+AAMA-AAAT
+
+// Push start to play the demo level
+AAGT-AAA4
+
+// walk hyper to the right
+A7WA-AA0R
+
+// different sega logo
+1AHA-AJTT
+
+// Move faster + Infinite Glide
+ABKA-AC38
+AB2A-AL20
+
+// one hit or come back to life your untouchable
+AFJA-AAE8
+
+// one hit or come back to life your untouchable
+AFJA-AAE2
+
+// temporarily untouchable
+AFJA-AAE4
+
+// catwoman doesn't fight back
+A9BA-AABA
+
+// Ice Blue Stages
+AAHA-AAAR
+
+// Batman Flies Level When Gliding (Instead of dropping)
+973T-AEE6
+
+// Batman Flies Upwards When Gliding (Instead of dropping)
+973T-ACE6
+
+// High Jump
+6B1T-AB6J
+
+// Super High Jump
+2B1T-ABYJ
+
+// Can Use The Grappling Hook Anywhere, Even If There's Nothing Above You
+ALBA-AA40
+
+// Walk On Air
+ABTA-AA74
+
+// 1 Hit And 1 Shot Kill Bosses
+ABSA-CA8C
+
+// Infinite Lives
+ALZA-AAEG
+
+// Hit enemies and bosses from anywhere (unless they're hiding in something like a barrel)
+AKRT-CA4G
+
+// Hit enemies and bosses from anywhere, even if they're hiding in something like a barrel
+AKRT-CA4G
+AKTT-CA42
+
+// Infinite ammo for all weapons (Baterangs, Smoke Bombs, Bat Swarms, Grappling Gun, and Homing Baterangs)
+GGET-BET4

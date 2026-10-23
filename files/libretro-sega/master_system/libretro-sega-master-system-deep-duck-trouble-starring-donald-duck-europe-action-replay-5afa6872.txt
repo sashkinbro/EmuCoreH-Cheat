@@ -1,0 +1,8 @@
+// Infinite Lives
+00D2-B103
+
+// Infinite Energy
+00D2-B203
+
+// Invincible
+00D3-6903

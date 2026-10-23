@@ -1,0 +1,23 @@
+// Play as Alien
+00C5-1204
+
+// Difficulty Modifier
+00C4-B004
+
+// FAKE Health Modifier
+00C7-1400
+
+// Time Modifier
+00C8-0700
+
+// Infinite Health P1
+00C9-4799
+
+// Press Left To Access The Alien
+000-D3A-19E
+
+// Infinite Time
+00C-6FC-19E
+
+// More Difficulty Levels
+002-19C-809

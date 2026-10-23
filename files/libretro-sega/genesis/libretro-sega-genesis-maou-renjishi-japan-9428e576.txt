@@ -1,0 +1,24 @@
+// Infinite Lives P1/P2
+AJSA-AA2R
+
+// Infinite Energy P1/P2
+AMYT-AA34
+AJPA-AA4Y
+AL9A-AA90
+
+// Invincibility P1/P2
+R1YA-A60L
+RY2T-A60G
+
+// Infinite Magic P1
+AK3T-CA3G
+
+// Infinite Magic P2
+AK3T-CA2Y
+
+// Freeze Time
+AJCA-AA40
+
+// 1 Hit Kill Enemies/Bosses P1/P2
+ATZA-AA66
+AMWT-AA4T

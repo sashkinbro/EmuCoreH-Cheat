@@ -1,0 +1,5 @@
+// Infinite Health
+00C2-1BC4
+
+// Infinite Lives
+00C1-E002

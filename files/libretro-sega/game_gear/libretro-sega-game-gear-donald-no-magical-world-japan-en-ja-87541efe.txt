@@ -1,0 +1,43 @@
+// Infinite Lives
+00CF-6209
+
+// Rest Modifier
+00CE-6800
+
+// Infinite Hits
+00C8-0B03
+
+// Invincibility
+00C8-1D21
+
+// Always Have Key
+00C8-0E01
+
+// FAKE Infinite Lives
+00CE-8809
+
+// Japanese Text Mode
+181-EF7-4CA
+
+// English Text Mode
+001-F07-F72
+
+// English Text On Title Screen
+C36-F77-E61
+C3B-4E7-E61
+
+// Japanese Text On Title Screen
+FA6-F87-19D
+51B-4F7-B3B
+
+// Invulnerability
+C36-1FC-E61
+
+// Invulnerability
+00CF-6701
+
+// Infinite Lives
+346-17E-3BE
+
+// Test Mode
+017-367-F76

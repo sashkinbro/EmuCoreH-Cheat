@@ -1,0 +1,56 @@
+// 1st race is 0:45 instead of 1:00
+2DD-68D-19A
+
+// 1st race is 2:00
+78D-68D-19A
+
+// 1st race is 4:15
+FFD-68D-19A
+
+// 2nd race is 0:45 instead of 1:30
+2DD-69D-803
+
+// 2nd race is 2:00
+78D-69D-803
+
+// 2nd race is 4:15
+FFD-69D-803
+
+// 3rd race is 0:45 instead of 1:20
+2DD-6AD-A2B
+
+// 3rd race is 2:00
+78D-6AD-A2B
+
+// 3rd race is 4:15
+FFD-6AD-A2B
+
+// 4th race is 0:45 instead of 2:00
+2DD-6BD-E60
+
+// 4th race is 2:00
+78D-6BD-E60
+
+// 4th race is 4:15
+FFD-6BD-E60
+
+// Time for all races is 4:15
+3EB-94F-80E
+FFB-95F-193
+
+// Items are free if you have enough money
+000-BFC-5DD
+000-C0C-A23
+
+// Always Finish in 1st Place
+00C5-9B01
+
+// Infinite Time
+B64-AEE-3BE
+
+// Freeze Timer
+00C2-1F3C
+
+// Infinite Money
+00C6-A80F
+00C6-A927

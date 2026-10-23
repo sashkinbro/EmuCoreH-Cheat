@@ -1,0 +1,5 @@
+// Infinite &quot;B&quot; Hearts
+FF450A:0004
+
+// Infinite Chance Hearts B
+ATMT-AA9J

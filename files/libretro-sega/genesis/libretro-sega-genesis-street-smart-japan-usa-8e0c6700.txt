@@ -1,0 +1,90 @@
+// Start with 6 players
+AY4T-BA2A
+
+// Start with 7 players
+A24T-BA2A
+
+// Start with 8 players
+A64T-BA2A
+
+// Infinite players for both sides
+ALCA-AA5T
+
+// Infinite time
+AB2A-BE88
+
+// Time goes by 2x as fast
+AK2A-BE88
+
+// Time goes by 4x as fast
+AV2A-BE88
+
+// Start with 0 credits
+ATZA-AAE4
+
+// Start with 5 credits
+ATZA-ALE4
+
+// Start with 7 credits
+ATZA-ARE4
+
+// Start with 9 credits
+ATZA-AWE4
+
+// Infinite credits
+ALCA-AA8W
+
+// Start on Stage 2
+P2TA-BE1J
+
+// Start on Stage 3
+P2TA-BJ1J
+
+// Start on Stage 4
+P2TA-BN1J
+
+// Start on Stage 5
+P2TA-BT1J
+
+// Start on Stage 6
+P2TA-BY1J
+
+// Start on Stage 7
+P2TA-B21J
+
+// Start on Stage 8
+P2TA-B61J
+
+// Start on Stage 9
+P2TA-BA1J
+
+// Infinite Lives
+9V4A-BCHY
+BF4A-AAH0
+KP4A-BBH2
+
+// Infinite Energy
+9TGA-BCFN
+NNGA-AAFR
+JEGA-BBFT
+
+// Infinite Health P1
+FF9040:0063
+
+// Infinite Lives P1
+FF904A:0009
+
+// No Health P2/CPU
+FF9240:0000
+
+// Infinite Time
+FFF122:0089
+
+// Infinite Bonus Points P1 &amp; P2
+FFF410:0009
+
+// Infinite Credits (Continues) P1
+FF9048:0009
+
+// Stake Modifier (Hundreds Digit)
+FFF02C:0000

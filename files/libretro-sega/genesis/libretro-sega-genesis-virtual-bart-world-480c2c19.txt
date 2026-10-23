@@ -1,0 +1,78 @@
+// Start With 99 Lives In The Moto Game
+NRWT-AAFJ
+
+// Infinite Energy
+ABNT-EAET
+
+// Start With 99 Lives In The Aquaduct Game
+NRWA-AAC6
+
+// Infinite Energy In The Prehistoric Level
+ALNA-GA84
+
+// Infinite Energy In The Baby Bottle Level
+AJ5A-GA5N
+
+// Protection From Clown With Shock Stick In Pig Bart Level
+AMTT-GA4G
+
+// Protection From Clown With Hammer In Pig Bart Level
+AMVT-GA34
+
+// Start The Prehistoric Level With 9 Lives (Instead Of 2)
+BGWT-AADG
+
+// Start The Prehistoric Level With 25 Lives
+DGWT-AADG
+
+// Start The Baby Bottle Level With 25 Lives
+DGWA-AAG4
+
+// Start The Pig Bart Level With 25 Lives
+DGWA-AAEW
+
+// Infinite Lives (Doesn't Work On Levels That Start With Zero Lives)
+AKWA-AA46
+
+// Infinite Time (Except The Tomato And Motorcycle Levels)
+AKWT-AA24
+
+// Infinite Time On Tomato And Motorcycle Levels
+AL9A-EA34
+
+// Infinite Tomatoes In Tomato Level
+AMEA-EA9Y
+
+// Infinite Time
+FFC758:00FF
+
+// Infinite Lives
+FFC7A0:0009
+
+// Infinite Health
+FFC7A2:001F
+
+// Untouchable For All Game
+RY5A-G6XL
+R0MA-G6VJ
+RZNT-E6TW
+R1TA-G61E
+RY6T-J6ZJ
+
+// Infinite Energy Extra
+AMVT-GA34
+AMTT-GA4G
+AJ6T-JA8T
+
+// Freeze Time
+AL9A-EA34
+AKWT-AA24
+
+// Boot into Illegal Instruction Exception Error $04
+KJBT-AEYC
+
+// Intro music / sound effect / DAC/PCM sample modifier
+1F0T-A6TE
+
+// LineF Emulator Error Exception Error $0B is display upon loading intro
+9V0A-BCH2

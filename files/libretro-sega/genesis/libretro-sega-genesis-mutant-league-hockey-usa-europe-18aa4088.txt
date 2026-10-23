@@ -1,0 +1,86 @@
+// 1-pt. shots worth 2
+AK9A-AAFL
+
+// 1-pt. shots worth 3
+AP9A-AAFL
+
+// 1-pt. shots worth 4
+AV9A-AAFL
+
+// 1-pt. shots worth 5
+AZ9A-AAFL
+
+// 1-pt. shots worth 6
+A39A-AAFL
+
+// 1-pt. shots worth 7
+A79A-AAFL
+
+// 1-pt. shots worth 8
+BB9A-AAFL
+
+// 2-pt. shots worth 3
+P39A-BJ0Y
+
+// 2-pt. shots worth 4
+P39A-BN0Y
+
+// 2-pt. shots worth 5
+P39A-BT0Y
+
+// 2-pt. shots worth 6
+P39A-BY0Y
+
+// 2-pt. shots worth 7
+P39A-B20Y
+
+// 2-pt. shots worth 8
+P39A-B60Y
+
+// 2-pt. shots worth 9
+P39A-BA0Y
+
+// 2-pointers scored very close to goal
+G79A-AAGT
+
+// 2-pointers scored halfway between blue line and goal
+P39A-AAGT
+
+// 2-pointers scored a little closer
+YZ9A-AAGT
+
+// 2-pointers scored a little farther away than the blue line
+CV9A-ACGT
+
+// Start with final scores from last game played
+AJ5A-AA7C
+
+// 1-min. periods
+AHAT-CGGW
+
+// 2-min. periods
+AMAT-CGGW
+
+// 4-min. periods
+AXAT-CGGW
+
+// 6-min. periods
+A5AT-CGGW
+
+// 7-min. periods
+A9AT-CGGW
+
+// 9-min. periods
+BHAT-CGGW
+
+// Infinite timeouts (the option will disappear, but you can still press B for a timeout)
+RFFA-A6V2
+
+// Time Modifier (Seconds)
+FFB06A:0000
+
+// Time Modifier (Minutes)
+FFB06A:0000
+
+// Score Modifier (Team 2)
+FFBD4E:0000

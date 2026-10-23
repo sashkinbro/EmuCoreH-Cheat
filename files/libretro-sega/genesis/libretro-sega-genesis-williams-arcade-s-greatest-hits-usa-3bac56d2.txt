@@ -1,0 +1,40 @@
+// Infinite Lives P1
+FFA2B6:0003
+
+// Infinite Bombs P1
+FFA2B8:0003
+
+// Infinite Lives P2
+FFA2F4:0003
+
+// Infinite Bombs P2
+FFA2F6:0003
+
+// Infinite Lives
+FFB7FE:0003
+
+// Infinite Bombs P1
+FFB800:0003
+
+// Infinite Lives P2
+FFB83E:0003
+
+// Infinite Bombs P2
+FFB840:0003
+
+// Infinite Lives P1
+FF299C:0004
+FF299E:0005
+
+// Infinite Lives P2
+FF29A6:0004
+FF29A8:0005
+
+// Infinite Lives Both Players
+FFDB64:0002
+
+// Infinite Lives Both Players
+FF1F42:0003
+
+// Infinite Sinibombs Both Players
+FF1F5A:0004

@@ -1,0 +1,54 @@
+// Initial Talents money (500 cash)
+8XTA-RCAE
+
+// Initial Talents money (1,000 cash)
+7DTA-RGAE
+
+// Initial Talents money (5,000 cash)
+VDTA-SGAE
+
+// Initial Rank is Centurion
+K53A-RCDE
+
+// Initial Rank is Tribune
+K53A-REDE
+
+// Initial Rank is Legatus
+K53A-RGDE
+
+// Initial Rank is General
+K53A-RJDE
+
+// Initial Rank is Praetor
+K53A-RLDE
+
+// Initial Rank is Consul
+K53A-RNDE
+
+// Initial Rank is Proconsul
+K53A-RRDE
+
+// Almost always prevent the populace under the Roman heel from going into revolt
+ACEA-AA4T
+
+// Increase the courage of your legions
+HTST-BAG4
+NAST-AAG6
+
+// Enable your chariot to take corners at any speed
+AXHT-AA6C
+
+// Fire ship catapult faster
+DM1T-CA46
+
+// Start with maximum honor
+HXTA-RJ2J
+
+// Speed up battles slightly
+AP0T-AAF4
+
+// Tribute Modifier
+FF3C84:0000
+
+// Infinite Manpower
+FF3C7E:00FF

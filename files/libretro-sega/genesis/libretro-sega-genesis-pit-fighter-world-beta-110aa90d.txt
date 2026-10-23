@@ -1,0 +1,273 @@
+// Infinite lives
+AVZA-2A2R
+
+// Start With 1 Life
+AFYT-2AAJ
+
+// Start With 2 Lives
+AKYT-2AAJ
+
+// Start With 3 Lives
+APYT-2AAJ
+
+// Start With 5 Lives
+AZYT-2AAJ
+
+// Start With 6 Lives
+A3YT-2AAJ
+
+// Freeze Match Clock (No time limit)
+GB0T-2A8L
+
+// Match Clock Runs Faster
+BB0T-2AGE
+
+// Match Clock Runs Slower
+JB0T-2AGE
+
+// Power Pill Lasts For a Shorter Time
+3DMA-2ADA
+
+// Power Pill Lasts For a Longer Time
+EDMA-2GDA
+
+// Power Pill Lasts Much Longer
+ADMA-3ADA
+
+// Power Pill Lasts Until Death Or End of Match
+ALBA-2A9R
+
+// Both Players Fight For Championship at Same Time
+B9NT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Must win 14 matches instead of 15 to become champion
+AHNT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Must win 13 matches to become champion
+AMNT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Must win 12 matches to become champion
+ASNT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Must win 11 matches to become champion
+AXNT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Must win 10 matches to become champion
+A1NT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Must Win 9 Matches to Become Champion
+A5NT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Must Win 8 Matches To Become Champion
+A9NT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Must Win 7 Matches to Become Champion
+BDNT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Must Win 6 Matches to Become Champion
+BHNT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Must Win 5 Matches to Become Champion
+BMNT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Must Win 4 Matches to Become Champion
+BSNT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Must Win 3 Matches to Become Champion
+BXNT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Must Win 2 Matches to Become Champion
+B1NT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Must win 1 match to become champion
+B5NT-3A6J
+JDNT-20NL
+PDNT-22EN
+
+// Infinite Energy
+5CFA-2AFJ
+98FA-2AFL
+S4FA-20PN
+9WFA-3GPG
+
+// Infinite Time
+RF4A-2602
+
+// Always Powered Up
+ACBA-2AHJ
+
+// Cpu Get O.K
+AVGT-3AFT
+
+// Cpu Gets O.K
+AVGT-3AFY
+
+// cpu always powered up
+VVJA-3AW6
+
+// untouchable
+FCBT-2ADC
+
+// Turbo Controller
+AWBT-3ALC
+
+// Always Grudge Match
+AB7T-3YFE
+
+// You And The Cpu Always Powered Up
+A9DA-3AS4
+
+// Little Time To Select  Fighter
+A1PA-2A1N
+
+// Infinite Time To Select Fighter
+A1PA-2A1W
+
+// Play as the Bosses
+BMRA-3A3A
+
+// Always Fight Blue Buzz in Grudge Matches
+AK4T-2A5T
+
+// Play as Buzz - Player 1
+FF2B8E:0000
+
+// Play as Ty - Player 1
+FF2B8E:0001
+
+// Play as Kato - Player 1
+FF2B8E:0002
+
+// Play as Chainman Eddie - Player 1
+FF2B8E:0003
+
+// Play as Southside Jim - Player 1
+FF2B8E:0004
+
+// Play as The Warrior - Player 1
+FF2B8E:0005
+
+// Play as Mad Miles - Player 1
+FF2B8E:0006
+
+// Play as C.C. Rider - Player 1
+FF2B8E:0007
+
+// Play as The Executioner - Player 1
+FF2B8E:0008
+
+// Play as Heavy Metal - Player 1
+FF2B8E:0009
+
+// Play as Angel - Player 1
+FF2B8E:000A
+
+// One Hit For Both Fighters
+AC0T-3AAA
+
+// Cpu Never Gets Knockdown In Grude Match
+AZKA-3A7E
+
+// No opponent for most matches / Instant win
+AK4T-2A5R
+
+// Grudge Match opponent is wearing red instead of blue
+AK4T-2A5Y
+
+// Weapons fall through the floor
+BDTT-3RJC
+
+// Weapons don't appear at first / Sticks, knives, &amp; stars don't appear at all
+BDTT-3CJC
+
+// When you die your body remains on the floor after you continue
+ADXT-2PTE
+
+// Your shadow stays in one spot on the floor
+ACAT-2A0E
+
+// Opponents will taunt excessively after knocking you down
+CPLT-2TNW
+
+// Play as an alternate Buzz
+ADRT-2PMC
+
+// Computer selects your fighter 1
+CHRT-2CNG
+
+// Computer selects your fighter 2
+C1RT-2CNG
+
+// Computer always automatically selects Buzz as your fighter
+CMRT-2CNG
+
+// Can't perform any evasive moves (Buzz's roll, Ty's cartwheel, or Kato's flip)
+DCDT-2CMG
+
+// Evasive moves are easier to perform (Buzz's roll, Ty's cartwheel, or Kato's flip)
+D8DT-2CML
+
+// Evasive moves are unpredicatble (Buzz's roll, Ty's cartwheel, &amp; Kato's flip)
+D8DT-2CM8
+
+// Evasive moves (Buzz's roll, Kato's flip, &amp; Ty's cartwheel) only goes to the right
+WCHT-2MYE
+
+// Attacking Your Enemy While He / She is Down Will Drain His / Her Energy Quicker
+PWFT-2CEE
+
+// Ty's &amp; Buzz's evasive moves don't go as far
+JWLT-3TPW
+ACLT-3APR
+
+// You can only throw an opponent to the right
+JXLT-3HBR
+
+// Player 1 can only select Buzz / Player 2 can only select Ty
+DHPT-31B2
+
+// Player 1's selection screen rapidly scrolls between Kato &amp; Buzz / Player 2 can only choose Ty
+1HPT-35B8
+
+// Both players can play as Ty
+HDPT-31BT
+
+// Enemy's health is not displayed
+JWKA-2NF8
+
+// Player 2 joins in automatically
+NCBT-2N2A
+
+// 1 Hit K.O.s (on all opponents & players)
+WHDT-2MYE
+
+// Enemies are more aggressive
+FF2B8A:0001

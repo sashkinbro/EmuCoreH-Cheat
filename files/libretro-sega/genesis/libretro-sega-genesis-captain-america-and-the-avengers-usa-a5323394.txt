@@ -1,0 +1,17 @@
+// Hit Anywhere
+AKGT-AA2N
+
+// Invulnerability (Walk Thru Enemies)
+DVVA-AA3C
+
+// Infinite Energy
+AKRT-AA2W
+
+// Invincibility/Untouchable
+RZPT-A6V8
+
+// Freeze Time When Choosing Characters After The Death
+AJGA-CA3L
+
+// Infinite Characters After The Death
+A3YT-AA6T

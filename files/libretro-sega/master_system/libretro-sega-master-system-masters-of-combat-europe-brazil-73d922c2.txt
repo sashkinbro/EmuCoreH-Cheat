@@ -1,0 +1,14 @@
+// Play as 'Alien'
+00C9-3704
+
+// Cheat Modifier
+00C4-B003
+
+// Cheat Modifier
+032-CAF-E6A
+
+// Infinite Health P1
+00C9-4788
+
+// Infinite Time
+00C8-0763

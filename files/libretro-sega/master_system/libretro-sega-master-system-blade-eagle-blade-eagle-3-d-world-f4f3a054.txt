@@ -1,0 +1,20 @@
+// Speed Up 3
+00C1-9002
+
+// Extra Mini-Ships [2]
+00C1-9102
+
+// Maximum Firepower
+00C1-9204
+
+// Infinite Lives
+00C1-8009
+
+// Infinite Lives
+7E9-EA8-3B7
+
+// Disable 3-D effect
+003-01F-E6E
+
+// Disable 3-D effect
+00DF-FB00

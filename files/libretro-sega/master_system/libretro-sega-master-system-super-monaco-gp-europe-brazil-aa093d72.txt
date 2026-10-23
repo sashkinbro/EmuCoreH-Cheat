@@ -1,0 +1,11 @@
+// Stop Time Counter
+C99-EAF-3BA
+
+// Freeze Lap Timer - Both Players
+009-E2F-3BA
+
+// P1 Freeze Lap Timer
+00C3-6B00
+
+// P2 Freeze Lap Timer
+00C3-EB00

@@ -1,0 +1,43 @@
+// Infinite Lives
+AJ0A-AA6L
+
+// Infinite Energy
+AJ9A-AA2R
+
+// Infinite Energy
+FFEF3C:0018
+
+// Infinite Lives
+FFF1CC:0063
+
+// Enabled Password Code Infinite Energy
+RETA-A6ZY
+
+// Invincibility (Disable Hit Detection)
+RY7A-A6WA
+R08A-A600
+R0KT-A6XL
+RZTT-A6WW
+RZSA-A6YT
+R0KT-A6TJ
+
+// Invincibility (Disable Hit Detection)  - Gods (USA) (Beta)
+RY7A-A6W2
+R08T-A6TC
+R0KT-A6Y0
+RZTT-A6X8
+RZSA-A6Z6
+R0KT-A6VY
+
+// Infinite Energy - Gods (USA) (Beta)
+AL8T-AA5N
+AJ7A-AA46
+ALKT-AA9C
+
+// Infinite Lives - Gods (USA) (Beta)
+AJ0A-AA6Y
+
+// Infinite Energy
+AL8T-AA4A
+AJ7A-AA4E
+ALKT-AA70

@@ -1,0 +1,17 @@
+// Infinite Bombers
+00C0-8203
+
+// Infinite Lives
+00C0-4604
+
+// Infinite Health
+00C0-4505
+
+// Infinite Health
+003-1AD-19E
+
+// Infinite Bombers
+001-EF9-19E
+
+// Infinite Lives
+3A5-3ED-2A2

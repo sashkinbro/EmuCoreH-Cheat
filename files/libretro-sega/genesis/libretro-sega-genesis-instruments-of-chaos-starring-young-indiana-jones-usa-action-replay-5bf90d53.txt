@@ -1,0 +1,5 @@
+// Infinite Ammo
+FFF090:0063
+
+// Infinite Grenade
+FFF08E:0063

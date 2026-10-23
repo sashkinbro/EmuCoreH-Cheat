@@ -1,0 +1,143 @@
+// Heart Restores Health Fully
+SG5T-B2T4
+
+// Infinite Lives
+AECT-EADG
+
+// Infinite Energy
+AXRA-AA3Y
+
+// Invincibility
+A5AA-AN8E
+
+// Heart Worth Nothing
+AW5T-AA24
+
+// Protection From Drowning
+AXHA-AA6J
+
+// Unlimited Health (Alternate)
+B5RA-AA3Y
+
+// Start On Level 2, Zone 2
+AJAT-EAA2
+AJAT-EABA
+
+// Start On Level 2, Zone 3
+AJAT-EAA2
+ANAT-EABA
+
+// Start On Level 2, Zone 4
+AJAT-EAA2
+ATAT-EABA
+
+// Start On Level 2, Zone 1
+AJAT-EAA2
+
+// Start On Level 3, Zone 2
+ANAT-EAA2
+AJAT-EABA
+
+// Start On Level 3, Zone 3
+ANAT-EAA2
+ANAT-EABA
+
+// Start On Level 3, Zone 1
+ANAT-EAA2
+
+// Start On Level 4, Zone 2
+ATAT-EAA2
+AJAT-EABA
+
+// Start On Level 4, Zone 3
+ATAT-EAA2
+ANAT-EABA
+
+// Start On Level 4, Zone 4
+ATAT-EAA2
+ATAT-EABA
+
+// Start On Level 4, Zone 1
+ATAT-EAA2
+
+// Start On Level 5, Zone 2
+AYAT-EAA2
+AJAT-EABA
+
+// Start On Level 5, Zone 3
+AYAT-EAA2
+ANAT-EABA
+
+// Start On Level 1, Zone 2
+AJAT-EABA
+
+// Start On Level 1, Zone 3
+ANAT-EABA
+
+// Start On Level 1, Zone 4
+ATAT-EABA
+
+// Start On Level 1, Zone 5
+AYAT-EABA
+
+// Start With 2 Lives
+AEAT-EABW
+
+// Start With 6 Lives
+AYAT-EABW
+
+// Start With 8 Lives
+A6AT-EABW
+
+// Start With 10 Lives
+BEAT-EABW
+
+// Unlimited Lives (Alternate)
+BTCT-EA5E
+
+// Start With Less Health On 1st Life
+ANAT-EAEY
+
+// Less Health On Lives After 1st Life
+ANCT-EAD8
+
+// Jump
+FF0674:0000
+
+// Skip Levels In Game Press Up + A to return Down + A
+FF0144:0001
+
+// Invincibility
+FF0656:0010
+
+// Mega Moon Jump with a very slow landing
+AMAT-AA8L
+
+// Hit enemies from anywhere with your belly (B button)
+AL4A-AA76
+
+// Hit enemies from anywhere when you throw a rock (large rocks only)
+RG5A-A6TL
+
+// Jump higher
+8MDA-B97G
+
+// Jump higher (moon jump)
+AC9A-AALT
+
+// Walk faster (when you're not carrying a rock)
+AR9A-AAC2
+ASDT-AADR
+
+// Walk normal speed when you're carrying a large rock (you won't slow down)
+AL9T-AAE8
+
+// Walk faster when you're carrying a large rock
+AR9T-AAE8
+
+// Rocks don't sink in lava/mud/tar, but will disappear after 20 seconds
+ADYA-AADN
+
+// Rocks don't sink in lava/mud/tar
+ADYA-AADN
+AMXT-AA4A

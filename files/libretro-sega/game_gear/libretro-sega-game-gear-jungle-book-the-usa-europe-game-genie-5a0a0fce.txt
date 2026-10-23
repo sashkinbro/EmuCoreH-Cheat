@@ -1,0 +1,14 @@
+// Very Little Flash Time After Getting Hit
+19C-26E-7FB
+
+// More Flash Time After Getting Hit
+99C-26E-7FB
+
+// Infinite Energy
+3AC-20E-2A2
+
+// 1 Hit & You Die
+AFC-1FE-19E
+
+// Invincible
+C3B-7DE-E61

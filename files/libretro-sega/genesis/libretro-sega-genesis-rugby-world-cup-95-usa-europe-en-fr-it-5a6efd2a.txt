@@ -1,0 +1,2 @@
+// Team 2 Score Modifier (P2/CPU)
+FFFE3E:0000

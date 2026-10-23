@@ -1,0 +1,2 @@
+// Energy Bar Always Full,  Player 1
+00C0-0FFF

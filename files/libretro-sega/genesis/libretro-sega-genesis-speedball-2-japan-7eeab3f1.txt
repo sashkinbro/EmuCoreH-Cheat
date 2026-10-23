@@ -1,0 +1,33 @@
+// P1 Score Multiplier
+FF0DEE:0000
+
+// Electro Mode
+FFD5AA:0008
+
+// Infinite Money - Both Players
+FF00FA:7FFF
+
+// Freeze Timer
+FF009E:0030
+
+// Can't Score - Both Teams
+RGHT-A6ZL
+
+// Infinite Time
+RGEA-A6TR
+
+// Infinite Money - Both Players
+AVVA-AA34
+AVWT-AA6C
+
+// Start with $2500, instead of $1100 - Both Players
+2T1T-AWAA
+
+// Start with $5000 - Both Players
+VA1T-BGAA
+
+// Start with $10000 - Both Players
+CA1T-ARJA
+
+// Start with $32767 - Both Players
+961T-B82A

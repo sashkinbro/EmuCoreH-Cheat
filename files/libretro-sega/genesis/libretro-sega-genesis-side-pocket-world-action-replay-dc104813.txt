@@ -1,0 +1,5 @@
+// Always In "Zone" Mode
+FFC53C:0008
+
+// Infinite Shots P1
+FFC094:0008

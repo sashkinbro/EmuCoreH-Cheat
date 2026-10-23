@@ -1,0 +1,5 @@
+// Infinite GP
+FFE254:FDE8
+
+// Infinite HP Character 1
+FFE10C:03E7

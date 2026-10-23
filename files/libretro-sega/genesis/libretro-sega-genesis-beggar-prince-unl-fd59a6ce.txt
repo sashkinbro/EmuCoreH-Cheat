@@ -1,0 +1,22 @@
+// Gives you Chicken (fully recovers HP)
+FF0AD6:0001
+
+// Gives you Crystal (fully recovers MP)
+FF0AD8:0001
+
+// 1 hit kills enemy
+0AJA-4E1J
+
+// 1 hit kills all enemies on screen when using magic attacks
+0AMA-4EY8
+
+// Allows you to walk thru any of the locked gates in the town where you start the game
+FX1T-YA9J
+
+// Walk thru walls
+RGBT-Y6YL
+ECBT-YA6T
+FX1T-YA9J
+
+// Open chests as many times as you want
+AJ0A-0A3E

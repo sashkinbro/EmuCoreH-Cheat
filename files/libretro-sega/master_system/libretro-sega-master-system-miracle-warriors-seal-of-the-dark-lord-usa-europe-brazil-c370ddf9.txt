@@ -1,0 +1,64 @@
+// Infinite Staffs
+00C4-0704
+
+// Infinite Spheres
+00C4-0804
+
+// Infinite Stones
+00C4-0904
+
+// Infinite Nuts
+00C4-0B01
+
+// Scroll
+00C4-0A01
+
+// Infinite Fangs
+00C4-34FF
+
+// Maximum Gold
+00C4-3060
+00C4-31EA
+
+// Infinite Herbs
+00C4-320B
+
+// Infinite Feathers
+00C4-0305
+
+// Infinite Health Main Char.
+C96-03B-6E2
+
+// Character 1 Quick Level Up
+00C5-0900
+
+// Character 2 Infinite Energy
+00C5-4A20
+
+// Character 2 Quick Level Up
+00C5-4900
+
+// Character 3 Infinite Energy
+00C5-8A20
+
+// Character 3 Quick Level Up
+00C5-8900
+
+// Character 4 Infinite Energy
+00C5-CA20
+
+// Character 4 Quick Level Up
+00C5-C900
+
+// Character 1 Quickly Kills Enemies
+00C5-10FF
+
+// Infinite Health (Main Character - Knight?)
+00C5-0AFF
+
+// No Random Battles
+C99-0FF-A29
+C99-2AF-A29
+
+// Walk Anywhere
+00F-7AD-E69

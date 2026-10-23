@@ -1,0 +1,26 @@
+// Infinite Lives
+AKXA-AA4Y
+
+// Infinite Shields
+AK4A-AA7A
+
+// Freeze Time
+AKKA-AA9E
+
+// Infinite Shield
+AK5T-AA5Y
+
+// Infinite Time
+AKLT-AA72
+
+// Infinite Lives
+AKYT-AA3J
+
+// For Each Target That You Destroy, 2 Points Will Be Subtracted From The Target Total (In Top Right Corner)
+SCWT-BLW8
+
+// For Each Target That You Destroy, 8 Points Will Be Subtracted From The Target Total (In Top Right Corner)
+SCWT-BCW8
+
+// Infinite Health
+FFB454:0025

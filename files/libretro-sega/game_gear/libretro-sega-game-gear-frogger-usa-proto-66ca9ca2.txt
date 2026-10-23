@@ -1,0 +1,50 @@
+// Start with 900 life
+090-A5E-E62
+
+// Start on ?? level
+01A-8FF-E6E
+
+// Bring 1 frog home to complete level
+012-76E-E66
+
+// Infinite Lives
+42D-9E9-2A2
+
+// Infinite Lives
+00C0-190A
+
+// Invincible
+00C6-91FF
+
+// Infinite Time (One's Digit)
+00C6-8609
+
+// Infinite Time (Ten's Digit)
+00C6-8709
+
+// Infinite Time (Hundred's Digit)
+00C6-8809
+
+// Invulnerability
+C9D-84D-E69
+
+// Infinite Time
+EDE-62D-19D
+
+// Infinite Lives
+00D-9D9-19E
+
+// Enable Round Select after Title Screen and Invincibility Cheat
+00C0-CE01
+
+// Start with ?? Lives, instead of 3
+040-01E-E66
+
+// Infinite Time
+C9E-61D-C49
+
+// Enable Round Select after Title Screen
+004-3EE-3B4
+
+// Press 2 to Enable Debug Invincibility Cheat during gameplay
+23C-21F-2A2

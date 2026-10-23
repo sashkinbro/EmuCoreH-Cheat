@@ -1,0 +1,6 @@
+// Begins With 255 Lives
+0009D4:31FC
+0009D6:00FF
+
+// Do Not Lose Selected Weapons When Destroyed
+0041CE:6002

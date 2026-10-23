@@ -1,0 +1,51 @@
+// Infinite Energy
+BJ9T-EA9E
+
+// Infinite Power
+BLJA-EA62
+
+// Infinite Armor Effect
+AJGT-EA9J
+
+// Start with 99 Lives
+NPWA-AAGN
+
+// Infinite Lives
+AJRA-EA2C
+
+// Infinite Weapon
+ALJA-EA62
+
+// Strange Graphics
+HWFT-TEBL
+TEAT-FEJA
+
+// The Robots With Flamethrowers Can Only Fire Once And The Gun Can't Fire Again
+AMBT-FTXL
+
+// Infinite Health
+FF804C:0060
+
+// Infinite Weapons
+FF804A:0060
+
+// Infinite Lives
+FF8044:0009
+
+// 1 Hit Invincibility Flashing
+FF88F2:0010
+
+// Invincibility (enemy fire goes right thru you)
+REGT-E61G
+
+// Jump higher
+ABHT-EALC
+
+// Jump much higher
+ABHT-FACC
+
+// Can select up to 99 lives in the option menu
+NRRA-AAAC
+
+// Invincibility
+RYGT-E6VG

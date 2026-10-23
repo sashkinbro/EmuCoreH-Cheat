@@ -1,0 +1,259 @@
+// No lives deducted when you use the Last Resort
+AVST-AA6A
+
+// No lives deducted when you run out of health
+AWBT-AA44
+
+// Start with 1 life
+AE5T-AAAW
+
+// Start with 2 lives
+AJ5T-AAAW
+
+// Start with 5 lives
+AY5T-AAAW
+
+// Start with 10 lives
+BJ5T-AAAW
+
+// Start with 15 lives
+B65T-AAAW
+
+// Start with 20 lives
+CT5T-AAAW
+
+// Magic blocks are always food
+ABFA-AA6J
+
+// Magic blocks are always pies
+ABFA-AA6J
+X3FA-AAEL
+
+// Magic blocks are always bags of tricks
+ABFA-AA6J
+23FA-AAEL
+
+// Magic blocks are always mugs
+ABFA-AA6J
+6BFA-AAEL
+
+// Magic blocks are always hooters
+ABFA-AA6J
+93FA-AAEL
+
+// Magic blocks are always extra lives
+ABFA-AA6J
+DBFA-ACEL
+
+// Magic blocks give you nothing, but may still open a secret passage
+ABFA-AA6J
+JBFA-ACEL
+
+// Magic blocks are always superballs
+ABFA-AA6J
+93FA-AEEL
+
+// About 25 seconds to get all tokens in bonus rooms
+LA9T-AACT
+
+// About 35 seconds to get all tokens in bonus rooms
+SA9T-AACT
+
+// About 55 seconds to get all tokens in bonus rooms
+0T9T-AACT
+
+// About 70 seconds to get all tokens in bonus rooms
+8A9T-AACT
+
+// Completing bonus room worth 2 extra lives
+SE8T-BJZ4
+
+// Completing bonus room worth 3 extra lives
+SE8T-BNZ4
+
+// Completing bonus room worth 4 extra lives
+SE8T-BTZ4
+
+// Completing bonus room worth 5 extra lives
+SE8T-BYZ4
+
+// Krusty doll magic blocks worth 0 extra lives
+AVFT-AA8A
+
+// Krusty doll magic blocks worth 2 extra lives
+SFFT-BJ0A
+
+// Krusty doll magic blocks worth 3 extra lives
+SFFT-BN0A
+
+// Krusty doll magic blocks worth 4 extra lives
+SFFT-BT0A
+
+// Krusty doll magic blocks worth 5 extra lives
+SFFT-BY0A
+
+// Superball magic blocks worth 1 superball
+AFGT-AAEY
+
+// Superball magic blocks worth 2 superballs
+AKGT-AAEY
+
+// Superball magic blocks worth 3 superballs
+APGT-AAEY
+
+// Superball magic blocks worth 4 superballs
+AVGT-AAEY
+
+// Superball magic blocks worth 7 superballs
+A7GT-AAEY
+
+// Superball magic blocks worth 10 superballs
+BKGT-AAEY
+
+// Superball magic blocks worth 15 superballs
+B7GT-AAEY
+
+// Superball magic blocks worth 20 superballs
+CVGT-AAEY
+
+// Pie magic blocks worth 1 pie
+AFFT-AABY
+
+// Pie magic blocks worth 3 pies
+APFT-AABY
+
+// Pie magic blocks worth 5 pies
+AZFT-AABY
+
+// Pie magic blocks worth 7 pies
+A7FT-AABY
+
+// Pie magic blocks worth 15 pies
+B7FT-AABY
+
+// Pie magic blocks worth 20 pies
+CVFT-AABY
+
+// Pie magic blocks worth 30 pies
+D3FT-AABY
+
+// Pie magic blocks add to total pies
+SFFT-ANBW
+
+// Superball magic blocks add to total superballs
+SFGT-ANEW
+
+// Always pick up pies, never superballs
+BBGT-AA6J
+
+// Always pick up superballs, never pies
+BBFT-AA3J
+
+// Infinite pies and superballs
+AKTT-AA3N
+
+// Food magic blocks worth 0 health points instead of 35
+ABFA-AAG0
+
+// Food magic blocks worth 10 health points
+BKFA-AAG0
+
+// Food magic blocks worth 20 health points
+CVFA-AAG0
+
+// Food magic blocks worth 30 health points
+D3FA-AAG0
+
+// Food magic blocks worth 40 health points
+FBFA-AAG0
+
+// Food magic blocks worth 50 health points
+GKFA-AAG0
+
+// Food magic blocks worth 60 health points
+HVFA-AAG0
+
+// Food magic blocks worth 80 health points
+LBFA-AAG0
+
+// Food magic blocks worth 90 health points
+MKFA-AAG0
+
+// Food magic blocks worth 100 health points
+NVFA-AAG0
+
+// Start on section 2 with section 1 complete
+CJ4T-AA9L
+
+// Start on section 3 with sections 1 and 2 complete
+FJ4T-AA9L
+
+// Start on section 4 with sections 1 thru 3 complete
+JJ4T-AA9L
+
+// Start on section 5 with sections 1 thru 4 complete
+MJ4T-AA9L
+
+// Start anywhere you want--with infinite lives
+RJ4T-AA9L
+
+// Magic Blocks Are Always Pies
+ABFA-AA6J
+X3FA-AAEL
+
+// Magic Blocks Are Always Bags Of Tricks
+ABFA-AA6J
+23FA-AAEL
+
+// Magic Blocks Are Always Mugs
+ABFA-AA6J
+6BFA-AAEL
+
+// Magic Blocks Are Always Hooters
+ABFA-AA6J
+93FA-AAEL
+
+// Magic Blocks Are Always Extra Lives
+ABFA-AA6J
+DBFA-ACEL
+
+// Magic Blocks Give You Nothing, But May Still Open A Secret Passage
+ABFA-AA6J
+JBFA-ACEL
+
+// Magic Blocks Are Always Superballs
+ABFA-AA6J
+93FA-AEEL
+
+// Invincibility
+R0BA-A6TY
+
+// Can Walk Into Most Locked Doors. See notes
+ABAT-AA6W
+
+// Can Exit Rooms Even If You Haven't Killed All The Mice Or Collected All The Stuff. See notes
+AKNT-AA56
+
+// Only Have To Clear One Room To Unlock The Final/Bonus Room
+AKNT-AA8R
+
+// Walk Thru Walls When Walking Right
+RZKT-A60E
+
+// Walk Thru Walls When Walking Left
+RZKA-A6WL
+
+// Invincibility (Can Walk Thru Enemies)
+ACBA-AA24
+
+// Invincibility Lasts 4x Longer When Hit
+EBRT-AGEY
+
+// Invincibility Lasts 8x Longer When Hit
+JBRT-ANEY
+
+// 1 Shot Kill Some Enemies
+ACBT-AA82
+
+// Infinite Energy
+AWBT-AA2R

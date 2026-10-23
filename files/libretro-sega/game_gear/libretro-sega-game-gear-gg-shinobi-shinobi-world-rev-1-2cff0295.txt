@@ -1,0 +1,60 @@
+// Infinite Energy
+21F-055-2A2
+
+// Infinite Lives
+006-06D-3BE
+
+// Start With 6 Lives
+06B-75C-F72
+
+// Start With 8 Lives
+08B-75C-F72
+
+// Start With 9 Lives
+09B-75C-F72
+
+// On Highway Stage, Jump Onto Road And Stop Traffic
+21E-BA5-2A2
+
+// Infinite Energy
+00D2-0B04
+
+// Infinite Special Weapons
+00D2-1E01
+
+// Infinite Lives
+00D2-1D09
+
+// Invincible
+00D2-7B86
+
+// Invulnerability (Blinking)
+00D2-6EFF
+
+// Start with 2x health
+08B-5DC-F7A
+
+// Start with max health
+0CB-5DC-F7A
+
+// Blink ?? longer after being hit by weaker attacks
+106-214-C4A
+
+// Blink ?? longer after being hit by stronger attacks
+1E6-254-B3A
+
+// Infinite Ninjitsu Magic
+00D-50D-3BE
+
+// Jump Higher
+F02-884-085
+
+// Invincibility
+18E-DB5-4CA
+
+// Jump to any Height (Hold Jump to go higher, release to descend)
+A62-A44-C45
+
+// Infinite/Max Health
+00D2-0B0C
+00D2-0C0C

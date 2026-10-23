@@ -1,0 +1,11 @@
+// Infinite Planes
+00C1-3909
+
+// Infinite Bombs
+00C1-3709
+
+// Always Have Max Speed
+00C1-4103
+
+// Always Have Forcefield
+00C1-4201

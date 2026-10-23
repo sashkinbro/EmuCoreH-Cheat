@@ -1,0 +1,103 @@
+// Enable Debug Menu
+EVCA-AN20
+
+// Invincibility
+9XMV-SCG4
+AMMV-RAG6
+HSMV-R308
+
+// Start with no continues
+ABLB-RACA
+
+// Start with 1 continue
+AFLB-RACA
+
+// Start with 2 continues
+AKLB-RACA
+
+// Start with 4 continues
+AVLB-RACA
+
+// Start with 5 continues
+AZLB-RACA
+
+// Start with 7 continues
+A7LB-RACA
+
+// Start with 9 continues
+BFLB-RACA
+
+// Infinite continues
+AKLB-RA70
+
+// Start level with rock power-up
+A5LB-SJ7C
+
+// Start level with flame power-up
+AMLB-SJ7C
+
+// Keep power-ups after you die
+AMLB-RA4W
+
+// No one loses any energy-Including enemies
+ALJB-4A9R
+
+// Start with 1 life
+ABLB-RABY
+
+// Start with 2 lives
+AFLB-RABY
+
+// Start with 5 lives
+AVLB-RABY
+
+// Start with 7 lives
+A3LB-RABY
+
+// Start with 9 lives
+BBLB-RABY
+
+// Infinite lives
+AKLB-RA64
+
+// Always Small Taz
+FFCCD8:0080
+
+// Jump higher.
+KBZV-RAGE
+
+// Jump much higher.
+FKZV-RAGE
+
+// Moon jump.
+CVZV-RAGE
+
+// Infinite Health
+FFCCAC:0017
+
+// Infinite Lives
+FFD04E:0009
+
+// Infinite Time At Continue Screen
+FFC8F4:0063
+
+// Infinite Continues
+FFD04A:0009
+
+// Walk across openings without falling (&quot;Walk on Air&quot;)
+RGNV-46Y4
+
+// Walk Thru Walls
+ADLB-4A6A
+
+// Remove Enemies
+FMZV-4A6N
+
+// Enemies Can't Move
+NWKV-4A42
+
+// Jump Up Impossible Ledges
+R5BV-4A6R
+
+// Enable Debug Menu
+FFD36E:0001

@@ -1,0 +1,413 @@
+// P1 Color Modifier [In-Game]
+FF00A8:0000
+FF00A8:0000
+FF00AA:0000
+FF00AA:0000
+FF00AC:0000
+FF00AC:0000
+FF00AE:0000
+FF00AE:0000
+FF00B0:0000
+FF00B0:0000
+FF00B2:0000
+FF00B2:0000
+FF00B4:0000
+FF00B4:0000
+FF00B6:0000
+FF00B6:0000
+FF00B8:0000
+FF00B8:0000
+FF00BA:0000
+
+// P2 Color Modifier [In-Game]
+FF00C8:0000
+FF00C8:0000
+FF00CA:0000
+FF00CA:0000
+FF00CC:0000
+FF00CC:0000
+FF00CE:0000
+FF00CE:0000
+FF00D0:0000
+FF00D0:0000
+FF00D2:0000
+FF00D2:0000
+FF00D4:0000
+FF00D4:0000
+FF00D6:0000
+FF00D6:0000
+FF00D8:0000
+FF00D8:0000
+FF00DA:0000
+
+// From the main menu, press A or B or C twice to bring up each of the three secret menus.
+DM2A-JA3Y
+
+// Player 1 takes all damage
+C5ZT-GA28
+
+// Player 2 takes all damage
+RHZT-G6T8
+
+// Both players take no damage
+AMZT-GA5E
+
+// The first fight for player 1 is against Kano
+ACXT-KA62
+
+// The first fight for player 1 is against Sonya
+AGXT-KA62
+
+// The first fight for player 1 is against Jax
+ALXT-KA62
+
+// The first fight for player 1 is against Nightwolf
+ARXT-KA62
+
+// The first fight for player 1 is against Sub-Zero
+AWXT-KA62
+
+// The first fight for player 1 is against Stryker
+A0XT-KA62
+
+// The first fight for player 1 is against Sindel
+A4XT-KA62
+
+// The first fight for player 1 is against Sektor
+A8XT-KA62
+
+// The first fight for player 1 is against Cyrax
+BCXT-KA62
+
+// The first fight for player 1 is against Kung Lao
+BGXT-KA62
+
+// The first fight for player 1 is against Kabal
+BLXT-KA62
+
+// The first fight for player 1 is against Sheeva
+BRXT-KA62
+
+// The first fight for player 1 is against Shang   Tsung
+BWXT-KA62
+
+// The first fight for player 1 is against Liu Kang
+B0XT-KA62
+
+// The first fight for player 1 is against Smoke
+B4XT-KA62
+
+// The first fight for player 1 is against Motaro
+B8XT-KA62
+
+// The first fight for player 1 is against Noob-Saibot
+CGXT-KA62
+
+// All fights after 1st are against Kano
+HW1T-KAA4
+AC1T-JAA6
+
+// All fights after 1st are against Sonya
+HW1T-KAA4
+AG1T-JAA6
+
+// All fights after 1st are against Jax
+HW1T-KAA4
+AL1T-JAA6
+
+// All fights after 1st are against Nightwolf
+HW1T-KAA4
+AR1T-JAA6
+
+// All fights after 1st are against Sub-Zero
+HW1T-KAA4
+AW1T-JAA6
+
+// All fights after 1st are against Stryker
+HW1T-KAA4
+A01T-JAA6
+
+// All fights after 1st are against Sindel
+HW1T-KAA4
+A41T-JAA6
+
+// All fights after 1st are against Sektor
+HW1T-KAA4
+A81T-JAA6
+
+// All fights after 1st are against Cyrax
+HW1T-KAA4
+BC1T-JAA6
+
+// All fights after 1st are against Kung Lao
+HW1T-KAA4
+BG1T-JAA6
+
+// All fights after 1st are against Kabal
+HW1T-KAA4
+BL1T-JAA6
+
+// All fights after 1st are against Sheeva
+HW1T-KAA4
+BR1T-JAA6
+
+// All fights after 1st are against Shang Tsung
+HW1T-KAA4
+BW1T-JAA6
+
+// All fights after 1st are against Liu Kang
+HW1T-KAA4
+B01T-JAA6
+
+// All fights after 1st are against Smoke
+HW1T-KAA4
+B41T-JAA6
+
+// All fights after 1st are against Motaro
+HW1T-KAA4
+B81T-JAA6
+
+// All fights after 1st are against Noob-Saibot
+HW1T-KAA4
+CG1T-JAA6
+
+// Infinite Energy P1
+9XHA-BCEA
+Y5HA-AAEC
+N1HA-BV6E
+
+// Hit Anywhere Both Players
+AMYT-GA8N
+RHYT-G61L
+AMYT-GA64
+AMYT-GA7W
+
+// All Fights After 1st Are Against Kano
+HW1T-KAA4
+AC1T-JAA6
+
+// All Fights After 1st Are Against Sonya
+HW1T-KAA4
+AG1T-JAA6
+
+// All Fights After 1st Are Against Jax
+HW1T-KAA4
+AL1T-JAA6
+
+// All Fights After 1st Are Against Nightwolf
+HW1T-KAA4
+AR1T-JAA6
+
+// All Fights After 1st Are Against Sub-Zero
+HW1T-KAA4
+AW1T-JAA6
+
+// All Fights After 1st Are Against Stryker
+HW1T-KAA4
+A01T-JAA6
+
+// All Fights After 1st Are Against Sindel
+HW1T-KAA4
+A41T-JAA6
+
+// All Fights After 1st Are Against Sektor
+HW1T-KAA4
+A81T-JAA6
+
+// All Fights After 1st Are Against Cyrax
+HW1T-KAA4
+BC1T-JAA6
+
+// All Fights After 1st Are Against Kung Lao
+HW1T-KAA4
+BG1T-JAA6
+
+// All Fights After 1st Are Against Kabal
+HW1T-KAA4
+BL1T-JAA6
+
+// All Fights After 1st Are Against Sheeva
+HW1T-KAA4
+BR1T-JAA6
+
+// All Fights After 1st Are Against Shang Tsung
+HW1T-KAA4
+BW1T-JAA6
+
+// All Fights After 1st Are Against Liu Kang
+HW1T-KAA4
+B01T-JAA6
+
+// All Fights After 1st Are Against Smoke
+HW1T-KAA4
+B41T-JAA6
+
+// All Fights After 1st Are Against Motaro
+HW1T-KAA4
+B81T-JAA6
+
+// All Fights After 1st Are Against Noob-Saibot
+HW1T-KAA4
+CG1T-JAA6
+
+// Infinite Energy P1
+FFF864:00A6
+
+// Infinite Energy P2
+FFF9D6:00A6
+
+// No Energy P1
+FFF864:0000
+
+// No Energy P2
+FFF9D6:0000
+
+// Infinite Run P1
+FFF866:0030
+
+// Infinite Run P2
+FFF9D8:0030
+
+// No Run P1
+FFF866:0000
+
+// No Run P2
+FFF9D8:0000
+
+// Cheat Option Menus Enabled
+FF000C:0002
+FF000E:0001
+FF000E:0000
+
+// Infinite Time
+FFF5A4:0009
+
+// Infinite Kredits
+FF021A:0063
+
+// Win Number Modifier P1
+FF0292:0000
+
+// Win Number Modifier P2
+FF0294:0000
+
+// Character Modifier P1
+FF0126:0000
+
+// Character Modifier P2
+FF0128:0000
+
+// Background Modifier
+FF0148:0000
+
+// P1 Color Modifier (In-Game)
+FF00A8:0000
+FF00A8:0000
+FF00AA:0000
+FF00AA:0000
+FF00AC:0000
+FF00AC:0000
+FF00AE:0000
+FF00AE:0000
+FF00B0:0000
+FF00B0:0000
+FF00B2:0000
+FF00B2:0000
+FF00B4:0000
+FF00B4:0000
+FF00B6:0000
+FF00B6:0000
+FF00B8:0000
+FF00B8:0000
+FF00BA:0000
+FF00BA:0000
+FF00BC:0000
+FF00BC:0000
+FF00BE:0000
+FF00BE:0000
+FF00C0:0000
+FF00C0:0000
+FF00C2:0000
+FF00C2:0000
+FF00C4:0000
+FF00C4:0000
+
+// P2 Color Modifier (In-Game)
+FF00C8:0000
+FF00C8:0000
+FF00CA:0000
+FF00CA:0000
+FF00CC:0000
+FF00CC:0000
+FF00CE:0000
+FF00CE:0000
+FF00D0:0000
+FF00D0:0000
+FF00D2:0000
+FF00D2:0000
+FF00D4:0000
+FF00D4:0000
+FF00D6:0000
+FF00D6:0000
+FF00D8:0000
+FF00D8:0000
+FF00DA:0000
+FF00DA:0000
+FF00DC:0000
+FF00DC:0000
+FF00DE:0000
+FF00DE:0000
+FF00E0:0000
+FF00E0:0000
+FF00E2:0000
+FF00E2:0000
+FF00E4:0000
+FF00E4:0000
+
+// P1 Free Movement
+FFF85A:00A2
+
+// P2 Free Movement
+FFF9CC:00A2
+
+// Infinite Energy P1
+AMZT-GA2L
+
+// Infinite Energy P2
+AMZT-GA3C
+
+// Skip Intro Screen
+BJDT-AA7N
+
+// Skip VS Screen
+ATEA-AA7L
+
+// Play Galaga mini-game.  See notes.
+BEZT-LAAY
+
+// Play Pong MK4 mini-game.  See notes.
+CTZT-LAAY
+
+// Enabled Smoke In Table
+AC9T-JA6R
+AMPT-JA4G
+AMNT-JA88
+AMPA-JA3Y
+AMPA-JA90
+
+// Enabled Motaro And Shao Kahn In Table
+AL8T-JA4J
+AMPA-JA6Y
+
+// All 3 secret cheat menus are automatically enabled at the main menu. See notes.
+AJET-B99C
+AAET-ACHE
+
+// kombat kode Modifier
+FF029E:0001
+
+// kombat kode Modifier 2
+FF02A0:0001
+
+// P1 Play as Noob Saibot
+FF0126:0011

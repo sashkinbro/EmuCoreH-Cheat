@@ -1,0 +1,20 @@
+// Infinite Lives
+00C2-0805
+
+// Infinite Time
+00C2-3263
+
+// Shoot 1 Window to Advance to Next Level
+00C-ACF-C49
+
+// Invincibility
+C99-98F-7F4
+
+// Infinite Lives
+3A7-A9E-2A2
+
+// Infinite Time
+B67-1EE-3BE
+
+// Freeze Timer
+00C2-313C

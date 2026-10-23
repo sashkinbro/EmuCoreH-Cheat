@@ -1,0 +1,30 @@
+// Infinite Energy
+AMMT-GA6T
+
+// Infinite Energy Against Bosses
+ATPT-GA4C
+AVCA-JA40
+AVBT-JA96
+AVMA-JA64
+AVVA-JA3L
+AV4T-JA64
+AWCT-JA68
+
+// Invincibility Against Bosses
+RYPT-G6VC
+RZCA-J6WR
+RZBT-J61Y
+RZMA-J6YW
+RZVA-J6VC
+RZ4T-J6YW
+R0CT-J6Y0
+
+// Infinite Ammo The Gun
+AT9T-GA2R
+
+// Enabled Secret Code Green Puggsy/Infinite Lives
+RG6A-E6WY
+AJDT-AA8C
+
+// Enable Secret Extra Levels On Map
+RGWT-G6W8

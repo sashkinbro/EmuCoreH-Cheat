@@ -1,0 +1,5 @@
+// Infinite Energy P1
+FF0DEE:002F
+
+// Enemies Won't Attack You
+FF0DF4:5A00

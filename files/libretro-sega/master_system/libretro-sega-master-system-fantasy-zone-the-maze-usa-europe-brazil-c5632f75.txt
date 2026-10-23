@@ -1,0 +1,19 @@
+// Infinite Lives - Player 1
+00C0-6705
+
+// Infinite Lives - Player 2
+00C0-6805
+
+// Final Round [51]
+00C0-4C32
+00C0-4D33
+
+// Collect one dot to finish a Round
+00CD-0F01
+
+// Final Round (51)
+00C0-4C32
+00C0-4D33
+
+// Infinite Lives
+00B-BCA-3BE

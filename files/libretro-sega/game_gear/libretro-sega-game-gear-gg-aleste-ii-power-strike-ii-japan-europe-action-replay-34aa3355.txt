@@ -1,0 +1,5 @@
+// Infinite Lives
+00C0-3D09
+
+// Infinite Secondary Weapon ("Nuke Blasts")
+00D9-F409

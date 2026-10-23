@@ -1,0 +1,5 @@
+// Infinite Bombs
+0080B8:C351
+
+// Infinite Energy
+00B094:4E71

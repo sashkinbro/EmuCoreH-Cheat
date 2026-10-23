@@ -1,0 +1,84 @@
+// Have Power Bracelet
+00C0-4D01
+
+// Have Magic Capsule A [Attack]
+00C0-4601
+
+// Have Magic Capsule B [Barrier]
+00C0-4701
+
+// Have Teleport Powder
+00C0-4A01
+
+// Have Cane of Flight
+00C0-4901
+
+// Have Telepathy Ball
+00C0-4801
+
+// Have Moonstone Medallion
+00C0-4B01
+
+// Have Letter To Nibana
+00C0-4C01
+
+// Have Hirotta Stone
+00C0-4E01
+
+// Start Level With Motor Bike
+00C0-5407
+
+// Start Level With Speed Boat
+00C0-5101
+
+// Level Select
+00C0-2300
+
+// Level 16 - Janken's Castle [Janken The Great]
+00C0-2310
+
+// Final Level - Cragg Lake [Crown]
+00C0-2311
+
+// Hit Anywhere
+FFD-588-915
+
+// Infinite Lives
+00C0-2502
+
+// Infinite Money
+00C0-30CC
+
+// Invincibility (after dying) (blinking)
+2A6-5FD-6E2
+
+// Infinite Lives
+7EC-289-3B7
+
+// Infinite Money
+004-7EF-4C6
+
+// Start every level (after level 1) with Peticopter
+3E9-DDD-6EA
+099-DED-4C3
+329-DFD-082
+
+// Start with Peticopter after dying
+09D-499-E62
+
+// Start every level (after level 1) with Motorcycle
+3E9-DDD-6EA
+079-DED-4C3
+329-DFD-082
+
+// Start with Motorcycle after dying
+07D-499-E62
+
+// Start with Peticopter
+00C0-5409
+
+// Invincibility against Enemies
+C9D-BD8-19D
+
+// Jump Height Modifier
+FDD-2FD-191

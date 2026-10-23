@@ -1,0 +1,26 @@
+// Start on any skill level
+000-5A9-A29
+
+// Always gain speed on luge and bobsleigh
+7E0-0BD-3B7
+C91-B2D-91D
+
+// 1 shot on biathlon
+01E-87D-F7E
+
+// 7 shots on biathlon
+07E-87D-F7E
+
+// 9 shots on biathlon
+09E-87D-F7E
+
+// Infinite time on biathlon
+00A-02E-19A
+
+// Full power on speed skating
+2E8-51E-5DD
+E08-52E-A23
+188-53E-2AA
+
+// Very Low Timer (Applies To Everything)
+00CC-1400

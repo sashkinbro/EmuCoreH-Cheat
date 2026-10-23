@@ -1,0 +1,71 @@
+// Infinite Continues [Doesn't Work On Level 1]
+ATST-AA36
+
+// Start On Level 2
+HEEA-BEZE
+
+// Start On Level 5
+HEEA-BTZE
+
+// Hitting Water Speeds You Up A Little Instead Of Slowing You Down
+FFKA-BDC4
+
+// Infinite Weapons
+AT1A-AA5N
+
+// Races Are In Slow Motion
+AA4T-AF2W
+
+// Start On Level 9
+HEEA-BAZE
+
+// Start With Sticky Tires Maxed Out
+SEEA-BTYW
+
+// Start With Turbo Acceleration Maxed Out
+SEEA-BTYN
+
+// Start With Top Speed Maxed Out
+SEEA-BTY2
+
+// Start With 4 Letters
+HEEA-BT0J
+
+// Start With 7 Letters
+HEEA-B60J
+
+// Don't Spin Out When You Hit Oil Slicks
+EKKA-AA6C
+
+// The Cpu Cars Don't Move
+RE3A-A6VA
+
+// Can't Pick Up Power-Ups or Use Turbo Pads
+EKJA-AA6G
+
+// Can't pick up powerups or use turbo pads
+005086:6022
+
+// Super Sticky Tires Maxed Out
+ATET-AA92
+
+// Always Place 1st
+FF0304:0000
+
+// Infinite Weapons
+FF056E:0063
+
+// Have All Letters
+FF056C:0008
+
+// Max Super Sticky Tires
+FF0562:0004
+
+// Max Turbo Acceleration
+FF0564:0004
+
+// Max Higher Top Speed
+FF0566:0004
+
+// Level Modifier
+FF02FE:0000

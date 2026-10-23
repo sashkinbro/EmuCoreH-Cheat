@@ -1,0 +1,86 @@
+// Infinite Lives
+AKWT-AA7J
+
+// Invincibility
+HKWT-AA5W
+
+// Alternater Invincibility
+AJ1T-AA5L
+
+// Invincibility
+A25T-AA7L
+
+// Extra Life Worth 2
+SBVA-BJY0
+
+// Extra Life Worth 3
+SBVA-BNY0
+
+// Extra Life Worth 4
+SBVA-BTY0
+
+// Start With 7 Lives
+A5BA-AAFC
+
+// Start With 8 Lives
+A9BA-AAFC
+
+// Start With 11 Lives
+BMBA-AAFC
+
+// Start With 21 Lives
+CXBA-AAFC
+
+// Practice Level 2
+AHBA-ACFR
+
+// Practice Level 3
+AHBA-AEFR
+
+// Practice Level 4
+AHBA-AGFR
+
+// Practice Level 5
+AHBA-AJFR
+
+// Practice Level 6
+AHBA-ALFR
+
+// Practice Level 7
+AHBA-ANFR
+
+// Practice Level 8
+AHBA-ARFR
+
+// Practice Level 9
+AHBA-ATFR
+
+// Practice Level 10
+AHBA-AWFR
+
+// Infinite Time To Continue
+FFF164:0099
+
+// Infinite Continues
+FFF2D4:0009
+
+// Weapon Highlighter Modifier
+FFF2DA:0000
+
+// Weapon Modifier
+FFF2DC:0000
+
+// All Extra/Bonus Music (Ending, Omake, etc) Is Available In The Option Screen
+RH9T-A6VA
+
+// Invincibility (Disable Hit Detection)
+RZWA-A6VL
+RZVT-A6ZY
+RZWA-A6ZE
+
+// Enabled Hidden Options In Configuration Mode
+A56T-AA3R
+AX7A-AADL
+
+// Enable Have All Weapons Cheat (Pause The Game And Press Up)
+AJ2T-AA7L

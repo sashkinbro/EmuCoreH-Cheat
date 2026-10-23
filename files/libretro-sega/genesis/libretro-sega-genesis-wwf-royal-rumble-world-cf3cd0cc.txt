@@ -1,0 +1,156 @@
+// Infinite Energy
+9W2A-BGGG
+HL2A-AAGJ
+982A-AAGL
+2R2A-BB0N
+
+// No Pinfalls
+CFRA-AMEL
+
+// Camera Scrolls &amp; Stays To The Right
+YLAA-AFSR
+
+// Earthquake
+ACAT-AESC
+
+// Earthquake &amp; Turbo Speed
+ACAT-ATSE
+
+// Slow To Fall Down &amp; To Get Up
+HJLT-A7AA
+
+// Slow Vertical Roll
+HJLT-A7AC
+
+// Slow When Hit or Stomped On Ground
+HJLT-A7AE
+
+// Slow Jump From Turnbuckle / Ref Counts Slowly
+HJLT-A7AG
+
+// Slow To Enter &amp; Exit The Ring At The Bottom
+HJLT-A7AN
+
+// Slow Punches
+HJLT-A7AR
+
+// Slow Kicks / Slow Recovery From Punches / Ref is Slow To Recover When Getting Up
+HJLT-A7AT
+
+// Slow Recovery When Hit With A Kick
+HJLT-A7AW
+
+// Slow Splash
+HJLT-A7AY
+
+// Slow Kneedrop
+HJLT-A7A0
+
+// Slow Dropkick
+HJLT-A7A2
+
+// Slow Clothesline
+HJLT-A7A4
+
+// Slow Grapple
+HJLT-A7A6
+
+// Slow Headbutt
+HJLT-A7BA
+
+// Slow suplex
+HJLT-A7BC
+
+// Slow Bodyslam
+HJLT-A7BE
+
+// Slow Irish Whip
+HJLT-A7BG
+
+// Slow Fling Over Rope / Slow Atomic Drop Over Rope
+HJLT-A7BJ
+
+// Slow Picking Opponent Up
+HJLT-A7BN
+
+// Slow Eye Gouges
+HJLT-A7BR
+
+// Slow Choking
+HJLT-A7BT
+
+// Slow Atomic Drops
+HJLT-A7BW
+
+// Slow Knee Back Breakers
+HJLT-A7BY
+
+// Slow Grapple Breaks
+HJLT-A7B0
+
+// Slow Pinfalls
+HJLT-A7B2
+
+// Slow Horizontal Rolls
+HJLT-A7B4
+
+// Slow Pinfall Kickouts
+HJLT-A7B6
+
+// Infinite Time Outside Ring P1
+FFCCA6:00A0
+
+// Infinite Time Outside Ring P2
+FFCCA8:00A0
+
+// P1 Grapple Bar Full
+FFD15E:0200
+
+// P2 Grapple Bar Empty
+FFD160:0000
+
+// Referee Stays Down
+FFD0DE:03FF
+
+// P2 Stays Down
+FFD0DC:03FF
+
+// Infinite Ring Out Time Both Players
+AK5T-AA7N
+
+// All Characters Stays Down
+AK5T-AA46
+
+// Full Grapple Bar Both Players
+HVVT-BANL
+ABVT-AEEN
+
+// P2 Can't Decrease Your Grapple Bar
+AL2T-AA7L
+
+// Infinite Energy P1
+FFD0C2:003A
+
+// Infinite Energy P2
+FFD0C4:003A
+
+// No Energy P1
+FFD0C2:0000
+
+// No Energy P2
+FFD0C4:0000
+
+// Infinite Ringout Time P1 (Alternate)
+FFCC9E:0000
+
+// Infinite Ringout Time P2 (Alternate)
+FFCCA0:0000
+
+// P2 Can't Be Pinned
+FFCCA6:0000
+
+// P1 Always Pinned
+FFCCA4:003A
+
+// P2 Always Pinned
+FFCCA6:003A

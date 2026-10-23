@@ -1,0 +1,24 @@
+// Always Finish in 1st Place
+00C5-9B01
+
+// FAKE In-Game Infinite Time
+00C2-1C00
+
+// Freeze Timer
+00C2-1F3C
+
+// Infinite Money
+00C6-A80F
+00C6-A927
+
+// Infinite Time
+B64-AEE-3BE
+
+// Always 1st Place
+9DC-94F-804
+9DC-B9F-804
+9DC-E9F-804
+9DC-94F-804
+
+// Always First Place
+00C5-AA01

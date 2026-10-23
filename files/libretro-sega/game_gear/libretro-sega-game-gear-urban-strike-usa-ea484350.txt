@@ -1,0 +1,78 @@
+// Infinite Armor
+00DA-B2FF
+
+// Infinite Fuel
+00DA-B8FF
+
+// Infinite Lives
+00DA-A909
+
+// Infinite Gun
+00DA-B6FF
+
+// Infinite Health
+00DA-B3FF
+
+// FAKE Infinite Health
+00DA-7D38
+
+// Infinite Armor
+496-A8A-D5F
+
+// Infinite Fuel
+7E6-C0A-3B7
+
+// Infinite Gun Ammo
+4E6-AEA-2AF
+
+// Infinite Lives
+007-9BA-801
+
+// Infinite Lives
+00DA-A963
+
+// Infinite Armor
+00DA-B20F
+00DA-B327
+
+// Infinite Guns
+00DA-B60F
+00DA-B727
+
+// Infinite Missiles
+00DA-B463
+
+// Infinite Rockets
+00DA-B563
+
+// Infinite Load
+00DA-B900
+
+// Infinite Time
+00DA-AAE8
+00DA-AB03
+
+// Infinite Missiles and Rockets
+7E6-C0A-3B7
+
+// Campaign Select
+00C0-FF00
+
+// Copilot Select
+00C1-0000
+
+// Infinite Lives
+B67-9CA-3BE
+
+// Infinite Armor and Guns
+4E6-AEA-2AF
+466-B0A-2AB
+
+// Infinite Fuel, Missiles, and Rockets
+7E6-C0A-3B7
+
+// Infinite Time
+006-FCA-3BE
+
+// Start with ?? Lives, instead of 3
+05A-D5C-E66

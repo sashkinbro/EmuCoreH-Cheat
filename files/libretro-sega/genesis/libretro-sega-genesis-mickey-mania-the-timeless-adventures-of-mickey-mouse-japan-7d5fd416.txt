@@ -1,0 +1,28 @@
+// Regional Lockout Bypass
+RYVA-E60Y
+
+// Enabled Cheat Code Level Select
+RFGA-E6XN
+
+// Controllable Jump + Jump In Mid Air 2 in 1
+RELA-A61R
+
+// Invincibility (Disable Hit Detection)
+RZ8T-A60J
+RZ7A-A60J
+R1ZA-C61R
+R04A-A6TE
+
+// Infinite Health
+AV7T-AA5W
+AV7T-AA4T
+A5ZT-CA3Y
+
+// Infinite Weapon
+AVBT-AA96
+
+// Infinite Continue
+ATEA-AA5L
+
+// Infinite Lives
+AJDT-AA78

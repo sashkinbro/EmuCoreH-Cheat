@@ -1,0 +1,119 @@
+// Set wind strength to 1 (No wind)
+ACLA-AAGY
+
+// Set wind strength to 2 (Weak)
+9WLA-BCG6
+AGLA-AAG8
+
+// Set wind strength to 3
+9WLA-BCG6
+ALLA-AAG8
+
+// Set wind strength to 4
+9WLA-BCG6
+ARLA-AAG8
+
+// Set wind strength to 5 (Moderate)
+9WLA-BCG6
+AWLA-AAG8
+
+// Set wind strength to 6
+9WLA-BCG6
+A0LA-AAG8
+
+// Set wind strength to 7
+9WLA-BCG6
+A4LA-AAG8
+
+// Set wind strength to 8
+9WLA-BCG6
+A8LA-AAG8
+
+// Set wind strength to 9 (Strong)
+9WLA-BCG6
+BCLA-AAG8
+
+// Computer won't change wind strength during game
+DLLT-AA50
+
+// Set wind direction to South
+9WLA-BCG0
+ACLA-AAG2
+
+// Set wind direction to Southwest
+9WLA-BCG0
+AWLA-AAG2
+
+// Set wind direction to West
+9WLA-BCG0
+BCLA-AAG2
+
+// Set wind direction to Northwest
+9WLA-BCG0
+BWLA-AAG2
+
+// Set wind direction to North
+9WLA-BCG0
+CCLA-AAG2
+
+// Set wind direction to Northeast
+9WLA-BCG0
+CWLA-AAG2
+
+// Set wind direction to East
+9WLA-BCG0
+DCLA-AAG2
+
+// Set wind direction to Southeast
+9WLA-BCG0
+DWLA-AAG2
+
+// All tournament opponents will shoot par on each hole
+BCRT-BE4A
+
+// All tournament opponents will shoot birdie on each hole
+ACRT-BE4A
+
+// Start at level 2
+AM0A-AAFL
+
+// Start at level 3
+AS0A-AAFL
+
+// Start at level 4
+AX0A-AAFL
+
+// Start at level 5
+A10A-AAFL
+
+// Start at level 6
+A50A-AAFL
+
+// Start at level 7
+A90A-AAFL
+
+// Start at level 8
+BD0A-AAFL
+
+// Start at level 9
+BH0A-AAFL
+
+// Start at level 10
+BM0A-AAFL
+
+// Start at level 11
+BS0A-AAFL
+
+// Start at level 12
+BX0A-AAFL
+
+// Always on same Stroke
+AV5A-AA4J
+AK5T-AA7E
+
+// No penalty stroke for hitting ball in water hazard or out of bounds
+AK5T-AA4G
+
+// Take one shot and go to Fantasy Zone Minigame
+AB5T-AA9G
+BW6A-AA88

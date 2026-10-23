@@ -1,0 +1,23 @@
+// Infinite Lives
+00C3-0409
+
+// Infinite Hearts (Hits)
+00C3-0503
+
+// Infinite Health
+00C-337-E69
+
+// Infinite Lives
+009-FAD-E6E
+
+// Infinite Time
+002-4CE-E6E
+
+// Invulnerability
+00C2-2709
+
+// Invulnerability
+18D-027-6EA
+
+// Invulnerability (Alt)
+18E-EEE-6EA

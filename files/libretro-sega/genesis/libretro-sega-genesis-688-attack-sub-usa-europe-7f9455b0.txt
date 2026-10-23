@@ -1,0 +1,178 @@
+// 6 torpedoes (Torpex '89 mission)
+AALT-CNE2
+AALT-CNGR
+
+// 6 torpedoes (Shake 'Em mission)
+AALT-CNE8
+A2LT-CAGY
+
+// 6 torpedoes (Sub Ops mission)
+A2LT-CAG4
+
+// 6 torpedoes (Mumar Cadaver mission)
+AALT-CNFE
+
+// 6 torpedoes (Escape mission)
+AALT-CNFL
+A2LT-CAHA
+
+// 6 torpedoes (Goulash mission)
+AALT-CNFT
+
+// 6 torpedoes (Cat Walk mission)
+AALT-CNF0
+A2LT-CAHG
+
+// 6 torpedoes (Surprise Party mission)
+AALT-CNF6
+A2LT-CAHN
+
+// 6 torpedoes (Homecoming mission)
+AALT-CNGC
+A2LT-CAHW
+
+// 6 torpedoes (Hit and Run mission)
+AALT-CNGJ
+
+// 32 torpedoes (Torpex '89 mission)
+AALT-CAN2
+AALT-CARR
+
+// 32 torpedoes (Shake 'Em mission)
+AALT-CAN8
+EALT-CAGY
+
+// 32 torpedoes (Sub Ops mission)
+EALT-CAG4
+
+// 32 torpedoes (Mumar Cadaver mission)
+AALT-CAPE
+
+// 32 torpedoes (Escape mission)
+AALT-CAPL
+EALT-CAHA
+
+// 32 torpedoes (Goulash mission)
+AALT-CAPT
+
+// 32 torpedoes (Cat Walk mission)
+AALT-CAP0
+EALT-CAHG
+
+// 32 torpedoes (Surprise Party mission)
+AALT-CAP6
+EALT-CAHN
+
+// 32 torpedoes (Homecoming mission)
+AALT-CARC
+EALT-CAHW
+
+// 32 torpedoes (Hit and Run mission)
+AALT-CARJ
+
+// 16 missiles (Torpex '89 mission)
+A2LT-DAE6
+A2LT-DAGW
+
+// 16 missiles (Shake 'Em mission)
+A2LT-DAFC
+
+// 16 missiles (Mumar Cadaver mission)
+A2LT-DAFJ
+
+// 16 missiles (Escape mission)
+A2LT-DAFR
+
+// 16 missiles (Goulash mission)
+A2LT-DAFY
+
+// 16 missiles (Cat Walk mission)
+A2LT-DAF4
+
+// 16 missiles (Surprise Party mission)
+A2LT-DAGA
+
+// 16 missiles (Homecoming mission)
+A2LT-DAGG
+
+// 16 missiles (Hit and Run mission)
+CALT-CAGL
+
+// All subs carry 0 torpedoes
+AALT-CAE2
+AALT-CAE6
+REHT-A6ZY
+
+// All subs carry 5 torpedoes
+AYLT-CLE2
+AALT-CAE6
+REHT-A6ZY
+
+// All subs carry 5 torpedoes, 5 missiles and 5 noisemakers
+AYLT-CLE2
+AYLT-CLE6
+REHT-A6ZY
+
+// All subs carry 10 torpedoes, 0 missiles and 0 noisemakers
+BJLT-CYE2
+AALT-CAE6
+REHT-A6ZY
+
+// All subs carry 10 torpedoes, 10 missiles and 10 noisemakers
+BJLT-CYE2
+BJLT-CYE6
+REHT-A6ZY
+
+// All subs carry 15 torpedoes, 15 missiles and 15 noisemakers
+B6LT-C8E2
+B6LT-C8E6
+REHT-A6ZY
+
+// All subs carry 25 torpedoes, 25 missiles and 25 noisemakers
+DELT-DWE2
+DELT-DWE6
+REHT-A6ZY
+
+// Emergency Surface manuever can be performed 2x instead of only 1x
+AJHA-BT8L
+HF9T-AJGL
+AF9T-AAGN
+2THT-BGA4
+
+// Emergency Surface manuever can be performed 4x
+ATHA-BT8L
+HF9T-AJGL
+AF9T-AAGN
+2THT-BGA4
+
+// Emergency Surface manuever can be performed 8x
+BAHA-BT8L
+HF9T-AJGL
+AF9T-AAGN
+2THT-BGA4
+
+// Emergency Surface manuever can be performed infinite times
+A39T-AA8L
+
+// Emergency Surface Manuever Cannot Be Performed At All
+HEHT-AET4
+
+// Towed Array May Be Redeployed After It Has Been Cut
+ACAA-AAE8
+
+// Towed Array Already Cut (Unavailable) At Start Of Mission
+9THT-BGKA
+AAHT-B73C
+SAHT-A6VG
+
+// No cavitation
+NWBT-AA62
+
+// Enemies can't see you or detect you when you surface, as long as your periscope is down.
+AMMA-AA3Y
+
+// Unlimited speed. See notes.
+ADJT-AA72
+
+// Infinite missiles, torpedoes, and noisemakers
+ALGA-AA94

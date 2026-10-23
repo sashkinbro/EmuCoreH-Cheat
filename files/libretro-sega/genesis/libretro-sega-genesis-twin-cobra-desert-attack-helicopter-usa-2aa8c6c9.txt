@@ -1,0 +1,217 @@
+// Start with 1 life
+AEVA-BA9C
+
+// Start with 10 lives
+CAVA-BA9C
+
+// Start with 25 lives
+EYVA-BA9C
+
+// Start with 50 lives
+LAVA-BA9C
+
+// Start with 99 lives
+XEVA-BA9C
+
+// Infinite lives
+TEYT-AEZ4
+
+// Start turns with 1 bomb instead of 3
+AEVA-AAFY
+
+// Start turns with 5 bombs instead of 3
+AYVA-AAFY
+
+// Start turns with 7 bombs instead of 3
+A6VA-AAFY
+
+// Infinite bombs
+AJYA-AA5R
+
+// Start turns with green weaponry
+9TVA-BCFG
+AEVA-AAFJ
+
+// Start turns with blue weaponry
+9TVA-BCFG
+AJVA-AAFJ
+
+// Start turns with yellow weaponry
+9TVA-BCFG
+ANVA-AAFJ
+
+// Start turns with double power boost
+9TVA-BCFN
+AJVA-AAFR
+
+// Start turns with triple power boost
+9TVA-BCFN
+ATVA-AAFR
+
+// S pick-up worth nothing
+AT7T-AA8T
+
+// S pick-up gives 2x power
+HE7T-BJ0T
+
+// Bomb pick-up adds 2 bombs
+HE7T-BJ1T
+
+// Bomb pick-up adds 3 bombs
+HE7T-BN1T
+
+// Keep P pick-ups after losing a life
+HAVA-AE0L
+
+// Start with 1 credit
+9V6T-BGBE
+AF6T-AABG
+
+// Start with 5 credits
+9V6T-BGBE
+AZ6T-AABG
+
+// Start with 10 credits
+9V6T-BGBE
+CB6T-AABG
+
+// Start with 25 credits
+9V6T-BGBE
+EZ6T-AABG
+
+// Start with 50 credits
+9V6T-BGBE
+LB6T-AABG
+
+// Start with 99 credits
+9V6T-BGBE
+XF6T-AABG
+
+// Infinite credits
+JF6T-AEY6
+
+// Start at stage 2
+SANA-BJZY
+
+// Start at stage 3
+SANA-BNZY
+
+// Start at stage 4
+SANA-BTZY
+
+// Start at stage 5
+SANA-BYZY
+
+// Start at stage 6
+SANA-B2ZY
+
+// Start at stage 7
+SANA-B6ZY
+
+// Start at stage 8
+SANA-BAZY
+
+// Infinite Lives
+REYT-A6Z8
+
+// Invincibility
+RYZT-A6TL
+
+// Infinite Bombs
+FFB2B6:0003
+
+// Pause The Game To Get 8 Bombs
+ATTT-AAF6
+
+// Pause The Game And Press B To Get 8 Bombs
+ATTT-AAF6
+CATT-AAF4
+
+// Pause The Game To Add 1 Bomb To Your Total
+REHA-A6TW
+HEHA-BETY
+ATTT-AAF6
+
+// Pause The Game And Press B To Add 1 Bomb to Your Total Amount of Bombs
+REHA-A6TW
+HEHA-BETY
+ATTT-AAF6
+CATT-AAF4
+
+// Level Select
+AATT-ABFR
+
+// Start Each Life With Max Weapon Power
+9TVA-BCFN
+BJVA-AAFR
+
+// Pause The Game To Get Nearly Maximum Weapon Power
+AATT-ABFY
+
+// Pause The Game And Press A To Get Nearly Maximum Weapon Power
+AATT-AAZY
+
+// 1 Hit Kills Enemies
+RE8A-A6YT
+
+// All Weapons Are Much Stronger
+RE8A-A6YJ
+AT8A-BE6L
+
+// Infinite Credits
+FFB29A:0017
+
+// Invincibility (Disable Hit Detection)
+RY7T-A6XL
+RY8A-A60T
+
+// Always Have Red Weapon
+9WHA-BCB2
+ACHA-AAB4
+08HA-BFK6
+
+// Always Have Green Weapon
+9WHA-BCB2
+AGHA-AAB4
+08HA-BFK6
+
+// Always Have Blue Weapon
+9WHA-BCB2
+ALHA-AAB4
+08HA-BFK6
+
+// Always Have Yellow Weapon
+9WHA-BCB2
+ARHA-AAB4
+08HA-BFK6
+
+// Always Have Max Weapon Power
+HTXT-BAAA
+BJXT-AAAC
+
+// P-Stars Worth 2
+AJ7T-BE6L
+
+// P-Stars Worth 3
+AN7T-BE6L
+
+// P-Stars Worth 4
+AT7T-BE6L
+
+// Keep Current Weapon And Weapon Power After Dying
+BJVA-AA7G
+
+// Keep P-Stars after Dying
+AJVA-AA8L
+
+// Infinite Credits
+FFB29A:0099
+
+// Infinite Bombs
+FFB2B6:0009
+
+// Max Weapon Power
+FFB2B8:000A
+
+// Infinite Credits
+RF6T-A6Y8

@@ -1,0 +1,20 @@
+// Accelerate faster, and have a higher top speed.
+J6XA-8NGA
+RTXA-8AGC
+
+// Accelerate much faster, and have a higher top speed.
+J6XA-8NGA
+92XA-8AGC
+
+// When you hit an obstacle (bridge, sign, etc), you'll get back on the track faster.
+AJ2T-8A4N
+
+// Great Acceleration P1
+FFF312:00FF
+
+// No Bike Damaged
+FFF310:0009
+
+// No Bike Damaged
+AJ7A-8A8C
+BBDA-8A5A

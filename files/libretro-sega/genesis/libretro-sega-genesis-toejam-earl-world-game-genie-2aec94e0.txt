@@ -1,0 +1,167 @@
+// Don't use up presents in inventory
+MWPA-AA5J
+
+// Always share presents [even on different levels]
+ALKA-AA4Y
+
+// See the entire map uncovered on each level
+RF8A-A6T2
+
+// Don't uncover any map tiles
+REFT-A6YL
+
+// Getting squashed doesn't hurt you
+AL3T-CA6A
+
+// Don't drown in the water
+HC8T-AA32
+
+// Mole ignores you
+HTTT-EA96
+
+// Tomatoes fly like slingshots
+C5AA-CA4T
+
+// Santa is easier to sneak up on
+ATXA-EA3Y
+
+// Each BUCK found is worth 2 bucks
+GBLA-DJY8
+
+// Each BUCK found is worth 5 bucks
+GBLA-DYY8
+
+// UN-FALL present always takes you up one level
+HTFA-DBSN
+DEFA-CAHR
+
+// Faster progression through the ranks
+JC6A-AH6Y
+
+// ToeJam and Earl move twice as fast
+TD2A-AEAJ
+6D2A-ACAN
+
+// All monsters are boogymen [extra hard]
+CB8A-DT2Y
+
+// All monsters are wahinis
+AZ8A-DT2Y
+
+// All monsters are Santas
+CV8A-DT2Y
+
+// All monsters are bees
+A38A-DT2Y
+
+// All monsters are moles [very nasty]
+CK8A-DT2Y
+
+// Kill all monsters with one tomato
+1V9A-DCCJ
+AF9A-CACL
+
+// Super hi-tops last 2x as long
+5V3T-CLGR
+
+// All other presents last 2x as long
+4B3T-CRAE
+
+// Start On Level 2
+AE8A-CAGT
+
+// Start On Level 3
+AJ8A-CAGT
+
+// Start On Level 4
+AN8A-CAGT
+
+// Start On Level 5
+AT8A-CAGT
+
+// Start On Level 6
+AY8A-CAGT
+
+// Start On Level 7
+A28A-CAGT
+
+// Start On Level 8
+A68A-CAGT
+
+// Start On Level 9
+BA8A-CAGT
+
+// Start On Level 10
+BE8A-CAGT
+
+// Start On Level 11
+BJ8A-CAGT
+
+// Start On Level 12
+BN8A-CAGT
+
+// Start On Level 13
+BT8A-CAGT
+
+// Start On Level 14
+BY8A-CAGT
+
+// Start On Level 15
+B28A-CAGT
+
+// Start On Level 16
+B68A-CAGT
+
+// Start On Level 17
+CA8A-CAGT
+
+// You Can't Get Hurt
+RE5T-C6W8
+
+// Infinite Lives
+AJ4A-CA9G
+
+// Infinite Funk Vacuums
+BA3T-CA54
+
+// Infinite Super Jars Once You Get Them
+RE3A-C6YY
+
+// Infinite Funkitude
+BA2A-CA4G
+
+// Infinite Coins
+BA2A-CA8L
+
+// Infinite Panic Buttons
+BA3A-CA94
+
+// Infinite Time Under Water
+AJ4A-GA2G
+
+// Instant Max Height Jumping On Fungus
+RFJT-G6ZE
+
+// Can't Fall Off Pink Bubbles
+RH9T-E6WW
+
+// All Monsters Are Lemon Aid Stands
+C78A-DT2Y
+
+// All Monsters Are i-Scream Trucks
+CP8A-DT2Y
+
+// No Monsters!
+678A-DT2Y
+
+// Start With 0 Funkitude
+AA2T-CAAE
+
+// Start With 20 Funkitude
+CT2T-CAAE
+
+// Start With 50 Funkitude
+GJ2T-CAAE
+
+// Start With 99 Funkitude
+NN2T-CAAE

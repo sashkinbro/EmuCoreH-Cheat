@@ -1,0 +1,15 @@
+// P1 Infinite Health
+FF276A:0064
+FF2E62:0064
+
+// P1 No Health
+FF276A:0000
+FF2E62:0000
+
+// P2 Infinite Health
+FF277A:0064
+FF3562:0064
+
+// P2 No Health
+FF277A:0000
+FF3562:0000

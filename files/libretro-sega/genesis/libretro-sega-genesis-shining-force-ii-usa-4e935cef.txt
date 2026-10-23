@@ -1,0 +1,847 @@
+// Lotsa And Infinite Money
+FFF602:00FF
+
+// Big Experience Per Fight
+FFE830:00FF
+
+// Bolt Spell
+FFE828:008D
+
+// Inf-Max MP
+FFE810:00FF
+
+// Max Attack
+FFE812:00FF
+
+// Max Defense
+FFE814:00FF
+
+// Max Agility
+FFE816:00FF
+
+// Max Movement
+FFE818:00FF
+
+// Big Experience Per Fight
+FFE868:00FF
+
+// Bolt Spell
+FFE860:008D
+
+// Inf-Max MP
+FFE848:00FF
+
+// Max Attack
+FFE84A:00FF
+
+// Max Defense
+FFE84C:00FF
+
+// Max Agility
+FFE84E:00FF
+
+// Max Movement
+FFE850:00FF
+
+// Big Exp Per Fight
+FFE8A0:00FF
+
+// Bolt Spell
+FFE898:008D
+
+// Inf-Max MP
+FFE880:00FF
+
+// Max Attack
+FFE882:00FF
+
+// Max Defense
+FFE884:00FF
+
+// Max Agility
+FFE886:00FF
+
+// Max Movement
+FFE888:00FF
+
+// Big Exp Per Fight
+FFE8D8:00FF
+
+// Bolt Spell
+FFE8D0:008D
+
+// Inf-Max MP
+FFE8B8:00FF
+
+// Max Attack
+FFE8BA:00FF
+
+// Max Defense
+FFE8BC:00FF
+
+// Max Agility
+FFE8BE:00FF
+
+// Max Movement
+FFE8C0:00FF
+
+// Big Exp Per Fight
+FFE910:00FF
+
+// Bolt Spell
+FFE908:008D
+
+// Inf-Max MP
+FFE8F0:00FF
+
+// Max Attack
+FFE8F2:00FF
+
+// Max Defense
+FFE8F4:00FF
+
+// Max Agility
+FFE8F6:00FF
+
+// Max Movement
+FFE8F8:00FF
+
+// Big Exp Per Fight
+FFE948:00FF
+
+// Bolt Spell
+FFE940:008D
+
+// Inf-Max MP
+FFE928:00FF
+
+// Max Defense
+FFE92C:00FF
+
+// Max Agility
+FFE92E:00FF
+
+// Max Attack
+FFE92A:00FF
+
+// Max Movement
+FFE930:00FF
+
+// Big Exp Per Fight
+FFE9B8:00FF
+
+// Bolt Spell
+FFE9B0:008D
+
+// Inf-Max MP
+FFE998:00FF
+
+// Max Attack
+FFE99A:00FF
+
+// Max Defense
+FFE99C:00FF
+
+// Max Agility
+FFE99E:00FF
+
+// Max Movement
+FFE9A0:00FF
+
+// Big Exp Per Fight
+FFE9F0:00FF
+
+// Bolt Spell
+FFE9E8:008D
+
+// Inf-Max MP
+FFE9D0:00FF
+
+// Max Attaxk
+FFE9D2:00FF
+
+// Mex Defense
+FFE9D4:00FF
+
+// Max Agility
+FFE9D6:00FF
+
+// Max Movement
+FFE9D8:00FF
+
+// Bolt Spell
+FFE978:008D
+
+// Inf-Max MP
+FFE960:00FF
+
+// Max Attack
+FFE962:00FF
+
+// Max Defense
+FFE964:00FF
+
+// Max Agility
+FFE966:00FF
+
+// Max Movement
+FFE968:00FF
+
+// Bolt Spell
+FFEA20:008D
+
+// Inf-Max MP
+FFEA08:00FF
+
+// Max Attack
+FFEA0A:00FF
+
+// Max Defense
+FFEA0C:00FF
+
+// Max Agility
+FFEA0E:00FF
+
+// Max Movement
+FFEA10:00FF
+
+// Bolt Spell
+FFEA58:008D
+
+// Inf-Max MP
+FFEA40:00FF
+
+// Max Attack
+FFEA42:00FF
+
+// Max Defense
+FFEA44:00FF
+
+// Max Agility
+FFEA46:00FF
+
+// Max Movement
+FFEA48:00FF
+
+// Bolt Spell
+FFEB00:008D
+
+// Max Attack
+FFEAEA:00FF
+
+// Max Defense
+FFEAEC:00FF
+
+// Max Agility
+FFEAEE:00FF
+
+// Max Movement
+FFEAF0:00FF
+
+// Bolt Spell
+FFEA90:008D
+
+// Inf-Max MP
+FFEA78:00FF
+
+// Max Attack
+FFEA7A:00FF
+
+// Max Defense
+FFEA7C:00FF
+
+// Max Agility
+FFEA7E:00FF
+
+// Max Movement
+FFEA80:00FF
+
+// Inf-Max MP
+FFEBC8:00FF
+
+// Bolt Spell
+FFEBE0:008D
+
+// Max Attack
+FFEBCA:00FF
+
+// Max Defense
+FFEBCC:00FF
+
+// Max Agility
+FFEBCE:00FF
+
+// Max Movement
+FFEBD0:00FF
+
+// Bolt Spell
+FFEC18:008D
+
+// Inf-Max MP
+FFEC00:00FF
+
+// Max Attack
+FFEC02:00FF
+
+// Max Agility
+FFEC06:00FF
+
+// Max Movement
+FFEC08:00FF
+
+// Bolt Spell
+FFEC50:008D
+
+// Inf-Max MP
+FFEC38:00FF
+
+// Max Attack
+FFEC3A:00FF
+
+// Max Defense
+FFEC3C:00FF
+
+// Max Agility
+FFEC3E:00FF
+
+// Max Movement
+FFEC40:00FF
+
+// Bolt Spell
+FFECF8:008D
+
+// Inf-Max MP
+FFECE0:00FF
+
+// Max Attack
+FFECE2:00FF
+
+// Max Defense
+FFECE4:00FF
+
+// Max Agility
+FFECE6:00FF
+
+// Max Movement
+FFECE8:00FF
+
+// Bolt Spell
+FFEE48:008D
+
+// Inf-Max MP
+FFEE30:00FF
+
+// Max Attack
+FFEE32:00FF
+
+// Max Defense
+FFEE34:00FF
+
+// Max Agility
+FFEE36:00FF
+
+// Max Movement
+FFEE38:00FF
+
+// Inf-Max MP
+FFEE68:00FF
+
+// Bolt Spell
+FFEE80:008D
+
+// Max Attack
+FFEE6A:00FF
+
+// Max Defense
+FFEE6C:00FF
+
+// Max Agility
+FFEE6E:00FF
+
+// Max Movement
+FFEE70:00FF
+
+// Max Movement
+FFECD8:00FF
+
+// Max Agility
+FFEDC6:00FF
+
+// Max Defense
+FFEDC4:00FF
+
+// Max Attack
+FFEDC2:00FF
+
+// Bolt Spell
+FFEDD8:008D
+
+// Bolt Spell
+FFEAC8:008D
+
+// Max Attack
+FFEAB2:00FF
+
+// Max Defense
+FFEAB4:00FF
+
+// Max Agility
+FFEAB6:00FF
+
+// Max Movement
+FFEAB8:00FF
+
+// Bolt Spell
+FFEB38:008D
+
+// Inf-Max MP
+FFEB20:00FF
+
+// Max Attack
+FFEB22:00FF
+
+// Max Defense
+FFEB24:00FF
+
+// Max Agility
+FFEB26:00FF
+
+// Max Movement
+FFEB28:00FF
+
+// Bolt Spell
+FFEC60:008D
+
+// Bolt Spell
+FFECC8:008D
+
+// Inf-Max MP
+FFECA8:00FF
+
+// Max Attack
+FFECAA:00FF
+
+// Max Defense
+FFECAC:00FF
+
+// Max Agility
+FFECAE:00FF
+
+// Max Movement
+FFECB0:00FF
+
+// Bolt Spell
+FFED30:008D
+
+// Inf-Max MP
+FFED18:00FF
+
+// Max Attack
+FFED1A:00FF
+
+// Max Defense
+FFED1C:00FF
+
+// Max Agility
+FFED1E:00FF
+
+// Max Movement
+FFED20:00FF
+
+// Bolt Spell
+FFED68:008D
+
+// Inf-Max MP
+FFED50:00FF
+
+// Max Attack
+FFED52:00FF
+
+// Max Defense
+FFED54:00FF
+
+// Max Agility
+FFED56:00FF
+
+// Max Movement
+FFED58:00FF
+
+// Bolt Spell
+FFEE10:008D
+
+// Max Movement
+FFEE00:00FF
+
+// Bolt Spell
+FFEB80:008D
+
+// Inf-Max MP
+FFEB58:00FF
+
+// Max Attack
+FFEB5A:00FF
+
+// Max Defense
+FFEB5C:00FF
+
+// Max Agility
+FFEB5E:00FF
+
+// Max Movement
+FFEB60:00FF
+
+// Bolt Spell
+FFEBA8:008D
+
+// Inf-Max MP
+FFEB90:00FF
+
+// Max Attack
+FFEB92:00FF
+
+// Max Defense
+FFEB94:00FF
+
+// Max Agility
+FFEB96:00FF
+
+// Max Movement
+FFEB98:00FF
+
+// Bolt Spell
+FFEDB0:008D
+
+// Inf-Max MP
+FFED88:00FF
+
+// Max Attack
+FFED8A:00FF
+
+// Max Defense
+FFED8C:00FF
+
+// Max Agility
+FFED8E:00FF
+
+// Max Movement
+FFED90:00FF
+
+// d
+AA4B-EAC0
+
+// Blind Mode
+AJCT-AA8L
+
+// Nothing Happens When Attacking, Using An Item, Getting Attacked, Etc.
+R0BT-C6ZN
+
+// The Message Box Stays There All The Time When Attacking, Using An Item, Etc.
+RZZA-A6V2
+
+// Die From Taking Any Damage
+AWKT-AA8C
+
+// Can'T Die From Taking Damage.
+RGKT-A60C
+
+// Getting Hit Doesn'T Decrease Your Health.
+RGKT-A60A
+
+// Reverse Damage
+JWKT-BF0A
+
+// Hides All Numbers From The Game
+AALA-BY7W
+
+// Allows You To Cast Spells Even If You Don't Have Enough Mp.
+ABEA-EA80
+
+// Always Hide Attack
+CJTT-CA9R
+
+// Always Hide Defense
+CJVA-CA2T
+
+// Always Hide Agility
+CJVA-CA30
+
+// Always Hide Movility
+CJVA-CA42
+
+// Always Hide Current Hp
+CJTT-CA2E
+
+// Always Hide Max Mp
+CJTT-CA5L
+
+// Never Hide Attack
+RETT-C61R
+
+// Never Hide Defense
+REVA-C6TT
+
+// Never Hide Agility
+REVA-C6V0
+
+// Never Hide Current Hp
+RETT-C6TE
+
+// Never Hide Max Mp
+RETT-C6XL
+
+// Muddle, Dispel, Sleep And Desoul Always Work
+E47A-AA7L
+
+// Regional Lockout Bypass
+AB9A-AA8Y
+
+// Max Starts A New Game With The Forbidden Box (Kindan No Hako) And The Long Sword
+DVJT-F9DR
+
+// Level-Up One Level For Each Enemy (From The List Below) That You Defeat In Battle!
+9LYT-AACR
+
+// Level Up Every Battle Scene, If Your Character Wasn't Simple Standing
+ALJT-CA24
+
+// Your Characters Are Completely Invincible
+BCBT-CYG0
+
+// Retargeting of Attacks
+V4BT-C0G0
+
+// 1 Hit Kills Enemy
+RGJA-C6XE
+
+// Don't Get Charged In Shops
+RGET-A6Z6
+
+// Improved Enable Configuration Cheat (No Button Code Necessary)
+BWHT-ER7A
+
+// Improved Enable Battle Cheats (No Button Code Necessary)
+BWHT-ER8Y
+
+// Easily Access The Secret Configuration Cheat
+98HT-F978
+
+// Easily Access Secret Battle Cheats
+98HT-F99W
+
+// Hero
+FFE830:9F63
+
+// Chester
+FFE8A0:9F63
+
+// Jaha
+FFE8D8:9F63
+
+// Kazin
+FFE910:9F63
+
+// Kiwi
+FFE980:9F63
+
+// Peter
+FFE9B8:9F63
+
+// May
+FFE9F0:9F63
+
+// When You Use The Medical Herb, It Will Restore ALL HP To ALL CHARACTERS In Your Party!!
+2F1A-CTPR
+
+// When You Use The Healing Seed, It Will Restore ALL HP To ALL CHARACTERS In Your Party!!
+2F1A-CTP8
+
+// When You Use The Healing Drop, It Will Restore ALL HP To ALL CHARACTERS In Your Party!!
+2F1A-CTRR
+
+// When You Use The Antidote, It Will Restore ALL MP (Magic Points) To ALL CHARACTERS In Your Party!! (Instead of Curing Poison)
+FK1A-CTR8
+
+// When You Use The Fairy Powder, It Will Restore ALL MP (Magic Points) To ALL CHARACTERS In Your Party!! (Instead of Curing Poison And Sleep)
+FK1A-CTS8
+
+// When You Use The Medical Herb, You Will Go Up One Level!
+EV1A-CAPR
+
+// When You Use The Healing Seed, You Will Go Up One Level!
+EV1A-CAP8
+
+// When You Use The Antidote, You Will Go Up One Level!
+EV1A-CAR8
+
+// When You Use The Fairy Powder, You Will Go Up One Level!
+EV1A-CAS8
+
+// Sell The Wooden Sword For $49,151
+973T-D926
+
+// Money Code
+973T-D996
+
+// Money Code (Alternative Code)
+971A-D97N
+
+// Healing Seed Is Free (Instead of $200)
+AB1A-CAF6
+
+// Healing Drop Is Free (Instead of $300)
+AB1A-CAGN
+
+// Antidote Is Free (Instead of $20)
+AB1A-CAG6
+
+// Fairy Powder Is Free (Instead of $100)
+AB1A-CAH6
+
+// Makes The Wooden Sword MUCH Stronger! The Wooden Sword Will Have 42 ATT (Instead of Only 3)
+FK3T-CNBA
+
+// Makes The Short Sword MUCH Stronger! The Short Sword Will Have 42 ATT (Instead of Only 5)
+FK3A-CNCA
+
+// Makes The Short Spear MUCH Stronger! The Short Spear Will Have 42 ATT (Instead of Only 6)
+FK3T-CNBT
+
+// Makes The Short Axe MUCH Stronger! The Short Axe Will Have 42 ATT (Instead of Only 5)
+FK2A-CNGA
+
+// Makes The Wooden Rod MUCH Stronger! The Wooden Rod Will Have 42 ATT (Instead of Only 3)
+FK4A-CNAA
+
+// Makes The Short Knife MUCH Stronger! The Short Knife Will Have 42 ATT (Instead of Only 5)
+FK4T-CNBA
+
+// When The Wooden Sword Is Equipped, Your MOV Will Increase By 25!!
+DF3T-CWBC
+
+// The Wooden Sword Casts A BLAZE 3 Spell When Used As An Item In Battle
+VP3T-CZA8
+
+// The Wooden Sword Casts A BOLT 4 Spell When Used As An Item In Battle
+3Z3T-CZA8
+
+// The Wooden Sword Casts A AURA 4 Spell When Used As An Item In Battle (Everyone's HP Will Be Fully Restored!!)
+2F3T-CZA8
+
+// The Short Sword Casts A FREEZE 4 Spell When Used As An Item In Battle
+3V3A-CZB8
+
+// The Short Sword Casts A BOLT 4 Spell When Used As An Item In Battle
+3Z3A-CZB8
+
+// The Short Sword Casts A AURA 4 Spell When Used As An Item In Battle (Everyone's HP Will Be Fully Restored!!)
+2F3A-CZB8
+
+// The Short Spear Casts A FREEZE 4 Spell When Used As An Item In Battle
+3V3T-CZBR
+
+// The Short Spear Casts A BOLT 4 Spell When Used As An Item In Battle
+3Z3T-CZBR
+
+// The Short Spear Casts A AURA 4 Spell When Used As An Item In Battle (Everyone's HP Will Be Fully Restored!!)
+2F3T-CZBR
+
+// The Short Axe Casts A FREEZE 4 Spell When Used As An Item In Battle
+3V2A-CZF8
+
+// The Short Axe Casts A BOLT 4 Spell When Used As An Item In Battle
+3Z2A-CZF8
+
+// The Short Axe Casts A AURA 4 Spell When Used As An Item In Battle (Everyone's HP Will Be Fully Restored!!)
+2F2A-CZF8
+
+// The Wooden Rod Casts A FREEZE 4 Spell When Used As An Item In Battle
+3V3T-CZH8
+
+// The Wooden Rod Casts A BOLT 4 Spell When Used As An Item In Battle
+3Z3T-CZH8
+
+// The Wooden Rod Casts A AURA 4 Spell When Used As An Item In Battle (Everyone's HP Will Be Fully Restored!!)
+2F3T-CZH8
+
+// The Short Knife Casts A FREEZE 4 Spell When Used As An Item In Battle
+3V4T-CZA8
+
+// The Short Knife Casts A BOLT 4 Spell When Used As An Item In Battle
+3Z4T-CZA8
+
+// The Short Knife Casts A AURA 4 Spell When Used As An Item In Battle (Everyone's HP Will Be Fully Restored!!)
+2F4T-CZA8
+
+// Some Enemies Have No Health
+FFF026:0000
+FFEFEE:0000
+FFEFB6:0000
+FFEF0E:0000
+FFEF46:0000
+FFEF7E:0000
+
+// Inf-Max HP
+FFEDC0:00FF
+
+// Can move anywhere on the screen during battle
+ABKA-AA8L
+
+// Can buy the Counter Sword, as well as most of the weapons in the game from the Weapon Shop in Granseal (where you start the game)
+JTEA-F852
+
+// Can buy nearly every item in the game from the Item Shop in Granseal (where you start the game)
+AAET-F828
+
+// Can buy anything in the shops, even if you don't have any money
+BAAT-EA3W
+
+// Can equip ANY weapon on ANY character
+RGHT-A6XY
+RGGT-A6YA
+
+// All characters that join your party (including Bowie) will have learned and can use AURA 4, ATLAS 2, and BOLT 4 spells, as well as any spell they normally start with
+2GMT-B8R8
+30MT-AA9A
+CBEA-EA8Y
+
+// Press B to walk thru buildings, mountains, etc
+RFKA-A60W
+
+// Battle cheat is always available
+RGPT-A60L
+
+// Max Gold (999999)
+FFF600:0000
+FFF600:000F
+FFF602:0042
+FFF602:003F
+
+// Special Turbo
+FFB0A8:0000
+
+// Control Opponents
+FFB0AA:0000
+
+// Auto Battle
+FFB0AA:0000
+
+// Game Completed
+FFB0AC:0000
+
+// Game Speed
+FFF716:0000
+
+// Display Message
+FFF718:0000
+
+// Character's turn modifier during battle
+FFFFF2:0000
+
+// Special Turbo
+FFB0A6:0000
+
+// Control Opponents
+FFB0AA:0000
+
+// Auto Battle
+FFB0AA:0000

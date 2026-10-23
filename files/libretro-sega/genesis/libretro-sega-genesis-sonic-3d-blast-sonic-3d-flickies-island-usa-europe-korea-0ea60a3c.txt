@@ -1,0 +1,128 @@
+// Have All Chaos Emeralds
+FF4F92:0007
+
+// Invincibility
+CC5A-CN4L
+
+// Non-Stop Demo
+AJCA-AABY
+
+// Freeze Animations
+AJLA-AACG
+
+// Level Selection Menu Always Appears At Level Start
+AJNA-AA32
+
+// Invisible Sonic, Except For Shadow
+AJNA-AAWT
+
+// Infinite Lives
+ATEA-AA5J
+
+// Don't Lose Rings When Hit
+BL5T-CA2W
+
+// Once You Collect The First 5 Birds (Flickies) For The First Level, You Won't Need To Collect Anymore To Go To The Rest of The Levels
+AVSA-AA44
+
+// Don't Lose Rings In Special Stages
+AMJA-CA42
+
+// Always Go To The Special Stage
+DADA-AAAR
+
+// Auto Spin Dash
+MA3A-AAAT
+
+// Skip Levels
+AADA-AAAE
+
+// Infinite Rings
+FF0A5A:0064
+
+// Infinite Lives
+FF0680:0003
+
+// Number of Flickies Collected
+FF0A8E:0000
+
+// Sonic does not flash when hit
+HW5A-CA5N
+
+// Get hit to pick up at least 25 rings
+ACDT-CA9G
+
+// 1 Hit Kill Bosses
+PDSA-AEYC
+PB1A-AEYT
+PD6A-AEV2
+PCST-AEXG
+PE0A-CEYT
+
+// Enable Level Select + Skip Levels in Pause Press A
+RECA-A6W6
+RFLT-A6X0
+
+// Keep Flickies After Touching Enemies
+RZSA-A6W4
+
+// Invincibility (Disable Hit Detection)
+R06T-C6Z8
+R07A-C60C
+R0CA-A6YC
+RZ1T-A6YT
+RY6T-A6Y6
+R0RT-A6XW
+R0ET-A6VE
+R16A-A6YG
+RYGT-C6VY
+R06T-C6ZC
+R05A-A61Y
+R0VT-A6T8
+RZ7T-C6YN
+RYSA-C6TL
+RYKA-C6TJ
+RZPT-C6YL
+
+// Don't fall when you walk off ledges (Walk on air)
+AVAT-AA4T
+
+// Blink 1.5x longer after being hit
+0W5A-CAFC
+
+// Blink 2x longer after being hit
+985A-CAFC
+
+// Rings worth 2
+SGTT-DJXR
+ALTT-CACT
+
+// Rings worth 3
+SGTT-DNXR
+ARTT-CACT
+
+// Rings worth 4
+SGTT-DTXR
+AWTT-CACT
+
+// Rings worth 8
+SGTT-DAXR
+BCTT-CACT
+
+// Start with 5 Lives
+REFA-A6TJ
+ATFA-AAAN
+
+// Start with 7 Lives
+REFA-A6TJ
+A2FA-AAAN
+
+// Start with 9 Lives
+REFA-A6TJ
+BAFA-AAAN
+
+// Can exit the section/level even if you don't have any Flickies.
+RHGT-A61J
+
+// Collect rings from anywhere.
+NLTA-CA3R

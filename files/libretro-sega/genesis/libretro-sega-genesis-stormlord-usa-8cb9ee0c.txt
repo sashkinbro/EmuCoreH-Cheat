@@ -1,0 +1,59 @@
+// Infinite lives
+A4DA-LA6L
+
+// Start with 9 lives, normal level
+BFXA-LAAE
+
+// Start with 8 lives, normal level
+BBXA-LAAE
+
+// Start with 7 lives, normal level
+A7XA-LAAE
+
+// Start with 6 lives, normal level
+A3XA-LAAE
+
+// Bonus lives worth 2
+PZ8A-M504
+
+// Bonus lives worth 3
+PZ8A-MN04
+
+// Bonus lives worth 4
+PZ8A-MT04
+
+// Infinite time to complete round
+AK8A-LA30
+
+// 1/2x normal time to complete round
+CB8A-LAB6
+
+// 2x normal time to complete round
+JB8A-LAB6
+
+// Less than 1/2x normal time to complete round
+BB8A-LAB6
+
+// Increase Stormlord's speed after first ride with Thortos
+ALAT-LAA4
+
+// Invincibility
+98EA-M932
+
+// Invincibility
+R01T-L6TN
+RZ4A-L61N
+
+// High moon jump with slow descent
+ALAT-LAGA
+ACAT-LTGL
+
+// High moon jump
+ACAT-LARL
+
+// Don't need keys to open doors
+BVZT-LA7G
+
+// Pause the game and press C to skip to the next level
+ABVA-LA42
+B3VA-LCC4

@@ -1,0 +1,47 @@
+// Start 1st Game With 1 Life
+015-C7F-E66
+
+// Start 1st Game With 5 Lives
+055-C7F-E66
+
+// Start 1st Game With 9 Lives
+095-C7F-E66
+
+// Infinite Lives
+01F-3FB-801
+
+// Start 1st Life With 1 Energy
+015-CCF-E66
+
+// Start 1st Life With 5 Energy
+055-CCF-E66
+
+// Start 1st Life With 9 Energy
+095-CCF-E66
+
+// Start Rest of Lives With 1 Energy
+017-36F-E66
+
+// Start Rest of Lives With 5 Energy
+057-36F-E66
+
+// Start Rest of Lives With 9 Energy
+097-36F-E66
+
+// Immunity To Spikes
+01E-30C-801
+
+// Invincibility (One Touch From You Kills Baddies)
+FF5-D2F-E6A
+
+// Start With 1 Continue
+025-94F-F7A
+
+// Start With 4 Continues
+055-94F-F7A
+
+// Start With 8 Continues
+095-94F-F7A
+
+// Infinite Continues
+005-D8F-801

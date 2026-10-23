@@ -1,0 +1,36 @@
+// Infinite Health
+00C5-14FF
+
+// Infinite Lives
+00C5-3809
+
+// Start with 1/4 energy (1st life)
+3AB-9F9-195
+
+// Start with 1/2 energy (1st life)
+7AB-9F9-195
+
+// Start with 3/4 energy (1st life)
+BBB-9F9-195
+
+// Start with 2 lives
+01B-AD9-F7E
+
+// Start with 8 lives
+07B-AD9-F7E
+
+// Start with 10 lives
+09B-AD9-F7E
+
+// Immune to everything
+006-46F-F7A
+
+// Infinite lives
+3A4-D1F-2A2
+
+// Infinite Lives
+004-D0F-19E
+
+// Invincibility
+C99-EDF-E69
+C99-E0E-E69

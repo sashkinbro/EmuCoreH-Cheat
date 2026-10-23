@@ -1,0 +1,56 @@
+// Infinite Lives
+AV5T-CA50
+
+// Infinite Energy
+AXRT-CA54
+
+// Infinite Weapon
+BM9T-CA6T
+
+// Invincibility
+ACNA-AR5N
+
+// Infinite Shurikens
+FF013A:0999
+
+// Infinite Energy
+FF0138:0006
+
+// Infinite Lives
+FF0134:0099
+
+// Invincibility
+FF0620:0010
+
+// Untouchable
+R0NA-A6XN
+RYBA-C61E
+
+// Pause the game and press any button to go the the level select screen
+J33T-CA6R
+
+// Jump in mid-air (Multi-jump)
+BC0A-AA3L
+AC4A-AA2W
+BG0A-AAB6
+
+// Pause the game and press A or B to get infinite energy, infinite lives, and infinite Shurikens, as well as going to the level select screen
+9K3T-CAET
+
+// Jump higher when standing still
+9CXA-B96L
+
+// Jump higher when running
+9CWA-B93E
+
+// Pause the game and press B to get infinite energy, infinite lives, and infinite Shurikens, as well as going to the level select screen
+FF000C:7570
+
+// High-Jump
+FF0526:0000
+
+// Invincibility
+ACNA-AA5N
+
+// Regional Lockout Bypass (European and Japanese Systems)
+AABT-AA3G

@@ -1,0 +1,30 @@
+// High jump (when standing still).
+AA2T-5THA
+
+// Super high jump (when standing still).
+AA2T-42HA
+
+// High jump (when running).
+AA5A-4ALR
+
+// Super high jump (when running).
+AA5A-5JCR
+
+// Enable Fully Functional Level Select
+BDJA-6N64
+A5HA-6A9C
+
+// Level Modifier
+FFDE0C:0000
+
+// Level Modifier (Accessed Via Cheat &quot;DAVIDL&quot; Under Options Menu)
+FFE000:0000
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Enable Extra Settings In Options
+RHJA-66Y4

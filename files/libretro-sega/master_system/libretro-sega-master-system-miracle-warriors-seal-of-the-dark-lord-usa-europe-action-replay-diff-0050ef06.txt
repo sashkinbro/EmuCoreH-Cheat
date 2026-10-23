@@ -1,0 +1,30 @@
+// Infinite Health (Main Character - Knight?)
+00C5-0AFF
+
+// Infinite Staffs
+00C4-0704
+
+// Infinite Spheres
+00C4-0804
+
+// Infinite Stones
+00C4-0904
+
+// Infinite Nuts
+00C4-0B01
+
+// Scroll
+00C4-0A01
+
+// Infinite Fangs
+00C4-34FF
+
+// Maximum Gold
+00C4-3060
+00C4-31EA
+
+// Infinite Herbs
+00C4-320B
+
+// Infinite Feathers
+00C4-0305

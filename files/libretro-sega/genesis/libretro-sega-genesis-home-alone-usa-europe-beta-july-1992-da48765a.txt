@@ -1,0 +1,5 @@
+// Infinite Charge - Home Alone (USA) (Beta)
+FFE55E:0030
+
+// Go into the first/closest house when starting a new game to see the unused 60's House blueprint
+A4DT-AACR

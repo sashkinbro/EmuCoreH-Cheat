@@ -1,0 +1,120 @@
+// Walk thru walls
+FTPA-EA42
+
+// Get $600 from your Dad at the beginning of the game (instead of $300).  See notes.
+AADB-CNC2
+
+// Get $9000 from your Dad at the beginning of the game (instead of $300).  See notes.
+AADB-DBC2
+
+// Get 80 BT (Battery) with your 1st suit of armor (instead of 50 BT)
+LDWT-GACR
+LDWT-GACY
+
+// Suit Walking Speed is Faster
+ANRT-AAE4
+
+// No Suit Walking Speed is Much Faster
+ANRT-AAEN
+
+// No Suit Walking Speed is Faster
+AJRT-AAEN
+
+// Battery doesn't drain when walking around
+AJXA-AA84
+
+// No monthly suit rental fee
+CAWT-AA7L
+
+// Battery lasts twice as long when walking around
+KAXA-AAGT
+
+// Go twice as long before monthly suit rental fee is due
+CAWT-AAFA
+
+// The notification that your suit rental payment is almost due, comes 3x sooner
+HTVT-AAFG
+
+// Opening a bank account only costs $500 (instead of $1000)
+ABFA-JLEN
+
+// Only need $500 to make a deposit into your bank account (instead of $1000)
+ABGA-JLHG
+
+// Don't need any money to make a deposit into your bank account
+ABGA-JAHG
+
+// AA batteries only cost $10 (instead of $30)
+CAKT-TABN
+
+// Don't get charged in shops
+AWMA-GA3A
+
+// AA batteries charge your suit by 20 units (instead of 10)
+CW4T-GAHT
+
+// No random battles
+AAVA-AA2R
+
+// Infinite battery (BATT) during battle
+RE2A-E6V6
+RE2T-E6TL
+
+// The Galacticanon only uses 2 battery segments per shot (instead of 3)
+CT2A-EAG2
+
+// All weapons use 1 battery segment per shot
+HT2A-FAJ8
+BJ2A-EABA
+
+// All weapons use 2 battery segments per shot
+HT2A-FAJ8
+CT2A-EABA
+
+// D batteries charge your suit by 60 units (instead of 40)
+HW5A-GAAT
+
+// Infinite health/life in battle
+AKLT-EA2G
+
+// 1 hit kills enemies in battle
+AJ8A-EA24
+
+// Allows you to buy the RH Bracelet in the very 1st shop (Handimart in Mold Valley)
+AEHT-TAEN
+
+// Allows you to buy extra items in the 1st shop (Handimart in Mold Valley)
+BEHT-TAEL
+
+// Can use the RH Bracelet to get new jobs
+ABKA-JA7T
+
+// Your max BT (Battery) that you're allowed with energy tanks is 150 (instead of 120)
+W44T-GAC2
+
+// Research lab will still sell you energy tanks even if your max BT is over 120
+W3DA-JAAJ
+
+// Energy Tanks are only $1200 (instead of $2000)
+AAKT-VEEY
+
+// Once you donate the money, you can pick-up your upgraded suit immediately
+RF2A-C61C
+
+// Once you donate the money, you can pick-up your upgraded weapon immediately
+RF1T-C60J
+
+// Get a V5.0 suit if your suit isn't ready yet
+JV2T-CA3J
+
+// Get $100 from the thugs that want to rumble for $10
+ABZT-ACGL
+
+// Get $1000 from the thugs that want to rumble for $10
+ABZT-BAGL
+
+// Don't lose half of your cash if a thug beats you in a rumble
+AVPA-AA2C
+
+// Can hold 10 items in your inventory (instead of 8)
+BKPA-JAEL

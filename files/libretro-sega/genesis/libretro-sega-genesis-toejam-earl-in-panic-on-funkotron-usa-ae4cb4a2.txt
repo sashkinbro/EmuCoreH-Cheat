@@ -1,0 +1,215 @@
+// You can't get hurt
+RE5T-C6W8
+
+// Infinite lives
+AJ4A-CA9G
+
+// Infinite funk vacuums
+BA3T-CA54
+
+// Infinite super jars once you get them
+RE3A-C6YY
+
+// Infinite funkitude
+BA2A-CA4G
+
+// Infinite coins
+BA2A-CA8L
+
+// Infinite panic buttons
+BA3A-CA94
+
+// Infinite time under water
+AJ4A-GA2G
+
+// Instant max height jumping on fungus
+RFJT-G6ZE
+
+// Can't fall off pink bubbles
+RH9T-E6WW
+
+// Underwater timer starts at 20 seconds
+CT4T-GABW
+
+// Underwater timer starts at 30 seconds
+D24T-GABW
+
+// Underwater timer starts at 50 seconds
+GJ4T-GABW
+AJZT-CA5E
+
+// Underwater timer starts at 60 seconds
+HT4T-GABW
+AJZT-CA5E
+
+// Start with 0 funkitude
+AA2T-CAAE
+
+// Start with 20 funkitude
+CT2T-CAAE
+
+// Start with 50 funkitude
+GJ2T-CAAE
+
+// Start with 99 funkitude
+NN2T-CAAE
+
+// Start with 1 life
+AA8A-CAGE
+
+// Start with 2 lives
+AE8A-CAGE
+
+// Start with 3 lives
+AJ8A-CAGE
+
+// Start with 4 lives
+AY8A-CAGE
+
+// Start with 10 lives
+BE8A-CAGE
+
+// Food worth no health increase
+AJ6T-CA50
+
+// Food worth 2x normal health increase
+RJ6T-DJX0
+
+// Food worth 3x normal health increase
+RJ6T-DNX0
+
+// Food worth 5x normal health increase
+RJ6T-DYX0
+
+// Can't get hurt or drown, and infinite lives
+TRYA-AAEJ
+
+// Infinite funk vacs, panic buttons, coins, funk & superjars
+SWYA-AAEJ
+
+// Instant max height on fungus, can't fall off of pink bubbles, hyperfunk zone timer runs at 1/2 speed, double food and presents
+ACYA-B8EJ
+
+// All of the above (Combines the effects of the last 3 codes)
+98YA-B8EJ
+
+// Start on Level 2
+AE8A-CAGT
+
+// Start on Level 3
+AJ8A-CAGT
+
+// Start on Level 4
+AN8A-CAGT
+
+// Start on Level 5
+AT8A-CAGT
+
+// Start on Level 6
+AY8A-CAGT
+
+// Start on Level 7
+A28A-CAGT
+
+// Start on Level 8
+A68A-CAGT
+
+// Start on Level 9
+BA8A-CAGT
+
+// Start on Level 10
+BE8A-CAGT
+
+// Start on Level 11
+BJ8A-CAGT
+
+// Start on Level 12
+BN8A-CAGT
+
+// Start on Level 13
+BT8A-CAGT
+
+// Start on Level 14
+BY8A-CAGT
+
+// Start on Level 15
+B28A-CAGT
+
+// Start on Level 16
+B68A-CAGT
+
+// Start on Level 17
+CA8A-CAGT
+
+// Moon Jump
+1BVT-AEA4
+EBVT-AAA6
+EBVT-AAA8
+RBVT-AMBA
+A3VT-AR3C
+9VVT-BA3E
+JBVT-BLBG
+BKVT-AABJ
+
+// Infinite Health P1
+FFA92A:0014
+
+// Infinite Health P2
+FFA92C:0014
+
+// Infinite Time Underwater
+FFA92E:0063
+
+// Infinite Specials
+FFA928:0063
+
+// Infinite Coins
+FFA922:0063
+
+// High jump.
+A2GA-GAGE
+
+// Super high jump.
+AJGA-GAGE
+
+// Walk across any opening without falling (&quot;Walk on air&quot;).
+AVXT-AA5A
+
+// Infinite Energy TOE JAM & EARL
+AT5T-CA7E
+
+// Infinite Teleport TOE JAM & EARL
+AJ2A-CA4N
+
+// Infinite Special Weapon TOE JAM & EARL
+AJ3A-CA7G
+
+// Infinite Continue
+AJ8T-CA6A
+
+// Infinite Panic Button
+FFA91E:0009
+
+// Infinite Funk Vacuum
+FFA920:0009
+
+// Infinite Health
+AA5T-CA48
+
+// Can exit level even if you don't have any earthlings.
+BK0T-GA6L
+
+// Collect presents from anywhere above you.
+REHA-E61N
+
+// Hit earthlings from almost anywhere in front of you (jars act like a homing missile).
+C4GT-GA2R
+
+// Always capture boy earthlings the first time you hit them with a jar (may also work on other earthlings).
+RE2A-E6TL
+
+// Always capture girl earthlings the first time you hit them with a jar (may also work on other earthlings).
+RE5T-E6WW
+
+// Boy Earthlings don't attack you and are very easy to catch (not sure if it works on other earthlings).
+REZT-E6V6

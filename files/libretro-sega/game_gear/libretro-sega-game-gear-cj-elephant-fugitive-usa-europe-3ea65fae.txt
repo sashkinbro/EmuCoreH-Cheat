@@ -1,0 +1,23 @@
+// Infinite Lives
+00C3-5C09
+
+// Infinite Health
+00C3-5D03
+
+// Infinite Bombs
+00C3-5B0A
+
+// X-Position Modifier
+00C3-2300
+
+// Invulnerability (And Enemies Die When They Touch You)
+C38-15D-E61
+
+// Infinite Health
+008-1AD-E65
+
+// Infinite Lives
+00B-BAF-3BE
+
+// Infinite Bombs
+00C-98C-E6E

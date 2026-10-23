@@ -1,0 +1,294 @@
+// Almost invincible
+AASB-8A20
+
+// Infinite lives
+AKRT-AA58
+
+// Infinite Health
+J6SB-8EY6
+
+// Start with 9 health after 1st life
+ABRT-AWEE
+
+// Start with 9 lives
+BKRA-AAE0
+
+// Start with 5 lives
+A3RA-AAE0
+
+// Regenerate all the way up to 9
+AB7B-WWDN
+
+// Regenerate up to 7
+AB7B-WRDN
+
+// Regenerate up to 5
+AB7B-WLDN
+
+// Regenerate twice as fast
+2K7B-WCDG
+
+// Regenerate four times as fast
+6F7B-WADG
+
+// Play as Magneto on any level
+RFMA-N60W
+
+// Infinite Energy
+AJSB-8A68
+
+// Invincibility
+9TMV-9CK4
+ATMV-8AB6
+CJMV-8138
+
+// Start With Full Health
+ABVA-AWEL
+
+// Allways Can Grab Health Powerups
+RF5B-C616
+
+// Nightcrawler's Power Charge Never Decreases
+AK7V-YA2C
+
+// Nightcrawler Has A Faster Teleport
+DAMV-8A4L
+
+// Nightcrawler Has Infinite Teleport
+AB4V-YAH2
+
+// Gambit and Cyclops Power Charge Never Decreases
+AJTV-8A7W
+
+// Gambit Allways Shoot Full Power
+997B-2730
+
+// Ciclops Allways Shoot Full Power
+960B-699G
+
+// Wolverine Jumps Higher
+C3WV-WAAC
+
+// Wolverine Special Doesn't Impulse Him (Standing)
+AB5B-WAHE
+AB5B-WAHT
+
+// Wolverine Special Doesn't Impulse Him (Jumping Right)
+JV5B-WNAE
+
+// Wolverine Special Doesn't Impulse Him (Jumping Left)
+JV4V-WNH6
+
+// Enable Character Select
+RHDB-L6ZN
+
+// Enable Level Select
+RHDV-L6TA
+
+// Faster Magneto Special
+RH5V-L6XA
+
+// Stronger Attacks Against Enemies
+HT8V-D2BJ
+CA8V-CABL
+
+// Stronger Attacks Against Phalanx Soldiers
+HTLB-F2F4
+CALB-EAF6
+
+// Stronger Attacks Against First Avalon Boss
+HTDT-DYHW
+CADT-CAHY
+
+// Stronger Attacks Against Exodus
+HXPT-FAAW
+CDPT-EAAY
+
+// Stronger Attacks Against Bull
+HXGT-MAFG
+CDGT-LAFJ
+
+// Stronger Attacks Against Apocalipsis
+HXGT-KAEW
+CDGT-JAEY
+
+// Stronger Attacks Against Brainchild
+HWXA-1AHE
+CCXA-0AHG
+
+// Stronger Attacks Against Clone Factory Boss Giant Scorpion And X-Men Clones
+HT4B-FABR
+CA4B-EABT
+
+// Stronger Attacks Against Giant Bat
+HXXB-MAFA
+CDXB-LAFC
+
+// Walk through Phalanx Magneto wall
+9WLT-XCL6
+CWLT-WAC8
+SLLT-XSXA
+
+// Disable Collision Detection
+ACEB-8A3G
+
+// Y Axys
+FFEAB6:00AD
+
+// Health
+FFEB10:0009
+
+// Nightcrawler's Power Charge Never Decreases
+FFEB46:0020
+
+// Nightcrawler Has A Faster Teleport
+FFEB14:0000
+
+// Nightcrawler Has Infinite Teleport
+FFEB38:0000
+
+// Gambit Allways Shoot Full Power
+FFEB3A:000B
+
+// Phalanx Magneto Allways Avalaible
+FFD77A:0014
+
+// Ciclops Allways Shoot Full Power
+FFEB3A:000A
+
+// Enable Level Select
+FFC5A2:00C0
+
+// Hit Anywhere
+ALSV-8A7E
+AGMV-9A62
+
+// &quot;Developed For Use Only With NTSC Megadrive PAL And French Seam Mega Drive NTSC Genesis System&quot; Text
+XZCB-8BGE
+
+// Fast Characters
+AYMB-8ALY
+
+// Die With One Hit
+A0TB-8AA4
+
+// Don't Blink When Hit
+FTPB-84SE
+
+// Untouchable
+AASB-8C20
+
+// One Hit And You Are Untouchable
+ATNB-9A0G
+
+// All Characters Flash
+P2PB-82HC
+
+// Don't Flash When Hit
+A2PB-8AHR
+
+// Hyper Characters
+AAMB-8A2G
+
+// Running Hyper Speed
+2A3B-9APL
+
+// Infinite Health P1
+FFEB10:0009
+
+// Infinite Health P2
+FFEA20:0009
+
+// Infinite Lives (All Characters)
+FFC958:0009
+
+// Can Perform Mutant Powers At Any Time P1
+FFEA84:00DD
+
+// Can Perform Mutant Powers At Any Time P2
+FFFA9C:00DD
+
+// Hyper P1
+FFEAF2:0008
+
+// P1 Character Highlighter
+FFC478:0000
+
+// P2 Character Highlighter
+FFC4BA:0000
+
+// Level Modifier
+FFCC64:0000
+
+// Removes Some Collisions (Does Not Activate In-Game Cheat)
+FFEAD8:0063
+
+// Enemies Can't Touch P1
+FFEB12:001B
+
+// Moon Jump P1
+FFEAC0:009B
+FFEB12:001B
+
+// Fast Running + Free Movement In Air P1
+FFEACA:0010
+FFEB12:001B
+
+// Enemies Can't Touch P2
+FFEA22:001B
+
+// Moon Jump P2
+FFE9D0:009B
+FFEA22:001B
+
+// Fast Running + Free Movement In Air P2
+FFE9DA:0010
+FFEA22:001B
+
+// Walk Through Walls/Ceilings
+ACEB-8A2T
+BCEB-8EAW
+
+// Nightcrawler's Power Charge Never Decreases
+AJTV-8A7W
+AJTV-8A3Y
+
+// Start at Sega screen (instead of immediately going into game play)
+RHGT-86ZR
+
+// 1 hit kills most enemies (with B button)
+PT8V-CEZC
+
+// Invincibility (Disable Hit Detection)
+R0SV-86Y8
+R0BB-C6YR
+R08T-66T2
+R0HB-C60L
+R01B-G6XJ
+R1CA-C6VL
+R0TB-861N
+
+// Pause the game and press C + Down (together) for 99 lives
+ADDB-LA5N
+NMDB-M75R
+
+// Invincibility lasts 5x longer (about 5 seconds) after getting hit
+3A7B-8AH8
+
+// Magneto can move Right when floating
+ADPV-2A3A
+RDPV-2CBC
+
+// Magneto can move left or right in mid-air after pressing A mid-jump
+ADPV-2A3J
+PDPV-2CBL
+
+// Play Music When Game Paused
+AMFV-LA2Y
+
+// Less gravity
+ABHB-8ACG
+
+// Invincibility
+RENB-860C
+JNNB-9WRE

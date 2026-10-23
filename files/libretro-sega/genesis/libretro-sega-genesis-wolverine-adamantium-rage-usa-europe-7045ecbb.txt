@@ -1,0 +1,147 @@
+// Jump higher
+9PVT-B97L
+
+// Jump much higher
+9FVT-B97L
+
+// Jump much, much higher
+83VT-B97L
+
+// Infinite lives
+ATKA-AA9C
+
+// Every few seconds, health does not improve
+REHT-A604
+
+// Every few seconds, health improves 2%
+JAHT-BJ04
+
+// Every few seconds, health improves 4%
+JAHT-BT04
+
+// Every few seconds, health improves 8%
+JAHT-BA04
+
+// Health pickups add 0% to health
+ABDA-2AFE
+
+// Health pickups add 5% to health
+AZDA-2AFE
+
+// Health pickups add 20% to health
+CVDA-2AFE
+
+// Health pickups add 50% to health
+GKDA-2AFE
+
+// Health pickups add 100% to health
+NVDA-2AFE
+
+// Elsie-Dee never comes
+ATHT-AA6C
+
+// Elsie-Dee comes 2x as fast as normal
+SEHT-BJYC
+
+// Elsie-Dee comes 3x as fast as normal
+SEHT-BNYC
+
+// Skip opening credit screens
+FB0V-AA90
+
+// Nearly invincible
+A2SA-AA8G
+
+// Invincible against fire, acid, water, bats
+BTZT-AA5A
+
+// Invincible against android dogs
+BVDA-2A92
+
+// Invincible against electricity
+AAXT-AABC
+
+// Invincible against some shots
+BTYA-AA3Y
+
+// Invincible against guard androids
+BTXT-AA9E
+
+// Invincible against Lurker
+EVKA-AA64
+EVKA-AA2N
+
+// Invincible against tree darts
+BTYT-AA76
+
+// Some of your slashes and punches do 1/2x more damage than normal
+BJTT-AAG6
+
+// Some of your slashes and punches do 2x more damage than normal
+FATT-AAG6
+
+// Some of your slashes and punches do 5x more damage than normal
+NTTT-AAG6
+
+// Some of your slashes and punches do 10x more damage than normal
+3ATT-AAG6
+
+// Some of your kicks do 1/2x more damage than normal
+A2TT-AAG4
+
+// Some of your kicks do 2x more damage than normal
+DATT-AAG4
+
+// Some of your kicks do 5x more damage than normal
+HTTT-AAG4
+
+// Some of your kicks do 10x more damage than normal
+SATT-AAG4
+
+// Infinite Lives
+D6KA-AAHE
+
+// Invincibility
+SESA-BE0G
+
+// Infinite Health
+FFEE86:0099
+
+// Infinite Lives
+FFEE84:0009
+
+// Invincible
+FFF4A2:0016
+
+// Stage Select Unlocked
+AKXB-GR7T
+
+// Untouchable completely against all enemies, etc. the in game
+RYXT-A60G
+RYYA-A6T0
+RYXT-A6X2
+RYYA-A6XE
+RYXT-A6TY
+RYYT-A6Y8
+RYYT-A61R
+
+// Infinite Energy completely against all enemies, etc. the in game
+AJXT-AA9E
+AJXT-AA6Y
+AJYA-AA3Y
+ATXT-AA3A
+AKDA-2A92
+AJZT-AA5A
+AJYA-AA6C
+AKKA-AA2N
+AKKA-AA64
+AJYT-AA76
+AKKA-AA4Y
+AKKA-AA7C
+AKKA-AA46
+AJYA-AA3Y
+AJZA-AA2N
+
+// Enable X-Tra Help
+AB4B-HAEE
+BKXB-GA8W

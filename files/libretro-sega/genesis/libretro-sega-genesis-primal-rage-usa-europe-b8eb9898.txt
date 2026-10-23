@@ -1,0 +1,118 @@
+// Player 1 is invincible
+RG4A-A6Y6
+
+// Player 2 in invincible
+RG4A-A60G
+
+// Player 1 dies with one hit
+RG4A-A6ZE
+
+// Player 2 dies with one hit
+RG4A-A60R
+
+// Infinite time
+BJGT-CA4R
+EVGT-CA5C
+
+// Infinite credits
+JA2A-AA7C
+
+// Player 1 never gets dizzy
+RG4A-A6ZT
+
+// Player 2 never gets dizzy
+RG4A-A604
+
+// Player 1 gets dizzy quicker
+RG4A-A6Z2
+
+// Player 2 gets dizzy quicker
+RG4A-A61C
+
+// Start on feast level
+AALA-AA9W
+
+// Play Bowling mini-game
+AALA-AA98
+BBGT-CA7L
+
+// Infinite Energy
+9TST-BGJE
+AAST-AAAG
+96ST-AAAJ
+N2ST-AH2L
+
+// Freeze Time
+AKNT-CA2W
+
+// Infinite Energy
+FFE366:0000
+
+// Freeze Time
+FFE298:552D
+
+// Infinite Time (At Character Select &amp; In-Game)
+FFE298:0009
+
+// Character Highlighter Modifier P1
+FFE3EE:0000
+
+// Character Highlighter Modifier P2
+FFE5B0:0000
+
+// Character Modifier P1
+FFB020:0000
+
+// Character Modifier P2
+FFB0E8:0000
+
+// Press Up For Extra Options (Title Screen)
+FFEAAE:000A
+
+// Infinite Health P1
+FFE366:0000
+
+// 1-Hit Death P1
+FFE366:002F
+
+// Infinite Health P2
+FFE528:0000
+
+// 1-Hit Death P2
+FFE528:002F
+
+// Infinite Focus P1
+FFE36A:0000
+
+// 1-Hit Dizziness P1
+FFE36A:0019
+
+// Infinite Focus P2
+FFE52C:0000
+
+// 1-Hit Dizziness P2
+FFE52C:0019
+
+// Hyper Mode P1
+FFB07E:0000
+
+// Hyper Mode P2
+FFB146:0000
+
+// Timer Stopped
+FFE298:0001
+
+// Timer Starts At 99 Seconds
+FFE29A:0099
+
+// Rounds To Win Modifier
+FFEA54:0001
+
+// Players Need 1 Round To Win
+FFEA52:0000
+
+// Hit Anywhere
+DXJT-AA8L
+
+// Enabled Cheat Code Extra Options Menu
+RFXT-A61A

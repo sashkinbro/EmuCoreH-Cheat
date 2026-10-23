@@ -1,0 +1,23 @@
+// Infinite Health (Goldmoon)
+00DB-B513
+
+// Infinite Health (Sturm)
+00DB-DD1D
+
+// Infinite Health (Caramon)
+00DC-0520
+
+// Infinite Health (Tanis)
+00DC-551F
+
+// Infinite Health (Tasslehoff)
+00DC-7D0F
+
+// Infinite Health (Riverwind)
+00DC-A51F
+
+// Infinite Health (Flint)
+00DC-CD26
+
+// Infinite Health (Raistlin)
+00DC-2D08

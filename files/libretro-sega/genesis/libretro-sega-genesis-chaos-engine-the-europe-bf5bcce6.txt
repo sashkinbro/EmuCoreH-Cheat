@@ -1,0 +1,28 @@
+// Infinite Lives P1
+FF0050:0009
+
+// Infinite Health P1
+FF4104:0063
+
+// Lots of Points P1
+FF004A:00FF
+
+// Have All Poles Activated (Not Initially Visible)
+FF0934:0000
+
+// Infinite Specials P1
+FF4114:0006
+
+// Infinite Lives
+AJBA-CA38
+
+// Infinite Energy
+ALWT-AA3Y
+RGTT-A6YJ
+
+// Infinite Money
+AK0T-AA6A
+
+// Invincibility (Disable Hit Detection)
+R0TT-A6YG
+R0XT-A6YR

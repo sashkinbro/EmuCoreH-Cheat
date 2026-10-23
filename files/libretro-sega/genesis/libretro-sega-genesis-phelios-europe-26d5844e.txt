@@ -1,0 +1,59 @@
+// Infinite Lives
+AJ4T-AA88
+
+// Infinite Life
+AJCT-AA5J
+
+// Invincibility
+RYCA-A618
+RY2T-A6ZW
+
+// Charge Power of Sword Always On Maximum
+AT3T-AA24
+AT3A-AA84
+
+// Infinite Credits
+ATHT-AA8R
+
+// Freeze Time Select
+A2HT-AA5L
+
+// Infinite Shot Weapon Beam
+AV4A-AA2A
+
+// 1 Shot Kill Enemies/Bosses
+A2CA-AA38
+
+// Infinite Lives - Phelios (Japan)
+AJ5A-AA2C
+
+// Infinite Life - Phelios (Japan)
+AJ5A-AA2C
+
+// Invincibility - Phelios (Japan)
+RYCA-A618
+RY2T-A600
+
+// Charge Power of Sword Always On Maximum -  Phelios (Japan)
+AT3T-AA38
+AT3A-AA98
+
+// Infinite Credits - Phelios (Japan)
+ATHT-AA8R
+
+// Freeze Time Select - Phelios (Japan)
+A2HT-AA5J
+
+// 1 Shot Kill Enemies/Bosses - Phelios (Japan)
+A2CA-AA38
+
+// Infinite Shot Weapon Beam - Phelios (Japan)
+AV4A-AA24
+
+// Keep Speed UP/All Shots Any Weapons After The Death - Phelios (Japan)
+BA4T-AA86
+A3CT-AA4E
+
+// Keep Speed UP/All Shots Any Weapons After The Death
+BA4T-AA72
+A3CT-AA3A

@@ -1,0 +1,11 @@
+// No Klaxes/Diagonals, Etc. Left (Except Point Waves!)
+00C1-F300
+
+// FAKE No Klaxes Left
+00C2-0600
+
+// Unlimited Credits
+00C0-DB03
+
+// Infinite Lives
+00C0-9401

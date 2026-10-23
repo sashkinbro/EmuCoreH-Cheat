@@ -1,0 +1,8 @@
+// Infinite Lives
+00D7-2D09
+
+// Infinite Credits (Continues)
+00D7-3209
+
+// 99 Cargo
+00D7-9299

@@ -1,0 +1,133 @@
+// Infinite Energy
+AMNA-AA6T
+
+// Infinite Lives
+ADNT-AADN
+
+// Start With 7 Energy Balls (Only Works On The Cool Difficulty Setting)
+A8XT-AAG6
+
+// Start With 10 Energy Balls (Only Works On The Cool Difficulty Setting)
+BLXT-AAG6
+
+// Infinite Time
+F4ZT-AA4T
+
+// Infinite Lives
+C5NT-AA5L
+
+// Multi-Jump
+AX1T-AA6N
+
+// Timer Starts At 99 Minutes
+FFE9D2:0063
+
+// Hyper Vectorman
+FFE4BA:0000
+
+// Hyper/Scrambled Vectorman
+FFE4BE:0009
+
+// Invincible Vectorman
+FFE5AA:001F
+
+// Disable Enemies
+FFE3E6:0012
+
+// Shadow Vectorman
+FFC11E:0000
+FFC11E:0000
+FFC120:0000
+FFC120:0000
+FFC122:0000
+FFC122:0000
+FFC124:0000
+FFC124:0000
+FFC126:0000
+FFC126:0000
+FFC128:0000
+FFC128:0000
+
+// Infinite Ammo (All Weapons)
+FFE9C8:0064
+
+// Coordinates Display Modifier
+FFF6B0:0001
+
+// Infinite Rocket Thrusts
+FFE4CA:0000
+
+// Rapid Fire (All Weapons)
+FFE4CE:00FF
+
+// Weapon Modifier
+FFE4CE:0000
+
+// Fire Ant Red Vectorman
+FFC11E:0000
+FFC11E:002E
+FFC120:0000
+FFC120:000C
+FFC122:0000
+FFC122:000C
+FFC124:0000
+FFC124:000A
+FFC126:0000
+FFC126:0008
+FFC128:0000
+FFC128:0004
+
+// Press B To Add A Life
+FFED02:0009
+
+// Press Down For Level Select
+FFED02:0008
+
+// Press Down For Weapon Select (Unpause After)
+FFED04:0006
+
+// Press Up To Refill Energy
+FFED08:0005
+
+// Pause the game and press UP for level select screen (when you unpause)
+AANT-EAEC
+
+// Infinite time for weapons
+ALMA-LA7L
+
+// Start a new game with the ricochet laser
+AXDT-AAGY
+ALMA-LA7L
+
+// Start a new game with the multi-directional laser
+A1DT-AAGY
+ALMA-LA7L
+
+// Start a new game with the auto-fire laser
+AMDT-AAGY
+ALMA-LA7L
+
+// Infinite Power Of Weapon
+ALRA-NA8Y
+
+// Pause the game and press UP to enable free movement
+AANT-EAFN
+
+// Pause the game and press A to enable free movement
+AANT-EAFN
+JANT-EAFL
+
+// Pause the game and Press Right for an Extra Life, Up for Level Select Menu, C to change Weapons, and B for a Health Refill
+REMA-E6WA
+
+// Pause the game and press B for an Extra Life and Down for Level Select Menu
+FFED02:0908
+
+// Pause the game and press Down to change Weapons
+FFED04:0006
+
+// Pause the game and press Up for a Health Refill
+FFED08:0005
+
+// Pause the game and press Y for Slow Motion Mode
+FFED0A:0007

@@ -1,0 +1,127 @@
+// Start with 1 player spaceship
+AEBT-AAH2
+
+// Start with 9 player spaceships
+BEBT-AAH2
+
+// Start with about 25 player spaceships
+EYBT-AAH2
+
+// Start with about 50 player spaceships
+LEBT-AAH2
+
+// Start with about 99 player spaceships
+XEBT-AAH2
+
+// Infinite player spaceships
+EJ6T-AA5A
+
+// Slower spaceship
+AE6T-AAHC
+AE3A-AADA
+
+// Faster spaceship
+AN6T-AAHC
+AN3A-AADA
+
+// Super fast spaceship
+AY6T-AAHC
+AY3A-AADA
+
+// Clear round after 25% of field is cut instead of 80%
+9J2A-AAFT
+
+// Clear round after 50% of field is cut
+8T2A-ACFT
+
+// Clear round after 65% of field is cut
+VJ2A-AEFT
+
+// Clear round after 95% of field is cut
+022A-AGFT
+
+// Clear round after 98% of field is cut
+4T2A-AGFT
+
+// Start with lasers (use B button)
+AJNT-CA2L
+
+// Start on round 2
+SFLA-DETN
+AABT-AAGG
+
+// Start on round 3
+SFLA-DETN
+
+// Start on round 4
+SFLA-DJTN
+
+// Start on round 5
+SFLA-DNTN
+
+// Start on round 6
+SFLA-DTTN
+
+// Start on round 7
+SFLA-DYTN
+
+// Start on round 8
+SLFA-D2TN
+
+// Start on round 9
+SFLA-D6TN
+
+// Start on round 10
+SFLA-DATN
+
+// Start on round 11
+AVLA-CA2N
+BJBT-AAGG
+
+// Start on round 12
+AVLA-CA2N
+BNBT-AAGG
+
+// Start on round 13
+AVLA-CA2N
+BTBT-AAGG
+
+// Start on round 14
+AVLA-CA2N
+BYBT-AAGG
+
+// Start on round 15
+AVLA-CA2N
+B2BT-AAGG
+
+// Start on round 16
+AVLA-CA2N
+B6BT-AAGG
+
+// Infinite Lives
+RE1T-A6WL
+
+// Freeze Time
+RE1A-A6WA
+
+// Invincibility
+R0MT-A6VW
+
+// Infinite Time (Micro-Seconds)
+FFB582:0071
+
+// Infinite Time (Seconds)
+FFB582:0071
+
+// Infinite Time (Minutes)
+FFB584:0071
+
+// Infinite Lives
+FFB58C:0009
+
+// Invincibility Extra
+R1PA-A60W
+R1PT-A6ZG
+
+// Invincibility
+FFB58E:0000

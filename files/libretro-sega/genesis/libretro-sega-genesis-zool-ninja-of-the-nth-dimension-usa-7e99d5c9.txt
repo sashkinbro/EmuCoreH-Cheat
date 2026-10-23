@@ -1,0 +1,58 @@
+// Infinite Time
+FFEB68:03E7
+
+// Invincibility
+FFEB64:00FF
+
+// Infinite Health
+FFED52:0003
+
+// Infinite Lives
+FFEA66:0063
+
+// Infinite Time
+ATCT-CA3E
+
+// Invincibility
+AVNT-CA8L
+
+// Infinite Health
+AVBA-EA4J
+
+// Infinite Lives
+AVST-CA5E
+
+// Start with 99 Lives
+NPZA-CAD6
+
+// Super Jump
+8B5A-D92E
+
+// Items Worth 5
+1F7A-D008
+
+// Allways Have Double Zool
+AKMA-CA6R
+
+// Allways Have Double Zool
+FFE0E6:00FF
+
+// Items Left
+FFEB02:0000
+
+// Pause the game to get 10 seconds of flying time with invincibility.  See notes.
+8VWT-2CEE
+VBWT-2Z6J
+
+// Pause the game to get 20 seconds of flying time with invincibility. See notes.
+7BWT-2GEE
+VBWT-2Z6J
+
+// Automatically warp to the top of any wall or obstacle when you touch it. See notes.
+ABRT-EA3T
+
+// Don't fall when you walk off ledges (Walk on air). See notes.
+ABFT-EA7N
+
+// Enabled World and Level Select in Pause. See Note
+AK0T-CA84

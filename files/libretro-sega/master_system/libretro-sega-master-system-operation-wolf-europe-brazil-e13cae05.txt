@@ -1,0 +1,26 @@
+// Infinite Grenades
+00C1-1906
+
+// Freeze Mode
+00C1-1020
+
+// No Enemies
+C96-76E-082
+
+// Infinite Bullets
+00C1-1699
+
+// Infinite Health
+00C1-0500
+
+// Infinite Health
+3A1-B6D-2A2
+3A7-71A-2A2
+3A3-57D-2A2
+
+// Infinite Bullets
+3A4-C6E-2A2
+3A4-D3E-2A2
+
+// Infinite Grenades
+3A5-14E-2A2

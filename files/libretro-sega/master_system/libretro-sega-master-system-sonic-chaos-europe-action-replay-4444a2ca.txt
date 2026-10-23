@@ -1,0 +1,11 @@
+// Infinite Lives
+00D2-9999
+
+// Infinite Rings (99 - Get 1 Ring To Go To "Bonus" Stage )
+00D2-9A99
+
+// Infinite Rings (07 - Use If You Don't Want To Go To "Bonus" Stage)
+00D2-9A07
+
+// Higher Jumps
+00D5-0C95

@@ -1,0 +1,121 @@
+// Infinite Lives
+00DC-0909
+
+// P1 Always on Last Lap
+00DF-2401
+
+// P1 Always on 1st Lap
+00DF-2403
+
+// P2 Always on 1st Lap
+00DC-C403
+
+// P3 Always on 1st Lap
+00DD-0503
+
+// P4 Always on 1st Lap
+00DD-4603
+
+// Infinite Time - Ruff Trux Time Trial
+00DF-6F05
+00DF-7005
+00DF-7100
+
+// Enable Track Select Menu
+00D6-D009
+
+// Enable Hard Mode
+00DC-4601
+
+// Enable Rock Hard Mode
+00DC-4602
+
+// Enable Exploding Opponents Cheat
+00DC-4901
+
+// Enable Infinite Lives Cheat
+00DC-4B01
+
+// Enable Always Finish 1st Cheat
+00DC-4C01
+
+// Enable Super Skid Cheat
+00DC-4E01
+
+// Enable Easier Opponents Cheat
+00DC-4F01
+
+// Enable Faster Vehicle Cheat
+00DC-5001
+
+// Disable Hard/Rock Hard Mode
+00DC-4600
+
+// Disable Exploding Opponents Cheat
+00DC-4900
+
+// Disable Infinite Lives Cheat
+00DC-4B00
+
+// Disable Always Finish 1st Cheat
+00DC-4C00
+
+// Disable Super Skid Cheat
+00DC-4E00
+
+// Disable Easier Opponents Cheat
+00DC-4F00
+
+// Disable Faster Vehicles Cheat
+00DC-5000
+
+// Infinite Lives
+3AF-787-2A2
+
+// Infinite Time - Ruff Trux Time Trial
+3AE-185-2A2
+
+// Start with ?? Lives, instead of 3
+043-6E7-E66
+
+// P1 Always on Same Lap
+3AD-719-2A2
+
+// P2 Always on Same Lap
+3AE-459-2A2
+
+// P3 Always on Same Lap
+3AF-929-2A2
+
+// P4 Always on Same Lap
+3A0-3C8-2A2
+
+// Race Modifier (Enable after Qualifying Race)
+00DB-D801
+
+// Start on Race ?? - Challenge Race
+023-7C7-E6E
+
+// Start on Race ?? - Head-to-Head Race vs CPU
+022-6D4-E6E
+
+// Freeze Timer - Ruff Trux Time Trial
+00DF-7200
+
+// Race 1 Lap To Win
+02D-709-E6E
+
+// Race Ends After Crossing Finish Line
+18D-769-4CA
+
+// Enable Track Select Menu
+094-D24-E6E
+
+// Start with ?? seconds for Ruff Trux Bonus Stage 1, instead of 45 seconds
+05A-91F-F7A
+
+// Start with ?? seconds for Ruff Trux Bonus Stage 2, instead of 48 seconds
+05A-95F-F7A
+
+// Start with ?? seconds for Ruff Trux Bonus Stage 3, instead of 55 seconds
+06A-99F-F7E

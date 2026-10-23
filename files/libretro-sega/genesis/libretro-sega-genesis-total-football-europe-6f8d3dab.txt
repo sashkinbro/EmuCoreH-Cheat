@@ -1,0 +1,8 @@
+// Team 1 Score Modifier (P1)
+FF0778:0063
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T

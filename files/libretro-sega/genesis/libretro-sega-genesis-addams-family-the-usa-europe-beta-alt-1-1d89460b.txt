@@ -1,0 +1,26 @@
+// Infinite Lives
+AX0A-RA58
+
+// Infinite Hearts
+AXZT-RA9N
+
+// Keep Hat Helicopter After Entry/Exit/After The Death
+A47T-RA7Y
+
+// Keep Weapon Balls After Touching Enemies
+AX0A-RA2L
+
+// Invincibility (Disable Hit Detection)
+RYAT-T60R
+R1ZT-R6YR
+
+// Keep Weapon Court Sword After Touching Enemies
+AX0A-RA2E
+
+// Keep Speed Shoes After Touching Enemies
+AX0A-RA2C
+A5ZT-RA9Y
+
+// Infinite Controllable Jump
+AM1A-RA7W
+AM1A-RA6Y

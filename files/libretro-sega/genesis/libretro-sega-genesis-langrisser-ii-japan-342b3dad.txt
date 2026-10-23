@@ -1,0 +1,224 @@
+// Don't get charged when you buy Troops
+AJYT-EA3L
+
+// Don't get charged when you buy Items (Knife, Etc.)
+AK5A-EA7A
+
+// Elwin's class modifier
+FF603C:0000
+
+// Hein's class modifier
+FF609C:0000
+
+// Cherie's class modifier
+FF60FC:0000
+
+// Aaron's class modifier
+FF615C:0000
+
+// Keith's class modifier
+FF61BC:0000
+
+// Lester's class modifier
+FF621C:0000
+
+// Scott's class modifier
+FF627C:0000
+
+// Jessica's class modifier
+FF62DC:0000
+
+// Liana's class modifier
+FF633C:0000
+
+// Lana's class modifier
+FF639C:0000
+
+// Elwin's item#2 modifier
+FF6046:0000
+
+// Hein's item#2 modifier
+FF60A6:0000
+
+// Cherie's item#2 modifier
+FF6106:0000
+
+// Aaron's item#2 modifier
+FF6166:0000
+
+// Keith's item#2 modifier
+FF61C6:0000
+
+// Lester's item#2 modifier
+FF6226:0000
+
+// Scott's item#2 modifier
+FF6286:0000
+
+// Jessica's item#2 modifier
+FF62E6:0000
+
+// Liana's item#2 modifier
+FF6346:0000
+
+// Lana's item#2 modifier
+FF63A6:0000
+
+// Elwin's max level (level 10)
+FF606A:000A
+
+// Hein's max level (level 10)
+FF60CA:000A
+
+// Cherie's max level (level 10)
+FF612A:000A
+
+// Aaron's max level (level 10)
+FF618A:000A
+
+// Keith's max level (level 10)
+FF61EA:000A
+
+// Lester's max level (level 10)
+FF624A:000A
+
+// Scott's max level (level 10)
+FF62AA:000A
+
+// Jessica's max level (level 10)
+FF630A:000A
+
+// Liana's max level (level 10)
+FF636A:000A
+
+// Lana's max level (level 10)
+FF63CA:000A
+
+// Elwin's max current mp
+FF6074:0063
+
+// Hein's max current mp
+FF60D4:0063
+
+// Cherie's max current mp
+FF6134:0063
+
+// Aaron's max current mp
+FF6194:0063
+
+// Keith's max current mp
+FF61F4:0063
+
+// Lester's max current mp
+FF6254:0063
+
+// Scott's max current mp
+FF62B4:0063
+
+// Jessica's max current mp
+FF6314:0063
+
+// Liana's max current mp
+FF6374:0063
+
+// Lana's max current mp
+FF63D4:0063
+
+// Elwin's max attack
+FF6076:0063
+
+// Hein's max attack
+FF60D6:0063
+
+// Cherie's max attack
+FF6136:0063
+
+// Aaron's max attack
+FF6196:0063
+
+// Keith's max attack
+FF61F6:0063
+
+// Lester's max attack
+FF6256:0063
+
+// Scott's max attack
+FF62B6:0063
+
+// Jessica's max attack
+FF6316:0063
+
+// Liana's max attack
+FF6376:0063
+
+// Lana's max attack
+FF63D6:0063
+
+// Elwin's max movement
+FF6080:0063
+
+// Hein's max movement
+FF60E0:0063
+
+// Cherie's max movement
+FF6140:0063
+
+// Aaron's max movement
+FF61A0:0063
+
+// Keith's max movement
+FF6200:0063
+
+// Lester's max movement
+FF6260:0063
+
+// Scott's max movement
+FF62C0:0063
+
+// Jessica's max movement
+FF6320:0063
+
+// Liana's max movement
+FF6380:0063
+
+// Lana's max movement
+FF63E0:0063
+
+// Elwin's max adjust attack
+FF6082:0063
+
+// Hein's max adjust attack
+FF60E2:0063
+
+// Cherie's max adjust attack
+FF6142:0063
+
+// Aaron's max adjust attack
+FF61A2:0063
+
+// Keith's max adjust attack
+FF6202:0063
+
+// Lester's max adjust attack
+FF6262:0063
+
+// Scott's max adjust attack
+FF62C2:0063
+
+// Jessica's max adjust attack
+FF6322:0063
+
+// Liana's max adjust attack
+FF6382:0063
+
+// Lana's max adjust attack
+FF63E2:0063
+
+// Don't Get Charged When You Buy Troops
+AJYT-EA3L
+
+// Don't Get Charged When You Buy Items (Knife, Etc.)
+AK5A-EA7A
+
+// Elwin Max ATK/DEF
+NSXA-LG4R

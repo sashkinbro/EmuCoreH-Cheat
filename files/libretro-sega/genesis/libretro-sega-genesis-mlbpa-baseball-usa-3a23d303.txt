@@ -1,0 +1,14 @@
+// Outs Modifier
+FF536E:0000
+
+// Strikes Modifier
+FF5370:0000
+
+// Balls Modifier
+FF5370:0000
+
+// Your Score Modifier (P1)
+FF54C4:0000
+
+// Opponent Score Modifier (P2/CPU)
+FF54C4:0000

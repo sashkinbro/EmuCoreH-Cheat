@@ -1,0 +1,80 @@
+// Player 1 starts with 1 life
+AF1T-AAGR
+
+// Player 1 starts with 2 lives
+AK1T-AAGR
+
+// Player 1 starts with 4 lives
+AV1T-AAGR
+
+// Player 1 starts with 5 lives
+AZ1T-AAGR
+
+// Player 1 starts with 6 lives
+A31T-AAGR
+
+// Player 1 starts with 7 lives
+A71T-AAGR
+
+// Player 1 starts with 8 lives
+BB1T-AAGR
+
+// Player 1 starts with 9 lives
+BF1T-AAGR
+
+// Infinite lives for player 1 (1-player game)
+R1GA-A6ZT
+
+// Infinite lives for player 1 (2-player game)
+J35T-AA7R
+
+// Player 2 starts with 1 life
+AF1T-AAG4
+
+// Player 2 starts with 2 lives
+AK1T-AAG4
+
+// Player 2 starts with 4 lives
+AV1T-AAG4
+
+// Player 2 starts with 5 lives
+AZ1T-AAG4
+
+// Player 2 starts with 6 lives
+A31T-AAG4
+
+// Player 2 starts with 7 lives
+A71T-AAG4
+
+// Player 2 starts with 8 lives
+BB1T-AAG4
+
+// Player 2 starts with 9 lives
+BF1T-AAG4
+
+// Infinite lives Player 2
+C35T-AA88
+
+// Player 1 starts with 5 bonus points
+AZ1T-AAGJ
+
+// Player 1 starts with 20 bonus points
+CV1T-AAGJ
+
+// Player 1 starts with 50 bonus points
+GK1T-AAGJ
+
+// Player 1 starts with 100 bonus points
+NV1T-AAGJ
+
+// Player 2 starts with 5 bonus points
+AZ1T-AAGY
+
+// Player 2 starts with 20 bonus points
+CV1T-AAGY
+
+// Player 2 starts with 50 bonus points
+GK1T-AAGY
+
+// Player 2 starts with 100 bonus points
+NV1T-AAGY

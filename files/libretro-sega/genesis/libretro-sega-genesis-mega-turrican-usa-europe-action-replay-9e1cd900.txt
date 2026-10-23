@@ -1,0 +1,8 @@
+// Infinite Energy
+FFBF20:0040
+
+// Infinite Time
+FFBF90:0099
+
+// Infinite Lives
+FFBF26:0005

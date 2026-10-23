@@ -1,0 +1,32 @@
+// Infinite Lives P1
+FFD882:0009
+
+// All Chicks Rescues
+FFD882:0000
+
+// Fake Rescued All Chicks In Bonus Round
+FFD28E:0063
+
+// Team 1 Score Modifier (P1)
+FFF01C:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FFF01C:0000
+
+// Infinite Lives P1
+FF13DE:0009
+
+// Infinite Time
+FF0F02:0089
+
+// Infinite Magic
+FF13E4:0007
+
+// Low Timer (Minutes)
+FF92F8:0000
+
+// Low Timer (Seconds)
+FF92FA:0000
+
+// Infinite Helicopters
+FFF82A:0008

@@ -1,0 +1,5 @@
+// Archery Points Given Per Shot Modifier
+FFFDAC:0000
+
+// Hurdles Speed Modifier P1
+FFFD00:0000

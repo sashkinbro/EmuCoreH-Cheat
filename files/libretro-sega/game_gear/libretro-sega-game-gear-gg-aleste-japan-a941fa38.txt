@@ -1,0 +1,18 @@
+// Infinite Planes
+00C1-D709
+
+// Invulnerability
+00C2-0CFF
+
+// Invulnerability (Blinking)
+007-A9D-C4A
+
+// Infinite Ships
+00C1-D609
+
+// Infinite Ships
+00C1-D709
+00C1-D609
+
+// Infinite Planes
+00A-71D-19E

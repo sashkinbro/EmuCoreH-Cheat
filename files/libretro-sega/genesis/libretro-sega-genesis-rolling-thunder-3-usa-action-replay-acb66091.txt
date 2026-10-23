@@ -1,0 +1,11 @@
+// Invincible
+FF0172:0045
+
+// Infinite Health
+FF00DA:0A0A
+
+// Infinite Pistol Ammo
+FF00DE:3939
+
+// Infinite Secondary Weapon Ammo
+FF00F6:3939

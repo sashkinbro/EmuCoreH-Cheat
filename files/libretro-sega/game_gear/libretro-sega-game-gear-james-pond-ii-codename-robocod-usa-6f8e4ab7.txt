@@ -1,0 +1,71 @@
+// Infinite Energy
+00DA-7E03
+
+// Infinite Lives
+00DA-7D03
+
+// Infinite Continues
+00DA-7C03
+
+// Invincible
+00DA-C303
+
+// Start 1st game with 1 life
+015-C7F-E66
+
+// Start 1st game with 5 lives
+055-C7F-E66
+
+// Start 1st game with 9 lives
+095-C7F-E66
+
+// Infinite lives
+01F-3FB-801
+
+// Start 1st life with 1 energy
+015-CCF-E66
+
+// Start 1st life with 5 energy
+055-CCF-E66
+
+// Start 1st life with 9 energy
+095-CCF-E66
+
+// Start rest of lives with 1 energy
+017-36F-E66
+
+// Start rest of lives with 5 energy
+057-36F-E66
+
+// Start rest of lives with 9 energy
+097-36F-E66
+
+// Immunity to spikes
+01E-30C-801
+
+// Invincibility, and also one touch from you kills baddies
+FF5-D2F-E6A
+
+// Start with 1 continue
+025-94F-F7A
+
+// Start with 4 continues
+055-94F-F7A
+
+// Start with 8 continues
+095-94F-F7A
+
+// Infinite continues
+005-D8F-801
+
+// Invulnerable To Spikes
+18E-27C-6EA
+
+// Invulnerable To Enemies
+C3E-46B-E61
+
+// Infinite Lives
+00F-40B-3BE
+
+// Infinite Health
+00E-31C-3BE

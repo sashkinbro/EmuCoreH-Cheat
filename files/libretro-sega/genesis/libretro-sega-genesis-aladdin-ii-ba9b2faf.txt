@@ -1,0 +1,23 @@
+// Infinite Health
+FF0770:000A
+
+// Infinite Lives
+FF0764:0009
+
+// Infinite Apples
+FF0768:0063
+
+// Infinite Gems
+FF076C:0063
+
+// Infinite Lives
+WCLT-PRLW
+
+// Infinite Energy
+WC0A-PRJY
+
+// Invincibility
+R0MA-N6WY
+
+// Infinite Apples
+AWRA-NA4L

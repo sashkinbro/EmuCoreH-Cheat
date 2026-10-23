@@ -1,0 +1,32 @@
+// Always Have Max Speed
+00C1-5004
+
+// Always Invincible
+00C1-5405
+
+// Always Have Max Shot Power
+00C1-5525
+
+// Fighter Escort Firing Direction
+00C1-5900
+
+// 'Battle Wings' Title Screen
+00C1-16FF
+
+// Infinite Lives
+00C0-4209
+
+// Infinite Secondary Weapon
+00C1-5309
+
+// Infinite Planes
+00D-3FD-19E
+
+// Infinite Cluster Bombs
+004-A6C-3BE
+
+// Invulnerability (Blinking)
+181-89F-4CA
+
+// Infinite Lives
+3AD-44D-2A2

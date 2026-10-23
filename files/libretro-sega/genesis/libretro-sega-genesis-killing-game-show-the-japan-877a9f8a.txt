@@ -1,0 +1,26 @@
+// Infinite Energy (Can Still Die In Lava)
+FFE028:001B
+
+// Infinite Lives
+FFE020:0009
+
+// Infinite Lives
+AL7A-EA24
+
+// Untouchable
+R0NA-E60W
+R0GT-E6XJ
+
+// Freeze Time Lava
+ALEA-EA7A
+
+// Credits
+AMET-EA2L
+
+// Untouchable
+FFE02C:0010
+
+// Infinite Energy
+ALNA-EA9T
+ALGT-EA56
+RZ6T-E6VA

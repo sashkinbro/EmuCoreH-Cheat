@@ -1,0 +1,17 @@
+// Invulnerability
+00C8-0320
+
+// Invulnerability
+004-82B-D5D
+
+// Infinite Lives
+00C8-2609
+
+// Infinite Credits
+00C0-3F09
+
+// Infinite Lives
+3A7-62B-2A2
+
+// Infinite Credits
+3A1-F94-2A2

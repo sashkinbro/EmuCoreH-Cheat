@@ -1,0 +1,21 @@
+// Start With 6 Turbos
+A3DA-AADA
+
+// Infinite Time
+XERT-DXBW
+
+// Infinite Continues
+AV3T-AA7A
+
+// Infinite Turbo
+ATWT-CA60
+
+// Infinite Time
+FTRT-CA50
+
+// Enable Stages 4 and 5 in Stage Select
+A3XT-AAGN
+AZXT-AAGG
+
+// Enable Stage Select in Options Menu (Scroll below Exit)
+A3WT-AADN

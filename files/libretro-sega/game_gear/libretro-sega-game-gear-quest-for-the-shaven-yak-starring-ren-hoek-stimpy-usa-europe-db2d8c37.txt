@@ -1,0 +1,65 @@
+// Infinite Lives For Ren
+00C2-F206
+
+// Infinite Lives For Stimpy
+00C2-F306
+
+// Infinite Energy For Ren
+00C2-F406
+
+// Infinite Energy For Stimpy
+00C2-F506
+
+// Invincibility
+00D4-CA11
+
+// Show Developers Character Select Background
+00D4-9501
+
+// Invulnerability
+C9E-96B-E69
+
+// Start with 1 life
+013-4EE-E66
+
+// Start with 5 lives
+053-4EE-E66
+
+// Start with 9 lives
+093-4EE-E66
+
+// Start on a strange level
+001-D8F-5D4
+
+// Infinite lives
+001-B8E-3BE
+
+// Infinite energy
+00E-ACB-3BE
+
+// Stimpy starts with less energy after 1st life
+021-C0E-F72
+
+// Stimpy starts with half energy after 1st life
+031-C0E-F72
+
+// Invincible after first hit
+00E-E7C-E6E
+
+// You still get hurt when you flash
+01E-ECB-803
+
+// Flash twice as long after getting hit
+99E-ECB-803
+
+// Flash longer after getting hit
+FFE-ECB-803
+
+// Flash a lot longer after getting hit
+00E-ECB-803
+
+// Special Character Select Background
+00E-E1F-F7E
+
+// Don't Die From Loosing All Your Health
+18E-ADB-6EA

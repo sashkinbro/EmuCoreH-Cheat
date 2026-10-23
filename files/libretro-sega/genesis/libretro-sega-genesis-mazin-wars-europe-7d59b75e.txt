@@ -1,0 +1,5 @@
+// Can select up to 40 continues at the Options screen
+FE5A-CACT
+
+// Can select up to 40 lives at the Options screen
+FE5A-CAAR

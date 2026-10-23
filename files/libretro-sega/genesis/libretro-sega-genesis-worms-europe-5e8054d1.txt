@@ -1,0 +1,14 @@
+// Time Remaining To Make Decisions Modifier
+FF35CE:0063
+
+// Fake Health Modifier (Top-Right Team)
+FF0CEE:0000
+
+// Fake Health Modifier (Top-Left Team)
+FF0CEC:0000
+
+// Fake Health Modifier (Bottom-Left Team)
+FF0CF0:0000
+
+// Fake Health Modifier (Bottom-Right Team)
+FF0CF2:0000

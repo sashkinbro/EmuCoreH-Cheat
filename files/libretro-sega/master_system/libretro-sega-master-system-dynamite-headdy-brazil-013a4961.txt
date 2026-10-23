@@ -1,0 +1,17 @@
+// Invulnerability
+00CB-256A
+
+// Invulnerability
+001-77C-7F4
+
+// Infinite Lives
+00C0-1303
+
+// Infinite Lives
+B64-46D-3BE
+
+// Infinite Health
+7EF-83D-3B7
+
+// Infinite Health
+00CB-1930

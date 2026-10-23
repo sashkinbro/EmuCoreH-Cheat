@@ -1,0 +1,526 @@
+// High Jump (May Need To Switch Off In Some Areas If You Get Stuck)
+AC2T-BAHE
+
+// Super High Jump (May Need To Switch Off In Some areas If You Get Stuck)
+AC2T-AWHE
+
+// Start timer at 1:00 [instead of 3:00]
+AFWT-AAB6
+
+// Start timer at 5:00
+AZWT-AAB6
+
+// Start timer at 7:00
+A7WT-AAB6
+
+// Start timer at 9:00
+BFWT-AAB6
+
+// Infinite time
+H49A-AA7J
+
+// Each diamond worth 2
+SD9A-BJV0
+
+// Each diamond worth 4
+SD9A-BTV0
+
+// Each diamond worth 6
+SD9A-B2V0
+
+// Each diamond worth 8
+SD9A-BAV0
+
+// Start with 1 life instead of 3
+AEDA-AAE2
+
+// Start with 6 lives
+A2DA-AAE2
+
+// Start with 9 lives
+BEDA-AAE2
+
+// Start with 15 lives
+B6DA-AAE2
+
+// Start with 25 lives
+DEDA-AAE2
+
+// Start with 50 lives
+GJDA-AAE2
+
+// Start with 99 lives
+NNDA-AAE2
+
+// Infinite lives
+A46A-AA32
+
+// Almost infinite hit points
+A45T-AA3Y
+
+// Each clock worth 8:00 instead of 3:00 (up to the max time of 9:59)
+J99T-BA1C
+
+// Don't lose transformation when you lose all your hit points
+AL5T-AA6Y
+
+// Infinite continues
+AMKT-AA76
+
+// Start on Blue Lake Woods II
+AEBT-JAB4
+
+// Start on Highwater Pass I
+AJBT-JAB4
+
+// Start on Highwater Pass II
+ANBT-JAB4
+
+// Start on Under Skull Mountain I
+ATBT-JAB4
+
+// Start on Under Skull Mountain II
+AYBT-JAB4
+
+// Start on Under Skull Mountain III
+A2BT-JAB4
+
+// Start on Isle of the Lion Lord
+A6BT-JAB4
+
+// Start on Hills of the Warrior I
+BABT-JAB4
+
+// Start on Hills of the Warrior II
+BEBT-JAB4
+
+// Start on Windy City
+BJBT-JAB4
+
+// Start on Sinister Sewers
+BNBT-JAB4
+
+// Start on The Crystal Crags I
+BTBT-JAB4
+
+// Start on The Crystal Crags II
+BYBT-JAB4
+
+// Start on Dragonspike
+B2BT-JAB4
+
+// Start on Stormwalk Mountain
+B6BT-JAB4
+
+// Start on Shishkaboss
+CABT-JAB4
+
+// Start on The Whispering Woods I
+CEBT-JAB4
+
+// Start on The Whispering Woods II
+CJBT-JAB4
+
+// Start on Devil's Marsh I
+CNBT-JAB4
+
+// Start on Devil's Marsh II
+CTBT-JAB4
+
+// Start on Knight Isle
+CYBT-JAB4
+
+// Start on Whale Grotto
+C2BT-JAB4
+
+// Start on Hoverboard Beach
+C6BT-JAB4
+
+// Start on Pyramids of Peril
+DABT-JAB4
+
+// Start on Madmaze Mountain
+DEBT-JAB4
+
+// Start on The Deadly Skyscrapers
+DJBT-JAB4
+
+// Start on Skydragon Castle I
+DNBT-JAB4
+
+// Start on Skydragon Castle II
+DTBT-JAB4
+
+// Start on Coral Blade Grotto
+DYBT-JAB4
+
+// Start on Boomerang Bosses
+D2BT-JAB4
+
+// Start on Woods of Despair I
+D6BT-JAB4
+
+// Start on Woods of Despair II
+EABT-JAB4
+
+// Start on Forced Entry
+EEBT-JAB4
+
+// Start on The Cliffs of Illusion
+EJBT-JAB4
+
+// Start on The Lion's Den
+ENBT-JAB4
+
+// Start on The Wind Castles I
+ETBT-JAB4
+
+// Start on The Wind Castles II
+EYBT-JAB4
+
+// Start on Blizzard Mountaon
+E2BT-JAB4
+
+// Start on Caves of Ice
+E6BT-JAB4
+
+// Start on The Nightmare Peaks I
+FABT-JAB4
+
+// Start on The Nightmare Peaks II
+FEBT-JAB4
+
+// Start on Bagel Brothers
+FJBT-JAB4
+
+// Start on Diamond Edge
+FNBT-JAB4
+
+// Start on The Hills Have Eyes
+FTBT-JAB4
+
+// Start on The Secret of the Rocks
+FYBT-JAB4
+
+// Start on Ice God's Vengeance
+F2BT-JAB4
+
+// Start on Beneath the Twisted Hills
+F6BT-JAB4
+
+// Start on Alien Isle
+GABT-JAB4
+
+// Start on The Land Below
+GEBT-JAB4
+
+// Start on The Final Marathon
+GJBT-JAB4
+
+// Start on Plethora
+GNBT-JAB4
+
+// Start on The Pinnacle
+GTBT-JAB4
+
+// Start on The Hidden Canyon
+GYBT-JAB4
+
+// Start on The Caged Beasts
+G2BT-JAB4
+
+// Start on The Crab Cove
+G6BT-JAB4
+
+// Start on The Crypt
+HABT-JAB4
+
+// Start on The Forbidden Tombs
+HEBT-JAB4
+
+// Start on The Stairway to Oblivion
+HJBT-JAB4
+
+// Start on The Valley of Life
+HNBT-JAB4
+
+// Start on The Black Pit
+HTBT-JAB4
+
+// Start on The Frosty Doom
+HYBT-JAB4
+
+// Start on The Bloody Swamp
+H2BT-JAB4
+
+// Start on The Scorpion Isle
+H6BT-JAB4
+
+// Start on The Towers of Blood
+JABT-JAB4
+
+// Start on The Alien Twilight
+JJBT-JAB4
+
+// Start on The Tunnels Beneath the Woods
+JNBT-JAB4
+
+// Start on Hills of Forever
+JTBT-JAB4
+
+// Start on Monster Island
+JYBT-JAB4
+
+// Start on The Shimmering Caves
+J2BT-JAB4
+
+// Start on The Sky Fortress
+KABT-JAB4
+
+// Start on Elsewhere
+KEBT-JAB4
+
+// Infinite Lives
+AC6A-AAB4
+
+// Infinite Energy
+AC5T-AAB0
+
+// Invincibility
+848A-AR4J
+
+// Diamond Powers (Circle Of Doom, Samurai Haze, Invulnerability, Circle Of Death, Mini-Snake, Slashing Rain) Require No Diamonds Instead Of 20
+BX5A-GA6T
+
+// All Helmets Transform You Into EyeClops
+9W6T-BCJ4
+AW6T-AAA6
+
+// All Helmets Transform You Into Skycutter
+9W6T-BCJ4
+AG6T-AAA6
+
+// All Helmets Transform You Into Cyclone
+9W6T-BCJ4
+AL6T-AAA6
+
+// All Helmets Transform You Into Red Stealth
+9W6T-BCJ4
+AR6T-AAA6
+
+// All Helmets Transform You Into Juggernaut
+9W6T-BCJ4
+A06T-AAA6
+
+// All Helmets Transform You Into Iron Knight
+9W6T-BCJ4
+A46T-AAA6
+
+// All Helmets Transform You Into Berzerker
+9W6T-BCJ4
+A86T-AAA6
+
+// All Helmets Transform You Into Maniaxe
+9W6T-BCJ4
+BC6T-AAA6
+
+// All Helmets Transform You Into Micromax
+9W6T-BCJ4
+BG6T-AAA6
+
+// Helmets Do Not Transform You Into Anything
+9W6T-BCJ4
+AC6T-AAA6
+
+// Start On &quot;The Crypt&quot; (Easy Mode)
+JEBT-JAB4
+
+// Start On &quot;The Crypt&quot; (Hard Mode)
+J6BT-JAB4
+
+// Start On Elsewhere (Before &quot;Under Skull Mountain&quot;)
+KJBT-JAB4
+
+// Start On Elsewhere (Before &quot;Windy City&quot;)
+KNBT-JAB4
+
+// Start On Elsewhere (Before &quot;Crystal Crags II&quot;)
+KTBT-JAB4
+
+// Start On Elsewhere (Before &quot;Whispering Woods II&quot;)
+KYBT-JAB4
+
+// Start On Elsewhere (Before &quot;Devils Marsh&quot;)
+K2BT-JAB4
+
+// Start On Elsewhere (Before &quot;Hoverboard Beach&quot;)
+K6BT-JAB4
+
+// Start On Elsewhere (Before &quot;Pyramids Of Peril&quot;)
+LABT-JAB4
+
+// Start On Elsewhere (Before &quot;Coral Blade Grotto&quot;)
+LEBT-JAB4
+
+// Start On Elsewhere (Before &quot;Stairway To Oblivion&quot;)
+LJBT-JAB4
+
+// Start On Elsewhere (Before &quot;Woods of Despair II&quot;)
+LNBT-JAB4
+
+// Start On Elsewhere (Before &quot;Cliffs Of Illusion&quot;)
+LTBT-JAB4
+
+// Start On Elsewhere (Before &quot;Valley Of Life&quot;)
+LYBT-JAB4
+
+// Start On Elsewhere (Before &quot;Wind Castles II&quot;)
+L2BT-JAB4
+
+// Start On Elsewhere (Before &quot;Caves Of Ice&quot;)
+L6BT-JAB4
+
+// Start On Elsewhere (Before &quot;Nightmare Peaks&quot;)
+MABT-JAB4
+
+// Start On Elsewhere (Before &quot;Bloody Swamp&quot;)
+MEBT-JAB4
+
+// Start On Elsewhere (Before &quot;???&quot;)
+MJBT-JAB4
+
+// Start On Elsewhere (Before &quot;Towers Of Blood&quot;)
+MNBT-JAB4
+
+// Start On Elsewhere (Before &quot;Scorpion Isle&quot;)
+MTBT-JAB4
+
+// Start On Elsewhere (Before &quot;Secrets In The Rocks&quot;)
+MYBT-JAB4
+
+// Start On Elsewhere (Before &quot;Alien Twilight&quot;)
+M2BT-JAB4
+
+// Start On Elsewhere (Before &quot;The Crypt&quot;)
+M6BT-JAB4
+
+// Start On Elsewhere (Before &quot;Tunnels Beneath The Woods&quot;)
+NABT-JAB4
+
+// Start On Elsewhere (Before &quot;Hills Of Forever&quot;)
+NEBT-JAB4
+
+// Start On Elsewhere (Before &quot;Hills Of Forever II&quot;)
+NJBT-JAB4
+
+// Start On Elsewhere (Before &quot;Monster Island&quot;)
+NNBT-JAB4
+
+// Start On Elsewhere (Before &quot;The Shimmering Caves&quot;)
+NTBT-JAB4
+
+// Start On Elsewhere (Before &quot;The Shimmering Caves II&quot;)
+NYBT-JAB4
+
+// Start On Elsewhere (Before &quot;Alien Isle&quot;)
+N2BT-JAB4
+
+// Start On Elsewhere (Before &quot;Skyfortress&quot;)
+N6BT-JAB4
+
+// Start On Elsewhere (Before &quot;Skyfortress II&quot;)
+PABT-JAB4
+
+// Start On Elsewhere (Before &quot;???&quot;)
+PEBT-JAB4
+
+// Stop The Timer
+SC9A-AYZJ
+
+// Infinite Lives
+SC6A-AYV2
+
+// Immunity To Enemies
+SC5T-AYVY
+
+// Diamonds = 7 Points
+SD9A-B6V0
+
+// Costume Modifier
+FFFC46:0000
+
+// Moon Jump
+FF250C:00C8
+
+// 1 Hit To Be Invincible (White Version)
+FF0EA8:0003
+
+// 1 Hit To Be Invincible
+FF0EAC:0008
+
+// Shadow Kid Chameleon
+FF4EBA:0000
+FF4EBC:0000
+FF4EBE:0000
+FF4EC0:0000
+FF4EC2:0000
+FF4EC4:0000
+FF4EC6:0000
+FF4EC8:0000
+FF4ECA:0000
+FF4ECC:0000
+FF4ECE:0000
+FF4ED0:0000
+
+// All characters can fly. Just jump and start tapping the C button.
+AL2T-AA6T
+ALYA-AA3Y
+
+// Most Characters Can Shoot Cannon Balls By Pressing C
+RF5T-A6T8
+
+// Most Characters Get The Ability To Shoot A Ray Gun That Reveals Hidden Blocks (Just Like EyeClops) By Pressing C
+RF5T-A6WJ
+BDWA-AA7J
+
+// Always Have The Stronger Diamond Powers (Even If You Don't Have Any Diamonds)
+D55A-GA6T
+
+// High jump.
+AC2T-A2HN
+
+// Ultra High Controllable Jump
+AC2T-ANHN
+
+// High Jump With Slower Moon Descent
+AC2T-A2HN
+AC2T-BAHE
+
+// Ultra High Jump With Slower Moon Descent
+AC2T-ANHN
+AC2T-BAHE
+
+// Weaker Enemies Die Just By Walking Into Them, Although You Still Take Damage
+HMHA-GA7J
+
+// Walk Across Any Opening Without Falling (Walk On Air)
+ALHA-AA2W
+
+// Walk Across Any Opening Without Falling (Walk On Air) 2
+ALHA-AA2W
+AK6A-AA86
+
+// Walk Through Walls
+ACHT-AA8Y
+ACHT-AA5C
+R06A-A6T2
+
+// Level Select
+AJEA-BA7Y
+S5GA-CAD0
+AAGA-B69A
+21HA-DCSR
+JXHA-D39T
+
+// Intro Music / sound effect / DAC/PCM sample modifier
+4JDT-AAE4

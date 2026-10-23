@@ -1,0 +1,331 @@
+// Infinite health (may cause graphic errors)
+GC3C-JA9W
+
+// Infinite ammo
+GC3C-JA4C
+
+// Infinite continues
+AW6C-JA2T
+
+// No air loss in Sea Pod
+CT3W-LA9T
+
+// No damage to Sea Pod from running into walls
+J4BW-LA4Y
+
+// Start with 1 life on Practice level
+GG3C-JAAR
+
+// Start with 3 lives on Practice level
+GR3C-JAAR
+
+// Start with 7 lives on Practice level
+G83C-JAAR
+
+// Start with 9 lives on Practice level
+HG3C-JAAR
+
+// Start with 1 life on Normal level
+GG3C-JAA6
+
+// Start with 2 lives on Normal level
+GL3C-JAA6
+
+// Start with 5 lives on Normal level
+G03C-JAA6
+
+// Start with 7 lives on Normal level
+G83C-JAA6
+
+// Start with 9 lives on Normal level
+HG3C-JAA6
+
+// Start with 1 life on Difficult level
+GG3C-JABL
+
+// Start with 3 lives on Difficult level
+GR3C-JABL
+
+// Start with 5 lives on Difficult level
+G03C-JABL
+
+// Start with 7 lives on Difficult level
+G83C-JABL
+
+// Start with 9 lives on Difficult level
+HG3C-JABL
+
+// Start with 150% health
+G03W-JAGA
+
+// Start with 200% health
+GL3W-JAF6
+
+// Start with 300% health
+GR3W-JAF6
+
+// Start with 400% health
+GW3W-JAF6
+
+// Start with 500% health
+G03W-JAF6
+
+// Start with 700% health
+G83W-JAF6
+
+// Start with 900% health
+HG3W-JAF6
+
+// Health power-ups worth 8 on Practice, 7 on Normal, 6 on HARD
+SE9C-MAT4
+
+// Health power-ups worth 2 on Practice, 1 on Normal, 0 on HARD
+SE9C-MJT4
+
+// Health power-ups worth 3 on Practice, 2 on Normal, 1 on HARD
+SE9C-MNT4
+
+// Start with 1500 Plasma shots (1st life only)
+G02W-JAH4
+
+// Start with 2000 Plasma shots (1st life only)
+GL2W-JAH0
+
+// Start with 3000 Plasma shots (1st life only)
+GR2W-JAH0
+
+// Start with 5000 Plasma shots (1st life only)
+G02W-JAH0
+
+// Start with 7000 Plasma shots (1st life only)
+G82W-JAH0
+
+// Start with 9000 Plasma shots (1st life only)
+HG2W-JAH0
+
+// Start with 1500 Plasma shots (After 1st life)
+GZRC-KCME
+
+// Start with 2000 Plasma shots (After 1st life)
+GBRC-KEME
+
+// Start with 3000 Plasma shots (After 1st life)
+GBRC-KGME
+
+// Start with 5000 Plasma shots (After 1st life)
+GBRC-KLME
+
+// Start with 7000 Plasma shots (After 1st life)
+GBRC-KRME
+
+// Start with 9000 Plasma shots (After 1st life)
+GBRC-KWME
+
+// Plasma gun power-ups worth 100
+NT1W-LAC8
+
+// Plasma gun power-ups worth 300
+FT1W-LCC8
+
+// Plasma gun power-ups worth 500
+8T1W-LCC8
+
+// Plasma gun power-ups worth 750
+721W-LEC8
+
+// Plasma gun power-ups worth 1000
+7A1W-LGC8
+
+// Start with 3 continues on Normal level
+AP5C-JAE2
+
+// Start with 5 continues on Normal level
+AZ5C-JAE2
+
+// Start with 7 continues on Normal level
+A75C-JAE2
+
+// Start with 9 continues on Normal level
+BF5C-JAE2
+
+// Start on What the Heck
+AF5C-JADY
+
+// Start on Snowman Boss
+AK5C-JADY
+
+// Start on Evil Boss
+AP5C-JADY
+
+// Start on Sea Tunnels
+B35C-JADY
+
+// Start on Pod Races
+B75C-JADY
+
+// Start on Snot a Problem 1
+AV5C-JADY
+
+// Start on Snot a Problem 2
+AZ5C-JADY
+
+// Start on Snot a Problem 3
+A35C-JADY
+
+// Start on Peter Puppy
+A75C-JADY
+
+// Start on Slug For Butt
+BB5C-JADY
+
+// Start on Helicopter
+BF5C-JADY
+
+// Start on Professor's Lab
+BK5C-JADY
+
+// Start on Chicken Fly
+BP5C-JADY
+
+// Start on Naked Worm
+BV5C-JADY
+
+// Start on Intestines
+BZ5C-JADY
+
+// Start on Darkness 1
+C75C-JADY
+
+// Start on Darkness 2
+DB5C-JADY
+
+// Start on Darkness 3
+DF5C-JADY
+
+// Start on Darkness 4
+DK5C-JADY
+
+// Start on Darkness 5
+DP5C-JADY
+
+// Start on Psy-crow level [between levels 1 and 2]
+DV5C-JADY
+
+// Infinite Energy
+AL3W-JA7E
+
+// Infinite Lives
+D7RC-JAA6
+
+// Infinite Ammo
+RG3C-J61J
+
+// Invincibility
+A4GC-JN5C
+ACFC-JR9G
+ACGC-JN6N
+
+// High Jump
+YKXW-JAA4
+
+// Super High Jump
+43XW-JAA4
+
+// Invulnerable
+FFFBFE:0034
+
+// Invisible/Cannot Be Hit
+FFFD28:0042
+
+// Infinite Ammo
+FFFBF6:0009
+FFFBF6:0009
+
+// Vibrating Life Symbol
+FFFD16:001C
+
+// Freezes 1st Boss
+FFAFC4:0009
+
+// Walk Thru Walls
+ACRC-JA5Y
+
+// Crows (above you) Can't Fly Down (low enough to reach you)
+CAVC-LA7N
+
+// Invincibility
+F43W-JA9W
+AC4C-JAB8
+
+// Invincibility
+974W-JAGT
+ZK4W-JPRY
+AV4W-JA80
+
+// Jim Is Invisible
+ACFC-JA9N
+
+// Invincibility
+R02C-J6WC
+R04C-J6WE
+R03W-J61Y
+R0EC-L61G
+
+// Infinite Jump
+ABXW-JAAG
+
+// Invincibility (blinking)
+FFFD28:0010
+
+// Infinite Lives
+FFA6C8:0039
+
+// Infinite Continues
+FFA6D0:0009
+
+// Infinite Ammo
+FFFBF4:3939
+FFFBF6:3939
+
+// Pause the game and press any buttons 8 times to enter the debug menu
+AW6C-JA8T
+
+// Pause the game and press Left + A together to enter the debug menu
+AG6C-JAFE
+AC6C-JAGN
+
+// Pause the game and press any button to enter the debug menu
+AG6C-JAFE
+AC6C-JAGN
+AW6C-JA8T
+
+// Hyper Game Speed
+R1EW-J606
+
+// Pause the game and press A to enter the debug menu
+FF9942:4410
+FF9944:1040
+FF9946:4810
+FF9948:0010
+
+// Infinite Mega Plasma Ammo
+AVSW-JA9E
+
+// Enable Infinite Health Cheat
+FFA6AA:00FF
+
+// Disable Infinite Health Cheat
+FFA6AA:0000
+
+// Pause the game and press any button to enter the debug menu
+AC6C-JA7L
+H46C-K8FN
+
+// Pause the game and press any button to enter the debug menu
+AC6C-JA7A
+CC6C-JEFC
+
+// Invincibility
+ACFC-JA9G
+G4FC-JCHJ
+RGGC-J6XC

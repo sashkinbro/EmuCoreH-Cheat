@@ -1,0 +1,11 @@
+// Infinite Lives
+00C0-5003
+
+// Infinite Beam
+00C1-2004
+
+// Finish Stage almost instantly
+00C0-7959
+
+// Truck is loaded with food
+0F0-60F

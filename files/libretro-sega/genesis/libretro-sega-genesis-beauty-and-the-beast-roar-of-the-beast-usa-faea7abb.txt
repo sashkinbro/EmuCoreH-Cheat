@@ -1,0 +1,53 @@
+// Infinite Lives
+AAEA-JAGJ
+
+// Invincibility
+AAZT-JR9A
+
+// Infinite Energy
+AAZT-JAHG
+
+// Infinite Roars
+AAXT-JAHN
+
+// Infinite Energy
+FF2896:003F
+
+// Infinite Lives
+FF2894:0004
+
+// Infinite Roars
+FF28A0:0003
+
+// Infinite Hp
+BAZT-JA9E
+
+// Press A For Cheat Mode (Press Start screen)
+FF2922:001A
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Press A For Cheat Mode (Press Start screen)
+DANA-JA42
+
+// Invincibility
+RZ4A-J6YA
+RYNT-L6ZJ
+RZPT-J6X2
+RZNA-J6WT
+RZLA-J61T
+RZ0T-J6W8
+R0RA-J6W0
+
+// Freeze Time Energy The Finall
+FF291A:0030
+
+// Freeze Time Energy The Finall
+A40A-LA84
+
+// Infinite Jump
+AA5A-JAGC

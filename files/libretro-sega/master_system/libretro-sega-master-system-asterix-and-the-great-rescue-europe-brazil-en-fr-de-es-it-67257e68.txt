@@ -1,0 +1,33 @@
+// Invincible
+00C1-9E01
+
+// Mega Power
+00C1-B102
+
+// Invulnerability
+001-17C-3B4
+
+// Infinite Lives
+7E9-9CC-3BE
+
+// Infinite Energy
+7E1-17B-3BE
+
+// Infinite Continues
+7E3-54D-3BE
+
+// Invincibility
+B6F-ECB-3B4
+B61-17C-3B4
+
+// Infinite Lives
+00C1-9709
+
+// Infinite Health
+00C1-9605
+
+// Infinite Continues
+00C1-9509
+
+// Infinite Lives
+009-9CC-3BE

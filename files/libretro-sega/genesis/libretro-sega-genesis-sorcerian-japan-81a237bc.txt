@@ -1,0 +1,5 @@
+// Don't get charged in shops (although you still have to have enough gold to cover the cost).
+AJWT-AA2C
+
+// Don't get charged in shops (works even if you don't have enough gold).
+BAWA-AA96

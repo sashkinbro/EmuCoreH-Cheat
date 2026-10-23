@@ -1,0 +1,96 @@
+// Painted Items Are At 0
+00C0-1E00
+
+// Infinite Paint
+00C0-1201
+
+// Infinite Timer
+00C3-9E09
+
+// Infinite Coins
+00C0-1101
+
+// Infinite Cherry Bombs
+00C0-1301
+
+// Infinite Rockets
+00C0-1401
+
+// Infinite Wrench
+00C0-1501
+
+// Infinite Keys
+00C0-1601
+
+// Infinite Magnet
+00C0-1701
+
+// Infinite Whistle
+00C0-1801
+
+// Moonwalking Bart
+00C4-3B00
+
+// Infinite Health
+00C3-9800
+
+// Invulnerability
+00C3-B669
+
+// Invulnerability
+C95-359-E69
+
+// Infinite coins
+002-D09-E6E
+
+// Infinite time
+009-5DC-E6E
+
+// Start With 5 Coins
+21D-18B-2A2
+05E-A3E-A2A
+
+// Start With 15 Coins
+15E-A3E-A2A
+21D-18B-2A2
+
+// Start With 20 Coins
+21D-18B-2A2
+20E-A3E-A2A
+
+// Infinite Timer - One's Digit
+00C3-9F09
+
+// Infinite Timer - Hundred's Digit
+00C3-9D09
+
+// Infinite Lives
+00C0-1009
+
+// Red Mutant On First Screen Jumps Upwards (Instead of Left To Right)
+00C1-A700
+
+// Music Screwer #1 (Both Codes Affect Different Instruments)
+00C0-5109
+
+// Music Screwer #2 (Both Codes Affect Different Instruments)
+00C0-6709
+
+// Music Screwer #3 (Both Codes Affect Different Instruments)
+00C3-5A09
+
+// Infinite Health
+005-589-19E
+A25-439-7F4
+
+// Infinite Spray Paint
+00C3-B7BF
+
+// Infinite Spray Paint
+007-73C-19E
+
+// Gain More Spray Paint Upon Pickup
+FF4-989-194
+
+// Infinite Lives Cheat
+017-CCC-C4A

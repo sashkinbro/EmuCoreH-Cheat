@@ -1,0 +1,20 @@
+// Infinite Money (Millions Digit)
+FF8CBC:0099
+
+// Infinite Money (Hundred Thousands Digit)
+FF8CBE:0099
+
+// Infinite Money (Ten Thousands Digit)
+FF8CC0:0099
+
+// Infinite Money (Hundreds Digit)
+FF8CC2:0099
+
+// Infinite Money (Tens Digit)
+FF8CC4:0099
+
+// Infinite Money (Ones Digit)
+FF8CC6:0099
+
+// Regional Lockout Bypass
+EAAT-AY1T

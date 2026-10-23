@@ -1,0 +1,8 @@
+// Infinite Lives
+00190A:4E71
+
+// Protection Against Enemies
+003D1C:6002
+
+// Protection Against Spikes
+003CC2:6002

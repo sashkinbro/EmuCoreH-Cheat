@@ -1,0 +1,5 @@
+// Infinite Life P1
+FFA424:03E7
+
+// One Hit Kills Boss
+FFC9A4:0000

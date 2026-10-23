@@ -1,0 +1,5 @@
+// Opponent Score Modifer (P2/CPU)
+FF88DE:0000
+
+// Opponent Score Modifer (P1)
+FF88DE:0063

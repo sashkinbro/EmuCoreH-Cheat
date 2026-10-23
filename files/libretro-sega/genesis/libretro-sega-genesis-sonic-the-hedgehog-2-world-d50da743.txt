@@ -1,0 +1,314 @@
+// Rings worth 2 (player 1)
+SATA-DJTJ
+
+// Rings worth 3 (player 1)
+SATA-DNTJ
+
+// Rings worth 4 (player 1)
+SATA-DTTJ
+
+// Rings worth 5 (player 1)
+SATA-DYTJ
+
+// Rings worth 6 (player 1)
+SATA-D2TJ
+
+// Rings worth 7 (player 1)
+SATA-D6TJ
+
+// Rings worth 8 (player 1)
+SATA-DATJ
+
+// Start with 1 life instead of 3 (player 1)
+AE8A-AADN
+
+// Start with 5 lives (player 1)
+AY8A-AADN
+
+// Start with 7 lives (player 1)
+A68A-AADN
+
+// Start with 9 lives (player 1)
+BE8A-AADN
+
+// Start with 25 lives (player 1)
+DE8A-AADN
+
+// Start with 50 lives (player 1)
+GJ8A-AADN
+
+// Start with 75 lives (player 1)
+KN8A-AADN
+
+// Start with 99 lives (player 1)
+NN8A-AADN
+
+// Infinite lives (player 1)
+JW3A-CA4Y
+
+// Rings worth 2 (player 2)
+SATA-DJW8
+
+// Rings worth 3 (player 2)
+SATA-DNW8
+
+// Rings worth 4 (player 2)
+SATA-DTW8
+
+// Rings worth 5 (player 2)
+SATA-DYW8
+
+// Rings worth 6 (player 2)
+SATA-D2W8
+
+// Rings worth 7 (player 2)
+SATA-D6W8
+
+// Rings worth 8 (player 2)
+SATA-DAW8
+
+// Start with 1 life instead of 3 (player 2)
+AE8A-AADW
+
+// Start with 5 lives (player 2)
+AY8A-AADW
+
+// Start with 7 lives (player 2)
+A68A-AADW
+
+// Start with 9 lives (player 2)
+BE8A-AADW
+
+// Start with 25 lives (player 2)
+DE8A-AADW
+
+// Start with 50 lives (player 2)
+GJ8A-AADW
+
+// Start with 75 lives (player 2)
+KN8A-AADW
+
+// Start with 99 lives (player 2)
+NN8A-AADW
+
+// Infinite lives (player 2)
+JXGA-CA7W
+
+// Sonic stays invincible for a shorter time after getting hit
+A02T-CAGL
+
+// Sonic stays invincible for a longer time after getting hit
+982T-CAGL
+
+// Sonic becomes invisible and invincible  for the rest of the level after getting hit
+ALTA-CA82
+
+// Once invincible [stars], Sonic stays Invincible for the rest of the level
+ALTA-CA9Y
+
+// Sonic doesn't lose rings when hit
+ATTT-CA58
+
+// Tails doesn't lose rings when hit
+ATTT-CA6W
+
+// Rings worth 2 in special stages (Sonic only)
+SBJA-HJV2
+
+// Rings worth 3 in special stages (Sonic only)
+SBJA-HNV2
+
+// Rings worth 4 in special stages (Sonic only)
+SBJA-HTV2
+
+// Rings worth 5 in special stages (Sonic only)
+SBJA-HYV2
+
+// Rings worth 6 in special stages (Sonic only)
+SBJA-H2V2
+
+// Rings worth 7 in special stages (Sonic only)
+SBJA-H6V2
+
+// Rings worth 8 in special stages (Sonic only)
+SBJA-HAV2
+
+// Rings worth 2 in special stages (Tails only)
+SBJA-HJV8
+
+// Rings worth 3 in special stages (Tails only)
+SBJA-HNV8
+
+// Rings worth 4 in special stages (Tails only)
+SBJA-HTV8
+
+// Rings worth 5 in special stages (Tails only)
+SBJA-HYV8
+
+// Rings worth 6 in special stages (Tails only)
+SBJA-H2V8
+
+// Rings worth 7 in special stages (Tails only)
+SBJA-H6V8
+
+// Rings worth 8 in special stages (Tails only)
+SBJA-HAV8
+
+// Need 0 chaos emeralds to become Super Sonic
+ACZT-CACN
+
+// Need 1 Chaos Emerald to become Super Sonic
+AGZT-CACN
+
+// Need 2 chaos emeralds to become Super Sonic
+ALZT-CACN
+
+// Need 3 chaos emeralds to become Super Sonic
+ARZT-CACN
+
+// Need 4 Chaos Emeralds To Become Super Sonic
+AWZT-CACN
+
+// Need 5 chaos emeralds to become Super Sonic
+A0ZT-CACN
+
+// Need 6 chaos emeralds to become Super Sonic
+A4ZT-CACN
+
+// Need 1 ring to become Super Sonic, don't lose rings with time
+AGZT-CACY
+K4ZT-CA92
+
+// Need 5 rings to become Super Sonic
+A0ZT-CACY
+
+// Need 10 rings to become Super Sonic
+BLZT-CACY
+
+// Need 25 rings to become Super Sonic
+DGZT-CACY
+
+// Need 40 rings to become Super Sonic
+FCZT-CACY
+
+// Super Sonic doesn't lose rings with time
+K4ZT-CA92
+
+// Level select menu
+RE8A-A60G
+
+// Start most levels with some rings (1 player game only)
+2VAT-BCRA
+
+// P1 Action modifier
+FFB01C:0000
+
+// Untouchable Sonic and Tails
+R16A-G6YC
+R16A-G6XE
+
+// Walk Thru Solid Objects
+J4PA-CA54
+
+// Remove Floor Spikes
+ABNT-CA60
+
+// Sonic gets Tails' Tails
+FFB800:0504
+FFB83E:B000
+
+// Enable Stage Select
+FFFFD0:0100
+
+// Enable Debug Mode
+FFFFFA:0100
+
+// Infinite Rings
+FFFE20:00C8
+
+// Infinite Lives
+FFFE12:0009
+
+// Stage/Act Modifier
+FFFE10:0000
+
+// Unlimited Time
+FFFE24:0007
+
+// Invincibility For Sonic (Always Have Shield)
+FFB02A:0001
+
+// Invincibility For Tails (Always Have Shield)
+FFB06A:0001
+
+// Infinite Time Underwater For Sonic
+FFB028:00FA
+
+// Infinite Time Underwater For Tails
+FFB068:00FA
+
+// Defeat Stage 1 Robotnik With 1 Hit
+FFB520:0001
+
+// Defeat Stage 2 Robotnik With 1 Hit
+FFB620:0001
+
+// Defeat Stage 3 Robotnik With 1 Hit
+FFB720:0001
+
+// Defeat Stage 4 Robotnik With 1 Hit
+FFB820:0001
+
+// Defeat Stage 5 Robotnik With 1 Hit
+FFB920:0001
+
+// Defeat Stage 6 Robotnik With 1 Hit
+FFBA20:0001
+
+// Defeat Stage 7 Robotnik With 1 Hit
+FFBB20:0001
+
+// Defeat Stage 8 Robotnik With 1 Hit
+FFBC20:0001
+
+// Defeat Final Stage Bosses With 1 Hit
+FFB460:0001
+
+// Enable Super Sonic (All Chaos Emeralds Collected)
+FFFFB0:0007
+
+// Switch F/X On For Levitate Jump For Sonic
+FFB012:00FE
+
+// Switch F/X On For Levitate Jump For Tails
+FFB052:00FE
+
+// Hyper Mode P1
+FFB01E:0000
+
+// Hyper Mode P2
+FFB05E:0000
+
+// HUD Display Modifier
+FFF710:0000
+
+// Rings Multiplier
+FFF710:0000
+
+// Warp To End of Stage P1
+FFB008:003C
+
+// Warp To End of Stage P2
+FFB048:003C
+
+// Play As Super Sonic (No Powers)
+FFFE18:0001
+
+// Disable Water
+FFF730:0000
+
+// Glowing Sonic
+FFF65E:00FF
+
+// Invincibility - Sonic and Tails
+R16A-G6XT

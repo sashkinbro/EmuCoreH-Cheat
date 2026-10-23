@@ -1,0 +1,5 @@
+// No Time Left (You'll always end up winning)
+00C0-AD00
+
+// Counter for when a wrestler is down
+00C3-1909

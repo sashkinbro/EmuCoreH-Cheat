@@ -1,0 +1,46 @@
+// Freeze Lap Time
+ALMA-AA8A
+
+// Invincibility
+AXDT-AA92
+
+// Auto Acceleration
+ACRA-AA8T
+
+// Acelerate Up To 323 KM/H
+DCRT-AA98
+
+// Nitro Accelerates Up to 390 KM/H
+LCRT-ACHJ
+
+// Your Frame and Muffler Never Damages
+CXLT-AA32
+
+// Auto Drive in Curves
+A5ZA-AA52
+
+// Password Screen Replaced With Options Screen
+GB4T-AABN
+
+// Freeze clock (no time limit)
+DLMT-AA2T
+
+// Freeze Time
+ALMT-AA3J
+
+// Infinite $
+AVVT-AA56
+
+// Accelerate twice as fast
+TGRA-BF0C
+
+// Accelerate twice as fast, and increases your top speed to 323 km
+TGRA-BF0C
+LLRT-ACH2
+
+// Instantly accelerate to 280 km
+9WRT-BGS0
+
+// Instantly accelerate to 390 km
+9WRT-BGS0
+LLRT-ACH2

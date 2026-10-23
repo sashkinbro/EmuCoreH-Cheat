@@ -1,0 +1,14 @@
+// Each Piece You Get Counts As 2
+1BFA-BLZY
+
+// You Only Need 1 Purple Spring To Clear All The Pieces (Instead Of 5)
+AFDT-AAH8
+
+// Level Modifier
+FF987E:0000
+
+// Eliminate Any Shape
+HBEA-AA3L
+
+// Disable Game Over
+BA8A-AA2R

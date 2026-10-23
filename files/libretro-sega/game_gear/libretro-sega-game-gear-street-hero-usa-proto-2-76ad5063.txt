@@ -1,0 +1,20 @@
+// Infinite Time
+00DE-0540
+
+// Infinite Health
+00CD-0528
+
+// Infinite Time
+006-5EB-E6E
+
+// Infinite Health
+00E-9DD-A2C
+
+// Invincibility
+773-E6E-193
+
+// Infinite Time
+006-B3E-3BE
+
+// Infinite Credits
+3A8-28F-2A2

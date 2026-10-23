@@ -1,0 +1,5 @@
+// Always on 1st Stroke
+00C7-7801
+
+// Wind Speed Modifier
+00C3-D800

@@ -1,0 +1,17 @@
+// Invulnerability
+C90-E3D-E69
+
+// Invulnerability
+00C7-2CFF
+
+// Infinite Lives
+00C0-C909
+
+// Always Have 9 Wands
+00C0-CA09
+
+// Infinite Lives
+000-D6D-3BE
+
+// Start Lives ?
+27E-F7A

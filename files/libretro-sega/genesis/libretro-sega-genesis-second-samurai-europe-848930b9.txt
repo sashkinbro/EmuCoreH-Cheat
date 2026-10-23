@@ -1,0 +1,45 @@
+// Infinite Lives
+ABNA-AAA6
+
+// Infinite Energy
+ALCT-AA4W
+
+// Invincibility
+A3PA-AN8W
+
+// Infinite Health P1
+FF5536:00FF
+
+// Infinite Lives P1
+FF553A:0009
+
+// Infinite Health P2
+FF544E:00FF
+
+// Infinite Lives P2
+FF5452:00FF
+
+// Untouchable
+R0CT-A6XT
+RZNA-A60W
+
+// Infinite Knifes
+AVVT-AA5G
+
+// Infinite Super Slash
+AVWT-AA4J
+
+// 1 hit kills enemies
+AVDT-AA7A
+
+// Throwing knife is twice as strong
+A3XT-AACE
+
+// Go to Option menu for level select
+F26T-AA7T
+
+// 1 Hit And Shot Kill Enemies Bosses And Stones
+BBDT-AA66
+
+// Always Keep Sword
+AWCT-AA2T

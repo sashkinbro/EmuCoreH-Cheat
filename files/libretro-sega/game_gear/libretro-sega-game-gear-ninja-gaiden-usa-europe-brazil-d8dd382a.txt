@@ -1,0 +1,71 @@
+// Infinite Lives
+00C4-4803
+
+// Infinite Energy
+00C4-210F
+
+// Infinite Time
+00C4-2F89
+
+// Invulnerability
+C90-A1E-E69
+
+// Infinite Energy
+C90-CBE-2A2
+
+// Infinite lives
+009-439-F79
+
+// Start With ?? Lives
+011-EDF-E66
+
+// Start On Act 2 - Smuggling
+021-6CF-E6E
+
+// Start On Act 3 - Skyscraper
+031-6CF-E6E
+
+// Start On Act 4-1 [Counterattack]
+041-6CF-E6E
+
+// Start On Act 4-2 [Counterattack]
+051-6CF-E6E
+
+// See end credits
+061-6CF-E6E
+
+// Infinite time
+C35-F6F-E61
+
+// Start timer at 399
+834-D7F-E60
+
+// Start timer at 599
+854-D7F-E60
+
+// Almost invincible
+000-C7E-B30
+
+// Kill most level bosses with 1 hit
+3E2-07C-082
+012-08C-C46
+002-09C-A21
+
+// Slow motion!
+665-64F-E64
+
+// Hit Anywhere
+3A0-10E-A21
+C30-22E-A21
+
+// Infinite Time
+003-028-4C6
+
+// Infinite Lives
+009-449-3BE
+
+// Infinite Health
+C90-C0E-E69
+
+// Password Menu
+BFB-FBE-190

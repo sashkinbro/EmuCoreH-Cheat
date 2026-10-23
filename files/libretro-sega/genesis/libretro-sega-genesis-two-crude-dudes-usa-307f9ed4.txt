@@ -1,0 +1,400 @@
+// Start with 6 lives (each player)
+A2BA-AAFT
+
+// Start with 7 lives (each player)
+B6BA-AAFT
+
+// Start with 8 lives (each player)
+BABA-AAFT
+
+// Start with 9 lives (each player)
+BEBA-AAFT
+
+// Start with 6 continues
+A2BA-AAFJ
+
+// Start with 7 continues
+A6BA-AAFJ
+
+// Start with 8 continues
+BABA-AAFJ
+
+// Start with 9 continues
+BEBA-AAFJ
+
+// Enemies do not hurt
+AWYT-AA22
+
+// Disc cutter is easier to kill
+AHDT-CAAC
+
+// Disc cutter is harder to kill
+A5DT-CAAC
+
+// Hunchback is easier to kill
+AHDA-CAGA
+
+// Hunchback is harder to kill
+A5DA-CAGA
+
+// Commander is easier to kill
+AHDA-CAG0
+
+// Commander is harder to kill
+CDDA-CAG0
+
+// Heavy Snake is easier to kill
+AHDT-CAE6
+
+// Heavy Snake is harder to kill
+DXDT-CAE6
+
+// Grease Monkey is easier to kill
+AHDA-CAFL
+
+// Grease Monkey is harder to kill
+C5DA-CAFL
+
+// Master Reaper is easier to kill
+AHDT-CAFN
+
+// Master Reaper is harder to kill
+D5DT-CAFN
+
+// Rabid Hounds are easier to kill
+AHDA-CAHN
+
+// Rabid Hounds are harder to kill
+CDDA-CAHN
+
+// Mad Bomber is easier to kill
+AHDT-CAA2
+
+// Mad Bomber is harder to kill
+CDDT-CAA2
+
+// Cyborg D is easier to kill
+AHDT-CAC4
+
+// Cyborg D is harder to kill
+DDDT-CAC4
+
+// Hand Sniper is easier to kill
+AHDT-CADT
+
+// Hand Sniper is harder to kill
+D9DT-CADT
+
+// Rhino-man is easier to kill
+AHDT-CAGJ
+
+// Rhino-man is harder to kill
+EDDT-CAGJ
+
+// Santa Imposter is easier to kill
+AHET-CAAW
+
+// Santa Imposter is harder to kill
+DMET-CAAW
+
+// Pyromaniac is easier to kill
+AHFT-CAGW
+
+// Pyromaniac is harder to kill
+DDFT-CAGW
+
+// Start on level 2
+AJ0A-AABG
+
+// Start on level 3
+AN0A-AABG
+
+// Start on level 4
+AT0A-AABG
+
+// Start on level 5, first part
+AY0A-AABG
+
+// Start on level 5, second part
+A20A-AABG
+
+// Infinite Lives
+AKXA-AA52
+
+// One Hit Kill
+RG9A-A6Y0
+
+// One Hit Kill Walls
+RGZT-A6VL
+
+// Never Drop Weapon/Enemy
+RZVT-A6XL
+RZWA-A6T2
+
+// Invincibility
+R0YT-A6TJ
+
+// Enemies No Invincibility
+AC9A-AAG8
+
+// Pick Up Anything
+ADAA-AACN
+
+// You Die One Time
+AWYT-AA2W
+
+// Can't Be Stun And Infinite Energy
+AWYT-AA26
+
+// The Game Fades Out When Punching or Kicking
+AWYT-AAFE
+
+// Enemies And Walls Can't Be Hit
+AWYT-AAFT
+
+// When You Die You Roll
+AWYT-AAYJ
+
+// No Sound When Killed
+AWYT-AAXE
+
+// You Get Hurt When Punching
+AWYT-AAPG
+
+// Almost Invincible
+AWYA-AABE
+AKWT-AASA
+
+// Enemies Can't Throw or Shoot Things
+AWVT-AAX8
+
+// Cant Hit Walls
+AWZT-AAFY
+
+// Level Skip
+AA1A-AAC0
+
+// Hit A B or c To Go Back To The Title Screen
+AA1A-AACY
+
+// Play Dark Mode
+AA1A-AABT
+
+// You And The Enemies Can Climb Anywhere
+AA1A-AAAR
+
+// Invisible Mode
+AA1A-AAGL
+
+// Game Over
+AA1T-AABN
+
+// Can't Roll
+ABET-AABT
+
+// Push A To Do A Pick Up Animation
+ABKT-AAC6
+
+// 2 Players
+ABZT-AACT
+
+// Flickering Invincibility
+AFMT-AAH2
+
+// Infinite Health
+AFMT-AAH8
+
+// Get Thrown In To The Air When Hit
+ARYT-AAVR
+
+// You Never Die
+ARYT-AAXR
+
+// Always Go To The Soda Machine
+AJWT-AAPJ
+
+// Always Get Hit
+A7XA-ABCA
+
+// Enemies Can't Die
+AG9A-AAPT
+
+// Enemies Can't Die From Throws
+ADBT-AAC4
+
+// All Enemies Die From Throws
+ADBT-AAC8
+
+// Enemies Always Bounce Off The Ground When Thrown
+ADBT-AADN
+
+// Enemies Drag On The Ground When Thrown
+ADBT-AAD4
+
+// You Can Throw Enemies And Weapons Straight
+ADBT-AAD8
+
+// Enemies And Weapons Don't Move When Thrown
+ADBT-AAEA
+
+// Enemies And Weapons Disappear When Thrown
+ADBT-AAEE
+
+// Enemies And Weapons Fall Down When Thrown
+ADBT-AAEJ
+
+// Enemies And Weapons Are Not Thrown
+ADBT-AAEL
+
+// Enemies And Weapons Hit In The Air When Thrown
+ADBT-AAET
+
+// Enemies And Weapons Are Thrown Fast
+ADBT-AAE0
+
+// Enemies And Weapons Are Thrown Very Hard
+ADBT-AAFN
+
+// Enemies And Weapons Bounce On The Ground When Thrown
+ADBT-AASN
+
+// Enemies And Weapons And Players Can't Be Hit by Throws
+ADBT-AATJ
+
+// Pick Up Enemies And Weapons From Anywhere
+ADAT-AA2R
+
+// No Music
+AAYT-ACPT
+
+// Wrestlers Always Walk
+AD2A-AADA
+
+// Wrestlers Always Grab
+AD2A-AADC
+
+// Wrestlers Don't Move
+AD2A-AADJ
+
+// No Wrestlers
+AD2A-AAAG
+
+// Wrestlers Won't Attack You
+AD2A-AASL
+
+// Wrestlers Jump Backwards When You Got Your Back Turn Against Them
+AD3A-AAPW
+
+// Wrestlers Cant Jump Towards You When You Got Your Back Turn Against Them
+AD3A-AA42
+
+// Wrestlers Stand Up When Picking Them Up
+AD4A-AA4J
+
+// Wrestlers Can't Be Thrown
+AD4A-AA5W
+
+// Wall Crawlers Cant Shoot Goo
+AGVA-AADL
+
+// Wall Crawlers Shoots Invisible Goo
+AGVA-AANE
+
+// Invincible To Wall Crawlers Goo
+AGXT-AAXN
+
+// One Hit And Your Invincible
+AVBA-AASG
+
+// Always At The Soda Machine
+AJXA-AAS8
+
+// Push Any Button To Control Player 2
+A2CA-AANR
+
+// Hit Enemies From Anywhere
+ACYT-AASL
+ACYT-AAST
+
+// Now It Looks Like The Wall Crawlers Are Pooping
+AD8T-AA8T
+
+// You Can Do A Pick Up Animation
+A5AA-AAXY
+
+// When You Kick You Get Thrown To The Ground After Eack Punch
+ABHA-AAEL
+
+// Tech Thrower Only Throw His Weapon Once
+ACVA-AAYW
+
+// Tech Thrower Weapon is Invisible
+ACVA-AAYE
+
+// Tech Thrower Can't Throw Weapon
+ACVA-AAXW
+
+// Enemies Can't Leave The Screen
+AFNT-AA1N
+
+// You Can Leave The Screen
+AFNT-AA1T
+
+// Mutanted Spider Can't Grab You
+AFNT-AAV6
+
+// Now You Go In The Ground
+ABTA-AABN
+
+// 1 Hit Kills For Enemies
+AG9A-AAHC
+
+// Can't Be Stun
+AVBA-AASC
+
+// No Flickering When Hit
+AVBA-AAHG
+
+// Pick Up Weapons And Enemies Differently
+ABVT-AAAA
+
+// You Can't Pick Up Weapons And Enemies
+ABVT-AAXJ
+
+// You And Enemies Are Hyper
+ABWT-AAD4
+ABWT-AAD8
+
+// You And Enemies Are Less Hyper
+ABWT-AAEC
+
+// Invincibility
+ABMT-AAH4
+
+// You And The Enemies Can Hit And Get Bumped And Grab Weapons Only You Can Anywhere
+A01A-AAA6
+
+// Enemies Don't Flicker When Hit
+A09A-AAR2
+
+// Enemies Are Invincible When Hit
+A09A-AAR8
+
+// Can't Pick Up Enemies
+A09T-AAR8
+
+// No Tanks,Dogs,Santa,Tech Thrower
+A0SA-AA34
+
+// invincible to bumps
+ABWT-AAH4
+
+// enemies and walls are invincible to your punches and kicks
+AWYT-AAFL
+
+// Invincible
+FF46C6:0010
+
+// Untouchable
+R0YA-A6V4
+RZWT-A61A

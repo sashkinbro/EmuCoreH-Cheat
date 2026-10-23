@@ -1,0 +1,81 @@
+// Invulnerability
+00D5-9C11
+
+// Invulnerability
+C94-1DE-E69
+
+// Infinite Energy
+00D-92B-3B7
+3AD-93B-2A2
+
+// Start With 7 Energy Points For First Life
+20E-347-A2A
+
+// Start With 9 Energy Points For First Life
+30E-347-A2A
+
+// Start With 12 Energy Points For First Life
+40E-347-A2A
+
+// Stormtroopers Are Invincible
+210-D48-91D
+
+// Start With 7 Energy Points After First Life
+20F-48A-A2A
+
+// Start With 9 Energy Points After First Life
+30F-48A-A2A
+
+// Start With 12 Energy Points After First Life
+40F-48A-A2A
+
+// Start With 6 Lives
+05E-237-E62
+
+// Start With 10 Lives
+09E-237-E62
+
+// Start With 16 Energy Points (1st Life)
+30A-12B-A2A
+
+// Start With 22 Energy Points (1st Life)
+40A-12B-A2A
+
+// Start With 27 Energy Points (1st Life)
+50A-12B-A2A
+
+// Start With 16 Energy Points After 1st Life
+30F-6FA-A2A
+
+// Start With 22 Energy Points After 1st Life
+40F-6FA-A2A
+
+// Start With 27 Energy Points After 1st Life
+50F-6FA-A2A
+
+// Infinite Lives
+3AF-6BA-2A2
+
+// Infinite Lives
+00D9-EF09
+
+// Infinite Health
+00D9-F009
+
+// &quot;Select Hero&quot; Screen Modifier (i.e. Always Select &quot;XX&quot;)
+00D9-EC00
+
+// Infinite Health
+004-26E-3BE
+
+// Infinite Lives
+000-DEC-80D
+
+// Heart pickups completely refill health
+0C2-2DE-E6E
+
+// Start with ?? Lives, instead of 3
+04E-EAC-E66
+
+// Character Modifier
+00D9-EC00

@@ -1,0 +1,205 @@
+// Infinite hit points
+BB0A-AA8E
+
+// Infinite magic
+RF7A-A6WA
+
+// Each magic pot worth 2
+FGXA-BJX6
+
+// Each magic pot worth 3
+FGXA-BNX6
+
+// Infinite lives
+KB7T-AA4A
+
+// Infinite credits
+AJTT-AA8L
+
+// Start with 2 credits instead of 4
+AJ6T-BA6T
+
+// Start with 6 credits
+A26T-BA6T
+
+// Start with 8 credits
+BA6T-BA6T
+
+// Start with 1 life instead of 3 [1st credit only]
+ABAA-ACFW
+
+// Start with 5 lives [1st credit only]
+ABAA-ALFW
+
+// Start with 7 lives [1st credit only]
+ABAA-ARFW
+
+// Start with 9 lives [1st credit only]
+ABAA-AWFW
+
+// Start with 2 magic pots instead of 1
+ABAA-AEF2
+
+// Start with 4 magic pots
+ABAA-AJF2
+
+// 1 life after continue instead of 3
+AATT-ACHJ
+
+// 5 lives after continue
+AATT-ALHJ
+
+// 7 lives after continue
+AATT-ARHJ
+
+// 9 lives after continue
+AATT-AWHJ
+
+// Start on stage 2
+SA7A-BEYL
+
+// Start on stage 3
+SA7A-BJYL
+
+// Start on stage 4
+SA7A-BNYL
+
+// Start on stage 5
+SA7A-BTYL
+
+// Start on stage 6
+SA7A-BYYL
+
+// Start on stage 7
+SA7A-B2YL
+
+// Start on stage 8
+SA7A-B6YL
+
+// Lives
+FFFE7C:0003
+
+// Energy
+FFFE7E:0024
+
+// Magic Bottles
+FFFE80:0006
+
+// Lizards Never Run When Get Hit
+FFD450:0000
+
+// Lizards Never Run When Sleeping
+FFD456:090F
+
+// Lizards Never Run When Get Hit
+AJYT-CA5E
+
+// Lizards Never Run When Sleeping
+AAYT-CAD6
+
+// Invincibility
+AL8T-AA24
+
+// One Hit Kills
+FFD164:0000
+FFD1E4:0000
+FFD264:0000
+FFD2E4:0000
+
+// Character Modifier
+FFFE82:0000
+
+// All Enemies Have Books
+HFTA-BAAC
+
+// Infinite Lives (On A Real PAR)
+FFFE7C:0003
+
+// Infinite Lives (Player 2)
+FFFE8C:0003
+
+// Infinite Health (Player 1)
+FFFE7E:0064
+
+// Infinite Health (Player 2)
+FFFE8E:0064
+
+// Invincible (Player 1)
+FFD002:0001
+
+// Set Max./Infinite Magic (Player 1)
+FFFE80:0006
+
+// Set Max./Infinite Magic (Player 2)
+FFFE90:0000
+
+// Infinite Credits
+FFFE34:0005
+
+// Infinite Time (Duel Mode)
+FFFE72:0032
+
+// Enable Stage Select Option
+FFC1B0:0001
+
+// Stage Select
+FFFE2C:0000
+
+// Battle Modifier (Duel Mode)
+FFFE2A:0000
+
+// Kill Enemies In One Hit
+PDZT-AEY4
+
+// Kill Bosses In One Hit
+PACT-CEXE
+PAKA-CEVL
+
+// Enabled Cheat Code Level Select
+AKBA-AAE6
+
+// Dragons don't run away when sitting alone
+BTYT-CA6A
+
+// Invincibility
+R08T-A6TY
+RY0T-C6VE
+
+// Infinite Life Meter (Health) P1/P2
+AK0A-AA8E
+
+// Infinite Lives P1/P2
+AK7T-AA4A
+
+// Infinite Magic P1/P2
+AV7A-AA4A
+
+// Keep Extra Magic From Round To Round P1/P2
+AJYA-AA92
+
+// Freeze Time The Duel
+AKGA-AA2C
+
+// Infinite Credits P1
+AJTT-AA8L
+
+// Freeze Time Continue P1
+ATTT-AA3C
+
+// Freeze Time Continue P1
+FFC106:0009
+
+// Freeze Time Continue P2
+FFC10A:0009
+
+// Freeze Time Continue P2
+A2TT-AA5E
+
+// Infinite Credits P2
+AJVA-AA24
+
+// Start on stage 5
+SA7A-BTYL
+
+// Dummy2
+FFD000:FFFF

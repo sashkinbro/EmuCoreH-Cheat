@@ -1,0 +1,11 @@
+// Infinite Time (Minutes)
+FFD8E8:0009
+
+// Infinite Time (Seconds)
+FFD8E8:0079
+
+// Team 1 Score Modifier
+FFD902:0063
+
+// Team 2 Score Modifier
+FFD98A:0000

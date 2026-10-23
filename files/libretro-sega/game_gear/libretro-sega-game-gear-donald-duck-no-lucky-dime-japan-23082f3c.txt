@@ -1,0 +1,32 @@
+// Infinite Lives
+00D2-B103
+
+// Infinite Energy
+00D2-B203
+
+// Invincible
+00D3-6903
+
+// Infinite Lives
+00C0-8303
+
+// Infinite Energy
+00C1-3E01
+
+// Invincible (Character Flickers Though)
+00C1-3F01
+
+// Invulnerability
+C91-30B-E69
+
+// Infinite Health
+00C-6FE-3BE
+
+// Infinite Lives
+000-FDD-E69
+
+// Enable Round Select and SFX Test
+00C0-0802
+
+// Jump Height Modifier
+FBB-69E-199

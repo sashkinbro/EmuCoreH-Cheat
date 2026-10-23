@@ -1,0 +1,49 @@
+// Infinite Lives
+AJDA-AA9G
+
+// Infinite Energy
+AJJA-AA86
+
+// Invincibility
+HACT-BEME
+
+// Infinite Lives
+FF9FFC:0009
+
+// Infinite Energy
+FF9F8E:0005
+
+// 99 Clocks
+FF9F92:0063
+
+// Invincibility
+FFA0A8:00FF
+
+// 1 Jump Kill Enemies
+BAKA-AA2L
+
+// Invincibility
+RYJT-A6Y6
+RZ2T-A6WT
+RYJT-A6WN
+
+// Enabled Cheat Code Infinite Lives
+AADA-AA9C
+
+// Keep Clocks After The Death
+AJMT-AA6G
+
+// Freeze Dream Time
+AJDT-AA6E
+
+// Infinite Continue
+AJ2T-AA44
+
+// Enabled Cheat Code Unlimited Jumps/Controllable Jump/Jump in Mid-Air (Multi Jumps)
+BKGT-AA9T
+
+// Enabled Cheat Code Level Select - The Entire Map Is Open
+RELT-A61T
+
+// Infinite Energy Extra
+AJJT-AA5W

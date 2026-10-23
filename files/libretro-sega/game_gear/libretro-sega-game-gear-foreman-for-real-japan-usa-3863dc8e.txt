@@ -1,0 +1,15 @@
+// Infinite Time
+00D0-CB01
+
+// Enable everyone for Tournament Mode
+005-6BD-E6E
+136-63D-A2A
+
+// Freeze Player 2
+00D0-F000
+
+// Cheat Mode
+00D0-B801
+
+// Cheat Mode
+009-33C-C49

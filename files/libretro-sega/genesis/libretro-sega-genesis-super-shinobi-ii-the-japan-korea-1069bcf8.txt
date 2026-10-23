@@ -1,0 +1,63 @@
+// Regional Lockout Bypass
+RGYT-A6V6
+
+// Infinite Lives
+AWZT-AA96
+
+// Infinite Energy
+ATNA-EA7C
+
+// Infinite Shurikens (7 for Shurikens Burst)
+AT0A-EA32
+
+// Infinite Ninjutsu
+ATYA-EA8E
+
+// Invincibility
+B55T-CA7E
+CAHT-EA40
+
+// Enable 6-Button Mode
+FF000A:0041
+
+// Invincibility
+RYMA-E6T4
+RYMT-E6XE
+
+// Keep Flaming Shurikens after being Hit
+C2VA-EA46
+
+// Keep Flaming Shurikens after Dying
+A59T-CA62
+
+// Jitsu of Mijin doesn't cost a life
+ATAT-EA6J
+
+// Enable 6-Button Mode
+AAHA-EA4N
+E20A-EA2W
+
+// Enable Alternate Sega Logo Intro
+JBYT-AAAA
+
+// Enable Invincibility Cheat
+42MT-EA60
+
+// Enable Infinite Shuriken Cheat
+ACVA-AA34
+B20A-EA3R
+BJZT-EA3R
+
+// Regional Lockout Bypass
+CLYT-AA3L
+
+// Invincibility
+A55T-CA7J
+HTHT-EA5A
+
+// Infinite Health
+B2NA-EA6G
+
+// Infinite Shurikens
+AT0A-EA32
+ATZT-EA5A

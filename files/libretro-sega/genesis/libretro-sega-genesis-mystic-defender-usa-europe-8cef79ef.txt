@@ -1,0 +1,54 @@
+// Protection From Most Enemies
+AK1A-AA9T
+
+// Infinite Lives
+AMDA-AA7N
+
+// Weapon Meter Charges Instantly
+RHAA-A608
+
+// High Jump
+CL9T-AAAN
+
+// Almost Complete Invincibility
+AMHA-AA8Y
+
+// Makes Your Regular Weapon (Uncharged) Much Stronger Against Most Bosses
+PB1T-BHEJ
+
+// Untouchable
+AMHA-AA8T
+
+// Super Jump
+CL9T-AAAJ
+
+// untouchable
+AZ1A-AAPC
+
+// Shoot to keep jumping
+CDBA-ABBC
+
+// Invincibility (Flash)
+AMHA-ACPG
+
+// Die to get Invincibility (Flash)
+AMHA-ACPR
+
+// flashing gameplay
+AACA-ADYT
+
+// Unlimited Lives
+FFF62E:000C
+FFF776:0000
+FFF628:0002
+FFF7C2:0028
+FFF62A:0008
+
+// Start with ?? Lives
+ABLT-AAG2
+
+// Enable all Difficulties
+A6ZA-AACN
+
+// Play Japanese version
+AJBA-AA46

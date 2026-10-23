@@ -1,0 +1,40 @@
+// Level Select [Replace ? To Change Levels]
+00C0-6400
+
+// Infinite Heavy Bomb
+00C0-CE09
+
+// Infinite Fire Bomb
+00C0-CD09
+
+// Infinite Weapon Power [Alternate]
+00C0-8500
+
+// Infinite Weapon Power
+00C0-8615
+
+// Infinite Lives
+00C0-6503
+
+// Infinite Money
+00C0-6699
+00C0-6799
+
+// Infinite Lives
+B65-DBD-3BE
+
+// Infinite Money
+0A5-79F-E62
+0A5-7FF-E62
+0A5-85F-E62
+
+// Round Modifier
+00C0-6300
+00C0-6400
+
+// Infinite Weapon Time
+000-26E-3BE
+
+// Invincibility
+3A4-8ED-6EE
+3A4-C3D-6EE

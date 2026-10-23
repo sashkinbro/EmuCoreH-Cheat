@@ -1,0 +1,11 @@
+// Stop The Timer
+00BEA8:4A78
+
+// Infinite Lives
+00B838:4A78
+
+// Immunity To Enemies
+00B734:4A78
+
+// Diamonds = 7 Points
+00FE36:5E78

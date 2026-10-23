@@ -1,0 +1,59 @@
+// Turn Codes On And Bad Shots Won't Be Scored
+21F-4CE-19D
+
+// Take Points On Character Select And Put Them Into Point Bin
+00F-16C-3BE
+
+// No Wind
+AF2-83E-08F
+
+// Start On Hole 2
+02F-6DF-E6E
+
+// Start On Hole 3
+03F-6DF-E6E
+
+// Start On Hole 4
+04F-6DF-E6E
+
+// Start On Hole 5
+05F-6DF-E6E
+
+// Start On Hole 6
+06F-6DF-E6E
+
+// Start On Hole 7
+07F-6DF-E6E
+
+// Start On Hole 8
+08F-6DF-E6E
+
+// Start On Hole 9
+09F-6DF-E6E
+
+// Start On Hole 10
+0AF-6DF-E6E
+
+// Start On Hole 11
+0BF-6DF-E6E
+
+// Start On Hole 12
+0CF-6DF-E6E
+
+// Start On Hole 13
+0DF-6DF-E6E
+
+// Start On Hole 14
+0EF-6DF-E6E
+
+// Start On Hole 15
+0FF-6DF-E6E
+
+// Start On Hole 16
+10F-6DF-E6E
+
+// Start On Hole 17
+11F-6DF-E6E
+
+// Start On Hole 18
+12F-6DF-E6E

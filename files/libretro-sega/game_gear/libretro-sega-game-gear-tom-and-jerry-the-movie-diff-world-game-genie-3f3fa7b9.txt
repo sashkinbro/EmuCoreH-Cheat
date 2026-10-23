@@ -1,0 +1,17 @@
+// Unlimited Energy
+C90-AFA-2A2
+
+// Start With 5 Hearts
+0A8-D4E-C4A
+
+// Start With 6 Hearts
+0C8-D4E-C4A
+
+// Start With 4 Continues
+04B-E77-F76
+
+// Start With 8 Continues
+08B-E77-F76
+
+// Unlimited Continues
+00D-E56-19E

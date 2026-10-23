@@ -1,0 +1,60 @@
+// Infinite Lives
+LB5A-AY0C
+
+// Infinite Lives
+RF5A-A60C
+
+// Invincibility
+AC9T-AR92
+
+// Invincibility
+AK6T-AA2T
+
+// Infinite Lives P1
+FFA37A:0009
+
+// Infinite Lives P2
+FFA3A8:0009
+
+// Untouchable P1 P2
+RZ5A-A6WL
+
+// Infinite Special Weapon P1 P2
+AK9T-AA6L
+
+// Infinite Credits
+ABRA-AAB0
+
+// Automatically collect items (Speed Shoes, Shields, etc) from anywhere on the screen.
+BVST-AA6N
+
+// Automatically collect gifts from anywhere on the screen.
+BKVA-AA6R
+ABVA-AA64
+
+// Automatically collect gifts from anywhere on the screen at the beginning of the bonus rooms.
+B49T-AA5T
+
+// Walk thru walls when walking up.
+BB6T-AA72
+
+// Always have the Speed Shoes (walk faster).
+RF6T-A6W2
+
+// Walk twice as fast (this code makes you walk even faster than the Speed Shoes).
+AK6T-BE4T
+BK6T-AA4W
+
+// Walk 3x as fast.
+AP6T-BE4T
+BK6T-AA4W
+
+// Enemies stay in the doorways and do not chase after you, which allows you to collect as much as you want.
+R0MA-A60E
+
+// Bosses constantly take damage, even if you don't shoot at them.
+AG6T-BA7A
+RG6T-A6ZC
+
+// Disables the homing bombs that chase you when when you finish clearing a room.
+AKXT-AA2J

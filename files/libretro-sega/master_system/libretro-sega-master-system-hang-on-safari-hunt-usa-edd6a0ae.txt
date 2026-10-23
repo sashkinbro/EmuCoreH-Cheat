@@ -1,0 +1,14 @@
+// Infinite Time
+B60-EA9-3BE
+
+// Infinite Bullets
+00E-E1F-3BE
+
+// Infinite Time
+00C0-0D3C
+
+// Freeze Timer
+00C0-0C00
+
+// Infinite Bullets
+00C1-E91E

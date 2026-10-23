@@ -1,0 +1,178 @@
+// Start with 1 life
+WNEA-BE4Y
+
+// Start with 2 lives
+WJEA-BE4Y
+
+// Start with 4 lives
+WAEA-BE4Y
+
+// Start with 8 lives
+WTEA-BE4Y
+
+// Start with 11 lives
+TNEA-BE4Y
+
+// Infinite lives
+RE4A-A6VJ
+
+// Never lose health
+RG2A-A61W
+
+// Start with 0 continues
+AB6A-EADL
+
+// Start with 1 continue
+AF6A-EADL
+
+// Start with 5 continues
+AZ6A-EADL
+
+// Start with 10 continues
+BK6A-EADL
+
+// Infinite continues
+AVVA-EA3Y
+
+// Get Extra Lives more Easily
+AYEA-AADR
+AY6A-AAD0
+
+// No extra life for 20,000 points
+RE6A-A6W6
+
+// Each star found worth 0 stars
+ABTA-CAHJ
+
+// Each star found worth 2 stars
+AKTA-CAHJ
+
+// Each star found worth 5 stars
+AZTA-CAHJ
+
+// Each star found worth 10 stars
+BKTA-CAHJ
+
+// Infinite stars if you have some
+RHDA-A6YN
+
+// Infinite stars even if you have none
+AXDA-AA6J
+
+// Timer doesn't run
+RE8A-A6Z2
+
+// Finding a clock adds 0 minutes to timer
+ABSA-DA62
+
+// Finding a clock adds 2 minutes to timer
+AKSA-DA62
+
+// Finding a clock adds 4 minutes to timer
+AVSA-DA62
+
+// Finding a clock adds 8 minutes to timer
+BBSA-DA62
+
+// Jump lower than normal while standing still
+9YLA-D976
+
+// Jump a little higher than normal while standing still
+9ALA-D976
+
+// Jump higher than normal while standing still
+8TLA-D976
+
+// Jump much higher than normal while standing still
+8ALA-D976
+
+// Jump lower than normal while running
+9YKA-D93Y
+
+// Jump a little higher than normal while running
+9AKA-D93Y
+
+// Jump higher than normal while running
+8TKA-D93Y
+
+// Jump much higher than normal while running
+8AKA-D93Y
+
+// Infinite Lives
+AT4A-AA30
+
+// Infinite Energy
+AW2A-AA94
+
+// Invincibility
+A2HT-CN8J
+BJJA-CN2A
+
+// Infinite Time
+AT8A-AA8E
+
+// Infinite Stars
+AXDA-AA6R
+
+// Infinite Lives
+FFC6B4:C5CA
+
+// Infinite Energy
+FF00DC:7290
+
+// Invincibility
+FF011C:005D
+
+// Infinite Time
+FF00D0:0259
+
+// Infinite Stars
+FF01AA:0009
+
+// Always Star Platform 0
+FF01AC:0000
+
+// Always Ring Platform 0
+FF01AE:0000
+
+// Always Lights Off 0
+FF01B0:0000
+
+// Always Have Key
+FF0136:0001
+
+// Yellow Star Modifier
+FF01AA:0000
+
+// White Star Modifier
+FF01AC:0000
+
+// Go To End Of Level
+FF00EC:0008
+
+// Aero Walks Funny
+FF010E:0002
+
+// Jump in midair (as many times as you want).
+REMA-C60Y
+
+// Invincibility (Disable Hit Detection)
+R02A-A604
+RYNA-C6TA
+RYNT-C6T0
+
+// Enable Level Select and other installation in pause, press and hold A + C until you see a choice of stages and other installation
+FF01A4:0001
+
+// Enable Level Select and other installation in pause, press and hold A + C until you see a choice of stages and other installation
+AJ4T-AA2J
+AJZT-AA50
+
+// Invincibility against Enemies
+RW2A-AA84
+
+// Invincibility against Spikes
+LAMT-CA9L
+
+// Regional Lockout Bypass (European and Japanese Systems)
+AABT-AA3G

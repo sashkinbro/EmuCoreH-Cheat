@@ -1,0 +1,66 @@
+// Faster Timer
+03C-38B-E6E
+
+// Infinite Time
+00C-38B-E6E
+
+// Start Rounds With 10 Seconds
+21C-75E-91D
+10C-71E-195
+04C-73C-3B8
+
+// Start Rounds With 20 Seconds
+21C-75E-91D
+20C-71E-195
+04C-73C-3B8
+
+// Start Rounds With 30 Seconds
+21C-75E-91D
+30C-71E-195
+04C-73C-3B8
+
+// Start Rounds With 40 Seconds
+21C-75E-91D
+40C-71E-195
+04C-73C-3B8
+
+// Start Rounds With 50 Seconds
+21C-75E-91D
+50C-71E-195
+04C-73C-3B8
+
+// Both Players Start With 1/4 Energy
+12C-24E-E6B
+
+// Both Players Start With 1/2 Energy
+20C-24E-E6B
+
+// Both Players Start With 3/4 Energy
+2DC-24E-E6B
+
+// Only Take Damage From Some Projectile Special Moves
+118-109-E61
+
+// Terry's Throw Does Very Little Damage
+003-814-D5A
+
+// Terry's Throw Kills
+773-814-D5A
+
+// Terry's Standing Punch Doesn't Do Damage
+005-59D-F7A
+
+// Terry's Standing Punch Kills
+775-59D-F7A
+
+// Terry's Standing Kick Doesn't Do Damage
+005-61D-C4A
+
+// Terry's Standing Kick Kills
+775-61D-C4A
+
+// Terry's Crouching Kick Doesn't Do Damage
+005-71D-F72
+
+// Terry's Crouching Kick Kills
+775-71D-F72

@@ -1,0 +1,35 @@
+// Start With 10 Bullets For Your Normal Gun
+109-309-A2A
+
+// Start With 25 Bullets For Your Normal Gun
+259-309-A2A
+
+// Start With 50 Bullets For Your Normal Gun
+509-309-A2A
+
+// Start With 75 Bullets For Your Normal Gun
+759-309-A2A
+
+// Start With 99 Bullets For Your Normal Gun
+999-309-A2A
+
+// Infinite Bullets For Your Normal Gun
+005-A9E-E6E
+
+// Start With 1 Life
+019-419-E66
+
+// Start With 5 Lives
+059-419-E66
+
+// Start With 7 Lives
+079-419-E66
+
+// Start With 9 Lives
+099-419-E66
+
+// Always Collect Max Bullets For Your Normal Gun
+993-2AC-F72
+
+// Almost Infinite Energy
+7EE-509-3B7

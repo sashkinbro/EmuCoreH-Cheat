@@ -1,0 +1,159 @@
+// Infinite Energy
+B5BA-AR72
+
+// Invincibility
+R1BA-A6Z8
+
+// Infinite Time
+AVCT-CA2N
+
+// Infinite Credits
+D71A-B92W
+
+// Infinite Energy
+9VAT-BGC8
+TBAT-AADA
+97AT-AADC
+HVAT-AA5E
+
+// Player 1 And Player 2 Have Turbo Mode
+ACSA-AADR
+
+// Hit Anywhere/Get Items From Anywhere
+ABRT-AA46
+XVRT-AAC8
+
+// One Hit Kills
+RE1T-C6VL
+
+// no grabbing
+ACZT-AANR
+
+// Infinite Time
+AKCA-CA98
+
+// Your Ranger Will Not Lose His/Her HP If Enemy Hits Him/Her
+AMBA-AA78
+
+// No HP Lost After The Special Attack (A Button)
+AXJA-AA7N
+
+// Your Rangers Are Untouchable By Regular Hits
+AWSA-AA9G
+
+// All Characters Are Untouchable By Cars
+AWST-AA3T
+
+// Oozeman Can't Catch Your Ranger
+AT3T-CA3J
+
+// 1 Hit Kills Putty Patrol
+PD5T-AET2
+
+// 1 Hit Kills Oozeman
+PA1T-CEVG
+
+// Putty Patrol Can't Catch Your Ranger
+ACZA-CA74
+
+// S.Sentinel Ear Can't Catch Your Ranger
+ATJT-CA30
+
+// Both Your Characters Have Turbo Mode
+AWSA-AA56
+
+// Infinite Health P1
+FF603C:00FF
+
+// P1 always has 999999990 score points
+FF40B0:9999
+FF40B2:9999
+
+// P2 always has 999999990 score points
+FF40E0:9999
+FF40E2:9999
+
+// Option Rank
+FF340A:0000
+
+// Main Menu Cursor Select Modifier
+FF34C6:0000
+
+// Instant Kills P1
+FF6032:000C
+FF603C:0000
+FF603C:0000
+
+// Instant Kills P2
+FF6132:000C
+FF613C:0000
+FF613C:0000
+
+// Instant Kills 1st Enemy
+FF6232:000C
+FF623C:0000
+FF623C:0000
+
+// Instant Kills 2nd Enemy
+FF6332:000C
+FF633C:0000
+FF633C:0000
+
+// Instant Kills 3rd Enemy
+FF6432:000C
+FF643C:0000
+FF643C:0000
+
+// Instant Kills 4th Enemy
+FF6532:000C
+FF653C:0000
+FF653C:0000
+
+// P2 always has Full HP
+FF613C:0001
+FF613C:0067
+
+// Skip Intro Screens
+KABT-AJGG
+
+// Stage Select - Damage Select cheat is always active
+RFAA-C61J
+
+// Animation test screen is always active
+RECA-A6WT
+
+// Start with 9 credits (1 player game)
+BE5T-CAHJ
+
+// Start with 20 credits (1 player game)
+CT5T-CAHJ
+
+// Only lose half as much health when doing the Special Move (A button)
+BDJA-AAFR
+
+// Only lose one quarter as much health when doing the Special Move (A button)
+AXJA-AAFR
+
+// Start with 9 credits (2 player game)
+BE5T-CAG0
+
+// Start with 20 credits (2 player game)
+CT5T-CAG0
+
+// Movement and attacks makes you move forward
+AGVA-AABA
+
+// One hit kill for enemies
+ACYA-AAWG
+
+// P1 Infinite Health
+FF603C:01FF
+
+// P2 Infinite Health
+FF613C:01FF
+
+// Infinite Time
+FF4138:0909
+
+// Freeze Timer
+FF413A:000F

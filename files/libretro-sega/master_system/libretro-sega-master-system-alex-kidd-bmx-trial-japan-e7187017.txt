@@ -1,0 +1,14 @@
+// Infinite Energy
+00C2-100A
+
+// Infinite Time
+7E0-CCE-3B7
+
+// Infinite Energy
+2A0-78E-6E2
+
+// Infinite Time
+00C2-1000
+
+// FAKE Infinite Time
+00C8-4E00

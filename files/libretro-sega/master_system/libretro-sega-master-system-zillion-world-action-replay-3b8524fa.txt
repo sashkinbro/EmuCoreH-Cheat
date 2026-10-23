@@ -1,0 +1,20 @@
+// Infinite Health
+00C1-4399
+
+// Life On Status Screen
+00C1-5399
+
+// Infinite ID Cards
+00C1-2905
+
+// Red ID Card
+00C1-2A01
+
+// Floppy Disks
+00C1-2B05
+
+// Zillion Power At Maximum
+00C1-4602
+
+// Scope
+00C1-4801

@@ -1,0 +1,123 @@
+// Infinite players
+A2WA-AA90
+
+// Infinite super bombs
+AJTT-AA7W
+
+// No decrease in rocket firepower after loss of fighter
+A2WT-AA2G
+
+// No decrease in bomb firepower after loss of fighter
+A2WT-AA2R
+
+// No decrease in escort firepower after loss of fighter
+A2WT-AA20
+
+// Infinite credits
+AJWT-AA6C
+
+// Start at stage 2
+AEBT-AADE
+
+// Start at stage 3
+AJBT-AADE
+
+// Start at stage 4
+ANBT-AADE
+
+// Start at stage 5
+ATBT-AADE
+
+// Start at stage 6
+AYBT-AADE
+
+// Start at stage 7
+A2BT-AADE
+
+// Start at stage 8
+A6BT-AADE
+
+// Start at stage 9
+BABT-AADE
+
+// Start at stage 10
+BEBT-AADE
+
+// Start at stage 11
+BJBT-AADE
+
+// Start at stage 12
+BNBT-AADE
+
+// Infinite Lives
+REWA-A610
+
+// Infinite Bombs
+RETT-A6ZW
+
+// Invincibility
+AJSA-AA9J
+
+// The Background Is Black On The Gameplay
+AJZA-AA5L
+
+// Start At Stage 5
+AABT-AADE
+
+// Choose Up To 25 Players On Option Screen
+DGWA-AADE
+DGWA-AADW
+
+// Start With 10 Super Bombs
+BJVT-AABW
+A2VT-AA34
+
+// Start With 15 Super Bombs
+B6VT-AABW
+A2VT-AA34
+
+// Start With 25 Super Bombs
+DEVT-AABW
+A2VT-AA34
+
+// Start With 99 Super Bombs
+NNVT-AABW
+A2VT-AA34
+
+// Start With 10 Credits
+BJBT-AAFL
+BJBT-AAFT
+
+// Start With 25 Credits
+DEBT-AAFL
+DEBT-AAFT
+
+// Infinite Lives
+HAWA-AY10
+
+// Infinite Bombs
+HATT-AYZW
+
+// Always Keep Extra Aircraft
+FF8106:0001
+
+// Activate Action Replay For Extra Aircraft
+AJTA-AA4J
+
+// Access All Options In Options Menu
+BGWT-AAHY
+
+// Invincibility
+FF881E:0010
+
+// Enabled Cheat Code Debug Mode In Config. See Note
+ALXA-AA60
+ALXA-AA88
+ACXA-AA2A
+AJDT-AA7E
+
+// Freeze Time Continue
+ALZA-AA36
+
+// Infinite Energy
+AJSA-AA9W

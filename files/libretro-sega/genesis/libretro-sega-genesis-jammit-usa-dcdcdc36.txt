@@ -1,0 +1,95 @@
+// Infinite &quot;pump-ups&quot;
+AKET-AA4C
+
+// Opponents only have $100
+NTLT-AAGN
+
+// Opponents only have $200
+3ALT-AAGN
+
+// Player 1 starts with 1 point
+HE7A-BEVR
+
+// Player 1 starts with 2 points
+HE7A-BJVR
+
+// Player 1 starts with 3 points
+HE7A-BNVR
+
+// Player 1 starts with 4 points
+HE7A-BTVR
+
+// Player 1 starts with 5 points
+HE7A-BYVR
+
+// Player 1 starts with 6 points
+HE7A-B2VR
+
+// Player 1 starts with 7 points
+HE7A-B6VR
+
+// Player 1 starts with 8 points
+HE7A-BAVR
+
+// Player 2 starts with 1 point
+HE7A-BEVJ
+
+// Player 2 starts with 2 points
+HE7A-BJVJ
+
+// Player 2 starts with 3 points
+HE7A-BNVJ
+
+// Player 2 starts with 4 points
+HE7A-BTVJ
+
+// Player 2 starts with 5 points
+HE7A-BYVJ
+
+// Player 2 starts with 6 points
+HE7A-B2VJ
+
+// Player 2 starts with 7 points
+HE7A-B6VJ
+
+// Player 2 starts with 8 points
+HE7A-BAVJ
+
+// Start at 2nd game in tournament mode
+AELA-AAGG
+
+// Start at 3rd game
+AJLA-AAGG
+
+// Start at 4th game
+ANLA-AAGG
+
+// Start at 5th game
+ATLA-AAGG
+
+// Start at 6th game
+AYLA-AAGG
+
+// Start at 7th game
+A2LA-AAGG
+
+// Start at 8th game
+A6LA-AAGG
+
+// Start at 9th game (The Judge)
+BALA-AAGG
+
+// Start At 5th Game
+AALA-AAGG
+
+// Player 1 Score Modifier
+FF342A:0021
+
+// Player 2 Score Modifier
+FF342A:0000
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T

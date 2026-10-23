@@ -1,0 +1,23 @@
+// Infinite Balls
+00D0-E509
+
+// Infinite Time (Ten's Digit)
+00CC-9D09
+
+// Access Stage Select
+00CC-D403
+
+// Access Stage Select
+006-4ED-19E
+
+// Infinite Balls
+00E-CCA-19E
+
+// Infinite Credits
+3A5-EFE-2A2
+
+// Infinite Time
+3A9-9CE-2A2
+
+// Freeze Timer
+00CC-8E00

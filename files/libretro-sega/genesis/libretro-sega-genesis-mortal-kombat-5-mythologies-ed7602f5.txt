@@ -1,0 +1,29 @@
+// Infinite Energy (Do Not Use Around Traps That Crush You)
+FF0212:0068
+
+// Infinite Freeze Meter
+FF02FC:0038
+
+// Infinite Lives
+FF020C:0009
+
+// Enemies Killed In One Hit
+FF0412:0000
+
+// Level Modifier
+FF062E:0001
+
+// Infinite Freeze Meter
+AWSA-0A62
+
+// Infinite Lives
+AV0A-0A6W
+
+// Infinite Items
+R0SA-06Y2
+
+// Infinite Credit
+AX7A-0A9A
+
+// Freeze Time Continue
+AM7A-0A7L

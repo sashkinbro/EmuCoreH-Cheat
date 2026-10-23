@@ -1,0 +1,14 @@
+// P1 Infinite Health
+FFA066:03E7
+
+// P2 Infinite Health
+FFA13E:03E7
+
+// Infinite Characters After The Death
+A3YT-AA42
+
+// Freeze Time When Choosing Characters After The Death
+AJFT-CA5A
+
+// Infinite Health
+AKRA-AA82

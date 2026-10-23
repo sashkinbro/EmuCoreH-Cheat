@@ -1,0 +1,292 @@
+// Start with 1 life
+DKBA-BC1A
+
+// Start with 2 lives
+DVBA-BC1A
+
+// Start with 3 lives
+D3BA-BC1A
+
+// Start with 4 lives
+H3BA-AG9A
+
+// Start with 6 lives
+N3BA-A8SA
+
+// Start with 8 lives
+NVBA-A8SA
+
+// Start with 10 lives
+NKBA-A8SA
+
+// 100 Baums needed to continue instead of 1000
+A3ST-B64Y
+
+// 500 Baums needed to continue game
+BBST-B64Y
+
+// 3000 Baums needed to continue game
+GBST-B64Y
+
+// Game can always be continued
+ABST-B64Y
+
+// Game can never be continued
+CKST-B64Y
+
+// Gold coin worth 50 Baums instead of 10
+AWNA-B68E
+
+// Gold coin worth 100 Baums
+A4NA-B68E
+
+// Gold coin worth 1000 Baums
+B4NA-B68E
+
+// Gold coin worth nothing
+ACNA-B68E
+
+// Bag of gold worth 10 Baums instead of 100
+ALPT-B662
+
+// Bag of gold worth 500 Baums
+BCPT-B662
+
+// Bag of gold worth 1000 Baums
+B4PT-B662
+
+// Bag of gold worth nothing
+ACPT-B662
+
+// Doll prize worth 2 extra lives instead of 1
+HCRA-BJXA
+
+// Doll prize worth 3 extra lives
+HCRA-BNXA
+
+// Doll prize worth nothing
+ALRA-AA5A
+
+// Alex jumps higher
+9NDA-B93Y
+
+// Alex jumps much higher
+9EDA-B93Y
+
+// Start on round 2
+AFBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start on round 3
+AKBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start on round 4
+APBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start on round 5
+AVBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start on round 6
+AZBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start on round 7
+A3BT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start on round 8
+A7BT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start on round 9
+BBBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start on round 10
+BFBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start on round 11
+BKBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Infinite Lives
+FFC120:0003
+
+// Infinite Money
+FFFE20:0090
+FFFE1E:0009
+
+// Cpu Always Choose Paper
+FFE10E:000C
+FFE124:0002
+
+// Infinite Lives
+AACA-AAH8
+
+// Invincibility
+AJXT-AA3C
+AL1T-AA70
+AL1A-AA40
+
+// Start On Round 2
+AFBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start On Round 3
+AKBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start On Round 4
+APBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start On Round 5
+AVBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start On Round 6
+AZBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start On Round 7
+A3BT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start On Round 8
+A7BT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start On Round 9
+BBBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start On Round 10
+BFBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// Start On Round 11
+BKBT-AACJ
+BPBT-B74L
+A3BT-AA4N
+
+// All Janken Games Cost 10 Baums
+AKGA-B64A
+AMBA-B68L
+RFGA-A6V8
+
+// All Janken Games Cost 50 Baums
+AVGA-B64A
+AXBA-B68L
+RFGA-A6V8
+
+// All Janken Games Cost 100 Baums
+A3GA-B64A
+A5BA-B68L
+RFGA-A6V8
+
+// All Janken Games Cost 500 Baums
+BBGA-B64A
+BDBA-B68L
+RFGA-A6V8
+
+// All Janken Games Cost 1000 Baums
+B3GA-B64A
+B5BA-B68L
+RFGA-A6V8
+
+// All Janken Games Are Free
+ABGA-B64A
+ADBA-B68L
+RFGA-A6V8
+
+// Alex Always Wins At Janken
+RG4A-A610
+HC4T-BAAN
+WC4T-AD2R
+AR4T-AAAY
+
+// Infinite Lives
+FFC120:0008
+
+// Infinite Canes
+FFFE28:0008
+
+// Infinite Tokens
+FFFE2A:0008
+
+// Number Of Coins Required/Each Coin Worth 100
+FFFE20:0000
+
+// Invincible
+FFD002:0004
+
+// Level Modifier
+FFFE0A:0000
+
+// Infinite Pedicopter
+FFFE26:0009
+
+// Infinite Cape
+FFFE2A:0009
+
+// Invulnerability (Walk Thru Enemies)
+BTBT-AA2R
+
+// Walk Thru Walls
+CAKT-AA58
+
+// Infinite Use Pick One
+AKNT-AA8J
+AKNT-AA7Y
+AKNA-AA90
+RFNA-A60W
+AKNT-AA2N
+AKNT-AA3A
+AKNT-AA3W
+AKPA-AA3G
+AKPA-AA2R
+AKPA-AA52
+AKPA-AA5C
+
+// Infinite Gold
+AJRT-AA7R
+
+// Invincibility
+FFFE24:00EE
+
+// Invincibility
+RYXT-A6VG
+R01T-A6Z2
+R01A-A6W2
+R0YT-A6WR
+R0BA-A6WT
+RYBA-A6YN
+R0PA-A6XL
+RYBA-A6ZT
+R0FA-A602
+R0HT-A6WL
+RYWT-A6ZG
+RYWT-A60T

@@ -1,0 +1,36 @@
+// The puck will always stay on the ice (when shooting)
+A40A-AA6J
+
+// The goalies can hold onto the puck 3x as long before the ref calls a face off
+YVKT-CCAR
+
+// Your goalie can hold onto the puck as long as you want without the ref calling a face off
+AMLA-AA8G
+
+// Infinite energy bars
+AKMT-CA6C
+
+// Energy bars only recharge half as fast when your players are resting
+AV7A-AAA4
+
+// Energy bars recharge twice as fast when your players are resting
+CK7A-AAA4
+
+// Energy bars recharge 3x as fast when your players are resting
+DP7A-AAA4
+
+// Energy bars recharge 4x as fast when your players are resting
+EV7A-AAA4
+
+// 1 minute periods (Only works when you leave the period length at 10 minutes)
+HV6A-AADA
+
+// 7 minute periods (Only works when you leave the period length at 10 minutes)
+YV6A-ACDA
+
+// Infinite time (stops the clock)
+AKRT-CA94
+
+// Gets rid of some ref calls/penalties (icing, etc)
+AAXT-CA2A
+ATWA-CA7G

@@ -1,0 +1,23 @@
+// Infinite Lives
+00C2-9B0C
+
+// Can't Crash Or Be Shot Down
+00C0-E000
+
+// Infinite Lives
+007-D7D-3BE
+
+// Level Select Enabled
+00C0-9401
+
+// 0 Dead
+00C2-9200
+
+// Safe Modifier
+00C2-9140
+
+// Load Modifier
+00C2-9000
+
+// Invulnerability
+00D-70F-E68

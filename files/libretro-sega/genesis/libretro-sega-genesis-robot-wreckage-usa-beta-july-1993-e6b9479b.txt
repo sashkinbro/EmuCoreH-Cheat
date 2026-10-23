@@ -1,0 +1,5 @@
+// P1 Infinite Health
+FFAA36:0040
+
+// P2 Infinite Health
+FFAAEA:0040

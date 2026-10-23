@@ -1,0 +1,30 @@
+// Infinite Lives
+AVYA-AA5W
+
+// Infinite Health
+AL1A-AA38
+
+// Invincibility (Disable Hit Detection)
+RZBA-A6T4
+RYRA-G6YJ
+RYPA-G6Z8
+RYGT-G6XY
+R10T-A6VE
+
+// Keep Gems After The Death
+ALTA-CA70
+
+// Freeze Time
+AL0A-AA5N
+
+// Infinite Credit
+AK0T-AA3C
+
+// Freeze Time Continue
+AK1A-AA6N
+
+// Enabled Hidden Stage Cape Sealph
+A2XT-AA6G
+
+// Infinite Controllable Jump + Jumps In Mid Air 2 in 1
+ABRA-AAAT

@@ -1,0 +1,21 @@
+// Start A New Tournament With $650 (Instead of $250)
+7AFA-B566
+
+// Start A New Tournament With $10,735
+CAFA-AAE4
+
+// Infinite Money (Your Dollar Amount Won't Look Right, But You Should Be Able To Buy Anything You Want)
+HF7V-SA1Y
+
+// Fake Infinite Money
+FF14DE:00FF
+FF14DC:00FF
+
+// Start on Junior Tournament Round 3
+SEFA-BJWA
+
+// Start on Senior Tournament Round 1
+SEFA-BNWA
+
+// Start on password screen
+SEFA-BYWA

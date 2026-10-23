@@ -1,0 +1,55 @@
+// Loads Of Bad Guys
+001-49C-19E
+213-BEC-2A2
+
+// Only 1 Animal Enemy In Game
+C91-4AC-2A2
+000-71C-195
+
+// Infinite Time
+00E-4AA-19E
+
+// Infinite Lives
+3AB-A2F-2A2
+
+// Start With 2 Lives
+015-F8F-F7E
+
+// Start With 4 Lives
+035-F8F-F7E
+
+// Start With 8 Lives
+075-F8F-F7E
+
+// Start With 10 Lives
+095-F8F-F7E
+
+// Infinite Energy
+3A6-73A-2A2
+
+// Start With Energy At 1
+007-3BF-6EB
+
+// Start With Energy At 3
+107-3BF-6EB
+
+// Start With Energy At 6
+207-3BF-6EB
+
+// Start With Energy At 19
+907-3BF-6EB
+
+// Invincibility
+AF6-72A-A24
+
+// Start On Level 2
+015-F3F-E6A
+
+// Start On Level 3
+025-F3F-E6A
+
+// Start On Level 4
+035-F3F-E6A
+
+// Start On Level 5
+045-F3F-E6A

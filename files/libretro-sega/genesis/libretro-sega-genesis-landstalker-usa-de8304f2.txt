@@ -1,0 +1,142 @@
+// Infinite Hp
+AK6A-CA3T
+
+// Invincibility
+ABWA-CR3T
+
+// Infinite Hp
+FF543E:00FF
+
+// Invincibility
+FF1142:0002
+
+// Unlock All Items and Gear
+JGJT-FEY2
+
+// Full Weapon Bar
+9V6A-DGNN
+
+// Slow Decent from Jumps
+AJ3A-AA7R
+
+// Walk on Air
+FT3A-AEEA
+CA3A-AVEC
+A23A-AAEE
+A23A-AR6G
+8A3A-AAEL
+AT3A-AA6N
+HT3A-BAER
+AT3A-AAET
+
+// Walk Through Walls
+JARA-AA6Y
+AAST-AA7N
+AAPA-AA52
+FTSA-AA3L
+
+// Get MUCH More Gold Than Normal From Treasure Chests
+HF5T-DD06
+
+// Start A New Game With 6 Hearts (Instead of 4)
+96XT-ALF6
+96XT-ALFY
+
+// Start A New Game With 9 Hearts
+96XT-ATF6
+96XT-ATFY
+
+// Items In Shops Are Free (As Long As You Have Enough Gold) (Also Works At Inns)
+AV5T-CA94
+
+// Items In Shops Are Free, Even If You Don't Have Enough Gold (Also Works At Inns)
+BV5T-CA9W
+
+// Items In Shops Are Free (As Long As You Have Enough Gold)
+AV5T-CA80
+
+// Unlimited Gold (9999 Golds)
+FF120E:270F
+
+// Invincible
+FF1142:0D00
+
+// All Swords
+FF1040:AAAA
+FF1042:AAAA
+
+// Full Power Meter
+FF120A:0032
+
+// EkeEke X 9
+FF1040:0A00
+
+// Statue of Gaia X 9
+FF1048:00A0
+
+// Golden Status X 9
+FF104A:0A00
+
+// Mind Repair X 9
+FF104A:A000
+
+// Blue Ribbon
+FF104C:0200
+
+// Buyer Card
+FF104C:2000
+
+// Anti Paralyze X 9
+FF104E:0A00
+
+// Einstein Whistle
+FF1050:0200
+
+// Spell Book
+FF1052:0200
+
+// Pawn Ticket
+FF1054:2000
+
+// Red Jewel
+FF1054:0A00
+
+// Dahl X 9
+FF1056:2000
+
+// Death Status
+FF1056:0200
+
+// Idol Stone
+FF1058:2000
+
+// Oracle Stone
+FF1058:0200
+
+// Bell
+FF105A:2000
+
+// Gola's Fang
+FF105C:2000
+
+// Gola's Horn
+FF105C:0200
+
+// Play Like Pockets
+FF1002:0010
+
+// Makes your sword twice as strong
+ABWT-CEE2
+RFWT-C6YY
+
+// Makes your sword 4 times stronger
+ABWT-CJE2
+RFWT-C6YY
+
+// Makes your sword 8 times stronger
+ABWT-CTE2
+RFWT-C6YY
+
+// Makes your sword 16 times stronger
+ABWT-DAE2
+RFWT-C6YY

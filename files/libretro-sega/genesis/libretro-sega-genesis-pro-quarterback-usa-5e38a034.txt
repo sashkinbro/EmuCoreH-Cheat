@@ -1,0 +1,8 @@
+// Infinite Time To Choose Play/To Break
+FF0B3C:0099
+
+// Infinite Time Remaining In Quarter (Seconds)
+FF0B40:003B
+
+// Infinite Time Remaining In Quarter (Minutes)
+FF0B3E:0009

@@ -1,0 +1,22 @@
+// Infinite Energy
+HVZA-DJM4
+JKZA-D0NA
+HVZA-CAD6
+
+// Infinite Energy Zach
+FF92A6:0078
+
+// Infinite Ammo Zach
+FF92AC:0063
+
+// Infinite Energy Tashile
+FF9788:0064
+
+// Infinite Ammo Taschile
+FF978E:0063
+
+// Infinite Energy Shadow
+FF9C6A:004B
+
+// Infinite Ammo Shadow
+FF9C70:0063

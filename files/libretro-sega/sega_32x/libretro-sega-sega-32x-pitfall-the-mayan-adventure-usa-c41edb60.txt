@@ -1,0 +1,59 @@
+// Infinite Rocks
+FF3EEE:0063
+
+// Infinite Stones Of Pacal
+FF3EF0:0063
+
+// Infinite Lives
+FF3EEC:000A
+
+// Infinite Energy
+FF34DA:0000
+
+// Walk thru walls (2600 version)
+RYGA-N60L
+
+// Walk thru scorpions, snakes, and logs without any damage (Atari 2600 version)
+ABST-LA6C
+
+// Infinite time (Atari 2600 version)
+AX8A-LA2L
+
+// Infinite lives (Atari 2600 version)
+AX7T-LA6T
+
+// Press B at the title screen to play the original Atari 2600 version of Pitfall
+8GMT-LEHG
+
+// Press C at the title screen for level select. See notes.
+ACNA-MP2N
+
+// Jump much higher when standing still
+85BA-H96R
+
+// Jump higher when standing still
+9HBA-H96R
+
+// Jump higher when running
+9HET-H93E
+
+// Jump much higher when running
+85ET-H93E
+
+// Press A at the title screen to start with 99 of every weapon
+ACNA-MV3C
+
+// Invincibility (walk thru most enemies)
+ACGT-GA3L
+
+// Start with 9 lives (Normal mode)
+BK1T-GAF4
+
+// Infinite lives
+AX8A-GA8Y
+
+// Quicksand pits stay closed longer
+2B4T-JCBW
+
+// Quicksand pits are always closed
+AK4A-JA84

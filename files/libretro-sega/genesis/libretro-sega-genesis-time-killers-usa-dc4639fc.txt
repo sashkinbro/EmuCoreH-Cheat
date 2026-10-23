@@ -1,0 +1,45 @@
+// One Hit Kill Cpu
+9XKT-HCH4
+PDKT-G9S8
+WSKT-GAH6
+
+// Infinite Energy
+9T2A-BCFJ
+WN2A-AAFL
+CY2A-A7PN
+
+// Cpu Never Gets The Round Like Won
+AL5A-GA6C
+
+// Infinite Energy P1
+FFAE14:0093
+
+// Infinite Energy P2
+FFAF68:0093
+
+// Infinite Time
+FF9640:000A
+
+// Character Modifier P1
+FF99F4:0000
+
+// Character Modifier P2
+FF99F6:0000
+
+// Infinite Credits P1
+FF96AC:0099
+
+// Infinite Credits P2
+FF96AE:0099
+
+// P1 Wins In Match Modifier (0-2)
+FFAF6C:0000
+
+// P2 Wins In Match Modifier (0-2)
+FFAF6E:0000
+
+// P1's Number of Total Losses Modifier
+FF9A36:0000
+
+// P2's Number of Total Wins Modifier
+FF9A38:0000

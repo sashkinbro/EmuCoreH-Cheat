@@ -1,0 +1,14 @@
+// Chuck Is Immune To Enemy Attack
+02EC9E:6002
+
+// Allows Chuck To Walk On Lava
+02B166:6002
+
+// Removes All Enemies From The Game
+02EC38:6004
+
+// Infinite Chucks
+02EB88:4E71
+
+// Use To Skip Through Levels
+02EB62:6002

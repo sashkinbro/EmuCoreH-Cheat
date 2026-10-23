@@ -1,0 +1,15 @@
+// After A Power Pill Runs Out, The Ghosts Go Mad
+C92-D1A-C45
+
+// Infinite Lives
+00C-F29-19E
+
+// Start With 1 Life
+014-DF9-E66
+
+// Start With 9 Lives
+094-DF9-E66
+
+// Ghosts Are Faster Than Normal After 1st Level
+3E1-93A-6EA
+099-94A-E62

@@ -1,0 +1,26 @@
+// Infinite Time
+00D9-2FB0
+
+// Infinite Time
+00D-C86-3B7
+
+// Invulnerability
+C97-29C-2A2
+
+// Infinite Lives
+00D9-2309
+
+// Infinite Energy
+00D9-2403
+
+// Infinite Lives
+3A5-5EC-2A2
+
+// Infinite Energy
+3AC-B36-2A2
+
+// Enable Practice Mode (Act Select) after Intro
+18C-BAD-6EA
+
+// Enable Practice Mode (Act Select) after Intro
+00D8-9A01

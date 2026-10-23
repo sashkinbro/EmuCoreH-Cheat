@@ -1,0 +1,36 @@
+// Infinite Lives - Both Players (except Alternating Game)
+00A-75D-3BE
+
+// Infinite Lives - Both Players (Alternating Game)
+6E4-E3B-3BF
+
+// Infinite Power Pill Time
+00D7-6882
+
+// P1 Infinite Lives (P2 also in alternating game)
+00DA-4E05
+
+// Infinite Power Pill Time
+3AF-44E-2A2
+
+// Start with ?? Lives, instead of 3 - Both Players
+04B-02D-E66
+
+// P2 Infinite Lives (except Alternating Game)
+00DA-9305
+
+// Invincibility
+185-9DC-2AA
+
+// Invincibility
+E55-A5C-3B2
+355-A6C-08E
+
+// Power Pill always lasts as long as it does in the first level (the longest amount of time)
+007-AEC-A28
+
+// Select any Starting Level
+208-6DB-F76
+
+// Select any Starting Level
+00DE-FC20

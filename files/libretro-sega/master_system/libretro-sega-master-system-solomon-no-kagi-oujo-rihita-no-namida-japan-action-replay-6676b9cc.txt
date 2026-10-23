@@ -1,0 +1,8 @@
+// Infinite Lives
+00C4-A909
+
+// Infinite Time (First Two Digits)
+00C4-9399
+
+// Infinite Time (Last Two Digits)
+00C4-9499

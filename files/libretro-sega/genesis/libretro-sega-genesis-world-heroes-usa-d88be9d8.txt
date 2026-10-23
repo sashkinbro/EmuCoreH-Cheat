@@ -1,0 +1,41 @@
+// Auto block againt kick/punch PL1
+AK0B-RAHY
+
+// Auto Block against grabbing PL1
+ABYB-TA82
+
+// Infinite Energy
+K64B-XY62
+2Y4B-XGPC
+964B-WAFE
+XA4B-WCFG
+
+// Infinite Energy P1
+FF0198:004F
+
+// P1 Dies One Hit
+FF0198:0000
+
+// Infinite Energy P2
+FF1D6E:004F
+
+// P2 Dies One Hit
+FF1D6E:0000
+
+// Infinite Time (Tens Digit)
+FF4062:0009
+
+// Infinite Time (Ones Digit)
+FF4062:0009
+
+// P1 Highlighter Code
+FF0094:0000
+
+// P2 Highlighter Code
+FF0096:0000
+
+// P1 Character Modifier
+FF014C:0000
+
+// P2 Character Modifier
+FF1D22:0000

@@ -1,0 +1,76 @@
+// Infinite Lives
+AE2A-TAAA
+
+// Infinte Energy
+FFF376:0010
+
+// Invincibilty
+FF4828:00FF
+
+// Go To Final Stage
+FFF34E:001A
+
+// Regional Lockout Bypass Code
+R0ZT-R6XR
+
+// Invincibility
+AT2A-TA7N
+
+// Infinite Energy (Hearts)
+ATTA-TA7N
+
+// Infinite Time
+FFF372:0009
+
+// Fake Infinite Time
+FF44EC:0069
+
+// Infinite Hearts
+FFF376:0004
+
+// Infinite Lives
+FFF370:0009
+
+// Infinite Leaves
+FFF36E:0009
+
+// Invincibility
+RYTA-T6Y4
+R0VA-T614
+RYNA-T6Y6
+R0PT-T61E
+
+// Enabled Cheat Code Debug Main Menu In Game Press A+Start
+RGPT-R60N
+
+// Infinite Controllable Jump In High Lifting Jump
+ADYT-RABC
+
+// Infinite Controllable Jump In Slow Lifting Jump
+ADYT-RAB2
+
+// Infinite Controllable Jump In Slow Lifting Jump And Moon Descent
+FF1818:0000
+
+// Start each level with much more time
+9T4A-VGST
+BE4A-TWHW
+
+// Infinite time
+AMHA-TA96
+
+// Start with 7 Lives
+BA4T-TAGC
+
+// Start with 9 Lives
+BJ4T-TAGC
+
+// Infinite energy (hearts) in Descent/Luge level
+C2NA-TA66
+C2NT-TA8Y
+
+// Freezes the log on Falaise / Cliff level, and gets rid of the lava in Volcano levels
+AW8T-TA8G
+
+// The bubble will not burst in the Mur / Gargamel's Manor House level
+RZJA-T6TN

@@ -1,0 +1,29 @@
+// Hyper Jim
+00C1-6309
+
+// Infinite Bullets
+00C1-93FF
+
+// Infinite Health
+00C1-D764
+
+// Infinite Lives
+00C1-D60A
+
+// Invulnerability
+00C1-9910
+
+// Invulnerability
+C9F-46D-E69
+
+// No Death From Losing All Your Health
+C93-B7C-E69
+
+// Infinite Health
+003-B0C-A2C
+
+// Infinite Bullets
+3A5-57A-2A2
+
+// Infinite Lives
+004-0DC-19E

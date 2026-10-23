@@ -1,0 +1,88 @@
+// Infinite Energy
+AJJT-CA8T
+
+// Region Bypass
+A22T-AA62
+
+// Infinite Gold
+FFDA80:00FF
+
+// Infinite Elixir
+FFDAA8:00FF
+
+// Invincible
+FFCC70:005D
+
+// Enemies Do No Damage
+AAHT-CA8N
+
+// Coins dropped worth 65,535
+A8NA-EEP8
+
+// Invincible
+RYHT-C60C
+
+// Fast Walking + High Jump
+LAKA-CS4J
+
+// Infinite Gold
+ALFA-EA98
+ALZT-CA60
+
+// Infinite Elixir
+V0WT-CGSY
+
+// Stay Invincible (Flashing) Twice As Long After Getting Hit
+96KA-CAAE
+
+// Once You're Hit, You'll Stay Invincible (Flashing) Until You Kneel Before A Statue To Recover Your Health, Or When You Go To A New Level
+AJKA-CA3R
+
+// Life Drops Are Worth 2 (Instead of 1)
+SCNT-FJTW
+
+// Life Drops Are Worth 4 (Instead of 1)
+SCNT-FTTW
+
+// Life Drops Are Worth 8 (Instead of 1)
+SCNT-FATW
+
+// You Only Need 5 Life Drops For An Extra Heart (Instead of 10)
+A0NT-EAA2
+
+// You Only Need 2 Life Drops For An Extra Heart (Instead of 10)
+ALNT-EAA2
+
+// Have 39,000 Gold
+FFDA80:9999
+
+// Max Blue Hearts
+FFDA7A:000F
+
+// Infinite Blue Hearts
+FFDA76:000F
+
+// High jump.
+EAKT-CAHA
+
+// Super high jump.
+CAKT-CAHA
+
+// 1 Hit Kill Enemies
+PEVA-AETA
+
+// 1 Hit Kill Bosses
+PDDT-CE1G
+PABT-EEYG
+PAET-EE1L
+
+// Infinite Elixir
+ALWT-CA9Y
+
+// Untouchable
+RYTT-A6V4
+RZ7A-C612
+RZ6T-C6Y0
+
+// Infinite Red Hearts
+FFDA84:0003

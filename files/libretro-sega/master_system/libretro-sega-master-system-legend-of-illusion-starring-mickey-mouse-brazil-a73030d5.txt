@@ -1,0 +1,8 @@
+// Infinite Lives
+00C3-0409
+
+// Infinite Hearts (Hits)
+00C3-0509
+
+// Infinite Lives
+002-29A-3BE

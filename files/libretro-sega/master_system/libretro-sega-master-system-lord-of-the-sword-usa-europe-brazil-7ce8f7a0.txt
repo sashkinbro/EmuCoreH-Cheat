@@ -1,0 +1,8 @@
+// Invulnerability
+00C1-2C76
+
+// Invulnerability
+005-07E-19B
+
+// Infinite Health
+00C1-292F

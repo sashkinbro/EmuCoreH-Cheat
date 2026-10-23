@@ -1,0 +1,35 @@
+// Invisible
+00DE-1504
+
+// Invulnerability
+00DE-1678
+
+// Invulnerability
+008-FB8-19B
+
+// Infinite Lives
+00DD-EC03
+
+// Invincibility (blinking)
+2A8-F88-6E2
+
+// Infinite Lives
+B69-645-3BE
+
+// Start with ?? Lives, instead of 3
+046-768-E66
+
+// Weapon Modifier
+00DE-1200
+
+// Infinite Time
+009-0B4-3BE
+
+// Infinite Time Underwater
+3A6-DB5-2A2
+
+// Infinite Time
+00DD-FBFF
+
+// Infinite Time Underwater
+00DD-E5FF

@@ -1,0 +1,2 @@
+// Infinite Shurikens
+FF013A:0999

@@ -1,0 +1,207 @@
+// Infinite continues
+AW2A-AA96
+
+// Start with 20 continues
+CT3A-AABC
+
+// Start with 10 continues
+BJ3A-AABC
+
+// Start with 5 continues
+AY3A-AABC
+
+// Start with 1 continue
+AE3A-AABC
+
+// Start with 0 continues
+AA3A-AABC
+
+// Extra continue never awarded
+AX9T-AA90
+
+// Shields are recharged faster (2x) on power conversion units
+L3PT-DJXN
+
+// Shields are recharged much faster (8x) on power conversion units
+L3PT-DAXN
+
+// Shields are not restored on power conversion units
+BBPT-CA5N
+
+// Thruster packs don't cool down when you are on the ground
+AVGA-AA9L
+
+// Thruster packs don't cool down when you are in the air
+AVJA-AA3C
+
+// Thruster packs don't cool down when you are on the cycle
+AVFA-AA9T
+
+// Thruster packs never heat up
+CBHT-AA92
+
+// Thruster packs heat up at a constant slow rate
+SFHT-BG12
+
+// Thruster packs heat up at a constant fast rate
+SFHT-B412
+
+// Infinite weapon power
+ALTT-AA6C
+
+// Weapon power not reduced when shields are recharged
+ABPT-CADT
+
+// Start with all weapons available
+AKYA-AA6C
+
+// Get two undocumented weapons
+AKYA-AA3C
+
+// Infinite Energy
+SGWA-BD00
+AWVT-AA9W
+
+// Infinite Power
+AW0T-AA7C
+
+// Invincibility
+AC1A-AN76
+ABMT-AN56
+AB7A-AN70
+ABYA-AN9C
+
+// Access the secret/hidden level.
+9T3A-BGNT
+B23A-AAEW
+
+// Extra Continue Every 50,000 Points
+A19T-AAG8
+A19T-AAHC
+
+// Extra Continue Every 100,000 Points
+BM9T-AAG8
+BM9T-AAHC
+
+// Extra Continue Every 300,000 Points
+D59T-AAG8
+D59T-AAHC
+
+// Extra Continue Every 500,000 Points
+GM9T-AAG8
+GM9T-AAHC
+
+// Invincible In Ex-Up Cycle
+2WWT-AA4E
+AWWA-AA40
+
+// Invincible Out Of Ex-Up Cycle
+AWVT-AA9W
+GLWA-AA80
+
+// Start With Ex-Up Vehicle Shields At 1/2
+EC2T-AAA6
+EA6T-AAB4
+
+// Start With Ex-Up Vehicle Shields At 1/4
+CC2T-AAA6
+CA6T-AAB4
+
+// Start With Ex-Up Vehicle Shields Nearly Gone
+AG2T-AAA6
+AE6T-AAB4
+
+// Start With Ranger X Shields At 1/2
+EC2T-AAAY
+EA6T-AABW
+
+// Start With Ranger X Shields At 1/4
+CC2T-AAAY
+CA6T-AABW
+
+// Start With Ranger X Shields Nearly Gone
+AG2T-AAAY
+AE6T-AABW
+
+// Thruster Packs Don't Cool Down When You Are In The Air Up At A Constant Fast Rate
+AVFA-AA9T
+AVJA-AA3C
+
+// Improved Invincibility
+AW1A-AA8A
+
+// Booster Always On
+CFGA-AAWT
+
+// Hover On Your Feet
+CFGA-AAW2
+
+// Fast Mode
+E3EA-AAAA
+
+// The Ranger X Have No Legs
+GVPA-AA28
+
+// Invincible To Attacks, Which Stun Ranger-X (Acid, Etc.)
+ACVT-AA76
+
+// Invincible To Attacks, Which Throw Ranger-X Away (Bullets, Etc.)
+ACWA-AA6Y
+
+// Infinite Fuel
+AVHT-AA92
+
+// Counter of Enemies Is Always Zero (Breeze Through Stages)
+AWTA-AA48
+
+// Invincibility
+YVGA-BP38
+
+// All Stages Complete
+AE4A-AAHE
+
+// Pack Booster Is On Top
+NBNA-AJXT
+
+// No Pack Booster (But You Can Still Fly)
+NBNA-ARDC
+
+// The Flames Is On The End of The Pack Booster
+NBNA-ANBC
+
+// No Flames Come Out of The Pack Booster
+NBNA-AV64
+
+// Game Turns Different Colors When Flying
+NBNA-ALY8
+
+// Game Starts Over
+NANA-ALYJ
+
+// Infinite Health
+FFD722:0063
+
+// Infinite Power
+FFD6FE:0063
+
+// &quot;Power Generators&quot; Remaining Modifier (Visual Only)
+FFE652:0000
+
+// Access Hidden Level
+FFCC74:000E
+
+// Infinite AirLift
+AVHT-AA92
+
+// Pause the game and press A for slow motion, or press B to skip to the next level
+ABRT-AA3C
+AKRT-AA4T
+
+// Makes the Pulse Rifle 5x stronger when on foot
+AZPT-AABW
+
+// Makes the Pulse Rifle 5x stronger when inside the Unicycle
+AZ3A-AAEA
+
+// Makes the Flamethrower 5x stronger
+AZZA-AABL

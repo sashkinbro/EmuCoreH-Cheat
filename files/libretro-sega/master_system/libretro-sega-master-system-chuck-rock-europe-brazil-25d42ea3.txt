@@ -1,0 +1,26 @@
+// Level Select
+00C0-8C02
+
+// Invulnerability
+00C1-1102
+
+// Invulnerability
+B63-F1D-3B4
+
+// Infinite Lives
+00C0-8E03
+
+// Infinite Health
+00C0-8F05
+
+// Infinite Lives
+003-E8E-3BE
+
+// Enable Infinite Health and Level Skip Cheats
+00C0-0A01
+
+// Infinite Health
+B6A-5DD-3BE
+
+// Disable Infinite Health and Level Skip Cheats
+00C0-0A00

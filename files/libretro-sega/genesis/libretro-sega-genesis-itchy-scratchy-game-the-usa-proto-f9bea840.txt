@@ -1,0 +1,38 @@
+// Infinite Lives
+AV7A-CA94
+
+// Infinite Energy
+AK7A-CA8J
+
+// Infinite Time
+RZ7A-C6TC
+
+// Infinite Time
+FF051A:0059
+
+// Infinite Lives
+FF0508:0009
+
+// Infinite Weapons
+FF083E:000A
+
+// Invincibility - Untouchable
+RYBA-E6ZT
+R07T-C6Y8
+RYWT-E6Y4
+RYPA-E6YA
+
+// Infinite Weapons Only For Bosses
+AL8A-CA4T
+
+// Invincibility
+FF07E8:0010
+
+// Infinite Weapons
+AA6A-6AH6
+
+// Freeze Time Continue
+FF0BB8:0010
+
+// Start With ?? Lives
+AZWA-CACY

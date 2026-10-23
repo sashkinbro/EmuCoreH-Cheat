@@ -1,0 +1,20 @@
+// Infinite Lives
+00C4-7F09
+
+// Infinite Health
+00C4-81FE
+
+// Infinite Ammo Grenade
+00C5-1B99
+
+// Infinite Ammo Machine Gun
+00C5-1C99
+
+// Infinite Ammo Shotgun
+00C5-1D99
+
+// Infinite Ammo Death Disc
+00C5-1E99
+
+// Infinite Ammo 3-Way Machine Gun
+00C5-1F99

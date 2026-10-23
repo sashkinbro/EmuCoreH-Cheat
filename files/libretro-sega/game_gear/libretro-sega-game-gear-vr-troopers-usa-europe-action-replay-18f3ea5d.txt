@@ -1,0 +1,11 @@
+// Infinite Health For P1 (In Fighting Mode)
+00CD-DC38
+
+// No Health For CPU/P2 (In Fighting Mode)
+00CD-E400
+
+// Infinite Time (Ten's Digit)
+00CD-F509
+
+// Infinite Time (One's Digit)
+00CD-F409

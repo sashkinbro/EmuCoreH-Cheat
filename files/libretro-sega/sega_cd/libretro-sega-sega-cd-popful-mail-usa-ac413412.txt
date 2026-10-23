@@ -1,0 +1,35 @@
+// Infinite Gold
+FFEBF2:C350
+
+// Teleport to Top of Screen
+FFA020:0100
+
+// Mail All Equipment
+FFEBCC:FFFF
+FFEBCE:00FF
+
+// Tatto All Equipment
+FFEBDC:FFFF
+FFEBDE:00FF
+
+// Gaw All Equipment
+FFEBEC:FFFF
+FFEBEE:00FF
+
+// Max Amulet
+FFEBF6:0063
+
+// Max Stone Shoes
+FFEBF8:0063
+
+// Max Spiked Boots
+FFEBFA:0063
+
+// Max Cherry
+FFEBFC:0063
+
+// Max Banana
+FFEBFE:0063
+
+// Max Gold Bullion
+FFEC04:0063

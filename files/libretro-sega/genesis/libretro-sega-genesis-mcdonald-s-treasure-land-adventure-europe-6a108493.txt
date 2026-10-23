@@ -1,0 +1,37 @@
+// Enabled Cheat Code Stage Select/Selection Languages In Options
+DDHA-AA2J
+NMHA-AA66
+
+// Infinite Lives
+AKET-CA64
+
+// Infinite Jewels (Health)
+AC0T-AAFN
+AL1T-AA3N
+
+// Invincibility
+R00T-A6X2
+
+// Infinite Golds
+AVRA-CA3A
+
+// Infinite Balloons
+AJXA-CA5L
+
+// Infinite m Continue
+AKMT-CA44
+
+// Freeze Time Continue
+AKMA-CA7J
+
+// Infinite Magic Power-Up After The Death
+AL1T-EA9Y
+
+// Keep Gold Rings After The Death
+AL2A-EA70
+
+// Keep Silver Rings After The Death
+AL2A-EA78
+
+// Keep Three Silver Rings After Touching Enemies
+AKJA-CA4T

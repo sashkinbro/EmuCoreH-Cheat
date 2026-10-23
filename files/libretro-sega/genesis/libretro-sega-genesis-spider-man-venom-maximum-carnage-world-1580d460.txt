@@ -1,0 +1,281 @@
+// One Hit Kill For Enemies
+AC5B-5AXT
+
+// Always use power hit
+CHXV-4V34
+
+// You Always Blink
+AL3B-5A6C
+
+// Hit enemies anywhere
+HR4B-5SCE
+
+// Super jump
+DXBB-5XD2
+
+// Combo punch
+AC5V-4TVG
+
+// Ice board
+ACBB-4KYJ
+
+// Venom now plays stage 1
+EBNV-42EC
+
+// Cannot climb wall
+FCAB-5ABA
+
+// Infinite lives
+ADNB-4AD8
+
+// Infinite continues
+AKZB-4A8R
+
+// Invincibility
+AM5V-4A9E
+
+// Infinite help icons
+AJRV-4A4J
+
+// Start with 1 of each superhero icon
+AETV-5A8L
+
+// Start with 2 of each superhero icon
+AJTV-5A8L
+
+// Start with 3 of each superhero icon
+ANTV-5A8L
+
+// Start with 5 of each superhero icon
+AYTV-5A8L
+
+// Start with 7 of each superhero icon
+A6TV-5A8L
+
+// Start with 9 of each superhero icon
+BETV-5A8L
+
+// Start with 1/3 health
+CB4B-6AE8
+
+// Start with 2/3 health
+EB4B-6AE8
+
+// Start with more health
+JB4B-6AE8
+
+// Start with much more health
+LB4B-6AE8
+
+// Start with double health
+NB4B-6AE8
+
+// Start with 1 life
+AF4B-6AFE
+
+// Start with 2 lives
+AK4B-6AFE
+
+// Start with 4 lives
+AV4B-6AFE
+
+// Start with 5 lives
+AZ4B-6AFE
+
+// Start with 7 lives
+A74B-6AFE
+
+// Start with 9 lives
+BF4B-6AFE
+
+// Start with no continues
+AB4B-6AFL
+
+// Start with 2 continues
+AK4B-6AFL
+
+// Start with 3 continues
+AP4B-6AFL
+
+// Start with 4 continues
+AV4B-6AFL
+
+// Start with 5 continues
+AZ4B-6AFL
+
+// Start with 7 continues
+A74B-6AFL
+
+// Start with 9 continues
+BF4B-6AFL
+
+// Start on level 2
+AVWV-4AFA
+
+// Start on level 3
+A3WV-4AFA
+
+// Start on level 4
+BBWV-4AFA
+
+// Start on level 5
+BKWV-4AFA
+
+// Start on level 6
+BVWV-4AFA
+
+// Start on level 7
+B3WV-4AFA
+
+// Start on level 8
+CBWV-4AFA
+
+// Start on level 9
+CKWV-4AFA
+
+// Start on level 10
+CVWV-4AFA
+
+// Start on level 11
+C3WV-4AFA
+
+// Start on level 12
+DBWV-4AFA
+
+// Start on level 13
+DKWV-4AFA
+
+// Start on level 14
+DVWV-4AFA
+
+// Start on level 15
+D3WV-4AFA
+
+// Start on level 16
+EBWV-4AFA
+
+// Start on level 17
+EKWV-4AFA
+
+// Start on level 18
+EVWV-4AFA
+
+// Start on level 19
+E3WV-4AFA
+
+// Start on level 20
+FBWV-4AFA
+
+// Start on level 21
+FKWV-4AFA
+
+// Infinite Lives
+AMNV-4A5Y
+
+// Invincibility
+AD4V-4R5G
+
+// Infinite Health P1
+FF0966:0063
+
+// Infinite Lives P1
+FF077E:0009
+
+// Infinite Time At Continue Screen
+FF1B34:0099
+
+// 1 Hit Enemies
+FF0BBE:0000
+FF0B46:0000
+FF0CAE:0000
+FF0C36:0000
+FF0D26:0000
+
+// 1 Hit Bosses
+FF0D9E:0000
+
+// Level Modifier
+FF07FC:0002
+
+// Infinite Black Cats
+FF08F8:0009
+
+// Infinite Daggers
+FF08FA:0009
+
+// Infinite Cloaks (Ignore HUD Value)
+FF08FC:0009
+
+// Infinite Morbius'
+FF08FE:0009
+
+// Infinite Firestars
+FF0900:0009
+
+// Infinite Captain Americas
+FF0902:0009
+
+// Infinite Iron Fists
+FF0904:0009
+
+// Infinite Deathloks
+FF0906:0009
+
+// Infinite Venoms With Sonic Gun
+FF0908:0009
+
+// 1st Enemy Character Modifier
+FF0B6A:0000
+FF0B6C:0000
+FF0B6C:0000
+FF0B6E:0000
+
+// 2nd Enemy Character Modifier
+FF0BE2:0000
+FF0BE4:0000
+FF0BE4:0000
+FF0BE6:0000
+
+// 3rd Enemy Character Modifier
+FF0C5A:0000
+FF0C5C:0000
+FF0C5E:0000
+FF0C5E:0000
+
+// 4th Enemy Character Modifier
+FF0CD2:0000
+FF0CD4:0000
+FF0CD4:0000
+FF0CD6:0000
+
+// 5th Enemy Character Modifier
+FF0D4A:0000
+FF0D4C:0000
+FF0D4C:0000
+FF0D4E:0000
+
+// 6th Enemy Character Modifier
+FF0DC2:0000
+FF0DC4:0000
+FF0DC4:0000
+FF0DC6:0000
+
+// Skip Intro Screens
+AW1B-4A52
+
+// Freeze Time Continue
+AKFB-4A8N
+
+// Invincibility
+R14V-46XC
+RZCB-26VE
+RZHB-26Z8
+
+// Hit all enemies from anywhere
+AC4B-4ACE
+
+// 1 hit kill for all enemies and bosses
+AC5B-4NDT
+
+// Always fight the green gangs
+AD7V-4CC4

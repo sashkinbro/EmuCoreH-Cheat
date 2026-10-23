@@ -1,0 +1,28 @@
+// Infinite Energy
+AL4A-CA8E
+
+// Infinite Charge
+ALRA-CA78
+AL5A-CA5N
+
+// Invincibility
+ALFT-CA5N
+
+// Double Speed
+ALFT-CADW
+
+// Hyper Speed
+BLFT-CADW
+
+// Infinite Energy
+FFFE20:0004
+
+// Infinite Charge
+FFB7F8:0008
+
+// Invincibility
+FFB00E:0048
+018B6C:6002
+
+// Infinite Health Alt
+AMET-CA8G

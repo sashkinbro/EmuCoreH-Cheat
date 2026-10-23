@@ -1,0 +1,23 @@
+// Infinite Health P1
+00C0-9050
+
+// No Health P2
+00C0-9300
+
+// Time Modifier
+00C2-0000
+
+// Amakusa Unlocked
+00C0-7580
+
+// Amakusa Showing On Character Select Screen
+181-2FE-6EA
+
+// Infinite Time
+00E-4ED-3BE
+
+// P1 Infinite Health
+01D-8FD-E69
+
+// Unlock Amakusa on character select screen (Enable before Takara Logo)
+00B-A9F-F7E

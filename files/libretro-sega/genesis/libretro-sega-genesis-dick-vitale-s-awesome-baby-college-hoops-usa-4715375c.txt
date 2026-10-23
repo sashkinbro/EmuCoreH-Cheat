@@ -1,0 +1,21 @@
+// P1 Score Modifier
+FF1734:0000
+
+// P2 Score Modifer
+FF1738:0000
+
+// Infinite Time
+FF1718:0052
+
+// High Score Team 1 (P1)
+FF1734:0025
+
+// Score Modifier Team 2 (P2/CPU)
+FF1738:0000
+
+// Put Secret teams on Map
+E4KT-AASJ
+E8KT-ACSE
+FGKT-AERY
+ERKT-ALSL
+EWKT-ATSW

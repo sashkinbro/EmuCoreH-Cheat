@@ -1,0 +1,17 @@
+// Pick-Up One &quot;Z&quot; For Max Gun Power
+00C0-1E03
+
+// Invincibility
+C99-DEE-2A2
+
+// Infinite Lives
+00C0-1F09
+
+// Infinite Health
+00C0-1847
+
+// Infinite Health
+3A9-DEE-2A2
+
+// Infinite Lives
+B6E-90B-3BE

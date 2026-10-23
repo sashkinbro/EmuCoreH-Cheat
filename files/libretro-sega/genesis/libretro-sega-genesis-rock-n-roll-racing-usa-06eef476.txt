@@ -1,0 +1,246 @@
+// A first place finish is worth 800 points
+GGMA-BAT0
+
+// A second place finish is worth 800 points
+GGMA-BAVT
+
+// A third place finish is worth 800 points
+GGMA-BAWY
+
+// Player 1 starts a new game with $80,000
+BAPT-AAA2
+
+// Player 1 starts a new game with $250,000
+EYPT-AAA2
+
+// Player 1 starts a new game with $750,000
+RYPT-AAA2
+
+// Player 2 starts a new game with $80,000
+BAPT-AABA
+
+// Player 2 starts a new game with $250,000
+EYPT-AABA
+
+// Player 2 starts a new game with $750,000
+RYPT-AABA
+
+// All cars and equipment are free
+AV3T-AA6A
+A33T-AA62
+
+// Your car starts each race with twice as much health
+BDSA-A2CJ
+
+// You can always advance to the next level, even if you don't have enough points
+NT2A-DWLJ
+
+// Play As Olaf
+FFB8F8:1700
+FFB8FA:0601
+
+// Car Modifier
+FFB8FE:0000
+
+// Infinite Armor
+FFD19E:000C
+
+// Infinite Vk Plasma Riffle
+FFD156:0009
+
+// Infinite Bf's Slip Sauce
+FFD15A:000D
+
+// Infinite Locust Jump Jets
+FFD16E:0009
+
+// Infinite Bear Claw Mine
+FFD152:0009
+
+// Infinite Rogue Missile
+FFD15E:0009
+
+// Infinite Lightning Nitro
+FFD16A:0009
+
+// Infinite K.Os Scatterpack
+FFD166:0009
+
+// Infinite Sundog Beam
+FFD162:0009
+
+// Infinite Vk Plasma Riffle
+AMHA-AA6E
+
+// Infinite Bf's Slip Sauce
+AM0T-AA3J
+
+// Infinite Locust Jump Jets
+AMLT-AA44
+
+// Infinite Bear Claw Mine
+AM0T-AA8C
+
+// Infinite Rogue Missile
+AMJA-AA28
+
+// Infinite Lightning Nitro
+AMYA-AA96
+
+// Infinite K.Os Scatterpack
+AMJA-AA9W
+
+// Infinite Sundog Beam
+AMHT-AA52
+
+// Enable Olaf In The Character Select Screen
+BB2A-AN30
+
+// Buy The Battle Track Instead Of The Marauder In Chem Vi
+ABLT-ACAW
+
+// Buy The Havac Instead Of The Dirt Devil In Chem Vi
+AFLT-AAA2
+
+// Buy The Havac Instead Of The Dirt Devil In Drakonis
+AVLT-ACAY
+
+// Buy The Battle Track Instead Of The Marauder In Drakonis And The Havac Instead Of The Marauder In Bogmire
+AFLT-AAA4
+
+// Buy The Havac Instead Of The Marauder In New Mojave
+AVLT-ACA6
+
+// Infinite Energy
+9THT-DCM6
+A2HT-CND8
+X2HT-DDYA
+
+// Always Finish First
+HDGA-AEV4
+A9GA-A9V6
+PDGA-AEV8
+LDGA-B94A
+RHGA-A6WC
+
+// Infinite Energy
+FFD19E:0606
+
+// Always Finish First
+FFCF06:0000
+FFCF08:0000
+FFCF08:0000
+
+// Don't Loose Energy In Crashes
+AJYA-CA7E
+
+// Don't Loose Energy By Touching Mines
+AMZT-AA8L
+
+// Don't Loose Energy By Enemy Shots
+AM4T-AA46
+
+// Buy Anything No Matter How Much Money You Have
+BB3T-AA8A
+
+// Enables an unknown character to be selected
+BB2A-AN32
+
+// Infinite Health P1 (In Race)
+FFD19E:0006
+
+// Planet Modifier P1 (At Character Select)
+FFB95C:0000
+
+// Character For P1 Image Modifier (At Character Select)
+FFD31E:0000
+
+// Have Lots of Money
+FFD322:0064
+FFD324:0064
+FFD324:0064
+
+// Lap Modifier
+FFD1B0:0000
+
+// Have Lots of Points (ie. To Advance To The Next Race)
+FFB964:0058
+
+// Have Infinite Missiles (1st Weapon In Race)
+FFD15E:0009
+
+// Have Infinite Nitros (2nd Weapon In Race)
+FFD16A:0009
+
+// Have Infinite Land Mines (3rd Weapon In Race)
+FFD152:0009
+
+// Have All Skin Upgrades
+FFB99C:0003
+
+// Have All Engine Upgrades
+FFB99A:0003
+
+// Have All Ammunition Upgrades
+FFB972:0007
+
+// Have All Charges Upgrades
+FFB974:0007
+
+// Have All Hydrosprings Upgrades
+FFB99E:0003
+
+// Have All Rounds Upgrades
+FFB970:0007
+
+// Have All Tire Upgrades
+FFB99C:0003
+
+// Enable Drive Anywhere Cheat
+FFCE2E:0000
+
+// Infinite Money - Both Players
+A33T-AA62
+
+// Enable Drive Anywhere Cheat
+REKA-C6YJ
+ADMT-AA2W
+
+// Unlock Olaf in Character Select Screen
+RF2A-A6V8
+AV2A-AA2C
+
+// Unlock Inferno Planet in Vs. Mode
+RF1T-A6Z4
+AV1T-AA6T
+
+// Disable Drive Anywhere Cheat
+FFCE2E:0001
+
+// Enable Infinite Forward Weapon Ammo Cheat
+RF7A-A60L
+
+// Press Up on the pre-race screen for an additional $250,000
+CJRA-BE8W
+
+// Press Up on the pre-race screen for an additional $1,000
+CJRA-BE8W
+AAZT-AAA4
+AAZT-BAA6
+
+// Press Up on the pre-race screen for an additional $5,000
+CJRA-BE8W
+AAZT-AAA4
+AAZT-BAT6
+
+// Press Up on the pre-race screen for an additional $10,000
+CJRA-BE8W
+AEZT-AAA4
+
+// Press Up on the pre-race screen for an additional $50,000
+CJRA-BE8W
+AYZT-AAA4
+
+// Press Up on the pre-race screen for an additional $100,000
+CJRA-BE8W
+CAZT-AAA4

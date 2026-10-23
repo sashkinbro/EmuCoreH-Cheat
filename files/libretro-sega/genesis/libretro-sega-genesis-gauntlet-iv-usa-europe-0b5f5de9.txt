@@ -1,0 +1,142 @@
+// Invincible!
+BBKT-AA8T
+
+// Don't lose health from time passing
+RFKT-A6VA
+
+// Maximum health per coin in 3,000
+1BYA-E0GE
+
+// Maximum health per coin in 5,000
+VBYA-FGGE
+
+// Maximum health per coin in 10,000
+CBYA-ERRE
+
+// Infinite keys on pick-up (can switch on/off)
+AKXT-AA66
+RFXT-A6X4
+
+// You can open doors without a key
+RFXT-A6X4
+
+// Infinite potions on pick-up (can switch on/off)
+AKGT-AA5W
+
+// You can use a potion even if you don't have one
+AKGT-AA3G
+AKGT-AASW
+
+// Temporary invisibility lasts 1/3x normal
+PB4T-ACAY
+
+// Temporary invisibility lasts 1/2x normal
+DV4T-AEAY
+
+// Temporary invisibility lasts 2x normal
+RB4T-ATAY
+
+// Temporary invisibility lasts 3x normal
+ZB4T-A2AY
+
+// Temporary invisibility lasts forever
+REFA-E6YL
+
+// Set attributes to anything you want in Camp
+AJDA-CA5Y
+AJCT-CA84
+
+// All items that you can afford are free
+AM9T-AA58
+
+// All items are free
+B59A-AA86
+
+// Start with heal drink, warp wing and all rings from vendors
+H6BA-CACA
+
+// Don't lose heal drink when used
+AJ2A-CA54
+
+// Don't lose warp wing when used
+AJ2A-CA8C
+
+// Start Arcade mode on Level 10
+BJGA-AAD0
+BJGA-AADE
+
+// Start Arcade mode on Level 20
+CTGA-AAD0
+CTGA-AADE
+
+// Start Arcade mode on Level 50
+GJGA-AAD0
+GJGA-AADE
+
+// Start Arcade mode on Level 100
+NTGA-AAD0
+NTGA-AADE
+
+// Infinite Health
+ABKT-AAGW
+
+// Infinite Keys
+AKXT-AA66
+
+// Infinite Health
+FF00F8:270F
+
+// Infinite Keys
+FF010C:0001
+
+// Walk through walls.
+RZXT-A6VT
+RZ0T-A6W4
+
+// Select Up to 99 Credits Per Player
+NPBA-FA9C
+NPBA-EAG8
+
+// Start Arcade Mode On Level 10
+BJGA-AAD0
+BJGA-AADE
+
+// Start Arcade Mode On Level 20
+CTGA-AAD0
+CTGA-AADE
+
+// Start Arcade Mode On Level 50
+GJGA-AAD0
+GJGA-AADE
+
+// Start Arcade Mode On Level 100
+NTGA-AAD0
+NTGA-AADE
+
+// Infinite Keys On Pick-Up (Can Switch On/Off)
+AKXT-AA66
+RFXT-A6X4
+
+// You Can Use A Potion Even If You Don't Have One
+AKGT-AA3G
+AKGT-AASW
+
+// Set Attributes To Anything You Want In Camp
+AJDA-CA5Y
+AJCT-CA84
+
+// Infinite Health P1
+FF00F8:00CF
+
+// Score Modifiers P1
+FF0108:0000
+FF0108:0000
+
+// Infinite Health P2
+FF03BC:00CF
+
+// Infinite Credits (All Players)
+FFE772:0063
+
+// Your weapons (axe, arrows, etc) can go thru walls
+R0ET-A6TL

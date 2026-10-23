@@ -1,0 +1,43 @@
+// Have $65, 280
+FFD5CC:FFFF
+
+// HOUR Mod
+FFD67E:0000
+
+// Have all lines
+FFD5E2:00FF
+
+// Have Max Crankbaits
+FFD5E4:00FF
+FFD5E4:00FF
+FFD5E6:00FF
+FFD5E6:00FF
+
+// Have Max Grubs
+FFD5E8:00FF
+
+// Have Max Tailspinners
+FFD5E8:00FF
+
+// Have Max Jig And Pig
+FFD5EA:00FF
+
+// Have Max Plastic Worms
+FFD5EA:00FF
+FFD5EC:00FF
+FFD5EC:00FF
+
+// Have Max Poppers
+FFD5EE:00FF
+
+// Have Max Propeller Bait
+FFD5EE:00FF
+
+// Have Max Jigging Spoons
+FFD5F0:00FF
+
+// Character Select Modifier
+FFD5C2:0000
+
+// Title intro music / sound effect / DAC/PCM sample modifier
+9TRT-AJ1Y

@@ -1,0 +1,42 @@
+// Infinite Time
+00CC-0A09
+
+// Infinite Time
+C93-F6E-2A2
+
+// Boot Game Into Test Mode
+00C2-0001
+
+// Test mode
+010-79F-E6A
+
+// Infinite Lives
+3A5-34D-2A2
+
+// Infinite Continues
+00F-F9B-3BE
+
+// Hostages Rescued Modifier (Medal Icon)
+00CC-2E00
+
+// X Hostages Must Be Saved In Each Level (Hostage Icon)
+00CC-1D00
+
+// Infinite Lives
+00C1-1309
+
+// Infinite Continues (Credits)
+00C1-0609
+
+// Invincibility
+3A1-0DE-2A2
+3AC-85D-2A2
+3AC-38D-2A2
+3A6-AE8-2A2
+3AC-61D-2A2
+
+// Press Up, then 1 or 2 on the Title Screen for Test Mode Menu
+00C-99E-D56
+
+// Press 1 or 2 on the Title Screen for Test Mode Menu
+00CC-1B01

@@ -1,0 +1,44 @@
+// Infinite Health
+00D0-A708
+
+// Infinite Lives
+00D0-AB09
+
+// Start with 1 life
+01B-0BD-E66
+
+// Start with 5 lives
+05B-0BD-E66
+
+// Start with 9 lives
+09B-0BD-E66
+
+// Almost infinite bulbs
+00B-5ED-3B7
+
+// Start with 1 bulb
+01B-06D-E66
+
+// Start with 5 bulbs
+05B-06D-E66
+
+// Start with 9 bulbs
+09B-06D-E66
+
+// Lose all your bulbs on the 1st level and move on to the next level
+00B-0FD-5D4
+
+// Infinite Lives
+00CC-2507
+
+// Infinite Hits
+00CC-2103
+
+// Infinite Cash (Always $153)
+00CC-2399
+
+// Infinite Lives
+00C-BBD-2AD
+
+// Infinite Health
+C9B-4CD-C49

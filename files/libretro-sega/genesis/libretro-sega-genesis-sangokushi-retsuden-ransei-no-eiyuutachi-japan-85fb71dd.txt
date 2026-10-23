@@ -1,0 +1,441 @@
+// Dai Sian 999999 Gold
+FFE008:000F
+FFE00A:423F
+
+// Dai Sian 999999 Provision
+FFE0A8:000F
+FFE0AA:423F
+
+// Li Sian 999999 Gold
+FFE004:000F
+FFE006:423F
+
+// Li Sian 999999 Provision
+FFE0A4:000F
+FFE0A6:423F
+
+// Xin Du 999999 Gold
+FFE00C:000F
+FFE00E:423F
+
+// Xin Du 999999 Provision
+FFE0AC:000F
+FFE0AE:423F
+
+// Xu Chang 999999 Gold
+FFE05C:000F
+FFE05E:423F
+
+// Xu Chang 999999 Provision
+FFE0FC:000F
+FFE0FE:423F
+
+// Luo Yang 999999 Gold
+FFE034:000F
+FFE036:423F
+
+// Luo Yang 999999 Provision
+FFE0D4:000F
+FFE0D6:423F
+
+// Pu Yang 999999 Gold
+FFE018:000F
+FFE01A:423F
+
+// Pu Yang 999999 Provision
+FFE0B8:000F
+FFE0BA:423F
+
+// An Cheng 999999 Gold
+FFE038:000F
+FFE03A:423F
+
+// An Cheng 999999 Provision
+FFE0D8:000F
+FFE0DA:423F
+
+// Lin Liu 999999 Gold
+FFE010:000F
+FFE012:423F
+
+// Lin Liu 999999 Provision
+FFE0B0:000F
+FFE0B2:423F
+
+// Ping Yang 999999 Gold
+FFE050:000F
+FFE052:423F
+
+// Ping Yang 999999 Provision
+FFE0F0:000F
+FFE0F2:423F
+
+// Xi Ping 999999 Gold
+FFE000:000F
+FFE002:423F
+
+// Xi Ping 999999 Provision
+FFE0A0:000F
+FFE0A2:423F
+
+// Zhang An 999999 Gold
+FFE058:000F
+FFE05A:423F
+
+// Zhang An 999999 Provision
+FFE0F8:000F
+FFE0FA:423F
+
+// Xia Pi 999999 Gold
+FFE014:000F
+FFE016:423F
+
+// Xia Pi 999999 Provision
+FFE0B4:000F
+FFE0B6:000F
+
+// Xiang Yang 999999 Gold
+FFE064:000F
+FFE066:423F
+
+// Xiang Yang 999999 Provision
+FFE104:000F
+FFE106:423F
+
+// Han Zhong 999999 Gold
+FFE078:000F
+FFE07A:423F
+
+// Han Zhong 999999 Provision
+FFE118:000F
+FFE11A:423F
+
+// Xin Ye 999999 Gold
+FFE03C:000F
+FFE03E:423F
+
+// Xin Ye 999999 Provision
+FFE0DC:000F
+FFE0DE:423F
+
+// Lin Jin 999999 Gold
+FFE054:000F
+FFE056:423F
+
+// Lin Jin 999999 Provision
+FFE0F4:000F
+FFE0F6:423F
+
+// Xi Cheng 999999 Gold
+FFE060:000F
+FFE062:423F
+
+// Xi Cheng 999999 Gold
+FFE100:000F
+FFE102:423F
+
+// Jin Yang 999999 Gold
+FFE030:000F
+FFE032:423F
+
+// Jin Yang 999999 Provision
+FFE0D0:000F
+FFE0D2:423F
+
+// Shou Chun 999999 Gold
+FFE020:000F
+FFE022:423F
+
+// Shou Chun 999999 Provision
+FFE0C0:000F
+FFE0C2:423F
+
+// Cheng Du 999999 Gold
+FFE090:000F
+FFE092:423F
+
+// Cheng Du 999999 Provision
+FFE130:000F
+FFE132:423F
+
+// 999 Wen Stats
+FFBF98:03E7
+
+// 999 Wu Stats
+FFC198:03E7
+
+// 255 Power
+FFB598:00FF
+
+// 255 Intelligence
+FFB798:00FF
+
+// Max Education
+FFC2CC:6400
+
+// Max Soldier (15000)
+FFCB32:3A98
+
+// 999 Strength
+FFB398:03E7
+FFB198:03E7
+
+// 999 Wen Stats
+FFBEF6:03E7
+
+// 999 Wu Stats
+FFC0F6:03E7
+
+// 255 Power
+FFB4F6:00FF
+
+// 255 Intelligence
+FFB6F6:00FF
+
+// Max Education
+FFC27A:6400
+
+// Max Soldier
+FFC9EE:3A98
+
+// 999 Strength
+FFB2F6:03E7
+FFB0F6:03E7
+
+// 999 Wen Stats
+FFBFB2:03E7
+
+// 999 Wu Stats
+FFC1B2:03E7
+
+// 255 Power
+FFB5B2:00FF
+
+// 255 Intelligence
+FFB7B2:00FF
+
+// Max Education
+FFC2D8:0064
+
+// Max Soldier
+FFCB66:3A98
+
+// 999 Strength
+FFB3B2:03E7
+FFB1B2:03E7
+
+// 999 Wen Stats
+FFBE4E:03E7
+
+// 999 Wu Stats
+FFC04E:03E7
+
+// 255 Power
+FFB44E:00FF
+
+// 255 Intelligence
+FFB64E:00FF
+
+// Max Education
+FFC226:6400
+
+// Max Loyalty
+FFC326:6400
+
+// Max Soldier
+FFC89E:3A98
+
+// 999 Strength
+FFB24E:03E7
+FFB04E:03E7
+
+// 999 Wen Stats
+FFBF12:03E7
+
+// 999 Wu Stats
+FFC112:03E7
+
+// 255 Power
+FFB512:00FF
+
+// 255 Intelligence
+FFB712:00FF
+
+// Max Education
+FFC288:6400
+
+// Max Loyalty
+FFC388:6400
+
+// Max Soldier
+FFCA26:3A98
+
+// 999 Strength
+FFB312:03E7
+FFB112:03E7
+
+// 999 Wen Stats
+FFBFBC:03E7
+
+// 999 Wu Stats
+FFC1BC:03E7
+
+// 255 Power
+FFB5BC:00FF
+
+// 255 Intelligence
+FFB7BC:00FF
+
+// Max Education
+FFC4DE:6400
+
+// Max Loyalty
+FFC5DE:6400
+
+// Max Soldier
+FFCB7A:3A98
+
+// 999 Strength
+FFB3BC:03E7
+FFB1BC:03E7
+
+// 999 Wen Stats
+FFBE98:03E7
+
+// 999 Wu Stats
+FFC098:03E7
+
+// 255 Power
+FFB498:00FF
+
+// 255 Intelligence
+FFB698:00FF
+
+// Max Education
+FFC24C:6400
+
+// Max Loyalty
+FFC34C:6400
+
+// Max Soldier
+FFC932:3A98
+
+// 999 Strength
+FFB298:03E7
+FFB098:03E7
+
+// 999 Wen Stats
+FFBF4A:03E7
+
+// 999 Wu Stats
+FFC14A:03E7
+
+// 255 Power
+FFB54A:00FF
+
+// 255 Intelligence
+FFB74A:00FF
+
+// 999 Strength
+FFB34A:03E7
+FFB14A:03E7
+
+// 999 Wen Stats
+FFBFAA:03E7
+
+// 999 Wu Stats
+FFC1AA:03E7
+
+// 255 Power
+FFB5AA:FF00
+
+// 255 Intelligence
+FFB7AA:00FF
+
+// Max Education
+FFC2D4:0064
+
+// Max Loyalty
+FFC3D4:0064
+
+// Max Soldier
+FFCB56:3A98
+
+// 999 Strength
+FFB3AA:03E7
+FFB1AA:03E7
+
+// 999 Wen Stats
+FFBED8:03E7
+
+// 999 Wu Stats
+FFC0D8:03E7
+
+// 255 Power
+FFB4D8:00FF
+
+// 255 Intelligence
+FFB6D8:00FF
+
+// Max Education
+FFC26C:6400
+
+// Max Loyalty
+FFC36C:6400
+
+// Max Soldier
+FFC9B2:3A98
+
+// 999 Strength
+FFB2D8:03E7
+FFB0D8:03E7
+
+// 999 Wen Stats
+FFBEBE:03E7
+
+// 999 Wu Stats
+FFC0BE:03E7
+
+// 255 Power
+FFB4BE:00FF
+
+// 255 Intelligence
+FFB6BE:00FF
+
+// Max Education
+FFC25E:0064
+
+// Max Loyalty
+FFC35E:0064
+
+// Max Soldier
+FFC97E:3A98
+
+// 999 Strength
+FFB2BE:03E7
+FFB0BE:03E7
+
+// 999 Wen Stats
+FFBEAE:03E7
+
+// 999 Wu Stats
+FFC0AE:03E7
+
+// 255 Power
+FFB4AE:00FF
+
+// 255 Intelligence
+FFB6AE:00FF
+
+// Max Education
+FFC256:0064
+
+// Max Loyalty
+FFC356:0064
+
+// Max Soldier
+FFC95E:3A98
+
+// 999 Strength
+FFB2AE:03E7
+FFB0AE:03E7

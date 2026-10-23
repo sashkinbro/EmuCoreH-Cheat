@@ -1,0 +1,124 @@
+// Player 1's Baskets Always Worth 1
+3CA-419-E68
+
+// Player 1's 3-pt. Shots Worth 2
+3EA-3B9-C45
+02A-3C9-194
+
+// Player 1's 2-pt. Shots Worth 3
+3EA-3B9-C45
+03A-3C9-194
+
+// Player 1's Baskets Always Worth 4
+3EA-3B9-C45
+04A-3C9-194
+
+// Player 1's Baskets Always Worth 5
+3EA-3B9-C45
+05A-3C9-194
+
+// Player 1's Baskets Always Worth 6
+3EA-3B9-C45
+06A-3C9-194
+
+// Player 1's Baskets Always Worth 7
+3EA-3B9-C45
+07A-3C9-194
+
+// Player 1's Baskets Always Worth 8
+3EA-3B9-C45
+08A-3C9-194
+
+// Player 2's Baskets Always Worth 1
+3CA-5E9-E68
+
+// Player Has Super Dunk Ability
+07E-214-C46
+
+// Player Has Infinite Turbo
+07E-0F4-C46
+
+// Player Is Permanently "On Fire"
+07E-334-C46
+
+// Player Has Enhanced Interception Ability
+07D-EB4-C46
+
+// Player Has Enhanced Defensive Ability
+00D-E34-F7A
+
+// "Juice" Mode
+07E-454-D56
+
+// Shot Success Percentages Displayed For All Non-Dunk Shots
+07D-FD4-C46
+
+// Turbo Drains Very Slowly
+0ED-2AA-5D2
+
+// Turbo Drains Slower
+15D-2AA-5D2
+
+// Turbo Drains Slightly Slower
+1DD-2AA-5D2
+
+// Turbo Drains Slightly Faster
+40D-2AA-5D2
+
+// Turbo Drains Faster
+50D-2AA-5D2
+
+// Turbo Drains Very Quickly
+81D-2AA-5D2
+
+// Turbo Doesn't Recharge Until End Of Quarter
+C9D-5DA-91D
+
+// Infinite Shot Clock Time
+001-4CD-19E
+
+// 3-Second Shot Clock For Computer
+031-25A-80A
+
+// 5-Second Shot Clock For Computer
+051-25A-80A
+
+// 15-Second Shot Clock For Computer
+0F1-25A-80A
+
+// Gravity Mode 1
+007-D09-E62
+
+// Gravity Mode 2
+017-D09-E62
+
+// Infinite Time
+3A5-D9E-2A2
+
+// 1-Minute Quarters
+018-C7F-E66
+01A-C6F-E66
+
+// 1-Shot Game
+008-C7F-E66
+00A-C6F-E66
+
+// 9-Minute Quarters
+098-C7F-E66
+09A-C6F-E66
+
+// 1-Minute Quarters
+018-C7F-E66
+01A-C6F-E66
+
+// Computer Can't Score
+3AA-5F9-2A2
+
+// Games Last 3 Quarters
+028-8CF-E6E
+
+// Games Last 2 Quarters
+038-8CF-E6E
+
+// Shot Clock Always Displayed
+200-CFD-C46

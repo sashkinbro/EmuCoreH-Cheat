@@ -1,0 +1,11 @@
+// P1 Has 63 Points
+FFF01C:0063
+
+// P2 Has 63 Points
+FFF01C:0063
+
+// P1 Has No Points
+FFF01C:0000
+
+// P2 Has No Points
+FFF01C:0000

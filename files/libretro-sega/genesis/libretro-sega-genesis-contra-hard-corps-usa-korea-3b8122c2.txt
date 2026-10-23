@@ -1,0 +1,180 @@
+// Ray and Sheena have double jump
+AHYA-AACT
+
+// Super High Jump
+ADXT-A60L
+
+// Enable Level Select
+BLJA-AA86
+
+// Enables Slow Motion Cheat
+BACT-AN2C
+
+// Stage select (Turn code off after the stage loads)
+FFFA48:0100
+
+// Activate the 99 lives cheat
+FFFA52:0070
+
+// Activate a level select
+FFFA4C:0001
+
+// Activate start with all weapons
+FFFA0E:001E
+
+// Each enemy killed gives you an extra life
+FFFA06:0000
+
+// Invincible
+RHVA-A6WR
+
+// Infinite lives
+RERT-C6X4
+
+// Start with 5 lives
+AYCT-AAH4
+
+// Start with 10 lives
+BJCT-AAH4
+
+// Start with 25 lives
+DECT-AAH4
+
+// Start with 50 lives
+GJCT-AAH4
+
+// Start with 99 lives
+NNCT-AAH4
+
+// Infinite continues
+AMCT-AA4T
+
+// No continues
+ADAA-AAG6
+
+// Start with all weapons
+H9GA-AAE6
+
+// You don't lose a weapon when you die
+AM4A-AA8C
+
+// Each bomb found is worth 99 bombs
+RFTT-C614
+
+// Infinite bombs on pick-up
+AJVA-CA8Y
+
+// Infinite Lives (Player 1)
+FFFA0C:0004
+
+// Untouchable (Player 1)
+FFD758:0047
+
+// Infinite Bombs (Player 1)
+FFFA10:0005
+
+// Enable All Weapon Slots (Player 1)
+FFFA0E:003E
+
+// Infinite Lives (Player 2)
+FFFA2C:0064
+
+// Invincibility (Player 2)
+FFD7D8:0001
+
+// Infinite Bombs (Player 2)
+FFFA30:0064
+
+// Enable All Weapon Slots (Player 2)
+FFFA2E:003E
+
+// Invincibility
+9TET-BCB0
+AEET-AAB2
+MEET-BSV4
+
+// Infinite Double Jump
+ADYA-AAGN
+
+// Fang Allways Shoot Full Charged His Charge Shot
+AAYA-CAEE
+
+// Infinite Double Jump
+FFD704:0000
+
+// Fang Allways Shoot Full Charged His Charge Shot
+FFA5B0:005A
+
+// Hit Anywhere Both Players
+CK9T-AA4E
+
+// Infinite &quot;Time-Bombs&quot; P1
+FFFA10:0009
+
+// Debug Level (Turn Code Off After The Stage Loads)
+FFFA48:0001
+
+// Stage Select (Turn Code Off After The Stage Loads)
+FFFA48:0001
+
+// Infinite Lives P1
+FFFA0C:0009
+
+// P1 Weapon Modifier
+FFFA0E:0000
+
+// Invincibility
+R1VA-A6YG
+
+// Restore Health Bar Functionality (You Can Take 3 Hits Before Dying) That Was Present In The Japanese Version
+FJRT-DHCA
+
+// Invincibility - Both Players
+E5VA-AA6E
+
+// Ray and Sheena can Double Jump
+ADXT-AA34
+
+// Fang can Double Jump
+AACT-CA7T
+YACT-CF7W
+
+// Both players can choose same character
+RGJT-A606
+RGJT-A6ZA
+
+// Enable Start with 70 Lives Cheat
+HXGA-B2M2
+J5GA-AAD4
+
+// Start with 10 Continues
+BMAA-AAG6
+
+// Start on Debug Stage
+ADAA-AAG0
+
+// Enable Stage Select Cheat
+FFFA4C:0001
+
+// Enable Have all Weapons Cheat (Pause the game and Press any Button)
+RHKT-A6XC
+RHKT-A6XW
+
+// Enable Have all Weapons Cheat (Pause the game and Press C)
+FFA0E4:0F14
+
+// Have all Weapons - Both Players (Press A once to activate)
+HXFT-BNHC
+H5FT-AAHE
+
+// Regional Lockout Bypass
+A2BT-AA78
+
+// Every Enemy Destroyed Earns an Extra Life (Alternate)
+FFFA00:0001
+
+// Multi-Jump - All Characters
+ADXT-AA34
+AACT-CA7T
+YACT-CF7W
+ADYA-AAGN

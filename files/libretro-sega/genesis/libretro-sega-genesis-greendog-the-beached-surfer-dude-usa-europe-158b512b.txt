@@ -1,0 +1,134 @@
+// Infinite lives
+ATNT-AA4E
+
+// Start with 6 lives
+AYPA-AADE
+
+// Start with 7 lives
+A2PA-AADE
+
+// Start with 10 lives
+BEPA-AADE
+
+// Spikes don't hurt
+ABYA-CAAN
+
+// Cola doesn't restore energy
+AACA-CAC4
+
+// Cola restores less energy than normal
+AJCA-CAC4
+
+// Cola restores more energy than normal
+DTCA-CAC4
+
+// Cola completely restores energy
+GACA-CAC4
+
+// Fish don't hurt
+AD8A-AACL
+
+// Fish hurt more than normal
+AX8A-AACL
+
+// Fish are devastating
+CD8A-AACL
+
+// Birds don't hurt
+AC6A-AABG
+
+// Birds hurt more than normal
+BC6A-AABG
+
+// Birds are devastating
+CC6A-AABG
+
+// Start on Ancient Aztec Crypts level
+AYNA-BE5Y
+
+// Start on Mustique level
+A6NA-BE5Y
+
+// Start on Curacao level
+BJNA-BE5Y
+
+// Start on Underwater Crypts of Curacao level
+BNNA-BE5Y
+
+// Start on Skateboard level 1
+BYNA-BE5Y
+
+// Start on Jamaica level
+B2NA-BE5Y
+
+// Start on Skateboard level 2
+B6NA-BE5Y
+
+// Start on Saba level
+CENA-BE5Y
+
+// Start on Crypts after Saba level
+CJNA-BE5Y
+
+// Start on St. Vincent level
+CTNA-BE5Y
+
+// Start on the final Skateboard level
+CYNA-BE5Y
+
+// Invincibility
+FF20FC:002D
+
+// Infinite Lives
+FF17DC:0009
+
+// Spikes Don't Make Damage
+FF20FA:0030
+
+// Infinite Energy
+FF258C:0030
+FF21F0:0030
+FF23BE:0030
+FF2458:0030
+FF20FA:0030
+FF24F2:0030
+
+// Invincibility
+AV1T-AA9R
+HF1T-BE1J
+971T-AAHL
+9V1T-AASN
+
+// Infinite Energy
+AL2A-AA3C
+
+// Slow Motion
+FF0010:0003
+
+// Complete Level
+FF0016:0080
+
+// Fast Disc Mode
+FF20B6:0003
+
+// Freeze Enemies
+FF35EA:00B8
+
+// Level Modifier
+FFFFFE:0003
+
+// Infinite Jump
+ABHT-CAC6
+ABJA-CAET
+
+// Infinite Credits
+AJ6T-AA82
+
+// Start with ?? Credits
+AJNA-AAEJ
+
+// Level Select Menu
+A6NA-AAC6
+JA6A-B0RJ
+AA6A-ABGL
+JENA-BTZE

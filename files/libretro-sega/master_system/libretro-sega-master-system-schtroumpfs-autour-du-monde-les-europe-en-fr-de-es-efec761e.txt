@@ -1,0 +1,11 @@
+// Invulnerability
+00DE-95BD
+
+// Invincibility
+005-ACF-7F4
+
+// Infinite Lives
+00D8-1709
+
+// Infinite Yellow Hearts
+00D8-1609

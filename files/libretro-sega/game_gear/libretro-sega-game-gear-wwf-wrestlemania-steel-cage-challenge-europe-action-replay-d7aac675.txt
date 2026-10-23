@@ -1,0 +1,5 @@
+// Unlimited Energy For First Character
+00C4-0DEF
+
+// Unlimited Energy For The Second Character In Tag Match
+00C4-4CEF

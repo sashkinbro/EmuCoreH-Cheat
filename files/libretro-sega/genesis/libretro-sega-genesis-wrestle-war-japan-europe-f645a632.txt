@@ -1,0 +1,17 @@
+// Infinite Energy
+9V9A-DGRN
+JB9A-DA0R
+979A-CAGT
+AB9A-CBRW
+
+// Freeze Time Knock Out
+AJET-AA46
+
+// Freeze Time
+FFC42E:0001
+
+// Freeze Time
+AJFA-AA2R
+
+// Computer has Zero Energy
+FFA100:0000

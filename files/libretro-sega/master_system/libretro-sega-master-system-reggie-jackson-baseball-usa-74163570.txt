@@ -1,0 +1,17 @@
+// Number of Runs For 1st Batter
+00C0-0903
+
+// Number of Outs For Batter
+00C0-E402
+
+// Number of Inning [&quot;10&quot; = Top of 9th Inning]
+00C0-E300
+
+// 20 Home Runs In &quot;Home Run Contest&quot;
+00C0-F814
+
+// Team 1 Has A High Score
+00C0-F563
+
+// Team 2/CPU Never Scores
+00C1-0900

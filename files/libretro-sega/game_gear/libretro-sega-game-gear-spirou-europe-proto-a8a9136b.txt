@@ -1,0 +1,17 @@
+// Invincibility
+00C4-E210
+
+// Infinite Health
+00C4-DD04
+
+// Infinite Lives
+00C4-DE99
+
+// Invulnerability
+C90-E05-E69
+
+// Infinite Lives
+000-A1E-19E
+
+// Infinite Health
+001-1A5-19E

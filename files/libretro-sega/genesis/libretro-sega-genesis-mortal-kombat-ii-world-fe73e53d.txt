@@ -1,0 +1,377 @@
+// P1 Display Modifier
+FFB6EC:0000
+
+// P2 Display Modifier
+FFB7DC:0010
+
+// Player 1 Color Modifier(s)
+FFB39C:0000
+FFB39C:0000
+FFB39E:0000
+FFB39E:0000
+FFB3A0:0000
+FFB3A0:0000
+FFB3A2:0000
+FFB3A2:0000
+FFB3A4:0000
+FFB3A4:0000
+FFB3A6:0000
+FFB3A6:0000
+FFB3A8:0000
+FFB3A8:0000
+FFB3AA:0000
+FFB3AA:0000
+FFB3AC:0000
+FFB3AC:0000
+FFB3AE:0000
+FFB3AE:0000
+FFB3B0:0000
+FFB3B0:0000
+FFB3B2:0000
+FFB3B2:0000
+FFB3B4:0000
+FFB3B4:0000
+FFB3B6:0000
+FFB3B6:0000
+
+// Player 2 Color Modifier(s)
+FFB3BC:0000
+FFB3BC:0000
+FFB3BE:0000
+FFB3BE:0000
+FFB3C0:0000
+FFB3C0:0000
+FFB3C2:0000
+FFB3C2:0000
+FFB3C4:0000
+FFB3C4:0000
+FFB3C6:0000
+FFB3C6:0000
+FFB3C8:0000
+FFB3C8:0000
+FFB3CA:0000
+FFB3CA:0000
+FFB3CC:0000
+FFB3CC:0000
+FFB3CE:0000
+FFB3CE:0000
+FFB3D0:0000
+FFB3D0:0000
+FFB3D2:0000
+FFB3D2:0000
+FFB3D4:0000
+FFB3D4:0000
+FFB3D6:0000
+FFB3D6:0000
+
+// Hyper Mode P1 [Version 2]
+FFB64E:0001
+
+// Hyper Mode P1
+FFB650:0001
+
+// Hyper Mode P2
+FFB740:0001
+
+// Hyper Mode P2 [Version 2]
+FFB74E:0001
+
+// Background Color Modifier(s)
+FFB3DE:0000
+FFB3F6:0000
+
+// Suicide
+AP9A-ABCC
+
+// Double Fatality
+AP9A-BEAA
+
+// Immortal Kombat
+CCMA-BE76
+
+// Play As Jade
+ACHA-AWCL
+
+// Play As Smoke
+YCHA-ALCL
+
+// Always Fight At The Dead Pool
+ABCT-BAEJ
+
+// You Have 44 Wins
+ABCT-BAE4
+
+// Jump Across The Entire Length of The Screen
+AB5A-BTA8
+
+// Jump Farther Across The Screen
+AB5A-BAJ8
+
+// Super High Jump
+AB3T-AAM0
+
+// High Jump
+AB3T-AAX0
+
+// Timer is 2x as fast
+CVYA-BA7N
+
+// Timer is 2x as slow
+LBYA-BA7N
+
+// Infinite time
+ABVT-BE64
+
+// Activate testing mode in options screen
+RETT-A6Y6
+
+// Fatalities can be done at end of any round computer wins after winning 1 round
+RFWA-A6Y8
+
+// Lazy opponent (In 2nd round, loser of 1st round lies on ground)
+AP9A-BA7R
+
+// Player has 4x times as long to do fatalities, etc.
+A3XA-AJA4
+
+// Auto fatalities
+AB1T-CA4G
+AA9T-CA3J
+
+// Auto friendship
+AB1T-CA4G
+BT9T-CA3T
+
+// Auto babalities
+AB1T-CA4G
+RE9T-C6V0
+
+// Always fight Kung Lao
+ACMT-BE76
+
+// Always fight Liu Kang
+AGMT-BE76
+
+// Always fight Cage
+ALMT-BE76
+
+// Always fight Baraka
+ARMT-BE76
+
+// Always fight Kitana
+AWMT-BE76
+
+// Always fight Mileena
+A0MT-BE76
+
+// Always fight Shang Tsung
+A4MT-BE76
+
+// Always fight Rayden
+A8MT-BE76
+
+// Always fight Sub-Zero
+BCMT-BE76
+
+// Always fight Reptile
+BGMT-BE76
+
+// Always fight Scorpion
+BLMT-BE76
+
+// Always fight Jax
+BRMT-BE76
+
+// Always fight Kintaro
+BWMT-BE76
+
+// Always fight Shao Kahn
+B0MT-BE76
+
+// Always fight Smoke
+B4MT-BE76
+
+// Always fight Noob Saibot
+B8MT-BE76
+
+// Always fight Jade
+CCMT-BE76
+
+// Mileena's Sai Throw does massive damage
+A13A-AA5R
+
+// Liu Kang's High Fireball does massive damage
+A56A-AA46
+
+// Kung Lao's Hat Throw does massive damage
+A56T-AA2C
+
+// Cage's Shadow Kick does massive damage
+A95A-AA5C
+
+// Reptile's Force Ball does massive damage
+AX0A-AA86
+
+// Shang Tsung's Flaming Skull attack does massive damage
+AX2A-AA8R
+
+// Kitana's Fan Throw does massive damage
+AX3A-AA46
+
+// Baraka's Blade Spark does massive damage
+A54A-AA8G
+
+// Rayden's Lightning Bolt does massive damage
+AX1T-AA3J
+
+// Invincibility
+AGNA-AADE
+
+// Infinite Energy
+9VVT-BCRJ
+SBVT-AAGL
+EKVT-BPRN
+
+// Anyone Can Go Invisible Like Reptile
+AP9A-AA00
+
+// Player 2 Freezes After Getting Hit Or Attacking
+9VVT-BCD8
+CFVT-AVEA
+J7VT-BSNC
+ABVT-BE64
+
+// Hit Anywhere Both Players
+CV8T-AA2T
+
+// Auto Fatalities
+AB1T-CA4G
+AA9T-CA3J
+
+// Auto Friendship
+AB1T-CA4G
+BT9T-CA3T
+
+// Auto Babalities
+AB1T-CA4G
+RE9T-C6V0
+
+// Infinite Energy P1
+FFB622:0078
+
+// Infinite Energy P2
+FFB712:0078
+
+// No Energy P1
+FFB622:0000
+
+// No Energy P2
+FFB712:0000
+
+// Infinite Time
+FFAB96:0099
+
+// Enable 6 Button P1
+FFF9D0:0001
+
+// Enable 6 Button P2
+FFF9D0:0001
+
+// Character Modifier P1
+FFAB86:0004
+
+// Character Modifier P2
+FFAB88:0000
+
+// Background Modifier
+FFAAC0:0000
+
+// Difficulty Modifier
+FFFA10:0000
+
+// Gameboy Style Animation (Missing Many Frames of Animation) P1
+FFB650:0002
+
+// P1 Win Modifier (99 Is Highest)
+FFEEA4:0000
+
+// Finish Move Title Display Modifier
+FFF026:0000
+
+// No Knockback From Punches P1
+FFB668:0000
+
+// No Knockback From Punches P2
+FFB758:0000
+
+// Position On Battle Tower Modifier
+FFAABE:000E
+
+// Can Move But Not Attack Before Battle
+FFF022:0001
+
+// Can Move At End of Battle (Cannot Use Finishing Moves)
+FFF020:0000
+FFF02A:0000
+
+// P1 Is Stationary
+FFB6C8:0046
+
+// P2 Is Stationary
+FFB7B8:00DA
+
+// P1 Gets Stuck After Attack
+FFC610:00FF
+
+// Display For P2 Modifier
+FFEEB2:0000
+
+// HUD Display Modifier
+FFF03C:0000
+
+// P1 Free Movement
+FFB620:00B0
+
+// P2 Free Movement
+FFB710:00B0
+
+// Infinite Energy P2
+ALAA-AA9N
+
+// Infinite Energy P1
+ALAA-AA9C
+
+// Skip Intro Screens
+AWPA-EA76
+BLPT-EA36
+
+// Pit II Fatality On Any Stage
+BC4A-AA38
+A44A-AA48
+
+// Kombat Tomb Fatality On Any Stage
+RG4A-A6V8
+AL4A-AA4E
+RG4A-A6W8
+
+// Default difficulty is Medium (instead of very Easy)
+HA8A-BJZ2
+
+// Restore Kintaro's Punch
+J7SA-CAFJ
+
+// Infinite Credits
+AJ9T-AA4A
+
+// P1 Enable 6 Button Mode when using a 6 Button Controller
+AKTA-AA20
+
+// P2 Enable 6 Button Mode when using a 6 Button Controller
+AKTA-AA30
+
+// Fergality can be done on any stage
+BWZA-AA3T
+
+// Fergality can only be on ?? Stage
+ALZA-AA3T
+ACZA-AAB0

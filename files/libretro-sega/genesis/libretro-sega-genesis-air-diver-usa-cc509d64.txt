@@ -1,0 +1,48 @@
+// Invincible
+FFC014:0001
+
+// Most powerful shot
+FFC004:00FF
+
+// Missile
+FFC010:0005
+
+// Almost instant bombs
+FFC018:007A
+FFC01E:0000
+
+// Infinite Fuel
+D64A-AAAW
+
+// Infinite Lives
+D7AT-AADL
+
+// Infinite Energy
+D6RT-AAAR
+
+// Infinite Missiles
+D68A-AAFY
+
+// Infinite Fuel
+FF80C6:03E7
+
+// Infinite Lives
+FF80C8:0300
+
+// Infinite Energy
+FF80CC:0000
+
+// Infinite Missiles
+FF0070:4E00
+
+// Infinite Fuel
+D64A-AAAW
+
+// Infinite Lives
+FF80C8:0009
+
+// Don't Take Body Damage from Bullets
+FF80CC:0000
+
+// Fight the Fighter Ace Hold Button A, Fight the Super Carrier Hold Button B, Fight the Last Fighter Hold Button C, Invincibility Hold Start - On The Map. Hold Any of The Buttons Until The Game Start. Select And Place The Cursor Position
+AM0T-AA92

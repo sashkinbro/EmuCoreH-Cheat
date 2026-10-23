@@ -1,0 +1,57 @@
+// Starting Number Of Lives Modifier
+AACT-AAF6
+
+// Starting Amound Of Energy Modifier
+AACT-AAF0
+
+// Infinite Energy
+SAPT-AYXE
+
+// Infinite Lives
+SADA-AYX2
+
+// Infinite Weapons
+RAMT-AYTT
+
+// Always Keep Weapons
+B2DA-AA2G
+
+// Infinite Lives
+AJDA-AA52
+
+// Infinite Energy
+ATPT-AA5E
+AXJA-AA40
+
+// Invincibility
+RYPT-A6W6
+
+// Infinite Bombs And Clouds
+AEMT-BRJT
+
+// Infinite Flights And Flowers
+AEVA-BRLR
+
+// Keep Bombs From Round To Round And After The Death
+VJDA-ARJN
+
+// Keep Clouds From Round To Round And After The Death
+VJDA-ARJR
+
+// Keep Flights From Round To Round And After The Death
+VJDA-ARJJ
+
+// Keep Flowers From Round To Round And After The Death
+VJDA-ARJY
+
+// Freeze Time
+AKTA-AA3T
+
+// Infinite Credits
+VVTT-DRML
+
+// Freeze Time Before The End Credits
+VKTA-DRSL
+
+// 1 Hit Kill Enemies
+ABGT-AABT

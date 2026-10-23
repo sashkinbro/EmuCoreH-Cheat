@@ -1,0 +1,147 @@
+// Start clock at 1 minute instead of 3
+AECA-CAF8
+AE2T-CACA
+AE4T-CAEW
+
+// Start clock at 2 minutes
+AJCA-CAF8
+AJ2T-CACA
+AJ4T-CAEW
+
+// Start clock at 6 minutes
+A2CA-CAF8
+A22T-CACA
+A24T-CAEW
+
+// Start clock at 9 minutes
+BECA-CAF8
+BE2T-CACA
+BE4T-CAEW
+
+// Infinite time
+LTDA-CA8T
+
+// Sets player lives lower limit on option screen to 1
+968T-B946
+AE8T-AADW
+
+// Sets player lives upper limit on option screen to 9
+968T-B946
+BN8T-AADL
+
+// Player 1 starts with 25 lives
+AA6T-AAGJ
+3T6T-BF8L
+
+// Player 2 starts with 25 lives
+AA6T-AAHR
+3T6T-BF9T
+
+// Player 1 continues with 25 lives
+AA2T-CACW
+3T2T-DF4Y
+
+// Player 2 continues with 25 lives
+AA4T-CAFE
+3T4T-DF7G
+
+// Infinite lives (player 1)
+PBKT-AA68
+
+// Infinite lives (player 2)
+PVLA-AA3L
+
+// Infinite credits (player 1)
+AT2T-CA3E
+
+// Infinite credits (player 2)
+AT4T-CA50
+
+// Start on stage 2
+AJBT-AAF6
+
+// Start on stage 3
+ANBT-AAF6
+
+// Start on stage 4
+AYBT-AAF6
+
+// Start on stage 5
+A2BT-AAF6
+
+// Start on stage 6
+A6BT-AAF6
+
+// Start on stage 7
+BEBT-AAF6
+
+// Start on stage 8
+BJBT-AAF6
+
+// Start on stage 9
+BNBT-AAF6
+
+// Start on stage 10
+BYBT-AAF6
+
+// Infinite Lives
+D7KT-AACG
+
+// Infinite Time
+AJDA-CA5L
+
+// Invincibility
+9WKT-BGKL
+ALKT-AABN
+
+// Infinite Lives
+FFC054:0003
+
+// Invincibility
+FF56BE:0004
+
+// Infinite Lives For The Red Player
+PBKT-AA68
+
+// Infinite Lives For The Blue Player
+PVLA-AA3L
+
+// Five Minutes Per Level
+AYCA-CAF8
+
+// Infinite Time
+FADA-CY0T
+
+// Character Blinks
+ACJA-AA86
+
+// Invincibility/Untouchable P1. You can pass through enemies and bullets. For region (World) (Rev B)
+RZCT-C6ZA
+RZDA-C6TC
+R0HT-C6ZW
+R09A-C6ZT
+R1DA-C6YW
+R0LA-C6T4
+R0VA-C61T
+
+// Invincibility P2
+FF576A:0010
+
+// Invincibility/Untouchable P2. You can pass through enemies and bullets. For region (World) (Rev B)
+RZDA-C6VA
+RZDA-C6YC
+R0HT-C6ZW
+R09T-C6TG
+R1DA-C60W
+R0LA-C6WY
+R0VT-C6VA
+
+// Guards can't see you. See notes.
+RZ0T-C612
+
+// Walk thru doors without opening them
+AC0A-CA2R
+
+// Walk thru walls.  See notes.
+AL5T-AA46
+AL5T-AA6G

@@ -1,0 +1,271 @@
+// No Wepon Slot 1
+FFA46E:0000
+
+// Rapid Fire Slot 1
+FFA46E:0004
+
+// Lightning Slot 1
+FFA46E:0008
+
+// Homing Slot 1
+FFA46E:000C
+
+// Flame Slot 1
+FFA46E:0010
+
+// No Wepon Slot 2
+FFA470:0000
+
+// Rapid Fire Slot 2
+FFA470:0004
+
+// Lightning Slot 2
+FFA470:0008
+
+// Homing Slot 2
+FFA470:000C
+
+// Flame Slot 2
+FFA470:0010
+
+// Protection against most hits
+AL4T-AA3A
+
+// Protection from falling off screen
+AAJT-CAFA
+
+// Vitality-up worth much more
+HX6T-BAKN
+
+// Start with lightning weapon instead of force
+BDTT-CAF6
+
+// Start with chaser weapon
+BXTT-CAF6
+
+// Start with fire weapon
+CDTT-CAF6
+
+// Start stage 1 with 500 vitality instead of 100
+8X1T-ACGJ
+
+// Start stage 1 with 999 vitality instead of 100
+691T-AGGJ
+
+// Start stage 2 with 500 vitality instead of 120
+8X1T-ACGL
+
+// Start stage 2 with 999 vitality instead of 120
+691T-AGGL
+
+// Start stage 3 with 500 vitality instead of 140
+8X1T-ACGR
+
+// Start stage 3 with 999 vitality instead of 140
+691T-AGGR
+
+// Start stage 4 with 500 vitality instead of 160
+8X1T-ACG0
+
+// Start stage 4 with 999 vitality instead of 160
+691T-AGG0
+
+// Start stage 5 with 500 vitality instead of 180
+8X1T-ACHT
+
+// Start stage 5 with 999 vitality instead of 180
+691T-AGHT
+
+// Start stage 6 with 500 vitality instead of 200
+8X1T-ACHW
+
+// Start stage 6 with 999 vitality instead of 200
+691T-AGHW
+
+// Always have 999 vitality (infinite vitality)
+AM2T-AA4N
+
+// Vitality
+FFA424:0063
+
+// Untouchable
+FFA47C:0015
+
+// Regional lockout bypass code. Language depends on console (it will be English + Japanese for Japanese consoles, and English for US&amp;European consoles).
+B2CA-AA6N
+
+// Invincibility
+A42T-AA60
+
+// Player 2 Weapon Modifier Slot 1
+FFA66E:0000
+
+// Player 2 Weapon Modifier Slot 2
+FFA670:0000
+
+// Costume Modifier P1
+FFA40E:0000
+
+// Costume Modifier P2
+FFA60E:0000
+
+// Boss becomes seven force
+FFC980:0488
+
+// Boss becomes Duck Battlation
+FFC980:0398
+
+// Boss becomes Green
+FFC980:0564
+
+// Boss becomes Golden Silver
+FFC980:05B4
+FFC980:001A
+
+// Disabled weapons for Player 1
+FFA472:0000
+
+// Enabled weapons for Player 1
+FFA472:0003
+
+// Disabled weapons for Player 2
+FFA672:0000
+
+// Enabled weapons for Player 2
+FFA672:0003
+
+// Player 1 always has 999999999 score
+FFA464:0999
+FFA466:9999
+FFA468:9900
+
+// Player 2 always has 999999999 score
+FFA664:0999
+FFA666:9999
+FFA668:9900
+
+// Player 1's transformation code
+FFA400:0000
+FFA404:0000
+
+// Player 2's transformation Mode
+FFA600:0000
+FFA604:0000
+
+// Boss#1 transformation mode
+FFA800:0000
+FFA804:0000
+
+// Player 1 Palette Modifier
+FFA40E:0005
+
+// Player 2 Palette Modifier
+FFA60E:0005
+
+// Papaya Dance/Bravoo Man/Pinky Roader/Seven Force/Swapping Reg/Valvalion/Timeron/Minion Soldier/Melon Bread/Destroy!!!/Vortex Base/Abarenbou Gel/Black Beat Stepper Health Modifier
+FFC9A4:0000
+
+// Phantom/Smash Daisaku/Orange Health Modifier
+FFA824:0000
+
+// 1000MM Gun Health Modifier
+FFCDC4:0000
+
+// Curry &amp; Rice/Spread Turret No.1/Unit of the Hammer/Dragon/Runner/Golden silver Health Modifier
+FFCA04:0000
+
+// Beam Turret No. 1 Health Modifier
+FFCA64:0000
+
+// Bomb Turret No.1 Health Modifier
+FFCAC4:0000
+
+// Beam Turret No. 2 Health Modifier
+FFCB24:0000
+
+// (Mini-boss) Pit's 1st sphere/Bomb Turret No. 2/Duck Battlation/Pink Lobster/Black Fly/Green Health Modifier
+FFCB84:0000
+
+// (Mini-boss) Pit's 2nd sphere/Flame Turret Health Modifier
+FFCBE4:0000
+
+// Spread Turret No.2 Health Modifier
+FFCC44:0000
+
+// Switch Turret Health Modifier
+FFCCA4:0000
+
+// Hitman Health Modifier
+FFD0C4:0000
+
+// Hit Anywhere
+AC4T-AA6L
+FL4T-AAEN
+AW4T-AA76
+
+// Make Your Console US NTSC
+AABT-AAF2
+WYBT-AEF4
+
+// Make Your Console Japanese NTSC
+AABT-AAF2
+A2BT-AAF4
+
+// Infinite Life P1
+FFA424:03E7
+
+// Infinite Life P2
+FFA624:00FF
+
+// One Hit Kills Boss
+FFC9A4:0000
+
+// P1 Primary Weapon Modifier
+FFA46E:0000
+
+// P1 Secondary Weapon Modifier
+FFA470:0000
+
+// P1 Shot Type Modifier
+FFA4CA:0000
+
+// P2 Primary Weapon Modifier
+FFA66E:0000
+
+// P2 Secondary Weapon Modifier
+FFA670:0000
+
+// P2 Shot Type Modifier
+FFA6CA:0000
+
+// Level Highlighter Modifier
+FFA204:0000
+
+// Pink Roader starts with 1 HP
+ACMT-LAFE
+
+// Pink Roader starts with 9999 HP
+B4MT-LRPE
+
+// Valvalion Starts With 1 HP
+AAWA-JABC
+
+// Valvalion Starts With 9999 HP
+B2WA-JRKC
+
+// Invincibility (Disable Hit Detection)
+R04A-A6Z6
+R03A-A6V4
+RYJT-C6ZC
+RYKA-C6T6
+
+// Infinite Vitality
+AL4T-AA3A
+ATLT-CA40
+ATJT-CA68
+
+// Keep Second Slot Weapon After The Death
+AM0A-AA2A
+
+// Invincibility - Both Players (Blinking)
+AM5A-AA28

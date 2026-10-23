@@ -1,0 +1,14 @@
+// Start With 3 Lives
+023-46F-F7A
+
+// Start With 8 Lives
+073-46F-F7A
+
+// Start With 12 Lives
+0B3-46F-F7A
+
+// Infinite Lives
+007-01F-19E
+
+// Infinite Time (Ignore Counter)
+00B-F6E-E65

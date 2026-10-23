@@ -1,0 +1,5 @@
+// Infinite Time (Events With Time That Goes Down)
+00DC-A799
+
+// Low Time (Events With Time That Goes Up)
+00DC-A700

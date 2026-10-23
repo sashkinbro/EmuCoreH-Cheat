@@ -1,0 +1,23 @@
+// Infinite Flying
+00CD-5724
+
+// Infinite Fuel
+00CD-561F
+
+// Infinite Rockets
+00CD-5E0D
+
+// Infinite Lives
+00CE-7F05
+
+// Infinite Fuel
+3A2-CFF-2A2
+
+// Infinite Flying
+3A2-FBF-2A2
+
+// Infinite Lives
+3A4-6AF-2A2
+
+// Infinite Rockets
+007-84F-3BE

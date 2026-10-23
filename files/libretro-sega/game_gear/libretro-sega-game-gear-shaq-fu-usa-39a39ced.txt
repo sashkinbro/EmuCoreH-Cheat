@@ -1,0 +1,145 @@
+// Player 1 Infinite Health
+00CD-4F32
+
+// Roundhouse kick does nothing
+007-F5B-F72
+
+// Roundhouse kick does very little damage
+017-F5B-F72
+
+// Roundhouse kick does more damage
+1A7-F5B-F72
+
+// Roundhouse kick kills
+407-F5B-F72
+
+// Jumping punch does nothing
+007-D1B-F7A
+
+// Jumping punch does very little damage
+017-D1B-F7A
+
+// Jumping punch does more damage
+1A7-D1B-F7A
+
+// Jumping punch kills
+407-D1B-F7A
+
+// Flaming roundhouse does nothing
+008-21B-D5A
+
+// Flaming roundhouse does very little damage
+018-21B-D5A
+
+// Flaming roundhouse does more damage
+1A8-21B-D5A
+
+// Flaming roundhouse kills
+408-21B-D5A
+
+// Straight kick does nothing
+007-81B-F7A
+
+// Straight kick does very little damage
+017-81B-F7A
+
+// Straight kick does more damage
+1A7-81B-F7A
+
+// Straight kick kills
+407-81B-F7A
+
+// Roundhouse sweep does nothing
+007-F9B-F7A
+
+// Roundhouse sweep does very little damage
+017-F9B-F7A
+
+// Roundhouse sweep does more damage
+1A7-F9B-F7A
+
+// Roundhouse sweep kills
+407-F9B-F7A
+
+// Standing punch does nothing
+007-71B-F7A
+
+// Standing punch does very little damage
+017-71B-F7A
+
+// Standing punch does more damage
+1A7-71B-F7A
+
+// Standing punch kills
+407-71B-F7A
+
+// Infinite time
+7E6-C0F-3BE
+7E6-CEF-3BE
+
+// Start with 10 seconds
+01A-2AD-F7E
+
+// Start with 90 seconds
+09A-2AD-F7E
+
+// Start with 150 seconds
+0FA-2AD-F7E
+
+// Start with very little energy
+019-FED-2A2
+019-FFD-2A2
+01A-B4D-2A2
+
+// Start with 1/4 energy
+0D9-FED-2A2
+0D9-FFD-2A2
+0DA-B4D-2A2
+
+// Start with 1/2 energy
+199-FED-2A2
+199-FFD-2A2
+19A-B4D-2A2
+
+// Start with 3/4 energy
+229-FED-2A2
+229-FFD-2A2
+22A-B4D-2A2
+
+// Start with MEGA energy
+FF9-FED-2A2
+FF9-FFD-2A2
+FFA-B4D-2A2
+
+// Infinite Timer (Ten's Digit)
+00D6-4009
+
+// Infinite Timer (One's Digit)
+00D6-4109
+
+// P1 Always Wins
+00D5-9C02
+
+// P2 Never Wins Any Rounds
+00D5-9D00
+
+// Glitchy P2
+00D5-C57B
+
+// P1 Player Selection Screen Modifier
+00D4-D800
+
+// Infinite Time
+006-C0F-3BE
+
+// One Round Matches
+015-11F-E62
+
+// Player 1 Always Wins Round 1
+9C5-0EF-91C
+
+// Shaq Has Infinite Health
+00CD-0732
+
+// Enemy Has No Health
+00CD-7300

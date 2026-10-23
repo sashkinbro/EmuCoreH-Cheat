@@ -1,0 +1,195 @@
+// All weapons are made immediately
+JP4T-AE0N
+
+// Infinite money
+DV4T-AA6R
+
+// Infinite energy
+AJ7A-AA36
+
+// Infinite ammunition
+B2HA-AA98
+
+// Infinite stamina against anti-aircraft fire
+ATNA-AA32
+
+// Infinite stamina against bullets
+AJLT-AA7W
+
+// Infinite total strength
+BCGT-AA5L
+
+// Immediate energy recovery
+RGFA-A602
+
+// Immediate ammunition recovery
+NCFA-BE92
+
+// Immediate stamina recovery
+RGFA-A6ZY
+
+// Total strength starts at 1
+AF0A-AADY
+
+// Total strength starts at 100
+NV0A-AADY
+
+// Total strength starts at 500
+8V0A-ACDY
+
+// Total strength starts at 5,000
+VB0A-BGDY
+
+// Total strength starts at 50,000
+LB0A-AHXY
+
+// Never get money
+AAEA-BA36
+
+// Get 80 G's per second in 1st battle stage, 200 in stages 2 thru 8
+JAEA-BJV6
+
+// Get 120 G's per second in 1st battle stage, 240 in stages 2 thru 8
+JAEA-BNV6
+
+// Get 160 G's per second in 1st battle stage, 280 in stages 2 thru 8
+JAEA-BTV6
+
+// Get 200 G's per second in 1st battle stage, 320 in stages 2 thru 8
+JAEA-BYV6
+
+// Get 240 G's per second in 1st battle stage, 360 in stages 2 thru 8
+JAEA-B2V6
+
+// Get 280 G's per second in 1st battle stage, 400 in stages 2 thru 8
+JAEA-B6V6
+
+// Get 320 G's per second in 1st battle stage, 440 in stages 2 thru 8
+JAEA-BAV6
+
+// Start with no G's
+AA0T-AAFY
+
+// Start with 1,000 G's
+NT0T-AAFY
+
+// Start with 5,000 G's
+8T0T-ACFY
+
+// Start with 50,000 G's
+VA0T-BGFY
+
+// Start with 100,000 G's
+CA0T-ARPY
+
+// Start with 250,000 G's
+ZA0T-AC7Y
+
+// Start with 500,000 G's [maximum]
+LA0T-AHZY
+
+// Never get money
+AAEA-BA50
+
+// Get 80 G's per second in 1st battle stage, 200 in stages 2 thru 8
+JAEA-BJX0
+
+// Get 120 G's per second in 1st battle stage, 240 in stages 2 thru 8
+JAEA-BNX0
+
+// Get 160 G's per second in 1st battle stage, 280 in stages 2 thru 8
+JAEA-BTX0
+
+// Get 200 G's per second in 1st battle stage, 320 in stages 2 thru 8
+JAEA-BYX0
+
+// Get 240 G's per second in 1st battle stage, 360 in stages 2 thru 8
+JAEA-B2X0
+
+// Get 280 G's per second in 1st battle stage, 400 in stages 2 thru 8
+JAEA-B6X0
+
+// Get 320 G's per second in 1st battle stage, 440 in stages 2 thru 8
+JAEA-BAX0
+
+// Start with no G's
+AA1A-AAEA
+
+// Start with 1,000 G's
+NT1A-AAEA
+
+// Start with 5,000 G's
+8T1A-ACEA
+
+// Start with 50,000 G's
+VA1A-BGEA
+
+// Start with 100,000 G's
+CA1A-ARNA
+
+// Start with 250,000 G's
+ZA1A-AC6A
+
+// Start with 500,000 G's [maximum]
+LA1A-AHYA
+
+// Infinite Armor
+FF8B9E:00FF
+
+// Infinite Gun Ammo
+FF8BAC:0060
+
+// Infinite Energy
+FF8BAE:0014
+
+// Infinite Money
+FF8BE8:C350
+
+// No Armor
+FF8B9E:0000
+
+// No Gun Ammo
+FF8BAC:0000
+
+// No Energy
+FF8BE8:0000
+
+// No Money
+FF8BE8:0000
+
+// Infinite Armor
+FF8C9E:00FF
+
+// Infinite Gun Ammo
+FF8CAC:0060
+
+// Infinite Energy
+FF8CAE:0014
+
+// Infinite Money
+FF8CE8:C350
+
+// No Armor
+FF8C9E:0000
+
+// No Gun Ammo
+FF8CAC:0000
+
+// No Energy
+FF8CAE:0000
+
+// No Money
+FF8CE8:0000
+
+// Level Modifier
+FFF84C:00BE
+FFF926:00BE
+
+// Infinite D
+AALT-AAF0
+
+// Infinite G
+AAHA-AAH8
+
+// Infinite E
+AA7A-AACA

@@ -1,0 +1,11 @@
+// Infinite Lives
+00D2-A109
+
+// Infinite Red Balls
+00D0-BC99
+
+// Infinite Hits
+00D2-A204
+
+// Infinite Tries At The Cards Matching Game
+00D2-2801

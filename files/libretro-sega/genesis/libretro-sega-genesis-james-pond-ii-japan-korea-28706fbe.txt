@@ -1,0 +1,23 @@
+// Infinite Lives
+AJ8T-AA9A
+
+// Infinite Energy
+AJ8T-AA20
+AJ8A-AA76
+
+// Invincibility
+RY8T-A6TT
+RY8A-A6YY
+
+// Keep Wings Round To Round
+AJYT-AA2T
+
+// Infinite Continue
+ALZA-AA5A
+
+// Jumps In Mid Air (Multi-Jumps)
+RE0T-A6ZT
+
+// Infinite Controllable Jump
+AA0T-AA1G
+AA0T-AA06

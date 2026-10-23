@@ -1,0 +1,39 @@
+// Turn Modifier
+FF1A98:0000
+
+// Infinite gold, infinite food, and infinite population recruitment.
+RF0T-A6ZE
+
+// Can pick a boy/prince to be General, even if you don't have any boys.
+AWFA-AA7Y
+
+// Ruler doesn't age (will never die from old age).
+RY3A-E6WG
+
+// Boys/Princes can be appointed General at any age (even zero years old).
+D4WT-EA62
+
+// Girls/Princesses can be married at any age (even zero years old).
+DLXT-EA44
+
+// Infinite turns/body points (turn code off when your turn is over).
+AB1A-BA2C
+
+// Get 1020 labor allocation points instead of 100 (in the Domest section).
+AMDT-EA3E
+
+// Mercenaries are much cheaper to hire (about 93% off the usual price).
+AMNT-EA88
+
+// Can hire any units/troops when in the Hire Mercenaries section, no matter which nation you're playing.
+RHNT-E6Z8
+
+// Merchants are always available (in the Market).
+ADRA-EA5E
+EDGA-EA94
+
+// Can select units/troops that you don't have (zero quantity) when forming legions (in the War/Attack section).
+AJ2T-GA7E
+
+// Start a new game with 10x as much gold ($3,690).
+PMWT-G6DA

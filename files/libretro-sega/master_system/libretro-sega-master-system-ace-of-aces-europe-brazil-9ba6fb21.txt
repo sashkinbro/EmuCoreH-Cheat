@@ -1,0 +1,14 @@
+// Unlimited Ammo
+00D4-8801
+
+// Fuel Tanks Modifier (0 - 2)
+00D5-BD00
+
+// Small Missiles Modifier (09)
+00D5-BA00
+
+// Bomb Modifier (Any Value Works)
+00D5-B800
+
+// Yellow/Red Striped Missile
+00D5-B900

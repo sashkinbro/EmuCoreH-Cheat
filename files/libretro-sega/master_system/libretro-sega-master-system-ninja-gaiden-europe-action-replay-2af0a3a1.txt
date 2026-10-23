@@ -1,0 +1,23 @@
+// Invincibility
+00DF-C815
+
+// Infinite Lives
+00DF-C704
+
+// Infinite Weapons
+00DF-C3E7
+
+// Infinite Time
+00DF-B106
+
+// Invincibility (Alternate)
+00CA-3CF1
+
+// Bosses Are Never Invincible
+00CB-7C00
+
+// Bosses Die In 1 Hit
+00CB-7A00
+
+// Infinite Time (Alternate)
+00DF-B000

@@ -1,0 +1,20 @@
+// Infinite Health
+00DA-A903
+
+// Infinite Time
+00DA-AB01
+
+// Don't Die When Health Reaches 0
+017-E2D-3BA
+
+// Infinite Health
+007-E3D-19E
+
+// Invulnerability (Blinking)
+00DB-2E22
+
+// Invulnerability
+181-C2D-6EA
+
+// Infinite Time
+00A-9DE-19E

@@ -1,0 +1,5 @@
+// XX Punches Swung For P1 Modifier
+FF026A:0000
+
+// XX Punches Swung For P2/CPU Modifier
+FF02D2:0000

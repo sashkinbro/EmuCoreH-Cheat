@@ -1,0 +1,10 @@
+// Infinite Energy
+9TPT-BCFW
+96PT-AAFY
+YYPT-B7P0
+
+// Fake Infinite Time (Seconds)
+FF399A:003A
+
+// P1 Loss Modifier
+FFBAB6:0000

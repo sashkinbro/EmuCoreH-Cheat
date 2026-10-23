@@ -1,0 +1,20 @@
+// Blood Code Activated
+00C4-0928
+
+// Infinite Continues
+00C4-0B07
+
+// Infinite Energy
+00C4-8848
+
+// Infinite Health Player 2
+00C4-8A48
+
+// Blood Enabled
+007-8F6-C49
+
+// Infinite Credits
+004-2D6-19E
+
+// Infinite Health (P2 Receives All Damage)
+BA1-C0B-5D4

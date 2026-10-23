@@ -1,0 +1,18 @@
+// Infinite Life
+00C2-9208
+
+// Don't lose health units when you drop off some ledges
+C91-E9E-3BE
+
+// Infinite Time
+003-E3B-19E
+
+// Invincibility
+C92-AAE-C49
+C3A-0AE-E61
+C32-CAC-A21
+181-ECE-08A
+001-E9E-3BE
+
+// Disable Spiked Gates
+C3F-5DD-C41

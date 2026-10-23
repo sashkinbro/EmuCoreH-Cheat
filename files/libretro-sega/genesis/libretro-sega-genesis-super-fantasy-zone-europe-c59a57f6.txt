@@ -1,0 +1,143 @@
+// Infinite Lives
+RYRT-A6XL
+
+// Collect Money For Max Money
+RGLA-A6W4
+
+// Infinite Lives
+FF01D2:0009
+
+// Always have Big Wings
+FF017C:0001
+
+// Always have Jet Engine
+FF017C:0001
+
+// Always have Turbo Engine
+FF017E:0001
+
+// Always have Rocket Engine
+FF017E:0001
+
+// Always have Wide Beam
+FF0180:0001
+
+// Always have Laser Beam
+FF0180:0001
+
+// Always have Twin Bombs
+FF0182:0001
+
+// Always have 7-way Shots
+FF0182:0001
+
+// Always have Cross Rangs
+FF0184:0001
+
+// Always have Quartet Missiles
+FF0184:0001
+
+// Infinite Smart Bombs
+FF0186:0009
+
+// Infinite Heavy Bombs
+FF0186:0009
+
+// Infinite Back Fires
+FF0188:0009
+
+// Infinite Thunder Volts
+FF0188:0009
+
+// Infinite Hurricanes
+FF018A:0009
+
+// Infinite Ultra Bombs
+FF018A:0009
+
+// Infinite Shower Bombs
+FF018C:0009
+
+// Always have Shield
+FF018E:0001
+
+// Always have Rubber Boots
+FF018E:0001
+
+// Always have Super Lights
+FF0190:0001
+
+// Invincibility
+FF01D4:0000
+FF01D4:0000
+
+// Never Lose Money (Once you get money.)
+ALCT-CA4G
+
+// Invincibility
+E0CA-AAB0
+
+// Max Money (Millions/Billions Digits)
+FF1074:0099
+
+// Max Money (Ten Thousands/Thousands Digits)
+FF1074:0099
+
+// Max Money (Hundreds Digit)
+FF1076:0009
+
+// Max Money (Tens and Ones Digits)
+FF1076:0099
+
+// Always Have Shield
+ATNT-AA4L
+
+// Always Have Rubber Boots
+ATNT-AA2Y
+
+// Always Have Super Lights
+ATNT-AA24
+
+// Power Meter Charges Special Weapons Always At Maximum
+ALKT-AA3T
+
+// Invincibility (Disable Hit Detection)
+R1ST-A6W6
+R0CA-A6VL
+
+// 1 Shot Kill All  Bosses
+BDWT-AA8T
+
+// 1 Shot Kill Special Objects
+A5VT-AA8R
+
+// Keep Special Weapons After The Death And Round To Rund
+AJNT-AA80
+ATNT-AA9A
+
+// Infinite Special
+AXJA-AA9T
+AXJT-AA46
+AXJT-AA9T
+AXKA-AA5G
+AXKT-AA3N
+AXKT-AA7L
+AXJA-AA6C
+
+// Keep Big Wings Jet Engine Turbo Engine Rocket Engine After The Death
+ATNT-AA84
+
+// Keep Shield After The Death
+ATNT-AA4L
+
+// Keep Rubber Boots After The Death
+ATNT-AA2Y
+
+// Keep Super Lights After The Death
+ATNT-AA24
+
+// Infinite Gold
+ALCT-CA4G
+
+// Enabled Cheat Code Original Fantasy Zone Music
+RERT-A606

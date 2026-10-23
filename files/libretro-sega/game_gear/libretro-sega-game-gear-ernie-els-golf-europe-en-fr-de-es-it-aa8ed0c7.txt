@@ -1,0 +1,11 @@
+// Always on Same Stroke
+007-3AC-3BA
+
+// Infinite Mulligans
+007-67C-3BE
+
+// Always on 1st Stroke
+00D8-BB00
+
+// Infinite Mulligans
+00D8-BEFF

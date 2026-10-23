@@ -1,0 +1,8 @@
+// Invincibility (First Section Only)
+FF9B56:0039
+
+// Infinite Keys
+FFEB4A:0063
+
+// Infinite Midas Rings
+FFEB4C:0063

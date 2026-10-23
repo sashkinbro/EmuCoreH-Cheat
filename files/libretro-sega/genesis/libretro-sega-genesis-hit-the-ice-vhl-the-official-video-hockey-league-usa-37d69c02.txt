@@ -1,0 +1,11 @@
+// Infinite Time (Seconds)
+FFFA64:0059
+
+// Team 2 Score Modifier (P1 - Home Team)
+FFD02C:0000
+
+// Team 2 Score Modifier (P2/CPU - Away Team)
+FFD302:0000
+
+// Freeze Time
+AKNA-AA88

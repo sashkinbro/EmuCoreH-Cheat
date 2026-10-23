@@ -1,0 +1,5 @@
+// Your Score Modifier (P1)
+FF8FA0:0000
+
+// Opponent Score Modifier (P2/CPU)
+FF8F9E:0000

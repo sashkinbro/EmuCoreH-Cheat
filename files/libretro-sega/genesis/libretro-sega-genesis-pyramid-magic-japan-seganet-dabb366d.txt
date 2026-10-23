@@ -1,0 +1,8 @@
+// Freeze Time
+FF20B0:4E75
+
+// Infinite Lives
+FF2804:6002
+
+// Infinite Tries
+AJYA-EA2E

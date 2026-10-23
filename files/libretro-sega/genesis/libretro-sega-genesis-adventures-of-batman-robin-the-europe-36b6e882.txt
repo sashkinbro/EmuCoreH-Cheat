@@ -1,0 +1,55 @@
+// Infinite Lives
+AJCA-CA8Y
+
+// Infinite Energy
+AJCA-CA7G
+
+// Invincibility
+1FCA-A6YT
+AFCA-AAEW
+1VCA-AJEY
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Always Power Of Weapon
+AJFT-CA2E
+
+// Infinite Credit
+ALKA-JA36
+
+// Freeze Time Continue
+AJHA-AA44
+
+// Untouchable
+RYEA-C6WJ
+
+// Regional Lockout Bypass (USA and Japanese Systems)
+AACA-AA3J
+
+// Pause the game and press B to skip to the next section/level
+RGRA-A60L
+
+// Can select the number of lives you start with using the Sound Test number in the Option menu
+BTAT-DP98
+
+// Can select up to 20 credits in the Option menu
+CWNT-JAHT
+
+// Don't fall when you walk off ledges (walk on air)
+A2HA-CA8Y
+
+// Jump higher (Batman only)
+S44T-JAC0
+
+// Jump much higher (Batman only)
+144T-JAC0
+
+// Jump higher (Robin only)
+S5TA-JAEW
+
+// Jump much higher (Robin only)
+15TA-JAEW

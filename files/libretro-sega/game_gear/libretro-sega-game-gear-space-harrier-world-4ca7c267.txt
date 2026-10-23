@@ -1,0 +1,113 @@
+// Invincible
+00C1-5801
+
+// Start with 5 lives
+040-8DF-E62
+
+// Start with 7 lives
+060-8DF-E62
+
+// Start with 9 lives
+080-8DF-E62
+
+// Floor doesn't move
+004-A6E-3BE
+
+// Infinite Lives
+21A-63D-2A2
+
+// Watch Ending
+195-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 02
+025-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 03
+035-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 04
+045-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 05
+065-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 06
+075-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 07
+0A5-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 08
+0B5-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 09
+0D5-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 10
+0E5-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 11
+0F5-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 12-1
+115-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 12-2
+125-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 12-3
+135-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 12-4
+145-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 12-5
+165-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 12-6
+175-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Start On Stage 12-7
+185-CCE-B3E
+005-C9E-6EA
+005-CAC-E62
+
+// Infinite Lives
+00C1-2309
+
+// Black Floors
+00C1-1002

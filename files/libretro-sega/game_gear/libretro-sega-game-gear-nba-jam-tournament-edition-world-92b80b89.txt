@@ -1,0 +1,267 @@
+// Infinite Shot Clock
+00CB-030A
+
+// Character number one is Bill Clinton
+017-03D-B3E
+
+// Character number one is Hillary Clinton
+027-03D-B3E
+
+// Character number one is Suns Gorilla
+037-03D-B3E
+
+// Character number one is Heavy D
+047-03D-B3E
+
+// Character number one is Jazzy Jeff
+057-03D-B3E
+
+// Character number one is Fresh Prince
+067-03D-B3E
+
+// Character number one is Thomas
+077-03D-B3E
+
+// Character number one is Cunningham
+087-03D-B3E
+
+// Character number one is Bird
+097-03D-B3E
+
+// Character number one is Mike D
+0A7-03D-B3E
+
+// Character number one is ADROCK
+0B7-03D-B3E
+
+// Character number one is MCA
+0C7-03D-B3E
+
+// Character number one is Hugo
+0D7-03D-B3E
+
+// Character number one is Crunch
+0E7-03D-B3E
+
+// Character number two is Bill Clinton
+017-04D-D5D
+
+// Character number two is Hillary Clinton
+027-04D-D5D
+
+// Character number two is Suns Gorilla
+037-04D-D5D
+
+// Character number two is Heavy D
+047-04D-D5D
+
+// Character number two is Jazzy Jeff
+057-04D-D5D
+
+// Character number two is Fresh Prince
+067-04D-D5D
+
+// Character number two is Thomas
+077-04D-D5D
+
+// Character number two is Cunningham
+087-04D-D5D
+
+// Character number two is Bird
+097-04D-D5D
+
+// Character number two is Mike D
+0A7-04D-D5D
+
+// Character number two is ADROCK
+0B7-04D-D5D
+
+// Character number two is MCA
+0C7-04D-D5D
+
+// Character number two is Hugo
+0D7-04D-D5D
+
+// Character number two is Crunch
+0E7-04D-D5D
+
+// Infinite turbo when on offense
+7E3-859-3B7
+
+// Turbo doesn't recharge
+7E3-A59-3B7
+
+// No shot clock
+00D-2EA-19E
+
+// CPU's 2 pt. shots are worth 0
+00A-CE6-E62
+
+// CPU's 2 pt. shots are worth 1
+01A-CE6-E62
+
+// CPU's 2 pt. shots are worth 3
+03A-CE6-E62
+
+// CPU's 2 pt. shots are worth 4
+04A-CE6-E62
+
+// CPU's 2 pt. shots are worth 5
+05A-CE6-E62
+
+// CPU's 2 pt. shots are worth 6
+06A-CE6-E62
+
+// CPU's 2 pt. shots are worth 7
+07A-CE6-E62
+
+// CPU's 2 pt. shots are worth 8
+08A-CE6-E62
+
+// CPU's 2 pt. shots are worth 9
+09A-CE6-E62
+
+// Infinite Turbo P1
+00CB-1A20
+
+// P1 Is Frozen
+00C6-9C7F
+
+// Team 1 Has Huge Score
+00C6-8599
+
+// Team 2 Never Scores
+00C6-8700
+
+// Team 1 can't Score
+2A6-43E-6E2
+
+// Team 2 can't Score
+2A6-ABE-6E2
+
+// Enable Extended Roster
+183-83A-4CA
+
+// P1 Infinite Turbo
+00CB-1A20
+
+// P2 Infinite Turbo
+00CB-9A20
+
+// P3 Infinite Turbo
+00CC-1A20
+
+// P4 Infinite Turbo
+00CC-9A20
+
+// Infinite Shot Clock
+00CB-0318
+
+// Enable Extended Roster
+00CA-4801
+
+// Display Shot% Powerup
+00C0-9A01
+
+// Slippery Court Powerup
+00C0-AA01
+
+// P1 Player Modifier
+00C6-E009
+
+// P2 Player Modifier
+00C6-E109
+
+// P3 Player Modifier
+00C6-E209
+
+// P4 Player Modifier
+00C6-E309
+
+// P1 Powered-up Player
+00CB-954F
+00CB-9655
+
+// P2 Powered-up Player
+00CC-154F
+00CC-1655
+
+// P3 Powered-up Player
+00CC-954F
+00CC-9655
+
+// P4 Powered-up Player
+00CD-154F
+00CD-1655
+
+// P1 Powerups - Set 1
+00CB-9501
+
+// P1 All Powerups
+00CB-95FF
+00CB-9657
+
+// P2 All Powerups
+00CC-15FF
+00CC-1657
+
+// P3 All Powerups
+00CC-95FF
+00CC-9657
+
+// P4 All Powerups
+00CD-15FF
+00CD-1657
+
+// P1 Powerups - Set 2
+00CB-9601
+
+// P2 Powerups - Set 1
+00CC-1501
+
+// P2 Powerups - Set 2
+00CC-1601
+
+// P3 Powerups - Set 1
+00CC-9501
+
+// P3 Powerups - Set 2
+00CC-9601
+
+// P4 Powerups - Set 1
+00CD-1501
+
+// P4 Powerups - Set 2
+00CD-1601
+
+// P1 Better Defense Powerup
+00CB-9503
+
+// P2 Better Defense Powerup
+00CC-1503
+
+// P3 Better Defense Powerup
+00CC-9503
+
+// P4 Better Defense Powerup
+00CD-1503
+
+// Infinite Shot Clock
+3AD-2FA-2A2
+
+// Powerups - Set 1 - All Players
+013-299-E6A
+
+// Powerups - Set 2 - All Players
+013-2A9-E6A
+
+// All Powerups - All Players
+FF3-299-E6A
+573-2A9-E6A
+
+// Powered-up Player - All Players
+4F3-299-E6A
+553-2A9-E6A
+
+// Better Defense Powerup - All Players
+033-299-E6A

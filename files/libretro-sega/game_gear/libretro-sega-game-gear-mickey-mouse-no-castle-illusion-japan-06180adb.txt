@@ -1,0 +1,32 @@
+// Infinite Health
+00C0-BD03
+
+// Invulnerability
+00C2-2681
+
+// Get Hit Once For Invincibility (Blinking)
+00C2-27FF
+
+// Invulnerability
+18F-8FC-6EA
+
+// Infinite Lives
+00C0-C803
+
+// Infinite Lives
+008-90E-E6E
+
+// Infinite Time
+00DC-0099
+
+// Infinite Time
+003-148-E6E
+
+// Mickey Jumps Higher
+00C2-28FF
+
+// Freeze Timer
+00DC-0219
+
+// Jump Height Modifier
+FBE-C8C-199

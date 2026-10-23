@@ -1,0 +1,29 @@
+// Infinite Lives
+00D2-4609
+
+// Infinite Rings
+00D2-AA99
+
+// Low Timer
+00D2-CF00
+
+// Infinite Time
+00D2-D000
+
+// Invincibility
+00D2-0901
+
+// Invulnerability
+C96-CFC-E69
+
+// Don't Lose Rings When Hit
+3A7-13C-2A2
+
+// Don't Die When Hit With No Rings
+186-E4C-6EA
+
+// Infinite Lives
+005-1BA-3BE
+
+// Infinite Time
+7EA-DDC-3B7

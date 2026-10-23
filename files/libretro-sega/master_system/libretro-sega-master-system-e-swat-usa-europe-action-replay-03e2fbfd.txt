@@ -1,0 +1,23 @@
+// Infinite Health
+00C0-6404
+
+// Infinite Time - Ten's Digit
+00C0-CA09
+
+// Infinite Time - One's Digit
+00C0-CB09
+
+// Infinite Ammo - One's Digit
+00C0-D709
+
+// Infinite Ammo - Ten's Digit
+00C0-D609
+
+// Infinite Ammo - Hundred's Digit
+00C0-D509
+
+// Always Have E-Suit
+00C0-5E03
+
+// Infinite Ammo For Special Weapons
+00C0-C705

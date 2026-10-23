@@ -1,0 +1,5 @@
+// Infinite Lives
+00DA-6F01
+
+// Infinite Energy
+00DA-6510

@@ -1,0 +1,18 @@
+// Infinite Lives
+00C4-0F04
+
+// Infinite Health
+00C4-18FF
+
+// Don't Die From Health Loss
+C0D-B77-C49
+
+// Infinite Health
+00D-AE7-F79
+
+// Infinite Lives
+003-9DB-E6E
+
+// Jump Higher
+4D5-957-19E
+585-9B7-C4B

@@ -1,0 +1,64 @@
+// Protection from most attacks/damage
+AK6T-AA6J
+AM1T-AA6R
+
+// Infinite bombs Player 1
+AJ1A-CA30
+
+// Start a new game with 4 bombs
+AWET-AAFG
+
+// When you lose a life, you'll get the triple shot weapon
+AMXT-AACL
+
+// Start a new game with the triple shot weapon
+ALET-AAFW
+
+// Infinite lives for Player 1
+AMXT-AA46
+
+// Start a new game with the double shot weapon
+AGET-AAFW
+
+// When you lose a life, you'll get the double shot weapon
+AHXT-AACL
+
+// Infinite Lives
+FF70EC:0009
+
+// Infinite Lives P2
+ADXT-BKSW
+
+// Infinite Energy P2
+0K6T-BNEJ
+0ALA-DNKL
+
+// Pause the game and press any button for invincibility
+RGHT-A612
+JCHT-B202
+
+// Pause the game and press A to refill your energy, or press C for invincibility
+JCHT-B202
+ACHT-BE9R
+AWJA-B226
+
+// Pause the game and press A for the level select menu, or press C for invincibility
+JCHT-B202
+ACHT-BE9R
+CWJA-B226
+
+// Pause the game and press A to upgrade your weapon, or press C for invincibility
+JCHT-B202
+ACHT-BE9R
+BWJA-B226
+
+// Pause the game and press Down to refill your energy, press Right to add another life, or press C for invincibility
+JCHT-B202
+ACHT-BE9R
+
+// Pause the game and press A for weapon upgrade, press B for the level select menu, press C for invincibility, press Down to refill your energy, or press Right to add another life
+JCHT-B202
+ACHT-BE9R
+CCJT-AAP0
+BCJT-AAZ6
+CCJT-BAGJ

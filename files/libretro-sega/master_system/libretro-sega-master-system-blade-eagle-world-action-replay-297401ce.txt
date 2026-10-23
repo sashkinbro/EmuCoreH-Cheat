@@ -1,0 +1,11 @@
+// Infinite Lives
+00C1-8009
+
+// Speed Up 3
+00C1-9002
+
+// Extra Mini-Ships (2)
+00C1-9102
+
+// Maximum Firepower
+00C1-9204

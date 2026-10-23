@@ -1,0 +1,54 @@
+// Freeze Cpu Cars [Challenge]
+AW1T-JA6R
+AW2A-JA9G
+AW3A-JA38
+
+// Freeze Cpu Cars [Challenge]
+FFD080:0000
+FFD07E:0000
+FFD07C:0000
+
+// Zero Laps Remaining P1
+FFD164:0000
+
+// Infinite Time (Minutes)
+FFD678:0000
+
+// Infinite Time (Seconds)
+FFD67A:0000
+
+// Auto Qualify In Battle Arena
+FFD6A6:0000
+
+// Blue Car Direction
+FFD058:0000
+
+// Yellow Car Direction
+FFD05A:0000
+
+// Green Car Direction
+FFD05C:0000
+
+// Infinite Lives - Challenge Race
+AJKT-AA40
+
+// Infinite Lives - Battle Arena
+AJHT-AA38
+
+// Infinite Lives - Time Trial Challenge
+AJJT-AA2N
+
+// Infinite Time - Challenge Race and Time Trial
+RGLA-A6WE
+
+// Infinite Time - Extra Life Game and Time Trial Challenge
+RGMA-A61N
+
+// Start with 5 Lives, instead of 3
+ATCT-AAC0
+
+// Start with 7 Lives
+A2CT-AAC0
+
+// Start with 9 Lives
+BACT-AAC0

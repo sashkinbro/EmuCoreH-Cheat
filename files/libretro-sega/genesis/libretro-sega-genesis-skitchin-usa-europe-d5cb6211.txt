@@ -1,0 +1,57 @@
+// Skate Much Faster
+ADEV-CA4W
+
+// Infinite Food
+AM7B-CA8T
+
+// Don't Get Charged For Entering Races
+AXLV-EA3N
+
+// Don't Get Charged For Equipment.
+AL5V-GA4J
+
+// Slows The Game Down, And Makes You Jump Much Higher
+AT8B-EA9R
+
+// Makes You Jump Much Higher
+PHLB-DETE
+
+// Makes You Jump Higher
+PHLB-DJTE
+
+// Start With $500
+8T7V-GCEE
+
+// Start With $10,000
+CA7V-GRNE
+
+// Start With $25,000
+ZA7V-GC6E
+
+// Don't Get Charged For Beginner Wheels
+ACDB-8AFW
+
+// Don't Get Charged For Beginner Skates
+ACDB-8AF6
+
+// Infinite Cash
+FFEF58:03E8
+
+// Infinite Time
+FFDC06:0008
+
+// Set Max./Infinite Money ($32767)
+FFEF58:00A8
+FFEF58:0061
+
+// Auto Race At 200+ MPH
+FF0768:007F
+
+// No Traffic
+AL1B-CA7E
+
+// Infinite Energy
+R16T-66VG
+
+// Never get knocked down / Never Fall
+FF0794:00FF

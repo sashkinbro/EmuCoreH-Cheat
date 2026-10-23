@@ -1,0 +1,80 @@
+// Freeze Cpu
+9V2A-DCLJ
+KF2A-CACL
+AV2A-CZCN
+
+// Freeze Time
+AKHA-AA3G
+
+// Freeze Cpu
+FF8A04:004B
+
+// Freeze Time
+FF8946:0050
+
+// Invincibility
+FF899C:0002
+
+// Start A New Game With 100 Seconds
+LZGA-BLYT
+
+// Start A New Game With 999 Seconds
+XFGA-BXET
+
+// Start A New Game With 5 Continues (Instead of 3)
+AYKA-AAFJ
+
+// Start A New Game With 9 Continues (Instead of 3)
+BEKA-AAFJ
+
+// CPU Player Gets Stuck At Start Of Level
+FF8A20:FFFF
+
+// Infinite Time
+FF8946:0064
+
+// Infinite Dash P1
+FF89CA:0002
+
+// Characters Blink
+ACTA-AA3E
+
+// Invincibility P1 And P2 From Obstacles
+R1GA-C60J
+RZ7T-C6W4
+R1GT-C6WW
+R1HA-C618
+R0DT-C6Z8
+R0WA-A6Z8
+RZ5T-C6VL
+
+// Invincibility P1 From P2/CPU
+R0AA-A6YT
+
+// Invincibility P2 From P1
+R0AA-A6YY
+
+// Rumble Kids title screen
+AADA-AAH6
+
+// Boss Cars Don't Move
+AL6T-CA22
+
+// Only Takes 7 Hits To Blow Up Boss Cars (Instead Of 30 Hits)
+SX8A-DCGG
+AH8A-CAGJ
+
+// Jump In Midair (Multi-Jump) Along With Moon Jump
+ALEA-AA8R
+
+// Infinite Dash
+ALKT-AA7A
+
+// Speed Shoes Last Twice As Long
+ABST-CLCJ
+
+// As soon as you pick-up the speed shoes start running, and when you reach full speed (in 1 or 2 seconds), you will warp to the end of the level and win the race
+93ST-CACR
+
+// Don't Fall When You Walk Off Ledges (Walk on Air)
+R0NT-A60Y

@@ -1,0 +1,59 @@
+// Start with 2 lives
+010-A3F-E62
+
+// Start with 5 lives
+040-A3F-E62
+
+// Start with 8 lives
+070-A3F-E62
+
+// Infinite lives
+3A1-8EF-2A2
+
+// Start on level 2
+3E0-E5F-2A2
+010-E6F-D5E
+000-C7F
+
+// Start on level 3
+3E0-E5F-2A2
+020-E6F-D5E
+000-C7F-E69
+
+// Start on level 4
+3E0-E5F-2A2
+030-E6F-D5E
+000-C7F-E69
+
+// Start on level 5
+3E0-E5F-2A2
+040-E6F-D5E
+000-C7F-E69
+
+// Start on level 6
+3E0-E5F-2A2
+050-E6F-D5E
+000-C7F-E69
+
+// Start on level 7
+3E0-E5F-2A2
+060-E6F-D5E
+000-C7F-E69
+
+// Enable Cheat Menu
+008-4FF-6EA
+
+// Infinite Lives
+00C0-0A09
+
+// Infinite Money
+00C0-0B09
+
+// Enable Invincibility Cheat in Config Mode Menu
+038-0AD-E6E
+
+// Enable Config Mode Menu
+00C1-B808
+
+// Enable Invincibility Cheat
+00C0-FC03

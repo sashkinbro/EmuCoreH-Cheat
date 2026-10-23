@@ -1,0 +1,20 @@
+// Infinite Time
+00C0-4199
+
+// Infinite Time
+B6D-90D-3BE
+
+// Start with ?? seconds, instead of 80
+85A-99E-E68
+
+// Checkpoint adds ?? seconds, instead of 60
+65C-FFC-6EB
+
+// Freeze Timer
+00C0-400A
+
+// Enable 2-D Mode
+00C0-0C01
+
+// Enable 2-D Mode
+3E1-31F-7F1

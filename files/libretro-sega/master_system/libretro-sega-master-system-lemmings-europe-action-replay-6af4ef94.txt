@@ -1,0 +1,38 @@
+// Infinite Climber
+00DB-720A
+
+// Infinite Floater
+00DB-730A
+
+// Infinite Bomber
+00DB-740A
+
+// Infinite Blocker
+00DB-750A
+
+// Infinite Builder
+00DB-760A
+
+// Infinite Basher
+00DB-770A
+
+// Infinite Miner
+00DB-780A
+
+// Infinite Digger
+00DB-790A
+
+// 100% Completion Everytime
+00DB-5C64
+
+// Always Have 100% Lemmings Saved (Just Nuke 'em To Jump Level)
+00DB-4C64
+
+// Infinite Time - One's Digit
+00DA-D309
+
+// Infinite Time - Ten's Digit
+00DA-D209
+
+// Infinite Time - Minutes' Digit
+00DA-D109

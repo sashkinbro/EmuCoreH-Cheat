@@ -1,0 +1,14 @@
+// Start With 3 Lives
+027-9C6-E66
+
+// Start With 5 Lives
+057-9C6-E66
+
+// Start With 7 Lives
+077-9C6-E66
+
+// Infinite Lives
+00A-896-19E
+
+// Collect Power Pill And Ghosts Stay Blue Until Eaten
+008-396-4C6

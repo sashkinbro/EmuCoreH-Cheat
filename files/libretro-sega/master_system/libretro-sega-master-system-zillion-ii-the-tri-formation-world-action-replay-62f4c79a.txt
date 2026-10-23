@@ -1,0 +1,8 @@
+// Infinite Lives
+00C0-1F09
+
+// Infinite Health
+00C0-1847
+
+// Pick-Up One "Z" For Max Gun Power
+00C0-1E03

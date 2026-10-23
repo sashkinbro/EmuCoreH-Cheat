@@ -1,0 +1,17 @@
+// Infinite Lives
+004B54:6002
+
+// Invincibility
+010162:6008
+
+// Extra Bullets And Rockets
+0068E6:6002
+
+// Infinite Rockets For Bat Car
+00696A:6002
+
+// Infinite Rockets For Bat Plane
+0069AE:6002
+
+// Skip Levels
+000BB6:4E71

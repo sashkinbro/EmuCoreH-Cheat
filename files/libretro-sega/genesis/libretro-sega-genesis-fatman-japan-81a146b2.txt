@@ -1,0 +1,24 @@
+// Infinite Health P1
+FF2892:00FF
+
+// No Health P2/CPU
+FF2908:0000
+
+// Fight Purse Has Lots of Money For The Victor
+FF4F32:00FF
+
+// Fight Purse Has TONS of Money For The Victor
+FF4F30:00FF
+FF4F32:00FF
+
+// Maxed Money P1
+FF2896:0099
+FF2896:0099
+FF2898:0099
+FF2898:0099
+
+// Infinite Continue
+FF2C2E:0002
+
+// Infinite Continue
+AXHT-CA2A

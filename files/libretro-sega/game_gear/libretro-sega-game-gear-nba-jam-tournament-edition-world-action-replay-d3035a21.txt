@@ -1,0 +1,11 @@
+// Infinite Turbo P1
+00CB-1A20
+
+// P1 Is Frozen
+00C6-9C7F
+
+// Team 1 Has Huge Score
+00C6-8599
+
+// Team 2 Never Scores
+00C6-8700

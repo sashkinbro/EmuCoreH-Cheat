@@ -1,0 +1,68 @@
+// Infinite Lives
+00D4-C209
+
+// Infinite Health
+00D4-C110
+
+// Invulnerability
+00D6-13FF
+
+// Invulnerability
+C90-C6A-E69
+
+// Start with 2 lives
+011-98E-E62
+
+// Start with 5 lives
+041-98E-E62
+
+// Start with 10 lives
+091-98E-E62
+
+// Infinite lives
+012-73E-B39
+
+// Start with 1 energy bar
+011-A3E-A2A
+
+// Start with 5 energy bars
+051-A3E-A2A
+
+// One hit kills
+018-9AE-B39
+
+// 1 Continue
+011-80E-E66
+
+// 5 Continues
+051-80E-E66
+
+// 9 Continues
+091-80E-E66
+
+// Invincibility
+C90-C6A-E69
+
+// Start on level 2
+031-85E-E6A
+
+// Start on level 3
+061-85E-E6A
+
+// Start on level 4
+081-85E-E6A
+
+// Infinite Health
+00D4-C111
+
+// Infinite Continues
+00D4-C609
+
+// Infinite Health
+008-9BE-3BE
+
+// Infinite Lives
+002-74E-3BE
+
+// Infinite Continues
+00A-F2E-3BE

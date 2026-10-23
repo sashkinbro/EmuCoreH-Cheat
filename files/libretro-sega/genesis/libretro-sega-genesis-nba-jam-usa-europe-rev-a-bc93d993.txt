@@ -1,0 +1,63 @@
+// Character Modifier P1
+FF1CAC:0036
+
+// Start With 8 Points And Go Up By Tens Everytime You Score
+FF1E42:0008
+
+// Infinite Fire - Left Player
+FF3C48:0003
+
+// Infinite Fire - Right Player
+FF3D68:0003
+
+// Player 1 Always On Fire
+FF3C4A:0001
+
+// Infinite Time (Micro-Seconds)
+FF1F16:0009
+
+// Dunk and Layup From Anywhere
+AAXB-LA2R
+PJXB-LCAT
+
+// P1 Always On-Fire
+FF3C4A:0001
+
+// P2 Always On-Fire
+FF3D6A:0001
+
+// P3 Always On-Fire
+FF3E8A:0001
+
+// P4 Always On-Fire
+FF3FAA:0001
+
+// P1 Defense Powerup
+FF1D28:0001
+
+// P1 Super Dunk Powerup
+FF1E12:0001
+
+// P1 On-Fire Powerup
+FF1E16:0001
+
+// P1 Infinite Turbo Powerup
+FF1E1A:0001
+
+// P2 Defense Powerup
+FF1D2A:0001
+
+// P3 Defense Powerup
+FF1D2C:0001
+
+// P3 Super Dunk Powerup
+FF1E14:0001
+
+// P3 On-Fire Powerup
+FF1E18:0001
+
+// P3 Infinite Turbo Powerup
+FF1E1C:0001
+
+// P4 Defense Powerup
+FF1D2E:0001

@@ -1,0 +1,123 @@
+// Normal-game clock starts at 100
+AATA-ACBE
+
+// Normal-game clock starts at 200
+AATA-AEBE
+
+// Normal-game clock starts at 250
+LATA-AEBE
+
+// Long-game clock starts at 400
+AATA-AJB2
+
+// Long-game clock starts at 500
+AATA-ALB2
+
+// Long-game clock starts at 750
+LATA-ARB2
+
+// Long-game clock starts at 999
+XETA-AWB2
+
+// Infinite time (most of game)
+AJTA-AA6A
+
+// Start with 1 life
+AANT-AADW
+
+// Start with 2 lives
+AENT-AADW
+
+// Start with 4 lives
+ANNT-AADW
+
+// Flame throwers have less fuel
+JZWA-AAGC
+
+// Each bazooka holds 2 rounds
+AKWA-AAGG
+
+// Each bazooka holds 5 rounds
+AZWA-AAGG
+AZXA-AAAG
+AZXA-AAAR
+
+// Each bazooka holds 9 rounds
+BFWA-AAGG
+BFXA-AAAG
+BFXA-AAAR
+
+// Each machine gun holds 10 rounds
+CBWA-AAF8
+
+// Each machine gun holds 25 rounds
+EZWA-AAF8
+
+// Each machine gun holds 50 rounds
+LBWA-AAF8
+LBXA-AAAC
+LBXA-AAAL
+
+// Each machine gun holds 99 rounds
+XFWA-AAF8
+XFXA-AAAC
+XFXA-AAAL
+
+// No loss of life if sucked into space
+BBFA-AA46
+
+// All weapons have unlimited capacity
+AAZT-AADN
+ABCT-AAD0
+
+// Invincibility
+A2VT-AA3R
+
+// Start with 2 credits
+AENT-AAB0
+AENT-AACG
+
+// Start with 4 credits
+ANNT-AAB0
+ANNT-AACG
+
+// Start with 8 credits
+A6NT-AAB0
+A6NT-AACG
+
+// Start with 10 credits
+BENT-AAB0
+BENT-AACG
+
+// Infinite credits
+AC6T-AAEW
+
+// Start at stage 2
+AJNT-AABT
+
+// Start at stage 3
+ANNT-AABT
+
+// Start at stage 4
+ATNT-AABT
+
+// Start at stage 5
+AYNT-AABT
+
+// Start in stage 5 against giant robot
+A2NT-AABT
+
+// Infinite Time
+FFA016:00FF
+
+// Infinite Health
+FFB00C:00FF
+
+// Infinite Lives
+FFB00A:0009
+
+// Disable Hit Detection (True Invincibility)
+ADPT-AA96
+
+// Invincibility
+FFB048:0010

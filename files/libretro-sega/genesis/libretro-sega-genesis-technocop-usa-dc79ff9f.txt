@@ -1,0 +1,69 @@
+// Invincibility
+G56T-EA6L
+
+// Infinite Stamina
+BM0T-EA4L
+
+// Stop Timer (Except On Car Sequences)
+MM7A-EA28
+
+// Car Never Damages When Crashed
+A31T-EA44
+
+// Car Crash Does Twice As Much Damage
+CV1T-EAC6
+
+// Stamina Replenishes Faster
+SH6T-FJW2
+
+// Gun Never Requires Reload
+EX2A-EA9A
+
+// Start On Stage 2
+AE1A-GAF0
+AJ1A-GAF8
+
+// Start On Stage 3
+AJ1A-GAF0
+AN1A-GAF8
+
+// Start On Stage 4
+AN1A-GAF0
+AT1A-GAF8
+
+// Start On Stage 5
+AT1A-GAF0
+AY1A-GAF8
+
+// Start On Stage 6
+AY1A-GAF0
+A21A-GAF8
+
+// Start On Stage 7
+A21A-GAF0
+A61A-GAF8
+
+// Start On Stage 8
+A61A-GAF0
+BA1A-GAF8
+
+// Start On Stage 9
+BA1A-GAF0
+BE1A-GAF8
+
+// Start On Stage 10
+BE1A-GAF0
+BJ1A-GAF8
+
+// Start On Stage 11
+BJ1A-GAF0
+BN1A-GAF8
+
+// Infinite Time (Seconds) (When On Foot)
+FF177A:0059
+
+// Infinite Health (When On Foot)
+FF25AE:00FF
+
+// Infinite Lives (When On Foot)
+AX6T-EA6T

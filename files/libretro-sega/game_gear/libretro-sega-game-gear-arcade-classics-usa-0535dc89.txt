@@ -1,0 +1,8 @@
+// Infinite Lives (Centipede)
+00CA-4202
+
+// Infinite Lives (Centipede)
+00F-246-3BE
+
+// Hit Anywhere
+180-166-08A

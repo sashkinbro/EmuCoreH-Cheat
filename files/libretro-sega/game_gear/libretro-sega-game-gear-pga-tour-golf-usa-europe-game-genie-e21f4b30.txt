@@ -1,0 +1,18 @@
+// Strong Wind
+3E7-71C-191
+407-72C-105
+187-73C-6EA
+
+// Massive Wind
+3E7-71C-191
+1F7-71C-195
+187-73C-6EA
+
+// Hit Longer Shots
+017-A2C-4CA
+
+// Hit Even Longer Shots
+FF7-A2C-4CA
+
+// Shots Don't Count (Always Hole In One)
+006-50D-19A

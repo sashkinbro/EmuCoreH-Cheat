@@ -1,0 +1,21 @@
+// Team 1 Score Modifier
+00C5-4C0A
+
+// Team 2 Score Modifier
+00C5-4D00
+
+// Infinite Continues
+00C5-E103
+
+// Partner Character Select Screen Modifier
+00C5-EE00
+
+// FAKE Infinite Tries On Slot Machine (Bonus Game)
+00C0-BE09
+
+// Infinite Tries On Slot Machine (Bonus Game)
+00C5-CF09
+
+// Flag/Fish Modifier (Bonus Games)
+00C5-CD00
+00C5-D600

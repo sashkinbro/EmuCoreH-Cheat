@@ -1,0 +1,26 @@
+// Start with $ 1 million
+FFA262:0001
+
+// Set Time(hour)
+FFA20E:0000
+
+// Set time(minutes)
+FFA20E:0000
+
+// Character Modifier
+FFA258:0000
+
+// Fake Have Tons Of Money
+FFA262:0099
+FFA262:0099
+FFA264:0099
+FFA264:0099
+
+// Start a new game with $900. See notes.
+AD7V-LWH0
+
+// Start a new game with $9000. See notes.
+AD7V-MBH0
+
+// Title intro music / sound effect / DAC/PCM sample modifier
+9X1V-LCB6

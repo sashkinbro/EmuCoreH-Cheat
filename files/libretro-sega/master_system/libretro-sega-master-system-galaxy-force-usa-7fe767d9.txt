@@ -1,0 +1,5 @@
+// Infinite Health
+00C0-7F0F
+
+// Infinite Damage
+00D-19C-F7E

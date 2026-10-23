@@ -1,0 +1,11 @@
+// Infinite special weapon ammo. See notes.
+ADXC-5E6C
+
+// Start with 5 special weapon ammo (instead of 2). See notes.
+AY9W-6V9T
+
+// Infinite defense. See notes.
+ADWW-5C6J
+
+// Defense meter refills faster. See notes.
+BDWC-5C6G

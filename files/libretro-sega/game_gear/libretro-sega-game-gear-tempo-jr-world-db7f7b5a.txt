@@ -1,0 +1,29 @@
+// Infinite Coins
+00C4-7563
+
+// Enable level Select
+329-AB5-082
+
+// Infinite Lives
+00C4-7409
+
+// Infinite Hits
+00C4-7303
+
+// Stage Select Enabled
+C39-AF5-E61
+
+// Infinite Health
+00E-A3B-19E
+
+// Infinite Lives
+3A7-9CD-2A2
+
+// Invulnerability
+00C5-0002
+
+// Invulnerability
+C3A-B6D-E61
+
+// Enable Level Select
+00C1-0B01

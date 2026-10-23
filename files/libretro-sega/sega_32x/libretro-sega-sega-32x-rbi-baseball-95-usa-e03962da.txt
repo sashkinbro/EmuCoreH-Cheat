@@ -1,0 +1,17 @@
+// Start with 55 pitches in Homerun Derby (instead of 20)
+G8ZT-GAEW
+
+// Strike Modifier
+FFD788:00BE
+
+// Ball Modifier
+FFD78A:0000
+
+// Infinite Stamina [At Bat]
+FFD1FA:0063
+
+// High Score Team 1 [P1]
+FFD04E:0063
+
+// Score Modifier Team 2 [P2/CPU]
+FFD050:0000

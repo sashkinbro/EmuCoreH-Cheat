@@ -1,0 +1,14 @@
+// Infinite Energy
+PA4T-BJ1A
+
+// Infinite Energy First Viking
+FF908E:0006
+
+// Infinite Energy Second Viking
+FF9090:0006
+
+// Infinite Energy Third Viking
+FF9092:0006
+
+// Region Lockout Bypass
+AABT-AN44

@@ -1,0 +1,95 @@
+// Infinite Gold
+00C1-D409
+
+// Start With Only 1 Life
+015-36F-E66
+
+// Start With 6 Lives
+065-36F-E66
+
+// Start With 9 Lives
+095-36F-E66
+
+// Infinite lives
+3AE-28F-2A2
+
+// Infinite Zatches
+00F-47A-E6E
+
+// Start With No Zatches
+005-49F-E62
+
+// Start With Only 1 Zatch
+015-49F-E62
+
+// Start With 10 Zatches
+105-49F-E62
+
+// Start With 50 Zatches
+505-49F-E62
+
+// Infinite hints
+C9A-ABA-19E
+
+// Start With No Hints
+005-4AF-E66
+
+// Start With Only One Hint
+015-4AF-E66
+
+// Start With 10 Hints
+105-4AF-E66
+
+// Start With 50 Hints
+505-4AF-E66
+
+// Infinite weapons
+000-72E-E6E
+
+// Start With No Weapons
+005-4BF-B3E
+
+// Start With 5 Of Each Weapon
+055-4BF-B3E
+
+// Start With 30 Of Each Weapon
+305-4BF-B3E
+
+// Start With 50 Of Each Weapon
+505-4BF-B3E
+
+// Infinite gold
+3A2-9A9-2A2
+
+// Start With No Gold
+005-4CF-2AA
+
+// Start With Only 15 Gold Coins
+155-4CF-2AA
+
+// Start With 60 Gold Coins
+605-4CF-2AA
+
+// Start With 99 Gold Coins
+995-4CF-2AA
+
+// Start on level 2: Docks of Venice, CA
+010-AEF-E6A
+
+// Start on level 3: Island of Patu San
+020-AEF-E6A
+
+// Start on level 4: jungle of Patu San
+040-AEF-E6A
+
+// Start at the cave of the ancients
+050-AEF-E6A
+
+// Start on level 5: Colonel Chi's prison camp
+060-AEF-E6A
+
+// Start on level 6: Colonel Chi's Fortress
+070-AEF-E6A
+
+// Infinite Money
+002-989-B3C

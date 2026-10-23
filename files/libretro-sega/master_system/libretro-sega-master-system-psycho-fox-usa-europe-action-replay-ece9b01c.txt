@@ -1,0 +1,29 @@
+// Infinite Lives
+00C0-1609
+
+// Start With BirdFly
+00C0-1C03
+
+// Rapid Fire BirdFly (Instant Return)
+00C0-B701
+
+// Unlimited Money (Turn Off To Finish Betting)
+00C0-1905
+
+// Unlimited Potions
+00C0-1B09
+
+// Unlimited Effigies
+00C0-1809
+
+// Unlimited Psycho Sticks
+00C0-1A09
+
+// Start As Hippo
+00C0-1701
+
+// Start As Monkey
+00C0-1702
+
+// Start As Tiger
+00C0-1703

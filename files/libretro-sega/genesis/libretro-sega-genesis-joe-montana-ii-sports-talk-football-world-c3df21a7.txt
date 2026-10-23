@@ -1,0 +1,371 @@
+// Only have 1 play to make a first down
+AKFT-RAGA
+
+// Only have 2 plays to make a first down
+APFT-RAGA
+
+// Only have 3 plays to make a first down
+AVFT-RAGA
+
+// Have infinite plays to make a first down
+AKFT-RA74
+
+// Every drive starts as 1st and goal, no matter where the ball is!
+AFGA-RACC
+
+// Play clock is 15 seconds long
+C1TA-CAHY
+
+// Play clock is 30 seconds long
+GDTA-CAHY
+
+// Play clock is 60 seconds long
+NDTA-CAHY
+
+// Play clock is 90 seconds long
+WDTA-CAHY
+
+// Play clock is infinite
+AAMA-AAD4
+
+// 1-minute quarters [4-minute game]
+ADVA-NCDR
+
+// 2-minute quarters [8-minute game]
+ADVA-NEDR
+
+// 20-minute quarters [80-minute game]
+ADVA-NAMR
+
+// 25-minute quarters [100-minute game]
+ADVA-NLMR
+
+// 30-minute quarters [120-minute game]
+ADVA-PAMR
+
+// 45-minute quarters [180-minute game]
+ADVA-NLXR
+
+// 60-minute quarters [240-minute game]
+ADVA-NA5R
+
+// 75-minute quarters [300-minute game]
+ADVA-PL5R
+
+// 0 timeouts per half--home team
+ADVA-CAAW
+
+// 1 timeout per half--home team
+AHVA-CAAW
+
+// 2 timeouts per half--home team
+AMVA-CAAW
+
+// 0 timeouts per half--visiting team
+ADVA-CAAN
+
+// 1 timeout per half--visiting team
+AHVA-CAAN
+
+// 2 timeouts per half--visiting team
+AMVA-CAAN
+
+// Infinite timeouts--visiting team
+AVDT-CA68
+
+// Touchdowns worth 0 points
+ABGA-RADN
+
+// Touchdowns worth 1 point
+AFGA-RADN
+
+// Touchdowns worth 2 points
+AKGA-RADN
+
+// Touchdowns worth 3 points
+APGA-RADN
+
+// Touchdowns worth 4 points
+AVGA-RADN
+
+// Touchdowns worth 5 points
+AZGA-RADN
+
+// Touchdowns worth 7 points
+A7GA-RADN
+
+// Touchdowns worth 8 points
+BBGA-RADN
+
+// Touchdowns worth 9 points
+BFGA-RADN
+
+// Extra points worth 0 points
+ABGA-RAC2
+
+// Extra points worth 2 points
+AKGA-RAC2
+
+// Extra points worth 3 points
+APGA-RAC2
+
+// Extra points worth 4 points
+AVGA-RAC2
+
+// Extra points worth 5 points
+AZGA-RAC2
+
+// Extra points worth 6 points
+A3GA-RAC2
+
+// Extra points worth 7 points
+A7GA-RAC2
+
+// Extra points worth 8 points
+BBGA-RAC2
+
+// Extra points worth 9 points
+BFGA-RAC2
+
+// Field goals worth 0 points
+ABGA-RADC
+
+// Field goals worth 1 points
+AFGA-RADC
+
+// Field goals worth 2 points
+AKGA-RADC
+
+// Field goals worth 4 points
+AVGA-RADC
+
+// Field goals worth 5 points
+AZGA-RADC
+
+// Field goals worth 6 points
+A3GA-RADC
+
+// Field goals worth 7 points
+A7GA-RADC
+
+// Field goals worth 8 points
+BBGA-RADC
+
+// Field goals worth 9 points
+BFGA-RADC
+
+// Safeties worth 0 points
+ABGA-RAEC
+
+// Safeties worth 1 points
+AFGA-RAEC
+
+// Safeties worth 3 points
+APGA-RAEC
+
+// Safeties worth 4 points
+AVGA-RAEC
+
+// Safeties worth 5 points
+AZGA-RAEC
+
+// Safeties worth 6 points
+A3GA-RAEC
+
+// Safeties worth 7 points
+A7GA-RAEC
+
+// Safeties worth 8 points
+BBGA-RAEC
+
+// Safeties worth 9 points
+BFGA-RAEC
+
+// Only have 1 play to make a first down
+ALTT-CAEG
+
+// Only have 2 plays to make a first down
+ARTT-CAEG
+
+// Only have 3 plays to make a first down
+AWTT-CAEG
+
+// Have infinite plays to make a first down
+ALTT-CA6A
+
+// Every drive starts as 1st and goal, no matter where the ball is!
+ALVA-CA2J
+
+// Play clock is 15 seconds long
+CYDA-CAEL
+
+// Play clock is 30 seconds long
+GADA-CAEL
+
+// Play clock is 60 seconds long
+NADA-CAEL
+
+// Play clock is 90 seconds long
+WADA-CAEL
+
+// Play clock is infinite
+AAMT-AAA0
+
+// 1-minute quarters [4-minute game]
+AB9A-CCC6
+
+// 2-minute quarters [8-minute game]
+AB9A-CEC6
+
+// 20-minute quarters [80-minute game]
+AB9A-CAL6
+
+// 25-minute quarters [100-minute game]
+AB9A-CLL6
+
+// 30-minute quarters [120-minute game]
+AB9A-DAL6
+
+// 45-minute quarters [180-minute game]
+AB9A-CLW6
+
+// 60-minute quarters [240-minute game]
+AB9A-CA46
+
+// 75-minute quarters [300-minute game]
+AB9A-DL46
+
+// 0 timeouts per half--home team
+AADT-CAFJ
+
+// 1 timeout per half--home team
+AEDT-CAFJ
+
+// 2 timeouts per half--home team
+AJDT-CAFJ
+
+// 0 timeouts per half--visiting team
+AADT-CAFC
+
+// 1 timeout per half--visiting team
+AEDT-CAFC
+
+// 2 timeouts per half--visiting team
+AJDT-CAFC
+
+// Infinite timeouts--visiting team
+AWBT-AA6E
+
+// Touchdowns worth 0 points
+ACVA-CAEW
+
+// Touchdowns worth 1 point
+AGVA-CAEW
+
+// Touchdowns worth 2 points
+ALVA-CAEW
+
+// Touchdowns worth 3 points
+ARVA-CAEW
+
+// Touchdowns worth 4 points
+AWVA-CAEW
+
+// Touchdowns worth 5 points
+A0VA-CAEW
+
+// Touchdowns worth 7 points
+A8VA-CAEW
+
+// Touchdowns worth 8 points
+BCVA-CAEW
+
+// Touchdowns worth 9 points
+BGVA-CAEW
+
+// Extra points worth 0 points
+ACVA-CAD8
+
+// Extra points worth 2 points
+ALVA-CAD8
+
+// Extra points worth 3 points
+ARVA-CAD8
+
+// Extra points worth 4 points
+AWVA-CAD8
+
+// Extra points worth 5 points
+A0VA-CAD8
+
+// Extra points worth 6 points
+A4VA-CAD8
+
+// Extra points worth 7 points
+A8VA-CAD8
+
+// Extra points worth 8 points
+BCVA-CAD8
+
+// Extra points worth 9 points
+BGVA-CAD8
+
+// Field goals worth 0 points
+ACVA-CAEJ
+
+// Field goals worth 1 points
+AGVA-CAEJ
+
+// Field goals worth 2 points
+ALVA-CAEJ
+
+// Field goals worth 4 points
+AWVA-CAEJ
+
+// Field goals worth 5 points
+A0VA-CAEJ
+
+// Field goals worth 6 points
+A4VA-CAEJ
+
+// Field goals worth 7 points
+A8VA-CAEJ
+
+// Field goals worth 8 points
+BCVA-CAEJ
+
+// Field goals worth 9 points
+BGVA-CAEJ
+
+// Safeties worth 0 points
+ACVA-CAFJ
+
+// Safeties worth 1 points
+AGVA-CAFJ
+
+// Safeties worth 3 points
+ARVA-CAFJ
+
+// Safeties worth 4 points
+AWVA-CAFJ
+
+// Safeties worth 5 points
+A0VA-CAFJ
+
+// Safeties worth 6 points
+A4VA-CAFJ
+
+// Safeties worth 7 points
+A8VA-CAFJ
+
+// Safeties worth 8 points
+BCVA-CAFJ
+
+// Safeties worth 9 points
+BGVA-CAFJ
+
+// Guy Doesn't Talk
+GBAA-AMBN
+
+// Guy Keeps Talking
+SBAA-A5TR

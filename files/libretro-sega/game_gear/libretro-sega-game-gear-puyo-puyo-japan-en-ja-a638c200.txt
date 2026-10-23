@@ -1,0 +1,41 @@
+// P1 High Score - One's Digit
+00CC-D809
+
+// P1 High Score - Ten's Digit
+00CC-D709
+
+// P1 High Score - Hundred's Digit
+00CC-D609
+
+// P1 High Score - Thousand's Digit
+00CC-D509
+
+// P1 High Score - Ten-Thousand's Digit
+00CC-D409
+
+// P1 High Score - Hundred-Thousand's Digit
+00CC-D309
+
+// P2 High Score - One's Digit
+00CF-9409
+
+// P2 High Score - Ten's Digit
+00CF-9309
+
+// P2 High Score - Hundred's Digit
+00CF-9209
+
+// P2 High Score - Thousand's Digit
+00CF-9109
+
+// P2 High Score - Ten-Thousand's Digit
+00CF-9009
+
+// P2 High Score - Hundred-Thousand's Digit
+00CF-8F09
+
+// English Title Screen
+18B-DFD-6EA
+
+// Japanese Title Screen
+00B-E0D-C42

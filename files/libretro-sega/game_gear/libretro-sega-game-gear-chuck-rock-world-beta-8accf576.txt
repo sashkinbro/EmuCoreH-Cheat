@@ -1,0 +1,17 @@
+// Invulnerability
+00C1-1112
+
+// Invincibility
+00C0-0A01
+
+// Invulnerability
+C9D-D4C-E69
+
+// Infinite Health
+C92-81C-E69
+
+// Enable Infinite Health and Level Skip Cheats
+00C0-0A01
+
+// Disable Infinite Health and Level Skip Cheats
+00C0-0A00

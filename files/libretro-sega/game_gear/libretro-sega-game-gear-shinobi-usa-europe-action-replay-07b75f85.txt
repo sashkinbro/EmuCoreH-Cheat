@@ -1,0 +1,11 @@
+// Infinite Energy
+00D2-0B04
+
+// Infinite Special Weapons
+00D2-1E01
+
+// Infinite Lives
+00D2-1D09
+
+// Invincible
+00D2-7B86

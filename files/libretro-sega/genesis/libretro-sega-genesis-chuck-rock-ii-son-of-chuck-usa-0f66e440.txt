@@ -1,0 +1,38 @@
+// Infinite Energy
+PZYA-FE1C
+
+// Infinite Lives
+P0VA-FE12
+
+// Invincibility
+M4LT-ER9J
+
+// Start With 99 Lives
+XEVT-EAA2
+
+// Skip Levels Pause Right+A And Moving The Character On The Screen Hold A+B+C And D-pad
+FF01D0:0001
+
+// Skip Levels Pause Right+A And Moving The Character On The Screen Hold A+B+C And D-pad
+RGXA-E6TN
+RFMA-E6XL
+
+// Invincibility Flashing
+FF0C6C:0010
+
+// 1 Hit Kill Bosses
+CLLT-EA5N
+BBHT-GA7J
+BC5T-GA36
+
+// Invincibility
+RZYA-E6WE
+RZRT-E6T4
+RZ1A-E6WN
+
+// Freeze Time Continue
+AWWA-EA4J
+
+// Take Less Damage
+BVYA-EA9L
+ABYA-EAH4

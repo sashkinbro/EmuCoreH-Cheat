@@ -1,0 +1,8 @@
+// Infinite Health
+00DF-7FFF
+
+// Infinite Webs
+00DF-9208
+
+// Infinite Time
+00DF-7A08

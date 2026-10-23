@@ -1,0 +1,23 @@
+// Invulnerability
+003-DFE-3B4
+
+// Test mode
+010-80F-E6A
+
+// Infinite Health
+3AF-89C-2A2
+
+// Unlimited Rocks
+001-56D-3BE
+
+// Infinite Health
+00C1-1606
+
+// Unlimited Rocks
+00C4-5699
+
+// Invincibility
+00C4-67FF
+
+// Always Have Key
+00C4-3CFF

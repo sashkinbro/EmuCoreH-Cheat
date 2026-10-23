@@ -1,0 +1,82 @@
+// Nearly invincible (Except against falling and Timer running out)
+AVNA-AA50
+
+// Start with 1 life
+AEDA-AAH6
+
+// Start with 2 lives
+AJDA-AAH6
+
+// Start with 4 lives
+ATDA-AAH6
+
+// Start with 5 lives
+AYDA-AAH6
+
+// Start with 8 lives
+BADA-AAH6
+
+// Start with 10 lives
+BJDA-AAH6
+
+// Start with 20 lives
+CTDA-AAH6
+
+// Start with 50 lives
+GJDA-AAH6
+
+// Start with 100 lives
+NTDA-AAH6
+
+// Do not lose life from enemy killing you
+AAKT-AA3Y
+YJKT-BP30
+
+// Do not lose life from falling
+AAKT-AA9C
+8TKT-BM9E
+
+// Infinite shurikens, if collected
+EWNT-AA2L
+
+// Infinite time to complete level
+RGAA-E60C
+
+// Infinite continues
+AT5T-AA5W
+
+// Start on level 2
+AJET-AACJ
+
+// Start on level 3
+ANET-AACJ
+
+// Start on level 4
+ATET-AACJ
+
+// Start on level 5
+AYET-AACJ
+
+// Infinite Time (Seconds)
+FFF530:0040
+
+// Infinite Time (Minutes)
+FFF530:0009
+
+// Infinite Lives
+FFF5DA:0009
+
+// Infinite Lives
+AJKT-AA30
+AJKA-AA4E
+AJKT-AA9E
+
+// Infinite Energy/STR
+ALAA-EA4G
+
+// Untouchable
+RZ2A-E6VJ
+
+// Infinite Shurikens
+ALNT-AA2N
+ALPT-AA7C

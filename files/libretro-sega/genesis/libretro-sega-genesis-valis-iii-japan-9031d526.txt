@@ -1,0 +1,32 @@
+// Infinite HP
+BCJT-AA86
+
+// Infinite MP
+AK0A-AA4G
+
+// Infinite Lives
+A2FA-AA82
+
+// Infinite Time
+CJFT-AA6T
+
+// Infinite HP
+ALJT-AA86
+AK4A-AA22
+
+// Untouchable
+R0JT-A6W0
+RZ4A-A6TL
+
+// Keep MP after the death
+AJHA-AA3R
+
+// Infinite Special
+AJHA-AA3W
+
+// Power of the sword is always at maximum
+AK0T-AA28
+AKZT-AA5J
+
+// Keep Length of the sword after the death
+AJFA-AA9A

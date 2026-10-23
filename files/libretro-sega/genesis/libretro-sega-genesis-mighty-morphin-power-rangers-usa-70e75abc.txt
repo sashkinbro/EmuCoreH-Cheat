@@ -1,0 +1,164 @@
+// Infinite Time
+FFC110:0099
+
+// Infinite Health P1
+FFD080:0060
+
+// 1-Hit Death P1
+FFD080:0001
+
+// Max Special Bar P1
+FFD082:0036
+
+// No Special P1
+FFD082:0000
+
+// P1 Is Always Green Ranger [Scenario Mode]
+FFA090:0014
+
+// Infinite Health P2
+FFD200:0060
+
+// 1-Hit Death P2
+FFD200:0001
+
+// Max Special Bar P2
+FFD202:0036
+
+// No Special P2
+FFD202:0000
+
+// Hyper Mode P1
+FFD006:0001
+
+// Hyper Mode P2
+FFD186:0001
+
+// P1 Character Modifier [All Modes]
+FFA000:0000
+
+// P2 Character Modifier [All Modes]
+FFA002:0002
+
+// Background Modifier [All Modes]
+FFA00C:0000
+
+// P2 Can't Be Hit
+FFD208:00FC
+
+// P2 Can Do Mid-Air Moves
+FFD1C8:0001
+
+// P1 Can't Be Hit
+FFD088:00FC
+
+// P1 Can Do Mid-Air Moves
+FFD048:0001
+
+// Evil Green Ranger Unlocked Cheat On [2 Player Batt
+FFA058:0001
+
+// Player 1 starts with very little vitality
+ABYA-ACDA
+
+// Player 1 starts with vitality meter at 25%
+ABYA-BTDA
+
+// Player 1 starts with vitality meter at 50%
+ABYA-BAMA
+
+// Player 1 starts with vitality meter at 75%
+ABYA-ATXA
+
+// Player 1 starts with vitality meter at 108%
+ABYA-AT5A
+
+// Player 1 starts with vitality meter at 117%
+ABYA-BA5A
+
+// Player 1 starts with vitality meter at 125%
+ABYA-BT5A
+
+// Player 2 starts with very little vitality
+ABYT-ACCL
+
+// Player 2 starts with vitality meter at 25%
+ABYT-BTCL
+
+// Player 2 starts with vitality meter at 50%
+ABYT-BALL
+
+// Player 2 starts with vitality meter at 75%
+ABYT-ATWL
+
+// Player 2 starts with vitality meter at 108%
+ABYT-AT4L
+
+// Player 2 starts with vitality meter at 117%
+ABYT-BA4L
+
+// Player 2 starts with vitality meter at 125%
+ABYT-BT4L
+
+// Infinite Energy
+9V6T-BGLJ
+AB6T-AA4L
+976T-AACN
+TB6T-BBWR
+
+// Quick Attacks P1
+FFD03A:0001
+
+// Quick Attacks P2
+FFD1BA:0001
+
+// Double Image P1
+FFD040:00A0
+
+// Double Image P2
+FFD1C0:00A0
+
+// Transparent P1
+FFD036:0001
+
+// Transparent P2
+FFD1B6:0001
+
+// Rangers: Powered Gun Shot
+FFD002:0002
+FFD002:0060
+
+// Megazord: Inferno Sound Wave
+FFD002:0002
+FFD002:0068
+
+// Disable The Dragonzord's Special
+FFD002:0000
+
+// P1 Secret Special Move (Facing Left)
+FFD002:0002
+FFD002:0062
+
+// P2 Secret Special Move (Facing Right)
+FFD182:0002
+FFD182:0060
+
+// P2 Secret Special Move (Facing Left)
+FFD182:0002
+FFD182:0062
+
+// P2 Disable Dragonzord's Special
+FFD182:0000
+
+// Megazord: Inferno Sound Wave
+FFD182:0002
+FFD182:006A
+
+// Infinite Energy
+AK9A-AA7N
+
+// The Evil Green Power Ranger cheat for 2P Battle Mode is always active. See notes.
+AJST-AA7T
+
+// Can select the Green Ranger in the 1P Scenario Mode
+CXHA-YAHL

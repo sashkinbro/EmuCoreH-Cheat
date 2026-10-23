@@ -1,0 +1,64 @@
+// Infinite Energy
+AJ5T-4A5C
+
+// Infinite Lives
+ACYT-2AD6
+
+// Invincibility
+RY5A-46VG
+
+// Infinite Energy P1 And P2
+FFD40C:0040
+
+// Infinite Lives P1
+FFFAFC:0063
+
+// Infinite Lives P2
+FFFB30:0063
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Select 2 Players to go to a Level Select screen. Must be a 1 player game.
+JS2T-2ABL
+
+// Select Options to go to a Level Select screen
+JS2T-2AAW
+
+// Jump higher
+AAMA-5V9C
+
+// Jump much higher. See notes.
+AAMA-5P9C
+
+// Don't fall when walking off ledges (Walk on air). See notes.
+AJLA-4A92
+
+// Player 1 starts with 9 lives (Easy difficulty)
+BGZA-2AGT
+
+// Player 1 starts with 20 lives (Easy difficulty)
+CWZA-2AGT
+
+// Invincibility (non flashing)
+RZFT-46X6
+
+// Invincibility (flashing)
+RE5A-46VL
+
+// Start with more fire power (longer flame)
+SWZA-3GK8
+ARZA-2ACA
+
+// Start with max fire power (much longer flame)
+SWZA-3GK8
+A0ZA-2ACA
+
+// Invincibility From High Falls
+RYNA-46TT
+
+// Freeze Time Continue
+AM1A-2A44

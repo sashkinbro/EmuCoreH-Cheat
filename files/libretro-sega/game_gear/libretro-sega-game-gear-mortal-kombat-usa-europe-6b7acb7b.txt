@@ -1,0 +1,153 @@
+// Infinite Health P1
+00C4-8848
+
+// Infinite Continues
+00C4-0B07
+
+// Infinite Time
+00C4-3B09
+
+// Level Select
+00C4-2400
+
+// No Health P1
+00C4-8800
+
+// Infinite Health P2
+00C4-8A48
+
+// Blood Code Activated
+00C4-0928
+
+// Start on match 2
+01B-C9A-E6A
+
+// Start on match 3
+02B-C9A-E6A
+
+// Start on match 4
+03B-C9A-E6A
+
+// Start on match 5
+04B-C9A-E6A
+
+// Start on mirror match
+05B-C9A-E6A
+
+// Start on endurance match 1
+06B-C9A-E6A
+
+// Start on endurance match 2
+07B-C9A-E6A
+
+// Start on endurance match 3
+08B-C9A-E6A
+
+// Start on match against Goro
+09B-C9A-E6A
+
+// Start on match against Shang Tsung
+0AB-C9A-E6A
+
+// Punches do more damage
+20B-06F-F7A
+
+// Most kicks do more damage
+2CB-26F-C42
+
+// Foot sweeps do more damage
+30B-86F-C42
+
+// Flying punches do more damage
+30B-2EF-D5A
+
+// Uppercuts do more damage
+33B-56F-A2E
+
+// Throws do more damage
+2AF-237-D5A
+
+// Sonya Blade's leg grab does more damage
+2BB-76F-F7A
+
+// Scorpion's harpoon does more damage
+2BB-66F-F7A
+
+// Rayden's flying thunderbolt does more damage
+2BB-6EF-F7A
+
+// Johhny Cage's shadow kick does more damage
+2BB-4EF-D56
+
+// Some other special moves do more damage
+37B-36F-D52
+
+// Each round is 69 seconds
+063-7B4-C4E
+
+// Each round is 29 seconds
+023-7B4-C4E
+
+// Infinite time
+00B-40C-3BE
+
+// Infinite credits
+004-2D6-19E
+
+// Blood Enabled
+DEB-9F6-5D3
+
+// Player 1 is invincible
+003-48B-F79
+
+// Player 1 starts with 1/2 health
+240-BFD-C4B
+
+// Player 2 usually starts with 1/2 health
+240-C5D-C4B
+
+// Start with 1 credit
+02B-E1A-F76
+
+// Start with 5 credits
+06B-E1A-F76
+
+// Start with 10 credits
+0BB-E1A-F76
+
+// Invincibility
+006-D78-91D
+006-D88-193
+7B6-D98-80E
+FE6-DA8-5D0
+896-DB8-7F0
+
+// Access Goro on Character Select Screen
+075-978-F72
+
+// Infinite Time
+00C4-3609
+
+// Infinite Fatality Time
+C92-657-E69
+
+// Sonya - Press Block Sweep
+FFB-548-E6E
+
+// Johnny Cage - Press Punch Close
+FFB-508-E62
+
+// Liu Kang - Hold Block + Forward Close
+FFB-598-F7A
+
+// Scorpion - Hold Block + Up Sweep
+FFB-798-F7A
+
+// Raiden - Press Punch Close
+FFB-5D8-E6E
+
+// Sub Zero - Press Punch Sweep
+FFB-618-E62
+
+// ?? More Fatality Time
+64A-256-2A2

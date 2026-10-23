@@ -1,0 +1,51 @@
+// Infinite Lives
+AT5A-NA8C
+
+// Infinite Energy
+AXZA-LA54
+
+// Freeze Time
+A24T-NA4T
+
+// Infinite Lives
+FF000A:0002
+
+// Infinite Energy
+FFC266:0050
+
+// Freeze Time
+FFC244:0028
+
+// Infinite Green Grenades
+FF0014:0063
+
+// Infinite Red Grenades
+FF0016:0063
+
+// Invincible
+FFC1CE:00FF
+
+// Infinite Time
+AA4T-NACW
+
+// Protection From Ants
+ATAT-NA5C
+
+// Protection From Ant Queen
+AABT-NAA4
+
+// Protection From Granades
+AD9T-LADG
+
+// Infinite Time
+FFC244:0063
+
+// Infinite Health P1
+FFC266:003F
+
+// Protection From Sand Creatures
+AXZA-LA54
+
+// Infinite Energy Extra
+ATAT-NA5C
+AX9T-LA5E

@@ -1,0 +1,59 @@
+// Infinite Lives
+003-E0E-E6E
+
+// Start With 1 Lives
+00A-E6E-E66
+
+// Start With 5 Lives
+04A-E6E-E66
+
+// Start With 15 Lives
+14A-E6E-E66
+
+// Start With 100 Lives
+99A-E6E-E66
+
+// Start High In The Air On Act 1
+00A-EFE-5D4
+
+// Each Ring Worth 5
+053-AFC-E6E
+
+// Each Ring Worth 10
+0A3-AFC-E6E
+
+// Infinite Rings
+3A8-E4C-2A2
+3A8-E7C-2A2
+
+// Finish The First Part Of An Act And Warp To The Next Act
+3E3-A4E-082
+023-A5E-F77
+003-A6E-A2D
+
+// Flash Less Time After Getting Hit
+008-FFC-08B
+
+// Flash Longer After Getting Hit
+998-FFC-08B
+
+// Get Hit And Stay Invincible
+3A9-D5C-2A2
+
+// Invincible (Spikes Still Kill You)
+C37-F2C-E61
+
+// Start With No Continues
+00A-EBE-E6E
+
+// Start With 5 Continues
+05A-EBE-E6E
+
+// Start With 10 Continues
+0AA-EBE-E6E
+
+// Infinite Continues
+3A5-60E-2A2
+
+// Infinite Timer
+00F-88D-3B7

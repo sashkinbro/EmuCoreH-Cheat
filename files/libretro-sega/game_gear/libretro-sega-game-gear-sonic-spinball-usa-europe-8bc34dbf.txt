@@ -1,0 +1,23 @@
+// Infinite Continues
+00DA-1B09
+
+// Enable Debug Mode
+004-71B-C46
+
+// Enable Level Skip
+004-62B-C46
+
+// Infinite Lives
+00DA-1609
+
+// Have 99 Rings (Turn Off After Dying To Start Next Life)
+00DC-2F99
+
+// Infinite Lives
+006-AAC-19E
+
+// Infintie Continues
+008-1C9-19E
+
+// Each Ring Counts As ??
+00D-EFB-E6E

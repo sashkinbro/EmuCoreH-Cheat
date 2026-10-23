@@ -1,0 +1,17 @@
+// Invincible (Character Flickers Though)
+00C1-3F01
+
+// Infinite Time
+00C0-8D0F
+
+// Infinite Lives
+00C0-6903
+
+// Infinite Energy And Weapons
+00C1-3E01
+
+// Maximum Hammer Power
+00C0-8805
+
+// Make Donald Float In Mid-Air
+00C1-2112

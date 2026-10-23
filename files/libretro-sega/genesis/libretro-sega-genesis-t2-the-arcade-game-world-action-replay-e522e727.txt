@@ -1,0 +1,11 @@
+// Infinite Health
+FF801E:FFFF
+
+// Infinite Gun Power
+FF801C:FFFF
+
+// Infinite Missiles
+FF8018:9999
+
+// Unlimited Continues
+FF80CA:0004

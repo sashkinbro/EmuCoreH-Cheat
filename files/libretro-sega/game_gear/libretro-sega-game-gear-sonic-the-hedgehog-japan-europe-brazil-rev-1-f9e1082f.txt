@@ -1,0 +1,125 @@
+// Invincibility
+00D2-0901
+
+// Have All Chaos Emeralds
+00D2-7906
+
+// Infinite Time
+00D2-D000
+
+// Infinite Lives
+00D2-4009
+
+// Infinite Rings
+00D2-A998
+
+// Start on Green Hill Zone, part 2
+003-8CE-5D4
+013-88E-91A
+
+// Start on Green Hill Zone, part 3
+003-8CE-5D4
+023-88E-91A
+
+// Start on Bridge, part 1
+003-8CE-5D4
+033-88E-91A
+
+// Start on Bridge, part 2
+003-8CE-5D4
+043-88E-91A
+
+// Start on Bridge, part 3
+003-8CE-5D4
+053-88E-91A
+
+// Start on Jungle, part 1
+003-8CE-5D4
+063-88E-91A
+
+// Start on Jungle, part 2
+003-8CE-5D4
+073-88E-91A
+
+// Start on Jungle, part 3
+003-8CE-5D4
+083-88E-91A
+
+// Start on Labyrinth part 1
+003-8CE-5D4
+093-88E-91A
+
+// Start on Labyrinth part 2
+003-8CE-5D4
+0A3-88E-91A
+
+// Start on Labyrinth part 3
+003-8CE-5D4
+0B3-88E-91A
+
+// Start on Scrap Brain, part 1
+003-8CE-5D4
+0C3-88E-91A
+
+// Start on Scrap Brain, part 2
+003-8CE-5D4
+0D3-88E-91A
+
+// Start on Scrap Brain, part 3
+003-8CE-5D4
+0E3-88E-91A
+
+// Start on Sky Base, part 1
+003-8CE-5D4
+0F3-88E-91A
+
+// Don't lose breath
+2A2-86A-6E2
+
+// Invulnerability
+C9F-DBD-E69
+
+// Infinite Lives
+007-0BA-3BE
+
+// Don't Lose Rings When Hit
+3A0-1FC-2A2
+
+// Don't Die When Hit With No Rings
+18F-F0D-6EA
+
+// Dark Background In Stage
+CC5-07E-F79
+
+// Walk Thru Powerup Boxes
+381-709-2AA
+
+// Walk Up Walls
+28D-8CD-6EA
+
+// Freezes The Time
+00D2-D106
+
+// Infinite Continues
+00D2-7E09
+
+// Infinite Time Underwater
+00D2-9700
+
+// Infinite Time
+003-F6C-3B7
+
+// Multi-Jump
+18D-86B-6EA
+
+// Rings Worth ??
+020-5EA-E6E
+
+// Start With ?? Lives
+023-7EE-E66
+
+// Infinite Time - Bonus Stage
+7E4-10C-3B7
+
+// Only need to finish level with ?? rings to get Bonus Stage, instead of 50
+013-589-A2B

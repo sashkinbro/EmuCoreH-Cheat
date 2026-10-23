@@ -1,0 +1,8 @@
+// You Will Always Win The Match When Playing Against The Computer
+RF2T-A6YA
+
+// Score Modifier (P1)
+FF29F6:0063
+
+// Opponent Score Modifier (P2/CPU)
+FF29F6:0000

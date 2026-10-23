@@ -1,0 +1,163 @@
+// Infinite Time
+FF82A8:0063
+
+// Infinite Continues
+FF8292:0009
+
+// Invincible
+FFC11E:0002
+
+// Max Gold
+FF82A6:9999
+
+// All Items
+FF82B0:00FF
+
+// Normal Magic
+FF8028:0000
+
+// Magic Of Stars
+FF8028:0004
+
+// Magic Of The Moon
+FF8028:0008
+
+// Magic Of The Sun
+FF8028:000C
+
+// Infinite lives
+ATTT-AA6G
+
+// Start with 1 life
+ABGT-AACY
+
+// Start with 3 lives
+AKGT-AACY
+
+// Start with 7 lives
+A3GT-AACY
+
+// Start with 10 lives
+BFGT-AACY
+
+// Start with15 lives
+B3GT-AACY
+
+// Start with 20 lives
+CPGT-AACY
+
+// Start with 25 lives
+DBGT-AACY
+
+// Infinite time
+BVHT-AA5G
+
+// 1 minute per level
+9VGT-BCE2
+AFGT-AAE4
+
+// 5 minutes per level
+9VGT-BCE2
+AZGT-AAE4
+
+// 7 minutes per level
+9VGT-BCE2
+A7GT-AAE4
+
+// 9 minutes per level
+9VGT-BCE2
+BFGT-AAE4
+
+// 15 minutes per level
+9VGT-BCE2
+B7GT-AAE4
+
+// 20 minutes per level
+9VGT-BCE2
+CVGT-AAE4
+
+// 25 minutes per level
+9VGT-BCE2
+DFGT-AAE4
+
+// 30 minutes per level
+9VGT-BCE2
+D3GT-AAE4
+
+// Infinite restarts
+AKKA-AA80
+
+// No restarts
+ABGT-AABG
+
+// 1 restart
+AFGT-AABG
+
+// 3 restarts
+APGT-AABG
+
+// 5 restarts
+AZGT-AABG
+
+// 9 restarts
+BFGT-AABG
+
+// 15 restarts
+B7GT-AABG
+
+// 20 restarts
+CVGT-AABG
+
+// 25 restarts
+DFGT-AABG
+
+// 30 restarts
+D3GT-AABG
+
+// Always have magical cape during first life
+HBGT-BEV0
+
+// Always have magical cape during other lives
+9ETT-ATE2
+
+// Always have magical cape after use
+AT7A-AA4J
+
+// Start with magic of the stars
+AVGT-BA3T
+
+// Start with magic of the moon
+BBGT-BA3T
+
+// Start with magic of the sun
+BVGT-BA3T
+
+// Everything costs 0
+HTVT-BEPE
+
+// Little power balls worth 10
+YC1T-AADE
+
+// Sacks of gold worth 400
+JC1T-BA4W
+
+// Treasure chests worth 750
+R0TA-BA4J
+
+// Infinite Lives
+AATT-AAEJ
+
+// Infinite Time
+BBHT-AA5A
+
+// Invincibility
+AJ6T-AA98
+
+// Infinite Lives
+FF8294:0004
+
+// High jump.
+CA7T-AAF8
+
+// Super high jump.
+BJ7T-AAF8

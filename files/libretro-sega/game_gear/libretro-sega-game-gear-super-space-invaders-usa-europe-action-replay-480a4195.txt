@@ -1,0 +1,17 @@
+// Infinite Lives
+00C7-EC09
+
+// Infinite Hits
+00C7-EE09
+
+// Shoot One Invader To Clear Round
+00C8-4601
+
+// Faster Shooting
+00C7-E702
+
+// Faster Shooting Improvement Code
+00C7-E922
+
+// Makes You Invisible
+00C7-E601

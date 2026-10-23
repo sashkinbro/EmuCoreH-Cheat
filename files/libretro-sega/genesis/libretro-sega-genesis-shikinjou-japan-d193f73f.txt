@@ -1,0 +1,11 @@
+// Level Modifier
+FF819E:0000
+
+// Choose any Stage
+A2WT-AA7N
+
+// Push Anything Out of Your Way
+AA9T-AA30
+
+// Walk Thru Anything
+AJ9T-AA3E

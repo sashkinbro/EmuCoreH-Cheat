@@ -1,0 +1,31 @@
+// Infinite Time
+FFF130:0909
+
+// Always drive at 200MPH/320KPH
+FFF03E:0140
+
+// Infinite Time
+RE4T-A6XR
+
+// Turn Options Menu into Hyper Options Menu
+AJET-AA68
+AJET-AA8R
+AAFA-AA2E
+AAFT-AA7A
+
+// Enable Hyper Difficulty Level
+AAFT-AA7A
+
+// Enable Invincibility Cheat
+RZGT-A6XJ
+
+// Display Debug Codes
+AJSA-AA3R
+AJ2T-AA7E
+
+// Enable Infinite Time Cheat
+AA4T-AA6J
+AA4T-AA7C
+
+// Have Hyper Difficulty Level Max Speed and Acceleration on non-Hyper Difficulty Levels
+ABCA-AA2J

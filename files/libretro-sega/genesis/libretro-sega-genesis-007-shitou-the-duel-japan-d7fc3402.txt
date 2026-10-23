@@ -1,0 +1,32 @@
+// Infinite Lives
+ATGA-AA56
+
+// Infinite Energy
+AMKA-AA7E
+ALST-AA9J
+ALBA-AA8J
+AB7A-AA5T
+ALMA-AA2W
+ALDA-AA52
+
+// Invincibility
+R1KA-A6ZA
+RZ7A-A6XN
+R0AS-861C
+R0MA-A6TJ
+R0DA-A6WG
+
+// Infinite Clips
+AWNT-AA38
+
+// Infinite Ammo
+AW8T-AA2Y
+
+// Infinite Granades
+AV8T-AA6L
+
+// Freeze Time Find Bomb Exit
+AK5T-AA22
+
+// Infinite Continue
+ATGA-AA70

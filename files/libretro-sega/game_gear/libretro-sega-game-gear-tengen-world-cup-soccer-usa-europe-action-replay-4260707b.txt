@@ -1,0 +1,2 @@
+// CPU Opponent Never Scores
+00D1-3500

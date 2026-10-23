@@ -1,0 +1,676 @@
+// Start with 10 lives
+BF2T-AABJ
+
+// Start with 7 lives
+A32T-AABJ
+
+// Start with 1 life
+AB2T-AABJ
+
+// Infinite lives
+A47A-AA6W
+
+// Start with 50 shots in starting weapon
+GK2T-AAB4
+
+// Start with 100 shots in starting weapon
+NV2T-AAB4
+
+// Start with 500 shots in starting weapon
+8V2T-ACB4
+
+// Start with 900 shots in starting weapon
+TV2T-AGB4
+
+// Start with soda pop cans instead of squirt guns
+JK2T-AAB6
+
+// Start with bazookas
+JB2T-AAB6
+
+// Start with tomatoes
+JV2T-AAB6
+
+// Start with fire extinguishers
+HB2T-AAB6
+
+// Start with ice pops
+J32T-AAB6
+
+// Start with martian bubble guns
+HK2T-AAB6
+
+// Start with weedeaters
+HV2T-AAB6
+
+// Start with ancient artifacts
+H32T-AAB6
+
+// Start with plates
+KK2T-AAB6
+
+// Start with silverware
+KV2T-AAB6
+
+// Start with footballs
+K32T-AAB6
+
+// Infinite weapons once you have at least 1
+AMWA-AA88
+
+// Start with speed shoes instead of a first aid kit
+LK2T-AACJ
+
+// Start with a monster potion
+LV2T-AACJ
+
+// Start with a ghost potion
+L32T-AACJ
+
+// Start with a random potion
+MB2T-AACJ
+
+// Start with a pandora's box
+NB2T-AACJ
+
+// Start with a skeleton key
+NK2T-AACJ
+
+// Start with a decoy
+NV2T-AACJ
+
+// Infinite special items once you have at least 1 (Except Keys)
+DDXT-AA2G
+
+// Start with 1/2 health
+AZ2T-AAA6
+
+// Continue with 1/2 health
+A1ET-AAHL
+
+// Almost infinite health
+AL8T-AA3G
+
+// Start with 9 first aid kits instead of 1
+BF2T-AACG
+
+// Infinite keys once you have at least one
+AMVA-AA4G
+
+// Package of squirt guns worth 999
+694T-AGFL
+
+// Package of soda pop cans worth 99
+NS4T-AAF0
+
+// Fire extinguishers worth 99 on pick up
+NS4T-AAFN
+
+// Each key worth 9 on pick up
+BH5A-AAAR
+
+// Start on level 2
+AK0A-AAB2
+
+// Start on level 3
+AP0A-AAB2
+
+// Start on level 4
+AV0A-AAB2
+
+// Start on level 5
+AZ0A-AAB2
+
+// Start on level 6
+A30A-AAB2
+
+// Start on level 7
+A70A-AAB2
+
+// Start on level 8
+BB0A-AAB2
+
+// Start on level 9
+BF0A-AAB2
+
+// Start on level 10
+BK0A-AAB2
+
+// Start on level 11
+BP0A-AAB2
+
+// Start on level 12
+BV0A-AAB2
+
+// Start on level 13
+BZ0A-AAB2
+
+// Start on level 14
+B30A-AAB2
+
+// Start on Level 15
+B70A-AAB2
+
+// Start on Level 16
+CB0A-AAB2
+
+// Start on Level 17
+CF0A-AAB2
+
+// Start on Level 18
+CK0A-AAB2
+
+// Start on Level 19
+CP0A-AAB2
+
+// Start on Level 20
+CV0A-AAB2
+
+// Start on Level 21
+CZ0A-AAB2
+
+// Start on Level 22
+C30A-AAB2
+
+// Start on Level 23
+C70A-AAB2
+
+// Start on Level 24
+DB0A-AAB2
+
+// Start on Level 25
+DF0A-AAB2
+
+// Start on Level 26
+DK0A-AAB2
+
+// Start on Level 27
+DP0A-AAB2
+
+// Start on Level 28
+DV0A-AAB2
+
+// Start on Level 29
+DZ0A-AAB2
+
+// Start on Level 30
+D30A-AAB2
+
+// Start on Level 31
+D70A-AAB2
+
+// Start on Level 32
+EB0A-AAB2
+
+// Start on Level 33
+EF0A-AAB2
+
+// Start on Level 34
+EK0A-AAB2
+
+// Start on Level 35
+EP0A-AAB2
+
+// Start on Level 36
+EV0A-AAB2
+
+// Start on Level 37
+EZ0A-AAB2
+
+// Start on Level 38
+E30A-AAB2
+
+// Start on Level 39
+E70A-AAB2
+
+// Start on Level 40
+FB0A-AAB2
+
+// Start on Level 41
+FF0A-AAB2
+
+// Start on Level 42
+FK0A-AAB2
+
+// Start on Level 43
+FP0A-AAB2
+
+// Start on Level 44
+FV0A-AAB2
+
+// Start on Level 45
+FZ0A-AAB2
+
+// Start on Level 46
+F30A-AAB2
+
+// Start on Level 47
+F70A-AAB2
+
+// Start on Level 48
+GB0A-AAB2
+
+// Start on Bonus Level Son of Dr. Tongue
+GK0A-AAB2
+
+// Start on Bonus Level Day of the Tentacle
+GP0A-AAB2
+
+// Start on Bonus Level Someplace Very Warm
+GV0A-AAB2
+
+// Start on Bonus Level Curse of the Pharaohs
+GZ0A-AAB2
+
+// Start on Bonus Level Mushroom Men
+G30A-AAB2
+
+// Start on Bonus Level Cheerleaders vs the Monsters
+G70A-AAB2
+
+// Start on Credit Level Monsters Among Us
+GF0A-AAB2
+
+// Infinite Lives
+AL7A-AA6W
+
+// Invincibility
+AC8T-AN3C
+
+// Alternate Invincibility
+FF0584:0004
+
+// Allways Have Super Speed
+FF05AA:0080
+
+// Weapons Infinite Squirt Gun
+FFFA74:03E7
+
+// Infinite Fire Extinguishers
+FFFA76:03E7
+
+// Infinite Martian Bubble Guns
+FFFA78:03E7
+
+// Infinite Weedeaters
+FFFA7A:03E7
+
+// Infinite Ancient Artifacts
+FFFA7C:03E7
+
+// Infinite Bazooka
+FFFA7E:03E7
+
+// Infinite Soda Pop Cans
+FFFA80:03E7
+
+// Infinite Tomatoes
+FFFA82:03E7
+
+// Infinite Ice Pops
+FFFA84:03E7
+
+// Infinite Ice Pops 2
+FFFA86:03E7
+
+// Infinite Plates
+FFFA88:03E7
+
+// Infinite Silver Ware
+FFFA8A:03E7
+
+// Infinite Footballs
+FFFA8C:03E7
+
+// Infinite Keys
+FFFA8E:03E7
+
+// Infinite Speed Shoes
+FFFA90:03E7
+
+// Infinite Monster Potion
+FFFA92:03E7
+
+// Infinite Ghost Potion
+FFFA94:03E7
+
+// Infinite Random Potion
+FFFA96:03E7
+
+// Infinite Monster Potion 2
+FFFA98:03E7
+
+// Infinite First Aids
+FFFA9C:03E7
+
+// Infinite Pandora's Box
+FFFA9E:03E7
+
+// Infinite Skull Key
+FFFAA0:03E7
+
+// Infinite Decoy
+FFFAA2:03E7
+
+// Bazooka Doesn't Push Back
+AMKA-AA7Y
+AMKA-AA76
+
+// Allways Have Super Speed
+AMRA-AA3C
+
+// Invincible To Jelly Blobs
+BX6A-AA3C
+
+// Invincible To Giant Baby Stomps
+CD6A-AA32
+
+// Neighbors Reappear After Dead Or Rescued
+AENA-CADC
+
+// Have Zero Humans Remaining
+FFFC6A:0000
+
+// Level Modifier
+FFF9C8:0000
+
+// Have Infinite Lives P1
+FFFA6E:0009
+
+// Infinite Health P1
+FFFA46:000A
+
+// Infinite Watergun P1
+FFFA74:0096
+
+// Have Infinite Keys P1
+FFFA8E:0009
+
+// Have Infinite Pop Cans P1
+FFFA80:0063
+
+// Have Infinite Medi-Kits P1
+FFFA9C:0009
+
+// Have Infinite Weed-Wacker P1
+FFFA7A:003B
+
+// Character Modifier P1
+FFFC08:0000
+
+// Infinite Watergun P2
+FFFB14:0096
+
+// Infinite Health P2
+FFFAE6:000A
+
+// Have Infinite Lives P2
+FFFB0E:0009
+
+// Character Modifier P2
+FFFC12:0000
+
+// Most enemies completely ignore you and the neighbors (they never chase after you).  See notes.
+RZSA-A6ZR
+
+// Makes the squirt gun ultra strong (kills most enemies with 1 hit)
+937A-EAGG
+
+// Kill some enemies with 1 hit
+ACEA-CA5W
+
+// Walk through walls, buildings, etc
+RZMT-A6WW
+
+// Any weapon/ammo pick-up gives you 999
+HX4T-BENW
+
+// Shoot thru walls
+RZPA-A6VT
+
+// Infinite Health Extra
+AMZA-AA7A
+
+// Infinite Keys
+AMVA-AA4G
+
+// Infinite All Items
+AMXT-AA2G
+AMZA-AA9G
+
+// Only have to save 7 neighbors (instead of 10) to finish each level. See notes.
+A70A-AACJ
+
+// Only have to save 3 neighbors (instead of 10) to finish each level. See notes.
+AP0A-AACJ
+
+// Neighbors are invincible
+RY2A-C610
+
+// Always have 7 neighbors to save for each level (instead of 10), even if some of them got killed in the previous level. See notes.
+HV2T-BAR0
+A72T-AAG2
+A32T-AA84
+
+// Always have 3 neighbors to save for each level (instead of 10), even if some of them got killed in the previous level. See notes.
+HV2T-BAR0
+AP2T-AAG2
+A32T-AA84
+
+// Always have all 10 neighbors to save for each level, even if some of them got killed in the previous level
+HV2T-BAR0
+BK2T-AAG2
+A32T-AA84
+
+// Only need 20,000 points for bonus victim
+EB2T-A6VT
+ECLA-A6YR
+
+// Always get a bonus victim/neighbor at the end of every level.  See notes.
+ALLA-AA6G
+
+// Bazooka has no kickback
+AMWT-AA28
+
+// Get 500 points for every victim rescued after you exit (instead of 50). See notes.
+8WKT-ACCJ
+
+// Get 1000 points for every victim rescued after you exit (instead of 50). See notes.
+7CKT-AGCJ
+
+// Have full health restored whenever you exit a level
+9VWA-BCEC
+BKWA-AAEE
+J7WA-BZ6G
+
+// Invincibility against Ground Hazards (Weeds, Spikes, Electricity, Cacti, Cobwebs?) - Both Players
+DX5T-AA50
+
+// Prevent Tourist Couple from transforming into Werewolves
+AT3A-AA4R
+
+// Zombies don't respawn, and most other enemies are gone
+AJMT-CA78
+
+// Pause the game to get the Bazooka along with 255 ammo.  See notes.
+9V4A-BCHN
+S74A-BZ9T
+
+// Automatically get the Weed Eater with 255 ammo as soon as you start walking around. See notes.
+9T5T-BCDL
+SN5T-BZ5R
+
+// Automatically get the Ancient Artifacts (Holy Cross) with 255 ammo when you start walking around.  See notes.
+9T6T-BCEJ
+SY6T-BZ6N
+
+// Pause the game to get 255 Monster Potions.  See notes.
+9V4A-BCH0
+WP4A-BZ94
+
+// Walk thru walls and Walk on water while you're the Monster
+RZMT-A6W2
+
+// Monster Potion lasts twice as long
+YDFA-A8D6
+
+// Play as the Monster. See notes.
+P49T-BE16
+
+// Fire extinguisher freeze time lasts much longer
+P2RA-DAVA
+
+// Fire extinguisher keeps enemies frozen until you exit the level
+AJRA-CA6T
+
+// Invincibility (alt)
+R08A-A61T
+
+// Chainsaw guys die automatically when they touch you
+AC0A-CA88
+
+// Zombies die automatically when they touch you
+ABKT-CA7R
+
+// Hatchet guys (Evil Dolls) die automatically when they touch you
+ACEA-CA3W
+
+// Pause and unpause to exit to next level. See notes.
+9V4A-BCG6
+PP4A-B39A
+
+// Infinite Skeleton Keys - Both Players
+AMVA-AA8C
+
+// Skeleton Keys worth 2
+AM5A-AABA
+
+// First Aid Kits worth 2
+AM5A-AAA6
+
+// Squirt Gun is 2x stronger
+AK7A-EAGG
+
+// Squirt Gun is 4x stronger
+AV7A-EAGG
+
+// Ghost Kid Potion lasts 2x longer
+1DGA-A0C8
+
+// Speed Shoes last 2x longer
+YXXA-ANDT
+
+// Start every level with 10 neighbors
+BK2T-BA80
+AK2T-AA82
+BLLA-AA8C
+
+// Start every level with 07 neighbors
+A72T-BA80
+AK2T-AA82
+BLLA-AA8C
+
+// Start every level with 04 neighbors
+AV2T-BA80
+AK2T-AA82
+BLLA-AA8C
+
+// Maximum number of Lives is 10, instead of 6
+BH5A-AAFW
+BGLA-AAG6
+
+// Gold Pieces worth 1000 points, instead of 500
+7D5A-AGHN
+
+// Gold Bar worth 2000 points, instead of 1000
+4D5T-ARBE
+
+// BBQ Guy worth 210 points, instead of 105
+4JRT-CAD4
+
+// Baby worth 1400 points, instead of 700
+SASA-CLGN
+
+// Trampoline Girl worth 600 points, instead of 300
+MATA-CEFY
+
+// Soldier worth 200 points, instead of 100
+3AVA-CAEC
+
+// Dog worth 1000 points, instead of 500
+7AWA-CGFN
+
+// Evil School Teacher worth 100 points, instead of 10
+NTXA-CAHG
+
+// Inner-Tuber worth 200 points, instead of 100
+3AYA-CAAY
+
+// Explorer worth 1000 points, instead of 500
+7AYT-CGDT
+
+// Cheerleader worth 2000 points, instead of 1000
+4AZA-CRGE
+
+// Tourist Couple worth 400 points, instead of 200
+WA0A-CCA4
+
+// Weed-Eater is 2x stronger
+AK7A-EAGN
+
+// Weed-Eater is 4x stronger
+AV7A-EAGN
+
+// Soda Pop Cans are 2x stronger
+A37A-EAGW
+
+// Soda Pop Cans are 3x stronger
+BF7A-EAGW
+
+// Regional Lockout Bypass (European and Japanese Systems)
+AANA-AA5L
+
+// Invincibility against Martian Bubble Gun
+D55T-AA86
+
+// Ancient Artifact worth 75, instead of 30
+KS4T-AAFW
+
+// Bazooka worth 10, instead of 5
+BM4T-AAFY
+
+// Speed Shoes worth 2
+AM5A-AAAT
+
+// Monster Potion worth 2
+AM5A-AAAW
+
+// Pandora's Box worth 2
+AM5A-AAA8
+
+// Keys worth 2
+AM5A-AAAR
+
+// Squirt Guns worth 250, instead of 99
+9M4T-AAFL
+
+// Soda Pop Cans worth 50, instead of 20
+GM4T-AAF0
+
+// Fire extinguishers worth 250, instead of 99
+9M4T-AAFN
+
+// Weed-eater worth 500, instead of 300
+8X4T-ACFT
+
+// Level select
+VWXT-B38N
+3CXT-BX8T
+G8YT-AAG4
+RGZA-A6XT
+
+// Play unused song at title screen
+AF0T-AAB4
+
+// Title screen music / sound effect / sample modifier
+AB0T-AAB4

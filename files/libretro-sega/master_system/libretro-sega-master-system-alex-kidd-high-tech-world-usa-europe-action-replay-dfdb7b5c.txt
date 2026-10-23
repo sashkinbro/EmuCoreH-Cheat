@@ -1,0 +1,5 @@
+// Infinite Time - Seconds Digits
+00C1-0E00
+
+// Infinite Time - Hour Digit
+00C1-0F00

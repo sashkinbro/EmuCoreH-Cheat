@@ -1,0 +1,17 @@
+// Score Modifier P1
+FF0C60:0063
+
+// Score Modifier P2
+FF0C60:0000
+
+// Fake Infinite Time (Seconds)
+FF1B80:0046
+
+// Team 1 Score Modifier (P1)
+FF10EA:0063
+
+// Low Timer (Minutes)
+FF92F8:0000
+
+// Low Timer (Seconds)
+FF92FA:0000

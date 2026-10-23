@@ -1,0 +1,19 @@
+// Infinite health
+ATZA-AA80
+ATZA-AA2C
+
+// Infinite lives
+ATZA-AA4L
+ATZT-AA28
+
+// Infinite time
+AT9A-AA90
+
+// Moon jump (slow descent)
+97VA-B96L
+
+// Moon jump (super slow descent)
+97VA-B96J
+
+// Walk thru walls
+RZWA-C61R

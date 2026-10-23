@@ -1,0 +1,54 @@
+// Start with max Money
+B6TT-ARMJ
+
+// Infinite Nitro
+AMTA-AA8J
+
+// Infinite Money
+FF1B84:270F
+
+// Infinite Nitro
+FF1B9E:0006
+
+// Always Finish First
+AMVT-AA40
+
+// Acceleration Modifier P1
+FF18D8:0013
+
+// Lap Modifier P1
+FF1994:0000
+
+// Position Modifier P1
+FF199C:00BE
+
+// Have Lots of Money
+FF2570:00FF
+FF2570:00FF
+
+// Total Points Modifier P1
+FF1B84:0000
+
+// Dave Total Points Modifier
+FF21A4:0000
+
+// Nigel Total Points Modifier
+FF21AA:0000
+
+// Ali Total Points Modifier
+FF21B0:0000
+
+// Mick Total Points Modifier
+FF21C2:0000
+
+// Ritchie Total Points Modifier
+FF21C8:0000
+
+// Roz Total Points Modifier
+FF21CE:0000
+
+// Play Unused Song at Title screen
+AZJT-EAHL
+
+// Title Screen Music Modifier
+AFJT-EAHL

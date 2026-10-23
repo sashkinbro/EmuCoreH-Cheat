@@ -1,0 +1,28 @@
+// Start With 1/2 Jewel In Life Gauge
+012-9AD-F72
+
+// Start With 1/2 Maximum Jewels In Life Gauge
+032-9AD-F72
+
+// Don't Take Damage From Most Hits
+3AE-DDC-2A2
+
+// No Blinking After Being Hit
+00F-46C-803
+
+// Longer Blinking After Being Hit
+CCF-46C-803
+
+// Infinite Blinking After Being Hit
+3A2-ACE-2A2
+
+// Invisibility
+C92-01D-082
+
+// Temporary Invisibility (When You Hit Something)
+002-0BD-E6E
+
+// Special Options Screen
+3EB-8DB-2A2
+01B-8EB-F7A
+00B-8FB-E6D

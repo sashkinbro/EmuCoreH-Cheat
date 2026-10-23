@@ -1,0 +1,35 @@
+// Power At Maximum
+00C7-AA06
+
+// Accuracy At Maximum
+00C7-AB06
+
+// Luck At Maximum
+00C7-AC06
+
+// Level At Maximum [18]
+00C7-AE11
+
+// Change Colors [Replace ?To Change Colors]
+00C0-4200
+
+// P1 Always On Shot Zero
+00C7-7800
+
+// FAKE? - P1 Always On Shot Zero
+00C7-A000
+
+// Change Colors (Replace &Atilde;— To Change Colors)
+200-C0F
+
+// Always on 1st Stroke
+00C7-7801
+
+// Always on Same Stroke
+7EF-E5D-3B7
+
+// Wind Speed Modifier
+00C3-D800
+
+// No penalty stroke for hitting ball in water hazard or out of bounds
+7E4-42C-3B7

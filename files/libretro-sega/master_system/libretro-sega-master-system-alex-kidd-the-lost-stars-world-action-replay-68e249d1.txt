@@ -1,0 +1,14 @@
+// Invincible After 1 Hit (Time Still Decreases)
+00CD-0A01
+
+// Infinite Energy
+00CD-1D02
+
+// Unlimited Cloud Shots
+00CD-0114
+
+// High Jump (Makes Buzzing Noise)
+00CD-0601
+
+// End Level After Just 1 Screen
+00C0-50FF

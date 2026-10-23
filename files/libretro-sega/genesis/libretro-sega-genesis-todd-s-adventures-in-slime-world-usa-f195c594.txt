@@ -1,0 +1,22 @@
+// Infinite Energy
+AMCA-AA6T
+ABLA-AAH4
+
+// Start With All Items
+67LA-AAA0
+
+// Infinite Items
+AKEA-AA8N
+
+// Infinite Time
+A4DT-AA96
+
+// Mushrooms Will Not Reset Timer To 5 Min If Over 4 Left
+99GA-AABT
+
+// Infinite Energy
+FF66C6:0000
+
+// Invincibility (Disable Hit Detection)
+R1CA-A6YT
+RZLA-A618

@@ -1,0 +1,76 @@
+// Enable Stage Select
+005-43D-A2A
+
+// Infinite lives
+009-04F-3BE
+
+// Invincible after 1 ring
+A78-92C-19E
+
+// Each Ring Worth ?? Points
+016-5ED-E6E
+
+// Don't lose rings when hit
+3A7-E4C-2A2
+
+// Start With ?? Lives
+012-B8D-E66
+
+// Stop timer
+001-12D-3B7
+
+// Start on Act 2
+3E2-E4D-3B4
+012-E5D-E69
+
+// Start on Act 3
+3E2-E4D-3B4
+022-E5D-E69
+
+// Jump In Midair
+00A-A7C-E69
+
+// Invincibility
+C37-77C-E61
+C37-B9C-C41
+277-BAC-4CA
+
+// Infinite Rings
+00D2-9963
+
+// Infinite Lives
+00D2-9809
+
+// Better Invincibility
+00D3-A915
+
+// Level Select - Zone
+00D2-9500
+
+// Keeps Time At Zero (Seconds)
+00D2-B900
+
+// Keeps Time At Zero (Minutes)
+00D2-BA00
+
+// High Gravity
+00D5-18FF
+
+// Glider From Start
+00D5-0213
+
+// Invisible Sonic
+00D5-2876
+
+// Don't Die When Hit With No Rings
+BC7-BAC-4CA
+377-BBC-08A
+
+// Zone Select after Title Screen
+00D1-2CB6
+
+// Hold A or B to Moonjump (period of time)
+DEC-10A
+
+// Hold A or B to Moonjump (let go to land)
+643-DFC-19A

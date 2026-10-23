@@ -1,0 +1,68 @@
+// Blue towers
+FF2100:0000
+
+// Green towers
+FF2102:0000
+
+// Blue HP Mod
+FF280A:E703
+
+// Red MP Mod
+FF2128:FFFF
+
+// Blue MP Mod
+FF2126:FFFF
+
+// Green MP Mod
+FF212A:FFFF
+
+// Yellow MP Mod
+FF212C:FFFF
+
+// 'MASTER' Is Selectable In The 'CAMP-1' And 'CAMP-2' Modes
+AKKA-AA2W
+
+// 'PLAYER' Is Selectable In The 'CAMP-1' And 'CAMP-2' Modes
+AKKA-AA3E
+
+// You  Can Use Magic More Than One Time
+AJ1A-AA4Y
+
+// Max Blue Magic
+FF212E:00FF
+
+// Max Red Magic
+FF212E:00FF
+
+// Max Green Magic
+FF2130:00FF
+
+// Max Yellow Magic
+FF2130:00FF
+
+// Red Towers
+FF2100:0000
+
+// Red HP Modifier
+FF281C:0000
+
+// Blue HP Modifier
+FF280A:0000
+
+// Green HP Modifier
+FF282E:0000
+
+// Yellow HP Modifier
+FF2840:0000
+
+// Red MP Modifier
+FF2128:00FF
+
+// Blue MP Modifier
+FF2126:00FF
+
+// Green MP Modifier
+FF212A:00FF
+
+// Yellow MP Modifier
+FF212C:00FF

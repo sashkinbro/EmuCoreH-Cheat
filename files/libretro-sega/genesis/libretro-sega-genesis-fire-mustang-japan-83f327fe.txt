@@ -1,0 +1,21 @@
+// Infinite Lives
+ATRT-AA50
+
+// Infinite Bombs
+ATVA-AA2W
+
+// Invincibility
+AA5T-AN5Y
+
+// Invincibility
+FFB972:0010
+
+// Infinite Continue
+A2CT-AA3T
+
+// Invincibility (Disable Hit Detection)
+RY5T-A61Y
+RY6A-A6V6
+
+// 1 Shot Kill Enemies/Bosses
+AT6A-AA44

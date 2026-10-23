@@ -1,0 +1,23 @@
+// FAKE Score (Ten's Digit)
+00CC-D709
+
+// FAKE Score (One's Digit)
+00CC-D809
+
+// FAKE Score (Hundred's Digit)
+00CC-D609
+
+// FAKE Score (Thousand's Digit)
+00CC-D509
+
+// FAKE Score (Ten-Thousand's Digit)
+00CC-D409
+
+// FAKE Score (Hundred-Thousand's Digit)
+00CC-D309
+
+// Stage Modifier - Scenario Mode
+00D4-1001
+
+// Lesson Modifier - Puzzle Mode
+00DB-0B00

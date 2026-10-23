@@ -1,0 +1,14 @@
+// Infinite Lives
+A4RT-WA4R
+
+// Infinite Energy
+ALTT-WA84
+
+// Start With 99 Lives (Counter Shows 9 Max)
+XGBA-YAF6
+
+// Infinite Energy
+FFB54C:00FF
+
+// Infinite Lives
+FFA5F0:0009

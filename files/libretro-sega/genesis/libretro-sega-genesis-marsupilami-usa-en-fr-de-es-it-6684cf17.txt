@@ -1,0 +1,33 @@
+// Infinite Energy
+AXRT-AA9W
+
+// Infinite Lives
+AWVA-AA20
+
+// Infinite Time
+AXTT-AA2A
+
+// Infinite Energy
+FFFA08:0006
+
+// Infinite Lives
+FFF9D0:0009
+
+// Infinite Time
+FFF9BC:03E7
+
+// Infinite Fruits
+AWET-CA4C
+
+// Keep Fruits After The Death
+AXTA-AA5G
+
+// Invincibility/Untouchable You can go through the enemies and pick up objects
+R1LA-A6ZN
+R08A-A6WG
+
+// Skip Levels In Pause Hold A+B+C Start
+ALST-AA9G
+
+// Super Speed
+FFFAD2:0001

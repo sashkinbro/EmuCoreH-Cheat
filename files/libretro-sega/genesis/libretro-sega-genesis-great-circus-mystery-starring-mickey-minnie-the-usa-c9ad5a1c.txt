@@ -1,0 +1,44 @@
+// Infinite Lives
+FALA-CYX2
+
+// Invincibility
+E3MA-CA4G
+RYXT-C6YN
+
+// Infinite Lives
+AALA-CAD4
+
+// Infinite Energy
+ABMA-CACW
+
+// Invincibility
+RZMA-C6WN
+
+// Infinite Energy P1
+FF81DE:0003
+
+// Infinite Lives P1
+FF8272:000A
+
+// Infinite Energy P2
+FF835E:0003
+
+// Infinite Lives P2
+FF83F2:000A
+
+// Infinite Special Power
+AJRA-CA4C
+AJRT-CA7W
+
+// 1 Hit and Invincible
+FF825A:0010
+
+// Infinite Hearts
+R02T-A6V2
+AVMA-CA4T
+
+// Infinite Coins
+AKJA-CA4J
+
+// 1 Hit Kill Enemies/Bosses
+ABMA-CAF8

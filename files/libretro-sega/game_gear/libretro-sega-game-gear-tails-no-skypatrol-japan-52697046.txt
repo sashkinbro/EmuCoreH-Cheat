@@ -1,0 +1,42 @@
+// Infinite Fuel
+00D7-8E20
+
+// Level Select
+00D7-8702
+
+// Start On Stage
+00C5-5500
+
+// Infinite Lives
+00D7-9509
+
+// 99 Crystals
+00D7-9799
+
+// Infinite Fuel
+C9F-64B-809
+
+// Infinite Lives
+003-A5C-19E
+
+// Start On Railcanyon Stage
+001-F9D-B35
+B41-F8D-D58
+
+// Start On Ruinwood Stage
+001-F9D-B35
+D91-F8D-D58
+
+// Start On Metal Island Stage
+001-F9D-B35
+E11-F8D-D58
+
+// Start On Darkcastle Stage
+001-F9D-B35
+7F1-F8D-D58
+
+// Options Menu
+00D7-8702
+
+// Options Menu
+C30-8FA-C41

@@ -1,0 +1,39 @@
+// Invulnerability
+00C2-C5FB
+
+// Invulnerability
+00E-89A-3BE
+
+// Infinite Lives
+00C0-1609
+
+// Invincibility - Player 1
+00C2-C110
+
+// Infinite Time - Player 1
+00C2-C099
+
+// Level Select (Replace ? With 0-5)
+00C0-0F00
+
+// Level Number (Replace ?)
+00C0-0E00
+
+// Infinite Lives
+002-ABD-3BE
+
+// Infinite Health - Both Players
+B69-42D-3BE
+7E9-22E-3B7
+
+// P1 Infinite Lives
+002-ABD-3BE
+
+// P2 Infinite Lives
+002-ECD-3BE
+
+// Infinite Health
+189-24E-2AA
+
+// Invulnerability After Being Hit
+18E-8AA-6EA

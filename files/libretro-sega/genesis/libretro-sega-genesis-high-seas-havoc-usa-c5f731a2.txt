@@ -1,0 +1,149 @@
+// Infinite Lives
+AFYA-AADT
+
+// Infinite Energy
+R00T-A6TJ
+
+// Invincibility
+AKCA-AA6L
+
+// Invincibility
+ABCA-AN6L
+SFCA-BJYR
+
+// infinite jumps
+WZRA-ACMY
+
+// run hyper
+AFDA-AA3N
+
+// Gems keep increasing
+AG0T-AAGE
+
+// gems give you extra lives
+AG0T-AAGY
+
+// immortality
+ABAT-AABJ
+
+// Moonwalk Right
+AKCT-AAHW
+
+// Moonwalk Left
+AKCT-AAH2
+
+// Disable Red Screen
+CTGT-AN7A
+
+// Infinite Energy
+AW0T-AA2J
+
+// Gems Are Worth 3
+SG0T-BN0Y
+
+// Gems Are Worth 7
+SG0T-B60Y
+
+// Invincible
+SFCA-B8YR
+
+// Infinite Lives
+AVYA-AA5R
+
+// Walk-Thru Enemies
+FFDE5A:0004
+
+// Have 99 Gems
+FFDCC8:0099
+
+// Infinite Health (Ignore HUD)
+FFDCA4:003F
+
+// Infinite Lives
+FFDCA0:0009
+
+// Level Modifier
+FFDBEC:0000
+
+// No Health Bosses (Read Note)
+FFA048:0000
+
+// Always Time 0:00
+ALZT-AA30
+
+// Invincibility (Disable Hit Detection)
+RZBA-A6T8
+RYPA-G6YW
+RYNA-G60J
+RYFT-G6X8
+R1ZT-A61R
+
+// Don't Fall When You Walk Off The Edges Of Platforms, Crates, Row Boats, etc (Walk On Air)
+AKNA-AA5L
+
+// Jump Higher (Fast Jump)
+9BRA-B97A
+
+// Jump Much Higher (Fast Jump)
+83RA-B97A
+
+// Jump Higher (Slow Jump)
+ABGT-AAK6
+
+// Jump Much Higher (Slow Jump)
+ABGT-BAB6
+
+// Slow Moon Descent When Jumping Or Falling
+ABJA-BAF8
+
+// Super Slow Moon Descent When Jumping Or Falling
+ABJA-ANF8
+
+// Enemies, Rolling Rocks, And Other Hazards Are Gone
+AD2T-EA6W
+
+// Start on level 2 (Pirate Ship)
+SEXT-BEYG
+
+// Start on level 3 (Otarucean 1)
+SEXT-BJYG
+
+// Start on level 4 (Otarucean 2)
+SEXT-BNYG
+
+// Start on level 5 (Burning Hamlet 1)
+SEXT-BTYG
+
+// Start on level 6 (Burning Hamlet 2)
+SEXT-BYYG
+
+// Start on level 7 (Mt. Chester 1)
+SEXT-B2YG
+
+// Start on level 8 (Mt. Chester 2)
+SEXT-B6YG
+
+// Start on level 9 (Frozen Palace 1)
+SEXT-BAYG
+
+// Keep Diamands After The Death - High Seas Havoc (USA) (Beta)
+AJ1T-CA74
+
+// Infinite Energy - High Seas Havoc (USA) (Beta)
+FFDCA4:00FF
+
+// Infinite Energy - High Seas Havoc (USA) (Beta)
+AMDT-AA2W
+
+// Invincibility - High Seas Havoc (USA) (Beta)
+RZAT-A6X4
+R13T-A6TJ
+
+// Freeze Time Continue - High Seas Havoc (USA) (Beta)
+AVZT-AA42
+
+// Infinite Credit - High Seas Havoc (USA) (Beta)
+AVYT-AA96
+
+// Infinite Controllable Jump + Jumps In Midair 2 In 1
+ABRA-AAAN

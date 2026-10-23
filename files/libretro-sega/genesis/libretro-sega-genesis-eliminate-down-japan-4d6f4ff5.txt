@@ -1,0 +1,28 @@
+// Invincibility
+AA9T-AN5C
+ABCA-AN2W
+
+// Infinite Lives
+ABAT-AAC2
+AKAT-AA4R
+
+// Infinite Lives
+AKAT-AA4R
+
+// Infinite Credits
+ALGT-AA3C
+
+// Enable Weapon Cheat. See Notes
+AJYT-AA28
+
+// Keep Power of Weapons After The Death
+AKAT-AA6W
+
+// Infinite Energy And Shield
+AKAT-AA3T
+
+// Invincibility
+9BAT-AA3R
+
+// Start with ?? Lives
+BECT-BA6T

@@ -1,0 +1,20 @@
+// Infinite Health
+00CB-7706
+
+// Infinite Lives
+00C0-1603
+
+// Infinite Lives
+00C0-1609
+
+// Infinite Health
+7E9-35E-3B7
+
+// Infinite Lives
+005-D2F-19E
+
+// Invulnerability
+C36-E1E-E61
+
+// Advanced Options Menu
+012-92E-D52

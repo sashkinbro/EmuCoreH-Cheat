@@ -1,0 +1,36 @@
+// Infinite Lives
+AV0T-AA40
+
+// Infinite Player
+AVZA-AA6G
+AVZA-AA2Y
+
+// Invincibility
+RZZA-A6YG
+RZZA-A6TA
+
+// Infinite Transfiguration Items
+RELT-E6VT
+
+// Freeze Time Transfiguration Items
+AJJT-EA6J
+
+// Infinite Mp
+ATNA-EA34
+ATPT-EA82
+
+// Freeze Limit
+AJJT-EA3A
+
+// Infinite Energy
+ALMT-6A8N
+ACMT-7J68
+
+// Infinite Bombs
+AL2T-6A3C
+
+// Infinite Special Weapon
+ACWT-7J3N
+
+// Infinite Controllable Jump
+AB6T-AADJ

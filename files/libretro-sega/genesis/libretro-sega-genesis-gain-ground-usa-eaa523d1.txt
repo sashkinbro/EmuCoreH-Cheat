@@ -1,0 +1,145 @@
+// 30 Seconds To Complete Round
+D3GA-AAE2
+
+// 1 Minute To Complete Round
+HVGA-AAE2
+
+// 1 Minute 30 Seconds To Complete Round
+MKGA-AAE2
+
+// 2 Minutes To Complete Round
+SBGA-AAE2
+
+// 3 Minutes To Complete Round
+0VGA-AAE2
+
+// 4 Minutes To Complete Round
+8BGA-AAE2
+
+// 4 Minutes, 15 Seconds To Complete Round
+97GA-AAE2
+
+// Infinite Time To Complete Round
+AVGA-AA8E
+
+// Must Get Everybody To The Exit To Complete Round
+AK9T-AA5E
+
+// Each Dead Enemy Counts As 2
+SB9T-BLXE
+
+// Each Dead Enemy Counts As 3
+SB9T-BRXE
+
+// Each Dead Enemy Counts As 4
+SB9T-BWXE
+
+// Each Dead Enemy Counts As 5
+SB9T-B0XE
+
+// Each Dead Enemy Counts As 6
+SB9T-B4XE
+
+// Each Dead Enemy Counts As 7
+SB9T-B8XE
+
+// Each Dead Enemy Counts As 8
+SB9T-BCXE
+
+// Play Every Other Stage (1, 3, 5, 7, Etc.)
+SAYT-BJVE
+SAYT-BJVJ
+
+// Play Every 3rd Stage
+SAYT-BNVE
+SAYT-BNVJ
+
+// Play Every 4th Stage
+SAYT-BTVE
+SAYT-BTVJ
+
+// Play Every 5th Stage
+SAYT-BYVE
+SAYT-BYVJ
+
+// Play Every 6th Stage
+SAYT-B2VE
+SAYT-B2VJ
+
+// Play Every 7th Stage
+SAYT-B6VE
+SAYT-B6VJ
+
+// Play Every 8th Stage
+SAYT-BAVE
+SAYT-BAVJ
+
+// Infinite Time
+FFA204:00C7
+
+// No Enemies Left (Instant Win)
+FFA206:0000
+
+// Level Select Enabled In Option Menu
+FFF804:00FF
+
+// P1 Have All Characters
+FFA85C:0014
+FFA86E:0001
+FFA870:0203
+FFA872:0405
+FFA874:0607
+FFA876:0809
+FFA878:0A0B
+FFA87A:0C0D
+FFA87C:0E0F
+FFA87E:1011
+FFA880:1213
+FFA882:00FF
+
+// P2 Have All Characters
+FFA95C:0014
+FFA96E:0001
+FFA970:0203
+FFA972:0405
+FFA974:0607
+FFA976:0809
+FFA978:0A0B
+FFA97A:0C0D
+FFA97C:0E0F
+FFA97E:1011
+FFA980:1213
+FFA982:00FF
+
+// Invincibility (enemy weapons pass right thru you). See notes.
+CCLT-AA6C
+
+// You Can Reach The Exit Just By Touching Any Horizontal Wall Or Barrier. See notes
+CBPT-AA3L
+
+// Walk thru walls when moving left or right
+RFPA-A6ZE
+
+// Invincibility (Disable Hit Detection)
+R0LT-A6XL
+RZ8A-A6VY
+R03A-A6XT
+
+// 1 Shot Kill Bosses
+AL3A-AA3W
+ALRA-AA7C
+ALTA-AA6L
+AMAT-AA7A
+AL1T-AA6R
+
+// Freeze Time
+AKGA-AA80
+
+// Infinite Continue
+AKTT-AA8G
+
+// Enabled Cheat Code Round Select In Options
+REGA-A6X8
+REGT-A6VA
+AAHA-AA2A
+REJA-A6YW

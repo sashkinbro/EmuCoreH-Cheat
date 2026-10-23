@@ -1,0 +1,23 @@
+// Start With 2 Lives
+02A-E1C-E66
+
+// Start With 5 Lives
+05A-E1C-E66
+
+// Start With 7 Lives
+07A-E1C-E66
+
+// Infinite Lives
+00F-D5B-3BE
+
+// Start With 3 Shields
+02B-09E-E66
+
+// Start With 6 Shields
+05B-09E-E66
+
+// Start With 8 Shields
+07B-09E-E66
+
+// Infinite Shields (Except When Stomped)
+007-43E-E6E

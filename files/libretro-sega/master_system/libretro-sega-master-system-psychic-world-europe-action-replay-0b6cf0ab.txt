@@ -1,0 +1,8 @@
+// Infinite H.P.
+00DF-1050
+
+// Infinite ESP
+00DF-1250
+
+// Maximum Shot Power
+00DF-1805

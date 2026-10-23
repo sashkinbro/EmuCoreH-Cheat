@@ -1,0 +1,157 @@
+// Present Mod: Earl
+FFDE50:0000
+
+// Present Mod: Toejam
+FFDE50:0000
+
+// Easy Acsess to Level 0
+FF8362:008B
+
+// Infinite lives
+GC8A-AYZT
+
+// Don't use up presents in inventory
+MWPA-AA5J
+
+// Always share presents [even on different levels]
+ALKA-AA4Y
+
+// See the entire map uncovered on each level
+RF8A-A6T2
+
+// Don't uncover any map tiles
+REFT-A6YL
+
+// Getting youched doesn't hurt you
+CJCA-CA6L
+
+// Getting squashed doesn't hurt you
+AL3T-CA6A
+
+// Don't drown in the water
+HC8T-AA32
+
+// Mole ignores you
+HTTT-EA96
+
+// Tomatoes fly like slingshots
+C5AA-CA4T
+
+// Santa is easier to sneak up on
+ATXA-EA3Y
+
+// Each BUCK found is worth 2 bucks
+GBLA-DJY8
+
+// Each BUCK found is worth 5 bucks
+GBLA-DYY8
+
+// UN-FALL present always takes you up one level
+HTFA-DBSN
+DEFA-CAHR
+
+// Faster progression through the ranks
+JC6A-AH6Y
+
+// ToeJam and Earl move twice as fast
+TD2A-AEAJ
+6D2A-ACAN
+
+// All monsters are boogymen [extra hard]
+CB8A-DT2Y
+
+// All monsters are wahinis
+AZ8A-DT2Y
+
+// All monsters are Santas
+CV8A-DT2Y
+
+// All monsters are bees
+A38A-DT2Y
+
+// All monsters are moles [very nasty]
+CK8A-DT2Y
+
+// Kill all monsters with one tomato
+1V9A-DCCJ
+AF9A-CACL
+
+// Super hi-tops last 2x as long
+5V3T-CLGR
+
+// All other presents last 2x as long
+4B3T-CRAE
+
+// Short game
+RH6T-C6VN
+JH6T-DJV4
+TH6T-DRB6
+
+// All Monsters Are Lemon Aid Stands
+C78A-DT2Y
+
+// All Monsters Are i-Scream Trucks
+CP8A-DT2Y
+
+// All Monsters Are Ship Parts
+AB8A-DT2Y
+
+// No Monsters!
+678A-DT2Y
+
+// Infinite Lives In Most Circumstances
+AL8A-AA7T
+
+// Begins ToeJam With A Total of 99 Bucks
+NR7T-AAE2
+
+// Begins Earl With A Total of 99 Bucks
+NR7T-AAF6
+
+// Infinite Health P1
+FFA252:0032
+
+// Infinite Health P2
+FFA252:003C
+
+// P1 Starts As A Dufus
+FFA24C:0063
+
+// P1 Starts As A Poindexter
+FFA24C:009F
+
+// P1 Starts As A Peanut
+FFA24C:00E7
+
+// Walk Anywhere (Toejam Only)
+FFA26E:00E8
+
+// Never Walk Off Edges (Toejam Only)
+FFA2AE:0000
+
+// Walk anywhere (allows you to walk on water or air).
+A5VA-AA5W
+
+// All items in your inventory will show what the item is, instead of question marks.
+RGWT-A6TC
+
+// Collect presents from anywhere.
+EKKT-CA8G
+
+// Invincibility (enemies walk right thru you).
+E5RT-AA3W
+
+// Wake up on the first try (after you fall asleep from standing still too long or after reading a school book).
+AEVT-DA7L
+
+// Can stand still 3x longer before you fall asleep.
+TTXA-CGAE
+
+// Don't get charged for mail orders (still have to have enough to cover the price).
+ALRA-AA5R
+
+// Don't get charged for mail orders (works even if you don't have enough money).
+FLRA-AA4G
+
+// All items in the mail order shop will show what the item is, instead of question marks.
+RGXA-A6ZT

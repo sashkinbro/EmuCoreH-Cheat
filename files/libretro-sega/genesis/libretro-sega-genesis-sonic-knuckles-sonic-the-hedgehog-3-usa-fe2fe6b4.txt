@@ -1,0 +1,517 @@
+// Disable Transformation Music
+A2PA-CA6R
+A3JT-CA9Y
+A36T-CA30
+A5PA-CA30
+A5PT-CA3E
+RFPT-T6YC
+
+// Can Access 'Sound Test' Menu From Title Screen
+AVFA-AR74
+
+// Enable debugger
+RFTT-A6XW
+
+// Invincible against dynamic objects (bullets, enemies, for example), except Knuckles.
+REBA-C6V6
+
+// Invincible against static objects (spikes, for example)
+RZBA-E6YA
+
+// Invincible against Knuckles
+ABTA-NA7Y
+
+// Touch an enemy, and you will destroy it (except Knuckles)
+PJAA-CA8C
+
+// Touch Knuckles, and you will damage him.
+ABTT-NA3G
+
+// Knuckles travels with Tails!
+ABZT-AA5Y
+PKZT-B950
+
+// Become Super/Hyper Sonic with 0 rings
+AANT-CAHL
+
+// Become Super/Hyper Knuckles with 0 rings
+AB6A-CADA
+
+// Become Super Tails with 0 rings
+ABJT-CACJ
+
+// Become Super Sonic without collecting Emeralds first
+AANT-CAG6
+
+// Become Super Knuckles without collecting Emeralds first
+AB6A-CACW
+
+// Become Super Tails Without Collecting Emeralds First
+ABJT-CACA
+
+// Become Hyper Sonic without collecting Emeralds first
+AANT-CAGY
+AAPA-CAB8
+
+// Become Hyper Knuckles without collecting Emeralds first
+AB6A-CACL
+AB6A-CAHR
+
+// Don't Use Up Rings to Maintain Transformation Of Any Super/Hyper Character
+AAPT-CAB8
+
+// Play As Shadow
+Y26A-AAAG
+
+// Play As Prism
+A26A-AAA4
+
+// Play As Wild
+A26A-AA8C
+
+// Push any jump button to make Knuckles float
+AB6A-DAJC
+
+// Spindash Music Modifier (Sonic only)
+ATRA-CAAA
+BTRA-CAAA
+CTRA-CAAA
+DTRA-CAAA
+ETRA-CAAA
+FTRA-CAAA
+BARA-CAAA
+CARA-CAAA
+DARA-CAAA
+EARA-CAAA
+FARA-CAAA
+GARA-CAAA
+AERA-CAAA
+BERA-CAAA
+CERA-CAAA
+DERA-CAAA
+EERA-CAAA
+FERA-CAAA
+GERA-CAAA
+AJRA-CAAA
+BJRA-CAAA
+CJRA-CAAA
+DJRA-CAAA
+EJRA-CAAA
+GJRA-CAAA
+ANRA-CAAA
+BNRA-CAAA
+CNRA-CAAA
+DNRA-CAAA
+ENRA-CAAA
+AYRA-CAAA
+BYRA-CAAA
+CYRA-CAAA
+DYRA-CAAA
+EYRA-CAAA
+FYRA-CAAA
+A2RA-CAAA
+B2RA-CAAA
+C2RA-CAAA
+D2RA-CAAA
+E2RA-CAAA
+F2RA-CAAA
+A6RA-CAAA
+B6RA-CAAA
+C6RA-CAAA
+D6RA-CAAA
+E6RA-CAAA
+F6RA-CAAA
+
+// Knuckles fly upwards
+AP2A-DAEE
+
+// Knuckles Is Untouchable To Enemies
+AEBA-DAJW
+
+// Knuckles is invincible
+AEBA-DAGE
+
+// knuckles spin fast when jumping
+AZ9A-DARG
+
+// knuckles runs hyper
+AZ9A-DADT
+
+// knuckles run different 1
+AB9A-DA3J
+
+// knuckles run different 2
+BB9A-DA3J
+
+// knuckles run different 3
+CB9A-DA3J
+
+// knuckles run different 4
+DB9A-DA3J
+
+// knuckles run different 5
+EB9A-DA3J
+
+// knuckles run different 6
+FB9A-DA3J
+
+// knuckles run different 7
+GB9A-DA3J
+
+// knuckles run different 8
+HB9A-DA3J
+
+// knuckles run different 9
+JB9A-DA3J
+
+// knuckles run different 10
+KB9A-DA3J
+
+// knuckles run different 11
+LB9A-DA3J
+
+// knuckles run different 12
+MB9A-DA3J
+
+// knuckles run different 13
+NB9A-DA3J
+
+// knuckles run different 14
+PB9A-DA3J
+
+// knuckles run different 15
+RB9A-DA3J
+
+// knuckles run different 16
+SB9A-DA3J
+
+// knuckles run different 17
+TB9A-DA3J
+
+// knuckles can be easly control when jumping
+AK5A-DA6C
+
+// One hit to defeat Doomsday last boss part 1
+FFB22E:0000
+
+// One hit to defeat Doomsday last boss part 2
+FFB1E4:0000
+
+// One hit for Death Egg last boss part 1
+FFB3EA:0000
+FFB3A0:0000
+FFB434:0000
+FFB4C8:0000
+FFB47E:0000
+FFB512:0000
+
+// Death Egg last boss gives you the finger
+FFB3EA:0000
+FFB434:0000
+FFB4C8:0000
+FFB512:0000
+
+// One hit for Death Egg last boss part 2
+FFB19A:0000
+
+// Finger 1 autokill
+FFB3EA:0000
+
+// Finger 2 autokill
+FFB3A0:0000
+
+// Finger 3 autokill
+FFB434:0000
+
+// Finger 4 autokill
+FFB4C8:0000
+
+// Finger 5 autokill
+FFB47E:0000
+
+// Finger 6 autokill
+FFB512:0000
+
+// Hidden Palace cutscene Knuckles action modifier
+FFBDE4:0000
+
+// Player 1 Action Modifier
+FFB020:0000
+
+// Infinite Time In Debugger.
+RHSA-A6XE
+
+// Jump In Midair - Sonic
+CTNA-CA8A
+HTNA-DER0
+AANA-DZ82
+ANNA-DP86
+ATNA-CR9C
+C2NA-CA9J
+
+// Jump In Midair - Knuckles
+CV5T-CA9R
+HV6A-DEJE
+AB6A-DZ2G
+AP6A-DP2L
+AV6A-CR2T
+C36A-CA20
+RZ6A-C6XN
+
+// Jump In Midair - Tails
+BVJA-CA88
+ABJA-DZ9R
+RFJA-C61Y
+PPJA-DP92
+AVJA-CR98
+C3JT-CA2E
+RZJT-C6W6
+
+// Get Rings From Anywhere
+F5ZA-AA60
+
+// Red spheres give you rings
+ACMT-AA5L
+
+// Play as Nova
+Y26A-ACAG
+
+// all characters invincible
+AEBA-CA7W
+
+// Play as Rose
+DT6A-A3AG
+
+// Play as Ashura
+WT6A-A3AG
+
+// Play as Tamora
+BT6A-A2AG
+
+// Knuckles is invincible at the Hidden Palace Zone
+ABTT-NAL0
+
+// Play as Riku
+0T6A-AKAG
+
+// Play as emerald
+0T6A-ACAG
+
+// Hit Music Modifier (Sonic only)
+AGXT-CA34
+
+// Sonic flashing and your rings decrease
+AAPT-CAVY
+
+// no rings come out when hit
+AEBA-CA0L
+
+// sonic run backwards on the left side
+AJXA-CARL
+
+// sonic run upside down backwards
+AJXA-CARY
+
+// sonic doesn't flip or roll
+AJXA-CAAY
+
+// sonic crazy animation
+AJXA-CAAC
+
+// sonic standing and ducking animation is different
+AJXA-CAAG
+
+// Knuckles can fly.
+JB2A-CCEJ
+
+// Knuckles can fly.
+AB2A-CJEJ
+
+// Knuckles can fly.
+AB2A-CTEJ
+
+// Less Gravity. Makes everyone Do High Moon Jumps With Slow Descent
+C4ZT-CACE
+
+// Much Less Gravity, Makes Everyone Do Super High Moon Jumps With Slow Descent
+BLZT-CACE
+
+// Sonic can glide a short distance (press jump button twice).
+9ENT-C6TY
+AENT-CAA0
+JJNT-DT22
+
+// Sonic Can Glide A Longer Distance (Press jump button twice).
+9ENT-C6TY
+AENT-CAA0
+JJNT-DT22
+BLZT-CACE
+
+// Sonic can do his electric bounce
+AENT-CAM4
+
+// Sonic (Or Sonic with Tails) Accelerates Much Faster
+KJFT-CACC
+
+// Knuckles Accelerates Much Faster
+KKWA-CAHW
+
+// Tails accelerates much faster.
+KJ5T-CAAW
+
+// 1 Hit Kills Bosses
+FEAT-CEWW
+
+// 1 hit kills bosses (alternate code).
+KCHT-NA5N
+
+// Instant Death Tails As P2 Underwater
+FFB076:0000
+
+// Cheating Level Select
+FFF600:0028
+
+// Disable Various Stuff
+AC5A-CAHN
+
+// Inf Invincibility Time
+HVXA-CA5L
+
+// Inf Glide Knuckles
+FFB016:0000
+
+// Shield Modifiers Part 1
+FFF02A:0061
+FFF02A:0051
+FFF02A:0031
+FFF02A:0062
+FFF02A:0052
+FFF02A:0032
+
+// Can Always Stand On Platforms (Read Note)
+R00A-C6ZW
+
+// Invincibility
+RYBA-C6YY
+RYBA-C61A
+
+// Enables level select. See notes.
+AVFA-AA7J
+
+// Can Carry Ring Magnet underwater!
+ACMT-CA4T
+
+// Can Carry Fire Bubble Underwater!
+RGMA-C6VJ
+
+// Cliffs Don't Kill
+RYMA-C61N
+
+// All in one Invincibility (No Flashing)
+RYBA-C6ZY
+
+// Puffer Thing (Lava Reef) or Mecha Fish ((HydroCity) Can't Steal Rings
+RGBA-T6T4
+
+// Walk Through Solid Objects
+R1TA-C6VJ
+
+// Can Run At Full Speed In Water
+RYHA-C6W6
+
+// No Game Over After Lives Counter Hit Zero
+RYWA-C6WN
+
+// Knuckles Can't Break Walls
+AJNA-FAML
+
+// Remove Breakable Walls
+R18T-C6T8
+
+// Sandopolis Act 1 with Ice Cap Zone Palette
+MWDT-ZDH8
+
+// Sandopolis Act 2 with Ice Cap Zone Palette
+MWEA-ZDAG
+
+// Marble Garden Act 1 with Flying Battery Palette
+XWDT-ZBE8
+
+// Marble Garden Act 2 with Flying Battery Palette
+XWDT-ZBFG
+
+// Lava Reef Act 2 with Act 1 palette
+SWEA-ZPA0
+
+// Blue Knuckles (Palette Only)
+HWDT-YZC0
+
+// Red Sonic (Palette Only)
+9WDT-YZCG
+
+// Pause The Game And Press A To Play Special Stages.  See notes.
+RELA-A6V8
+GTLA-AACL
+
+// Pause the Game And Press A For Level Select Menu. See notes.
+RELA-A6V8
+FALA-AACL
+
+// Pause The Game And Press B Or C to Give Sonic Or Knuckles Much Faster Acceleration. See notes.
+RELA-A6V8
+KJLA-AAF8
+NJLA-BS8A
+
+// Sonic Can Always Double Jump. See notes.
+N2NT-CA24
+
+// Sonic Jumps Higher On His Second Jump When Using the Double Jump
+AANT-DS6T
+
+// Sonic Jumps Much Higher On His Second Jump When Using the Double Jump
+TANT-DK6T
+
+// Press The Jump Button Twice To Become Invincible. See notes.
+AX9A-AA9A
+
+// Timer runs at double speed (2x faster than normal)
+D5RT-AAD8
+
+// Timer runs at half speed (2x slower than normal)
+SDRT-AAD8
+
+// Timer runs at one quarter speed (4x slower than normal)
+8DRT-AAD8
+
+// Can Become Super Sonic At Any Time By Doing a Double Jump. See notes.
+C2NT-CA82
+
+// No rings are subtracted when you are Super/Hyper Sonic or Knuckles.
+RYPT-C6X0
+
+// Can Become Super Knuckles At Any Time By Doing a Double Jump. See notes.
+C36A-CA4R
+
+// Can become Hyper Knuckles at any time by doing a double jump.  See notes.
+C36A-CA4R
+RF6A-C61W
+
+// Anytime Knuckles Lands On A Wall, The Ground Shakes Killing All Enemies on Screen
+BBYT-CA7N
+
+// Double jump to make Sonic do a Super Glide and kill all enemies on screen.  See notes.
+RENT-C6T8
+AANT-CA3A
+
+// Can become Hyper Sonic at any time by doing a double jump.  See notes.
+C2NT-CA82
+REPA-C6WC
+
+// Pause the game to enable debugger (alternate version).  See notes.
+BALA-B72N
+
+// Can Become Super Tails At Any Time By Doing a Double Jump. See notes.
+CBJT-CA36
+
+// Red Spheres Have No Effect
+A4MT-AA5J

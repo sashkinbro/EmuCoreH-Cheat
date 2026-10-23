@@ -1,0 +1,94 @@
+// Invulnerability
+00CC-744E
+
+// Invulnerability
+B6D-FAD-7F4
+
+// Start on level 3: Streets of Detroit
+039-09D-E6E
+
+// Start on level 5: Delta City under construction
+059-09D-E6E
+
+// Start on a secret level
+079-09D-E6E
+
+// Start with very little energy
+014-2FA-6EA
+
+// Infinite energy
+00C-61B-A29
+
+// Don't flash after getting hit
+01C-56B-E62
+
+// Flash longer after getting hit
+59C-56B-E62
+
+// Invincible after getting hit once
+C9D-FAD-3BF
+
+// Full energy pots restore a small amount of energy
+01A-5F8-912
+
+// Full energy pots restore all your energy
+19A-5F8-912
+
+// Mega-Lives
+019-12D-F76
+009-10D-F77
+
+// Start With 7 Lives
+099-12D-F76
+009-10D-F77
+
+// Infinite Lives
+00D0-5B09
+
+// Infinite Health
+00D0-6920
+
+// Invulnerability
+C9C-54B-E69
+
+// Infinite Lives
+3AD-1AB-2A2
+
+// Change Guns
+02C-03D-A2A
+
+// 9 Lives Cheat
+02C-75D-A2A
+
+// Stage Skip
+02C-E4D-A2A
+
+// Invincibility
+02D-40D-A2A
+
+// Have Weapon
+00D0-6101
+
+// Pause the game, hold Up and press 2 to enable Infinite Health cheat
+00D-42D-B3A
+
+// Pause the game, hold Up and press 1 to enable 9 Lives cheat
+00C-77D-7FE
+
+// Pause the game, hold Up and press 1 to enable Change Weapons cheat
+00C-05D-4CA
+
+// Pause the game, hold Down and press 2 to enable Level Skip cheat
+00C-E6D-A22
+
+// Pause the game and press Down to enable Infinite Health cheat
+00D0-4C0F
+
+// Pause the game and press Up to enable 9 Lives cheat
+00D0-4A0F
+
+// Pause the game and press Down to enable Change Weapons cheat
+00D0-490F
+
+// Pause the game and press Up to enable Level Skip cheat
+00D0-4B0F

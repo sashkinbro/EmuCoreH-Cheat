@@ -1,0 +1,26 @@
+// Infinite Timer
+00C-12F-3BE
+
+// Start With 2 Lives
+029-72F-E66
+
+// Start With 5 Lives
+059-72F-E66
+
+// Start With 8 Lives
+089-72F-E66
+
+// Infinite Lives
+000-6AC-E65
+
+// Start With 1 Continue
+029-77F-F72
+
+// Start With 3 Continues
+049-77F-F72
+
+// Start With 8 Continues
+099-77F-F72
+
+// Infinite Continues
+006-C1F-E65

@@ -1,0 +1,45 @@
+// Invulnerability
+00C7-1102
+
+// Invulnerability
+B6B-37D-3B4
+
+// Level Modifier
+00C0-9700
+
+// Zone Modifier
+00C0-9800
+
+// Infinite Lives
+00C0-A109
+00C3-9409
+
+// Infinite Life
+00C3-9504
+
+// Infinite Lives
+3CE-B6C-19E
+
+// Enable Cheat Mode
+00C0-8911
+
+// Invincibility (after being hit)
+3AB-3CD-2A2
+
+// Infinite Health
+3AE-BEC-2A2
+
+// Infinite Time
+3AE-83F-2A2
+
+// Level Select Cheat Enabled
+CD0-8F9-F79
+
+// Invulnerable To Enemies
+C90-EE7-E69
+
+// Invulnerable To Fire
+C9E-31C-E69
+
+// Infinite Special Power Bar
+00E-ACF-E6E

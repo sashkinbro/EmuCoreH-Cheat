@@ -1,0 +1,5 @@
+// CPU Never Scores (Football)
+00D0-DD09
+
+// CPU Never Scores (Baseball)
+00D5-4300

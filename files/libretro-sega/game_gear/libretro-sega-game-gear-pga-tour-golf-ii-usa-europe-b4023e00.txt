@@ -1,0 +1,35 @@
+// Always On First Stroke
+00CB-6400
+
+// FAKE Stroke Modifier
+00CE-070E
+
+// Always on Same Stroke
+3A0-61D-2A2
+
+// Wind Speed Modifier
+00DC-2D00
+
+// Golf bag holds 16 clubs plus putter, instead of 13 clubs
+00DC-910A
+
+// Almost No Wind
+3E5-6FB-191
+005-70B-195
+185-71B-6EA
+
+// Strong Wind
+3E5-6FB-191
+0F5-70B-195
+185-71B-6EA
+
+// Massive Wind
+3E5-6FB-191
+1F5-70B-195
+185-71B-6EA
+
+// Golf bag holds 16 clubs plus putter, instead of 13 clubs
+0AC-CCD-D5E
+
+// No penalty stroke for hitting ball in water hazard or out of bounds
+3AA-E5E-2A2

@@ -1,0 +1,18 @@
+// Infinite Lives
+0081E8:197C
+0081EA:00FF
+
+// Defeat Goblins In Combat
+0113F4:6006
+
+// Beat Floor Traps, Worms, Arrows, Etc.
+009930:4E75
+
+// Unlimited Continues On Most Levels
+FF109A:0002
+
+// Unlimited Fireballs When Selected
+FF0B72:0003
+
+// No Energy Loss During Fights
+FF10A8:000C

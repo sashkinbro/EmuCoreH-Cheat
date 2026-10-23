@@ -1,0 +1,93 @@
+// Infinite Energy
+D7HA-AAEC
+
+// Infinite Ammo Weapon 2
+D7AT-AAG6
+
+// Infinite Ammo Weapon 3
+D7BA-AAET
+
+// Infinite Ammo Weapon 5
+D7CT-AACJ
+
+// Infinite Energy
+FF5572:00C8
+
+// Infinite Ammo Wp2
+FF5566:0063
+
+// Infinite Ammo Wp3
+FF5568:0063
+
+// Infinite Ammo Wp4
+FF556A:0063
+
+// Infinite Ammo Wp5
+FF556C:0063
+
+// Infinite Ammo Wp6
+FF556E:0063
+
+// Infinite Ammo Wp7
+FF5570:0063
+
+// Protection From All Enemy Attacks
+AVHA-AA6A
+
+// Large Medkits Restore 100 Health Points (Instead of 30)
+NT2T-AAGY
+
+// Infinite Shotgun Ammo
+AVBA-AA6R
+
+// Infinite Chaingun Ammo
+AVCA-AA76
+
+// Infinite RPG Ammo
+AVCT-AA4G
+
+// Infinite Devastator Ammo
+AVDA-AA5L
+AVDA-AA76
+
+// Start A New Game With 200 Pistol Ammo (Instead of 48)
+3A1A-AAHG
+
+// Start A New Game With 48 Shotgun Shells (Instead of 48 Bullets)
+PA1A-BL1L
+
+// Start A New Game With 48 Chaingun Ammo (Instead of 48 Bullets)
+PJ1A-BL1L
+
+// Start A New Game With 48 RPG Ammo (Instead of Bullets)
+PT1A-BL1L
+
+// Start A New Game With 48 Devastator Ammo (Instead of Bullets)
+RA1A-BL1L
+
+// Infinite Health
+FF5572:0064
+
+// Run Mode Toggle (0-1)
+FF5540:0000
+
+// Weapon Effect Modifier
+FF5596:0000
+
+// Infinite Ammo: Pistol
+FF5566:0064
+
+// Infinite Ammo: Shotgun
+FF5568:0064
+
+// Infinite Ammo: Triple Shotgun
+FF556A:0064
+
+// Infinite Ammo: Rocket Launcher
+FF556C:0064
+
+// Infinite Ammo: Pipe Bombs
+FF556E:0064
+
+// Infinite Ammo: Rocket Launcher 2x?
+FF5570:0064

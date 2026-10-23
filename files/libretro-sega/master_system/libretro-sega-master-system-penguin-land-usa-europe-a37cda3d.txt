@@ -1,0 +1,23 @@
+// No Penguin
+00C4-0105
+
+// Infinite Polar Bears [In Map Design]
+00C1-A205
+
+// Start With ?? Eggs
+00B-05F-E66
+
+// Infinite Eggs
+B7D-ADE-3BE
+
+// Infinite Time
+2AB-AFD-6E2
+
+// Infinite Time
+00B-ABD-A2E
+
+// Infinite Time
+00C1-1D63
+
+// Infinite Eggs (Lives)
+00C1-1909

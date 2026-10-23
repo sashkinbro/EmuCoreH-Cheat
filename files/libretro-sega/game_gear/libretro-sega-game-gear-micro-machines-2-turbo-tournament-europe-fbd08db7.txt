@@ -1,0 +1,45 @@
+// P1 Always on Last Lap
+00C2-AC11
+
+// P1 Always on 1st Lap
+00C2-AC13
+
+// P2 Always on 1st Lap
+00C3-5A13
+
+// P3 Always on 1st Lap
+00C4-0813
+
+// P4 Always on 1st Lap
+00C4-B613
+
+// Infinite Lives
+00DE-2009
+
+// Infinite Time - Extra Life Game!
+00C0-D435
+00C0-D500
+
+// Collect just 1 Car to win Extra Life Game!
+00C0-DB1D
+
+// Infinite Points - Super League
+00DD-CF0F
+
+// Infinite Lives
+3A5-4F8-2A2
+
+// Infinite Time - Extra Life Game!
+3A7-884-2A2
+
+// Start with ?? Lives, instead of 3
+04F-4A9-E66
+
+// Race Modifier - Challenge and Head-to-Head Race
+00DE-0F00
+
+// Always Qualify for the Next Race - Challenge Race
+18C-2A6-4CA
+
+// Collect just ?? Cars to win Extra Life Game!, instead of 30
+19E-875-912

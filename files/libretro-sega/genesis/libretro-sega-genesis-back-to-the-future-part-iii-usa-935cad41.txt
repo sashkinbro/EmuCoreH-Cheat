@@ -1,0 +1,97 @@
+// Infinite Trys (Level 1)
+FF00FC:0004
+
+// Infinite lives in buckboard chase
+BDCT-AA8N
+BDDT-AA5W
+
+// 2 lives in buckboard chase
+AGJA-AADN
+
+// 6 lives in buckboard chase
+A0JA-AADN
+
+// 10 lives in buckboard chase
+BGJA-AADN
+
+// 20 lives in buckboard chase
+CRJA-AADN
+
+// Shooting gallery timer runs at 4x normal speed
+A85T-EAGY
+
+// Shooting gallery timer runs at 3x normal speed
+BL5T-EAGY
+
+// Shooting gallery timer runs at 2x normal speed
+B85T-EAGY
+
+// Shooting gallery timer runs at 1/2x normal speed
+HW5T-EAGY
+
+// Shooting gallery timer runs at 1/3x normal speed
+ML5T-EAGY
+
+// Shooting gallery timer runs at 1/4x normal speed
+SC5T-EAGY
+
+// Shooting gallery timer runs at 1/10x normal speed
+FW5T-ECGY
+
+// Small ducks worth 1,550 in gallery
+C1AT-EAAY
+
+// Small ducks worth 15,550 in shooting gallery
+L1AT-ECAY
+
+// Small ducks worth 155,550 in shooting gallery
+L1AT-FLAY
+
+// Flying ducks worth 12,200 in shooting gallery
+EMBA-ECF6
+
+// Flying ducks worth 122,200 in shooting gallery
+EMBA-FEF6
+
+// 4 hits allowed in pie-throwing level
+A95A-GAF0
+
+// 6 hits allowed in pie-throwing level
+A15A-GAF0
+
+// 8 hits allowed in pie-throwing level
+AS5A-GAF0
+
+// Infinite hits allowed in pie-throwing level
+ATGA-JA4A
+
+// Infinite Time (Level 2)
+FF021E:0005
+
+// Infinite Plates (Level 3)
+FF0246:000A
+
+// Infinite Health (Level 3)
+FF0128:0000
+
+// Activate Last Boss (Level 3)
+FF0174:0000
+
+// Infinite Time (Level 4)
+FF0144:0099
+
+// Cannot Be Touched (Level 4)
+FF058C:0001
+
+// Invincibility In Pursuit Of The Wagon Clara Clayton
+R05T-A6TJ
+R1HT-A6TR
+
+// Invincibility In Level Throwing Plates
+RYGA-J604
+
+// Invincibility Last Level
+RY9T-L6XY
+RZRT-L6Z2
+RZYA-L6T2
+RZVT-L61Y

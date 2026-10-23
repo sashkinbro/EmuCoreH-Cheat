@@ -1,0 +1,79 @@
+// Infinite lives
+ABMB-RAGJ
+
+// Infinite Arthurs
+ADRB-RAGW
+ABZV-RAEL
+
+// Start with 1 life
+ABNV-YAB6
+
+// Start with 9 lives
+BBNV-YAB6
+
+// Start with 1/2 energy first life
+D7JV-RAD4
+
+// Start with 3/4 energy first life
+F7JV-RAD4
+
+// Start with mega energy first life
+97JV-RAD4
+
+// Start with 1/2 energy after first life
+D7MV-RABL
+
+// Start with 3/4 energy after first life
+F7MV-RABL
+
+// Start with mega energy after first life
+97MV-RABL
+
+// Infinite continues
+ADVB-RAH0
+
+// Punches are super strong
+GD8B-WAH0
+
+// Normal kicks are super strong
+GD8V-WABJ
+
+// Jump kicks are super strong
+GD8B-WAET
+
+// Red ninjas have a lot more energy
+WD2V-WAGR
+
+// Infinite Energy
+AMEV-TA72
+
+// Infinite Special
+ABZV-RAEG
+
+// Infinite Health P1
+FF42BC:003A
+
+// Infinite Lives P1
+FF0992:0009
+
+// Infinite Arthur Calls P1
+FF0998:0009
+
+// 1 Hit Kills Most Enemies
+FF3C3A:0000
+FF3E16:0000
+FF3A5E:0000
+FF3882:0000
+FF3D28:0000
+FF392E:0000
+FF36A6:0000
+FF37EA:0000
+FF376C:0000
+FF35B8:0000
+
+// Invincibility
+FF4270:0010
+
+// Enable Cheat Mode And Enable Level Select
+RE3V-R6ZG
+AMTV-NA8N

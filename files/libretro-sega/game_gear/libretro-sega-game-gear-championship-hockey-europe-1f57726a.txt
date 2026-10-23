@@ -1,0 +1,5 @@
+// Team 1 Has A High Score
+00CC-FAFF
+
+// Team 2 Never Scores
+00CD-7200

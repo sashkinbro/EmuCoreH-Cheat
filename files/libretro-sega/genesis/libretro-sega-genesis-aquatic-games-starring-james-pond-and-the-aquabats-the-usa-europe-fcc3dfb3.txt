@@ -1,0 +1,122 @@
+// 1 attempt instead of 3
+ANMA-ACBY
+ACET-AABW
+
+// 2 attempts
+ANMA-AEBY
+AGET-AABW
+
+// 4 attempts
+ANMA-AJBY
+ARET-AABW
+
+// 5 attempts
+ANMA-ALBY
+AWET-AABW
+
+// 7 attempts
+ANMA-ARBY
+A4ET-AABW
+
+// 9 attempts
+ANMA-AWBY
+BCET-AABW
+
+// Substitute juggling bonus event for kipper watching
+AEMT-AAFY
+
+// Substitute long jump bonus Event for kipper watching
+AYMT-AAFY
+
+// Bonus multiplier always 2
+AJRA-BA2T
+
+// Bonus multiplier always 4
+ATRA-BA2T
+
+// Bonus multiplier always 6
+A2RA-BA2T
+
+// Bonus multiplier always 8
+BARA-BA2T
+
+// Clock runs slower
+1B2T-BEY0
+
+// Clock runs faster
+1B2T-BNY0
+
+// Clock runs slower
+1B7T-BETA
+
+// Clock runs faster
+1B7T-BNTA
+
+// Clock runs slower
+1B9A-BEV8
+
+// Clock runs faster
+1B9A-BNV8
+
+// Clock runs slower
+1CBA-BEZG
+
+// Clock runs faster
+1CBA-BTZG
+
+// Never miss qualification
+BLBA-AA90
+
+// Feed bag never gets empty once filled
+ALBT-AA3N
+
+// Feed bag fills faster
+SCDA-BJZA
+
+// Feed bag can be filled only half way
+BCDA-AAFG
+BCDA-AAFR
+
+// Clock runs slower
+1CHT-BEVR
+
+// Clock runs faster
+1CHT-BNVR
+
+// Clock runs slower
+1CST-BEYJ
+
+// Clock runs faster
+1CST-BNYJ
+
+// Style points worth double
+GCVT-BJX0
+
+// Style points worth triple
+GCVT-BNX0
+
+// Style points worth 6 times
+GCVT-B2X0
+
+// Clock runs slower
+1CXT-BEYR
+
+// Clock runs faster
+1CXT-BTYR
+
+// Never miss qualification
+ALXT-AA9G
+ALXT-AA9Y
+
+// Low Time (Seconds)
+FFB4D2:0000
+
+// Have Great Acceleration P1
+FFB4BA:00FF
+
+// Always On 1st Attempt
+FFB666:0000
+
+// Infinite Feeding Bar
+FFB56A:0016
+FFB56C:0016

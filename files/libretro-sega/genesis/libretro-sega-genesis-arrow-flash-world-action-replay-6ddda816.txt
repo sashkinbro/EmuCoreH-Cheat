@@ -1,0 +1,8 @@
+// Ten Special Weapons Per Life
+00A5CE:000A
+
+// Unlimited Special Weapons
+00BA30:6004
+
+// Unlimited Lives
+005544:6004

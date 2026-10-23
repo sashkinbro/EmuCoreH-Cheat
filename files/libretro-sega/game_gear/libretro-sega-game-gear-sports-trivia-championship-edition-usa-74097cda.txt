@@ -1,0 +1,5 @@
+// CPU Never Scores
+00D7-1F00
+
+// CPU Never Scores
+00D4-1F00

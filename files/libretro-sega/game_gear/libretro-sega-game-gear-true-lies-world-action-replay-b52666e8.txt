@@ -1,0 +1,8 @@
+// Infinite Health
+00CC-3F15
+
+// Infinite Bullets
+00D3-C363
+
+// Infinite Lives
+00D3-C209

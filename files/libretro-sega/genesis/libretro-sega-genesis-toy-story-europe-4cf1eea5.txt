@@ -1,0 +1,36 @@
+// Options screen music / sound effects / DAC/PCM samples modifier
+AHRA-DA96
+
+// Play unused song at options screen
+BXRA-DA96
+
+// Hit enemies from anywhere
+F2ZA-AA8E
+
+// Jump higher (moon jump)
+AART-AAN8
+
+// Jump much higher (moon jump)
+AART-BAE8
+
+// Invincibility
+AAYA-AA8Y
+
+// Once you hit an enemy/object with your whip, it will stay that way for the rest of the level
+AJXA-AA9T
+
+// Enables level skip
+E4TA-CA9T
+
+// Infinite battery charge in the Buzz Clip driving level
+ALCA-CA70
+
+// Infinite battery charge in the Day-toy-na driving level
+AXPT-RA2R
+
+// Infinite battery charge in the Light My Fire driving level
+AKJT-CA38
+
+// Take hats and stars that add life anywhere
+REZT-A6W8
+BJZT-AA5W

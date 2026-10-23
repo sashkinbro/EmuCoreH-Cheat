@@ -1,0 +1,40 @@
+// Life On Status Screen
+00C1-5399
+
+// Infinite ID Cards
+00C1-2905
+
+// Red ID Card
+00C1-2A01
+
+// Floppy Disks
+00C1-2B05
+
+// Zillion Power At Maximum
+00C1-4602
+
+// Player Level Modifier
+00C1-4500
+
+// Jumping Ability Modifier
+00C1-4700
+
+// Scope
+00C1-4801
+
+// Infinite Energy
+1A0-3AC-A22
+1A0-6BC-A22
+1AF-FCD-A22
+
+// Infinite Time at the End
+00C6-7756
+
+// Infinite Health
+00C1-4399
+
+// Infinite Continues
+00C1-1204
+
+// Infinite Continues
+B64-DAD-3BE

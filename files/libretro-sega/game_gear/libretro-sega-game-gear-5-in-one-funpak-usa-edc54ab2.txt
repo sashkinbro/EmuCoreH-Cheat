@@ -1,0 +1,11 @@
+// Black/White # of Move Modifiers (Chess)
+00C4-2200
+
+// Move Pieces Anywhere
+187-456-4CA
+188-6F6-6EA
+188-5E6-4CA
+
+// Move Pieces Anywhere
+775-FB5-190
+3A6-C46-C41

@@ -1,0 +1,5 @@
+// Infinite Health P1
+FFA000:0063
+
+// No Health P2
+FFA100:0000

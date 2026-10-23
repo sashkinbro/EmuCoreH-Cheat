@@ -1,0 +1,33 @@
+// Invulnerability
+007-17E-916
+
+// Invulnerability
+00C2-1EFF
+
+// Infinite Hearts (Hits)
+00C2-3203
+
+// Infinite Lives
+00C2-0009
+
+// Detach Some of Sailor Moon's Leg
+00DC-5445
+
+// Invicibility
+00C2-32FF
+
+// Max Life
+00C2-000A
+
+// Infinite Health
+00E-0AE-19E
+
+// Infinite Lives
+00F-0AA-19E
+
+// Hit Anywhere
+003-2EE-C49
+003-42E-C49
+
+// One Hit Kills
+188-8BD-4CA

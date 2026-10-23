@@ -1,0 +1,12 @@
+// Walk Thru Walls
+AEPT-AACG
+
+// Enable Stage Select during gameplay (Enable before start of game)
+AA0T-BTYJ
+
+// Enable Stage Select during gameplay (Enable before start of game)
+FFF72E:0003
+
+// Have 0 Steps Taken
+HTST-BAM6
+AAST-AAD8

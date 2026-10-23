@@ -1,0 +1,25 @@
+// Quick Level Gain
+8C6-A7B-E60
+
+// Infinite Hp All Characters
+CD9-D4B-5DD
+D09-D5B-E63
+009-D6B-4C5
+7A0-D0F-E6A
+FE0-D1F-E6A
+800-D2F-E6A
+280-D3F-E6A
+020-D4F-E6A
+ED0-D5F-E6A
+420-D6F-E6A
+EB0-D7F-E6A
+C90-D8F-E6A
+
+// FAKE All Characters (Even Enemies) Do 153 Points of Damage
+00CC-1899
+
+// Move Anywhere
+B77-19E-3B6
+
+// Enable Debug Mode
+009-FB9-E69

@@ -1,0 +1,32 @@
+// Untouchable
+CD9T-AA5W
+
+// Infinite Lives
+AC5T-AAA0
+
+// Invincibility
+B45A-AN9W
+
+// Infinite Lives
+FF070E:0005
+
+// Infinite Energy
+FF070C:0040
+
+// Infinite Energy
+WAZA-BRHL
+
+// Invincibility
+R04T-A6YT
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Enable Level Select
+FF001A:0001
+
+// Enable Level Select
+RFET-A610

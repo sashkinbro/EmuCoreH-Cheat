@@ -1,0 +1,8 @@
+// Fake Infinite Time (Seconds)
+FF1B80:0046
+
+// Team 1 Score Modifier (P1)
+FF10EA:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FF10EC:0000

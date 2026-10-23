@@ -1,0 +1,31 @@
+// Infinite Energy
+9VMT-BCAE
+NPMT-AAAG
+XFMT-BBAJ
+
+// Start With 255 Lives
+96RT-AABT
+
+// Infinite Lives
+ALCA-CA9E
+
+// Start With 3X As Much Energy
+WBYT-CAA2
+
+// Infinite Health
+FF9098:0063
+
+// Infinite Lives
+FF9114:0009
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// 1 Hit Invincibility
+FF9052:0010
+
+// Pause the game and press A for Debug menu
+BJTA-AA3R

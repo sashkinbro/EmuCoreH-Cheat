@@ -1,0 +1,14 @@
+// Infinite Health
+00CF-52FF
+
+// Infinite Blue Potions
+00CF-4A09
+
+// Silent Fireballs
+00C1-1799
+
+// Missing SFX
+00C1-5799
+
+// BGM Remix
+00C1-7FFF

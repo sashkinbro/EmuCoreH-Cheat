@@ -1,0 +1,16 @@
+// Infinite Fuel Main
+ADGA-AAC6
+
+// Invincibility
+RFYA-A61W
+BC4A-AA5Y
+C44A-AA94
+
+// Infinite Special Weapons
+AC6A-AADA
+AC6T-AAF8
+AC7A-AAAE
+AC7A-AAF2
+
+// Infinite Lives
+D9GA-AAE0

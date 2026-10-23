@@ -1,0 +1,212 @@
+// Gain 255~511+ Experience Points (In Battle)
+00DC-80FF
+
+// Gain 511+ Dinars (In Battle)
+00DC-82FF
+
+// Infinite Dinar (Money)
+00DB-79FF
+
+// Infinite Energy (Prince)
+00DC-01FF
+
+// Infinite Energy (Genie)
+00DC-11FF
+
+// Infinite Energy (Salem)
+00DC-21FF
+
+// Infinite Energy (Agmar)
+00DC-31FF
+
+// Infinite Items Slot 01
+00DB-7F09
+
+// Infinite Items Slot 02
+00DB-8109
+
+// Infinite Items Slot 03
+00DB-8309
+
+// Infinite Items Slot 04
+00DB-8509
+
+// Infinite Items Slot 05
+00DB-8709
+
+// Infinite Items Slot 06
+00DB-8909
+
+// Infinite Items Slot 07
+00DB-8B09
+
+// Infinite Items Slot 08
+00DB-8D09
+
+// Infinite Items Slot 09
+00DB-8F09
+
+// Infinite Items Slot 10
+00DB-9109
+
+// Infinite Items Slot 11
+00DB-9309
+
+// Infinite Items Slot 12
+00DB-9509
+
+// Infinite Items Slot 13
+00DB-9709
+
+// Infinite Items Slot 14
+00DB-9909
+
+// Infinite Items Slot 15
+00DB-9B09
+
+// Infinite Items Slot 16
+00DB-9D09
+
+// Infinite Items Slot 17
+00DB-9F09
+
+// Infinite Items Slot 18
+00DB-A109
+
+// Infinite Items Slot 19
+00DB-A309
+
+// Infinite Items Slot 20
+00DB-A509
+
+// Infinite Items Slot 21
+00DB-A709
+
+// Infinite Items Slot 22
+00DB-A909
+
+// Infinite Items Slot 23
+00DB-AB09
+
+// Infinite Items Slot 24
+00DB-AD09
+
+// Infinite Items Slot 25
+00DB-AF09
+
+// Infinite Items Slot 26
+00DB-B109
+
+// Infinite Items Slot 27
+00DB-B309
+
+// Infinite Items Slot 28
+00DB-B509
+
+// Infinite Items Slot 29
+00DB-B709
+
+// Infinite Items Slot 30
+00DB-B909
+
+// Infinite Items Slot 31
+00DB-BB09
+
+// Infinite Items Slot 32
+00DB-BD09
+
+// Infinite Items Slot 33
+00DB-BF09
+
+// Infinite Items Slot 34
+00DB-C109
+
+// Infinite Items Slot 35
+00DB-C309
+
+// Infinite Items Slot 36
+00DB-C509
+
+// Infinite Items Slot 37
+00DB-C709
+
+// Infinite Items Slot 38
+00DB-C909
+
+// Infinite Items Slot 39
+00DB-CB09
+
+// Infinite Items Slot 40
+00DB-CD09
+
+// Infinite Items Slot 41
+00DB-CF09
+
+// Infinite Items Slot 42
+00DB-D109
+
+// Infinite Items Slot 43
+00DB-D309
+
+// Infinite Items Slot 44
+00DB-D509
+
+// Infinite Items Slot 45
+00DB-D709
+
+// Infinite Items Slot 46
+00DB-D909
+
+// Infinite Items Slot 47
+00DB-DB09
+
+// Infinite Items Slot 48
+00DB-DD09
+
+// Infinite Items Slot 49
+00DB-DF09
+
+// Infinite Items Slot 50
+00DB-E109
+
+// Infinite Items Slot 51
+00DB-E309
+
+// Infinite Items Slot 52
+00DB-E509
+
+// Infinite Items Slot 53
+00DB-E709
+
+// Infinite Items Slot 54
+00DB-E909
+
+// Infinite Items Slot 55
+00DB-EB09
+
+// Infinite Items Slot 56
+00DB-ED09
+
+// Infinite Items Slot 57
+00DB-EF09
+
+// Infinite Items Slot 58
+00DB-F109
+
+// Infinite Items Slot 59
+00DB-F309
+
+// Infinite Items Slot 60
+00DB-F509
+
+// Infinite Items Slot 61
+00DB-F709
+
+// Infinite Items Slot 62
+00DB-F909
+
+// Infinite Items Slot 63
+00DB-FB09
+
+// Infinite Items Slot 64
+00DB-FD09

@@ -1,0 +1,44 @@
+// Infinite Lives
+A3PW-2A8G
+
+// Infinite Energy
+CBNW-2R9E
+
+// Invincibility
+D41W-2N3L
+
+// Almost Invincible
+RZNW-26Z6
+
+// Infinite Lives
+FFE2F0:0053
+
+// Infinite Energy
+FFE30A:00FF
+
+// Full Cool Points
+FFF7E8:0064
+
+// Untouchable
+RZNW-261E
+
+// Play In LSD Mode
+E5MW-0N6E
+
+// Jump On Any Height
+AKNC-2A2R
+
+// Infinite  Aqualung Oxygen
+AMKW-0A2T
+
+// Infinite Aqualung Energy
+AKNW-2A9G
+
+// 1 Shot Kill Enemies
+ALEW-2A46
+
+// High Jump
+ABMW-2ACR
+
+// 1 Shot Kill Bosses
+BCEC-2A9J

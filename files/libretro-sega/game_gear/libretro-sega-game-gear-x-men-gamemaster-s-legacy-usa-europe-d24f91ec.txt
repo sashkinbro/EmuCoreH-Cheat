@@ -1,0 +1,63 @@
+// Mutant Power Always On
+00DF-8A09
+
+// Invulnerability
+00C3-0002
+
+// Infinite Health
+00DF-8BFF
+
+// Infinite Mutant Power
+00DF-8CFF
+
+// Invulnerability
+18A-837-6EA
+
+// Start with no mutant power
+002-644-195
+
+// Start with 1/2 mutant power
+772-644-195
+
+// Infinite mutant power
+3AA-2A7-2A2
+
+// Mutant power is used quicker
+14A-267-C42
+
+// Infinite energy
+3AA-BD7-2A2
+
+// One hit is fatal,most of the time
+AFA-BA7-2AA
+00A-BB7-E6E
+
+// Start with very little energy
+012-634-195
+
+// Start with 1/2 energy
+772-634-195
+
+// Flash a lot longer after getting hit
+FFA-A97-2A2
+
+// 1 hit and you're invisible
+000-2F7-19E
+
+// Almost invincible
+000-2B7-806
+
+// FAKE Mutant Power Bar (Blue Bar) Modifier
+00C3-2123
+
+// Infinite Mutant Power (Blue Bar)
+00DF-8C4B
+
+// Infinite Health
+00DF-8B79
+
+// Infinite Mutant Power
+00A-267-C42
+
+// Infinite Health
+00A-B97-A28

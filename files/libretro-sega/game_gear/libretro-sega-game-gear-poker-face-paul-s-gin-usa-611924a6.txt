@@ -1,0 +1,14 @@
+// XX Number of Cards Left
+00CF-2D00
+
+// Game Configuration - Boxes To Win Modifier (0 - 9)
+00CF-4800
+
+// Game Configuration - Gin Bonus Modifier
+00CF-4900
+
+// Game Configuration - Underknock Modifier
+00CF-4A00
+
+// Game Configuration - Knock Limit
+00CF-4B00

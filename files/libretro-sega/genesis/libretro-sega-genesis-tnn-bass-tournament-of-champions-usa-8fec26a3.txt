@@ -1,0 +1,11 @@
+// Fake Infinite Money (Hundreds and Tens Thousands Digits)
+FF180C:0099
+
+// Fake Infinite Money (Thousands Digits)
+FF180C:0099
+
+// Fake Infinite Money (Hundreds and Tens Digits)
+FF180E:0099
+
+// Fake Infinite Money (Cents Digits)
+FF180E:0099

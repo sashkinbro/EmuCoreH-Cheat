@@ -1,0 +1,23 @@
+// Infinite Points
+FFBE60:0063
+
+// Max Speed
+FFBE66:0063
+
+// Max Scrambling
+FFBE64:0063
+
+// Max Pass Accuracy
+FFBE68:0063
+
+// Max Pass Range
+FFBE6A:0063
+
+// Max Break Tackles
+FFBE6C:0063
+
+// Cannot Be Tackled
+HD0T-GTA0
+A10T-GVA2
+GD0T-HST4
+AM0T-GA26

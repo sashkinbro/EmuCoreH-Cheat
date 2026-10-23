@@ -1,0 +1,34 @@
+// Infinite Lives
+FFFD16:0063
+
+// Infinite Health
+FFFD18:0063
+
+// Invincibility/Untouchable
+RZKA-E6T0
+RY4T-C6VN
+RY5A-C6X8
+RYFA-C6Y4
+R1FT-A6WA
+
+// Infinite Lives
+AMJA-AA40
+
+// 1 Hit Kill Bosses
+A34T-EA9R
+A39A-EA56
+A4CA-EA6W
+A4GA-EA5R
+A4KT-EA5J
+A4TA-EA86
+A4VT-EA8T
+A4YT-EA38
+
+// 1 Hit Kill Some Enemies
+A2JA-EA8N
+
+// Jump On Any Height
+AC9A-AAF2
+
+// Press Start on Title Screen for Level Select
+RE9A-A602

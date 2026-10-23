@@ -1,0 +1,193 @@
+// Invincibility
+GJAA-C33C
+
+// Both webs and bombs are infinite
+AAXT-RAHR
+
+// Start with no blue web
+AA6T-RAD2
+
+// Start with more blue web
+NA6T-RAD2
+
+// Start with no red web
+AA6T-RAD6
+
+// Start with more red web
+NA6T-RAD6
+
+// Start with no red grenades
+AA6T-RAEC
+
+// Start with no blue grenades
+AA6T-RAEJ
+
+// Start with more blue grenades
+NA6T-RAEJ
+
+// Start with 1 life
+AA7A-RADA
+
+// Start with 10 lives
+BE7A-RADA
+
+// Start with Mega lives
+NA7A-RADA
+
+// Webs worth 0
+ADWT-NAAY
+
+// Webs worth 1
+AHWT-NAAY
+
+// Webs worth 15
+D9WT-NAAY
+
+// Webs worth 25
+DHWT-NAAY
+
+// Infinite Lives
+AMJA-AA5A
+
+// Infintie Energy
+AXRT-AA6C
+
+// Infinite Web
+AMLT-AA46
+
+// Infinite Health
+FFD3CA:6300
+
+// Infinite Lives
+FFD786:0300
+
+// Infinite Blue And Red Webs
+FFD77A:143C
+
+// Infinite Blue And Red Granades
+FFD77C:0202
+
+// Infinite Web - Spider-Man (USA) (Acclaim) (Beta) (Earlier)
+FFCB6E:0050
+
+// Infinite Web - Spider-Man (USA) (Acclaim) (Beta)
+FFD75E:0050
+
+// Infinite Granades Red/Blue - Spider-Man (USA) (Acclaim) (Beta)
+FFD760:0009
+
+// Infinite Web Blue - Spider-Man (USA) (Acclaim) (Beta)
+RHJA-A6YC
+RHJT-A6XW
+RHEA-A6W4
+RHHA-A61E
+RHET-A616
+RHLA-A6YC
+RHLA-A6YE
+
+// Infinite Web Red - Spider-Man (USA) (Acclaim) (Beta)
+AMJA-AA50
+RHJT-A6XW
+AMEA-AA4N
+AMET-AA9T
+AMLA-AA50
+
+// Infinite Lives - Spider-Man (USA) (Acclaim) (Beta)
+AMFT-AA8N
+
+// Infinite Granades - Spider-Man (USA) (Acclaim) (Beta)
+AMJA-AA2J
+
+// Infinite Granades Red/Blue - Spider-Man (USA) (Acclaim) (Beta) (Earlier)
+FFCB70:0009
+
+// Infinite Lives - Spider-Man (USA) (Acclaim) (Beta) (Earlier)
+AL3T-AA46
+
+// Infinite Web Blue/Red - Spider-Man (USA) (Acclaim) (Beta) (Earlier)
+RG4A-A61W
+RG4T-A60E
+RG1A-A61G
+RG2A-A6VG
+RG6A-A6W0
+RG3T-A6YC
+
+// Infinite Energy - Spider-Man (USA) (Acclaim) (Beta) (Earlier)
+AL7T-AA7E
+AJ9A-CA44
+
+// Infinite Granades - Spider-Man (USA) (Acclaim) (Beta) (Earlier)
+AL4A-AA6Y
+
+// Infinite Call Superheroes - Spider-Man (USA) (Acclaim) (Beta) (Earlier)
+AMDT-AA6A
+
+// Start Game With Infinite Superheroes - Spider-Man (USA) (Acclaim) (Beta)
+ALKT-NAFG
+ALKT-NAHW
+ALLA-NAB8
+ALLA-NAEL
+
+// Start Game With Superheroes - Spider-Man (USA) (Acclaim) (Beta) (Earlier)
+AK3A-JAEC
+AK3A-JAGJ
+AK3T-JAAR
+AK3T-JACY
+
+// Infinite Blue Web
+RHLT-A6W6
+RHMA-A6WN
+RHGA-A6YW
+RHHA-A6VY
+RHNT-A6V0
+RHKT-A6ZY
+
+// Infinite Red Web
+AMLT-AA4T
+RHMA-A6WN
+AMGA-AA6E
+AMHA-AA3J
+AMNT-AA3L
+
+// Infinite Energy
+AXRT-AA6C
+AK9A-CA80
+
+// Infinite Granades
+AMLA-AA8Y
+
+// Start Game With Infinite Call Superheroes
+ALRA-NAHW
+ALRT-NAB8
+ALRT-NAEL
+ALRT-NAG0
+
+// Start Game With Infinite Special Granades - Spider-Man (USA) (Acclaim) (Beta) (Earlier)
+AK3T-JAE4
+AK3T-JAHA
+AK4A-JABG
+AK4A-JADN
+
+// Start Game With Infinite Special Granades - Spider-Man (USA) (Acclaim) (Beta)
+ALLA-NAG0
+ALLT-NABC
+ALLT-NADR
+ALLT-NAF4
+
+// Start Game With Infinite Special Granades
+ALSA-NABC
+ALSA-NADR
+ALSA-NAF4
+ALST-NAAG
+
+// Invincibility
+R1RA-A61Y
+RZ9A-C600
+
+// Invincibility - Spider-Man (USA) (Acclaim) (Beta) (Earlier)
+R07T-A6YE
+RY9A-C6W4
+
+// Invincibility - Spider-Man (USA) (Acclaim) (Beta)
+R1NA-A6T8
+RZ4T-C6ZW

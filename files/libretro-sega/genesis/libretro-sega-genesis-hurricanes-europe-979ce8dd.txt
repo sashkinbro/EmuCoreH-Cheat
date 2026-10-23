@@ -1,0 +1,43 @@
+// Infinite Lives
+AMLT-AA3G
+
+// Infinite Energy
+AMDT-AA90
+AM1A-AA9C
+
+// Invincibility
+ELNT-AN98
+DCPA-AN2L
+
+// Infinite Lives
+FF038C:0004
+
+// Infinite Energy
+FF2C1C:003F
+
+// Invincibility
+FF2D06:0002
+
+// Level Modifier
+FF0018:0000
+
+// Complete Level
+FF0076:0003
+
+// Jump Midair
+FF2C18:002B
+
+// Character Modifier
+FF2CE0:0000
+
+// Big Balls
+FF2D4A:00FF
+
+// Ball Modifier
+FF2D9E:0051
+
+// Boss 1 Hit Kill
+FF2E14:0000
+
+// Infinite Lives
+FF038C:0099

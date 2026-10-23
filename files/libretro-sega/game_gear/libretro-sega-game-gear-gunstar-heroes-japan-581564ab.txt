@@ -1,0 +1,128 @@
+// Infinite Life
+00C4-1664
+
+// Begin With XX Life
+00C3-9300
+
+// Level (Options)
+00C3-C400
+
+// Cursor Select Modifier (Options)
+00C4-0448
+
+// Sound Modifier (Options)
+00C4-2900
+
+// S.E Modifier (Options)
+00C4-2A01
+
+// P1 X-Axis Modifier
+00C4-0500
+00C4-0600
+
+// 1st Enemy X-Axis Modifier
+00C4-3A00
+00C4-3B00
+
+// 2nd Enemy X-Axis Modifier
+00C4-6F00
+00C4-7000
+
+// 3rd Enemy X-Axis Modifier
+00C4-A400
+00C4-A500
+
+// 4th Enemy X-Axis Modifier
+00C4-D900
+00C4-DA00
+
+// 5th Enemy X-Axis Modifier
+00C5-0E00
+00C5-0F00
+
+// 1st Enemy HP Modifier
+00C4-4B00
+00C4-4C00
+
+// 2nd Enemy HP Modifier
+00C4-8000
+00C4-8100
+
+// 3rd Enemy HP Modifier
+00C4-B500
+00C4-B600
+
+// 4th Enemy HP Modifier
+00C4-EA00
+00C4-EB00
+
+// 5th Enemy HP Modifier
+00C5-1F00
+00C5-2000
+
+// P1 Character Select (Main Character Select Menu <Professor Brown & Yellow>)
+00C3-8000
+
+// P1 1st Weapon Select (Main Character Select Menu <Professor Brown & Yellow>)
+00C3-8100
+
+// P1 always has 999 HP
+00C4-16E7
+00C4-1703
+
+// Buttons Config (Options)
+00C3-A800
+
+// Stage Select Modifier (Professor Brown Menu)
+00C3-8200
+
+// P1 Active Mode
+00C4-1A00
+
+// 1st Enemy Active Mode
+00C4-4F00
+
+// 2nd Enemy Active Mode
+00C4-8400
+
+// 3rd Enemy Active Mode
+00C4-B900
+
+// 4th Enemy Active Mode
+00C4-EE00
+
+// 5th Enemy Active Mode
+00C5-2300
+
+// Infinite Health
+323-238-4CA
+
+// Invulnerability
+00C4-0B3C
+
+// Don't Blink When Hit
+00C3-F800
+
+// Don't Blink When Hit
+18D-23C-08A
+
+// Invulnerability After Taking Damage (Blinking)
+00D-1EC-3BE
+
+// Infinite Health (Alt)
+C33-0F8-C41
+
+// Start with ?? Health
+96C-595-7FB
+
+// Invincibility
+18D-03A-2AA
+CC8-02C-919
+C9B-98A-A29
+007-9F4-B3A
+
+// Default Difficulty is Normal instead of Easy
+01A-EEF-E6A
+
+// Infinite Health
+6E3-2C8-3BF

@@ -1,0 +1,170 @@
+// Level Select
+00C6-1F00
+
+// Starting Power
+00C6-2F00
+
+// World Modifier
+00C0-1A00
+
+// Infinite Food
+00C6-2030
+
+// Infinite Energy
+00C6-2199
+
+// Rapidly gain levels
+00C6-26FF
+
+// Have 90,000 gold
+00C6-2D09
+
+// PW [attack power] modifier
+00C6-1800
+
+// AC [armor class] modifier
+00C6-1A00
+
+// Have Weapon Slot 1
+00C9-0001
+
+// Have Weapon Slot 2
+00C9-0101
+
+// Have Weapon Slot 3
+00C9-0201
+
+// Have Weapon Slot 4
+00C9-0301
+
+// Have Weapon Slot 5
+00C9-0401
+
+// Have Weapon Slot 6
+00C9-0501
+
+// Have Weapon Slot 7
+00C9-0601
+
+// Have Weapon Slot 8
+00C9-0701
+
+// Have Armor Slot 1
+00C9-0810
+
+// Have Armor Slot 2
+00C9-0910
+
+// Have Armor Slot 3
+00C9-0A10
+
+// Have Armor Slot 4
+00C9-0B10
+
+// Have Armor Slot 5
+00C9-0C10
+
+// Have Armor Slot 6
+00C9-0D10
+
+// Have Armor Slot 7
+00C9-0E10
+
+// Have Armor Slot 8
+00C9-0F10
+
+// Have Scroll Slot 1
+00C9-1020
+
+// Have Scroll Slot 2
+00C9-1120
+
+// Have Scroll Slot 3
+00C9-1220
+
+// Have Scroll Slot 4
+00C9-1320
+
+// Have Scroll Slot 5
+00C9-1420
+
+// Have Scroll Slot 6
+00C9-1520
+
+// Have Scroll Slot 7
+00C9-1620
+
+// Have Scroll Slot 8
+00C9-1720
+
+// Have Rod Slot 1
+00C9-1830
+
+// Have Rod Slot 2
+00C9-1930
+
+// Have Rod Slot 3
+00C9-1A30
+
+// Have Rod Slot 4
+00C9-1B30
+
+// Have Rod Slot 5
+00C9-1C30
+
+// Have Rod Slot 6
+00C9-1D30
+
+// Have Rod Slot 7
+00C9-1E30
+
+// Have Rod Slot 8
+00C9-1F30
+
+// Have Potion Slot 1
+00C9-2040
+
+// Have Potion Slot 2
+00C9-2140
+
+// Have Potion Slot 3
+00C9-2240
+
+// Have Potion Slot 4
+00C9-2340
+
+// Have Potion Slot 5
+00C9-2440
+
+// Have Potion Slot 6
+00C9-2540
+
+// Have Potion Slot 7
+00C9-2640
+
+// Have Potion Slot 8
+00C9-2740
+
+// Have Ring Slot 1
+00C9-2850
+
+// Have Ring Slot 2
+00C9-2950
+
+// Have Ring Slot 3
+00C9-2A50
+
+// Have Ring Slot 4
+00C9-2B50
+
+// Have Ring Slot 5
+00C9-2C50
+
+// Have Ring Slot 6
+00C9-2D50
+
+// Have Ring Slot 7
+00C9-2E50
+
+// Have Ring Slot 8
+00C9-2F50

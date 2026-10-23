@@ -1,0 +1,14 @@
+// Max Score
+00C3-5A09
+00C3-5B09
+00C3-5C09
+00C3-5D09
+00C3-5E09
+00C3-5F09
+00C3-6009
+
+// Infinite Rests
+009-60E-3BE
+
+// Infinite Rests
+00C3-6E09

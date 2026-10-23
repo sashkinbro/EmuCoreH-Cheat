@@ -1,0 +1,11 @@
+// Infinite Energy
+001B64:4A78
+
+// Infinite Lives
+000678:4A78
+
+// Infinite Weapons
+001710:4A70
+
+// Always Keep Weapons
+000606:600E

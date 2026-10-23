@@ -1,0 +1,15 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Enable Debug Mode Second Controller Enabled
+AJKA-AA2T
+AL4T-JA9W
+
+// Allows free movement anywhere on the screen/map using controller 1
+AJKA-AA2T
+AL4T-JA9T
+1YKA-ARB0
+2NJT-ARE8

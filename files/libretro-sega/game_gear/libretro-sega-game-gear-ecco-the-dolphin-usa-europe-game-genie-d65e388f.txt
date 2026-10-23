@@ -1,0 +1,27 @@
+// Air Decreases Slower
+003-4B8-C46
+
+// Less Air When You Jump Out Of The Water
+050-AC8-6E6
+
+// Shells Replenish Less Energy & Less Air
+053-E4A-6E6
+
+// Take Less Damage
+053-EAA-6E6
+05C-D29-199
+
+// No Extra Air When Jumping Out Of The Water
+217-AD8-6E2
+
+// Infinite Energy
+21C-D49-6E2
+
+// Infinite Air
+3E3-4B8-C46
+
+// Air Can't Be Replenished By Shells
+C93-E2A-6EE
+
+// Protection
+FFC-D29-199

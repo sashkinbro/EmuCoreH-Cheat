@@ -1,0 +1,73 @@
+// Infinite lives
+AJSA-AA3Y
+
+// Infinite Lives
+FF8B94:0003
+
+// Infinite Energy
+FF8B34:00AA
+
+// Level Highlighter
+FF8D94:0000
+
+// Infinite Bomb Time
+FF892A:0080
+
+// No Rats Remaining In Museum &amp; No Cars In Ma Tow Truck Stage
+FF898A:0000
+
+// Infinite Pink Balls
+FF8736:0063
+
+// Infinite Oil Spills
+FF8732:0063
+
+// Boot Into Region Info Screen
+AJBT-AA3J
+
+// Enable Level Select And Sound Test
+RERT-A6YJ
+
+// Find a clue to complete the level, Mr. Big
+XWDA-C1B4
+
+// Timer bonus levels stopped
+RH6T-E61L
+
+// Descend slowly after a jump in the bonus levels
+ACMT-DAEY
+
+// Moonjump
+ADFT-CATG
+ADFA-CA0T
+
+// Hit an enemy to complete the level, Harry the handbag
+REYA-E6YJ
+
+// Repellent effect, The Rat
+EDSA-EACE
+R0CA-C61R
+
+// Put a brick to complete the level, The Rat
+RHVA-E6X4
+
+// Bomb timer stopped
+RFZT-E60T
+
+// Invulnerable, Harry the handbag, The Rat, Mr. big
+RHWA-C6Z2
+
+// Hit the boss once to complete the level, Ma Tow Truck
+AGGT-CAAL
+
+// Fight with the boss when the level starts, Ma Tow Truck
+AJ3T-GA2Y
+
+// Infinite pink balls, Ma Tow Truck
+RGVT-C6VE
+
+// Infinite oil spills, Ma Tow Truck
+RGVA-C6V8
+
+// Invulnerable, Ma Tow Truck
+REDA-G6VL

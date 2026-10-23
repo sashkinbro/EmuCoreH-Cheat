@@ -1,0 +1,20 @@
+// Invincibility
+00D5-0340
+
+// Stage Select [Replace ? With 0-4]
+00D2-9800
+
+// Batarang Power
+00D2-A500
+
+// Invulnerability
+00D3-8373
+
+// Invulnerability
+003-FBC-E64
+
+// Infinite Lives
+00D2-9B99
+
+// Infinite Lives
+466-90F-2AB

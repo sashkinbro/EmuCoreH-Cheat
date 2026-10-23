@@ -1,0 +1,21 @@
+// Infinite Health P1
+FF806C:0031
+
+// Have 9999 Kills P1
+FF8072:0099
+FF8072:0099
+
+// Weapon Modifier P1
+FF807A:0000
+
+// Infinite Lives P1
+FF8076:0009
+
+// Infinite Time To Respawn After Dying
+FF8048:0009
+
+// Infinite Health
+EBKV-2R3R
+
+// Infinite Health (Alt)
+AKKV-2A38

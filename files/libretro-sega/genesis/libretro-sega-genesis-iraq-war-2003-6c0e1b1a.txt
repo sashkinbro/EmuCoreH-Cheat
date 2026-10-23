@@ -1,0 +1,15 @@
+// Infinite Ammo
+FF017A:00C8
+
+// Infinite Rockets
+FF0186:0006
+
+// Infinite Ammo
+A20T-AA40
+
+// Infinite Rockets
+AJ5T-AA2G
+
+// Infinite Shield
+AVEA-AA8A
+AVKA-AA2J

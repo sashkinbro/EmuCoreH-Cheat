@@ -1,0 +1,17 @@
+// Infinite Time (Minutes)
+FFC4CA:0009
+
+// Infinite Time (Seconds)
+FFC4CA:0019
+
+// Team 1's # of Shots Taken
+FFCAD0:0000
+
+// Team 2's # of Shots Taken
+FFC732:0000
+
+// Team 1 Score Modifier
+FFCADC:0000
+
+// Team 2 Score Modifier
+FFC73E:0000

@@ -1,0 +1,132 @@
+// 5 points needed to attack opponent
+A1ZA-AAA0
+A1ZA-AABA
+A1ZA-AABN
+
+// 6 points needed to attack opponent
+A5ZA-AAA0
+A5ZA-AABA
+A5ZA-AABN
+
+// 7 points needed to attack opponent
+A9ZA-AAA0
+A9ZA-AABA
+A9ZA-AABN
+
+// 8 points needed to attack opponent
+BDZA-AAA0
+BDZA-AABA
+BDZA-AABN
+
+// 9 points needed to attack opponent
+BHZA-AAA0
+BHZA-AABA
+BHZA-AABN
+
+// 15 points needed to attack opponent
+B9ZA-AAA0
+B9ZA-AABA
+B9ZA-AABN
+
+// 20 points needed to attack opponent
+CXZA-AAA0
+CXZA-AABA
+CXZA-AABN
+
+// Attacks always remove 1 row
+P5ZA-BGV2
+
+// Attacks always remove 2 rows
+P5ZA-BLV2
+
+// Attacks always remove 3 rows
+P5ZA-BRV2
+
+// Attacks always remove 4 rows
+P5ZA-BWV2
+
+// Attacks always remove 5 rows
+P5ZA-B0V2
+
+// Attacks always remove 6 rows
+P5ZA-B4V2
+
+// Attacks always remove 7 rows
+P5ZA-B8V2
+
+// Attacks always remove 8 rows
+P5ZA-BCV2
+
+// Attacks always add 1 row
+PXZA-BEWL
+
+// Attacks always add 2 rows
+PXZA-BJWL
+
+// Attacks always add 3 rows
+PXZA-BNWL
+
+// Attacks always add 4 rows
+PXZA-BTWL
+
+// Attacks always add 5 rows
+PXZA-BYWL
+
+// Attacks always add 6 rows
+PXZA-B2WL
+
+// Attacks always add 7 rows
+PXZA-B6WL
+
+// Attacks always add 8 rows
+PXZA-BAWL
+
+// Magic stone Dump adds 1 row to enemy instead of 2
+P5ZA-BEYG
+
+// Magic stone Dump adds 3 rows to enemy
+P5ZA-BNYG
+
+// Magic stone &quot;Dump&quot; adds 4 rows to enemy
+P5ZA-BTYG
+
+// Magic stone Dump adds 5 rows to enemy
+P5ZA-BYYG
+
+// Magic stone &quot;Dump&quot; adds 6 rows to enemy
+P5ZA-B2YG
+
+// Magic stone &quot;Dump&quot; adds 7 rows to enemy
+P5ZA-B6YG
+
+// Magic stone &quot;Dump&quot; adds 8 rows to enemy
+P5ZA-BAYG
+
+// The Computer Player Can't Attack You With The Crush Bar, But You Can Still Attack Him [1P Mode].
+9WSA-BGLL
+ACSA-AACN
+MLSA-BJCT
+
+// You Can Always Attack The Computer Player With The Crush Bar And Add 6 Rows To His Side.
+9WSA-BGK2
+MLSA-BAB8
+
+// Infinite Time
+FF0446:0000
+
+// Jewels Modifier P1
+FF105C:0000
+FF108C:0000
+
+// Jewels Modifier P2
+FF145C:0000
+FF148C:0000
+
+// Modifier P1
+FF105A:0000
+
+// Modifier P2
+FF145A:0000
+
+// Infinite Items
+ALVT-AA22

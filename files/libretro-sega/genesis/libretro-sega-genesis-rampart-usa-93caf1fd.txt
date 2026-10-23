@@ -1,0 +1,14 @@
+// Freeze Countdown When Choosing A Building (At Beginning of Game) (First Timer)
+FF0752:0035
+
+// Freeze Countdown When Placing A Building (At Beginning of Game) (Second Timer)
+FF05C2:0095
+
+// Infinite Time To Join In For Both Players (HUD Is Blanked Out)
+FF07A2:0009
+
+// Number of Buildings Left To Place P1 (Modifies HUD Only)
+FF026A:00BE
+
+// Number of Buildings Left To Place P2 (Modifies HUD Only)
+FF04C4:0000

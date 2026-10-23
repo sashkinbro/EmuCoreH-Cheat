@@ -1,0 +1,52 @@
+// Infinite Lives
+D8VA-2AGL
+
+// Infinite Time
+D9MA-2AC4
+
+// Never Lose Musical Notes
+D8WA-2AAR
+
+// Invincibility
+CWZA-2N3R
+
+// Infinite Music Notes
+FF13F8:03E7
+
+// Infinite Lives
+FF13D6:03E7
+
+// Infinite Time
+FF13DA:03E7
+
+// Freeze Time In The Mode Of The Transformation
+AWXA-2A74
+
+// Jump higher
+9C5A-B95R
+
+// Jump much higher
+805A-B95R
+
+// Don't fall when you walk off ledges (Walk on air)
+GWLA-2A2E
+
+// 1 Hit Kill Enemies
+A4BT-2A74
+
+// 999 Fruit
+FF13FA:03E7
+
+// Keep Cherry After The Death
+AWVA-2A8R
+AT0T-2A2W
+
+// Keep Notes After The Death
+A20T-2A22
+
+// Enabled Cheat Code Unlock sub-levels
+AJCA-2A26
+
+// Enabled Cheat Code Play as Fergus head
+AJ9T-2A44
+AK5A-2A26

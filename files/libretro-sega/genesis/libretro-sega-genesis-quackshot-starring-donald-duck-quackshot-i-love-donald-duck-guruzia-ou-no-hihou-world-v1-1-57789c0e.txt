@@ -1,0 +1,65 @@
+// Start with maximum power
+BBJT-AAAA
+
+// Start with less power
+AKJT-AAAA
+
+// Start with maximum power after you lose a Donald Duck
+BBEA-AAEG
+
+// Start with less power after you lose a Donald Duck
+AKEA-AAEG
+
+// Almost infinite power
+AKSA-AA9J
+
+// Start with 1 Donald Duck
+AFJA-AAFN
+
+// Start with 5 Donald Ducks
+AZJA-AAFN
+
+// Start with 8 Donald Ducks
+BBJA-AAFN
+
+// Start with 10 Donald Ducks
+BKJA-AAFN
+
+// Start with 25 Donald Ducks
+DFJA-AAFN
+
+// Start with 50 Donald Ducks
+GKJA-AAFN
+
+// Start with 99 Donald Ducks
+NPJA-AAFN
+
+// Infinite Donald Ducks
+AVEA-AA5W
+
+// Infinite popcorn on popcorn pick-up
+AKJT-AA6W
+
+// Hit Anywhere
+MC6T-AA9W
+
+// Get Items From Anywhere
+RF9A-A61R
+
+// Infinite Lives
+ABEA-AADW
+
+// Infinite Energy
+A3SA-AA9E
+
+// Invincibility (Disable Hit Detection)
+R06T-A6Y2
+RZ4A-A6ZL
+R14T-A6XN
+
+// Infinite Bubble Gum
+AKJT-AA74
+
+// Jump in mid-air (multi-jump)
+CV2A-AA9J
+CV2T-AA3T

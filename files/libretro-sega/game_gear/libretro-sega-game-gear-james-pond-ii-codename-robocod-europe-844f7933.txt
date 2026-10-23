@@ -1,0 +1,26 @@
+// Infinite Continues
+00DA-7C03
+
+// Infinite Energy
+00DA-7E03
+
+// Infinite Lives
+00DA-7D03
+
+// Invincible
+00DA-C303
+
+// Invulnerable To Spikes
+18E-27C-6EA
+
+// Invulnerable To Enemies
+C3E-46B-E61
+
+// Infinite Lives
+00F-40B-3BE
+
+// Infinite Health
+00E-31C-3BE
+
+// Infinite Continues
+005-D9F-3BE

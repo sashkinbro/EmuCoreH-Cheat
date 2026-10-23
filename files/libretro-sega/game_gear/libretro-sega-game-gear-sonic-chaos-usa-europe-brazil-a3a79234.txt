@@ -1,0 +1,189 @@
+// Sonic starts on Gigapolis Zone
+1F6-9EC-08F
+996-A0C-F7D
+
+// Sonic starts on Sleeping Egg Zone
+3D6-9EC-08F
+996-A0C-F7D
+
+// Sonic starts on Mecha Green Hill Zone
+006-9EC-08F
+996-A0C-F7D
+
+// Sonic starts on Aqua Planet Zone
+3C6-9EC-08F
+996-A0C-F7D
+
+// Sonic starts on Electric Egg Zone with 5 lives
+056-93C-E66
+006-9EC-08F
+996-A0C-F7D
+
+// Tails starts on Gigapolis Zone with 1 life
+016-99C-F7E
+1F6-9EC-08F
+996-A0C-F7D
+
+// Tails starts on Mecha Green Hill Zone with 3 lives
+036-99C-F7E
+006-9EC-08F
+996-A0C-F7D
+
+// Infinite time
+008-3BD-E6E
+
+// Each ring worth 2
+022-1EC-E6E
+
+// Each ring worth 4
+042-1EC-E6E
+
+// Each ring worth 6
+062-1EC-E6E
+
+// Each ring worth 8
+082-1EC-E6E
+
+// Each ring worth 10
+0A2-1EC-E6E
+
+// Never lose rings
+3A9-DCB-2A2
+
+// Start With Some Rings Most Of The Time
+22A-91D-2A2
+
+// Infinite lives
+3A6-24E-2A2
+
+// Start With 1 Life (Sonic)
+016-93C-E66
+
+// Start With 9 Lives (Sonic)
+096-93C-E66
+
+// Start With 50 Lives (Sonic)
+506-93C-E66
+
+// Start With 99 Lives (Sonic)
+996-93C-E66
+
+// Continue With 1 Life (Sonic)
+014-23E-E66
+
+// Continue With 9 Lives (Sonic)
+094-23E-E66
+
+// Continue With 50 Lives (Sonic)
+504-23E-E66
+
+// Continue With 99 Lives (Sonic)
+994-23E-E66
+
+// Start With 1 Life (Tails)
+016-99C-F7E
+
+// Start With 9 Lives (Tails)
+096-99C-F7E
+
+// Start With 50 Lives (Tails)
+506-99C-F7E
+
+// Start With 99 Lives (Tails)
+996-99C-F7E
+
+// Continue With 1 Life (Tails)
+014-28E-F7E
+
+// Continue With 9 Lives (Tails)
+094-28E-F7E
+
+// Continue With 50 Lives (Tails)
+504-28E-F7E
+
+// Tails Continues With 99 Lives (Tails)
+994-28E-F7E
+
+// Enable level select
+C6B-0AF-D53
+
+// Jump In Midair
+186-84B-91D
+116-85B-C45
+
+// Character Modifier
+00D2-CA01
+
+// Cheat Enable Modifier
+00D2-D001
+
+// Infinite Lives
+00D2-9B99
+
+// Infinite Lives
+00D2-9B09
+
+// Infinite Rings
+00D2-9C99
+
+// Infinite Time
+00D2-C199
+
+// Sonic Can't Jump
+00D5-0380
+
+// Sonic Can't Move
+00D5-0389
+
+// Invincibility
+00D2-9C05
+
+// Better Invincibility
+00D3-B101
+
+// Sonic Runs Backwards
+00D5-0410
+
+// High Jump
+00D5-0C95
+
+// Rocket Jump
+00D5-1830
+
+// No Enemies
+00D7-4000
+
+// New Level
+00D1-60C8
+
+// Level Select
+00D2-9901
+
+// Invincible After Being Hit Once
+00D3-B101
+
+// Level Select
+00D2-9900
+
+// Don't Die When Hit With No Rings
+C19-BFB-4CE
+499-C0B-C43
+
+// Invulnerability After Taking Damage
+01A-A1B-91A
+
+// Walk Up Walls
+C92-748-A29
+C91-CC8-809
+
+// Sound Test
+00B-0BF-C49
+
+// Zone Select
+008-3FF-C49
+
+// Infinite Fly Time Tails
+00D3-A199
+
+// Infinite Flying Time (Tails)
+00F-D9C-4C6

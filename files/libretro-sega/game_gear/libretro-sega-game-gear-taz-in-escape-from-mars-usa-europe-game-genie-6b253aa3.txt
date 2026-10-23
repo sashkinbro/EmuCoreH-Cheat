@@ -1,0 +1,21 @@
+// Infinite Lives
+3AE-916-2A2
+
+// Infinite Energy
+215-545-6E2
+
+// Start With Bubble Gum Float
+304-7B6-E6A
+
+// Keep Weapons For A Little While After You Die
+C94-7C6-2A2
+
+// Less Flash Time After Getting Hit
+015-735-197
+
+// More Flash Time After Getting Hit
+995-735-197
+
+// Always Invincible
+004-E46-3BA
+004-E06-3BE

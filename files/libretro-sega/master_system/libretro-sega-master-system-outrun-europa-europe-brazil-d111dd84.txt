@@ -1,0 +1,30 @@
+// Infinite Health
+00C0-E20A
+
+// Infinite Nitro/Speed Booster
+00C1-54FF
+
+// Infinite Bullets
+00C1-5DFF
+
+// Infinite Time
+00C1-5FFF
+
+// Freeze Timer
+00C1-5C13
+
+// Infinite Shields
+00C0-DE0A
+
+// Infinite Time
+3A7-87D-2A2
+
+// Infinite Shields
+7EC-C7E-3B7
+7EE-93E-3B7
+
+// Infinite Turbos
+3AC-8FF-2A2
+
+// Infinite Ammo
+3A7-E5E-2A2

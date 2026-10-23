@@ -1,0 +1,58 @@
+// Infinite Energy
+ATDT-EA9G
+
+// Infinite Lives
+AXDT-CA3N
+
+// Invincibility
+AMTT-CA2T
+
+// Untouchable
+R1TT-C6T2
+
+// Extra Energy - Super Punch
+R1YT-C6X0
+R1YT-C6YT
+R1YT-C6ZL
+R1YT-C60C
+
+// Hit enemies from anywhere, and pickup items from anywhere (only when they are above or below you)
+AK2A-EA20
+
+// Hit enemies from anywhere, and pickup items from anywhere (only when they are to the left or right of you)
+AK1T-EA94
+
+// Hit enemies from anywhere, and pickup items from anywhere
+D31T-EA94
+
+// Invincibility (works on all levels)
+RHTT-C6TY
+
+// Spin attack pickup (Super Pizza) lasts 3x longer (only for Leo)
+KBNT-EAFW
+
+// Spin attack pickup (Super Pizza) lasts 3x longer (only for Raph)
+KBPA-EAD8
+
+// 1 hit kills Leatherhead (1st boss)
+RESA-G6X8
+
+// 1 hit kills most enemies
+SXET-BCL4
+DDET-AAC6
+
+// 1 hit will kill any enemy or boss
+SXET-BCL4
+ADET-AJC6
+
+// Leo's flying kick is 3x stronger
+BXFA-AABC
+
+// Leo's flying kick is 10x stronger
+FDFA-AABC
+
+// Raph's flying kick is 3x stronger
+BXGT-AABC
+
+// Raph's flying kick is 10x stronger
+FDGT-AABC

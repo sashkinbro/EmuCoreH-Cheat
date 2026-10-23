@@ -1,0 +1,17 @@
+// Infinite Lives
+FFF2E8:0002
+
+// Infinite Energy
+FF9824:0008
+
+// Invincibility
+FFF24A:0001
+
+// Infinite Lives
+ALZA-AA86
+
+// Infinite Energy
+AKNT-CA3L
+
+// Ship &quot;Expands&quot; When Hit
+FFF2EA:0004

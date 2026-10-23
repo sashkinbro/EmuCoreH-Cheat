@@ -1,0 +1,50 @@
+// Blue Team Has Infinite Health In Battle (Does Not Work On 2 Man Team)
+NW5T-3WBR
+
+// 2 Man Blue Team Has Infinite Health In Battle
+SDFA-3WC8
+SDFA-3WDE
+
+// Red Team Starts With Almost No Health In Battles
+AL5T-2AFC
+
+// Infinite Medics For Blue Team
+AT4T-4A32
+
+// When The Red Team Uses A Medic On One Of It's Team Members, That Member Will Die
+ACVT-2AG6
+
+// The Red Team Starts With No Medics
+AAPA-AAA8
+
+// The Blue Team Has Almost Infinite Health In Close Combat
+9TET-CAEG
+
+// It Only Takes 1 Hit To Defeat The Red Team In Close Combat
+AEET-CAEA
+
+// Infinite Health Blue Team In Close-Combat
+FFD3E4:0009
+
+// No Health Red Team In Close-Combat
+FFDDB0:0000
+
+// Turn Off SFX
+FFD3C8:0000
+
+// Blue Team Health
+FFD252:0064
+FFD3F4:0064
+FFD596:0064
+FFD738:0064
+FFD8DA:0064
+
+// Red Team Health
+FFDA7C:0000
+FFDC1E:0000
+FFDDC0:0000
+FFDF62:0000
+FFE104:0000
+
+// Auto Complete Special Mission
+FFE4E2:0001

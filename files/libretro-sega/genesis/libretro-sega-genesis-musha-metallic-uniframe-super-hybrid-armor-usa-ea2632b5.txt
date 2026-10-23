@@ -1,0 +1,96 @@
+// Invincibility
+AKMA-AA9Y
+
+// Keep main weapon status after dying
+BKRT-AA8E
+
+// Infinite lives
+AKRT-AA6G
+
+// Start with 4 lives
+ATNT-AAEY
+
+// Start with 5 lives
+AYNT-AAEY
+
+// Start with 6 lives
+A2NT-AAEY
+
+// Start with 10 lives
+BJNT-AAEY
+
+// Start with 50 lives
+GJNT-AAEY
+
+// Start with 100 lives
+NTNT-AAEY
+
+// Power chips count 2x normal
+SBZT-BJ08
+
+// Power chips count 3x normal
+SBZT-BN08
+
+// Power chips count 4x normal
+SBZT-BT08
+
+// Invincibility
+ABMA-AAHT
+
+// Invincibility
+FFMA-BG1Y
+
+// Invincibility
+AKNA-AA3L
+
+// Disable Red Screen
+AABT-AR4C
+
+// Enable Round Level Select In Options
+REXA-A6XL
+REYT-A6V4
+REXT-A6TW
+
+// Infinite Special Power Of Weapon
+AKWT-AA5G
+
+// Pause the Game and Press A for Max Primary Weapon Power and 20 Options
+SATT-AC38
+D2TT-AC8E
+RYTT-A60G
+RETT-A60J
+9TTT-BCSE
+
+// Infinite Options
+AKWT-AA5G
+
+// Temporary Invincibility After Dying Lasts 2x Longer
+97MA-AAGC
+
+// Temporary Invincibility After Dying Lasts 1.5x Longer
+0VMA-AAGC
+
+// Invincibility ON
+FFD128:0040
+
+// Invincibility OFF
+FFD128:0000
+
+// Invincibility (blinking)
+FFE01E:0078
+
+// Max Secondary Weapon Power
+FFD110:0004
+
+// Pause the Game and Press A for Max Primary Weapon Power
+FFD164:1010
+FFD166:2010
+FFD168:1020
+FFD16A:0102
+FFFE12:0000
+
+// Invincibility (better)
+HVMT-AA9L
+
+// Pause the Game and Press A for Max Primary Weapon Power
+SATT-AC38

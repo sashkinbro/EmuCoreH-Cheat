@@ -1,0 +1,77 @@
+// When you have low Food / Water, Health and Power never decreases
+CAMT-EA2Y
+
+// Start with max Gold
+XA9T-FYKA
+
+// Infinite Gold
+AHCA-EAG0
+
+// Infinite Food
+AKHT-EA5Y
+
+// Infinite Water
+AKHT-EA7R
+
+// Infinite Goods
+AHAT-EADR
+
+// Infinite MP
+AK8T-GA82
+
+// Quick Level Up
+G1CT-EADT
+
+// Start With So Sym, Map And Sextant
+2HHA-EAB6
+
+// Start With The Magic Leaf
+JSHA-EHV2
+
+// Start With Max Food
+GDHA-FL5C
+
+// Start With Max Water
+GDHA-FL5L
+
+// Allways Have All The Goods At Max Value
+AMFT-EA2Y
+
+// Allways Have All Spells, Papers, Keys And Rings
+AW5A-EN58
+
+// Teleport
+GK0A-CR56
+
+// Don't Loose Hp In Temple Of Variation Nor Necropolis
+RENT-G6TE
+
+// Anyone Sells
+AD5A-CA4E
+
+// Disable Magical Protection
+EBPA-GA4C
+
+// Don't Need Keys To Open Chests Nor Doors
+RG1T-E6ZA
+
+// Can Open Any Door or Chest
+RG1T-E6X4
+
+// Disable Magical Protection At Sorcerer's Academy
+CKPA-GA5L
+
+// Start With Help Disabled
+ADHT-8ADR
+
+// Start With Combat Set To Manual
+AHHT-8AD0
+
+// Have Lots of Money
+FF02DE:00FF
+
+// Infinite Health
+FF0304:0020
+
+// Max Experience (After Battle)
+FFC40E:00FF

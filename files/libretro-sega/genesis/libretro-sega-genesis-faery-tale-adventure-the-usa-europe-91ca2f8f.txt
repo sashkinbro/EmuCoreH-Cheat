@@ -1,0 +1,98 @@
+// Julian starts with 0 coins instead of 20
+ABTT-AAD0
+
+// Julian starts with 100 coins
+NVTT-AAD0
+
+// Julian starts with 500 coins
+8VTT-ACD0
+
+// Julian starts with 999 coins
+67TT-AGD0
+
+// Julian starts with 0 kindness points instead of 15
+ABTT-AADT
+
+// Julian starts with 50 kindness points
+GKTT-AADT
+
+// Julian starts with 99 kindness points
+NPTT-AADT
+
+// Julian starts with 0 luck points instead of 20
+ABTT-AADL
+
+// Julian starts with 50 luck points
+GKTT-AADL
+
+// Julian starts with 99 luck points
+NPTT-AADL
+
+// Julian starts with 0 bravery points instead of 35
+ABTT-AADE
+
+// Julian starts with 50 bravery points
+GKTT-AADE
+
+// Julian starts with 100 bravery points
+NVTT-AADE
+
+// Julian starts with 300 bravery points
+FVTT-ACDE
+
+// Julian starts with 500 bravery points
+8VTT-ACDE
+
+// All items are free even though the price still shows on screen
+A2DA-CA38
+
+// Swim without losing vitality points
+AJYT-AA9E
+
+// Julian, Phillip, and Kevin start with 50 vitality points
+GKVT-BA8R
+
+// Julian, Phillip, and Kevin start with 100 vitality points
+NVVT-BA8R
+
+// Phillip starts with 300 bravery points instead of 20
+FVTT-ACEC
+
+// Phillip starts with 99 luck points instead of 35
+NPTT-AAEJ
+
+// Phillip starts with 99 kindness points instead of 15
+NPTT-AAER
+
+// Phillip starts with 100 coins instead of 15
+NVTT-AAEY
+
+// Kevin starts with 300 bravery points instead of 15
+FVTT-ACFE
+
+// Kevin starts with 99 luck points instead of 20
+NPTT-AAFL
+
+// Kevin starts with 99 kindness points instead of 35
+NPTT-AAFT
+
+// Kevin starts with 100 coins instead of 10
+NVTT-AAF0
+
+// Vitality Always 255
+FFA58E:00FF
+
+// Bravery (?) Always 255
+FFF1BE:00FF
+
+// &quot;L&quot; Always 55
+FFF1C0:00FF
+
+// &quot;K&quot; Always 55
+FFF1C2:00FF
+
+// Infinite Vitality from enemies (Invincible)
+AC0A-AA8A
+
+// Walk thru walls
+A37A-CA3N

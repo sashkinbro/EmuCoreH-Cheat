@@ -1,0 +1,30 @@
+// Infinite Energy
+AKXT-AA8E
+
+// Infinite Lives
+AL9A-AA9R
+
+// Infinite Power
+AKGT-AA4W
+
+// Invincibility
+ADCT-AN9W
+BDCT-AN94
+
+// Infinite HP
+BBXT-AA8E
+
+// Get Hit Once, Stay Invincible
+A5DA-AA28
+
+// Infinite Lives (Part 1)
+AW9A-AA9R
+
+// Infinite Lives (Part 2)
+AW8T-AA7Y
+
+// Have Flame &amp; Sonic Magic
+AKFA-AA78
+
+// Start with ?? Lives
+ABHA-AAF6

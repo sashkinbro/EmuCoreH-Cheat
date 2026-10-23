@@ -1,0 +1,76 @@
+// Infinite Hp P1
+FF17FE:00C8
+
+// Hit Anywhere Both Players
+HK7T-CA24
+
+// No sound
+AJHA-EASC
+
+// Fast music
+AAAA-FA5E
+
+// No battle music
+AA1T-AAVE
+
+// Play Zarak On The Story Mode
+MLCA-A02N
+
+// Infinite Health, For Player 1 And CPU [this causes that nobody can win]
+ALXT-CA70
+
+// Infinite Energy PL1:ROM
+9XPT-MGB2
+2DPT-LAB4
+99PT-LAB6
+99PT-MRB8
+
+// Take Less Damage P1
+FF17FE:00C0
+
+// Take Less Damage P2
+FF18CE:00C0
+
+// Infinite Time
+FF00A0:0063
+
+// Fake Infinite Health P1
+FF1802:0078
+FF1800:0078
+
+// Infinite Time To Continue
+FF2C66:0009
+
+// P1 Wins Modifier
+FF17F0:0000
+
+// P2 Wins Modifier
+FF18C0:0000
+
+// Character Modifier P1 (All Modes)
+FF1852:0000
+
+// Character Modifier P2 (All Modes)
+FF1922:0000
+
+// P2 Losses Modifier
+FF010C:0000
+
+// Freeze Time
+AJLT-AA3L
+
+// Freeze Time Continue
+BC1A-AA9T
+
+// Infinite Continue
+AW1T-AA6W
+
+// Freeze Time On Screen Select Characters
+AWAT-AA34
+
+// Invincibility P1 (Disable Hit Detection)
+R0WT-C6TR
+R0LA-C6VW
+R1EA-C60A
+RZ6T-C6WR
+R0JA-C6WA

@@ -1,0 +1,11 @@
+// Have Infinite Money
+00CB-C0FF
+
+// Walk Anywhere
+3AE-EFE-801
+3AF-32E-801
+3AE-69E-801
+3AE-ACE-801
+
+// No Random Battles
+C33-BEB-C41

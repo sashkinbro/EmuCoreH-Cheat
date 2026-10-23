@@ -1,0 +1,26 @@
+// Infinite Fuel
+00C0-AE20
+
+// Play In 2-D Mode
+00C0-02FF
+
+// Start On Round 9
+00C0-AA09
+00C0-AB08
+
+// Infinite Lives
+00C0-A306
+
+// Invincibility
+7E4-D1D-3B7
+
+// Infinite Lives
+3A1-5BB-2A2
+
+// Infinite Fuel
+2A7-C5D-6E2
+
+// Enable 2-D Mode
+181-E5F-6EA
+180-67E-6EA
+C9B-73E-E69

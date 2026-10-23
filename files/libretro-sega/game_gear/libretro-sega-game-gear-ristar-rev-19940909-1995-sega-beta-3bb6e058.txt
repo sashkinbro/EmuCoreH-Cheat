@@ -1,0 +1,11 @@
+// Infinite Health
+00D5-3D05
+
+// Infinite Stars
+00DC-3B62
+
+// Infinite Lives
+00DC-3A63
+
+// Invincibility (after being hit)
+00D5-5802

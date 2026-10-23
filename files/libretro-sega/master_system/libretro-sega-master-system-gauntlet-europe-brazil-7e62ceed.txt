@@ -1,0 +1,47 @@
+// Infinite Potion
+00C8-0E01
+
+// Infinite Time In Treasure Rooms
+00C8-B620
+
+// Monster Generators Generate No Monsters
+00C8-DB01
+
+// Creates Exit On Any Tile You Stand
+3E8-EAE-B31
+368-EBE-191
+
+// Exits Appear Everywhere
+086-8EF-081
+
+// Infinite Health
+3A5-73D-2A2
+3A5-7CD-2A2
+
+// Infinite Potions
+7EF-BED-3BE
+
+// Infinite Keys
+7E6-C4D-3BE
+
+// Infinite Health
+C95-73D-2A2
+
+// Infinite Health P1
+00C8-0F99
+
+// P2 Infinite Health
+3A5-90D-2A2
+3A5-99D-2A2
+
+// P1 Infinite Credits
+B6B-72D-3BE
+
+// P2 Infinite Credits
+B6B-7AD-3BE
+
+// P1 Infinite Credits
+00C8-6803
+
+// P2 Infinite Credits
+00C8-6903

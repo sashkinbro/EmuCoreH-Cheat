@@ -1,0 +1,11 @@
+// Level Modifier
+00CA-4A00
+
+// Intro screen music modifier
+F1F-E6E
+
+// Disable Intro screens for music playback
+0A0-F6F-E6A
+
+// Skip intro screens
+050-F6F-E6A

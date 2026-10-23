@@ -1,0 +1,156 @@
+// Super Jump
+A7HA-BAD4
+
+// Can't get carrots
+AJLA-DAVG
+
+// Each carrot worth 2
+AJLA-DA50
+
+// Each carrot worth 10
+BJLA-DA52
+
+// Get no special helpers with each 50 carrots
+RG0A-A6TW
+
+// Get 3 special helpers with each 50 carrots
+JC0A-BNTW
+
+// Get 8 special helpers with each 50 carrots
+JC0A-BATW
+
+// Infinite special helpers if you have at least one
+AJWA-AA8T
+
+// Start with 1 life
+AAST-AAEJ
+
+// Start with 10 lives
+BEST-AAEJ
+
+// Start with 50 lives
+GEST-AAEJ
+
+// Start with 100 lives
+NNST-AAEJ
+
+// Infinite lives
+AJYT-AA5G
+
+// No invincibility after getting hit
+BVMA-AA8J
+
+// Invincibility does not last as long after getting hit
+CBMA-AAGN
+
+// Invincibility lasts longer after getting hit
+97MA-AAGN
+
+// Invincibility lasts until end of round                after getting hit
+AJZT-AA2T
+
+// Protection from most hits
+ACZT-BA70
+
+// Start with 1 heart instead of 3 (1st Life only)
+AAST-AAER
+
+// Start with 5 hearts (1st Life only)
+ATST-AAER
+
+// Start with 1 heart (After 1st Life)
+AAYT-AADY
+
+// Start with 5 hearts (After 1st Life)
+ATYT-AADY
+
+// Invincibility [1/2]
+RZLT-A6Z2
+
+// Invincibility [2/2]
+ABLT-AR7R
+
+// Infinite Lives
+FFFB08:0063
+
+// Always Have Special Weapon
+FFFB10:0001
+
+// Go To Final Stage
+FFF972:0023
+
+// Disable Red Screen
+CTBT-AN4J
+
+// Black And White Game
+SAMA-BSSN
+
+// Collect Carrots For Special
+MCZT-BT52
+
+// Infinite Lives
+FFFB08:0009
+
+// Infinite Hearts
+FFFB0A:0003
+
+// Infinite Carrots
+FFFB0E:0063
+
+// Infinite Purple Birds (Bonus Qualifiers)
+FFFB10:0063
+
+// Round Modifier (00-27)
+FFF940:00BE
+
+// Moon Jump
+FFA010:0000
+
+// Hyper Buster Bunny
+FFA030:0000
+
+// 1-Hit To Be Invincible
+FFA038:0028
+
+// Foreground Modifier
+FFF9FC:000A
+
+// Background Modifier
+FFF9FE:000B
+
+// All Levels Unlocked (Elmyra)
+FFFBE0:F7B9
+FFFBE2:FB3B
+FFFBE8:F7B9
+FFFBEA:FB1B
+FFFBF0:F7B9
+FFFBF2:FB3B
+FFFBF4:F7B9
+FFFBF6:FB1B
+
+// Carrots are worth 5 (Fixed)
+AYLA-DA50
+
+// Carrots are worth 10 (Fixed)
+BJLA-DA50
+
+// High Jump
+ABHA-BEM4
+
+// Super High Jump
+ABHA-AAM4
+
+// Moon Jump
+ABHA-ALD4
+
+// Jump to any Height (Hold Jump to go higher, release to descend)
+AKAA-AA7T
+
+// Keep Carrots after Dying
+AJYA-AA7N
+
+// Keep Special Helpers after Dying
+AJYA-AA7T
+
+// Get a Special Helper every ?? carrots, instead of every 50
+A0ZT-AAD0

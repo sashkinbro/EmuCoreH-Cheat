@@ -1,0 +1,26 @@
+// Warp Speed, Cap'n!
+00C9-07FF
+
+// Acceleration Boost
+00C8-A7BC
+
+// FAKE Lap Modifier
+00C7-A800
+
+// Lap Modifier (WON'T Appear on HUD!)
+00CA-2400
+
+// Position Modifier
+00C9-9E00
+
+// Gear Modifier
+00C8-F900
+
+// Don't Stop While In Neutral
+2AF-66F-6E2
+
+// Freeze Lap Timer
+3A2-99E-2A2
+
+// Freeze Lap Timer
+00C8-C700

@@ -1,0 +1,12 @@
+// Infinite Hits
+00C2-3E03
+
+// Infinite Health
+002-E8B-19E
+
+// Invulnerability
+00C2-1901
+00C2-1A8E
+
+// Infinite Lives
+00C2-3D03

@@ -1,0 +1,39 @@
+// Infinite Health P1
+FFF78A:0063
+
+// Infinite Time (Seconds)
+FFFA5A:0044
+
+// No Health P2/CPU
+FFFAC6:0000
+FFFBF4:0000
+
+// All the Moves
+9T8A-BCPG
+
+// Green Thang
+9T8A-BCPN
+
+// Director's Cut
+9T8A-BCPW
+
+// Nuclear Waste Man
+9T8A-BCP2
+
+// Caffeinated Mode
+9T8A-BCP8
+
+// Whoop Ass Mode
+9T8A-BCRE
+
+// Stealth Mode
+9T8A-BCRL
+
+// Iron Man
+9T8A-BCRT
+
+// Little Napoleon
+9T8A-BCR0
+
+// To the Death
+9T8A-BCR6

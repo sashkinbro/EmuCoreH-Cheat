@@ -1,0 +1,8 @@
+// Infinite Bullets
+00C1-1699
+
+// Infinite Health
+00C1-0500
+
+// Infinite Grenades
+00C1-1906

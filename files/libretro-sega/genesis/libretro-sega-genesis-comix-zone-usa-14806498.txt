@@ -1,0 +1,120 @@
+// Start On Episode 1, Section 2
+HVDV-7AAT
+AFDV-6AAW
+
+// No damage from attacking solid objects
+AJDV-4A4L
+
+// No damage from enemies, explosions, hazards, etc.
+AJCV-4A56
+
+// Ice Tea fully heals player
+963B-4JAC
+
+// Start with 1/4 health
+JBDV-6CB2
+
+// Start with 1/2 health
+TBDV-6EB2
+
+// Start with 3/4 health
+2BDV-6GB2
+
+// Start on Episode 2, Section 1
+HVDV-7AAT
+AKDV-6AAW
+
+// Start on Episode 2, Section 2
+HVDV-7AAT
+APDV-6AAW
+
+// Start on Episode 3, Section 1
+HVDV-7AAT
+AVDV-6AAW
+
+// Start on Episode 3, Section 2
+HVDV-7AAT
+AZDV-6AAW
+
+// Infinite Energy
+9TCB-5CJW
+96CB-4JAY
+ATCB-59J0
+
+// Infinite Health P1
+FFBF02:04FF
+
+// Start On Episode 2, Section 1
+HVDV-7AAT
+AKDV-6AAW
+
+// Start On Episode 2, Section 2
+HVDV-7AAT
+APDV-6AAW
+
+// Start On Episode 3, Section 1
+HVDV-7AAT
+AVDV-6AAW
+
+// Start On Episode 3, Section 2
+HVDV-7AAT
+AZDV-6AAW
+
+// Jump in mid air (multi-jumps).
+REGB-46T0
+A2GB-4A3G
+
+// Don't lose any health when making a paper airplane.
+AJBV-4A2W
+
+// Gain a little health when you make a paper airplane (instead of losing health).
+SABV-5ETW
+
+// Gain lots of health when you make a paper airplane (instead of losing health).
+SABV-5YTW
+
+// Don't lose any health if the paper airplane hits you.
+AJCV-4A56
+
+// Holding down the 'Punch' button makes you automatically bombard enemies with endless punches and kicks.
+REBV-46V2
+
+// Holding down the 'Punch' button will refill your health.
+SABV-5NTW
+SABV-5CTE
+
+// Enemies are easier to kill (you don't have to knock them down as many times).
+RE2A-A6XN
+
+// 1 hit kills enemies.
+HA2A-BAMC
+
+// 1st Enemy - Gravis the Bully becomes Spawn Mutant Queen
+ZDEB-JV3T
+3XEB-KX3W
+
+// 1st Enemy - Gravis the Bully becomes Flying Creature
+65EB-J5KT
+ESEB-J3VW
+
+// Level Modifier
+FFBF1E:0000
+
+// Buttons (Options)
+FFBFCC:0000
+
+// Custom (Options)
+FFBFCE:0000
+
+// Untouchable
+RYCB-46XY
+
+// Infinite Energy
+ATCV-4A56
+AJBV-4A2W
+AJDV-4A4L
+A2EB-4A9W
+ATAV-4A3E
+
+// Enabled Cheat Code Level Select In Option In Jukebox Press Button C Melody 1-6 For To Choose Scene
+RHXV-26X4

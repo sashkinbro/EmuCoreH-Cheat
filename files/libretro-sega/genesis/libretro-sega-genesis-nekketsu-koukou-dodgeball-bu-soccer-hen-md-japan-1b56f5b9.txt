@@ -1,0 +1,5 @@
+// Cpu Score Always In Zero
+FFF8D2:0000
+
+// Cpu Never Scores
+AL7T-AA24

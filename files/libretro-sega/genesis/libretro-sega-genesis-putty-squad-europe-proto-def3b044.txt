@@ -1,0 +1,37 @@
+// Infinite Lives
+AK9T-AA62
+
+// Infinite Energy
+AM5T-AA30
+
+// Infinite USE
+AKPT-AA4J
+
+// Keep Stars and Special Weapons After The Death
+AKGT-AA30
+
+// Infinite Stars
+AM5A-AA76
+
+// Start Game with 99 Infinite Stars and Infinite Weapon After the Death
+FF60D0:0099
+
+// Invincibility
+RZMT-A6ZC
+R15A-A6Y0
+R15T-A6V4
+
+// Invincibility against Enemies and Hazards
+AVMT-AA7E
+
+// Invincibility against 1-Hit Deaths
+B5DA-AA6T
+
+// Stars worth ??
+AL0T-AAEC
+
+// Infinite Health
+AM5T-AA34
+
+// Inflation uses no Health
+RV1A-BS9T

@@ -1,0 +1,180 @@
+// Infinite Energy
+FFA216:0BB8
+
+// Infinite Ammo Weapon 1
+FFA260:0BB8
+
+// Infinite Ammo Weapon 2
+FFA262:0BB8
+
+// Infinite Ammo Weapon 3
+FFA264:0BB8
+
+// Infinite Ammo Weapon 4
+FFA266:0BB8
+
+// Infinite Time
+FFA270:0999
+
+// Invincibility
+FFA45E:0002
+
+// Infinite Energy
+BVDA-CA9C
+
+// Infinite Phoenix Teleport
+RF8A-C6TC
+FZ7T-CTHJ
+
+// Don't loose Energy when you fall off the screen
+AKNA-CA8Y
+AKNA-CA82
+
+// Infinite Buster Force Shoot Mode A (White)
+ALDT-CA24
+
+// Infinite Buster Force Shoot Mode B (Green)
+ALDT-CA2J
+
+// Infinite Flame Force Shoot Mode A (White)
+ALFA-CA98
+
+// Infinite Flame Force Shoot Mode B (Green)
+ALFA-CA9N
+
+// Infinite Sword Force Shoot Mode A (White)
+ALHA-CA70
+
+// Infinite Sword Force Shoot Mode B (Green)
+ALHA-CA7E
+
+// Infinite Ranger Force Shoot Mode A (White)
+ALFA-CA5W
+
+// Infinite Ranger Force Shoot Mode B (Green)
+ALFA-CA44
+
+// Infinite Homing Force Shoot Mode A (White)
+ALFT-CA9C
+
+// Infinite Homing Force Shoot Mode B (Green)
+ALFT-CA8T
+
+// Infinite Lancer Force Shoot Mode A (White)
+ALGT-CA2N
+
+// Infinite Lancer Force Shoot Mode B (Green)
+F0GA-CTH2
+
+// Infinite Time
+AJ3T-CA7W
+AJ3T-CA7L
+
+// Infinite Hovering
+ABXT-CABN
+
+// Invincibility
+AK3T-CA6N
+
+// Regional Lockout Bypass Code
+RECT-A60J
+
+// Invincibility
+A3MT-CA6A
+
+// Invincible To Catches
+A3MT-CA6R
+
+// Start With 1024 Hp Instead Of 512
+ADLA-CJEL
+ADLA-CJET
+
+// Start With 2000 Ammo Units For All Weapons
+4D5T-CRH8
+
+// Weapon 1 Modifier
+FFA250:0000
+
+// Weapon 2 Modifier
+FFA252:0000
+
+// Weapon 3 Modifier
+FFA254:0000
+
+// Weapon 4 Modifier
+FFA256:0000
+
+// Current Weapon Modifier
+FFA21C:00BE
+
+// All Weapons Hurt Bosses
+AKCA-CA94
+
+// Sunset Sting Spikes Doesn't Hurt You
+AT9A-JAFW
+
+// Disable Collisions With Bosses
+A4WT-CA4G
+
+// Sunset Sting Spikes Doesn't Hurt You
+FFCC84:0004
+
+// Infinite Time
+FFA270:0033
+
+// Fake Infinite Health?
+FF820A:0040
+FF8304:0040
+FFA216:0040
+
+// Infinite Force 1st Slot
+FFA260:00FF
+
+// Infinite Force 2nd Slot
+FFA262:00FF
+
+// Infinite Force 3rd Slot
+FFA264:00FF
+
+// Infinite Force 4th Slot
+FFA266:00FF
+
+// No Energy For Boss
+FF8200:0000
+
+// Infinite Player
+AKDA-CA9C
+AKNA-CA8Y
+AKNA-CA82
+
+// Invincibility
+RZDA-C6ZW
+RZ3T-C6ZJ
+
+// Infinite Flame Teleport
+AV8A-CA2C
+
+// Infinite Credit
+AMVT-CA56
+
+// Freeze Time Continue
+A5VT-CA2L
+
+// Infinite Jump
+FFA448:00FF
+
+// Infinite Jump
+AKWA-CA6E
+
+// Automatically Destroyed The Bosses
+FF8200:0000
+
+// 1 Shot/Flame Teleport Kill Bosses
+ABCT-CACY
+ABEA-CAEN
+
+// Fly mode
+FF8144:0001
+
+// Disable Music
+FF830E:0005

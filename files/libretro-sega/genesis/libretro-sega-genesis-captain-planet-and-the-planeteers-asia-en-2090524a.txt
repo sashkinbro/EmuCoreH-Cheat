@@ -1,0 +1,40 @@
+// Infinite Energy
+FFF26E:0038
+
+// Infinite Power
+FFF270:0038
+
+// Infinite Time
+FFF3A2:0059
+
+// Super Jump
+FFDE0C:004F
+
+// No Water In Pipe Level
+FFDE02:0000
+
+// Infinite Energy
+AJ2A-AA26
+ALCA-AA76
+AJ2T-AA6T
+AJ8T-AA5W
+AJ8T-AA6L
+AT7A-AA9T
+AL7A-AA3C
+
+// Invincibility
+RY2A-A6TY
+RY2T-A6YG
+RY7A-A61L
+
+// Infinite Power
+BBDT-AA5L
+
+// Freeze Time In Choosing The Levels
+AASA-ATCT
+
+// Freeze Time Miles
+ADAT-ATC8
+
+// Invincibility
+FFF37E:0010

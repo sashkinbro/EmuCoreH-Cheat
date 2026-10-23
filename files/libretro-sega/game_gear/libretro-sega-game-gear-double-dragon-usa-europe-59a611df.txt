@@ -1,0 +1,71 @@
+// Infinite Health
+00C0-9410
+
+// Infinite Lives
+00C0-9503
+
+// Start with 2 lives
+012-19F-E66
+
+// Start with 6 lives
+052-19F-E66
+
+// Start with 10 lives
+092-19F-E66
+
+// Start with 1 energy bar
+012-21F-F76
+
+// Start with two energy bars
+022-21F-F76
+
+// Start with lots of energy
+00F-03F-3BF
+
+// Pick up gun and keep till end of level
+00C-B6F-3BE
+
+// Gun has 1 bullet
+013-D9C-D56
+
+// Gun has 5 bullets
+053-D9C-D56
+
+// Gun has 9 bullets
+093-D9C-D56
+
+// 2 lives after 1st continue
+017-EAD-E66
+
+// 6 lives after 1st continue
+057-EAD-E66
+
+// 10 lives after 1st continue
+097-EAD-E66
+
+// Infinite continues
+007-E5D-3B7
+
+// Start with 1 energy bar
+014-37F-F76
+
+// Start with 1.5 energy bars
+024-37F-F76
+
+// Start with 2 energy bars
+034-37F-F76
+
+// Nasties warp all over the place
+AFD-0AE-F70
+
+// Infinite Lives
+00C0-9505
+
+// Infinite Health
+00E-FFF-A28
+
+// Infinite Lives
+00F-3BF-3BE
+
+// Infinite Bullets
+00C2-2A15

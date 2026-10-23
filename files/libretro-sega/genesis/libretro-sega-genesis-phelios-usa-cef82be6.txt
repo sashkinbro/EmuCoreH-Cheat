@@ -1,0 +1,131 @@
+// Start with 1 life
+AEPA-AAGA
+
+// Start with 5 lives
+AYPA-AAGA
+
+// Start with 7 lives
+A6PA-AAGA
+
+// Start with 9 lives
+BEPA-AAGA
+
+// 1 life after continue
+AEJA-AAHG
+
+// 5 lives after continue
+AYJA-AAHG
+
+// 7 lives after continue
+A6JA-AAHG
+
+// 9 lives after continue
+BEJA-AAHG
+
+// Infinite lives
+AT5A-AA3E
+
+// Almost infinite energy
+BTCT-AA5G
+
+// Start with 1 credit
+AEPA-AAGJ
+
+// Start with 5 credits
+AYPA-AAGJ
+
+// Start with 7 credits
+A6PA-AAGJ
+
+// Start with 9 credits
+BEPA-AAGJ
+
+// Infinite credits
+ATHT-AA8R
+
+// Sword heats up faster
+SE3T-BJWA
+
+// Sword heats up much faster
+SE3T-BAWA
+
+// Once the sword is fully heated up, it stays at full energy almost forever
+AT3T-AA5C
+AT3T-AA3C
+
+// Each speed-up item worth 2
+SG9A-BT1G
+
+// Start at chapter 2
+AJPA-AA44
+AEPA-BA42
+
+// Start at chapter 3
+AJPA-AA44
+AJPA-BA42
+
+// Start at chapter 4
+AJPA-AA44
+ANPA-BA42
+
+// Start at chapter 5
+AJPA-AA44
+ATPA-BA42
+
+// Start at chapter 6
+AJPA-AA44
+AYPA-BA42
+
+// Start at chapter 7
+AJPA-AA44
+A2PA-BA42
+
+// Infinite Energy
+ATCT-AA5G
+
+// Invincibility
+CT4A-AN9L
+
+// Start At Chapter 2
+AJPA-AA44
+AEPA-BA42
+
+// Start At Chapter 3
+AJPA-AA44
+AJPA-BA42
+
+// Start At Chapter 4
+AJPA-AA44
+ANPA-BA42
+
+// Start At Chapter 5
+AJPA-AA44
+ATPA-BA42
+
+// Start At Chapter 6
+AJPA-AA44
+AYPA-BA42
+
+// Start At Chapter 7
+AJPA-AA44
+A2PA-BA42
+
+// Invincibility
+RYCA-A618
+RY2T-A614
+
+// 1 Shot Kill Enemies/Bosses
+A2CA-AA38
+
+// Infinite Shot Weapon Beam
+AV4A-AA4J
+
+// Always Shot Weapon Beam
+FFF4C4:0001
+
+// Freeze Time Select
+A2HT-AA5L
+
+// Keep Speed UP/All Shots Any Weapons After The Death
+BA5A-AA2A
+A3CT-AA5J

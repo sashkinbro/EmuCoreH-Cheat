@@ -1,0 +1,5 @@
+// Infinite Lives
+00C0-D704
+
+// Infinite Bombs
+00C0-D206

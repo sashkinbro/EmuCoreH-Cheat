@@ -1,0 +1,75 @@
+// Infinite Health
+00CF-5280
+
+// Infinite Potion
+00CF-4A09
+
+// Max Money
+00CF-5509
+00CF-5609
+00CF-5709
+00CF-5809
+00CF-5909
+00CF-5A09
+
+// Invulnerability
+00C2-6A26
+
+// Infinite Health
+00CF-52FF
+
+// Silent Fireballs
+00C1-1799
+
+// Missing SFX
+00C1-5799
+
+// BGM Remix
+00C1-7FFF
+
+// Infinite Block Item
+00CF-27FF
+
+// Don't Blink When Damaged
+C95-95E-C49
+
+// Invulnerability
+007-E3B-F7E
+
+// Infinite Health
+2A6-CAD-6E2
+
+// Start A New Game With 999,999 Gold
+095-DEF-E6A
+
+// Start A New Game With 99 Of Each Item
+635-E8F-E6A
+
+// Character Modifier
+00C2-4F01
+
+// Infinite Magic Weapons
+7E6-72A-3B7
+
+// Infinite Revival (Blue) Potions
+3AA-00B-2A2
+
+// Infinite Gold
+1AD-53F-A22
+
+// Infinite Keys
+3AA-D0B-2A2
+
+// Invincibility
+00C2-4080
+
+// Hit Anywhere - Dragon mode
+00F-D4E-A29
+
+// Hit Anywhere - Other Modes
+00F-23E-C49
+00E-9CE-2A2
+37E-CEE-196
+
+// Jump Height Modifier
+F50-91A-089

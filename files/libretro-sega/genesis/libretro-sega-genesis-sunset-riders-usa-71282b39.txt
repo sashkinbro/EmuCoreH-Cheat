@@ -1,0 +1,55 @@
+// Infinite Lives
+REFA-C6VL
+
+// Invincibility
+AD2A-AN76
+
+// Never Lose Weapon Power Ups
+AJKA-AA4L
+
+// Infinite Credits
+AJGA-CA3T
+
+// Untouchable
+AM1A-AA6J
+AM1T-AA5N
+
+// Level Modifier
+FFB088:0000
+
+// Character Modifier
+FFCA40:00BE
+
+// 1 Hit Barrels
+FFD140:0001
+FFD1C0:0001
+
+// 1 Hit Bosses
+FFDADC:0001
+
+// Infinite Lives
+A2FA-CA2J
+
+// Infinite Lives P1
+FFB098:0006
+
+// Invincible P1
+FFCA4C:0002
+
+// Have 2X Guns And All Rapid Fire Upgrades P1
+FFCA42:0003
+
+// Infinite Lives P2
+FFB09A:0006
+
+// Infinite Credits
+FFB0A2:0009
+
+// 1 Shot Kill Bosses
+A4NA-CA4Y
+A4WA-CA6A
+A42T-CA3C
+CXBA-CA3J
+
+// Invincibility
+R11T-A6WN

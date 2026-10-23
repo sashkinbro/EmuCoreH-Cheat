@@ -1,0 +1,14 @@
+// Number Of Laps Modifier
+FFC0B0:0000
+
+// Your position is always reported as 1st place, not when you choose rival (switchable)
+RE5T-C6Z6
+
+// Faster low end acceleration and higher top speed
+BJAA-CAFG
+
+// Faster high end acceleration and higher top speed
+DAAA-CACL
+
+// Regional Lockout Bypass (USA Systems)
+AA4A-AA90

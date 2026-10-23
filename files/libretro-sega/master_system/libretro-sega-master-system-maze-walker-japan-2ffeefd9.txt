@@ -1,0 +1,8 @@
+// Infinite Lives
+00C0-3F09
+
+// Disable 3-D effect
+006-3EF-E6E
+
+// Disable 3-D effect
+00DF-FB00

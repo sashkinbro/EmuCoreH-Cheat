@@ -1,0 +1,23 @@
+// Infinite Health
+3AE-A27-2A2
+
+// Infinite Health
+00C0-206E
+
+// Infinite Continues
+00C2-C407
+
+// Infinite Health
+00C0-20F0
+
+// Max Health
+00C0-21F0
+
+// Invincibility
+C9E-827-E69
+
+// Infinite Continues
+00C-D2E-3BE
+
+// Start a new game with ?? Health
+A58-9EE-5D3

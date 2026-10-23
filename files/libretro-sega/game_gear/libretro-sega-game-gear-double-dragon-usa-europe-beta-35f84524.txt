@@ -1,0 +1,11 @@
+// Infinite Hearts (Lives)
+00C0-9503
+
+// Infinite Red Blocks (Hits)
+00C0-9415
+
+// Infinite Health
+00E-9CF-A28
+
+// Infinite Lives
+00E-D8F-3BE

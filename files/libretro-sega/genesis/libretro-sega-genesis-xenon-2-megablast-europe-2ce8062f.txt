@@ -1,0 +1,17 @@
+// Infinite Lives
+ALCA-AA3T
+
+// Infinite Energy
+ABZA-AAD0
+
+// Infinite Energy
+FF0834:0027
+
+// Infinite Lives
+FF0838:0009
+
+// Infinite Credit
+FF085E:0003
+
+// Infinite Credit
+ALCA-AA4T

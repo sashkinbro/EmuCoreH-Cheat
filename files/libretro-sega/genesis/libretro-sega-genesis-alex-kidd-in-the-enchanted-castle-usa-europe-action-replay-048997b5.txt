@@ -1,0 +1,8 @@
+// Infinite Lives
+FFC120:0008
+
+// Infinite Canes
+FFFE28:0008
+
+// Infinite Tokens
+FFFE2A:0008

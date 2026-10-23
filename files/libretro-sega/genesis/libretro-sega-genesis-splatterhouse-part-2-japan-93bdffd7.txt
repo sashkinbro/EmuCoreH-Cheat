@@ -1,0 +1,5 @@
+// Infinite lives
+FF00F8:0005
+
+// Infinite Energy
+FF00F6:0006

@@ -1,0 +1,97 @@
+// Getting youched doesn't hurt you (can cause game to feeze)
+CJCA-CA7L
+
+// Getting squashed doesn't hurt you
+AL3T-CA8C
+
+// Infinite lives - both players
+GC8A-AY0T
+
+// Don't drown in the water
+HC8T-AA42
+
+// Don't use up presents in inventory
+MWPA-AA6J
+
+// Always share presents (even on different levels)
+ALKA-AA5Y
+
+// Kill all monsters with one tomato
+1V9A-DCEL
+AF9A-CAEN
+
+// Tomatoes fly like slingshots
+C5AA-CA6W
+
+// See the entire map uncovered on each level
+RF8A-A6T2
+
+// Don't uncover any map tiles
+REFT-A6YL
+
+// Each buck found is worth 2 bucks
+GBLA-DJ0R
+
+// Each buck found is worth 5 bucks
+GBLA-DY0R
+
+// Super hi-tops last 2x as long
+5V4A-CLAT
+
+// All other presents last 2x as long
+4B3T-CRBY
+
+// Un-fall present always takes you up one level
+HTFT-DBJN
+DEFT-CAAR
+
+// Faster progression-the ranks
+JC6A-AH7Y
+
+// ToeJam and Earl move twice as fast
+TD2A-AEBJ
+6D2A-ACBN
+
+// Mole ignores you
+HTVA-EA5Y
+
+// Santa is easier to sneak up on
+ATXA-EA7N
+
+// No monsters!
+678A-DT40
+
+// All monsters are boogymen (extra hard)
+CB8A-DT40
+
+// All monsters are wahinis
+AZ8A-DT40
+
+// All monsters are Santas
+CV8A-DT40
+
+// All monsters are bees
+A38A-DT40
+
+// All monsters are moles (very nasty)
+CK8A-DT40
+
+// All monsters are i-Scream Trucks
+CP8A-DT40
+
+// All monsters are Lemon Aid Stands
+C78A-DT40
+
+// All monsters are Ship Parts
+AB8A-DT40
+
+// Short game
+RH6T-C6ZE
+JH6T-DJZW
+TH6T-DRFY
+
+// ToeJam starts with 99 bucks
+NR7T-AAF2
+
+// Earl starts with 99 bucks
+NR7T-AAG6

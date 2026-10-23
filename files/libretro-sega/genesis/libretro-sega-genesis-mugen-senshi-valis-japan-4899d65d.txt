@@ -1,0 +1,8 @@
+// Infinite HP
+BCDT-AA2C
+
+// Infinite Lives
+A2GA-AA66
+
+// Infinite MP
+AKEA-AA9Y

@@ -1,0 +1,6 @@
+// Enable 2-D Mode
+C33-3DF-E61
+C32-9FF-E61
+
+// Enable 2-D Mode
+00C0-D501

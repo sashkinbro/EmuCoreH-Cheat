@@ -1,0 +1,38 @@
+// Start With 1 Life
+016-DBF-E66
+
+// Start With 10 Lives
+0A6-DBF-E66
+
+// Start With 15 Lives
+0F6-DBF-E66
+
+// Start With 1 Gem
+016-E8F-E66
+
+// Start With 10 Gems
+0A6-E8F-E66
+
+// Start With 15 Gems
+0F6-E8F-E66
+
+// Start On Inlet
+886-E4F-5D4
+
+// Infinite Lives
+3A9-319-2A2
+
+// Get 1 Star After You Lose A Life
+014-35E-E66
+
+// Get 10 Stars After You Lose A Life
+0A4-35E-E66
+
+// Get 15 Stars After You Lose A Life
+0F4-35E-E66
+
+// Almost Infinite Stars
+3A0-5D5-2A2
+
+// Almost Invincible
+C90-C65-082

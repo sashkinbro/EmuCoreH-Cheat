@@ -1,0 +1,56 @@
+// Invincibility
+AAZA-AA96
+AJZT-AACW
+
+// Makes Your Ship Move Faster
+DTYA-AACA
+
+// Makes Your Ship Move Much Faster
+FAYA-AACA
+
+// Power Up Mod
+P2NT-BJ16
+
+// Power Up Mod Alternate
+A2NT-AAH0
+
+// Allways Have Level 4 Weapons
+BTYA-A6ER
+TTMA-BA4A
+TAMA-BACC
+
+// Start With Weapons at Level 3
+A2YT-AABA
+
+// Spread Powerups Worth Level 4
+AEPT-AACN
+
+// Laser Powerups Worth Level 4
+AJPT-AACN
+
+// Homing Powerups Worth Level 4
+ANPT-AACN
+
+// Speed Powerups Worth Level 4
+ATPT-AACN
+
+// Weapon Power-Ups Level-Up Your Weapon Faster
+ANRA-AAA0
+
+// Infinite Lives
+ATYA-AA3T
+
+// Invincibility Against Enemies, And Enemy Fire
+ATLT-AA8C
+
+// Level 3 Weapons
+FF0136:0003
+
+// Weapon Modifier
+FF0162:0000
+
+// Pause the game, press C, then unpause for Debug menu
+AAHA-BE9N
+
+// The dome-shaped enemy with a skull inside (that you fight several of at the last boss on stage 8) gives you zero points (instead of 15,000)
+ABYA-AACW

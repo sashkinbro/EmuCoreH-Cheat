@@ -1,0 +1,14 @@
+// Infinite Rings
+00D2-9998
+
+// Infinite Lives
+00D2-9809
+
+// Score 999000 For Every Act And Unlimited Timer
+00D2-B9FF
+
+// Glider From The Start
+00D5-0213
+
+// Sonic Runs Upside-Down
+00D5-2876

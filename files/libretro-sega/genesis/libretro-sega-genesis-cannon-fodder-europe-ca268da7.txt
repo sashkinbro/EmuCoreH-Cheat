@@ -1,0 +1,40 @@
+// Mission Select
+FF1D66:0000
+
+// Your recruits won't slow down when they're in water (also applies to enemies).
+ABWA-AAHJ
+
+// Almost infinite recruits.
+AWSA-AA88
+
+// Start a new game with 30 recruits (instead of only 15).
+D29A-AACJ
+
+// Start with 99 recruits
+NN9A-AACJ
+
+// Infinite Recruits
+AGSA-AAHA
+
+// Infinite Grenades
+HGRT-BTZL
+ALJA-AA7T
+
+// Infinite Rockets
+HGRT-BTZ4
+AMNT-AA22
+
+// Invincibility
+ATTT-AA7W
+
+// Skip Mission In Pause Put Your Cursor On The White Flag And Press AA
+FF280A:00FF
+
+// Skip Mission In Pause Put Your Cursor On The White Flag And Press AA
+BJWA-CA5L
+
+// Can walk thru trees, forests, buildings, etc. See notes.
+AKWA-AA3W
+
+// Can walk up ice cliffs. See notes.
+ABWA-AA6A

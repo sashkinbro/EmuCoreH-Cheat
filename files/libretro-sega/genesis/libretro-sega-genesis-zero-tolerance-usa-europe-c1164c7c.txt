@@ -1,0 +1,159 @@
+// Infinite ammo
+AAFT-CABY
+
+// Ammo power-ups completely fill ammo if you already have some
+REJA-C61W
+
+// All levels are secured
+A39A-LA7E
+
+// Invincible
+AMNA-AA5E
+
+// Bullet Proof Vest takes no damage
+AAHA-CAG6
+
+// Bullet Proof Vest takes 1/2 damage
+TAHA-CAG6
+
+// Bullet Proof Vest takes 2x damage
+AAHA-CEG6
+
+// Bioscanner doesn't run out
+AAGT-CAHT
+
+// Bioscanner lasts half as long
+AAGT-CEHT
+
+// Bioscanner lasts twice as long
+TAGT-CAHT
+
+// Invincibility
+RHNA-A6VR
+
+// You Always Blinking
+AXZA-AATT
+
+// Enemies Can't Move
+AVCT-CAP2
+
+// Invincibility
+AHNA-AAVR
+
+// Not Secured Level
+AJJA-AADC
+
+// Infinite Ammo / Item - Slot 1
+FF1038:0063
+
+// Infinite Ammo / Item - Slot 2
+FF103C:0063
+
+// Infinite Ammo / Item - Slot 3
+FF1040:0063
+
+// Infinite Ammo / Item - Slot 4
+FF1044:0063
+
+// Infinite Ammo / Item - Slot 5
+FF1048:0063
+
+// Infinite Pistol Ammo
+FF1038:003F
+
+// Infinite Bulletproof Vest
+FF103C:000B
+
+// Infinite Shotgun Ammo
+FF1040:0063
+
+// Boot Into Region Info Screen
+AJBT-AA3J
+
+// All characters start with 8 mines in the 3rd slot
+LAFA-DJWL
+KAFA-DJWN
+CAFA-DAWR
+
+// All characters start with 8 hand grenades in the 3rd slot
+LAFA-D6WL
+KAFA-DJWN
+CAFA-DAWR
+
+// Capt. Ishii starts with mines instead of the pistol
+AJHT-AAE2
+
+// Capt. Ishii starts with flame thrower instead of the pistol
+BYHT-AAE2
+
+// Capt. Ishii starts with pulse laser instead of the pistol
+B2HT-AAE2
+
+// Capt. Ishii starts with rocket launcher instead of the pistol
+BNHT-AAE2
+
+// All characters start a new game with the best weapons/items and everything maxed out
+JCFA-LA8N
+RGFT-L6T4
+
+// All characters start in the basement with the best weapons/items and everything maxed out
+JCFA-LA8N
+
+// All characters start a new game with the best weapons/items and everything maxed out
+JCFA-LA8N
+RGFT-L6T4
+ALET-LAEY
+
+// Invincibility (Disable Hit Detection)
+R1NA-A6TE
+
+// All characters start a new game with the best weapons/items and everything maxed out
+JCFA-LA8N
+RGFT-L6T4
+A8ET-LAEJ
+BLET-LAFA
+ALET-LAFN
+
+// Infinite Lives
+AJMT-AA76
+
+// Instant Death to enemies
+AJ4A-CA52
+
+// Makes all your weapons and punches stronger
+ACYA-CTER
+
+// Makes all your weapons and punches much stronger
+ACYA-CANR
+
+// Bosses don't move on the X-axis (left or right)
+AKDT-CA56
+
+// Bosses don't move on the Y-axis (up or down)
+AKDT-CA52
+
+// Bosses don't move at all
+A3DT-CA52
+
+// Enemies don't move
+A3DA-CA3E
+
+// Enemies with guns (like in the first level) don't attack
+RGCA-C6VL
+
+// Enemies that look like insects don't attack
+RGET-C6ZA
+
+// Bosses don't attack
+RGWT-C6Y2
+
+// Hit enemies and bosses no matter where you shoot (hit anywhere)
+RFYA-C6WR
+RHST-C6XJ
+
+// Punch from any distance
+AJTA-CA8T
+
+// Punch from anywhere
+AJTA-CA8T
+AJTA-CA9L

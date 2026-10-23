@@ -1,0 +1,30 @@
+// Start With 1 Life
+31E-13F-2A6
+
+// Start With 5 Lives
+35E-13F-2A6
+
+// Start With 9 Lives
+39E-13F-2A6
+
+// Infinite Lives
+3AB-30D-2A2
+
+// Infinite Energy
+3AA-BF6-2A2
+3AC-156-2A2
+
+// Power-Ups Do Nothing
+3AD-346-2A2
+
+// Infinite Timer
+000-E05-E6E
+
+// 100 Bullets On Pick-Up
+019-86F-E6E
+
+// Start 1st Life With 900 Bullets And Get 200 On Each Pick-Up
+099-86F-E6E
+
+// Infinite Ammo - All Guns
+006-64D-A2C

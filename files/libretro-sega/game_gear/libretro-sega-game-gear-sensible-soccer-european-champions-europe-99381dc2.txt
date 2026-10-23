@@ -1,0 +1,5 @@
+// Team 1/P1 Always Scores 99 (Left On Scoreboard)
+00C5-3263
+
+// Team 2/CPU Never Scores (Right On Scoreboard)
+00C5-8700

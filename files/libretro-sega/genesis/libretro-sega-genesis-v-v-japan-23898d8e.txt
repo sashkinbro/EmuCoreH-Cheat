@@ -1,0 +1,20 @@
+// Infinite Ships
+FFD944:0009
+
+// Infinite &quot;B&quot; (Explosive Blasts)
+FFD946:0006
+
+// Untouchable
+R1LT-A60N
+
+// Infinite Lives
+ADAT-AABG
+
+// Infinite B
+AL2T-AA8E
+
+// Infinite Credit
+ALHT-AA52
+
+// Freeze Time Continue
+ALHT-AA3L

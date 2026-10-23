@@ -1,0 +1,23 @@
+// Infinite Health
+00C1-4740
+
+// Infinite Lives
+00C1-440A
+
+// Final Level (Change "A" For Other Levels)
+00C1-460A
+
+// Infinite Money
+00C1-4C09
+
+// Infinite Iron Balls
+00C1-4D09
+
+// Infinite Spears
+00C1-4E09
+
+// Infinite 4-Directional Iron Balls
+00C1-4F09
+
+// Infinite Special Items
+00C1-5009

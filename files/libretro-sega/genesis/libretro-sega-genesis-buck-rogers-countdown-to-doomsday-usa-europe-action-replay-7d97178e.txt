@@ -1,0 +1,2 @@
+// First Generated Character Keeps A Constant Health of 99
+FFC47E:0063

@@ -1,0 +1,285 @@
+// Infinite Shield Power
+FF243A:0000
+FF243C:0000
+FF243E:0000
+FF2440:0000
+FF2442:0000
+FF2444:0000
+
+// Infinite Ship Life
+FF2446:0000
+FF2448:0000
+FF244A:0000
+FF244C:0000
+
+// Complete Protection From Enemy Attacks [In Ship Battles]
+RG5T-A6YC
+
+// All 4 Of Your Characters Will Have Almost Infinite Health
+ACKA-AYTG
+
+// Infinite Resources [In Engineering]
+A5WA-RA24
+A5WT-RA2A
+
+// Invisible
+AJVA-CA8Y
+
+// Infinite Resources (In Engineering)
+A5WA-RA24
+A5WT-RA2A
+
+// Complete Protection From Enemy Attacks (In Ship Battles)
+RG5T-A6ZJ
+
+// All 4 of Your Characters Will Have Almost Infinite Health
+ACKA-AYVN
+
+// Infinite Resources (In Engineering)
+A5WA-RA56
+A5VT-RA60
+
+// Character 1 Modifier
+FF0B30:0000
+
+// Character 2 Modifier
+FF0B32:0000
+
+// Character 3 Modifier
+FF0B34:0000
+
+// Character 4 Modifier
+FF0B36:0000
+
+// Infinite Health Character 1
+FF58CA:00FF
+
+// Infinite Health Character 2
+FF58FA:00FF
+
+// Infinite Health Character 3
+FF592A:00FF
+
+// Infinite Health Character 4
+FF595A:00FF
+
+// Freeze A Planetary Enemy In One Spot
+FF59AA:00FF
+
+// Infinite Photons (In Ship Battles)
+FF2462:00FF
+
+// Infinite Shield Power (In Ship Battles)
+FF243A:0000
+FF243C:0000
+FF243E:0000
+FF2440:0000
+FF2442:0000
+FF2444:0000
+
+// Infinite Ship Life (In Ship Battles)
+FF2446:0000
+FF2448:0000
+FF244A:0000
+FF244C:0000
+
+// Max Forward
+FF2464:00FF
+
+// Max F-Port
+FF2466:00FF
+
+// Max F-Star
+FF2468:00FF
+
+// Max Aft
+FF246A:00FF
+
+// Max A-Port
+FF246C:00FF
+
+// Max A-Star
+FF246E:00FF
+
+// Max Fphaser
+FF2470:00FF
+
+// Max Fphoton
+FF2472:00FF
+
+// Max Aphaser
+FF2474:00FF
+
+// Max Aphoton
+FF2476:00FF
+
+// Infinite Resources
+FF248C:00F5
+
+// Max Warp Engines
+FF2478:00FF
+
+// Max Impulse Engines
+FF247A:00FF
+
+// Max Aux Pow
+FF247C:00FF
+
+// Max Life Support
+FF247E:00FF
+
+// Max Sensors
+FF2480:00FF
+
+// Max Navigation
+FF2482:00FF
+
+// Max Hull
+FF2484:00FF
+
+// Max Transporter
+FF2486:00FF
+
+// Max Computer
+FF2488:00FF
+
+// Max Communications
+FF248A:00FF
+
+// Infinite Health Character 1
+FF58CA:0300
+
+// Infinite Health Character 2
+FF58FA:0300
+
+// Infinite Health Character 3
+FF592A:0300
+
+// Infinite Health Character 4
+FF595A:0300
+
+// Infinite Resources
+FF248C:03FF
+
+// Infinite Photon
+FF2462:0400
+
+// No Damage Forward Shield
+FF243A:0000
+
+// No Damage F-Port Shield
+FF243C:0000
+
+// No Damage F-Star Shield
+FF243E:0000
+
+// No Damage Aft Shield
+FF2440:0000
+
+// No Damage A-Port Shield
+FF2442:0000
+
+// No Damage A-Star Shield
+FF2444:0000
+
+// No Damage FPhaser
+FF2446:0000
+
+// No Damage FPhoton
+FF2448:0000
+
+// No Damage APhaser
+FF244A:0000
+
+// No Damage APhoton
+FF244C:0000
+
+// No Damage Warp Engines
+FF244E:0000
+
+// No Damage Impulse Engines
+FF2450:0000
+
+// No Damage Aux Pow
+FF2452:0000
+
+// No Damage Life Support
+FF2454:0000
+
+// No Damage Sensors
+FF2456:0000
+
+// No Damage Navigation
+FF2458:0000
+
+// No Damage Hull
+FF245A:0000
+
+// No Damage Transporter
+FF245C:0000
+
+// No Damage Computer
+FF245E:0000
+
+// No Damage Communications
+FF2460:0000
+
+// Max Forward Shield
+FF2464:00FF
+
+// Max F-Port Shield
+FF2466:00FF
+
+// Max F-Star Shield
+FF2468:00FF
+
+// Max A-Star Shield
+FF246E:00FF
+
+// Max FPhaser
+FF2470:00FF
+
+// Max FPhoton
+FF2472:00FF
+
+// Max APhaser
+FF2474:00FF
+
+// Max APhoton
+FF2476:00FF
+
+// Max Warp Engines
+FF2478:00FF
+
+// Max Impulse Engines
+FF247A:00FF
+
+// Max Aux Pow
+FF247C:00FF
+
+// Max Life Support
+FF247E:00FF
+
+// Max Sensors
+FF2480:00FF
+
+// Max Navigation
+FF2482:00FF
+
+// Max Hull
+FF2484:00FF
+
+// Max Transporter
+FF2486:00FF
+
+// Max Computer
+FF2488:00FF
+
+// Max Communications
+FF248A:00FF
+
+// Boosted Aft Shield
+FF246A:00FF
+
+// Boosted A-Port Shield
+FF246C:00FF

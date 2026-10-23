@@ -1,0 +1,99 @@
+// Start with 10/10 hit points instead of 50/50
+CBFA-AAER
+CBFA-AAET
+
+// Start with 100/100 hit points
+ABFA-ACER
+ABFA-ACET
+
+// Start with 500/500 hit points
+ABFA-ALER
+ABFA-ALET
+
+// Start with 1,000/1,000 hit points
+ABFA-BAER
+ABFA-BAET
+
+// Start with 2,500/2,500 hit points
+ABFA-ALNR
+ABFA-ALNT
+
+// Start with 5,000/5,000 hit points
+ABFA-BAYR
+ABFA-BAYT
+
+// Almost infinite hit points
+C4NT-AA5N
+
+// Restore hit points 4x as fast
+AV2A-B22T
+
+// Restore hit points 8x as fast
+BB2A-B22T
+
+// Restore hit points 20x as fast
+CV2A-B22T
+
+// Start with 2 food instead of 10
+AKFA-AAE0
+
+// Start with 20 food
+EBFA-AAE0
+
+// Start with 50 food
+LBFA-AAE0
+
+// Start with 99 food
+XFFA-AAE0
+
+// Most armor items worth 6 to 8 armor points instead of 1 or 2
+BDBA-BA6T
+
+// Most armor items worth 12 to 16 armor points
+CXBA-BA6T
+
+// Each food item worth 10 instead of 30
+AF3T-BJ3C
+
+// Each food item worth 40
+AZ3T-BJ3C
+
+// Never need food for exploring
+AB2A-AAEE
+
+// Use up food twice as fast
+AK2A-AAEE
+
+// Each gold item worth 10 instead of 30
+BK3T-AAD6
+
+// Each gold item worth 60
+HV3T-AAD6
+
+// Kill most enemies with one blow!
+BKJA-AA9A
+
+// Infinite Hp
+ACNT-AADR
+
+// Infinite Hp
+FF9410:9999
+
+// Infinite/Max HP Points
+FF9410:0099
+FF9410:0099
+
+// Level 99
+FF9412:0099
+
+// Character Title Modifier
+FF9414:0000
+
+// Infinite/Max &quot;F&quot;
+FF941C:0099
+
+// Infinite/Max &quot;AR&quot; (Armor)
+FF9416:0099
+
+// Infinite/Max &quot;PW&quot;
+FF9418:0099

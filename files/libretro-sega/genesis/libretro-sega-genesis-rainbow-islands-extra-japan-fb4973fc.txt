@@ -1,0 +1,144 @@
+// Invincibility
+RZPT-A6VR
+
+// One Hit Kills Bosses
+AC9A-AR9E
+
+// Invincibility (includes Invincibility against Bosses)
+4BET-DRDW
+4C6T-BRD8
+4C7T-BRD0
+4BMA-DRF8
+
+// Get the 1st Diamond Now!
+FFE014:0040
+
+// Add the 2nd Diamond Now!
+FFE014:0060
+
+// Add the 3rd Diamond Now!
+FFE014:0070
+
+// Add the 4th Diamond Now!
+FFE014:0078
+
+// Add the 5th Diamond Now!
+FFE014:007C
+
+// Add the 6th Diamond Now!
+FFE014:007E
+
+// Add the 7th Diamond Now!
+FFE014:007F
+
+// Infinite Lives
+AJZA-CA94
+
+// Have All Diamonds
+9TXA-DCC2
+
+// Always Have Wings
+FFE034:007F
+
+// Invincibility
+FFE038:0006
+
+// Always Have 3 Mirrors
+FFE074:0007
+
+// Go To Final Stage
+FFF606:0028
+
+// Infinite Credits Activated
+ABAA-AR6C
+
+// Infinite Lives
+FFF67A:0099
+
+// Speed Power Up
+FFE046:0002
+
+// Rainbow Multiplier Power Up Modifier
+FFF112:0006
+
+// Have Faster Rainbow Power-Up
+FFE046:0003
+
+// Have All Diamonds
+FFE014:00FF
+
+// Infinite Continue Time
+FFF698:0009
+
+// Round Modifier
+FFF606:0041
+FFF60C:0041
+
+// Fast Score Gain
+FFFF06:0099
+
+// Invincibility
+FFE038:0011
+
+// Kill All Bosses In 1 Hit
+FFE89A:0001
+
+// Keep Extra Rainbow And Faster Rainbow Power-Up After The Death
+EAPA-CA6E
+
+// Infinite Credit
+FFF674:0009
+
+// Freeze Time Continue
+A3AA-AA92
+
+// Keep Faster  Rainbow Power-Up After The Death
+AJPA-CA60
+
+// Start with Speed Shoes
+AJPT-CA3E
+
+// Start with Red Bottle
+AJPT-CA3Y
+
+// Start with Yellow Bottle
+AJPT-CA4R
+
+// Start with Wings
+AJPT-CA48
+
+// Start with Fairy Protection
+AJPT-CA5R
+
+// Start with Protection
+AJPT-CA58
+
+// Enabled Cheat Code Start with Speed Shoes
+FFE036:0001
+
+// Original Mode is default (instead of Extra Mode) in Configuration menu
+AEBT-AABR
+
+// Select up to 9 lives at the configuration screen (instead of only 7)
+BFCA-AAE2
+
+// Select up to 50 lives at the configuration screen (instead of only 7)
+GKCA-AAE2
+
+// Infinite time in levels (the water level never starts to rise)
+AWBA-AA2G
+
+// High Jump
+HVJA-AAGR
+
+// Super high jump
+PKJA-AAGR
+
+// Invincibility
+RZET-C6X6
+R06T-A6WA
+R07T-A6XJ
+RZMA-C6Y0
+
+// Infinite Credit
+AJZT-CA24

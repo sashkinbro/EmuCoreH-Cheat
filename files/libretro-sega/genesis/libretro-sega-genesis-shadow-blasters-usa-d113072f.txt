@@ -1,0 +1,160 @@
+// Protection against most enemy hits
+A25T-AA2R
+
+// Infinite special weapons for all warriors
+AKAT-AA7T
+
+// Power gauge fills faster when Button A is held down
+PA6A-BT16
+
+// Power gauge fills much faster when Button A is held down
+PA6A-BA16
+
+// Marco starts with 4 units of life instead of 9
+ATCT-EAE8
+
+// Marco starts with 1 unit of life
+AECT-EAE8
+
+// Marco starts with 4 units of power instead of none
+ATCT-EAE4
+
+// Marco starts with 9 units of power
+BECT-EAE4
+
+// Marco starts with 9 special weapons instead of 1
+BECT-EAFA
+
+// Marco starts with 50 special weapons
+GJCT-EAFA
+
+// Marco starts with speed of 4 instead of 1
+ANCT-EAE0
+
+// Marco starts with jumping ability of 4 instead of 1
+ANCT-EAEW
+
+// Horatio starts with 4 units of life
+ATCT-EADJ
+
+// Horatio starts with 1 unit of life
+AECT-EADJ
+
+// Horatio starts with 4 units of power
+ATCT-EADE
+
+// Horatio starts with 9 units of power
+BECT-EADE
+
+// Horatio starts with 9 special weapons
+BECT-EADL
+
+// Horatio starts with 50 special weapons
+GJCT-EADL
+
+// Horatio starts with speed of 4
+ANCT-EADA
+
+// Horatio starts with jumping ability of 4
+ANCT-EAC6
+
+// Tiffany starts with 4 units of life
+ATCT-EAD4
+
+// Tiffany starts with 1 unit of life
+AECT-EAD4
+
+// Tiffany starts with 4 units of power
+ATCT-EAD0
+
+// Tiffany starts with 9 units of power
+BECT-EAD0
+
+// Tiffany starts with 9 special weapons
+BECT-EAD6
+
+// Tiffany starts with 50 special weapons
+GJCT-EAD6
+
+// Tiffany starts with speed of 4
+ANCT-EADW
+
+// Tiffany starts with jumping ability of 4
+ANCT-EADR
+
+// Leo starts with 4 units of life
+ATCT-EAEN
+
+// Leo starts with 1 unit of life
+AECT-EAEN
+
+// Leo starts with 4 units of power
+ATCT-EAEJ
+
+// Leo starts with 9 units of power
+BECT-EAEJ
+
+// Leo starts with 9 special weapons
+BECT-EAER
+
+// Leo starts with 50 special weapons
+GJCT-EAER
+
+// Leo starts with speed of 4
+ANCT-EAEE
+
+// Leo starts with jumping ability of 4
+ANCT-EAEA
+
+// Level skip
+A25T-AA6A
+
+// Invincibility (Flickering)
+A25T-AA6G
+
+// Untouchable
+A23T-AAER
+A23T-AAEY
+
+// Infinite Health
+FF0BFE:0009
+
+// Infinite Charge-Up Attack (A Button)
+FF0CAC:0063
+
+// Infinite Special Attack (C Button)
+FF0CC2:0009
+
+// jump farther
+AA8A-AA0L
+
+// Always Invincible (flashing)
+AA5T-AAEG
+
+// Stay Invincible When Hit
+AA5T-AAT2
+
+// Invincibility
+RY4T-A61E
+
+// Infinite Energy Player In Final Battle
+AL8A-AA3G
+AL3T-AA5Y
+
+// Final boss dies automatically
+AC2T-AAFR
+
+// Final boss dies with 1 hit
+AG2T-AAFR
+
+// Final boss dies with 5 hits
+A02T-AAFR
+
+// Final boss doesn't cause any damage if you touch him
+AL3T-AA5Y
+
+// Start the final fight (final boss) with twice as much health
+E42A-AAG4
+
+// Activates hidden level select screen
+ABNA-AA9N

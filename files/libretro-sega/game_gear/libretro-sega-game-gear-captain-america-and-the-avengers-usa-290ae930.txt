@@ -1,0 +1,17 @@
+// Infinite Lives
+00C3-2064
+
+// Invulnerability
+00D4-F900
+
+// Invulnerability (Blinking)
+007-94D-E6E
+
+// Infinite Health
+00C3-2050
+
+// Character Select Modifier
+00C3-1F00
+
+// Infinite Health
+000-7EB-A24

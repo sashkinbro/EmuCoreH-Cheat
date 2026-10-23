@@ -1,0 +1,38 @@
+// Switch To Japan Region
+AAGT-AAE4
+
+// Invincibility
+RYDA-A6WL
+
+// Infinite Lives
+D6ZT-AAC4
+
+// Infinite Bombs
+D64T-AAER
+
+// Start A New Game With 10 Lives
+BJJT-AACL
+
+// Start A New Game With 20 Lives
+CTJT-AACL
+
+// Always Have Max Fire Power
+AN5A-AAD8
+
+// Your Plane Moves Much Faster
+FJ5A-AADW
+
+// Your Plane Moves Faster
+DT5A-AADW
+
+// Infinite Lives
+ATZT-AA42
+
+// Infinite Bombs
+AT4T-AA6N
+
+// Max Gun Power On First Pick-Up
+SFDT-BNZY
+
+// Infinite Credits
+ATFT-AA72

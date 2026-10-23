@@ -1,0 +1,26 @@
+// Activates stage select
+AB1A-CN7C
+
+// Infinite Lives
+R1DA-C6TR
+
+// Infinite Energy
+AJDA-EA8N
+
+// Invincibility
+AMST-CA9T
+
+// Invincible
+RHST-C61Y
+
+// Start With 0 Lives, But When You Continue, You'll Have 99 Lives
+AKTA-CA82
+
+// Untouchable
+R1ST-C612
+
+// Extra Energy - Super Punch
+R1YA-C6W0
+R1YA-C6XT
+R1YA-C6YL
+R1YA-C6ZC

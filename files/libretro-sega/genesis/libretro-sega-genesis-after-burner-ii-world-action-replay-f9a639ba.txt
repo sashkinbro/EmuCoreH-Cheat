@@ -1,0 +1,5 @@
+// Infinite Lives
+002D50:6004
+
+// Infinite Missiles
+00381C:600A

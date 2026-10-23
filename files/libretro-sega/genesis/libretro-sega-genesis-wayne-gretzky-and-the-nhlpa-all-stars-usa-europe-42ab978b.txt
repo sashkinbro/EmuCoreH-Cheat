@@ -1,0 +1,8 @@
+// Team 1 Score Modifier (P1)
+FFBC24:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FFBC26:0000
+
+// Turn code on to instantly end period during game play
+AKBA-GA3N

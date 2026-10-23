@@ -1,0 +1,56 @@
+// Infinite Lives
+00C0-3D09
+
+// Infinite G-Bombs
+00D9-F409
+
+// Start With 9 Lives
+098-B59-E62
+
+// Infinite Lives
+00D-6B9-19E
+
+// Start With 9 G-Bombs - 1st Life
+098-C79-E6E
+
+// Start With 9 G-Bombs - After 1st Life
+09D-779-E6E
+
+// Infinite G-Bombs
+00C-7C9-19E
+
+// Invulnerability
+00C9-9E38
+
+// Invulnerability
+18B-459-6EA
+
+// Keep Primary Weapon Power after Dying
+3AD-959-2A2
+
+// Keep Secondary Weapon Power after Dying
+3AD-8B9-2A2
+
+// Temporary Invincibility after Dying and at Start of Level Lasts 1.5x Longer
+B4B-049-08B
+
+// Temporary Invincibility after Dying and at Start of Level Lasts 2x Longer
+FFB-049-08B
+
+// Max Primary Weapon Power
+00C0-5503
+
+// Max Secondary Weapon Power
+00C0-5203
+
+// Secondary Weapon Modifier
+00C0-5100
+
+// Stage Modifier
+00C0-7400
+
+// Invincibility
+C3D-179-C41
+
+// Invincibility
+00C0-7501

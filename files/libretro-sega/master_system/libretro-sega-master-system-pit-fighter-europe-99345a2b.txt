@@ -1,0 +1,35 @@
+// Infinite Time
+00C3-9A01
+
+// Infinite Energy
+00C7-51FF
+
+// Infinite Knock Downs During Grudge Match
+00C7-8400
+
+// Infinite Credits
+00C8-EA03
+
+// Player 1 Has Infinite Specials
+00C8-E003
+
+// Player 1 Has Maximum K.O. Stars
+00C8-EB04
+
+// Opponent Has No Specials
+00C9-1500
+
+// Opponent Has No K.O. Stars
+00C9-2000
+
+// Player 1 Has Infinite Health
+00C8-ECFF
+
+// Opponent Has No Health
+00C9-2100
+
+// Player 1 Always has the Power Pill Active
+0000-0000
+
+// Power Pill Has No Effect on Opponent
+0000-0000

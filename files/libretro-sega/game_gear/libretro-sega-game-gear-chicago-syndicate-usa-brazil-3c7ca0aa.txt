@@ -1,0 +1,14 @@
+// Infinite Health
+00C8-2564
+
+// Infinite Health
+00C8-2563
+
+// Low Date - One's Digit (Affects Hideout/Side-Scrolling Mode)
+00C8-1400
+
+// Low Date - Ten's Digit (Affects Hideout/Side-Scrolling Mode)
+00C8-1301
+
+// Infinite Health
+004-089-A2C

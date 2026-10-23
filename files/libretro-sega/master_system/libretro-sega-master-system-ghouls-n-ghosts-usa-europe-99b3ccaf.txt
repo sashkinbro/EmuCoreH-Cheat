@@ -1,0 +1,62 @@
+// Fire &amp; Thunder Magic Stays Full
+00C0-4B40
+
+// Arthur Starts With ? Weapon
+00C0-4100
+
+// Arthur Starts With ? Helmet
+00C0-4200
+
+// Arthur Starts With ? Armor
+00C0-4300
+
+// Arthur Starts With? Shoes
+00C0-4400
+
+// Conditional Invincibility
+00C0-3E01
+
+// Double Clone Has No Time Limit
+00C0-5201
+
+// Enable Cheat Mode
+007-E14-D5E
+
+// Invincibility
+C95-F2E-3BE
+
+// Infinite Lives
+00C1-6001
+
+// Helmet Cheat
+00C1-5C00
+
+// Armor Cheat
+00C1-5D00
+
+// Shoes Cheat
+00C1-5E00
+
+// Weapon Cheat
+00C1-5F00
+
+// Infinite Lives
+00C0-3309
+
+// Infinite Hits
+00C0-4C01
+
+// Infinite Health
+B65-F2E-3BE
+
+// Infinite Lives
+00B-5B4-3BE
+
+// Infinite Magic
+3A2-B0C-2A2
+
+// Enable Secret Options Menu after Title Screen
+187-E24-4CA
+
+// Enable Secret Options Menu after Title Screen
+00C0-5D0D

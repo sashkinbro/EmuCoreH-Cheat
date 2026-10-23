@@ -1,0 +1,195 @@
+// Player 1 starts with 1 hit point
+09NA-ALXG
+
+// Player 1 starts with 3 hit points
+31NA-ALXG
+
+// Player 1 starts with 5 hit points
+0SNA-ALXG
+
+// Player 1 starts with 7 hit points
+KSNA-ALXG
+
+// Player 1 starts with 10 hit points
+FDNA-ALXG
+
+// Player 2 starts with 1 hit point
+09NA-ALX0
+
+// Player 2 starts with 3 hit points
+31NA-ALX0
+
+// Player 2 starts with 5 hit points
+0SNA-ALX0
+
+// Player 2 starts with 7 hit points
+KSNA-ALX0
+
+// Player 2 starts with 10 hit points
+FDNA-ALX0
+
+// Each magic level can be used infinite times
+RHYT-A618
+
+// Medicine of Regeneration increases life gauge by 2 instead of 3
+JHJT-DTY6
+
+// Medicine of Regeneration increases life gauge by 4
+JHJT-DAY6
+
+// Medicine of Regeneration increases  life gauge to full
+RHJT-C6ZG
+
+// Infinite Energy
+FCLT-CN5W
+
+// Invincibility
+AD4A-AR6T
+AM1T-AN9J
+
+// Infinite Energy
+FF8212:0C0E
+
+// Invincibility
+FF8130:000E
+
+// Start At Act 2
+2DNA-ACNR
+9XNA-BCEW
+V5NA-AFE0
+ASNA-AAEY
+
+// Start At Act 3
+2DNA-ACNR
+9XNA-BCEW
+V5NA-AFE0
+A1NA-AAEY
+
+// Start At Act 4
+2DNA-ACNR
+9XNA-BCEW
+V5NA-AFE0
+DDNA-AAEY
+
+// Start At Act 5
+2DNA-ACNR
+9XNA-BCEW
+V5NA-AFE0
+DXNA-AAEY
+
+// Start At Act 6
+2DNA-ACNR
+9XNA-BCEW
+V5NA-AFE0
+EHNA-AAEY
+
+// Start At Act 7
+2DNA-ACNR
+9XNA-BCEW
+V5NA-AFE0
+FMNA-AAEY
+
+// Start At Act 8
+2DNA-ACNR
+9XNA-BCEW
+V5NA-AFE0
+GMNA-AAEY
+
+// Each Magic Level Can Be Used 1X
+1XCT-DWDT
+AHCT-CADW
+
+// Each Magic Level Can Be Used 5X
+1XCT-DWDT
+A1CT-CADW
+
+// Each Magic Level Can Be Used 20X
+1XCT-DWDT
+CXCT-CADW
+
+// Each Magic Level Can Be Used 50X
+1XCT-DWDT
+GMCT-CADW
+
+// Each Magic Level Can Be Used 99X
+1XCT-DWDT
+NSCT-CADW
+
+// Infinite Health P1
+FF8212:000C
+
+// Infinite Health P2
+FF8212:000C
+
+// Infinite Green Shield Magic P1
+FF823A:0063
+
+// Have Infinite Red? Magic P1
+FF823A:0063
+
+// Have Fire Item(s) Modifier P1 (0-6)
+FF8238:0000
+
+// Character Modifier P1
+FF8218:0000
+
+// Character Modifier P2
+FF8218:0000
+
+// Slot 2
+FF823C:0001
+
+// Slot 3
+FF823C:0000
+
+// Slot 4
+FF823E:0000
+
+// Slot 5
+FF8240:0000
+
+// Slot 2
+FF8246:0000
+
+// Slot 3
+FF8246:0000
+
+// Slot 4
+FF8248:0000
+
+// Slot 5
+FF8248:0000
+
+// Walk Through Walls
+AMTA-AA4G
+AMST-AA34
+AMRT-AA24
+AMSA-AA3J
+
+// Infinite Energy
+ALLT-CA5W
+AMTT-AA4N
+AJ1A-EA28
+
+// Invincibility (Disable Hit Detection)
+R0LA-C60E
+R1TT-A6V6
+R1RT-A6ZY
+R1SA-A60C
+R1ST-A60G
+R1TA-A60J
+RY0A-E6VL
+
+// Invincibility (Disable Hit Detection) - Arcus Odyssey (Japan)
+R0MT-C614
+R1WA-A6YW
+R1TT-A6TL
+R1VA-A6T2
+R1WA-A6T8
+R1VT-A6T6
+RY1A-E6XJ
+
+// Infinite Energy - Arcus Odyssey (Japan)
+ALNA-CA7J
+AMWA-AA7C
+AJ2A-EA46

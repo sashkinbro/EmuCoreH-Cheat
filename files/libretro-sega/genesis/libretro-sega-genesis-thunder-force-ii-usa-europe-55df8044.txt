@@ -1,0 +1,87 @@
+// Start with 2 lives
+AEET-AAAA
+
+// Start with 7 lives
+A2ET-AAAA
+
+// Start with 10 lives
+BEET-AAAA
+
+// Start with 21 lives
+CTET-AAAA
+
+// Start with 51 lives
+GJET-AAAA
+
+// Start with 91 lives
+MJET-AAAA
+
+// Infinite Lives (Top-view missions only)
+ATSA-AA2T
+
+// Infinite lives (side-view missions only)
+ATKT-AA4Y
+
+// Start with 1 credit
+AEET-AAFJ
+
+// Start with 4 credits
+ATET-AAFJ
+
+// Start with 9 credits
+BEET-AAFJ
+
+// Start with 25 credits
+DEET-AAFJ
+
+// Start with 50 credits
+GJET-AAFJ
+
+// Start with 90 credits
+MJET-AAFJ
+
+// Infinite credits
+ATEA-AA20
+
+// Invincibility
+S2RT-AN5G
+
+// Begins With 255 Lives
+9TET-BCRY
+96ET-AAG0
+
+// Do Not Lose Selected Weapons When Destroyed
+AKAT-AA8R
+
+// Invincibility
+FF8000:0000
+
+// Invincibility (Disable Hit Detection)
+RZAA-A6VA
+RY9T-A6Y8
+RY9T-A6TA
+RZAA-A6ZN
+RZAT-A6WJ
+RZAT-A61N
+
+// Select Up To Stage 9 In Options Menu
+BB0T-BE7W
+BB0T-AAE8
+
+// Invincibility - top-view missions
+DVAA-AA20
+EA9T-AA7R
+RY9T-A6TT
+
+// Invincibility - side-view missions
+RZAT-A61N
+Z3AA-AA8A
+EBAT-AA42
+
+// Keep Weapons after Dying
+A2SA-AA3E
+A2KT-AA56
+
+// Select up to 99 Lives in Options Menu
+NK1T-AABT
+NK1T-AAC8

@@ -1,0 +1,50 @@
+// Infinite time
+ATDA-AA2T
+
+// Infinite Lives
+AJ6A-AA9T
+
+// Infinite Energy
+AK3A-AA8Y
+
+// Hit Anywhere
+AK4A-AA3L
+AK5T-AA6E
+AK8A-AA4T
+ALAT-AA20
+
+// Weapon Modifier
+FF6038:0001
+
+// Start With 99 Credits (Counter Looks Strange)
+XFXA-CAGR
+
+// Infinite Energy P1
+FF6000:0020
+
+// Infinite Lives P1
+FF6000:0009
+
+// Infinite Energy P2
+FF6040:0020
+
+// Infinite Lives P2
+FF6078:0009
+
+// Infinite Time
+FF4840:0063
+
+// Level Modifier
+FF485C:0000
+
+// Mr X's Drive By Style (Intro)
+FF6098:000B
+
+// Start with 10 Lives
+FFFD24:0007
+
+// Infinite energy player 1
+9THT-BGRL
+EAHT-AAGN
+96HT-AAGR
+AAHT-AA8T

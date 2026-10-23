@@ -1,0 +1,26 @@
+// Away Team Cant Score
+00C4-4400
+
+// 1-minute quarters
+01C-ACF-F7A
+
+// 3-minute quarters
+03C-ACF-F7A
+
+// 7-minute quarters
+07C-ACF-F7A
+
+// Faster timer
+02E-2FE-E6E
+
+// Infinite time
+00E-2FE-E6E
+
+// Computer opponents can't score
+00F-7DE-3B7
+
+// Team 1 Always Scores 99
+00C4-4199
+
+// Away Team Can't Score
+7EF-7DE-3B7

@@ -1,0 +1,216 @@
+// Start a new game with $65536
+97YT-B984
+
+// Garett always has 10hp &amp; infinite actions and movement
+FF557E:080A
+
+// Garett class modifier
+FF557C:0001
+
+// Garett max level
+FF5584:000A
+
+// 2nd character class modifier
+FF558C:0001
+
+// 2nd character name &amp; portrait modifier
+FF558C:0000
+
+// Garett name &amp; portrait modifier
+FF557C:0000
+
+// Garett class graphics battle map modifier
+FF5584:0000
+
+// Garett experience points modifier
+FF5582:0000
+
+// Garett always has 99 mp
+FF5582:0063
+
+// 7th character always has 10hp &amp; infinite actions and movement
+FF55DE:080A
+
+// 6h character always has 10hp &amp; infinite actions and movement
+FF55CE:080A
+
+// 5th character always has 10hp &amp; infinite actions and movement
+FF55BE:080A
+
+// 4th character always has 10hp &amp; infinite actions and movement
+FF55AE:080A
+
+// 3rd character always has 10hp &amp; infinite actions and movement
+FF559E:080A
+
+// 2nd character always has 10hp &amp; infinite actions and movement
+FF558E:080A
+
+// 8th character always has 10hp &amp; infinite actions and movement
+FF55EE:080A
+
+// 3rd character class modifier
+FF559C:0001
+
+// 4th character class modifier
+FF55AC:0001
+
+// 5th character class modifier
+FF55BC:0001
+
+// 6h character class modifier
+FF55CC:0001
+
+// 7th character class modifier
+FF55DC:0001
+
+// 8th character class modifier
+FF55EC:0001
+
+// 2nd character max level
+FF5584:0000
+
+// 3rd character max level
+FF5594:0000
+
+// 4th character max level
+FF55A4:0000
+
+// 5th character max level
+FF55B4:0000
+
+// 6h character max level
+FF55C4:0000
+
+// 7th character max level
+FF55D4:0000
+
+// 8th character max level
+FF55E4:0000
+
+// 3rd character name &amp; portrait modifier
+FF559C:0000
+
+// 4th character name &amp; portrait modifier
+FF55AC:0000
+
+// 5th character name &amp; portrait modifier
+FF55BC:0000
+
+// 6th character name &amp; portrait modifier
+FF55CC:0000
+
+// 7th character name &amp; portrait modifier
+FF55DC:0000
+
+// 8th character name &amp; portrait modifier
+FF55EC:0000
+
+// 2nd character class graphics battle map modifier
+FF5594:0000
+
+// 3rd character class graphics battle map modifier
+FF55A4:0000
+
+// 4th character class graphics battle map modifier
+FF55B4:0000
+
+// 5th character class graphics battle map modifier
+FF55C4:0000
+
+// 6th character class graphics battle map modifier
+FF55D4:0000
+
+// 7th character class graphics battle map modifier
+FF55E4:0000
+
+// 8th character class graphics battle map modifier
+FF55F4:0000
+
+// 2nd character experience points modifier
+FF5592:0000
+
+// 3rd character experience points modifier
+FF55A2:0000
+
+// 4th character experience points modifier
+FF55B2:0000
+
+// 5th character experience points modifier
+FF55C2:0000
+
+// 6th character experience points modifier
+FF55D2:0000
+
+// 7th character experience points modifier
+FF55E2:0000
+
+// 8th character experience points modifier
+FF55F2:0000
+
+// 2nd character always has 99 mp
+FF5592:0000
+
+// 3rd character always has 99 mp
+FF55A2:0000
+
+// 4th character always has 99 mp
+FF55B2:0000
+
+// 5th character always has 99 mp
+FF55C2:0000
+
+// 6th character always has 99 mp
+FF55D2:0000
+
+// 7th character always has 99 mp
+FF55E2:0000
+
+// 8th character always has 99 mp
+FF55F2:0000
+
+// 1st character equipped item modifier
+FF5580:0000
+
+// 2nd character equipped item modifier
+FF5590:0000
+
+// 3rd character equipped item modifier
+FF55A0:0000
+
+// 4th character equipped item modifier
+FF55B0:0000
+
+// 5th character equipped item modifier
+FF55C0:0000
+
+// 6th character equipped item modifier
+FF55D0:0000
+
+// 7th character equipped item modifier
+FF55E0:0000
+
+// 8th character equipped item modifier
+FF55F0:0000
+
+// You Can Select Level 1-20 In The Battle Select Cheat
+CP3T-AADJ
+CP3T-AAC8
+
+// Controllable NPC
+AJAT-CA4J
+
+// Controllable Enemies
+AJAT-CA5Y
+
+// Controllable Freezed Commanders
+REAT-C60E
+
+// Controllable Freezed Troops
+AJBA-CA2A
+
+// Enemies Think That Your Troops Are Their Allies (Never Attacks Them And Can Heal)
+7LYT-CN6C
+
+// Enemies Can Attack Enemies
+BCYT-CA5N

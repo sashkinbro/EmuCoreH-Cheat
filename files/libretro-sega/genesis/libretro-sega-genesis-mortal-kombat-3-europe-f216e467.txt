@@ -1,0 +1,21 @@
+// Regional lockout bypass code.
+ANBT-BA2J
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Infinite Energy P1
+AMZT-GA38
+
+// Infinite Energy P2
+AMZT-GA42
+
+// Enable Smoke In Table
+AC9T-JA8E
+AMPT-JA56
+AMPA-JA2Y
+AMPA-JA5L
+AMPT-JA3N

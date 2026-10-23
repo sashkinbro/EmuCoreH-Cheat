@@ -1,0 +1,14 @@
+// Infinite Timer (Ten's Digit)
+00D6-4009
+
+// Infinite Timer (One's Digit)
+00D6-4109
+
+// P1 Always Wins
+00D5-9C02
+
+// P2 Never Wins Any Rounds
+00D5-9D00
+
+// Glitchy P2
+00D5-C57B

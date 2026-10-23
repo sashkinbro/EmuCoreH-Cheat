@@ -1,0 +1,32 @@
+// Infinite Lives
+00C3-9704
+
+// Infinite Time
+00C3-5463
+
+// Start with 3 lives
+023-46F-F7A
+
+// Start with 8 lives
+073-46F-F7A
+
+// Start with 12 lives
+0B3-46F-F7A
+
+// Infinite lives
+007-01F-19E
+
+// Infinite time
+F6E-E65
+
+// Infinite Lives
+00C3-9709
+
+// Infinite Continues
+00C3-7109
+
+// Infinite Time
+00C3-5364
+
+// Infinite Tiles
+00C3-4290

@@ -1,0 +1,22 @@
+// Infinite Lives
+AL0V-CA30
+
+// Infinite Energy
+AKAV-CA60
+
+// Invincibility
+RY9V-C6X2
+
+// Infinite Weapons
+AW1V-CA4L
+AW1V-CA8W
+AXBV-EA7W
+AW1V-CA5E
+
+// Infinite Continue
+AKKV-CA26
+ALZB-CA52
+
+// Infinite Jump
+AK5B-CA5T
+AK7B-CA90

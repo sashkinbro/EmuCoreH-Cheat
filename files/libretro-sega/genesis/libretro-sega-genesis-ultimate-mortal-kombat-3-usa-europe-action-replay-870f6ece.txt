@@ -1,0 +1,8 @@
+// Infinite Time
+FFEF68:0009
+
+// P1 Free Movement
+FFF21E:B160
+
+// P2 Free Movement
+FFF390:B160

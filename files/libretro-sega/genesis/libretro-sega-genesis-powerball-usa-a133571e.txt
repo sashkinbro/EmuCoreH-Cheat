@@ -1,0 +1,50 @@
+// Infinite bonus points
+AKBA-AA8T
+
+// 30 seconds per quarter
+GAHT-AAGA
+
+// 10 minutes per quarter
+AAHT-BAGA
+
+// 15 minutes per quarter
+AAHT-BLGA
+
+// Start Japan team with 200 bonus points instead of 60
+FJ2T-AYC2
+
+// Start all other teams with 200 bonus points instead of 50
+B22T-ATL2
+
+// Touchdowns worth 7 points
+A7XA-BE5L
+
+// Touchdowns worth 1 point
+AFXA-BE5L
+
+// Goals worth 7 points
+A7XA-BE42
+
+// Goals worth 3 points
+APXA-BE42
+
+// Infinite Time (Minutes)
+FFF532:0009
+
+// Infinite Time (Seconds)
+FFF532:0021
+
+// Team 1 Score Modifier (P1)
+FFF538:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FFF53A:0000
+
+// Unlocked Teams Mexico, Germany, Canada, France
+FFF422:0001
+
+// Unlocked Teams Mexico, Germany, Canada, France
+RE6A-A6X2
+
+// Wrestleball (Japan) Unlocked Team Kung Fu, Muaythay, Sumo, Martial
+RE6T-A6XR

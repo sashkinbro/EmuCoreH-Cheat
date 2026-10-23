@@ -1,0 +1,8 @@
+// Low Lap Timer (Seconds)
+00C3-6C00
+
+// Warp Speed Ahead, Cap'n!
+00C3-0B0F
+
+// Infinite Time (Red Timer)
+00C3-6299

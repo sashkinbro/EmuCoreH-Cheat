@@ -1,0 +1,9 @@
+// Speed Bursts
+00D3-1E85
+00D3-1F64
+
+// Time Stop
+00D5-0364
+
+// Invincibility
+00D5-05FF

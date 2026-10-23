@@ -1,0 +1,14 @@
+// Infinite Health
+00C2-03FF
+
+// Infinite Bullets
+00C0-4980
+
+// Infinite Bottles
+00C0-4807
+
+// Infinite Grenades
+00C0-4709
+
+// Start On Last Level
+00C0-3D06

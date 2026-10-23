@@ -1,0 +1,11 @@
+// Infinite Rings
+00D2-AA98
+
+// Infinite Lives
+00D2-4609
+
+// Be Turbo Sonic
+00D4-1105
+
+// Infinite Time
+00D2-CF00

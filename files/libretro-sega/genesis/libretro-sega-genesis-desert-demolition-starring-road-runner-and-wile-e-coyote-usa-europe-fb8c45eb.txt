@@ -1,0 +1,74 @@
+// Infinte Lives
+FF0016:0009
+
+// Infinte Energy
+FF0016:0020
+
+// Infinte Time
+FFBD80:0009
+
+// Infinite Time (Switch Off At The End of Level)
+AJCT-NA6R
+
+// ACME Flags Are Worth 2 Points (Instead of Only 1)
+HBWA-PJ0Y
+
+// ACME Flags Are Worth 5 Points (Instead of Only 1)
+HBWA-PY0Y
+
+// Clock Counts Down Slower
+S6CT-NAEL
+
+// Clock Counts Down Much Slower (Clock May Look Weird)
+S6CT-NAEL
+FJCT-NAE0
+
+// Clock Counts Down Faster
+EACT-NAEL
+
+// Infinite Health
+FF9098:0030
+
+// Infinite Health Coyote (Emu)
+FF0016:0030
+
+// Infinite Time
+FFBD82:0021
+
+// Have 999 White Acme Stamps
+FFBDCA:0009
+FFBDCA:0009
+FFBDCC:0009
+
+// Infinite Lightning Bolt Speed Items
+FF0018:0001
+
+// Infinite Health
+C44A-LA2N
+
+// Coyote walks much faster (much easier to catch the Roadrunner)
+BC5A-LAH4
+
+// Infinite Continue
+ATEA-LA86
+
+// Keep Acme Points After The Death
+AXNT-JA7G
+
+// Keep Turbo After The Death
+AX9T-LA76
+
+// Infinite Turbo
+AWTT-LA76
+
+// Freeze Time
+AJCT-NA6R
+
+// Infinite Health
+AW4A-LA2R
+
+// Infinite Lives
+AX9T-LA9A
+
+// Press A on Title Screen for Debug Menu
+REKA-L6Z2

@@ -1,0 +1,36 @@
+// Infinite Time
+00D2-5E99
+
+// Player 1 Infinite Health
+00D2-B138
+
+// Player 1 Won One Round
+00D2-B901
+
+// Play As Smoke
+00D3-5504
+
+// Play As Shao Khan
+00D3-5509
+
+// Acess Shao Kahn on Chatacter Select Screen
+04B-BE4-E66
+
+// Enable Smoke
+B65-B5E-3B4
+
+// P2 Never Wins
+00D2-BA00
+
+// Freeze P1's Animations
+00CE-7C2C
+00CF-0224
+
+// Infinite Credits
+00D2-F809
+
+// Press Left On Sub-Zero For Smoke
+C9B-B04-E69
+
+// Show Smoke Icon On Character Select Screen
+005-B7E-D52

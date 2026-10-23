@@ -1,0 +1,32 @@
+// Start On Scene 3
+031-20F-E6E
+
+// Start On Scene 5
+051-20F-E6E
+
+// Start On Scene 7
+071-20F-E6E
+
+// Start With 1 Life
+011-25F-E66
+
+// Start With 5 Lives
+051-25F-E66
+
+// Start With 9 Lives
+091-25F-E66
+
+// Start With 1 Heart
+011-2AF-F76
+
+// Start With 5 Heart
+051-2AF-F76
+
+// Start With 9 Heart
+091-2AF-F76
+
+// Collect 1 Token To Get Fire Extinguisher
+AFE-9CF-19E
+
+// Infinite Timer
+3A1-B1F-2A2

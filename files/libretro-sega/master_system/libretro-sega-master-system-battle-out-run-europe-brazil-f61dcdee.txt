@@ -1,0 +1,27 @@
+// Infinite Time
+00C1-9FFF
+
+// Infinite Time
+3AF-33E-2A2
+
+// Infinite Nitro
+3AF-4ED-2A2
+
+// Infinite Money
+2AD-979-6E2
+
+// Infinite Money
+00C2-E5FF
+00C2-E6FF
+
+// Infinite Nitro
+00C2-E820
+
+// Infinite Time
+3AF-17E-2A2
+
+// Freeze Timer
+00C1-9E00
+
+// Enable FM Audio
+00DE-0001

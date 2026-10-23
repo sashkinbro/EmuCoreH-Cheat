@@ -1,0 +1,73 @@
+// Start with 1 life instead of 3
+AHNA-JABE
+
+// Start with 5 lives
+A1NA-JABE
+
+// Start with 7 lives
+A9NA-JABE
+
+// Start with 9 lives
+BHNA-JABE
+
+// Start with 25 lives
+DHNA-JABE
+
+// Start with 50 lives
+GMNA-JABE
+
+// Start with 99 lives
+NSNA-JABE
+
+// Almost invincible
+EW7A-LA7C
+
+// Infinite time
+RGDA-N6WG
+
+// Infinite Energy
+AW7A-LA68
+AL7A-LA7N
+
+// Invincibility
+R07A-L6Y8
+R07A-L6ZN
+
+// one hit and your untouchble
+A1FA-LA9T
+
+// one hit and your untouchble (Flash)
+AHFA-LARY
+
+// Stage/Cutscene Modifier
+FFFD38:0000
+
+// Infinite Health
+FFFD62:0006
+
+// No Health Bosses
+FFFDAE:0000
+
+// Level Text Modifier
+FFFD3A:0000
+
+// 1 Shot Kill Bosses
+AA6T-NADY
+AD4A-RADG
+ADMT-RAAA
+ABPT-NAB8
+AA0T-NAGE
+
+// 1 Hit and One Shot Invincibility Flashing. See Note.
+FF2302:0010
+
+// 1 Hit and One Shot Invincibility Flashing. See Note.
+FF2302:0020
+
+// Invincibility (Disable Hit Detection)
+R06T-L604
+R07T-L6X6
+R03T-L606
+
+// Infinite Lives
+AL7A-LA7W

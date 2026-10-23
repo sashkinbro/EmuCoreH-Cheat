@@ -1,0 +1,26 @@
+// 1P Score Modifier (Both Versions - Pong &amp; Hockey Modes)
+FF0006:0000
+
+// Opponent Score Modifier (Both Versions - Pong &amp; Hockey Modes)
+FF0006:0000
+
+// Infinite Lives P1 (SEGA Version)
+FF375A:0007
+
+// Infinite Lives P1 (Original Version)
+FF0B46:0007
+
+// Always Have Missiles Available (Both Versions)
+FF01BA:0009
+
+// (Centipede) Invincibility
+RY8A-C6W4
+
+// (UltraPong) Player 1 Always 0 Wins
+AVZA-CA7L
+
+// (UltraPong) Player 2/CPU Always 0 Wins
+AVZA-CA9W
+
+// (Missile Command) Infinite Missile
+ALMA-AA6Y

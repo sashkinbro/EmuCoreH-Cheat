@@ -1,0 +1,54 @@
+// Infinite Energy
+AL6X-4A2G
+
+// Infinite Lives
+AM8D-0A58
+
+// Infinite Weapon [Gun]
+AXDD-2A9R
+
+// Infinite Energy P1
+FF00DA:00FD
+
+// Infinite Gun P1
+FFC242:0009
+
+// Infinite Energy P2
+FF01BE:00FD
+
+// Infinite Gun P2
+FFC262:0009
+
+// Infinite Lives
+FFA848:0009
+
+// Enable Level Select In Option Menu
+FFFE14:0001
+
+// Instead title START - RECORD
+RF6D-06Z6
+
+// Enable level select in Option menu
+AFXX-1A52
+
+// Walk/drive thru most trees, bushes, walls, rocks, etc
+REED-26XC
+
+// Start a new game with 5 of every weapon
+A0ZX-0ACE
+
+// Have all weapons and infinite ammo for them
+RGXD-46X0
+A1DD-3N66
+
+// Infinite health
+D5AX-2A3J
+
+// 1 shot kills most enemies
+PHAD-4EXY
+
+// Makes the Shotgun twice as strong
+RXAD-4ADN
+
+// Makes the Shotgun 5x as strong
+EMAD-4CDN

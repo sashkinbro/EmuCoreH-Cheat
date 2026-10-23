@@ -1,0 +1,46 @@
+// Invincibility
+MCWA-AA4R
+
+// Default difficulty is Hard
+AAWA-AAFT
+
+// Start with 9 Lives
+BEWT-AAF4
+
+// Infinite Lives
+AKRT-AA8T
+
+// Infinite Health
+AKXA-AA5R
+
+// Special Attacks dont reduce health
+AKWA-AA5A
+
+// Invincibility after hit
+AK8T-AA2W
+
+// Lives
+FFFE8A:0000
+
+// Health
+FFE050:0000
+
+// Invincibility
+FFE03E:0000
+
+// Invincibility
+RZWT-A6VG
+
+// Play The Japanese Game On USA System
+AJWA-AA7L
+
+// Infinite Health
+FFE050:0036
+FFE052:0036
+
+// Always Have Fan Weapon
+FFFE34:0001
+
+// Invincibility
+R0WA-A6WL
+R0VT-A60T

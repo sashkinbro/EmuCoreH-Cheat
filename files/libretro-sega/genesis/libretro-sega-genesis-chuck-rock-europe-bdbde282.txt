@@ -1,0 +1,28 @@
+// Hit enemies from anywhere with your belly (B button)
+AL4A-AA76
+
+// Hit enemies from anywhere when you throw a rock (large rocks only)
+RG5A-A6TL
+
+// Jump higher
+8MDA-B97G
+
+// Jump higher (moon jump)
+AC9A-AALT
+
+// Walk faster (when you're not carrying a rock)
+AR9A-AAC2
+ASDT-AADR
+
+// Walk normal speed when you're carrying a large rock (you won't slow down)
+AL9T-AAE8
+
+// Walk faster when you're carrying a large rock
+AR9T-AAE8
+
+// Rocks don't sink in lava/mud/tar, but will disappear after 20 seconds
+ADYA-AADN
+
+// Rocks don't sink in lava/mud/tar
+ADYA-AADN
+AMXT-AA4A

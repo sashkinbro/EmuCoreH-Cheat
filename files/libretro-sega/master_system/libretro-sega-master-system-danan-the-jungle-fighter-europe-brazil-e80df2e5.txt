@@ -1,0 +1,17 @@
+// Invulnerability
+00D4-2210
+
+// Infinite Time
+C94-E8D-3BE
+
+// Invincibility
+C99-8FB-2A2
+
+// Infinite Time
+00C7-D0FF
+
+// Infinite/Max Health
+00D4-38FF
+
+// Kills Modifier XX/YY (Bottom Right Values At Pause Screen)
+00C4-1100

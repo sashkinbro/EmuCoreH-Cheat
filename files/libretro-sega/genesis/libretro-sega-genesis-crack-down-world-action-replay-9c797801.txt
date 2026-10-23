@@ -1,0 +1,27 @@
+// Gives Ben Unlimited Machine Gun Bullets
+028210:6002
+
+// Gives Andy Unlimited Machine Gun Bullets
+0282CA:6002
+
+// Gives Ben Unlimited Cannon Shots
+0281F2:6002
+
+// Gives Andy Unlimited Cannon Shots
+0282AC:6002
+
+// Gives Ben Unlimited Super Bombs
+00584E:6004
+
+// Gives Andy Unlimited Super Bombs
+0057BC:6004
+
+// Combined Gives Ben Infinite Lives
+00D6E4:6004
+002086:6004
+
+// Combined Gives Andy Infinite Lives
+00D82C:6004
+
+// Infinite Time
+000D0A:6004

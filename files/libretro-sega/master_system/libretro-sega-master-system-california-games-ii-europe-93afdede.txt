@@ -1,0 +1,26 @@
+// Have Maximum 360 Aerials
+00C2-B0FF
+
+// Have Maximum Hand Plants
+00C2-B1FF
+
+// Have Maximum Ollies
+00C2-B3FF
+
+// Have Maximum Corkscrews
+00C2-B5FF
+
+// Have Maximum Board Slides
+00C2-B7FF
+
+// Have Maximum Obstacles Avoided
+00C2-B9FF
+
+// Have Maximum Loops
+00C2-B6FF
+
+// Have Maximum Water Bomb Bonus
+00C2-B8FF
+
+// Have Maximum 360 Turns
+00C2-B2FF

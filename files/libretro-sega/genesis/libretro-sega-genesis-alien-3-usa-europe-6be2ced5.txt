@@ -1,0 +1,206 @@
+// Game clock runs faster
+D2CT-CADY
+
+// Game clock runs slower
+SACT-CADY
+
+// Game clock runs much slower
+8ACT-CADY
+
+// Game clock frozen
+AACT-CA6J
+
+// Infinite ammo for machine gun
+AJNA-EA3R
+
+// Infinite fuel for flame-thrower
+AJMA-EA7C
+
+// Infinite ammo for grenade launcher
+AJJT-EA2J
+
+// Infinite hand grenades
+AJKA-EA88
+
+// Machine gun recharge pick-up reloads to capacity
+M42A-CAG0
+
+// Flame-thrower recharge pick-up reloads to capacity
+NC2A-CAHY
+
+// Grenade launcher recharge pick-up reloads to capacity
+NL2T-CAAW
+
+// Hand grenade recharge pick-up reloads to capacity
+NW2T-CABT
+
+// First-aid pick-up restores energy gauge to capacity
+RG2T-C6W4
+
+// Long falls do not reduce energy capacity
+AMDA-CA4J
+
+// Falls into turbine fans do not reduce energy
+ADEA-CAGJ
+
+// Never lose radar
+AJFT-AA66
+
+// Infinite lives
+A2EA-AA8R
+
+// Ripley jumps higher
+5DXA-D93N
+
+// Ripley jumps much higher
+YDXA-D93N
+
+// Machine gun capacity is 50 instead of 99
+LBRT-JAEJ
+
+// Flame-thrower capacity is 30 instead of 99
+GBRT-JAEL
+
+// Grenade launcher capacity is 20 instead of 99
+EBRT-JAEN
+
+// Hand grenade capacity is 30 instead of 99
+GBRT-JAER
+
+// Start at stage 2 instead of stage 1
+AJBT-AAEY
+
+// Start at stage 3
+ANBT-AAEY
+
+// Start at guardian level after stage 3
+ATBT-AAEY
+
+// Start at stage 4
+AYBT-AAEY
+
+// Start at stage 5
+A2BT-AAEY
+
+// Start at stage 6
+A6BT-AAEY
+
+// Start at guardian level after stage 6
+BABT-AAEY
+
+// Start at stage 7
+BEBT-AAEY
+
+// Start at stage 8
+BJBT-AAEY
+
+// Start at stage 9
+BNBT-AAEY
+
+// Start at guardian level after stage 9
+BTBT-AAEY
+
+// Start at stage 10
+BYBT-AAEY
+
+// Start at stage 11
+B2BT-AAEY
+
+// Start at stage 12
+B6BT-AAEY
+
+// Start at guardian level after stage 12
+CABT-AAEY
+
+// Start at stage 13
+CEBT-AAEY
+
+// Start at stage 14
+CJBT-AAEY
+
+// Start at stage 15
+CNBT-AAEY
+
+// Start at guardian level after stage 15
+CTBT-AAEY
+
+// Invincibility
+AJTT-CA54
+
+// Infinite Energy
+AL8A-CA8Y
+
+// Infinite Time
+RYCT-C6Z6
+
+// Infinite Lives
+FF090A:0003
+
+// Infinite Energy
+FF0880:0037
+
+// Infinite Time
+FF0866:0359
+
+// Infinite Fisrt Weapon
+FF0844:0099
+
+// Infinite Second Weapon
+FF0846:0099
+
+// Infinite Third Weapon
+FF0848:0099
+
+// Infinite Fourth Weapon
+FF084A:0099
+
+// Invincibility
+FF3370:0002
+
+// View Machine Gun Bullets
+RETT-C6X2
+
+// Larger Jumping Steps
+CATT-CADG
+
+// Jump Higher
+CTTT-CADL
+
+// Infinite Pulse Rifle Ammo
+FF0844:0099
+
+// Infinite Time
+FF0866:0060
+
+// Infinite Fuel
+FF0846:0099
+
+// Infinite Grenades
+FF0848:0099
+
+// Infinite Hand Grenades
+FF084A:0099
+
+// Invincible
+FF3370:0002
+
+// No Prisoners To Save I
+FF0808:0000
+
+// No Prisoners To Save II
+FF0810:0000
+
+// Untouchable
+RYVA-C6VL
+
+// Skip Levels In Game Pause Press C, A, B Start
+BJLT-CA66
+
+// Skip Levels In Game Pause Press C, A, B Start
+FF0916:0001
+
+// Aliens move slower
+AJTT-CA4Y
+
+// Aliens don't move
+AJTT-CA46

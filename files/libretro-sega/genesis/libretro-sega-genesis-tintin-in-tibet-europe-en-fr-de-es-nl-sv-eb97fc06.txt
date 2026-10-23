@@ -1,0 +1,28 @@
+// Regional Lockout Bypass
+AV7V-JN9G
+
+// Infinite Lives
+ATNV-EA6C
+
+// Infinite Energy
+AV2B-EA5J
+
+// Infinite Health (Ignore Scroll HUD)
+FF657C:0007
+
+// Infinite Lives
+FF657A:0009
+
+// Enable Main Debug In Game Press A+Start
+AJ3B-EA50
+
+// Invincibility
+RZ2B-E6T6
+RZWB-G6WY
+RZ2B-E6ZT
+
+// Infinite Energy Extra
+AK2B-EA9T
+
+// Infinite time
+AVCV-GA92

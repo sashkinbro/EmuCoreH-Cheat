@@ -1,0 +1,69 @@
+// Activates cheat menu
+RGHT-26T4
+A4GA-2A6C
+
+// Walk thru walls, obstacles, etc.
+DXWT-YA9Y
+
+// Start with 9 lives
+BGJT-YAD6
+
+// Infinite lives
+REXT-26ZR
+
+// Time-stall lasts twice as long
+GATT-2AFE
+
+// Time-stall lasts 4x as long
+DATT-2AFE
+
+// Time-stall recharges 4x as fast
+JTTT-2AEJ
+
+// Time-stall recharges 10x as fast
+ZJTT-2AEJ
+
+// Infinite energy
+ATXA-2A9T
+
+// Invincibility
+RHZA-Y60J
+
+// Enable Cheat Menu In Option
+FF0BD4:00FF
+
+// Don't fall when you walk off ledges (walk on air)
+EDMT-YA4R
+
+// Jump/float in mid-air
+RHHT-Y6TC
+
+// Adjustable jump height
+ADHT-Y6C6
+
+// Invincible
+FF374E:0010
+
+// Infinite Health
+FF4EFC:0005
+
+// Infinite Lives
+FF4F02:0005
+
+// 1Hit Kill Enemies And  Bosses
+FF108A:0000
+
+// 1 Kill And One Shot Special Obstacles
+FF15B2:00FF
+FF11F2:00FF
+
+// Enemies will automatically receive an electrical discharge
+PAET-0E1E
+
+// Invincibility. You can go through the bullets enemies and bosses
+RYBA-06ZT
+RYBT-061E
+RYNT-06TA
+
+// 1 hit and shot kill enemies and bosses special objects, etc.
+RHDA-Y6W8

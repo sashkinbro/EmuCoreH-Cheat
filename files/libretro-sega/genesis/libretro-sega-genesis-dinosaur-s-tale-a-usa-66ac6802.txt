@@ -1,0 +1,56 @@
+// Infinite Lives
+AKPT-AA68
+
+// Infinite Energy
+AKDA-AA6J
+
+// Invincibility
+AKLA-AA70
+AJWA-AA7C
+
+// Infinite Lives
+FFDD1C:0009
+
+// Infinite Energy (Sidescrolling Levels)
+FFA32C:0003
+
+// Infinite Energy (Flight Levels)
+FFD276:0003
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Walk Thru Walls
+MT1T-AA40
+
+// 1 Hit Invincibility
+FFA1EA:0010
+
+// Infinite Bubbles
+ALPA-AA8J
+ALPA-AA9L
+ALPT-AA2N
+ALPT-AA36
+ALPT-AA6E
+ALPT-AA5A
+
+// Infinite Energy Extra
+AMNT-NA52
+
+// Invincibility Extra
+R1NT-N6X0
+
+// Enable Level Select
+FFDD36:00FF
+
+// Enable Level Select
+RFNT-A61A
+
+// Jump In Mid-Air (Multi Jumps)
+RE2A-A6YT
+
+// Infinite Controllable Jump
+AA2A-AAD6

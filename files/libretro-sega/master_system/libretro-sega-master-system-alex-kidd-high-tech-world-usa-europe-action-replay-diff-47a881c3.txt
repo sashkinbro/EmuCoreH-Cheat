@@ -1,0 +1,23 @@
+// Fake Map Piece
+00C0-8209
+
+// Ladder
+00C0-8401
+
+// Restorer
+00C0-8501
+
+// Key
+00C0-8601
+
+// Pencil
+00C0-8701
+
+// Eraser
+00C0-8801
+
+// Cloth
+00C0-8901
+
+// Hang Glider
+00C0-8A01

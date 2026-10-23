@@ -1,0 +1,5 @@
+// P1's Shots Modifier
+00C5-B700
+
+// P1's Hits Modifier
+00C5-5100

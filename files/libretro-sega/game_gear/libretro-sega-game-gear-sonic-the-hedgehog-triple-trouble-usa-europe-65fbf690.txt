@@ -1,0 +1,146 @@
+// Infinite Rings
+00D1-5997
+
+// Infinite Lives
+00D1-4099
+
+// Infinite Time (Special Stages)
+00F-F8D-E6E
+
+// Level Select Enabled
+B6A-2AE-3B4
+
+// Infinite Time (Normal Stages)
+00F-88D-3B7
+
+// Enable 3D Stage On Main Menu
+041-49E-E66
+031-31E-E62
+
+// Infinite lives
+003-E0E-E6E
+
+// Start With 1 Life
+00A-E6E-E66
+
+// Start With 5 Lives
+04A-E6E-E66
+
+// Start With 15 Lives
+14A-E6E-E66
+
+// Start With 100 Lives
+99A-E6E-E66
+
+// Start high in the air on Act 1
+00A-AFE-5D4
+
+// Each ring worth 5
+053-AFC-E6E
+
+// Each ring worth 10
+0A3-AFC-E6E
+
+// Infinite rings
+3A8-E4C-2A2
+3A8-E7C-2A2
+
+// Finish the first part of an Act and warp to the next Act
+3E3-A4E-082
+023-A5E-F77
+003-A6E-A2D
+
+// Flash longer after getting hit
+998-FFC-08B
+
+// Get hit and stay invincible
+3A9-D5C-2A2
+
+// Start With No Continues
+00A-EBE-E6E
+
+// Start With 5 Continues
+05A-EBE-E6E
+
+// Start With 10 Continues
+0AA-EBE-E6E
+
+// Infinite continues
+3A5-60E-2A2
+
+// Jump In Midair
+00A-BDC-E69
+
+// Invincibility
+C98-A2C-C41
+C9C-884-6EA
+
+// Infinite Time Underwater
+00A-BC4-3BA
+
+// Infinite Lives
+00D1-4009
+
+// Start High In The Air On Act 1
+00A-EFE-5D4
+
+// Flash Less Time After Getting Hit
+008-FFC-08B
+
+// Invincible (Spikes Still Kill You)
+C37-F2C-E61
+
+// Infinite Rings
+00D1-5998
+
+// Infinite Time
+00D1-5D00
+
+// Character Modifier
+00D1-3F01
+
+// Invulnerability
+00D3-C220
+
+// Walk Into Enemies To Kill Them
+00D5-3205
+
+// Walk Thru Enemies
+C31-665-C41
+
+// Walk Thru Enemies (alt)
+3A1-6B5-2A2
+
+// Infinite Time
+C9F-7FD-E69
+
+// Don't Lose Rings When Hit
+008-D1C-A28
+
+// Don't Die When Hit With No Rings
+388-A4C-08E
+A58-A3C-E63
+
+// Zone Select after Player Select Screen
+00DC-9801
+
+// 3D Stage Highlighted on Title Screen
+00D1-6803
+
+// Infinite Time Underwater
+00D3-CE00
+
+// Zone Select
+18A-2BE-6EA
+
+// Infinite Flying Time (Tails)
+00D3-C709
+
+// Infinite Flying Time (Tails)
+002-775-4C6
+
+// Infinite Continues
+00D1-4B0A
+
+// Have all Chaos Emeralds
+00D1-7E06

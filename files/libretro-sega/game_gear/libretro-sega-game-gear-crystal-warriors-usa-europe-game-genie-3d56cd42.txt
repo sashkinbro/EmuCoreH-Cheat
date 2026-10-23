@@ -1,0 +1,14 @@
+// Iris Starts With 50 HP
+96D-335-6EA
+
+// Iris Starts With 50 MP
+96D-345-802
+
+// Iris Starts With 50 AP
+96D-355-A22
+
+// Iris Starts With 50 DP
+96D-365-C42
+
+// Iris Starts With 50 LK
+96D-375-C42

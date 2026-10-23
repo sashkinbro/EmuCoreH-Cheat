@@ -1,0 +1,5 @@
+// Infinite Lives
+00DD-EC03
+
+// Invisible
+00DE-1504

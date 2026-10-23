@@ -1,0 +1,477 @@
+// Player 1 Secret Character Enabler
+EV4W-H8FE
+
+// Player 1 is Carlton
+NZ4W-GAFA
+
+// Player 1 is Divita
+N34W-GAFA
+
+// Player 1 is Liptak
+N74W-GAFA
+
+// Player 1 is Turmell
+PB4W-GAFA
+
+// Player 1 is Goskie
+PF4W-GAFA
+
+// Player 1 is Rivett
+PK4W-GAFA
+
+// Player 1 is Kid Silk
+PV4W-GAFA
+
+// Player 1 is Kirby
+PZ4W-GAFA
+
+// Player 1 is Snake
+P34W-GAFA
+
+// Player 1 is Falcus
+P74W-GAFA
+
+// Player 1 is Muskett
+RB4W-GAFA
+
+// Player 1 is Hill
+RF4W-GAFA
+
+// Player 1 is Bird
+RK4W-GAFA
+
+// Player 1 is Blaze
+RP4W-GAFA
+
+// Player 1 is Benny
+RV4W-GAFA
+
+// Player 1 is Hugo
+RZ4W-GAFA
+
+// Player 1 is Crunch
+R34W-GAFA
+
+// Player 1 is Suns Gorilla
+R74W-GAFA
+
+// Infinite Food
+SB4W-GAFA
+
+// Player 1 is Charles
+SF4W-GAFA
+
+// Player 1 is Tyler
+SK4W-GAFA
+
+// Player 1 is Chow-Chow
+SP4W-GAFA
+
+// Player 1 is Brutah
+SV4W-GAFA
+
+// Player 1 is Weasel
+SZ4W-GAFA
+
+// Player 1 is Air Dog
+S34W-GAFA
+
+// Player 1 is Facime
+S74W-GAFA
+
+// Player 1 is Moon
+TB4W-GAFA
+
+// Player 1 is Kabuki
+TF4W-GAFA
+
+// Player 1 is Mckie
+TK4W-GAFA
+
+// Player 1 is Howard
+TP4W-GAFA
+
+// Player 1 is Chapman
+TV4W-GAFA
+
+// Player 1 is Murdock
+TZ4W-GAFA
+
+// Player 1 is West
+T34W-GAFA
+
+// Player 1 is Gilliam
+T74W-GAFA
+
+// Player 1 is Green
+VB4W-GAFA
+
+// Player 1 is Scott
+VF4W-GAFA
+
+// Player 1 is Malone
+VK4W-GAFA
+
+// Player 1 is Barros
+VP4W-GAFA
+
+// Player 1 is Strickland
+VV4W-GAFA
+
+// Player 1 is Green
+VZ4W-GAFA
+
+// Player 1 is Dumas
+V34W-GAFA
+
+// Player 1 is Montross
+V74W-GAFA
+
+// Player 1 is Kidd
+WB4W-GAFA
+
+// Player 1 is Rose
+WF4W-GAFA
+
+// Player 1 is Hill
+WK4W-GAFA
+
+// Player 1 is Rozier
+WP4W-GAFA
+
+// Player 1 is Reeves
+WV4W-GAFA
+
+// Player 1 is Robinson
+WZ4W-GAFA
+
+// Player 1 is Marshall
+W34W-GAFA
+
+// Player 1 is Wright
+W74W-GAFA
+
+// Player 1 is H.Clinton
+XB4W-GAFA
+
+// Player 1 is Heavy d
+XF4W-GAFA
+
+// Player 1 is Stud Muffin
+XK4W-GAFA
+
+// Player 1 is Moosekat
+XP4W-GAFA
+
+// Player 1 is Curley
+XV4W-GAFA
+
+// Player 1 is Jones
+XZ4W-GAFA
+
+// Player 1 is Mobley
+X34W-GAFA
+
+// Player 1 is Dare
+X74W-GAFA
+
+// Player 1 is Williams
+YB4W-GAFA
+
+// Player 1 is Thompson
+YF4W-GAFA
+
+// Player 1 is Person
+YK4W-GAFA
+
+// Player 1 is Jazzy Jeff
+YP4W-GAFA
+
+// Player 1 is Fresh Prince
+YV4W-GAFA
+
+// Player 1 is Thomas
+YZ4W-GAFA
+
+// Player 1 is Cunningham
+Y34W-GAFA
+
+// Player 1 is Mike d
+Y74W-GAFA
+
+// Player 1 is Adrock
+ZB4W-GAFA
+
+// Player 1 is Mca
+ZF4W-GAFA
+
+// P2 secret Character Enabler
+E34W-H8FN
+
+// Player 2 is Carlton
+NZ4W-GAFJ
+
+// Player 2 is Divita
+N34W-GAFJ
+
+// Player 2 is Liptak
+N74W-GAFJ
+
+// Player 2 is Turmell
+PB4W-GAFJ
+
+// Player 2 is Goskie
+PF4W-GAFJ
+
+// Player 2 is Rivett
+PK4W-GAFJ
+
+// Player 2 is Kid Silk
+PV4W-GAFJ
+
+// Player 2 is Kirby
+PZ4W-GAFJ
+
+// Player 2 is Snake
+P34W-GAFJ
+
+// Player 2 is Falcus
+P74W-GAFJ
+
+// Player 2 is Muskett
+RB4W-GAFJ
+
+// Player 2 is Hill
+RF4W-GAFJ
+
+// Player 2 is Bird
+RK4W-GAFJ
+
+// Player 2 is Blaze
+RP4W-GAFJ
+
+// Player 2 is Benny
+RV4W-GAFJ
+
+// Player 2 is Hugo
+RZ4W-GAFJ
+
+// Player 2 is Crunch
+R34W-GAFJ
+
+// Player 2 is Suns Gorilla
+R74W-GAFJ
+
+// Player 2 is B.Clinton
+SB4W-GAFJ
+
+// Player 2 is Charles
+SF4W-GAFJ
+
+// Player 2 is Tyler
+SK4W-GAFJ
+
+// Player 2 is Chow-Chow
+SP4W-GAFJ
+
+// Player 2 is Brutah
+SV4W-GAFJ
+
+// Player 2 is Weasel
+SZ4W-GAFJ
+
+// Player 2 is Air Dog
+S34W-GAFJ
+
+// Player 2 is Facime
+S74W-GAFJ
+
+// Player 2 is Moon
+TB4W-GAFJ
+
+// Player 2 is Kabuki
+TF4W-GAFJ
+
+// Max Charisma
+TK4W-GAFJ
+
+// Player 2 is Howard
+TP4W-GAFJ
+
+// Player 2 is Chapman
+TV4W-GAFJ
+
+// Player 2 is Murdock
+TZ4W-GAFJ
+
+// Player 2 is West
+T34W-GAFJ
+
+// Player 2 is Gilliam
+T74W-GAFJ
+
+// Player 2 is Green
+VB4W-GAFJ
+
+// Player 2 is Scott
+VF4W-GAFJ
+
+// Player 2 is Malone
+VK4W-GAFJ
+
+// Player 2 is Barros
+VP4W-GAFJ
+
+// Player 2 is Strickland
+VV4W-GAFJ
+
+// Player 2 is Green
+VZ4W-GAFJ
+
+// Player 2 is Dumas
+V34W-GAFJ
+
+// Player 2 is Montross
+V74W-GAFJ
+
+// Player 2 is Kidd
+WB4W-GAFJ
+
+// Player 2 is Rose
+WF4W-GAFJ
+
+// Player 2 is Hill
+WK4W-GAFJ
+
+// Player 2 is Rozier
+WP4W-GAFJ
+
+// Player 2 is Reeves
+WV4W-GAFJ
+
+// Player 2 is Robinson
+WZ4W-GAFJ
+
+// Player 2 is Marshall
+W34W-GAFJ
+
+// Player 2 is Wright
+W74W-GAFJ
+
+// Player 2 is H.Clinton
+XB4W-GAFJ
+
+// Player 2 is Heavy d
+XF4W-GAFJ
+
+// Player 2 is Stud Muffin
+XK4W-GAFJ
+
+// Player 2 is Moosekat
+XP4W-GAFJ
+
+// Player 2 is Curley
+XV4W-GAFJ
+
+// Player 2 is Jones
+XZ4W-GAFJ
+
+// Player 2 is Mobley
+X34W-GAFJ
+
+// Player 2 is Dare
+X74W-GAFJ
+
+// Infinite Lives
+YB4W-GAFJ
+
+// Player 2 is Thompson
+YF4W-GAFJ
+
+// Player 2 is Person
+YK4W-GAFJ
+
+// Player 2 is Jazzy Jeff
+YP4W-GAFJ
+
+// Player 2 is Fresh Prince
+YV4W-GAFJ
+
+// Player 2 is Thomas
+YZ4W-GAFJ
+
+// Player 2 is Cunningham
+Y34W-GAFJ
+
+// Player 2 is Mike d
+Y74W-GAFJ
+
+// Player 2 is Adrock
+ZB4W-GAFJ
+
+// Player 2 is Mca
+ZF4W-GAFJ
+
+// 5 Minutes To Play
+AYBW-CAE2
+
+// 7 Minutes To Play
+A6BW-CAE2
+
+// 9 Minutes To Play
+BEBW-CAE2
+
+// Infinite Shot Clock
+AX7W-EA50
+
+// Hot Spots Off
+AD3W-AAG0
+
+// Power Ups Off
+AD3W-AAG8
+
+// Juice Mode x1
+AE9W-LAE6
+
+// Juice Mode x2
+AJ9W-LAE6
+
+// Juice Mode x3
+AN9W-LAE6
+
+// Enable Extended Roster
+S75C-MA7L
+
+// Infinite Time
+AKRC-YA5A
+
+// Infinite Energy
+AT4W-2A6W
+
+// Infinite Time Scoreclock
+FF28B6:0009
+FF28B8:0028
+
+// Infinite Turbo P1
+FF44A6:0020
+
+// Infinite Shot Clock
+FF28DC:0009
+
+// Infinite Time Scoreclock
+FF28B8:0028
+
+// Infinite Time
+FF04AC:0046
+
+// Infinite Health
+FF2B46:0099
+
+// Infinite Blue/Red Ball Weapon
+FF3168:0063
+
+// Infinite Black/Yellow Weapon
+FF3170:0063
+
+// Infinite Black/Red Weapon
+FF3172:0063

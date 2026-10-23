@@ -1,0 +1,20 @@
+// Have Maximum Lifebar
+00DA-BA04
+
+// Invincible
+00DB-3EFF
+
+// Infinite Flight Meter
+00DA-B714
+
+// Stop Timer
+00DA-BD2F
+
+// Invulnerability
+001-82D-7F4
+
+// Infinite Lives
+00DB-0809
+
+// Infinite Health
+00DA-B902

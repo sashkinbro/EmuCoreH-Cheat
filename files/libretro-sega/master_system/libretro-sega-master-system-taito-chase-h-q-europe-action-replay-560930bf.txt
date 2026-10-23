@@ -1,0 +1,8 @@
+// Infinite Turbo's
+00C2-8203
+
+// Infinite Time
+00C2-3836
+
+// Full Damage To Victim's Car (Hit Him Once When You Catch Him And He Dies)
+00C2-5380

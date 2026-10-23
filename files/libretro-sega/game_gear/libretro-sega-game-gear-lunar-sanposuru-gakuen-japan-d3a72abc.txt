@@ -1,0 +1,168 @@
+// Debug Menu
+00C1-6605
+
+// Character 1 Max HP
+00C4-26FF
+
+// Character 1 Max MP
+00C4-28FF
+
+// Character 1 Quick Level Up
+00C4-30FF
+
+// Character 2 Max HP
+00C4-66FF
+
+// Character 2 Max MP
+00C4-68FF
+
+// Character 2 Quick Level Up
+00C4-70FF
+
+// Character 3 Max HP
+00C4-A6FF
+
+// Character 3 Max MP
+00C4-A8FF
+
+// Character 3 Quick Level Up
+00C4-B0FF
+
+// Red-Haired Hero Life Modifier
+00C4-2600
+
+// Split Red-Haired Girl's Image Into Half
+00C3-4304
+
+// Item Slot 01
+00C2-2000
+
+// Item Slot 02
+00C2-2100
+
+// Item Slot 03
+00C2-2200
+
+// Item Slot 04
+00C2-2300
+
+// Item Slot 05
+00C2-2400
+
+// Item Slot 06
+00C2-2500
+
+// Item Slot 07
+00C2-2600
+
+// Item Slot 08
+00C2-2700
+
+// Item Slot 09
+00C2-2800
+
+// Item Slot 10
+00C2-2900
+
+// Item Slot 11
+00C2-2A00
+
+// Item Slot 12
+00C2-2B00
+
+// Item Slot 13
+00C2-2C00
+
+// Item Slot 14
+00C2-2D00
+
+// Item Slot 15
+00C2-2E00
+
+// Item Slot 16
+00C2-2F00
+
+// Item Slot 17
+00C2-3000
+
+// Item Slot 18
+00C2-3100
+
+// Item Slot 19
+00C2-3200
+
+// Item Slot 20
+00C2-3300
+
+// Item Slot 21
+00C2-3400
+
+// Item Slot 22
+00C2-3500
+
+// Item Slot 23
+00C2-3600
+
+// Item Slot 24
+00C2-3700
+
+// Item Slot 25
+00C2-3800
+
+// Item Slot 26
+00C2-3900
+
+// Item Slot 27
+00C2-3A00
+
+// Item Slot 28
+00C2-3B00
+
+// Item Slot 29
+00C2-3C00
+
+// Item Slot 30
+00C2-3D00
+
+// Item Slot 31
+00C2-3E00
+
+// Item Slot 32
+00C2-3F00
+
+// Start With ?? Item
+005-94E-91E
+
+// Infinite Money
+0000-0000
+0000-0000
+0000-0000
+
+// Item Gained When You Drop The Item In Slot 1
+003-F8C-E6A
+
+// Access Debug Options
+00C1-6411
+
+// Infinite HP - All Characters
+6E5-54A-3BF
+665-57A-3BB
+
+// Infinite MP - All Characters
+6ED-F6F-3BF
+66D-F9F-3BB
+
+// Infinite Items
+003-E6C-3B2
+
+// Walk Anywhere
+000-85C-E6E
+
+// No Random Battles
+00A-8ED-19E
+
+// Infinite Money
+2A5-82C-6EE
+
+// No Random Battles
+00C1-7D05

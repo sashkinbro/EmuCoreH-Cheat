@@ -1,0 +1,5 @@
+// Unlimited Bombs
+FFFF20:0400
+
+// Unlimited Health
+FF147C:001F

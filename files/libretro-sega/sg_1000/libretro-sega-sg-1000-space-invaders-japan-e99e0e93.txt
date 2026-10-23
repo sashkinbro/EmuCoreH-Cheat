@@ -1,0 +1,8 @@
+// Invincibility
+C96-65E-809
+
+// Infinite Lives - Both Players
+00C0-C203
+
+// Infinite Lives - Both Players
+3A6-B7E-2A2

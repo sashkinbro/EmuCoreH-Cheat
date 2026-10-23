@@ -1,0 +1,11 @@
+// Infinite Credits (Continues)
+00CC-0409
+
+// Infinite Lives
+00CE-0103
+
+// Invincibility (Flashing)
+00CE-D8FF
+
+// Always Have Missiles
+00CE-0B01

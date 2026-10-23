@@ -1,0 +1,53 @@
+// Infinite Hearts (Lives)
+00C3-2D04
+
+// Sound Screwer
+00C3-D204
+
+// Have Attic Key
+00C3-1101
+
+// Have Tree Key
+00C3-1301
+
+// Have House key
+00C3-1401
+
+// Have Umbrella
+00C3-1601
+
+// Have Bucket
+00C3-1701
+
+// Grandma Rescued
+00C3-1901
+
+// Thing Enabled
+00C3-1A01
+
+// Thing Always Active
+00C3-1C09
+
+// Have Snorkel
+00C3-1D01
+
+// Morticia Rescued
+00C3-1F01
+
+// Have Blue Egg
+00C3-2001
+
+// Pugsley Rescued
+00C3-2201
+
+// Lurch Rescued
+00C3-2301
+
+// Have Fog
+00C3-2A01
+
+// Have Bone
+00C3-2B01
+
+// Umbrella Always Active
+00C3-2F01

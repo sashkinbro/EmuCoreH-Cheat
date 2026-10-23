@@ -1,0 +1,17 @@
+// Infinite Health
+00CC-8C0F
+
+// Infinite Zenny
+00CD-50FF
+00CD-51FF
+
+// Always Have Life Potion
+00CC-E001
+
+// Always Have Armor
+00CC-D101
+00CC-D205
+
+// Faster Rate of Fire
+00CC-9200
+00CC-9300

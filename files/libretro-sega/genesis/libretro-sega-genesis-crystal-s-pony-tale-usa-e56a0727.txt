@@ -1,0 +1,30 @@
+// Horseshoe Modifier
+FF0208:0000
+
+// Yellow Key Modifier
+FF0208:0000
+
+// Pony Body Colour
+FF0004:0000
+
+// Pony Hair Colour
+FF0004:0000
+
+// Pony Hair Colour Modifier Mixer
+FF0244:000C
+
+// Pony Tail Colour Modifier
+FF0006:0000
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Infinite Horseshoes
+AXJA-AA20
+AXTA-AA9C
+
+// Infinite Keys
+AVVA-AA46

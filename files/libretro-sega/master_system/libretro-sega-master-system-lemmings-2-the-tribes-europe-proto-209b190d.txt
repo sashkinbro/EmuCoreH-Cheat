@@ -1,0 +1,42 @@
+// Infinite use of all types of lemmings
+00E-D24-3BE
+
+// Infinite Time
+00C-C7F-3BA
+
+// Infinite Slot 1 Lemmings
+00C4-B563
+
+// Infinite Slot 2 Lemmings
+00C4-B663
+
+// Infinite Slot 3 Lemmings
+00C4-B763
+
+// Infinite Slot 4 Lemmings
+00C4-B863
+
+// Infinite Slot 5 Lemmings
+00C4-B963
+
+// Infinite Slot 6 Lemmings
+00C4-BA63
+
+// Infinite Slot 7 Lemmings
+00C4-BB63
+
+// Infinite Slot 8 Lemmings
+00C4-BC63
+
+// Freeze Timer
+00C5-0B00
+
+// Always have 8 Lemmings to Save
+00C5-2A08
+
+// Always have 100% Lemmings Saved
+00C5-2B08
+
+// Always have 8 Lemmings to Save
+3E4-18C-7F1
+084-19C-D56

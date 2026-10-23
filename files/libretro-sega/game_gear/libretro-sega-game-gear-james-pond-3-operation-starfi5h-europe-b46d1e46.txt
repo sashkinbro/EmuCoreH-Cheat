@@ -1,0 +1,55 @@
+// Invulnerability
+00D0-3102
+
+// Invulnerability
+C9D-00B-E69
+
+// Infinite Health
+00D0-4606
+
+// Infinite Lives
+00D0-4509
+
+// Infinite (999) Moons (1UP every moon collected)
+00D1-B409
+00D1-B599
+
+// Infinite (998) Moons
+00D1-B409
+00D1-B598
+
+// Infinite Health
+003-F8F-19E
+
+// Infinite Lives
+001-CDF-E6E
+
+// Enable all Levels on Map
+00D0-33FF
+
+// Enable Invincibility Cheat
+00D0-30FF
+
+// Disable Invincibility Cheat
+00D0-3000
+
+// Enable Infinite Lives Cheat
+00D0-32FF
+
+// Disable Infinite Lives Cheat
+00D0-3200
+
+// Start with ?? Health Units, instead of 3
+04E-F2E-E66
+
+// Start with ?? Lives, instead of 3
+049-D38-E66
+
+// Enable all Levels on Map
+18A-F39-6EA
+
+// Enable Invincibility Cheat
+67C-FDB-19B
+
+// Enable Infinite Lives Cheat
+181-C7F-6EA

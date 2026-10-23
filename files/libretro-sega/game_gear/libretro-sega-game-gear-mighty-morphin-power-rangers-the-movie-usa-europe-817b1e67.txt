@@ -1,0 +1,37 @@
+// Player Modifier
+00C9-2200
+
+// Enemy Modifier
+00C9-A200
+
+// View The Ending
+00C5-1505
+
+// Stage Select
+00C8-0A00
+
+// Enable Extra Options
+00C4-B101
+
+// Infinite Health
+00C8-2488
+00C9-3988
+
+// Infinite Credits
+00C5-1909
+
+// Infinite Energy
+00C9-39F0
+
+// Access The Check Option (Debug) Menu
+3C9-38D-19E
+
+// Extra Option Menu Unlocked (Main Menu)
+000-9ED-F72
+000-C5D-E66
+
+// Gain Full Health Upon Enemy Death
+009-5CB-E62
+
+// Infinite Credits
+3A0-DF7-2A2

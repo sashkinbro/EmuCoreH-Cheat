@@ -1,0 +1,14 @@
+// Start On Round
+00C1-3401
+
+// Always Have Shot
+00C1-3500
+
+// Always Have Bomb
+00C1-3600
+
+// Always Have Max Speed
+00C1-4103
+
+// Always Have Forcefield
+00C1-4201

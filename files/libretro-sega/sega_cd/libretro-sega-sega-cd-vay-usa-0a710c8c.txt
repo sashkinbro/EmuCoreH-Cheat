@@ -1,0 +1,29 @@
+// Sandor EXP
+FFF06C:9800
+FFF06E:7F96
+
+// Lots of Gold
+FFEFEA:FFFF
+
+// Sandor HP
+FFEFEE:E703
+FFF006:E703
+
+// Sandor MP
+FFF01E:E703
+FFF036:E703
+
+// Sandor STR
+FFF084:E703
+
+// Sandor AGL
+FFF090:E703
+
+// Sandor LCK
+FFF09C:E703
+
+// Sandor ATK
+FFF0B4:E703
+
+// Sandor DEF
+FFF0C0:E703

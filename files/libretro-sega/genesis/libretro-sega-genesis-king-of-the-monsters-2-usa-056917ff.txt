@@ -1,0 +1,64 @@
+// You can control an enemy using 2nd joystick.
+ALRT-EAHC
+
+// 0 HP for enemy.
+8CPT-F954
+
+// Infinite Energy
+2YPT-BGL0
+96PT-AAC2
+WJPT-AWC4
+LAPT-BY4L
+
+// Character Highlighter P1
+FF0912:0000
+
+// Character Modifier P1
+FF051E:0000
+
+// Character Modifier P2
+FF0522:0000
+
+// Stage Modifier
+FF0526:0000
+
+// Infinite Time
+FF060E:0063
+
+// Infinite Health P1
+FF0992:0080
+
+// Fake Infinite Health P1
+FF0990:0080
+
+// 1 Hit Kills P2
+FF0B12:0000
+
+// Fake Infinite Health P2
+FF0B10:0000
+
+// Always Have 2 Rounds P1
+FF0530:0000
+
+// Rounds Won By P2 Modifier
+FF0532:0000
+
+// Infinite Credits
+AKPA-EA52
+
+// Freeze Time Continue
+AVNA-EA2W
+
+// Enable Debug Mode Selection on Main Menu
+CATA-AA76
+BYTA-AAE2
+
+// Enable Watch Mode Selection on Main Menu
+CATT-AA3E
+
+// Enable Debug Mode and Watch Mode Selections on Main Menu
+9WBT-CGLT
+AGBT-CACW
+AGBT-CACY
+98BT-CAC0
+B4BT-D942

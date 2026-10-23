@@ -1,0 +1,29 @@
+// Infinite Time
+00D9-2FB0
+
+// Infinite Lives
+00D9-2363
+
+// Infinite Health
+00D9-2404
+
+// Start With Full Health
+04E-AED-E66
+
+// Infinite Health
+00C-866-19E
+
+// Start With 9 Lives
+09E-8DD-E66
+
+// Infinite Lives
+006-A2C-19E
+
+// Infinite Time
+00D-926-E6E
+
+// Enable Practice Mode (Act Select) after Intro
+18E-1AD-6EA
+
+// Enable Practice Mode (Act Select) after Intro
+00D8-9A01

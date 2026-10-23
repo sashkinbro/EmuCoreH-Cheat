@@ -1,0 +1,20 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Untouchable
+RZAA-E6XY
+
+// Infinite Health
+AKAA-EA60
+
+// Infinite Lives
+AKRT-CA7W
+
+// Freeze Time
+ATCA-CA8A
+
+// Enabled World and Level Select in Pause. See Note
+AK0A-CA3J

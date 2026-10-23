@@ -1,0 +1,142 @@
+// Infinite Health &amp; Air
+00DB-3901
+
+// Swim Thru Walls
+00DB-3801
+
+// Infinite air
+366-8C6-5DD
+3E6-8E6-D56
+
+// Jumping out of the water sets your energy to half
+109-CF6-6E6
+
+// Infinite energy
+21D-3C7-6E2
+
+// Most fish dont give you energy
+006-9FB-C4A
+
+// Start On Vents Of Medusa
+014-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Maze Of Stone
+024-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Sea Of Darkness
+034-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On DDD Swimming
+044-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Skyway
+054-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Tube of Medusa
+064-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On DDD Swimming #2
+074-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Getaway
+084-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Asterite Cave
+094-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On The Eye
+0A4-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Deep Ridge
+0B4-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Sea of Birds
+0C4-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Convergence
+0D4-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On DDD Swimming #3
+0E4-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Vortex Future
+0F4-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Globe Holder
+104-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Convergence #2
+114-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On DDD Swimming #4
+124-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On New Machine
+134-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Vortex Queen
+144-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Semi-Ending Part 1
+154-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Semi-Ending Part 2
+164-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Start On Atlantis
+174-20B-C4A
+884-22B-2A2
+004-27B-3BA
+
+// Swim Thru Walls
+008-826-D52
+
+// Invulnerability
+18D-2D7-6EA
+
+// Debug Menu
+015-725-C4A

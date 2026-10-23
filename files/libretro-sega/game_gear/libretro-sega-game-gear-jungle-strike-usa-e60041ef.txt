@@ -1,0 +1,74 @@
+// Infinite Lives
+00CF-5909
+
+// Infinite Armor
+00CF-5499
+00CF-5599
+
+// Infinite Fuel
+00CF-5A99
+00CF-5B09
+
+// Infinite Hellfires/Mines
+00CF-5009
+
+// Infinite Hydras
+00CF-5199
+
+// Infinite Guns
+00CF-5299
+00CF-5399
+
+// Infinite Load
+00CF-5C00
+
+// Infinite Lives
+00B-5CD-3BE
+
+// Infinite Guns
+00E-50D-E6E
+
+// Infinite Hydras
+00D-D8D-E6E
+
+// Infinite Armor
+7EE-459-3B7
+7EE-4A9-3B7
+
+// Infinite Fuel
+7E7-1BC-3B7
+7E7-23C-3B7
+
+// Infinite Hellfires
+3AE-52D-2A2
+
+// Infinite Hydras
+3AD-DAD-2A2
+
+// Infinite Guns
+4BD-77D-E67
+
+// Start with ?? Lives, instead of 3
+042-0CF-E66
+
+// Start with and have a capacity of ?? Armor, instead of 1000
+157-5EC-A2A
+15B-93D-A2A
+
+// Start with and have a capacity of ?? Fuel, instead of 100
+027-64C-E6E
+
+// Start with and have a capacity of ?? Hellfires/Mines, instead of 9
+05E-609-C4E
+
+// Start with and have a capacity of ?? Hydras, instead of 60
+70E-659-6EB
+
+// Start with and have a capacity of ?? Guns, instead of 1000
+15E-5B9-A2A
+
+// Campaign Select
+00C1-1E00
+
+// Copilot Select
+00CF-5E00

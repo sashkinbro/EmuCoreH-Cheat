@@ -1,0 +1,5 @@
+// Invincibility (after dying)
+3A5-9CD-2A2
+
+// Infinite Lives
+3A7-9DD-2A2

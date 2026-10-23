@@ -1,0 +1,49 @@
+// Infinite Lives
+D6RT-AACY
+
+// Invincibility
+E0CA-AAAN
+
+// Money Never Goes Down
+ALCT-CA26
+
+// Power Meter Charges Special Weapons Always At Maximum
+ALKT-AA2G
+
+// Invincibility. You can go through special objects which must be destroyed
+R1ST-A6VW
+R0CA-A6TA
+
+// 1 Shot Kill All Bosses
+BDWT-AA7G
+
+// 1 Shot Kill Special Objects
+A5VT-AA7E
+
+// Keep Big Wings Jet Engine Turbo Engine Rocket Engine After The Death
+ATNT-AA7T
+
+// Keep Special Weapons After The Death And Round To Rund
+AJNT-AA7N
+ATNT-AA70
+
+// Infinite Special
+AXJA-AA8G
+AXJT-AA3W
+AXJT-AA8G
+AXKA-AA36
+AXKT-AA2C
+AXKT-AA6A
+AXJA-AA42
+
+// Keep Shield After The Death
+ATNT-AA3A
+
+// Keep Rubber Boots After The Death
+ATNA-AA9L
+
+// Infinite Gold
+ALCT-CA26
+
+// Cheat mode is always active when game is paused
+BVPT-CA4J

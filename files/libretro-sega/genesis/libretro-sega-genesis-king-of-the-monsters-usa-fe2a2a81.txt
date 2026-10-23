@@ -1,0 +1,28 @@
+// Infinite Energy
+SERA-DE0N
+96RA-CAGR
+G2RA-D0RT
+
+// Infinite Energy P1
+FF3B36:003C
+
+// Infinite Energy P2
+FF3D36:003C
+
+// No Energy P1
+FF3B36:0000
+
+// No Energy P2
+FF3D36:0000
+
+// Character Highlighter P1
+FF1528:0000
+
+// Character Highlighter P2
+FF152C:0000
+
+// Level Highlighter
+FF15F8:0000
+
+// P1 Is Frozen In-Place
+FF3B2A:00A2

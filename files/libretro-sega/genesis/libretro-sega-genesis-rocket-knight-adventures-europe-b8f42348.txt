@@ -1,0 +1,13 @@
+// Regional Lockout Bypass Code
+A2BT-AA7N
+
+// Start With More Energy
+P6FA-AAHJ
+P7LT-AAEW
+
+// Start With MUCH More Energy
+76FA-AAHJ
+77LT-AAEW
+
+// Enabled Very Hard And Crazy Hard In Options
+DBPT-AA9T

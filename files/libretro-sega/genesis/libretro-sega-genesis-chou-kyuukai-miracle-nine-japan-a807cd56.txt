@@ -1,0 +1,17 @@
+// Strikes Modifier
+FFF062:0000
+
+// Outs Modifier
+FFF060:0000
+
+// Balls Modifier
+FFF062:0000
+
+// Score Modifier (Left Side)
+FFEDEE:0000
+
+// Score Modifier (Right Side)
+FFEF22:0000
+
+// Regional Lockout Bypass
+A2BT-AA3J

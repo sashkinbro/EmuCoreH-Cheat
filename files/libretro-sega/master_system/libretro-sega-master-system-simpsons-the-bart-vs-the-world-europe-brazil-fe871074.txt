@@ -1,0 +1,36 @@
+// Infinite Tries At The Cards Matching Game
+00D2-2801
+
+// Invulnerability
+00D0-00F1
+
+// Invulnerability
+C91-23E-6E2
+
+// Invincibility
+C91-34E-2A2
+
+// Infinite Energy
+3A1-34E-2A2
+3A0-D35-2A2
+
+// Infinite Lives
+3A1-43E-2A2
+
+// Infinite Red Balls
+3AD-0CF-2A2
+
+// Get 50 Red Balls a Bag
+32F-8EF-C42
+
+// Infinite Tries Card Game
+3A2-C6A-2A2
+
+// Infinite Lives
+00D2-A109
+
+// Infinite Red Balls
+00D0-BC99
+
+// Infinite Hits
+00D2-A204

@@ -1,0 +1,73 @@
+// Unlimited Men
+FF027C:0002
+
+// Infinite Lives
+FF027C:0000
+
+// Infinite Health
+FF027C:0000
+
+// Infinite Ammo Shotgun
+FF005A:0000
+
+// Infinite Ammo Riffle
+FF005C:0000
+
+// Infinite Ammo Two Cannon Shotgun
+FF005E:0000
+
+// Infinite Ammo Predator Disc
+FF0060:0000
+
+// Infinite Ammo Predator Spear
+FF0062:0000
+
+// Infinite Ammo Predator Net
+FF0064:0000
+
+// Infinite Ammo Bomb
+FF0066:0000
+
+// Infinite Hostages
+FF3384:0000
+
+// Infinite Lives
+AKDA-AA66
+
+// Infinite Health
+AKGT-AA8C
+
+// Infinite Shotgun and Riffle Ammo
+RFFA-A6VC
+
+// Infinite Two Cannon Shotgun Ammo
+RFFA-A6X8
+
+// Infinite Predator Disc
+RFFA-A6Z2
+
+// Infinite Predator Spear, Predator Net and Bombs
+RFFA-A61L
+
+// Infinite Hostages
+AKBT-AA3L
+
+// Predator Never Tries To Kill You
+AKJT-AA6C
+
+// Predator Can't Reach Hostages
+AK8A-AA20
+AK7T-AA94
+
+// Predator Can't Reach You
+AK9A-AA5E
+AK9A-AA3W
+
+// Start With 9 Lives
+ABDA-ATEC
+
+// Invincibility
+BVGA-AA26
+
+// Level Modifier
+FF0F58:0000

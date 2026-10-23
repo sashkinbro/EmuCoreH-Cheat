@@ -1,0 +1,8 @@
+// Infinite Hits
+00DC-4205
+
+// Infinite Stars (Second HUD At Bottom Left of Screen)
+00DC-4309
+
+// Infinite Stars [Lives] (First HUD At Bottom Left of Screen)
+00DC-4109

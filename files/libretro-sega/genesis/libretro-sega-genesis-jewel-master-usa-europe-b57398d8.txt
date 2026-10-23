@@ -1,0 +1,68 @@
+// Untouchable
+AA4T-DAEL
+
+// One hit for enemies and bosses
+AA5T-DAJY
+
+// Infinite Energy
+SA4T-DE1A
+
+// Start A New Game With The Strongest (Level 3) Flame Ring And The Strongest (Level 3) Barrier Ring
+AECT-ACA0
+6ACT-AKT2
+
+// Infinite Continues
+AJZA-AA8W
+
+// Start With 9 Continues
+BFJA-AADG
+
+// Have All 12 Rings (Read Note!)
+FFC4DA:0101
+FFC4DC:0101
+FFC4DE:0101
+FFC4E0:0101
+FFC4E2:0101
+
+// Invincibility
+FFC5EC:001F
+
+// Makes The Level 1 Flame Ring Stronger
+FFC4C4:0003
+
+// Invulnerability (Walk Thru Enemies)
+AA4T-CR64
+
+// Slide Through Walls Left to Right
+FFE2AE:0080
+
+// High Jump
+FFE2D4:0000
+
+// Freeze Time Continue
+AJZT-AA8R
+
+// Freeze Time Continue
+FFC630:0009
+
+// Controllable Jump
+AKWA-AA9T
+
+// Have All 12 Rings
+RFNT-A6ZE
+ALFT-AA86
+
+// Selecting Start will take you to a level select screen
+CAMT-AAFJ
+
+// Walk thru walls
+B26A-CA5C
+
+// Always have the double jump ability, even without the ring
+RFZT-A60A
+
+// Jump in mid-air as many times as you want (infinite multi-jump)
+A3ZT-AA8A
+
+// 1 hit kills enemies and bosses
+BJ5T-CA32

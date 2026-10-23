@@ -1,0 +1,90 @@
+// Start with 2 fighters
+AECA-AAH8
+
+// Start with 7 fighters
+A2CA-AAH8
+
+// Start with 10 fighters
+BECA-AAH8
+
+// Infinite fighters
+A3AT-AA7R
+
+// Start with 2 credits instead of 7
+AECA-AAF8
+
+// Start with 5 credits
+ATCA-AAF8
+
+// Start with 13 credits
+BTCA-AAF8
+
+// Infinite credits
+A2FT-AA8C
+
+// Keep special weapon power when you lose a fighter
+AKAT-AA8R
+
+// Start with all special weapons available
+9TCA-BGSR
+D6CA-AAHT
+96CA-AAHW
+
+// Never get special weapons ability
+AKAA-AA6W
+
+// Infinite Lives
+AVAT-AA7R
+
+// Invincibility
+RZAT-A6Y0
+
+// Invincibility Shield
+RZAT-A6YW
+
+// invincibility
+RZAT-A6YG
+
+// infinite lives
+RZAT-A6Y6
+
+// one hit and your untouchable
+RZAT-A6Y2
+
+// when the game starts push B to go to the next level
+AZKT-AACN
+
+// Enemies Die With One Hit
+AZBT-AADY
+
+// Infinite Ships P1
+FFF2B4:0009
+
+// Shield
+FFA802:0001
+
+// Claws
+FFA802:0001
+
+// Control Pad selector
+FFF342:0000
+
+// no flashing
+AAMA-AAPE
+
+// you can still move when you lose a life
+AAMA-AA2G
+AAMA-AAZT
+
+// Haides music plays at the title screen and Ellis music plays at the stage select screen and Orn Core plays when the game is over
+AKKA-AA20
+
+// no enemies
+AF5A-AAAN
+
+// Turbo controller
+AVFA-AAZY
+
+// Invincibility (Disable Hit Detection)
+RY9T-A6W0
+RZAT-A6XA

@@ -1,0 +1,20 @@
+// Infinite Rings
+FFFE20:00C8
+
+// Infinite Lives
+FFFE12:0009
+
+// Infinite Continues
+FFFE18:0009
+
+// Only Need 1 Blue Sphere For Chaos Emerald
+FFE438:0001
+
+// Invincible (Only Tested On Sonic & Knuckles With Sonic 2)
+FFB02A:0002
+
+// Stage Select (Press A + Start)
+FFFFE0:0001
+
+// Infinite Time
+FFFE24:0005

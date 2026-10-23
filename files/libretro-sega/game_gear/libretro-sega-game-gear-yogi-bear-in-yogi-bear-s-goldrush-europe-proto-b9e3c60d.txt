@@ -1,0 +1,35 @@
+// Invulnerability
+00C4-70FF
+
+// Invulnerability
+C98-68D-E69
+
+// Infinite Lives
+00C4-6F09
+
+// Max Basket &quot;One's&quot; Digit
+00C4-BD09
+
+// Max Basket &quot;Ten's&quot; Digit
+00C4-BC09
+
+// Detach Some of Yogi/Boo Boo's Head
+00C0-005A
+
+// Detach Yogi/Boo Boo's Head
+00C0-044D
+
+// Detach Yogi/Boo Boo's Rear
+00C0-0867
+
+// Detach Yogi/Boo Boo's Front (Jump To See This)
+00C0-0C67
+
+// Can't Jump/Semi-Walk Through Walls
+00C1-01D0
+
+// Infinite Lives
+003-FBD-19E
+
+// Level Select
+BF4-12A-088

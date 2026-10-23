@@ -1,0 +1,206 @@
+// Start With $95,000 Pheelae (Instead of Only $5,000)
+BE9T-AAEL
+
+// Start With $255,000 Pheelae (Instead of Only $5,000)
+EY9T-AAEL
+
+// Infinite Energy!
+AVRA-AA8R
+
+// Take Twice As Much Damage Before You Die
+0VKA-AAHA
+
+// Take Three Times As Much Damage Before You Die
+9KKA-AAHA
+
+// Start Most Battles With More Time (120 Seconds Instead of Only 90 Seconds)
+EBEA-ACEW
+
+// Start Most Battles With More Time (150 Seconds Instead of Only 90 Seconds)
+LBEA-ACEW
+
+// Start Most Qualifying Rounds With More Time (90 Seconds Instead of Only 60 Seconds)
+WDAA-AAGJ
+
+// Start Most Qualifying Rounds With More Time (120 Seconds Instead of Only 60 Seconds)
+EDAA-ACGJ
+
+// Homing Missiles Are Cheaper
+ADWT-CADW
+
+// The Time Bonus After A Fight Is Increase 5 Times
+ABWT-ALET
+
+// Receive For Pheelae In Qualifying Round
+FC7T-AAA0
+
+// No Brick Walls
+AWXT-CA4J
+
+// Receive More Hit Bonus Points After A fight
+ABWT-BTWT
+
+// Infinite Time During Fights
+ABVA-AA8R
+
+// Infinite Time In The Qualifying Rounds
+GC8T-AAA0
+
+// Everytime You Go To The Shop, You'll Have 80,000 Pheelae
+AWET-AAAA
+
+// Machine Guns
+ADWA-CAH0
+
+// Energy Rings
+ADWT-CAAW
+
+// Missles
+ADWT-CADG
+
+// Slomo Clouds
+ADWT-CAC2
+
+// Laser Guns
+ADWT-CAAE
+
+// Skimmers
+ADWT-CABA
+
+// Grenades
+ADWT-CABR
+
+// Lob Grenades
+ADWT-CAB6
+
+// Homing Missiles
+ADWT-CADY
+
+// Machine Guns
+ADWT-CAAA
+
+// Laser Guns
+ADWT-CAAR
+
+// Energy Rings
+ADWT-CAA6
+
+// Skimmers
+ADWT-CABL
+
+// Lob Mines
+ADWT-CACY
+
+// Slomo Clouds
+ADWT-CADC
+
+// Missiles
+ADWT-CADT
+
+// Homing Missiles
+ADWT-CAD8
+
+// Machine Guns
+NDWT-CAHL
+
+// Laser Guns
+NDWT-CAH2
+
+// Energy Rings
+NDXA-CAAG
+
+// Missiles
+NDXA-CAAY
+
+// Homing Missiles
+NDXA-CABC
+
+// Grenades
+NDXA-CABT
+
+// Lob Grenades
+NDXA-CAB8
+
+// Lob Mines
+NDXA-CACN
+
+// Slomo Clouds
+NDXA-CAC4
+
+// Skimmers
+NDXA-CADJ
+
+// Missiles
+ADXA-CAA0
+
+// Homing Missiles
+ADXA-CABE
+
+// Grenades
+ADXA-CABW
+
+// Lob Grenades
+ADXA-CACA
+
+// Lob Mines
+ADXA-CACR
+
+// Slomo Clouds
+ADXA-CAC6
+
+// 2nd Fight
+AJ9T-AADG
+
+// 3rd Fight
+AT9T-AADG
+
+// 4th Fight
+A29T-AADG
+
+// 5th Fight
+BA9T-AADG
+
+// 6th Fight
+BJ9T-AADG
+
+// 7th Fight
+BT9T-AADG
+
+// 8th Fight
+B29T-AADG
+
+// 9th Fight
+CA9T-AADG
+
+// 9,164 Missiles
+AKEA-AALL
+
+// 7,720 Skimmers
+AKEA-AAW4
+
+// 7,720 Machine Gun Bullets
+AKEA-AAWW
+
+// Sound Test Modifier (Options)
+FF1388:0000
+
+// Qualifying Music (Options)
+FFFF00:0000
+
+// Timer always 99
+FFFF2E:0099
+
+// Left Weapon Always Has 99 Ammo
+FF268C:0099
+
+// Center Weapon Always has 99 Ammo
+FF26AE:0099
+
+// Right Weapon Ammo Always has 99 Ammo
+FF26D0:0099
+
+// Infinite ammo (all 3 weapons)
+A5HA-AA76
+
+// Don't get charged for weapons or repairs
+RGKT-A6X8

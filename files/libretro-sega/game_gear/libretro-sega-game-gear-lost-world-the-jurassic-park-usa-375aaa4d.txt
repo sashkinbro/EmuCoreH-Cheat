@@ -1,0 +1,14 @@
+// Infinite Health
+00D9-0805
+
+// Invulnerability
+00C4-1580
+
+// Infinite Health
+009-FCB-A2C
+
+// Invulnerability After Taking Damage
+4EA-46B-A27
+
+// Stage Select
+C31-3EB-C41

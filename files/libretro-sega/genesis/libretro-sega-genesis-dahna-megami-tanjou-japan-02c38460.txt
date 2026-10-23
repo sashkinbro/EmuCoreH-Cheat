@@ -1,0 +1,25 @@
+// Infinite Energy
+ACHA-AN44
+C4HT-AN3L
+
+// Infinite HP
+FF055A:0008
+FF6B44:0008
+
+// Full Magic Meter
+FF0562:0016
+
+// Always High Jump
+FF0C6A:0001
+
+// Stage Modifier
+FF056A:0000
+
+// Infinite H.P
+ALHT-AA3T
+
+// Infinite Magic
+AKMA-CA3A
+
+// Infinite Continue
+AJ4T-AA4E

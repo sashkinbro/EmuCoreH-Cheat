@@ -1,0 +1,2 @@
+// Fix Infinite Loop that prevents the game from booting
+RE9A-A6T8

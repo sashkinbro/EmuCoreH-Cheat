@@ -1,0 +1,122 @@
+// Invincibility
+AJ5T-EJDW
+
+// Infinite lives
+DDBA-AA6A
+
+// Start with 0 lives
+AAZA-AAFR
+
+// Start with 1 lives
+AEZA-AAFR
+
+// Start with 4 lives
+ATZA-AAFR
+
+// Start with 9 lives
+BEZA-AAFR
+
+// Almost invincible
+AT8T-EA4Y
+AT8T-EA5A
+
+// Start with almost no health
+CACT-AAA2
+
+// Start with 25% health
+JACT-AAA2
+
+// Start with 50% health
+TACT-AAA2
+
+// Start with 75% health
+2ACT-AAA2
+
+// Beating heart is worth nothing
+ADCA-AAG8
+
+// Beating heart is 1/2x normal
+GDCA-AAG8
+
+// Beating heart is 2x normal
+2DCA-AAG8
+
+// Beating heart is full health
+ADCA-ACG8
+
+// Orbs worth nothing
+AXCA-AA3R
+
+// Orbs worth 2x normal
+HHCA-BJVR
+
+// Orbs worth 3x normal
+HHCA-BNVR
+
+// Orbs worth 4x normal
+HHCA-BTVR
+
+// Start with 25% power
+AE2A-AACY
+CT2A-AAC6
+
+// Start with 50% power
+AJ2A-AACY
+FA2A-AAC6
+
+// Start with 75% power
+AN2A-AACY
+HT2A-AAC6
+
+// Start with 100% power
+AT2A-AACY
+LA2A-AAC6
+
+// Power does not decrease when you are mutated
+AW5T-AA5G
+
+// Power is not lost when you are mutated and you clear the room of enemies
+B45A-AA8C
+B5ET-AA2L
+
+// Clock does not run
+C4XT-EA7W
+
+// Your Attacks Make Extreme Damage
+HWAA-DAC4
+3CAA-CAC6
+
+// Your Throws Make Extreme Damage
+HWMA-DAFG
+3CMA-CAFJ
+
+// Ghost Can'T Move
+A2ST-CA8J
+
+// Infinite Lives
+FF00B4:0300
+
+// Infinite Health
+FF00B2:0100
+
+// Infinite Time
+FF00B6:0168
+
+// Infinite Power
+FF00BA:0050
+FF00BC:0901
+
+// Untouchable
+RY5T-E6ZG
+
+// Infinite Life/Energy
+AT8T-EA4Y
+
+// Clock runs 20% slower
+KCXT-EAF4
+
+// Clock runs 50% slower
+MLXT-EAF4
+
+// Clock runs twice as slow
+SCXT-EAF4

@@ -1,0 +1,8 @@
+// Infinite Energy
+FFDF6C:0034
+
+// Infinite Energy P2
+FFE06C:0032
+
+// Infinite Time In Level 6
+FF88E2:0060

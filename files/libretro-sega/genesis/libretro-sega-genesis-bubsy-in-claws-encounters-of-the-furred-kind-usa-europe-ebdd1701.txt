@@ -1,0 +1,120 @@
+// Start with 3 lives
+AJXT-AAA2
+
+// Start with 66 lives
+KEXT-AAA4
+
+// Infinite lives
+RERT-86V4
+
+// Infinite time
+ADTA-6AAC
+
+// Each yarn ball worth 2
+AL9V-CAAY
+
+// Each yarn ball worth 5
+A09V-CAAY
+
+// Each yarn ball worth 10
+BL9V-CAAY
+
+// Each yarn crate holds 32
+GK3B-CAHC
+
+// Each yarn crate holds 51
+KP3B-CAHC
+
+// Each yarn crate holds 99
+XF3B-CAHC
+
+// Start on chapter 2
+AELT-AAAC
+
+// Start on chapter 3
+AJLT-AAAC
+
+// Start on chapter 4
+ANLT-AAAC
+
+// Start on chapter 5
+ATLT-AAAC
+
+// Start on chapter 6
+AYLT-AAAC
+
+// Start on chapter 7
+A2LT-AAAC
+
+// Start on chapter 8
+BALT-AAAC
+
+// Start on chapter 9
+BJLT-AAAC
+
+// Start on chapter 10
+BTLT-AAAC
+
+// Start on chapter 11
+BYLT-AAAC
+
+// Start on chapter 12
+B2LT-AAAC
+
+// Start on chapter 13
+B6LT-AAAC
+
+// Start on chapter 14
+CALT-AAAC
+
+// Start on chapter 15
+CELT-AAAC
+
+// Start on chapter 16
+CJLT-AAAC
+
+// Invincibility
+AM8V-GA5C
+
+// No Enemies
+AM7V-GA2J
+
+// Infinite Lives
+ATRT-8A36
+
+// Infinite Time
+AXTA-6A2G
+
+// Infinite Time
+FF00E8:0059
+
+// Infinite Lives
+FF023A:0009
+
+// Invincibility Shield
+AM3A-6A4R
+
+// Jump In Midair
+1H7A-66XN
+D97A-6ADR
+AD7A-7B5T
+HH2B-8EAA
+TD2B-9LTC
+992B-8AAE
+LM2B-8AAG
+BM2B-8R2J
+9X2B-9GAL
+9H2B-9LTN
+992B-8AAR
+DX2B-8AAT
+R12B-86TW
+2D2B-9GJY
+992B-8AA0
+DX2B-8AA2
+R12B-86T4
+
+// Chapter Modifier
+FF0248:0000
+
+// Invincibility
+FF0092:0010

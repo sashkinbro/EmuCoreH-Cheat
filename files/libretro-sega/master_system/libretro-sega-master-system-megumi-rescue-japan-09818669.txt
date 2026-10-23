@@ -1,0 +1,36 @@
+// Infinite Health
+3A5-42B-2A2
+
+// Infinite Lives
+00E-DBC-3BE
+
+// Always have the Longer Bounce Mat
+C38-41C-E61
+B88-B6C-084
+A48-A2C-A2A
+388-A3C-08E
+1C9-1AC-916
+FC8-FAC-195
+679-65C-4C3
+00D-8DC-F7E
+
+// Start with ?? Lives, instead of 3
+05D-2A9-E66
+
+// Start on Stage ??
+3E5-BBE-D5D
+005-BDE-F7E
+325-BEE-082
+015-BCE-D5B
+
+// Infinite Health
+00C0-59FF
+
+// Infinite Lives
+00C0-5709
+
+// Have the Longer Bounce Mat
+00C0-7901
+
+// Stage Modifier
+00C0-4800

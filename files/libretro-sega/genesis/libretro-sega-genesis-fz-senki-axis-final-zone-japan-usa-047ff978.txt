@@ -1,0 +1,57 @@
+// Infinite Energy
+9VHA-BCPE
+97HA-AAFG
+ZBHA-AKFJ
+
+// Infinite Energy
+AMMA-AA7L
+
+// Infinite Ammo
+ALXT-AA40
+
+// Infinite Energy
+FFE430:000E
+
+// Infinite Ammo
+FFE3C8:0063
+
+// Destroy one enemy to advance to next level.
+RZAT-C6XW
+
+// Don't lose weapons from damage.
+AXMA-AA74
+
+// Only have to destroy half as many enemies to advance to next level (2 subtracted for every 1 that you destroy).
+SF5T-DLZ2
+
+// 8 enemies subtracted for every 1 that you destroy.
+SF5T-DCZ2
+
+// Infinite Energy
+FFE430:000F
+
+// No Enemies
+FF9EEC:0000
+
+// Infinite Energy (Alt.)
+VXMA-BRPC
+
+// Infinite Special Weapon
+ALXT-AA40
+ALYA-AA2W
+ALYA-AA6N
+ALZA-AA4T
+
+// Enable Stage Select in Config Menu
+FFFFD6:00FF
+
+// Enabled Cheat Code Map Stage Select In Config
+AKBT-AA7T
+RFAT-A6XR
+AKAT-AA7Y
+
+// Enabled Cheat Code Infinite Health. See Note
+FFFFD4:00FF
+
+// Enabled Cheat Code Infinite Health. See Note
+RHMA-A6YW

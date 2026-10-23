@@ -1,0 +1,24 @@
+// Infinite game time
+009-D3B-E6E
+
+// Timer counts by 2
+029-D3B-E6E
+
+// Each period is 2 minutes long
+02E-40F-A2A
+
+// Each period is 1 minute long
+01E-40F-A2A
+
+// Each period is 99 minute long
+99E-40F-A2A
+
+// No scoring
+00F-BE8-19A
+
+// Always 1st period
+00F-2E8-B39
+010-53A-F7A
+
+// Team 2 Never Scores
+00D3-E400

@@ -1,0 +1,228 @@
+// Barbarian is invincible against falls, if he attacks just before landing
+E4NT-AA5T
+
+// Mage  is invincible against falls, if he doesn't attack just before landing
+E4TA-AA54
+
+// Mage  is invincible against falls, if he attacks just before landing
+E4TT-AA5R
+
+// Dangerous surfaces don't decrease your HP
+AKYT-AA3G
+
+// Swamp gas doesn't decrease your HP
+AVYT-AA5J
+
+// Enemies don't decrease your HP
+AK1T-AA6W
+
+// Dangerous items don't decrease your HP
+AK3A-AA42
+
+// Amazon's HP doesn't decrease when falling, if she doesn't attack just before landing
+AWHT-AA6W
+
+// Invincible against dangerous surfaces
+K3YA-AA9J
+
+// Invincible against swamp gas
+GVYT-AA4E
+
+// Invincible against enemies
+AB1A-AA88
+
+// Invincible against dangerous items
+AB2T-AA66
+
+// Amazon is invincible against falls, if she doesn't attack just before landing.
+E4HT-AA6J
+
+// Amazon is invincible against falls, if she attacks just before landing
+E4JA-AA5Y
+
+// Barbarian is invincible against falls, if he doesn't attack just before landing
+E4NA-AA6L
+
+// Female Character Has High Jump [Only Works When You Have Full Health]
+AB8T-PAK6
+
+// Female Character Has High Jump Most Of The Time
+AB8T-PAK6
+ACKA-BAN8
+
+// Female Character Has Super High Jump [Only Works When You Have Full Health]
+AB8T-PAB6
+
+// Female Character Has Super High Jump Most Of The Time
+AB8T-PAB6
+ACKA-BAE8
+
+// Female Character Has High Jump All The Time
+AB8T-PAK6
+ACKA-BAN8
+ACJA-BALL
+ACJA-BAML
+
+// Female Character Has Super High Jump All The Time
+AB8T-PAB6
+ACKA-BAE8
+ACJA-BACL
+ACJA-BADL
+
+// Super Low Gravity
+LBGT-AAB0
+
+// Start With 9 Lives
+BF8A-AACR
+
+// Infinite Lives
+AJ2A-AA56
+
+// Take No Damage From Lava, Spikes, And Most &quot;Fire&quot; Type Enemies
+ABYT-AABJ
+
+// Almost Complete Invincibility
+PBHT-BEV2
+
+// Don't Get Charged For Items (Invisibility, Healing, Etc]
+RGZA-A6XC
+
+// All Items Are Free, Even If You Don't Have Enough Silver
+RGZA-A6XC
+RGZA-A6WC
+
+// When You Use A Force Field, It Will Last For The For The Entire Game [Unless You Activate Something Else Or Lose A Life]
+ALDT-AA4E
+
+// When You Use Invisibility, It Will Last For The Entire Game [Unless You Activate Something Else Or Lose A Life]
+ALDT-AA3T
+
+// Amazon's HP doesn't decrease when falling, if she attacks just before landing
+AWJA-AA58
+
+// Barbarian's HP doesn't decrease when falling, if he doesn't attack just before landing
+AWNA-AA6Y
+
+// Barbarian's HP doesn't decrease when falling, if he attacks just before landing
+AWNT-AA54
+
+// Mage's HP doesn't decrease when falling, if he doesn't attack just before landing
+AWTA-AA6E
+
+// Mage's HP doesn't decrease when falling, if he attacks just before landing
+AWTT-AA52
+
+// One hit [not shot] kills an enemy and its form
+FV1A-AEVC
+
+// One shot [not hit] kills an enemy and its form
+FV2A-AE10
+
+// Get or use an item, and you'll get 99 of it
+NN8T-BE7N
+
+// 'Blast' affects all characters [including your heroes and bosses]
+RGBT-A61W
+
+// Silence
+ANGA-EAF4
+
+// Level 6 Common music And the title screen music [Changes nothing]
+ANGA-ECF4
+
+// Level 4 Common music
+ANGA-EEF4
+
+// Levels 2, 7 Common music
+ANGA-EGF4
+
+// Level 1 Boss music
+ANGA-EJF4
+
+// Levels 2, 7 Boss music
+ANGA-ELF4
+
+// Level 1 Common music
+ANGA-ENF4
+
+// Level 8 Common music
+ANGA-ERF4
+
+// Character select music
+ANGA-ETF4
+
+// Game over music
+ANGA-EWF4
+
+// Levels 3, 5 Common music
+ANGA-EYF4
+
+// Victory music
+ANGA-E0F4
+
+// Level 4 Boss music
+ANGA-E2F4
+
+// Levels 3, 5 Boss music
+ANGA-E4F4
+
+// Level 8 Boss music
+ANGA-E6F4
+
+// Extra continue music
+ANGA-E8F4
+
+// Prelude music
+ANGA-FAF4
+
+// Shop music
+ANGA-FCF4
+
+// Unlimited Lives For Player 1
+FFF46E:0009
+
+// Unlimited Lives For Player 2
+FFF4CC:0009
+
+// Invincibility
+FF9B56:0039
+
+// Infinite Keys
+FFEB4A:0063
+
+// Infinite Midas Rings
+FFEB4C:0063
+
+// Infinite Silver P1/P2
+ALZA-AA5E
+
+// Infinite Energy P1/P2
+AK1T-AA6W
+AWHT-AA6W
+AKYT-AA3G
+AVYT-AA5J
+AK3A-AA42
+AWNA-AA6Y
+AWTA-AA6E
+
+// Invincibility P1/P2
+RZ1A-A608
+R0HT-A6YW
+R0JA-A6X8
+RZYA-A61E
+RZ2T-A6Y6
+RZYT-A6W0
+R0NA-A6YY
+R0NT-A6X4
+R0TA-A6YE
+R0TT-A6X2
+
+// Infinite Items P1/P2
+AJ8T-AA6T
+AJ8T-AA7T
+
+// Keep Power Of Weapon After The Death
+ALEA-AA5T
+
+// 1 Use Blast Kill Some Enemies In Game
+ACBT-AAHY

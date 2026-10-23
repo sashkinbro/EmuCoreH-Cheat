@@ -1,0 +1,37 @@
+// Infinite Energy
+ALKT-AA5C
+
+// Infinite Time
+ATJT-AA9N
+
+// Double Speed
+939T-B98N
+ALAA-AAAW
+
+// Invincibility
+ALYT-AA48
+ALKT-AA5C
+
+// Easy Bosses
+FFE7BC:0000
+
+// Infinite Health
+FFFE0C:0040
+
+// Powered Up
+FFFE0E:00FF
+
+// Infinite Time
+FFFE14:0050
+
+// Infinite Health
+ALKT-AA5E
+
+// Infinite Time
+REJT-A616
+
+// More Power
+GJXA-AAGN
+
+// Invincibility
+R0YT-A6TY

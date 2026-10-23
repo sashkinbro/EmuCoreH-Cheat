@@ -1,0 +1,41 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Jump On Any Height
+ACMV-YADG
+
+// Invincibility
+R1WV-Y6T4
+
+// Infinite Lives
+RGJB-Y608
+
+// Infinite Energy
+ATCB-0A30
+
+// Infinite Apples
+ATBV-0A6J
+
+// Infinite Continue
+ATFB-0A32
+
+// Picking up an apple kills all enemies on screen
+GJRT-BM8A
+
+// Picking up an apple refills some of your health
+F2RT-A98A
+
+// Infinite apples
+ATBV-0A6G
+
+// Access the Debug menu by pressing A in the Option menu
+D2GB-0A58
+
+// Enables free movement mode
+ACRV-YA74
+
+// Some enemies attack themselves when they get close to you
+AMXV-YA82

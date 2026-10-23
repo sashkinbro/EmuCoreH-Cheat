@@ -1,0 +1,46 @@
+// Infinite Energy
+00DA-7E03
+
+// Infinite Lives
+00DA-7D03
+
+// Infinite Continues
+00DA-7C03
+
+// Invincible
+00DA-C303
+
+// Invulnerability
+00E-CAD-19B
+
+// Invincibility (after being hit)
+2AE-D0D-6E2
+
+// Infinite Health against Enemies
+B6F-3EB-3BE
+
+// Infinite Health against Spikes
+00E-BEC-3BE
+
+// Infinite Lives
+00F-8CB-3BE
+
+// Infinite Continues
+005-87F-3BE
+
+// Start with 4 Health Bars, instead of 3
+045-7AF-E66
+046-E3F-E66
+
+// Start with 5 Health Bars
+055-7AF-E66
+056-E3F-E66
+
+// Start with ?? Lives, instead of 3
+045-75F-E66
+
+// Invulnerable To Spikes
+18E-B4C-6EA
+
+// Invulnerable To Enemies
+C3E-92B-E61

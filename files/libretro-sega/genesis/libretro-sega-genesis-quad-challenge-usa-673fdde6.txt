@@ -1,0 +1,78 @@
+// Set time to 90 for Atlanta and New York instead of 75 and 80
+ML3T-FYVJ
+
+// Set time to 65 for Atlanta and New York
+JG3T-ECVJ
+
+// Set time to 95 for Santa Fe and Miami instead of 80 and 75
+M83T-F8VL
+
+// Set time to 70 for Santa Fe and Miami
+J43T-ENVL
+
+// Set time to 95 for Grand Canyon and Denver instead of 80 and 85
+M83T-F8VN
+
+// Set time to 70 for Grand Canyon and Denver
+J43T-ENVN
+
+// Set time to 95 for Detroit and Death Valley instead of 70 and 85
+M83T-F8VR
+
+// Set time to 70 for Detroit and Death Valley
+J43T-ENVR
+
+// Set time for Honolulu to 90 instead of 75
+L03T-FYVT
+
+// Set time for Honolulu to 65
+L03T-ECVT
+
+// Infinite time (player 1)
+A5NT-AA9E
+
+// Infinite time (player 2)
+A5PA-AA4W
+
+// Set time to 95 for all tracks
+HT9A-DARJ
+M69A-CAGL
+
+// Set time to 65 for all tracks
+HT9A-DARJ
+JE9A-CAGL
+
+// Accelerate faster (player 1)
+HT7T-BEJL
+NA7T-ACAN
+
+// Accelerate faster (player 2)
+HT7T-BESG
+NA7T-ACHJ
+
+// Vehicle Modifier P1
+FF0302:0000
+
+// Infinite Timer P1
+FF0316:0063
+
+// Infinite Timer P2
+FF0316:0063
+
+// Always Have Great Acceleration P1
+FF0304:009C
+
+// Always Have Great Acceleration P2
+FF0306:009C
+
+// Lap Modifier P1
+FF0270:0000
+
+// Lap Modifier P2
+FF0272:0000
+
+// Have Ultra Acceleration P1
+FF0224:0000
+
+// Have Ultra Acceleration P2
+FF0226:0000

@@ -1,0 +1,20 @@
+// Infinite Balls
+00CF-4D09
+
+// Time Doesn't Run Out
+00CA-EF09
+
+// Infinite Time
+007-70E-4C6
+
+// Infinite Balls
+00C-F7A-19E
+
+// Access Stage Select under Time Trial on Main Menu
+004-79D-19E
+
+// Infinite Time
+3A7-53E-2A2
+
+// Freeze Timer
+00CA-F400

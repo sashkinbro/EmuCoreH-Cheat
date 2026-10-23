@@ -1,0 +1,54 @@
+// Infinite Lives
+AXPT-AA52
+
+// Infinite Energy
+AXPA-AA3T
+
+// Infinite Health
+FFCB70:0063
+
+// Infinite Lives
+FFCB50:0009
+
+// Infinite Secondary Attack
+FFCB56:0009
+
+// Infinite Continues
+FFFF86:0009
+
+// Enabled Cheat Code Round Select Levels In Options
+ABDA-EA56
+AKDT-EA7E
+
+// Invincibility
+R1SA-A6VL
+
+// Infinite Bombs
+AVBA-CA56
+
+// Infinite Vital Extra
+AXPA-AA9E
+
+// Infinite Credit
+AWKT-CA6Y
+
+// Enabled Cheat Code Round Select Levels In Options
+FFE1A2:0001
+
+// Strengthening Weapons Up to level 20. On controller 2 Press Button B
+AJCT-AA5E
+
+// Strengthening Weapons Up to level 20. On controller 2 Press Button B
+FFE3EE:00FF
+
+// Enable Start with 99 Lives Cheat
+AKET-EA8E
+
+// Enable Start with 99 Bombs Cheat
+AC2A-EA2R
+
+// Enable Start with 99 Lives Cheat
+FFE3F0:FFFF
+
+// Blink ?? longer after being hit
+HXPA-AACL

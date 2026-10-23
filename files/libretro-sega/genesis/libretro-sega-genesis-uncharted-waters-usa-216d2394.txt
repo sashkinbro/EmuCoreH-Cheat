@@ -1,0 +1,15 @@
+// Infinite Bonus Points
+FFEDC2:003F
+
+// Infinite Gold
+FF1782:00FF
+
+// Max/Infinite Gold
+FF1782:00FF
+FF1782:00FF
+
+// Men Transferred To Ship Modifier
+FF1DE4:0000
+
+// Buying Items Increases Your Money
+1HVT-HDVA

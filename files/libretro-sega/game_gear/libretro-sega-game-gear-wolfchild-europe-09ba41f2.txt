@@ -1,0 +1,29 @@
+// Infinite Health
+00C1-0107
+
+// Invulnerability
+00C1-0C2F
+
+// Almost Invincibility
+B60-D4F-3B4
+
+// Infinite Lives
+00C1-0009
+
+// Infinite Health
+00C1-0109
+
+// Invulnerable To Flames
+C97-D7F-E69
+
+// Invulnerable To Bullets
+182-F9E-6EA
+
+// Start A New Game With Max Health
+0C2-8FC-F76
+
+// Infinite Lives
+0000-0000
+
+// Stage Select
+00C0-FF04

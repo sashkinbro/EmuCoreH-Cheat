@@ -1,0 +1,136 @@
+// One hit kill for enemys
+AVVA-AAEG
+
+// Hard mode
+MBGA-AAYR
+
+// Can't be hurt
+D6WA-AAGT
+
+// Get hurt to change and flash for a sec
+SE1A-AATE
+
+// Get hurt and you flash for a sec
+RE1A-AATE
+
+// Infinite lives
+FT1T-AA5L
+
+// Start with 1 life
+BWXA-ACCT
+
+// Start with 5 lives
+BWXA-ALCT
+
+// Protection against enemy hits (no power lost from power gauge)
+ATWA-AA8R
+
+// First spirit ball transforms you into an Altered Beast
+PA5T-BNT2
+
+// Makes Aggar easier to defeat
+AEFA-AABW
+
+// Most Altered Beast punches are more powerful against bosses
+AA9A-ALN8
+
+// Most Altered Beast attacks are more powerful against bosses.
+AA9A-ALPG
+
+// Makes most enemies easier to defeat
+HTWT-B6KG
+
+// Makes Neff easier to defeat
+A2TA-AAGC
+
+// Makes Crocodile Worm easier to defeat
+AYMT-AAHN
+
+// Can't be hurt
+AEWA-AAN8
+
+// Always flash
+AA0A-AA3C
+
+// Infinite Energy
+FFCF10:0C00
+
+// Infinite Lives
+FFB120:030C
+
+// Infinite Lives
+AJ1T-AA5L
+
+// Infinite Energy
+AJWA-AA8Y
+
+// Transform In Beast Right Now
+DT2T-AN5W
+
+// Invincibility
+FFD002:0002
+
+// Invincibility
+RYWA-A6V8
+
+// Skip Opening Credit Screens
+AC7A-AA9R
+
+// Fast Movement (Glitchy Character)
+ABBT-AAZT
+
+// Cannot Be Hurt
+AJWA-APGR
+
+// You Die One Time
+AJWA-AAGT
+
+// Push Down And The B Button To Transform
+MA5A-AAFT
+
+// Invincible
+ATWT-A07G
+
+// Invincibility (Can Lose Health But Cannot Be Touched)
+H20A-AA42
+
+// Untouchable
+9AWA-APPC
+KAWA-AEAA
+
+// Almost Invulnerable
+H20A-AA42
+
+// Infinite Lives (Player 1)
+FFB120:0003
+
+// Infinite Lives (Player 2)
+FFB126:0003
+
+// Infinite Health (Player 1)
+FFCF10:000C
+
+// Infinite Health (Player 2)
+FFCF50:007F
+
+// Invincibility (Player 1)
+FFD034:0080
+
+// Invincibility (Player 2)
+FFD074:0080
+
+// Set Power Up Modifier (Player 1)
+FFD02A:0000
+
+// Set Power Up Modifier (Player 2)
+FFD06A:0000
+
+// Stage Select
+FFFE14:0000
+
+// Untouchable (Alternate)
+RYWA-A6TW
+RYVT-A60G
+
+// 1 Hit Kill Boss Neff
+A2WT-AA3R

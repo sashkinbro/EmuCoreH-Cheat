@@ -1,0 +1,36 @@
+// Infinite Time
+005-94E-3BC
+
+// Enable Level Skip
+00C9-4701
+
+// Infinite Lives
+00C9-8709
+
+// Infinite Whips
+00C9-7309
+
+// Infinite Credits (Continues)
+00C9-C002
+
+// Infinite Health (except from 1-Hit Deaths)
+00C9-C130
+
+// Infinite Time
+00CB-BA09
+
+// Invincibility
+C9A-C5A-A29
+C91-E79-A29
+
+// Infinite Health (except from 1-Hit Deaths)
+7E1-B59-3B7
+
+// Infinite Lives
+002-CEF-3BE
+
+// Infinite Whips
+00A-AEA-19E
+
+// Enable Level Skip
+002-69F-7F4

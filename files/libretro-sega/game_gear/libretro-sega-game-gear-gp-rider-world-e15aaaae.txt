@@ -1,0 +1,12 @@
+// Infinite Time
+00C0-2E63
+
+// 0 to max speed instantly
+215-2CC-4C2
+022-5EC-E69
+
+// Infinite time
+00B-C1C-3BE
+
+// Always rank first in qualifying race
+AF6-2CE-08F

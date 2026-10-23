@@ -1,0 +1,23 @@
+// Start With 2 Lives
+013-43F-E66
+
+// Start With 7 Lives
+063-43F-E66
+
+// Start With 10 Lives
+093-43F-E66
+
+// Start With 1 Credits
+013-48F-E66
+
+// Start With 6 Credits
+063-48F-E66
+
+// Start With 9 Credits
+093-48F-E66
+
+// Infinite Lives
+3AB-B5D-2A2
+
+// Infinite Continues
+3A6-3CB-2A2

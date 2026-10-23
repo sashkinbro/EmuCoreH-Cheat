@@ -1,0 +1,59 @@
+// Invincibility
+RZPT-J6V4
+
+// Infinite Lives
+AJFT-JA64
+
+// Infinite Lives
+FFFAF6:0009
+
+// Infinite Energy
+FFFAF4:0001
+
+// Enabled Cheat Code Skip Levels/Items
+FFFADC:0001
+
+// Enabled Cheat Code Skip Levels/Items
+AB8T-JA3G
+RF8A-J6XE
+RGJA-E6X0
+
+// Keep Items After The Death
+ALGT-EA7J
+
+// Keep Items After Touching Enemies
+AKPT-JA82
+AKRA-JA2G
+AKPT-JA7C
+
+// Keep Keys/Gold Tokens After The Death - For Versions Pagemaster, The (USA) - Pagemaster, The (USA) (Beta) - Pagemaster, The (Europe)
+ALGT-EA7N
+
+// Freeze Time Continue
+FFEFE8:000A
+
+// Infinite Attempts In Bonus Stage
+AKEA-NA8T
+
+// 1 Hit/Shot Kill Enemies
+ATVT-JA92
+A3RA-JA8Y
+A3RA-JA94
+
+// Invincibility
+RZPT-J6WT
+RYHT-A6ZW
+RZPT-J6T4
+
+// Magic Dust Meter Always On Maximum -  Pagemaster, The (USA) - Pagemaster, The (Europe)
+ATGT-AA5G
+
+// Play unused song at the title screen
+R8ST-EJZL
+CRST-EAFC
+
+// Title screen music / sound effect / DAC/PCM sample modifier
+R8ST-EJZL
+
+// Fox logo music / sound effect / DAC/PCM sample modifier
+HWSA-EJ0N

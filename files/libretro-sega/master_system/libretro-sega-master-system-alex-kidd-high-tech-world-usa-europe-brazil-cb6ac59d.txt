@@ -1,0 +1,47 @@
+// Infinite Time - Seconds Digits
+00C1-0E00
+
+// Infinite Time - Hour Digit
+00C1-0F00
+
+// Map Pieces [Replace ? With 1-8 For Each Piece]
+00C0-8200
+
+// Have Ladder
+00C0-8401
+
+// Have Restorer
+00C0-8501
+
+// Have Key
+00C0-8601
+
+// Have Pencil
+00C0-8701
+
+// Have Eraser
+00C0-8801
+
+// Have Cloth
+00C0-8901
+
+// Have Hang Glider
+00C0-8A01
+
+// Infinite Time
+3A1-749-2A2
+
+// Start Time Modifier
+000-8B9-C4E
+
+// Fake Map Piece
+00C0-8209
+
+// Invincibility
+C9D-0DE-809
+
+// Enable Scene Select after Starting a New Game
+0D6-3EA-F7E
+
+// Enable Scene Select after Resuming a Saved Game
+0D6-38A-F7A

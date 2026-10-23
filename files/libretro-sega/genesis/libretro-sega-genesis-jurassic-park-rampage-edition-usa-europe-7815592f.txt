@@ -1,0 +1,115 @@
+// Start with 2 lives less than normal
+ARCT-AAET
+
+// Start with 1 life less than normal
+AWCT-AAET
+
+// Start with 1 life more than normal
+A4CT-AAET
+
+// Start with 2 lives more than normal
+A8CT-AAET
+
+// Start with 3 lives more than normal
+BCCT-AAET
+
+// Start with 4 lives more than normal
+BGCT-AAET
+
+// Almost invincible (Switch off if you get stuck)
+A4PA-CA5W
+
+// Infinite lives
+BBSA-AA7E
+
+// Candy bars fully restore health
+ALRA-CA44
+
+// Infinite ammo [all weapons except grenades]
+CWCA-CA9J
+
+// Infinite grenades
+BWFA-CA9Y
+
+// Start with 1/4 health
+JDFA-CABT
+
+// Start with 1/2 health
+TDFA-CABT
+
+// Start with 3/4 health
+2DFA-CABT
+
+// Almost invincible (Switch off if you get stuck)
+AKDT-GA2R
+
+// Infinite lives
+DB4T-GA8T
+
+// Candy bars fully restore health
+RFET-G6WA
+
+// 1/2 as much lysine as usual is needed for the raptor rage
+BPET-GAAW
+
+// Just a little bit of lysine causes the raptor rage
+RFET-G6T0
+
+// Start with 1/4 health
+JA9T-GAGT
+
+// Start with 1/2 health
+TA9T-GAGT
+
+// Start with 3/4 health
+2A9T-GAGT
+
+// Infinite Lives
+AVSA-AA7E
+
+// Infinite Energy
+AWPA-CA54
+
+// Infinite Health (Grant)
+FFC968:00FF
+
+// Infinite Health (Raptor)
+FFC294:00FF
+
+// Infinite Lives (Grant &amp; Raptor)
+FFC968:0009
+
+// Level Highlighter Modifier
+FF98B2:0000
+
+// Invincibility
+R0PA-C6VC
+
+// Jump higher (when standing still)
+ADNA-DP7E
+
+// Jump much higher (when standing still)
+ADNA-DF7E
+
+// Moon jump (jump higher, with slower jump and descent)
+GXNA-CAE8
+
+// Moon jump (jump much higher, with slower jump and descent)
+EDNA-CAE8
+
+// Level select
+A1BT-AACN
+AXCA-AA44
+R1BT-A6YW
+
+// Moon jump (jump ultra high, with slower jump and descent)
+BMNA-CAE8
+
+// When you start the Aviary level with Grant, the Pteranodon (giant bird) is gone and doesn't carry you to the top
+AJKT-GA94
+
+// Pressing Right will instantly finish the level
+ADLA-CA7L
+
+// Pressing Left will instantly finish the level
+4MLA-CA96

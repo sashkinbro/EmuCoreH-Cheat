@@ -1,0 +1,5 @@
+// Infinite Domoge Energy
+FF2A2A:00FF
+
+// Low Timer
+FF219C:0000

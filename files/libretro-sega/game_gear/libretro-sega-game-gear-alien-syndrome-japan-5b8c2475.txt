@@ -1,0 +1,14 @@
+// Infinite Health
+00C0-1504
+
+// Invulnerability
+00CA-5CFD
+
+// Infinite Lives
+007-5FB-19E
+
+// Invulnerability
+188-74B-6EA
+
+// Infinite Time
+3A4-14F-2A2

@@ -1,0 +1,12 @@
+// Infinite Health (Ignore Display)
+00DA-A509
+00DA-A309
+
+// Infinite Energy - Part 1 (Use With Below Code After Level 1)
+00DA-A310
+
+// Infinite Energy - Part 2 (Use With Above Code After Level 1)
+00DA-A410
+
+// Infinite Lives
+00DA-AD02

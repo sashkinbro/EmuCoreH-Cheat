@@ -1,0 +1,390 @@
+// No Random Attacks
+FFC03E:0020
+
+// HP
+FFC0AE:03E7
+
+// HP
+FFC0B2:03E7
+
+// TP
+FFC0B0:03E7
+
+// TP
+FFC0B4:03E7
+
+// Speed
+FFC0A4:00FF
+
+// Damage
+FFC0B6:03E7
+
+// Defense
+FFC0B8:03E7
+
+// Luck
+FFC0D2:00FF
+
+// Skill
+FFC0D2:00FF
+
+// Level 50
+FFC0AC:0032
+
+// 1st Item Slot Modifier
+FFDE82:0000
+
+// 2nd Item Slot Modifier
+FFDE84:0000
+
+// HP
+FFC1AE:03E7
+
+// HP
+FFC1B2:03E7
+
+// TP
+FFC1B0:03E7
+
+// TP
+FFC1B4:03E7
+
+// Speed
+FFC1A4:00FF
+
+// Damage
+FFC1B6:03E7
+
+// Defense
+FFC1B8:03E7
+
+// Luck
+FFC1D2:00FF
+
+// Skill
+FFC1D2:00FF
+
+// Level 50
+FFC1AC:0032
+
+// 1st Item Slot Modifier
+FFDEC2:0000
+
+// 2nd Item Slot Modifier
+FFDEC4:0000
+
+// HP
+FFC12E:03E7
+
+// HP
+FFC132:03E7
+
+// TP
+FFC134:03E7
+FFC130:03E7
+
+// TP
+FFC130:03E7
+
+// Speed
+FFC124:00FF
+
+// Damage
+FFC136:03E7
+
+// Defense
+FFC138:03E7
+
+// Luck
+FFC152:00FF
+
+// Skill
+FFC152:00FF
+
+// Level 50
+FFC12C:0032
+
+// 1st Item Slot Modifier
+FFDEA2:0000
+
+// 2nd Item Slot Modifier
+FFDEA4:0000
+
+// HP
+FFDEE2:0000
+
+// HP
+FFC2AE:03E7
+
+// TP
+FFC2B4:03E7
+
+// TP
+FFC2B0:03E7
+
+// Speed
+FFC2A4:00FF
+
+// Damage
+FFC2B6:03E7
+
+// Defense
+FFC2B8:03E7
+
+// Luck
+FFC2D2:00FF
+
+// Skill
+FFC2D2:00FF
+
+// Level 50
+FFC2AC:0032
+
+// 2nd Item Slot Modifier
+FFDEE4:0000
+
+// HP
+FFC22E:03E7
+
+// HP
+FFC232:03E7
+
+// TP
+FFC234:03E7
+
+// TP
+FFC230:03E7
+
+// Speed
+FFC224:00FF
+
+// 1st Item Slot Modifier
+FFDF02:0000
+
+// 2nd Item Slot Modifier
+FFDF04:0000
+
+// 1ST treasure chest contains specified amount plus 32,768 meseta
+AWAA-CA7A
+
+// Start with 250 HP
+9MTA-CCGN
+
+// But anything at armor, weapon, and equipment shops no matter how much meseta you have
+A4ZT-AA22
+
+// Items that you can afford are free
+ALZT-AA7W
+
+// Fortunetelling is free
+BXDA-AA5L
+
+// Poison recovery at healer's is free
+BXAT-AA64
+
+// Resurrection at the healer's is free
+BW9T-AA5E
+
+// Technique distribution is free
+A49A-AA28
+
+// Using monomate, dimate, or trimate restores all lost HP
+REHT-C6VL
+
+// No TP [Technique points] lost for using Res technique
+BTHA-CA9J
+
+// No TP lost for using Rever tech.
+BTHA-CA38
+
+// No TP lost for using Gires tech.
+BTHA-CA6W
+
+// No TP lost for using Anti tech.
+GCJT-B62W
+
+// One strike kills small front row enemies
+CKBA-AA3G
+
+// One strike kills all large back row enemies
+B3FA-AA80
+
+// No HP lost in battle from ememy strikes
+GTBT-CA3T
+
+// No HP lost in battle from enemy techniques
+GTCT-CA5C
+
+// Characters cannot be poisoned
+ATJT-CA50
+
+// No enemies ever attack [Code must be turned off to complete game]
+A2NT-AA8R
+
+// Start With 255 HP And 8 TP
+99TA-C8GN
+
+// Gra And Maybe Zan Kill You Instantly
+GTJT-CA3T
+
+// Rhys Gets 8 Tech Points With 250 Hit Points At The Beginning Of The Game
+9MTA-CBGN
+
+// Character In 4th Position Disappears From The World Map (He Or She Is Still There!)
+9MTA-CCAN
+
+// Some Tech Points Disappear
+GTFT-CAGT
+
+// Some HP Gone
+GTFT-CANT
+
+// Character In 5th Position Loses His/Her Picture In The Status Screen
+GTFT-CALT
+
+// Character In 1st Position Loses His Picture In The Status Screen
+GTFT-CA3T
+
+// 1
+AMTA-CAG8
+
+// 2
+AXTA-CAG8
+
+// 4
+BDTA-CAG8
+
+// Cool
+CDTA-CAG8
+
+// Laconian Sword
+6DTA-CAHC
+
+// Royal Sword
+8DTA-CAHC
+
+// Plan Sword
+ADTA-CCHC
+
+// Orakio's
+CDTA-CCHC
+
+// Nei
+EDTA-CCHC
+
+// Royal Boots
+2DTA-CTHE
+
+// Royal Shield
+EDTA-CWHG
+
+// Needlers #1
+ADTA-CYHJ
+
+// Needlers #2
+ADTA-CYHL
+
+// 1st Item Slot Modifier
+FFDE82:0000
+
+// 2nd Item Modifier Slot
+FFDE84:0000
+
+// 1st Item Modifier Slot
+FFDEC2:0000
+
+// 2nd Item Modifier Slot
+FFDEC4:0000
+
+// TP
+FFC134:03E7
+
+// 1st Item Modifier
+FFDEA2:0000
+
+// 2nd Item Modifier Slot
+FFDEA4:0000
+
+// HP
+FFC2B2:03E7
+
+// 1st Item Modifier Slot
+FFDEE2:0000
+
+// 2nd Item Modifier Slot
+FFDEE4:0000
+
+// 1st Item Modifier Slot
+FFDF02:0000
+
+// 2nd Item Modifier Slot
+FFDF04:0000
+
+// Walk thru walls.
+RFZA-A6YY
+
+// Open treasure chests as many times as you want (you can keep getting an item or money over and over).
+A4AA-CA2Y
+
+// Get the Ceramic Knife (instead of the regular Knife) in the left chest in the Landen dungeon.
+NCAA-CCF4
+
+// Get the Steel Sword (instead of the Knife) in the left chest in the Landen dungeon.
+YCAA-CAF4
+
+// Get the Nei Sword (instead of the Knife) in the left chest in the Landen dungeon.
+ECAA-CCF4
+
+// Monomate works on everyone in your party (instead of just one character).
+BLDT-GAD6
+
+// Makes Monomate much stronger (restores all HP to one character).
+98DT-GG58
+
+// Res technique works on everyone in your party (instead of just one character).
+AWNA-GB12
+
+// Foi technique works on all enemies (instead of just one).
+CCNA-GAZ2
+
+// Max out all your stats after one battle.
+RH0T-A60J
+
+// Adds the Royal Helmet to the items for sale in the Armor Shop in Landen.
+CS1A-G40C
+
+// Adds the Planar Armor to the items for sale in the Armor Shop in Landen.
+CS1A-G28C
+
+// Adds the Royal Shield to the items for sale in the Armor Shop in Landen.
+CS1A-HFGC
+
+// Adds the Royal Knife to the items for sale in the Weapon Shop in Landen.
+DM1A-G0RG
+
+// Adds Orakio's Sword to the items for sale in the Weapon Shop in Landen.
+CH1A-G0RG
+
+// Adds the Nei Claw to the items for sale in the Weapon Shop in Landen.
+G11A-G0RG
+
+// Adds the Pulse Cannon to the items for sale in the Weapon Shop in Landen.
+JS1A-G0RG
+
+// Adds the Nei Shot to the items for sale in the Weapon Shop in Landen.
+J91A-G0RG
+
+// No TP lost when using Foi Technique
+BTGT-CA6E
+
+// Makes the Nei Sword a one handed weapon
+ACEA-GTFA
+
+// Makes the Nei Bow a one handed weapon
+ACFT-GTCT
+
+// Makes any weapon attack all enemies on the screen
+EJDT-CA8A
+
+// Makes the Nei Shot a one handed weapon
+CCFT-GTHT

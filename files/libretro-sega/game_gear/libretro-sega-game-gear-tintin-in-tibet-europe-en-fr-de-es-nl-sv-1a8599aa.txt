@@ -1,0 +1,32 @@
+// Infinite Health
+00C4-E505
+
+// Blink Always
+00C4-E72F
+
+// Start with ? lives
+001-03B-E66
+
+// Infinite Lives
+3A1-459-2A2
+
+// Infinite Energy
+3A0-9E9-2A2
+
+// Invincibility
+00E-22F-7F4
+
+// Infinite Lives
+00C4-E603
+
+// Infinite Health
+00C4-E504
+
+// Invulnerability
+C90-829-E69
+
+// Infinite Health
+000-9D9-19E
+
+// Infinite Lives
+001-449-19E

@@ -1,0 +1,13 @@
+// Infinite Lives P1
+00C3-AB09
+
+// Infinite Energy - Player 1 & 2
+00C2-4BA0
+
+// Infinite Time (Stops Countdown Timer)
+00C3-A159
+
+// Enemies Have No Life
+00C2-6F00
+00C2-8F00
+00C2-AF00

@@ -1,0 +1,118 @@
+// Player 1 starts with 1 run
+AFTV-TAGE
+
+// Player 1 starts with 2 runs
+AKTV-TAGE
+
+// Player 1 starts with 3 runs
+APTV-TAGE
+
+// Player 1 starts with 4 runs
+AVTV-TAGE
+
+// Player 1 starts with 5 runs
+AZTV-TAGE
+
+// Player 1 starts with 6 runs
+A3TV-TAGE
+
+// Player 1 starts with 7 runs
+A7TV-TAGE
+
+// Player 1 starts with 8 runs
+BBTV-TAGE
+
+// Player 1 starts with 9 runs
+BFTV-TAGE
+
+// Player 1 starts with 10 runs
+BKTV-TAGE
+
+// Player 2 starts with 1 run
+AFTV-TAGN
+
+// Player 2 starts with 2 runs
+AKTV-TAGN
+
+// Player 2 starts with 3 runs
+APTV-TAGN
+
+// Player 2 starts with 4 runs
+AVTV-TAGN
+
+// Player 2 starts with 5 runs
+AZTV-TAGN
+
+// Player 2 starts with 6 runs
+A3TV-TAGN
+
+// Player 2 starts with 7 runs
+A7TV-TAGN
+
+// Player 2 starts with 8 runs
+BBTV-TAGN
+
+// Player 2 starts with 9 runs
+BFTV-TAGN
+
+// Player 2 starts with 10 runs
+BKTV-TAGN
+
+// Almost infinite strikes (ALMOST)
+AXCV-WA92
+
+// Infinite balls
+AXDB-WA5L
+
+// Infinite outs
+AXDV-WA7A
+
+// 1 strike and you're out
+ADCV-WAF4
+
+// 2 strikes and you're out
+AHCV-WAF4
+
+// 4 strikes and you're out
+ASCV-WAF4
+
+// 5 strikes and you're out
+AXCV-WAF4
+
+// 6 strikes and you're out
+A1CV-WAF4
+
+// 7 strikes and you're out
+A5CV-WAF4
+
+// 8 strikes and you're out
+A9CV-WAF4
+
+// Strikes Modifier
+FFD376:0000
+
+// Balls Modifier
+FFD378:0000
+
+// Outs Modifier
+FFD378:0000
+
+// Team 1 Score Modifier (P1)
+FFCC42:0000
+
+// Team 2 Score Modifier (P2/CPU)
+FFCC42:0000
+
+// Catcher Behind Batter Stats
+FFD3E4:00FF
+
+// Infinite Stamina
+FFCDEC:00FF
+
+// Enable BADACODEAAAA Password
+JF9A-AJX6
+JF9A-ACYC
+JF9A-ACYE
+
+// Infinite Spitball Warnings - Home Team
+FFD36A:0000

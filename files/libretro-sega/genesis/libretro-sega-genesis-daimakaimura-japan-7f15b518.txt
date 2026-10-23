@@ -1,0 +1,72 @@
+// Infinite lives
+A3WT-AA6G
+
+// Each point worth 10
+9TZA-ABZY
+BJZA-AAF0
+
+// Instant charge on magic armor/weapon
+AF3T-AAFY
+
+// Start on floating island
+9TEA-BCKL
+TTEA-B93R
+AEEA-AABN
+
+// Start in windmall village
+9TEA-BCKL
+TTEA-B93R
+AAEA-ACBN
+
+// Start in town of fire
+9TEA-BCKL
+TTEA-B93R
+AEEA-ACBN
+
+// Start in Baron Rankle's tower
+9TEA-BCKL
+TTEA-B93R
+AAEA-AEBN
+
+// Start in horrible faced mountains
+9TEA-BCKL
+TTEA-B93R
+AEEA-AEBN
+
+// Start in crystal forest
+9TEA-BCKL
+TTEA-B93R
+AAEA-AGBN
+
+// Start on ice slides and giant hands
+9TEA-BCKL
+TTEA-B93R
+AEEA-AGBN
+
+// Start on dragons and demons
+9TEA-BCKL
+TTEA-B93R
+AAEA-AJBN
+
+// Start on base of morningstar ladder
+9TEA-BCKL
+TTEA-B93R
+AEEA-AJBN
+
+// Start on Prince of Darkness
+9TEA-BCKL
+TTEA-B93R
+AAEA-ALBN
+
+// Infinite Armor
+AWBA-AA5Y
+AADA-CAHT
+
+// Untouchable
+RYDA-C60G
+
+// Freeze Time
+AK3A-AA3W
+
+// Freeze Time Continue
+AKET-AA3Y

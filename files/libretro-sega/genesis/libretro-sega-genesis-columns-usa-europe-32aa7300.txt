@@ -1,0 +1,50 @@
+// One-minute time trial
+AEMA-AAC8
+HTMA-AADE
+
+// Two-minute time trial
+AJMA-AAC8
+SAMA-AADE
+
+// Five-minute time trial
+AYMA-AAC8
+FTMA-ACDE
+
+// Can't pause the game
+DKYA-AA62
+
+// Stay at selected level
+ABTT-BA2W
+
+// Disable preview of next jewels
+RF1T-A608
+RF1T-A60T
+
+// Infinite Time To Choose Level Of Difficulty
+FFC852:0009
+FFC854:0009
+
+// Jewels Modifier P1
+FFC826:0000
+FFC82A:0000
+
+// jewels never land
+APST-AJEG
+
+// jewels disappears when hitting the floor
+ABNA-AAV4
+
+// the 1st and 2nd jewels disappears when they land
+ABNA-AAWT
+
+// Keep leveling up after you complete a stack of jewels
+ABTA-AA90
+
+// Jewels completed
+AB5A-AAS2
+
+// Power jewels
+A73A-A06T
+
+// Gameplay background is black
+ACBA-AADG

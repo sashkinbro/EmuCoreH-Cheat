@@ -1,0 +1,5 @@
+// Infinite Rings
+FF0A5A:0064
+
+// Infinite Lives
+FF0680:0003

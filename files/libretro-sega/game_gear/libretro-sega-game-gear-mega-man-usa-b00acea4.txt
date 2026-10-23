@@ -1,0 +1,95 @@
+// Infinite Energy
+007-58B-A22
+
+// Jump In Midair
+320-2EB-2A8
+410-2FB-F7B
+181-42B-E61
+071-43B-4C4
+001-44B-F7B
+
+// Infinite Energy All Weapons
+052-3FA-91B
+C62-40A-E6D
+FC2-42A-E6A
+
+// One Hit Kill
+C37-29A-C41
+
+// Infinite Lives
+008-4BB-3BE
+
+// Start With ?? Lives
+007-73F-E66
+
+// Infinite Star Crash
+3A7-BEA-2A2
+
+// Infinite Napalm Bomb
+3A8-67A-2A2
+
+// Infinite Flash Stopper
+3A8-B5A-2A2
+
+// Infinite Power Stone
+3A8-10A-2A2
+
+// Infinite Rush Coil
+3AD-6C7-2A2
+
+// Infinite E Tanks
+3AC-66B-2A2
+
+// Infinite M Tanks
+3AC-9BB-2A2
+
+// Hit Anywhere
+EA6-E8A-805
+187-02A-4CA
+427-2AA-082
+
+// Infinite Health
+00C2-68FF
+
+// Infinite Lives
+00C2-6A09
+
+// Scroll Modifier
+00C2-0500
+
+// Infinite Secondary Weapon (Rush Coil/Enemy Weapons
+00C6-05FF
+
+// Toggle During Boss Battles To Kill Bosses In One Hit
+00C3-3500
+
+// Infinite E-Tanks
+00C6-0E09
+
+// Sound Screwer
+00C7-2600
+
+// Super Jump
+00C2-58FE
+
+// Special Move Modifier
+00C2-4D0F
+
+// Standing Direction Modifier
+00C2-4D00
+
+// Get Hit Once And Stay Invinicible The Rest of The Level
+00C2-66FF
+
+// Walk Through Walls
+18E-7EB-6EA
+C3E-67B-E61
+
+// Invincibility
+191-15B-7F6
+000-49A-E69
+
+// Always Drop Item Modifier
+3E3-22A-C41
+003-23A-A26
+003-24A-F73

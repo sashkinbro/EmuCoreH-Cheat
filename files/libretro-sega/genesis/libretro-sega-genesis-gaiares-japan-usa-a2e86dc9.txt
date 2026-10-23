@@ -1,0 +1,185 @@
+// Weapon Mod
+FFF5A0:0000
+
+// Infinite lives
+FFF3E0:0005
+
+// Infinite shield
+FFF508:0004
+
+// Always max power meter
+FFF56A:00FF
+
+// Invincibility
+RZ4A-A6V8
+
+// Start with 2 ships
+AECT-AAE6
+
+// Start with 3 ships
+AJCT-AAE6
+
+// Start with 8 ships
+A6CT-AAE6
+
+// Start with 10 ships
+BECT-AAE6
+
+// Infinite ships
+AJEA-AA20
+
+// Start with 1 credit instead of 5
+AECT-AAFC
+
+// Start with 3 credits
+ANCT-AAFC
+
+// Start with 7 credits
+A6CT-AAFC
+
+// Start with 9 credits
+BECT-AAFC
+
+// Infinite credits
+A2ET-AA98
+
+// Break defender lasts forever
+AK4A-AA6N
+
+// Don't Lose Weapon Type When You Lose a Ship
+AJEA-AA6J
+
+// Don't lose weapon type or power level when you lose a ship
+DAEA-AA58
+
+// Start With T-Braster
+RECT-A60A
+9TCT-BCRC
+AJCT-A2GE
+BJST-AA74
+
+// Start with F-Formation
+RECT-A60A
+9TCT-BCRC
+AJCT-AWGE
+BJST-AA74
+
+// Start with T-Vulcan
+RECT-A60A
+9TCT-BCRC
+AJCT-AYGE
+BJST-AA74
+
+// Start With Q-Missile
+RECT-A60A
+9TCT-BCRC
+AJCT-A4GE
+BJST-AA74
+
+// Start with H-Missile
+RECT-A60A
+9TCT-BCRC
+AJCT-A6GE
+BJST-AA74
+
+// Start With A-Bullet
+RECT-A60A
+9TCT-BCRC
+AJCT-A0GE
+BJST-AA74
+
+// Combine with &quot;Start with ? weapon&quot; Codes to start that weapon with max power
+AJCT-AA8T
+
+// Invincibility
+AV4A-AA40
+
+// Power Mod
+FFF5A0:0080
+
+// Invincibility
+FFF59A:0008
+
+// Number Of Times Of Toz Have Been Fired
+FFF562:0000
+
+// Top Score
+FFF53E:0000
+
+// Score
+FFF540:0000
+
+// The Stage That You're In
+FFF3D6:0000
+
+// Infinite Credits
+FFF3E2:0005
+
+// B.G.M.Test
+FFF4C8:0000
+
+// S.E Test
+FFF4CA:0000
+
+// Hit Anywhere
+CK2T-AA86
+AK3A-AA4L
+
+// Start With P-Cannon
+RECT-A60A
+9TCT-BCRC
+AJCT-ACGE
+
+// Start With G-Beam
+RECT-A60A
+9TCT-BCRC
+AJCT-AEGE
+
+// Start With S-Laser
+RECT-A60A
+9TCT-BCRC
+AJCT-AGGE
+
+// Start With T-Missile
+RECT-A60A
+9TCT-BCRC
+AJCT-AJGE
+
+// Start With H-Laser
+RECT-A60A
+9TCT-BCRC
+AJCT-ALGE
+
+// Start With V-Laser
+RECT-A60A
+9TCT-BCRC
+AJCT-ANGE
+
+// Start With R-Collider
+RECT-A60A
+9TCT-BCRC
+AJCT-ARGE
+
+// Start With E-Smash
+RECT-A60A
+9TCT-BCRC
+AJCT-ATGE
+
+// P Cannon
+FFF5A0:00DE
+
+// Freeze Time Continue
+AJFA-AA7G
+
+// Level Select Cheat Is Activated. See notes
+RECT-A61E
+
+// Weapon Select/Weapon Power-up Cheat Activated. See notes
+REDT-A6YE
+
+// Always Get The T-Vulcan The First Time You Capture A Weapon With Your TOZ. See notes
+GB6A-AA3A
+RF6A-A6T4
+
+// 1 Hit Kills All Enemies And Bosses. See notes
+JBMT-AEV6

@@ -1,0 +1,56 @@
+// Infinite Energy P1
+FFC90A:00EC
+
+// Infinite Energy P2
+FFCB16:00EC
+
+// Infinite Time
+FFEEA4:0064
+
+// Cyberbrawl Mode
+FFF420:0000
+
+// Chest Armor Doesn't Break Off P1
+FFE856:0000
+
+// Chest Armor Doesn't Break Off P2
+FFE87A:0000
+
+// Chest Armor Breaks Off 1 Hit P1
+FFE856:0001
+
+// Chest Armor Breaks Off 1 Hit P2
+FFE87A:0001
+
+// Arm Armor Doesn't Break Off P1
+FFE862:0000
+
+// Arm Armor Doesn't Break Off P2
+FFE886:0000
+
+// Arm Armor Breaks Off 1 Hit P1
+FFE862:0001
+
+// Arm Armor Breaks Off 1 Hit P2
+FFE886:0001
+
+// Leg Armor Doesn't Break Off P1
+FFE86E:0000
+
+// Leg Armor Doesn't Break Off P2
+FFE892:0000
+
+// Leg Armor Breaks Off 1 Hit P1
+FFE86E:0001
+
+// Leg Armor Breaks Off 1 Hit P2
+FFE892:0001
+
+// Super Strength P1
+FFCBAE:003F
+
+// Super Strength P2
+FFCB94:003F
+
+// Final Battle (Beat One Opponent To View Ending)
+FFF43A:0006

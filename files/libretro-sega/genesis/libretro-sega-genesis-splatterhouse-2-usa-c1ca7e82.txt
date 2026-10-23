@@ -1,0 +1,92 @@
+// Untouchable
+AD2A-AA9J
+
+// Untouchable by attacks, which can hurt the body of your character
+ABFT-CA3N
+
+// Untouchable by things, which can hurt the legs of your character
+AADA-CA56
+
+// Infinite lives
+AX3A-AA2N
+
+// Start with 2 lives
+AE0A-AAG8
+
+// Start with 3 lives
+AJ0A-AAG8
+
+// Start with 4 lives
+AN0A-AAG8
+
+// Start with 6 lives
+AY0A-AAG8
+
+// Start with 7 lives
+A20A-AAG8
+
+// Start with 8 lives
+A60A-AAG8
+
+// Start with 9 lives
+BA0A-AAG8
+
+// Start with 10 lives
+BE0A-AAG8
+
+// Start with 1 hit point
+AEBT-AAB6
+
+// Start with 2 hit points
+AJBT-AAB6
+
+// Start with 3 hit points
+ANBT-AAB6
+
+// Start with 5 hit points
+AYBT-AAB6
+
+// Start with 10 hit points
+BJBT-AAB6
+
+// Start with 15 hit points
+B6BT-AAB6
+
+// Start with 20 hit points
+CTBT-AAB6
+
+// Start with 25 hit points
+DEBT-AAB6
+
+// Start with 30 hit points
+D2BT-AAB6
+
+// Start with 50 hit points
+GJBT-AAB6
+
+// Start with 100 hit points
+NTBT-AAB6
+
+// Start with 200 hit points
+3ABT-AAB6
+
+// Start with 250 hit points
+9JBT-AAB6
+
+// Infinite Energy
+AX2T-AA80
+
+// Invincibility
+AM2A-AA9E
+
+// Infinite Lives
+HH0T-AY0G
+
+// Infinite Energy
+HH0T-AYYT
+
+// Untouchable By Water
+AADA-CA96
+
+// Unlimited Lives
+FF00F8:0003

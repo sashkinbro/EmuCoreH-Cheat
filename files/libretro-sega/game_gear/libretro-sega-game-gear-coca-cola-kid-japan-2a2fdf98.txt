@@ -1,0 +1,29 @@
+// Infinite Time
+00D2-C100
+
+// Infinite Lives
+00D2-9B99
+
+// Infinite Health
+00D5-2603
+
+// Invulnerability
+00D3-ABFF
+
+// Infinite Lives
+00D2-9B09
+
+// Infinite Health
+00D5-2604
+
+// Infinite Time
+003-71D-E6E
+
+// Invulnerability
+3AF-89C-2A2
+
+// Infinite Lives
+001-EEE-E6E
+
+// Infinite Health
+00E-CDC-19E

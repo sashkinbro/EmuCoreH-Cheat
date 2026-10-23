@@ -1,0 +1,89 @@
+// Start With 1 Life
+015-36F-E66
+
+// Start With 6 Lives
+065-36F-E66
+
+// Start With 9 Lives
+095-36F-E66
+
+// Unlimited Lives
+3AE-28F-2A2
+
+// Start On Level 2: Docks Of Venice, CA
+010-AEF-E6A
+
+// Start On Level 3: Island Of Patu San
+020-AEF-E6A
+
+// Start On Level 4: Jungle Of Patu San
+040-AEF-E6A
+
+// Start At The Cave Of The Ancients
+050-AEF-E6A
+
+// Start On Level 5: Colonel Chi's Prison Camp
+060-AEF-E6A
+
+// Start On Level 6: Colonel Chi's Fortress
+070-AEF-E6A
+
+// Start With No Zatches
+005-49F-E62
+
+// Start With 1 Zatch
+015-49F-E62
+
+// Start With 10 Zatches
+105-49F-E62
+
+// Start With 50 Zatches
+505-49F-E62
+
+// Unlimited Zatches
+00F-47A-E6E
+
+// Start With No Hints
+005-4AF-E66
+
+// Start With One Hint
+015-4AF-E66
+
+// Start With 10 Hints
+105-4AF-E66
+
+// Start With 50 Hints
+505-4AF-E66
+
+// Start With No Weapons
+005-4BF-B3E
+
+// Start With 5 Of Each Weapon
+055-4BF-B3E
+
+// Start With 30 Of Each Weapon
+305-4BF-B3E
+
+// Start With 50 Of Each Weapon
+505-4BF-B3E
+
+// Start With No Gold
+005-4CF-2AA
+
+// Start With Only 15 Gold Coins
+155-4CF-2AA
+
+// Start With 60 Gold Coins
+605-4CF-2AA
+
+// Start With 99 Gold Coins
+995-4CF-2AA
+
+// Unlimited Hints
+C9A-ABA-19E
+
+// Unlimited Weapons
+000-72E-E6E
+
+// Unlimited Gold
+3A2-9A9-2A2

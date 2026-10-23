@@ -1,0 +1,89 @@
+// Player 1 starts with 5 points
+AYCA-AAHY
+
+// Player 1 starts with 10 points
+BJCA-AAHY
+
+// Player 1 starts with 15 points
+B6CA-AAHY
+
+// Player 1 starts with 20 points
+CTCA-AAHY
+
+// Player 1 starts with 25 points
+DECA-AAHY
+
+// Player 2 starts with 5 points
+AYCA-AAH6
+
+// Player 2 starts with 10 points
+BJCA-AAH6
+
+// Player 2 starts with 15 points
+B6CA-AAH6
+
+// Player 2 starts with 20 points
+CTCA-AAH6
+
+// Player 2 starts with 25 points
+DECA-AAH6
+
+// Stop shot clock
+ATHA-AA2L
+
+// Free throws worth 2
+AKTT-AAFG
+
+// Free throws worth 4
+AVTT-AAFG
+
+// Free throws worth 5
+AZTT-AAFG
+
+// Free throws worth 10
+BKTT-AAFG
+
+// Baskets worth 3
+AKTT-AAF0
+
+// Baskets worth 5
+AZTT-AAF0
+
+// 3-point baskets worth 5
+AZVA-AAAW
+
+// 3-point baskets worth 10
+BKVA-AAAW
+
+// Player 1 starts with 0 timeouts
+AA8T-CABE
+
+// Player 1 starts with 1 timeouts
+AE8T-CABE
+
+// Player 1 starts with 3 timeouts
+AN8T-CABE
+
+// Player 1 starts with 4 timeouts
+AT8T-CABE
+
+// Player 2 starts with 0 timeouts
+AA8T-CABN
+
+// Player 2 starts with 1 timeouts
+AE8T-CABN
+
+// Player 2 starts with 3 timeouts
+AN8T-CABN
+
+// Player 2 starts with 4 timeouts
+AT8T-CABN
+
+// Infinite Ball Possession Time P1
+FFA654:0063
+
+// Team 1 Score Modifier (P1)
+FFA644:0000
+
+// Team 2 Score Modifier (P2/CPU)
+FFA646:0000

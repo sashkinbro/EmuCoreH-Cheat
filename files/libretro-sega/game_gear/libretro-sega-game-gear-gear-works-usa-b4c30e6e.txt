@@ -1,0 +1,29 @@
+// Infinite Targets (Third Item On Bar)
+00C0-8299
+
+// Infinite Bombs
+00C0-8399
+
+// Infinite Oil
+00C0-8499
+
+// Infinite Lives
+00C0-8A09
+
+// Low Engine Temperature
+00DC-AD00
+
+// Engine Temperature doesn't Increase
+3A5-ECF-2A2
+
+// Infinite Lives
+3AF-0AD-2A2
+
+// Infinite Targets
+3AD-EEE-2A2
+
+// Infinite Bombs
+3AC-26E-2A2
+
+// Infinite Oil
+3AC-F7E-2A2

@@ -1,0 +1,129 @@
+// Don't Get Thrown Back when Hit
+9G2T-860Y
+B82T-8AG0
+RL2T-9FR2
+
+// Changes the intro and title screen music
+AKMA-CN42
+
+// The title screen is displayed differently
+DD0T-8N48
+
+// Infinite health
+B43A-8N80
+
+// Infinite health
+A43A-8R88
+
+// Load the debug info at the title screen
+CM0T-872L
+
+// Protection (some things can still kill you)
+R03A-861A
+
+// Infinite time bombs once at least one is awarded
+AW9T-8A78
+
+// Time bombs awarded 1 at a time, maximum 9 allowed
+AG2A-8AG0
+
+// Time bombs awarded 2 at a time,maximum 9 allowed
+AL2A-8AG0
+
+// Time bombs awarded 5 at a time, maximum 9 allowed
+A02A-8AG0
+
+// Time bombs awarded 9 at a time, maximum 9 allowed
+BL2A-8AG0
+
+// Energy capsules worth 1/2 normal [1 unit]
+BC2A-8AH2
+
+// Energy capsules worth 2x normal [4 units]
+EC2A-8AH2
+
+// Infinite Energy
+AW3A-8A9A
+
+// Access To Debug Menu Instead Of Options Menu
+VMLA-98DJ
+
+// Access To Debug Menu Instead Of Sound Test Menu
+5DLT-96A4
+
+// Access To Debug Menu Instead Of Controller Setup Menu
+5XRT-9NA0
+
+// Turbo Fire
+AW8T-8A6T
+
+// Kill Enemies With 1 Shot
+ADBA-8A74
+
+// Level 1 Codes: Kill Big Robot With One Grenade
+ADAT-8A9R
+
+// Kill Bombardiers With One Grenade
+HHAA-8E14
+
+// Infinite Time To Escape
+98RT-Z93W
+
+// You Can Still Play When You Run Out of Health
+KL3A-8R6C
+
+// Unlimited Bombs
+FFFF20:0400
+
+// Unlimited Health
+FF147C:001F
+
+// Have Machine Gun (Future)
+FFFE34:0001
+
+// Infinite Energy
+FF1474:001F
+
+// Infinite Bombs
+FFFF20:0009
+
+// Super Jump
+FF1854:000A
+FF1856:00BD
+FF1856:0004
+FFFF04:000F
+
+// Enemies Die In 1 Hit
+FF1868:0000
+FF1888:0000
+FF18A8:0000
+
+// Enemies Killed Bonus Modifier
+FFFF06:03E7
+
+// Stage Select (Use 0-5)
+FFFE2C:0000
+
+// The Title Screen Is Displayed Differently
+FFFE30:0001
+
+// Adds a rolling spaceship/tank enemy (probably from a different level)
+AL4T-8A6N
+
+// Makes Reese use grenades instead of the shotgun (level 2 and onward)
+AC8A-8A3A
+
+// Changes Reese's clothes from the lab coat to gray fatigues
+ALKT-8A6Y
+
+// Adds the machine gun, but he still shoots the shotgun
+RG9T-8606
+
+// Adds correct graphics for the machine gun when shooting (standing only)
+BL8T-8A7J
+
+// Adds rapid fire
+A48T-8A6R
+
+// Adds the correct machine gun sounds
+RG8T-86XY

@@ -1,0 +1,85 @@
+// Infinite HP
+A5YA-AA8T
+
+// Infinite HP. Your characters remain silent after a hit
+R1YA-A60J
+
+// Bosses die instantly
+ACET-DJ8G
+
+// Infinite bombs (weapon 1)
+AW3A-CA6N
+
+// Infinite shots (weapon 2)
+AW2A-CA46
+
+// Invincible against a gas in the tonnel(the 1st part of the last level)
+RGNA-A6TJ
+
+// Invincible against dangerous zones (lava, spikes, etc)
+PMMA-AA3L
+
+// Invincible against 'small' objects (bullets, etc)
+CXNT-AN2G
+
+// Invincible against explosions
+ADSA-AA2N
+
+// Invincible against 'big' objects (bodies of enemies, etc)
+ADTT-AA5C
+
+// Infinite jump
+FCHA-AA6Y
+
+// Emulator Only: 'Sonic Debugger' Effect
+ADJT-AA3L
+DWCA-AA7A
+ADJT-AA5G
+GLCA-AA36
+ACAT-AA8W
+AMHT-AA88
+
+// Infinite Lives
+A4FA-AA5J
+
+// Invincibility
+BCAA-AR7Y
+DCAA-AN7E
+
+// Debugger Code
+ADJT-AA3L
+DWCA-AA7A
+ADJT-AA5G
+GLCA-AA36
+ACAT-AA8W
+AMHT-AA88
+
+// Infinite Health
+FF005A:000C
+
+// Infinite Primary Weapon
+FF005C:0063
+
+// Infinite Secondary Weapon
+FF005C:0099
+
+// Max Money
+FF0068:0063
+
+// Can climb up anywhere by pressing UP
+AMJA-AA44
+
+// Can climb down anywhere by pressing Down
+AXJA-AA5Y
+
+// Infinite Continue
+AKPA-AA32
+
+// Freeze Time Continue
+AKFA-AA44
+
+// Freeze Time Continue
+FFB122:0009
+
+// Keep Money After the Death
+AVNT-AA4L

@@ -1,0 +1,47 @@
+// Infinite Lives
+00C5-8A0B
+
+// Invulnerability
+00C5-83FF
+
+// Invincibility
+825-1AD-E64
+
+// Fergus Head Mode
+B6E-ECF-3B4
+
+// Infinite Lives
+00C5-8A09
+
+// Invulnerable Against Some Attacks
+C07-B19-C49
+
+// Invulnerable Against Cactus Spikes
+C99-8D9-E69
+
+// Invulnerable Against Some Enemies
+C98-AA6-E69
+
+// Infinite Lives
+00F-7DF-3BE
+
+// Invincible
+00C5-C8FF
+
+// Stage Skip
+00C5-C9FF
+
+// Fergus Head Mode
+00C5-D8FF
+
+// Invincible
+C99-F89-E69
+
+// Stage Skip
+00A-774-A26
+
+// Fergus Head Mode
+00E-EEF-F72
+
+// Jump Higher
+031-3FD-F76

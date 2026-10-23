@@ -1,0 +1,14 @@
+// Computer Can't Score
+005-E0E-C45
+
+// Tour Mode 9 Distribution Points
+09B-515-D56
+
+// Tour Mode 25 Distribution Points
+19B-515-D56
+
+// No Games Scored By Computer
+006-06E-C45
+
+// Most Games Are Given To You
+076-05E-F7A

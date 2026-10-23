@@ -1,0 +1,5 @@
+// Team 1 Score Modifier (P1)
+FFF01C:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FFF01C:0000

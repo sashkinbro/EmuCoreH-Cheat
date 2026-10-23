@@ -1,0 +1,47 @@
+// Start at the Neighborhood (part 2, the Kitchen)
+HPLT-BTCN
+
+// Start at the Neighborhood (part 3, the Freezer)
+FPLT-BTCN
+
+// Start at the Zoo (Part 1)
+GVLT-BTCN
+
+// Start at the Zoo (Part 2)
+GZLT-BTCN
+
+// Start at the Zoo (Part 3)
+GKLT-BTCN
+
+// Start at the City (Part 1)
+G3LT-BTCN
+
+// Start at the City (Part 2)
+G7LT-BTCN
+
+// Start at the Pound (part 1)
+F3LT-BTCN
+
+// Start at the Pound (part 2)
+F7LT-BTCN
+
+// Start at the Pound (Part 3)
+GFLT-BTCN
+
+// Start at the Outdoors (part 1)
+FVLT-BTCN
+
+// Start at the Outdoors (part 2)
+FZLT-BTCN
+
+// Start at The Mutate-O-Matic
+HKLT-BTCN
+
+// Jump higher (when standing still)
+GAGA-GAGC
+
+// Invincibility
+R1LT-E612
+
+// Stay invincible longer after getting hit
+H22T-GAC0

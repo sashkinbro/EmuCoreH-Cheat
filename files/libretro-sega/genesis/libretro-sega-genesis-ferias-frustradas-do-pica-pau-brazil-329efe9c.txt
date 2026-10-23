@@ -1,0 +1,39 @@
+// Infinite Lives
+FF01D6:0009
+
+// Infinite Health
+FF01D8:0024
+
+// 999 Money Bags
+FF01DA:03E7
+
+// 999 Enemies Killed
+FF01DC:03E7
+
+// Untouchable
+FF01F8:0000
+
+// Always Run
+FF0EA8:0001
+
+// Power Modifier
+FF01E4:0001
+
+// Stage Modifier
+FF0EC2:008E
+
+// Music Modifier
+FF106E:0000
+
+// Super Jump
+FF01F4:0001
+FF01F6:0000
+
+// Jump Midair Add On
+FF01E6:0001
+
+// Invincibility
+RZ1T-A6YA
+
+// Infinite Gold Even When The Moles Take Then Away
+2B8T-BNKE

@@ -1,0 +1,8 @@
+// Gives You Lots of Money For Use In Shops
+014D30:6008
+
+// Gives Your Player An Unlimited Amount of Bombs
+006D42:6004
+
+// Gives Your Player Infinite Lives
+0088E2:6004

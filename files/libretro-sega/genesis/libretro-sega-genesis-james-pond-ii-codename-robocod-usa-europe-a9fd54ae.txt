@@ -1,0 +1,63 @@
+// Start with 6 lives
+A2DA-AAAW
+
+// Infinite lives
+AJ8T-AA9G
+
+// Restart with 5 chances
+AY8T-AAHN
+
+// Start with 5 chances
+AYDA-AAA2
+
+// Spikes don't hurt
+AJ8A-AA8C
+
+// Bad guys don't hurt when you have 2 or more energy units on the &quot;fish-o-meter&quot;
+AJ8T-AA26
+
+// Invincibility (bad guys explode when you touch them!)
+968T-B93C
+
+// Most bad guys die after 1 hit
+AVAA-AA90
+
+// Infinite continues
+ALZA-AA5A
+
+// 8 continues
+BADA-AAAE
+
+// Keep wings from round to round
+AJYT-AA20
+
+// Infinite Energy
+RY8A-A60C
+AJ8T-AA26
+
+// Invincibility
+FT7T-AN3J
+G27T-AN6L
+
+// Infinite Lives
+RENT-A6TL
+
+// Protection Against Enemies
+AJ8T-AA26
+
+// Invincible
+FFB3EE:0010
+
+// Jumps In Mid Air (Multi-Jumps)
+RE0T-A6ZY
+
+// Press Start on Title Screen for Cheat Screen
+ACVA-AA40
+
+// Infinite Controllable Jump
+AA0T-AA1N
+AA0T-AA1C
+
+// Invincibility
+RY8T-A6TL
+RY8A-A6Y4

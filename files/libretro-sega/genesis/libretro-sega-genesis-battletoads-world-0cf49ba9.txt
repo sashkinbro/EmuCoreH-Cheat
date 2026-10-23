@@ -1,0 +1,164 @@
+// Infinite lives
+C3BT-AA5A
+
+// Player 1 starts with 1 life
+AABT-BA7R
+ABPA-EAH6
+
+// Player 1 starts with 3 lives
+AJBT-BA7R
+AKPA-EAH6
+
+// Player 1 starts with 5 lives
+ATBT-BA7R
+AVPA-EAH6
+
+// Player 1 starts with 10 lives
+BEBT-BA7R
+B1PA-EAH6
+
+// Player 1 starts with 20 lives
+CNBT-BA7R
+CPPA-EAH6
+
+// Both players start with 1 life
+AABT-BA7R
+ABPA-EAH6
+ABPT-EABG
+
+// Both players start with 3 lives
+AJBT-BA7R
+AKPA-EAH6
+ABPT-EABG
+
+// Both players start with 5 lives
+ATBT-BA7R
+AVPA-EAH6
+ABPT-EABG
+
+// Both players start with 10 lives
+BEBT-BA7R
+B1PA-EAH6
+ABPT-EABG
+
+// Both players start with 20 lives
+CNBT-BA7R
+CPPA-EAH6
+ABPT-EABG
+
+// Take less damage
+PT7T-AA54
+CKHA-AA5J
+
+// Start with 1 energy block
+APBT-AAD4
+AN0T-AAAL
+
+// Start with 3 energy blocks
+BPBT-AAD4
+BN0T-AAAL
+
+// Start with 5 energy blocks
+CPBT-AAD4
+CN0T-AAAL
+
+// Extremely bogus jump
+AA5T-B92Y
+
+// Mildly bogus jump
+AA5T-B72Y
+
+// Bogus jump
+AA5T-B52Y
+
+// Higher jump
+AA5T-BZ2Y
+
+// Super jump
+AA5T-BV2Y
+
+// Mega-jump
+AA5T-BK2Y
+
+// Start on level 2
+AJZT-AAC4
+
+// Start on level 3
+ANZT-AAC4
+
+// Start on level 4
+ATZT-AAC4
+
+// Start on level 5
+AYZT-AAC4
+
+// Start on level 6
+A2ZT-AAC4
+
+// Start on level 7
+A6ZT-AAC4
+
+// Start on level 8
+BAZT-AAC4
+
+// Start on level 9
+BEZT-AAC4
+
+// Start on level 10
+BJZT-AAC4
+
+// Start on level 11
+BNZT-AAC4
+
+// Start on level 12
+BTZT-AAC4
+
+// Start on level 13
+BYZT-AAC4
+
+// Invincibility
+9WVT-BCG2
+BCVT-AAG4
+F0VT-AB86
+
+// Infinite Lives
+FFE046:0500
+
+// Infinite Energy
+FFE006:0017
+
+// Infinite Health P2
+FFE086:0016
+
+// Infinite Lives P2
+FFE0C6:0009
+
+// Invincible
+FFE06A:0010
+
+// Untouchable
+RY7T-A6V8
+RZHA-A6XJ
+RZPT-A6YL
+RZST-A6WJ
+RZXT-A6YL
+RY7T-A600
+
+// Infinie Energy
+AJ7T-AA9J
+AKHT-AA8A
+AVST-AA4J
+AJ6A-CA3E
+
+// Controllable Jump
+AA5A-AAH6
+
+// Jump in Midair
+RGBA-A6ZN
+RGBA-A6ZW
+
+// Infinite Continues Player 1
+AKPA-EA9N
+
+// Infinite Continues Player 2
+AKPT-EA20

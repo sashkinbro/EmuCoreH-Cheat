@@ -1,0 +1,17 @@
+// Timer counts down slower
+5AE-4AF-19A
+5AE-4EF-19A
+
+// Timer counts down much slower
+7FE-4AF-19A
+7FE-4EF-19A
+
+// Always get 3 Cannons, unless you don't have any more space for them
+00F-24E-D5D
+3EF-25E-D5E
+03F-26E-6EA
+
+// Always get 4 Cannons, unless you don't have any more space for them
+00F-24E-D5D
+3EF-25E-D5E
+04F-26E-6EA

@@ -1,0 +1,33 @@
+// Infinite Energy
+00C1-871F
+
+// Invincibility
+C94-4CD-3B7
+
+// Hit Anywhere
+3A5-1BD-D5D
+
+// One Hit Kills
+C95-69D-089
+
+// Infinite Lives
+00C0-0501
+00C0-4501
+
+// Infinite Level 1 Magic
+00C0-0601
+
+// Infinite Lives
+009-5FE-3BE
+
+// Infinite Health
+7E4-4CD-3B7
+
+// Infinite Magic
+000-ABC-3B2
+
+// Infinite Continues
+00C0-1500
+
+// Infinite Continues
+007-DDE-3BA

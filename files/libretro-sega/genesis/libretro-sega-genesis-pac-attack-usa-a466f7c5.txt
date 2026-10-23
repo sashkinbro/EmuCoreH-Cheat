@@ -1,0 +1,32 @@
+// Pieces Don't Fall Automatically (You have to press Down).
+AJ4A-AA5N
+9TNT-BWFE
+
+// Pieces Fall Much Slower in Normal Mode (Easy setting only)
+TBAA-AKNJ
+
+// Once you get the fairy, she'll keep coming back after every 2 pieces.
+AJJT-AA7Y
+
+// The Fairy Meter Fills Up Much Faster (Doesn't apply to the Easy setting)
+JAKA-BAYA
+
+// Score Modifiers P1
+FF4160:0000
+FF4162:0000
+FF4162:0000
+
+// Infinite Rests P1 (Puzzle Mode)
+FF41E6:0009
+
+// P1 Block Speed Modifier
+FF4166:0000
+
+// P1 Yellow Bar Modifier (Puzzle Mode)
+FF41DE:0000
+
+// P2 Block Scroll Speed Modifier
+FF4284:0000
+
+// Infinite Rests (Puzzle Mode)
+RE3T-A6TJ

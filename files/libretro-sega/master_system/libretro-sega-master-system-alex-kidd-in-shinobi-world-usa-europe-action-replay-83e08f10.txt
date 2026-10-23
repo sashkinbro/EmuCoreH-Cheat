@@ -1,0 +1,14 @@
+// Infinite Hits
+00C2-2E03
+
+// Infinite Lives
+00C2-2F09
+
+// Get Hit Once For Invincibility
+00C2-28FF
+
+// Moon Jump
+00C2-2300
+
+// One Hit Kills Bosses
+00C3-1E01

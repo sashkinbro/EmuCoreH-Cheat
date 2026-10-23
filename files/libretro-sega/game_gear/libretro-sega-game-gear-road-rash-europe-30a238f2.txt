@@ -1,0 +1,60 @@
+// Infinite Time
+00C2-A100
+
+// Infinite Time
+00D-B5E-E6E
+
+// Infinite Bike Health
+7E3-064-3B7
+7E5-0F4-3B7
+
+// Almost Infinite Money
+B14-4D8-2A8
+
+// Don't get Charged for Repairs and Fines
+008-DD9-A24
+
+// Start with ??, instead of $1000 - Both Players
+056-CDF-E6E
+
+// P1 Level Modifier
+00DF-1300
+
+// P2 Level Modifier
+00DF-3300
+
+// P1 Bike Modifier
+00DF-1400
+
+// P2 Bike Modifier
+00DF-3400
+
+// Infinite Bike Energy
+00CE-F81F
+
+// Knockdown other bikers in 1-hit
+FDE-745-91D
+FFE-765-E6A
+18E-985-2AA
+
+// Don't lose speed on grass
+00A-C6C-E62
+
+// P1 Infinite Money
+00DF-0B09
+00DF-0C99
+00DF-0D99
+
+// P2 Infinite Money
+00DF-2B09
+00DF-2C99
+00DF-2D99
+
+// Start with ?? bike health
+3E8-49C-916
+
+// Infinite Health
+00CE-D83F
+
+// Infinite Bike Health
+00CE-F81F

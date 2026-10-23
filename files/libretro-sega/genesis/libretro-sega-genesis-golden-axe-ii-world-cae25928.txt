@@ -1,0 +1,257 @@
+// Player 1 starts with 1 life
+AEBT-AADN
+
+// Player 1 starts with 2 lives
+AJBT-AADN
+
+// Player 1 starts with 5 lives
+AYBT-AADN
+
+// Player 1 starts with 7 lives
+A6BT-AADN
+
+// Player 1 starts with 9 lives
+BEBT-AADN
+
+// Player 2 starts with 1 life
+AEBT-AAE2
+
+// Player 2 starts with 2 lives
+AJBT-AAE2
+
+// Player 2 starts with 5 lives
+AYBT-AAE2
+
+// Player 2 starts with 7 lives
+A6BT-AAE2
+
+// Player 2 starts with 9 lives
+BEBT-AAE2
+
+// Both players continue with 1 life
+AGXA-AADR
+
+// Both players continue with 2 lives
+ALXA-AADR
+
+// Both players continue with 5 lives
+A0XA-AADR
+
+// Both players continue with 7 lives
+A8XA-AADR
+
+// Both players continue with 9 lives
+BGXA-AADR
+
+// Infinite lives (both players)
+BTJA-AA48
+
+// Each magic book is worth 2
+FEPA-BJYA
+
+// Each magic book is worth 3
+FEPA-BNYA
+
+// Lives
+FF0880:0003
+
+// Magic Bottles
+FF0882:0005
+
+// Energy
+FF0882:0003
+
+// Enemies Don't Attack Player 1
+FF0888:0002
+
+// Infinite Lives Player 2
+FF0924:0003
+
+// Infinite Energy Player 2
+FF08E2:0003
+
+// Infinite Magic Player 2
+FF0926:0008
+
+// Enemies Don't Attack Player 2
+FF092C:0002
+
+// Lizards Never run when hit
+FF0CF8:0000
+
+// Lizards Never run when sleeping
+FF0CFA:090F
+
+// Lizards Never run when hit
+AJNA-AA5L
+
+// Lizards Never run when sleeping
+ABXA-AAHL
+
+// Infinite Lives
+ZAJA-BGW8
+
+// Infinite Energy
+9X1A-BGA0
+AS1A-AAA2
+991A-AAA4
+H51A-ATA6
+R11A-A6T8
+
+// Max And Infinite Fighter Magic
+A0WA-BE5L
+AJFT-AA30
+
+// Max And Infinite Dwarf Magic
+AWWA-BE5L
+AJFT-AA30
+
+// Max And Infinite Amazon Magic
+BCWA-BE5L
+AJFT-AA30
+
+// Infinite Magic
+AJFT-AA30
+
+// Invincibility
+RYNA-A6TA
+RYNT-A61R
+R11A-A6T0
+
+// some enemies die when knock down
+AJSA-AAGC
+
+// hit enemies anywhere
+CAMA-AA46
+
+// enemies dont fight back
+NAKA-AA36
+
+// untouchable
+ATMT-AS5T
+AANA-AAFA
+
+// kill enemies with one hit
+S2SA-AAEE
+
+// magic books come out of enemies
+HFTA-BAAC
+
+// rush attack doesn't make you bounce back
+5JGA-AARC
+
+// One hit kills for all enemise
+AAMA-AAEW
+
+// no grabbing
+AAPA-AAG8
+
+// enemies dont fight back
+AAKA-AA38
+
+// Lets You Use Any Level Magic In The Game
+FD0T-BJ0J
+
+// Enemies And Bosses Don't Fight Back
+AACA-AMDA
+
+// Enemies Die When Knocked Down
+2ESA-AARE
+
+// Almost Invincible
+ATMT-AS5T
+
+// Infinite Lives (Use On A Real PAR)
+FF0880:0002
+
+// Always Keep Five Bombs (Use On A Real PAR)
+FF0882:0005
+
+// Infinite Health (Player 1)
+FF083E:0005
+
+// Infinite Health (Player 2)
+FF08E2:0005
+
+// Invincible/Enemies Won't Attack (Player 1)
+FF0888:0063
+
+// Invincibility (Player 1)
+FF0840:0064
+
+// Invincibility (Player 2)
+FF08E4:0064
+
+// Set Max./Infinite Magic (Player 1)
+FF0882:0005
+
+// Set Max./Infinite Magic (Player 2)
+FF0926:0000
+
+// Set Max. Magic Attack (Player 1)
+FF088C:0005
+
+// Set Max. Magic Attack (Player 2)
+FF0930:0000
+
+// Infinite Credits
+FF07E8:0005
+
+// Stage Select
+FF07E6:0000
+
+// Battle Modifier (Duel Mode)
+FF07CA:0000
+
+// Kill Every Enemy Or Boss With One Knockdown
+FF0B72:0000
+FF0986:0000
+FF0A2A:0000
+FF0ACE:0000
+FF0AD4:0000
+FF0C16:0000
+
+// enemies have on a different color
+RC2A-A04R
+
+// enemies don't fight back
+AAKA-AAB6
+
+// you die when you get knock down
+AAHA-AAAA
+
+// jump auto attack
+AAGA-AACC
+
+// Untouchable
+AADA-AAAY
+
+// Can't run anywhere
+AAKA-AAA4
+
+// some enemies,dragons,spells are in a different color
+AAPA-AA96
+
+// you and enemies can walk off screen
+AAPA-AA9T
+
+// Freeze Time Continue
+ALXA-AA9L
+
+// Start with 9 credits
+BHCT-AABG
+
+// Start each life with more energy
+AAJA-BYV8
+
+// Start each life with much more energy
+AAJA-BAV8
+
+// Invincibility against all physical attacks (can walk thru enemies)
+RYMT-A6XY
+
+// Enabled Level Select
+FF0770:0002
+
+// Enabled Level Select
+AMCT-AA70

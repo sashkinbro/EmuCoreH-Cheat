@@ -1,0 +1,234 @@
+// Invincibility
+AWJA-AA6Y
+
+// 10 hits per vehicle
+BJWT-AAEG
+BLCA-AADW
+
+// 2 hits per vehicle
+AJWT-AAEG
+ALCA-AADW
+
+// 1 hit per vehicle
+AEWT-AAEG
+AGCA-AADW
+
+// Infinite vehicles
+YLJA-AAH8
+
+// Start with 10 vehicles
+9TWT-BCD8
+BEWT-AAEA
+
+// Start with 2 vehicles
+9TWT-BCD8
+AEWT-AAEA
+
+// Start with 1 vehicle
+9TWT-BCD8
+AAWT-AAEA
+
+// Start with wide-range weapons
+GJWT-BZC8
+
+// Start with laser weapons
+4TWT-BZC8
+
+// Start with cross laser weapons
+KTWT-B1C8
+
+// Always have wide range weapons
+GJWT-BZC8
+GLCA-BZCT
+
+// Always have laser weapons
+4TWT-BZC8
+4WCA-BZCT
+
+// Always have cross laser weapons
+KTWT-B1C8
+KWCA-B1CT
+
+// Retain weapons on new vehicles
+A4CA-AA4N
+
+// Infinite missiles
+ALNT-AA54
+ALNT-AA82
+
+// Start with 10 missiles
+BJWT-AAC0
+
+// Start with 2 missiles
+AJWT-AAC0
+
+// Start with no missiles
+AAWT-AAC0
+
+// Start with max missiles
+0JWT-BXDG
+
+// Always get max missiles on pick-up
+C4KA-AA50
+
+// Always get homing missiles on pick-up
+64KA-AA6R
+
+// Always add 10 missiles on pick-up
+BLKA-AAD2
+BLKA-AAET
+
+// Always add 2 missiles on pick-up
+ALKA-AAD2
+ALKA-AAET
+
+// Start with 5 invincibility items
+AAWT-AAEN
+
+// Start with 4 invincibility items
+AEWT-AAEN
+
+// Start with 3 invincibility items
+AJWT-AAEN
+
+// Start with 2 invincibility items
+ANWT-AAEN
+
+// Start with 1 invincibility item
+ATWT-AAEN
+
+// Always have 5 invincibility items
+AAWT-AAEN
+ACBA-AAFJ
+
+// Always have 4 invincibility items
+AEWT-AAEN
+AGBA-AAFJ
+
+// Always have 3 invincibility items
+AJWT-AAEN
+ALBA-AAFJ
+
+// Always have 2 invincibility items
+ANWT-AAEN
+ARBA-AAFJ
+
+// Always have 1 invincibility item
+ATWT-AAEN
+AWBA-AAFJ
+
+// Infinite restart credits
+AJXA-CA6R
+
+// 10 restart credits
+BKKA-AADN
+
+// 5 restart credits
+AZKA-AADN
+
+// 1 restart credit
+AFKA-AADN
+
+// No restarts
+ABKA-AADN
+
+// Start on 1st day, area 2
+SD4A-BE1L
+
+// Start on 1st day, area 3
+SD4A-BJ1L
+
+// Start on 1st day, area 4
+SD4A-BN1L
+
+// Start on 2nd day, area 1
+SD4A-BT1L
+
+// Start on 2nd day, area 2
+SD4A-BY1L
+
+// Start on 2nd day, area 3
+SD4A-B21L
+
+// Start on 2nd day, area 4
+SD4A-B61L
+
+// Start on 3rd day, area 1
+SD4A-BA1L
+
+// Start on 3rd day, area 2
+RH4A-A61G
+9X4A-BCSJ
+BH4A-AAHL
+
+// Start on 3rd day, area 3
+RH4A-A61G
+9X4A-BCSJ
+BM4A-AAHL
+
+// Start on 3rd day, area 4
+RH4A-A61G
+9X4A-BCSJ
+BS4A-AAHL
+
+// Start on 4th day, area 1
+RH4A-A61G
+9X4A-BCSJ
+BX4A-AAHL
+
+// Start on 4th day, area 2
+RH4A-A61G
+9X4A-BCSJ
+B14A-AAHL
+
+// Start on 4th day, area 3
+RH4A-A61G
+9X4A-BCSJ
+B54A-AAHL
+
+// Start on 4th day, area 4
+RH4A-A61G
+9X4A-BCSJ
+B94A-AAHL
+
+// Start on 5th day, area 1
+RH4A-A61G
+9X4A-BCSJ
+CD4A-AAHL
+
+// Start on 5th day, area 2
+RH4A-A61G
+9X4A-BCSJ
+CH4A-AAHL
+
+// Start on 5th day, area 3
+RH4A-A61G
+9X4A-BCSJ
+CM4A-AAHL
+
+// Start on 5th day, area 4
+RH4A-A61G
+9X4A-BCSJ
+CS4A-AAHL
+
+// Start on final day, final area
+RH4A-A61G
+9X4A-BCSJ
+CX4A-AAHL
+
+// Infinite Lives
+ALJT-AA66
+
+// Invincibility
+ACJA-AR6T
+
+// Infinite Energy
+RGJA-A6Y0
+
+// Infinite Missiles
+ALNT-AA54
+
+// Start On 4th Day, Area 4
+RH4A-A61G
+9X4A-BCSJ
+B94A-AAHL

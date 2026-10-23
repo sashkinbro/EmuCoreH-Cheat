@@ -1,0 +1,101 @@
+// Infinite Weapon Energy
+FFFE32:001A
+
+// Walk Through Enemies
+FF005A:0009
+
+// Multiple Shot Weapon
+FF00C4:0000
+
+// Jump to Levitate
+FF0402:0000
+
+// Moon Jump
+FF0418:0000
+
+// Character Modifier
+FFFE28:0000
+
+// Infinite Health
+FFFE2C:0010
+
+// Infinite Bombs
+FFFE1C:0009
+
+// Infinite Lives
+FFFE2A:0009
+
+// Infinite Lives
+AWEA-AA7Y
+
+// Infinite Life
+AWST-AA4N
+AV7T-AA86
+
+// Invincibility
+R0SA-A6ZY
+RZ7T-A6YL
+
+// Infinite Bombs
+AV0T-AA2Y
+
+// Infinite Energy Weapon Phaser Shell
+A2PA-AA26
+
+// Infinite Energy Shield Special Suit
+A2PT-AA4A
+
+// Infinite Item Peking Duck
+AT2A-CA5J
+
+// Infinite Money
+AJXA-CA2W
+
+// Infinite Continue
+AVST-CA3E
+
+// Option Cursor Select
+FFFF10:0000
+
+// Cursor Select / Music Number Modifier
+FFFF10:0000
+
+// Main Menu Cursor Select / S.E. Number Modifier
+FFFF14:0000
+
+// All Weapons have been sold out
+FFFE18:007F
+
+// Always has 5 Energy Tanks
+FFFE18:0005
+
+// Always have 1 Peking Duck
+FFFE1A:0001
+
+// Always have 8 Infrared Scope
+FFFE1A:0008
+
+// Walk Thru Walls. See notes
+REWA-A6V8
+RYWA-A6XL
+
+// Invincibility (walk thru enemies, enemy fire, etc).
+ACSA-AA7L
+
+// Controllable Jump
+AB0T-AAH8
+
+// Infinite Energy Weapon Bubble Projectile
+A2LT-AA5L
+
+// Infinite Energy Weapon 3 - Way Shot
+A2NA-AA20
+
+// Infinite Energy Weapon Explosives
+ATKT-AA7Y
+
+// Infinite Energy Shield Barrier
+ATRA-AA4A
+
+// Infinite Item Infrared Scope
+AT2A-CA8G

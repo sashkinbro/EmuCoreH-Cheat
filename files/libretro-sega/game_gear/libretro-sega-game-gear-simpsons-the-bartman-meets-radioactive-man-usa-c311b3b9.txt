@@ -1,0 +1,47 @@
+// Infinite Health
+00DD-8414
+
+// Infinite Lives
+00C1-DB09
+
+// Invulnerability
+00C1-6908
+
+// Invulnerability
+C9F-99F-C49
+
+// Infinite lives
+004-E5E-3B7
+
+// Infinite energy
+000-02C-F7A
+
+// Start with mega-energy
+011-56C-B3A
+
+// One hit and you're invincible
+00F-93F-3BE
+
+// Don't flash after getting hit
+010-20C-C4A
+
+// Longer flash after getting hit
+190-20C-C4A
+
+// Most enemies can't even touch you
+C9F-C3D-082
+
+// Infinite laser bolts on pick-up
+002-36C-19E
+
+// Infinite Hits
+00DF-9504
+
+// Infinite Laser Eyes
+00DD-8509
+
+// Infinite Laser Eyes
+002-36C-19E
+
+// Multi-Jump
+00C2-4350

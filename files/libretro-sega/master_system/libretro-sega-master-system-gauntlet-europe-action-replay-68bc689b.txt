@@ -1,0 +1,11 @@
+// Infinite Health P1
+00C8-0F99
+
+// Infinite Potion
+00C8-0E01
+
+// Infinite Time In Treasure Rooms
+00C8-B620
+
+// Monster Generators Generate No Monsters
+00C8-DB01

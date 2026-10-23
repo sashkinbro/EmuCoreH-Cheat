@@ -1,0 +1,14 @@
+// Infinite Lives (Centepede)
+3A4-A07-2A2
+
+// Infinite Lives (Break Out)
+3A1-617-2A2
+
+// Infinite Missles (Missle Command)
+7E8-877-3B7
+
+// Indestructible Cities (Misle Command)
+014-D37-E6A
+
+// Infinite Lives (Centipede &amp; Breakout Only)
+00C0-2109

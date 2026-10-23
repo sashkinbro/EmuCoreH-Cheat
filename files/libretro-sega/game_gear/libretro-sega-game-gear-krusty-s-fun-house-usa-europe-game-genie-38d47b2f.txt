@@ -1,0 +1,26 @@
+// Start With 2 Lives
+028-52D-E66
+
+// Start With 5 Lives
+058-52D-E66
+
+// Start With 9 Lives
+098-52D-E66
+
+// Infinite Lives
+21F-215-19D
+
+// Infinite Energy
+008-5E5-C42
+
+// Start With 7 Pies
+078-87D-C4E
+
+// Start With 11 Pies
+0B8-87D-C4E
+
+// Start With 15 Pies
+0F8-87D-C4E
+
+// Infinite Pies
+21C-134-19D

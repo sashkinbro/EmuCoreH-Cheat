@@ -1,0 +1,125 @@
+// One hit and your untouchable
+AB0T-BA9R
+
+// Select up to 9 players on options screen
+BH1T-AACE
+
+// Infinite number of transfiguration items once you get one
+REKA-E6W2
+
+// Almost infinite life energy
+AVZA-AA7R
+
+// Protection against stronger boss hits
+AVZA-AA36
+
+// Each Centaur item is worth 2
+SFZT-BJYY
+
+// Each Centaur item is worth 4
+SFZT-BTYY
+
+// Each Birdman item is worth 4
+SFZT-BTY8
+
+// Each Fishman item is worth 2
+SFZT-BJZJ
+
+// Each Fishman item is worth 4
+SFZT-BTZJ
+
+// Infinite time to complete stage
+REHA-E6TJ
+
+// Time goes by 2x as fast
+JAHA-FLTJ
+
+// Time goes by 4x as fast
+JAHA-FWTJ
+
+// Stop transfiguration timer
+REHA-E6Y0
+
+// Transfiguration timer is 2x as fast
+JAHA-FLY0
+
+// Transfiguration timer is 4x as fast
+JAHA-FWY0
+
+// Start transfiguration timer at 99 instead of 60
+NNHA-EAHN
+
+// Start chapter 1 timer at 700 instead of 350
+1TVT-EEG4
+
+// Small magic ball worth 80
+SFZT-BA00
+
+// Medium magic ball worth 100
+SFZT-BA0N
+
+// Large magic ball worth 500
+GKZT-AAGC
+
+// Infinite lives
+RF0T-A6XN
+
+// Infinite Lives
+AV0T-AA58
+
+// Invincibility
+AB0A-AR9J
+
+// Start All Chapters With Timer At 800
+9TGT-FGJR
+EAGT-EGAT
+
+// Infinite Limit
+FF0432:005B
+
+// Infinite Health
+FF02BC:0035
+
+// Infinite Time (Against Bosses)
+FF0310:0059
+
+// Infinite Lives
+FF02BE:0009
+
+// Start At Max Level
+FF02BA:0009
+
+// Bosses Have No Energy
+FF0318:0000
+
+// Infinite Horse Power
+FF02D2:0009
+
+// Infinite Wings Power
+FF02D4:0009
+
+// Infinite Sword Power
+FF02D6:0009
+
+// Untouchable
+RZZA-A6ZR
+RZZA-A6VT
+
+// Freeze Time Transfiguration Items
+AJHA-EA7T
+
+// Infinite Mp
+AALT-F2ME
+NANT-FRTC
+
+// Freeze Limit
+AJHA-EA4J
+
+// Infinite Energy (Extra)
+AVZA-AA36
+
+// Walk thru walls
+RZXT-A6VN
+
+// Infinite Controllable Jump
+AB6T-AAET

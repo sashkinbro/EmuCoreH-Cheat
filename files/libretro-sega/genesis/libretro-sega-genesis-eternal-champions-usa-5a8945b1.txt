@@ -1,0 +1,654 @@
+// Infinite time
+AM8T-CA64
+
+// Player 2 controls CPU
+AMAT-AA28
+
+// Enable blood
+KBJA-CA48
+
+// Only 1 hit needed to shock another player
+RGKA-L60T
+
+// Player 1 is almost invincible against regular hits. Regular hits are all moves, except throws
+3F6T-DPLR
+
+// Disable throws
+R1SA-L6WC
+
+// In a 2-player game, either player can choose the Eternal Champion with the left button
+BEHT-GAD4
+
+// In a 1-player game, Player 1 plays as the Eternal Champion
+9THT-HCP4
+BEHT-GAF6
+
+// Insult uses no inner strength
+ACNT-LAE0
+
+// Insult uses more inner strength
+GCNT-LAE0
+
+// Inner strength is restored very quickly
+RGZT-L6XA
+
+// Shadow starts with 1/2 energy
+GWEA-LAFJ
+
+// Rax starts with 1/2 energy
+GTST-LAH0
+
+// Blade starts with 1/2 energy
+GWGA-JAFT
+
+// Jetta starts with 1/2 energy
+GVYA-JAEW
+
+// Slash starts with 1/2 energy
+GVDA-LAHL
+
+// Trident's starts with 1/2 energy
+GX9T-JAHA
+
+// Xavier starts with 1/2 energy
+GW2A-JABA
+
+// Midknight starts with 1/2 energy
+GXKT-JADW
+
+// Larcen starts with 1/2 energy
+GVYA-LACY
+
+// Shadow's High Jump Angle Kick uses no inner strength
+ACXT-LAC6
+
+// Shadow's High Jump Angle Kick uses more inner strength
+GCXT-LAC6
+
+// Shadow's Snap when close in does no damage
+AWSA-NAFR
+
+// Shadow's Snap when close in does more damage
+AWSA-PAPR
+
+// Shadow's Snap when farther away does no damage
+AWMT-NABL
+
+// Shadow's Snap when farther away does more damage
+AWMT-PAKL
+
+// Shadow's Thrust when close in does no damage
+A0SA-NAHR
+
+// Shadow's Thrust when close in does more damage
+A0SA-PASR
+
+// Shadow's Thrust when farther away does no damage
+A0MT-NAD0
+
+// Shadow's Thrust when farther away does more damage
+A0MT-PAM0
+
+// Shadow's Wheel when close in does no damage
+A4ST-NAER
+
+// Shadow's Wheel when close in does more damage
+A4ST-PANR
+
+// Shadow's Wheel when farther away does no damage
+A4MT-NAGC
+
+// Shadow's Wheel when farther away does more damage
+A4MT-PARC
+
+// Shadow's High Jump Angle Kick does no damage
+FLVT-NAAR
+
+// Shadow's High Jump Angle Kick does more damage
+FLVT-PAJR
+
+// Shadow's Short Slide does less damage
+EGWT-NAAG
+
+// Shadow's Short Slide does more damage
+EGWT-PAJG
+
+// Shadow's Medium Slide does less damage
+EGWT-NAAW
+
+// Shadow's Medium Slide does more damage
+EGWT-PAJW
+
+// Shadow's lunge when farther away does no damage
+ALNA-NAE0
+
+// Shadow's lunge when farther away does more damage
+ALNA-PAN0
+
+// Shadow's lunge when close in does no damage
+ALTA-NABG
+
+// Shadow's lunge when close in does more damage
+ALTA-PAKG
+
+// Shadow's swing when farther away does no damage
+ARNT-NAAG
+
+// Shadow's swing when farther away does more damage
+ARNT-P0JG
+
+// Shadow's swing when close in does no damage
+ARTA-NAD8
+
+// Shadow's's swing when close in does more damage
+ARTA-PAM8
+
+// Larcen's snap when farther away does no damage
+AWDT-NAEE
+
+// Larcen's snap when farther away does more damage
+AWDT-PANE
+
+// Larcen's thrust when farther away does no damage
+ERDT-NAF2
+
+// Larcen's thrust when farther away does more damage
+ERDT-PAP2
+
+// Larcen's wheel when close in does no damage
+EWGT-NAA6
+
+// Larcen's wheel when close in does more damage
+EWGT-PAJ6
+
+// Larcen's snap when close in does no damage
+ELGA-NADA
+
+// Larcen's's snap when close in does more damage
+ELGA-PAMA
+
+// Larcen's thrust when close in does no damage
+A0GA-NAGE
+
+// Larcen's thrust when close in does more damage
+A0GA-PARE
+
+// Larcen's wheel when farther away does no damage
+A4EA-NAAT
+
+// Larcen's wheel when farther away does more damage
+A4EA-PAJT
+
+// Larcen's straight when close in does no damage
+AGGT-NADY
+
+// Larcen's straight when close in does more damage
+AGGT-PAMY
+
+// Larcen's swing when close in does less damage
+ALHA-NAAN
+
+// Larcen's swing when close in does more damage
+ALHA-PAJN
+
+// Larcen's Swinging Hammer Fist does less damage
+F0JT-NAH2
+
+// Larcen's Swinging Hammer Fistdoes more damage
+F0JT-PAS2
+
+// Midknight's snap when farther away does no damage
+AT8T-NAEJ
+
+// Midknight's snap when farther away does more damage
+AT8T-PANJ
+
+// Midknight's lunge when farther away does no damage
+FY8A-NAHY
+
+// Midknight's lunge when farther away does more damage
+FY8A-PASY
+
+// Midknight's wheel when farther away does no damage
+A28A-NAD2
+
+// Midknight's wheel when farther away does more damage
+A28A-PAM2
+
+// Midknight's lunge when farther away does no damage
+FY7T-NADJ
+
+// Midknight's lunge when farther away does more damage
+FY7T-PAMJ
+
+// Midknight's lunge when close in does less damage
+FZCT-NAGJ
+
+// Midknight's lunge when close in does more damage
+FZCT-PARJ
+
+// Midknight's swing when close in does less damage
+FZDA-NAC6
+
+// Midknight's swing when close in does more damage
+FZDA-PAL6
+
+// Midknight's swing when farther away does no damage
+AN7T-NAFJ
+
+// Midknight's swing when farther away does more damage
+AN7T-PAPJ
+
+// Slash's snap when farther away does no damage
+AZ5A-NAC8
+
+// Slash's snap when farther away does more damage
+AZ5A-PAL8
+
+// Slash's snap when close in does no damage
+AV7T-NADG
+
+// Slash's snap when close in does more damage
+AV7T-PAMG
+
+// Slash's thrust when close in does no damage
+AZ7T-NAE4
+
+// Slash's thrust when close in does more damage
+AZ7T-PAN4
+
+// Slash's thrust when farther away does less damage
+BK5A-NAEW
+
+// Slash's thrust when farther away does more damage
+BK5A-PANW
+
+// Slash's wheel when farther away does no damage
+A35A-NAH0
+
+// Slash's wheel when farther away does more damage
+A35A-PAS0
+
+// Slash's wheel when close in does no damage
+AK7T-NAGN
+
+// Slash's wheel when close in does more damage
+AK7T-PARN
+
+// Slash's straight when close in does no damage
+AF8A-NAAC
+
+// Slash's straight when close in does more damage
+AF8A-PAJC
+
+// Slash's lunge when close in does no damage
+AK8A-NAB0
+
+// Slash's lunge when close in does more damage
+AK8A-PAK0
+
+// Slash's swing when close in does no damage
+AP8A-NAD0
+
+// Slash's swing when close in does more damage
+AP8A-PAM0
+
+// Slash's Massive Club Swing does less damage
+AK9A-NAB4
+
+// Slash's Massive Club Swing does more damage
+AK9A-PAK4
+
+// Slash's Spinal Crush does less damage
+ALAT-NAB4
+
+// Slash's Spinal Crush does more damage
+ALAT-PAK4
+
+// Xavier's snap when close in does less damage
+BJ4A-NAB0
+
+// Xavier's snap when close in does more damage
+BJ4A-PAK0
+
+// Xavier's thrust when close in does less damage
+AY4A-NAFW
+
+// Xavier's thrust when close in does more damage
+AY4A-PAPW
+
+// Xavier's straight when close in does less damage
+AE3A-NAF0
+
+// Xavier's straight when close in does more damage
+AE3A-PAP0
+
+// Xavier's swing when farther away does no damage
+ANYT-NADW
+
+// Xavier's swing when farther away does more damage
+ANYT-PAMW
+
+// Xavier's Attack and Smash do no damage
+EE6T-NAER
+
+// Xavier's Attack and Smash do more damage
+EE6T-PANR
+
+// Trident's thrust when farther away does no damage
+AZKA-NAA8
+
+// Trident's thrust when farther away does more damage
+AZKA-PAJ8
+
+// Trident's wheel when farther away does less damage
+A3JT-NACC
+
+// Trident's wheel when farther away does more damage
+A3JT-PALC
+
+// Trident's wheel when close in does less damage
+A3RA-NACG
+
+// Trident's wheel when close in does more damage
+A3RA-PALG
+
+// Trident's straight when farther away does no damage
+AFHT-NAE8
+
+// Trident's straight when farther away does more damage
+AFHT-PAN8
+
+// Trident's lunge when farther away does no damage
+AKHT-NAH0
+
+// Trident's lunge when farther away does more damage
+AKHT-PAS0
+
+// Jetta's snap when farther away does no damage
+ATET-NAE8
+
+// Jetta's snap when farther away does more damage
+ATET-PAN8
+
+// Jetta's snap when close in does no damage
+ATKA-NAFG
+
+// Jetta's snap when close in does more damage
+ATKA-PAPG
+
+// Jetta's thrust when close in does less damage
+FYKT-NAA0
+
+// Jetta's thrust when close in does more damage
+FYKT-PAJ0
+
+// Jetta's thrust when farther away does no damage
+AYET-NAB4
+
+// Jetta's thrust when farther away does more damage
+AYET-PAK4
+
+// Jetta's wheel when close in does no damage
+A2LA-NAC8
+
+// Jetta's wheel when close in does more damage
+A2LA-PYL8
+
+// Jetta's wheel when farther away does less damage
+A2EA-NAG0
+
+// Jetta's wheel when farther away does more damage
+A2EA-PAR0
+
+// Jetta's straight when close in does no damage
+AEJT-NADR
+
+// Jetta's straight when close in does more damage
+AEJT-PJMR
+
+// Jetta's straight when farther away does no damage
+AEDT-NADC
+
+// Jetta's straight when farther away does more damage
+AEDT-PLMC
+
+// Jetta's lunge when farther away does no damage
+AJDT-NAGG
+
+// Jetta's lunge when farther away does more damage
+AJDT-PARG
+
+// Jetta's lunge when close in does no damage
+AJJT-NAGG
+
+// Jetta's lunge when close in does more damage
+AJJT-PWRG
+
+// Jetta's swing when farther away does no damage
+ANEA-NAA8
+
+// Jetta's swing when farther away does more damage
+ANEA-PAJ8
+
+// Jetta's swing when close in does no damage
+ANKA-NACR
+
+// Jetta's swing when close in does more damage
+ANKA-PALR
+
+// Blade's snap when farther away does no damage
+ATRA-NAHA
+
+// Blade's snap when farther away does more damage
+ATRA-PASA
+
+// Blade's snap when close in does no damage
+ATVA-NAHJ
+
+// Blade's snap when close in does more damage
+ATVA-PASJ
+
+// Blade's thrust when farther away does no damage
+G2RA-NAFN
+
+// Blade's thrust when farther away does more damage
+G2RA-PAPN
+
+// Blade's thrust when close in does no damage
+AYVT-NAA6
+
+// Blade's thrust when close in does more damage
+AYVT-PAJ6
+
+// Blade's wheel when close in does no damage
+ANVT-NACT
+
+// Blade's wheel when close in does more damage
+ANVT-PALT
+
+// Blade's wheel when farther away does no damage
+A2RA-NADN
+
+// Blade's wheel when farther away does more damage
+A2RA-PAMN
+
+// Blade's straight when close in does no damage
+AETT-NAFT
+
+// Blade's straight when close in does more damage
+AETT-PAPT
+
+// Blade's lunge when close in does less damage
+AJVA-NABA
+
+// Blade's lunge when close in does more damage
+AJVA-PAKA
+
+// Blade's swing when close in does no damage
+ANVA-NAF6
+
+// Blade's swing when close in does more damage
+ANVA-PAP6
+
+// Blade's swing when farther away does less damage
+FYPT-NADA
+
+// Blade's swing when farther away does more damage
+FYPT-PAMA
+
+// Rax's snap when farther away does less damage
+AVVT-NAHJ
+
+// Rax's snap when farther away does more damage
+AVVT-PASJ
+
+// Rax's snap when close in does no damage
+AVZT-NACN
+
+// Rax's snap when close in does more damage
+AVZT-PALN
+
+// Rax's thrust when farther away does no damage
+AZVT-NAEE
+
+// Rax's thrust when farther away does more damage
+AZVT-PANE
+
+// Rax's thrust when close in does no damage
+AZZT-NAEN
+
+// Rax's thrust when close in does more damage
+AZZT-PANN
+
+// Rax's wheel when close in does no damage
+DZZT-NAG2
+
+// Rax's wheel when close in does more damage
+DZZT-PAR2
+
+// Rax's wheel when farther away does no damage
+A3VT-NAAY
+
+// Rax's wheel when farther away does more damage
+A3VT-PAJY
+
+// Rax's straight when farther away does no damage
+AFTT-NAFN
+
+// Rax's straight when farther away does more damage
+AFTT-PAPN
+
+// Rax's straight when close in does no damage
+AFZA-NAC6
+
+// Rax's straight when close in does more damage
+AFZA-PNL6
+
+// Rax's lunge when farther away does no damage
+AKTT-NAHN
+
+// Rax's lunge when farther away does more damage
+AKTT-PNSN
+
+// Rax's lunge when close in does no damage
+AKZA-NAFJ
+
+// Rax's lunge when close in does more damage
+AKZA-PRPJ
+
+// Rax's swing when close in does no damage
+APZT-NAAA
+
+// Rax's swing when close in does more damage
+APZT-PAJA
+
+// Rax's swing when farther away does no damage
+APVA-NACE
+
+// Rax's swing when farther away does more damage
+APVA-PALE
+
+// Infinite Energy
+9XXA-BGDG
+PDXA-AADJ
+99XA-AADL
+79XA-A1MN
+
+// Hit Anywhere
+AK3T-CA7J
+RF6T-C6TC
+RF6T-C6TN
+RF6T-C6T4
+RF6T-C6WE
+RF6T-C6WT
+
+// Player 1 Is Invincible Against Regular Hits (Better Than Previous Code)
+9V6T-DPLN
+LK6T-CZLR
+
+// Infinite Time
+FF9CB4:0099
+
+// Infinite Health P1
+FFABEE:0099
+
+// No Health P2/CPU (Not Visible)
+FFAABA:0000
+
+// P1 Win Modifier
+FF9350:0000
+
+// P2 Win Modifier
+FF934E:0000
+
+// P1 Character Modifier
+FF9CBE:0000
+
+// P2 Character Modifier
+FF9CBC:0000
+
+// P1 Ying &amp; Yang Modifier
+FFACAA:0000
+
+// Stage Modifier (All Modes)
+FF936E:0000
+
+// P1 Can't Be Hit (All Fighters)
+FFABBA:29DC
+
+// P2 Can't Be Hit (All Fighters)
+FFAA86:29DC
+
+// P1 Has Jetta's Speed Increase
+FFAC86:0002
+
+// P2 Has Jetta's Speed Increase
+FFAB52:0002
+
+// P1 Display Modifier
+FFABA6:0080
+
+// P2 Display Modifier
+FFAA72:0000
+
+// Automatic Finisher Modifier
+FF9C7C:0000
+
+// P1 Moves Slower
+FFAC86:0080
+
+// P2 Moves Slower
+FFAB52:0080
+
+// P1 Has Shadow's Hit Protection
+FFAC6C:0028
+
+// P2 Has Shadow's Hit Protection
+FFAB38:0028
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T

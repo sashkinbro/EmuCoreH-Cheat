@@ -1,0 +1,11 @@
+// Take No Damage
+RZPA-E6TA
+
+// Energy Doesn't Decay
+SAKT-AYWG
+
+// Enemies/Bullets Can't Touch You
+ABNT-EA52
+
+// Infinite Energy/Fuel
+FFF834:270F

@@ -1,0 +1,26 @@
+// Developer's Invincibility
+00C0-0380
+
+// Time Doesn't Decrease
+00C0-0201
+
+// Infinite Invincibility Time
+00C1-1401
+
+// Invulnerability
+C36-33E-801
+
+// Infinite Lives
+B67-0DE-3BE
+
+// Infinite Time
+00C-3BF-3BE
+
+// Start with 6 Lives, instead of 3
+068-3EF-E66
+
+// Infinite Lives
+00C1-2C06
+
+// Freeze Timer
+00C0-F43C

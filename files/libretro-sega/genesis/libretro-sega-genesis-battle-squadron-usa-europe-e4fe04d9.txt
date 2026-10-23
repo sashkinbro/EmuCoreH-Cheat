@@ -1,0 +1,57 @@
+// Infinite lives
+AD1T-AAE0
+
+// Infinite nova smart bombs
+AA5A-AAC8
+
+// Start with 9 nova smart bombs
+BE7A-RAA4
+
+// Start with weapons upgraded--player 1 only
+AY7A-RAA2
+
+// Don't downgrade weapons when killed
+BDLA-AA9Y
+
+// Limit enemy bullets on screen to 1
+AA6T-RAF2
+
+// Limit enemy bullets on screen to 4
+AN6T-RAF2
+
+// Limit enemy bullets on screen to 6
+AY6T-RAF2
+
+// Enemy bullets travel very slow
+NA6T-RAF4
+
+// Enemy bullets travel very fast
+966T-REF4
+
+// Infinite Lives
+FF0176:0002
+
+// Infinite Bombs
+FF017E:0003
+
+// Invincibility
+FF0172:0001
+
+// Infinite Ships P2
+FF02EC:0009
+
+// Infinite Secondary Blasts P2
+FF02F4:0009
+
+// Fly Thru Enemies
+CM2A-AA4Y
+
+// Invincibility
+R1MA-A6VT
+R1PT-A6WR
+
+// Hit Anywhere
+N5MT-AA2T
+RHMT-A6YL
+FXNT-AA8N
+RHPA-A6TE

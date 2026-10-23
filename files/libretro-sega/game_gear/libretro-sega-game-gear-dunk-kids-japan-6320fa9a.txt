@@ -1,0 +1,14 @@
+// Team 1 Scores 9
+00C5-C109
+
+// Team 2 Never Scores
+00C5-C200
+
+// Timer is 00
+00C5-C600
+
+// Computer Team Can't Score
+3AF-49C-2A2
+
+// Player 1 Scores Double Points
+87F-3AC-E6C

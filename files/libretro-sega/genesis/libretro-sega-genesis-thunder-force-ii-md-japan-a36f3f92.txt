@@ -1,0 +1,10 @@
+// Invincibility (Disable Hit Detection)
+RZAA-A6T4
+RY9T-A6Y2
+RY9A-A614
+RZAA-A6ZG
+RZAT-A6WC
+RZAT-A61G
+
+// Infinite Ships
+AJSA-AA2L

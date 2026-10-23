@@ -1,0 +1,2 @@
+// Slowsd Game Down When Action Replay Is On
+00BA7C:6002

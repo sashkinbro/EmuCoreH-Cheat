@@ -1,0 +1,29 @@
+// Infinite Lives
+AKYT-AA3J
+
+// Infinite Shields
+AK5T-AA5Y
+
+// Freeze Time
+AKLT-AA72
+
+// Infinite Lives
+FFB456:0003
+
+// Infinite Shields
+FFB454:000F
+
+// Freeze Time
+FFBEB4:3E66
+
+// Automatically Finish Stages
+FFB434:0000
+
+// Can shoot thru walls, buildings, etc with your tank's Normal Shot (A button).
+ALRT-AA9J
+DLRT-AA30
+
+// Can drive your tank thru walls and buildings
+AB2A-AA7C
+AB2T-AA68
+AK5T-AA5Y

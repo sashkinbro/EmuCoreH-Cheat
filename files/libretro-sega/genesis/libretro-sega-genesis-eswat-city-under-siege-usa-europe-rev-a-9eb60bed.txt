@@ -1,0 +1,163 @@
+// Start with 7 lives
+A41T-FA38
+
+// Start with 9 lives
+BC1T-FA38
+
+// Start with 25 lives
+EW1T-FA38
+
+// Start with 50 lives
+KG1T-FA38
+
+// Infinite lives
+AB2A-AACN
+
+// Almost invincible
+J78A-AEWC
+
+// Floor spikes do no damage
+AATT-B62J
+
+// Life-up restores 1 bar of life gauge instead of 2
+AV3A-B666
+
+// Life-up restores 3 bars of life gauge
+BV3A-B666
+
+// Life-up restores 4 bars of life gauge
+CB3A-B666
+
+// Life-up restores life gauge to full
+JB3A-B666
+
+// Life-up worth same as 1-up
+1K3A-BE6Y
+
+// 1-up worth 2 lives instead of 1
+AK2A-AAB2
+
+// 1-up worth 3 lives
+AP2A-AAB2
+
+// 1-up worth 5 lives
+AZ2A-AAB2
+
+// 1-up worth 10 lives
+CB2A-AAB2
+
+// Start with 1 credit
+AFWA-AABC
+
+// Start with 2 credits
+AKWA-AABC
+
+// Start with 10 credits
+BKWA-AABC
+
+// Infinite credits
+BDCA-EA9E
+
+// Start on mission 2
+AKWA-BA20
+FKWA-B924
+AKWA-AA26
+
+// Start on mission 3
+AVWA-BA20
+FKWA-B924
+AKWA-AA26
+
+// Start on mission 4
+A3WA-BA20
+FKWA-B924
+AKWA-AA26
+
+// Start on mission 5
+BBWA-BA20
+FKWA-B924
+AKWA-AA26
+
+// Start on mission 6
+BKWA-BA20
+FKWA-B924
+AKWA-AA26
+
+// Start on mission 7
+BVWA-BA20
+FKWA-B924
+AKWA-AA26
+
+// Start on mission 8
+B3WA-BA20
+FKWA-B924
+AKWA-AA26
+
+// Infinite Energy
+AK3A-AA84
+
+// Infinite Lives
+RZ2A-A6VR
+
+// Invincibility
+ATWT-AA4C
+
+// Infinite Health P1
+FFFF28:0016
+
+// Infinite Lives P1
+FFFF38:0009
+
+// Infinite Burner
+FFF0E6:0001
+FFF0F8:0001
+
+// Infinite uses of FIRE. Also, all weapons code, selecting the slot gives it to you.
+A2YA-AA3A
+
+// Invincibility
+FFD1F0:00FF
+
+// 1 Shot Kill Enemies
+ALBT-AA9L
+AX5A-AA74
+AA4A-AAAE
+
+// 1 Shot Kill Bosses
+AM1A-AA38
+ALST-AA96
+AX0T-AA9G
+
+// Invincibility
+RZ7T-A6ZY
+RYWT-A6V4
+RZ3A-A60A
+RYTT-A6WY
+
+// Enable Level Select. Press Left+Down+A+B+C After Screen Start Options
+FFFF14:0001
+
+// Enable Level Select. Press Left+Down+A+B+C After Screen Start Options
+RE9T-G6TG
+
+// Disable Red Screen
+AJBT-AA4J
+
+// Jump higher. See notes.
+86GT-B98R
+
+// Jump much higher. See notes.
+8TGT-B98R
+
+// Slow moon descent when jumping or falling. See notes.
+AESA-AAAY
+AESA-AAAN
+
+// Don't fall when you walk off ledges (Walk on air). See notes.
+RYSA-A6YW
+
+// Can select up to 15 lives in the Option screen (the ? equals 15 lives)
+A69A-GAAA
+
+// Charged Burner Always On Maximum
+AK2A-AA8J

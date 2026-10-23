@@ -1,0 +1,9 @@
+// Infinite Air
+FFAA14:0380
+
+// Invincibility (Stars)
+FFAB68:0258
+
+// Pause the game and press C for Debug Menu
+ASRT-VAVT
+RHRT-T6WC

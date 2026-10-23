@@ -1,0 +1,192 @@
+// Golf bag holds 15 clubs instead of 14
+B8FT-AABA
+ED0T-SLRA
+
+// Golf bag holds 16 clubs
+CCFT-AABA
+ED0T-SNRA
+
+// Golf bag holds 17 clubs
+CGFT-AABA
+
+// Each round begins at hole 2
+AEJT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 3
+AJJT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 4
+ANJT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 5
+ATJT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 6
+AYJT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 7
+A2JT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 8
+A6JT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 9
+BAJT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 10
+BEJT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 11
+BJJT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 12
+BNJT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 13
+BTJT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 14
+BYJT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 15
+B2JT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 16
+B6JT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 17
+CAJT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round begins at hole 18
+CEJT-AAD2
+STJT-BLM0
+MAJT-AJD4
+
+// Each round ends after hole 1
+AE5A-AACC
+AFTT-AAD6
+
+// Each round ends after hole 2
+AJ5A-AACC
+AKTT-AAD6
+
+// Each round ends after hole 3
+AN5A-AACC
+APTT-AAD6
+
+// Each round ends after hole 4
+AT5A-AACC
+AVTT-AAD6
+
+// Each round ends after hole 5
+AY5A-AACC
+AZTT-AAD6
+
+// Each round ends after hole 6
+A25A-AACC
+A3TT-AAD6
+
+// Each round ends after hole 7
+A65A-AACC
+A7TT-AAD6
+
+// Each round ends after hole 8
+BA5A-AACC
+BBTT-AAD6
+
+// Each round ends after hole 9
+BE5A-AACC
+BFTT-AAD6
+
+// Each round ends after hole 10
+BJ5A-AACC
+BKTT-AAD6
+
+// Each round ends after hole 11
+BN5A-AACC
+BPTT-AAD6
+
+// Each round ends after hole 12
+BT5A-AACC
+BVTT-AAD6
+
+// Each round ends after hole 13
+BY5A-AACC
+BZTT-AAD6
+
+// Each round ends after hole 14
+B25A-AACC
+B3TT-AAD6
+
+// Each round ends after hole 15
+B65A-AACC
+B7TT-AAD6
+
+// Each round ends after hole 16
+CA5A-AACC
+CBTT-AAD6
+
+// Each round ends after hole 17
+CE5A-AACC
+CFTT-AAD6
+
+// Top 32 scores make first round cut instead of top 48
+EAKA-BJ26
+
+// Top 40 scores make first round cut
+FAKA-BJ26
+
+// Top 64 scores make first round cut
+JAKA-BJ26
+
+// Top 40 scores make second and third round cuts instead of top 32
+FAKA-BJ3A
+
+// Top 48 scores make second and third round cuts
+GAKA-BJ3A
+
+// Top 64 scores make second and third round cuts
+JAKA-BJ3A
+
+// Everybody always makes the cut
+GTKA-BEZ2
+B2KA-AVF4
+A2KA-AA76
+
+// Always on same Stroke (Disable for CPU)
+AKRT-AA68
+
+// No penalty stroke for hitting ball in water hazard or out of bounds
+AKPT-AA6G

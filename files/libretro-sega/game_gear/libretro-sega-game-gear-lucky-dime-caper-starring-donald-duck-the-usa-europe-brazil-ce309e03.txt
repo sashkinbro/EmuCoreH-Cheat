@@ -1,0 +1,62 @@
+// Infinite Lives
+00C0-8303
+
+// Infinite Energy
+00C1-3E01
+
+// Invincible [Character Flickers Though]
+00C1-3F01
+
+// Invulnerability
+C90-C6B-E69
+
+// Start with 4 lives
+047-B1F-E66
+
+// Start with 6 lives
+067-B1F-E66
+
+// Start with 8 lives
+087-B1F-E66
+
+// Infinite lives
+000-93D-E69
+
+// Infinite energy
+21C-04E-91D
+
+// After Donald loses 1 energy unit he is invincible
+219-B3E-91D
+
+// Start With 5 Energy Units
+047-E0E-E6E
+
+// Start With 7 Energy Units
+067-E0E-E6E
+
+// Start With 9 Energy Units
+087-E0E-E6E
+
+// Infinite Health
+00C-05E-3BE
+
+// Enable Round Select and SFX Test
+019-CA8-E6A
+
+// Hammer Hits Anywhere
+370-EAB-A29
+
+// Round & Scene Select
+009-CC8-E62
+
+// Boot The Game Into Round & Scene Select
+029-A48-916
+
+// Boot Game Into The Ending
+159-A48-916
+
+// Jump Height Modifier
+FBA-FFE-199
+
+// Enable Round Select and SFX Test
+00C0-0802

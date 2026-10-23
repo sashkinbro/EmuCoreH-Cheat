@@ -1,0 +1,70 @@
+// Almost infinite breath
+AKRT-JA64
+
+// Protection from most jellyfish and many other enemies
+AL2A-JA7L
+
+// Protection from spiked shells and some other enemies
+ALZA-JA5Y
+
+// Protection from octopus
+AAVT-NAFC
+
+// Octopus is fatal
+HAVT-NAFC
+
+// Charging a school of fish restores health completely instead of partially
+HCBT-LAEW
+
+// Most jellyfish and some other enemies restore breath instead of damaging health
+SW2A-KGPJ
+TC2A-JGFL
+E42A-JAFN
+
+// Swim through rocks.
+RGJT-J61N
+
+// Most Jellyfish And Some Other Enemies Restore Bealth Instead Of Taking It Away
+SW2A-KGPJ
+HC2A-JAFL
+
+// Infinite Health
+FFB634:0040
+
+// Infinite Air
+FFB636:0400
+
+// Air Meter Stays The Same (Official Codes)
+FFB636:0003
+
+// Ghost Ecco (Use The D-Pad And C To Move/Swim)
+FFB63E:0011
+
+// Level Select
+FFA61C:0000
+
+// Ecco accelerates faster when using just the directional pad.
+G29A-JA7C
+
+// Ecco has a much higher top speed when using just the directional pad.
+931A-JAE2
+
+// Ecco swims much faster when using the C button.
+AC9T-K2JY
+
+// Invincibility (infinite air, infinite energy).
+RHZT-J6V6
+
+// Swim Through Walls
+ACXT-JA60
+
+// Invincibility (Stars)
+FFB7CC:000A
+
+// Pause the game and press Right for Debug Menu
+AR6T-KAX4
+RG6T-J6YR
+
+// Pause the game and press Right for Debug Menu
+A1HT-KAW8
+RHHT-J6XT

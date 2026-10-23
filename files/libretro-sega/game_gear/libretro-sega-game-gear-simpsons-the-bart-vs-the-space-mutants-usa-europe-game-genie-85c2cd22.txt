@@ -1,0 +1,17 @@
+// Infinite Coins
+002-D09-E6E
+
+// Infinite Time
+009-5DC-E6E
+
+// Start With 5 Coins
+21D-18B-2A2
+05E-A3E-A2A
+
+// Start With 15 Coins
+15E-A3E-A2A
+21D-18B-2A2
+
+// Start With 20 Coins
+21D-18B-2A2
+20E-A3E-A2A

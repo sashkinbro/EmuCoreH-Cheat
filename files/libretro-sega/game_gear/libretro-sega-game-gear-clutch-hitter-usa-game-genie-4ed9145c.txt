@@ -1,0 +1,21 @@
+// Strikes Aren't Called
+005-109-19A
+
+// 2 Strikes & You're Out
+025-129-E66
+
+// 4 Strikes & You're Out
+045-129-E66
+
+// 1 Ball & You Walk
+015-3B9-F7A
+
+// 2 Balls & You Walk
+025-3B9-F7A
+
+// Balls Aren't Counted
+005-399-19A
+
+// No Scoring
+008-E99-19A
+008-F89-19A

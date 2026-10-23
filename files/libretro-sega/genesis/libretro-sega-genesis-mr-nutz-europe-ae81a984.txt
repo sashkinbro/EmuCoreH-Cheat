@@ -1,0 +1,61 @@
+// Infinite Lives
+HT6A-DAM6
+BJ6A-CAD8
+
+// Infinite Energy
+RHPT-A6XY
+
+// Invincibility
+HWAT-DAK6
+ALAT-CAB8
+
+// To get rid of the flicker with the above Invincibility cheat
+A4AT-CA40
+
+// Infinite Lives
+BJ6A-CA6L
+
+// Infinite Energy
+AXPT-AA52
+
+// Invincibility
+DWAT-CN4A
+
+// Infinite Lives
+FFF544:00B2
+
+// Infinite Energy
+FFE114:007F
+
+// Infinite Nuts
+FFE6FE:0009
+
+// Re-Enable Password (AAAAAA)
+NFJT-EC3N
+NFJT-EC3R
+NFJT-EC3T
+
+// Invincibility
+FFE07C:0010
+
+// Skip Levels In Game Hold A+B+C+Left+Down
+AMFT-AA7E
+
+// Controllable Jump
+ADWT-BAFR
+
+// Invincibility (Disable Hit Detection)
+RY2T-C6XW
+R15A-A6XN
+R1FT-C6Y0
+R1FT-C6V6
+R1ZT-A6WC
+R1PA-A610
+RYCT-C6TG
+R11T-A6YE
+AMFT-CA4G
+R1FT-C6WE
+RYWA-E6ZR
+
+// Freeze Time Continue
+AT2T-EA5T

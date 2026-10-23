@@ -1,0 +1,26 @@
+// Accelerate much faster
+3CLA-AAAN
+
+// Accelerate almost instantly
+GWLA-AAAN
+
+// Stops timer
+AL2A-AA8L
+
+// Each race is only 1 lap (instead of 5)
+AFFT-AACR
+
+// Each race is only 2 laps (instead of 5)
+AKFT-AACR
+
+// Stops Lap Timer
+FFC806:00C4
+
+// Stops Timer
+FFC050:004B
+
+// Always Finish In First Place (Best If Used With Stops Timer Code)
+FFC30C:0100
+
+// Each Race Is Only 1 Lap
+FFC310:0100

@@ -1,0 +1,44 @@
+// Player 1 Infinite Health
+00D3-B163
+
+// Infinite Health P1
+00D3-B15C
+
+// No Health P2
+00D3-F000
+
+// P1 Infinite Health
+00D3-B163
+
+// P1 No Health
+00D3-B100
+
+// P1 Partner Infinite Health
+00D4-2F63
+
+// P1 Partner No Health
+00D4-2F00
+
+// P2 Infinite Health
+00D3-F063
+
+// P2 No Health
+00D3-F000
+
+// P2 Partner Infinite Health
+00D4-6E63
+
+// P2 Partner No Health
+00D4-6E00
+
+// P1 Infinite Ringout Time
+00D4-6800
+
+// P1 Partner Infinite Ringout Time
+00D4-E600
+
+// P2 Infinite Ringout Time
+00D4-A700
+
+// P2 Partner Infinite Ringout Time
+00D5-2500

@@ -1,0 +1,26 @@
+// Infinite Air
+00CA-BF21
+
+// Infinite Health
+00CA-C222
+
+// Key For All Cheat
+00CB-9A01
+
+// Swim Through Objects Cheat
+00D7-8B01
+
+// Unlimited Life Cheat
+00D7-8C01
+
+// Infinite Health
+21E-1B9-6E2
+
+// Infinite Air
+3E4-7B8-C46
+
+// Swim Thru Walls
+00D-C29-D56
+
+// Enable Debug Menu
+019-F67-C4A

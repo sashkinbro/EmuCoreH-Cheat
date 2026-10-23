@@ -1,0 +1,261 @@
+// No Random Attacks!
+FFCB0C:0000
+
+// 999 HP
+FFC1D2:03E7
+
+// Mucho Money
+FFC622:FFFF
+
+// Max HP
+FFC002:03E7
+
+// Infinite HP
+FFC004:03E7
+
+// Max TP
+FFC006:03E7
+
+// Infinite TP
+FFC008:03E7
+
+// Max STR
+FFC010:03E7
+
+// Max INT
+FFC012:03E7
+
+// Max AGI
+FFC014:03E7
+
+// Max LUCK
+FFC016:03E7
+
+// Max DEX
+FFC018:03E7
+
+// Max ATT
+FFC01C:03E7
+
+// Item Modifier Slot 1
+FFC028:0001
+
+// Max HP
+FFC042:03E7
+
+// Infinite HP
+FFC044:03E7
+
+// Max TP
+FFC046:03E7
+
+// Infinite TP
+FFC048:03E7
+
+// Max STR
+FFC050:03E7
+
+// Max INT
+FFC052:03E7
+
+// Max AGI
+FFC054:03E7
+
+// MaxLUCK
+FFC056:03E7
+
+// Max DEX
+FFC058:03E7
+
+// Max ATT
+FFC05C:03E7
+
+// Item Modifier Slot 1
+FFC068:0001
+
+// Start With Visiphone
+S0FT-AACG
+
+// Everthing is free
+BXJA-AA26
+
+// Everthing at armor store is free
+RG8A-A60R
+
+// Everthing at tool shop is free
+RG9T-A60J
+
+// Everthing at armorer's store is free
+RG7T-A6V2
+
+// All medical care is free
+AL6T-AA50
+
+// All clones are free
+AL5T-AA76
+
+// All teleporting is free
+AMFT-AA4G
+
+// No HP taken off from physical strikes
+CJZT-AA2N
+
+// No HP taken from venom strikes
+CJ0A-AA2Y
+
+// No HP lost in damage zones
+CV2T-AA5R
+
+// Do all peaceful magic regardless tp, tp points are deducted
+BXCA-AA2L
+
+// Do all peaceful magic if you have enough tp,tp is not deducted
+RGZA-A6XL
+
+// Battle magic does not use up your tp
+CTWT-AA3L
+
+// All enemies die in one strike
+REYA-A6TY
+
+// All battle magic is 1/4x as powerful
+L2YA-AECJ
+
+// All battle magic is 1/2x as powerful
+FCYA-ACCJ
+
+// All battle magic is 2x more powerful
+G1YA-AACJ
+
+// All battle magic is 4x more powerful
+G2YA-AACJ
+
+// Do All Peaceful Magic Regardless TP (TP Points Are Deducted)
+BCXA-AA2L
+
+// Players Never Get Paralyzed
+AJ0T-AA4W
+
+// Your Regular Attacks Are More Powerful
+KAYA-AS2R
+GJYA-AAC8
+
+// Your Regular Attacks Are Much More Powerful
+KAYA-AM2R
+BAYA-AAC8
+
+// All Battle Magic Is 2X More Powerful
+GJYA-AACJ
+
+// DEF Rolf
+FFC01E:03E7
+
+// DEF Nei
+FFC05E:03E7
+
+// Item Modifier Slot 1 - Rolf
+FFC028:0001
+
+// Item Modifier Slot 1 - Nei
+FFC068:0001
+
+// Walk Through Walls
+AB0T-AA68
+
+// No random battles.
+E2MT-CA88
+
+// Random battles happen every 10 steps (20 steps in dungeons and towers).
+FAMT-CAG6
+HTMT-DFR4
+E2MT-CN88
+
+// Random battles happen every 50 steps (100 steps in dungeons and towers).
+3AMT-CAG6
+HTMT-DFR4
+E2MT-CN88
+
+// More frequent random battles.
+REMT-C604
+
+// very few random battles.
+KEMT-C784
+
+// Can buy Moon Dew in the item shop in Paseo (costs $12000).
+C2MA-C8AW
+ACEA-ELEN
+
+// Moon Dew is free.
+AA1A-CAGW
+
+// Can buy Star Mist in the item shop in Paseo (costs $1000).
+CYMA-C8AW
+ACEA-ELEN
+
+// Star Mist is free.
+AA1A-CAGC
+
+// Star Mist costs $6000.
+RA1A-DRGC
+
+// Makes the Knife twice as strong (10 attack instead of 5).
+AA3A-CYG0
+
+// Makes the Knife 10x stronger (50 attack), and has 10 defense instead of zero.
+BJ3A-DER0
+
+// Makes the Steel Bar twice as strong (14 attack instead of 7).
+AJ3T-C6AG
+
+// Makes the Steel Bar 10x stronger (70 attack), and has 10 defense instead of 2.
+BJ3T-CNTG
+
+// Start a new game in Arima.
+A0FA-AAAT
+
+// Start a new game in Oputa.
+A4FA-AAAT
+
+// Start a new game in Zema.
+A8FA-AAAT
+
+// Start a new game in Kueri.
+BCFA-AAAT
+
+// Start a new game in Piata.
+BGFA-AAAT
+
+// Start a new game in ??? (snow covered town where everyone speaks a foreign language).
+BLFA-AAAT
+
+// Can always teleport to Arima, Oputa, Zema, Kueri, or Piata.
+FFC704:0405
+FFC706:0607
+FFC708:0809
+
+// Makes the Bow Gun a 1 handed weapon.
+LY4A-CFLY
+
+// Makes the Shotgun a 1 handed weapon.
+JT4A-CFMY
+
+// Makes the Cannon a 1 handed weapon.
+JT4A-CFPY
+
+// Makes the Foi technique twice as strong.
+D24T-DD50
+
+// Makes the Foi technique 5x as strong.
+KN4T-DD50
+
+// No one in your party will take damage when using Megid.
+AJWA-AA78
+
+// Everyone in your party will level-up to level 99 after one battle
+BD3A-AA9N
+
+// Any character can equip any weapon or any armor
+FCZT-AA6J
+
+// Can always run from battle
+AX4A-AA58

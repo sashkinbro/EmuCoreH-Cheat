@@ -1,0 +1,2 @@
+// CPU Opponent Never Scores
+00D6-D500

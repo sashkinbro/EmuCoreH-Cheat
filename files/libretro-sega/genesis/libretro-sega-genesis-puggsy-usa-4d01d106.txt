@@ -1,0 +1,102 @@
+// Infinite Lives
+ATDT-AA8L
+
+// Invincibility
+FMFT-EN9N
+
+// Invincibility
+ADMT-GA2E
+
+// Jump Higher
+ADPA-F99R
+
+// Always Green Puggsy
+FF0738:0001
+
+// Always Shoes
+FF073C:0001
+
+// Credits After Complete Stage
+FF073A:0001
+
+// Vector Graphic
+FF073E:0001
+
+// Special High Jump
+FF0756:0001
+
+// Glasses Effect
+FF06D6:0001
+
+// Shoes Effect
+FF06D2:0001
+
+// Kill Boss Now
+FF0798:00FF
+
+// Secret Extra Levels On Map
+FF0740:0001
+
+// Always Shield
+FF072A:0001
+
+// Infinte Energy
+FF0794:0006
+
+// Finish Boss Energ
+FF0798:0000
+
+// Invincibility
+FF0728:00FF
+
+// Goto Final Stage
+FF0452:0033
+
+// Infinite Lives
+FF0866:0009
+
+// Infinite Energy
+ADNA-GA2L
+
+// Invincibility Against Bosses
+RYPT-G6YL
+RZCA-J60A
+RZCA-J6XG
+RZMT-J6T0
+RZVA-J6ZG
+RZ5A-J6T0
+R0DA-J6T4
+
+// Infinite Ammo The Gun
+AT9T-GA50
+
+// Enabled Secret Code Green Puggsy/Infinite Lives
+RG6A-E6YN
+AJDT-AA8C
+
+// Enable Secret Extra Levels On Map
+RGWT-G60G
+
+// Infinite Energy Against Bosses
+ATPT-GA7L
+AVCA-JA8J
+AVCA-JA5R
+AVMT-JA28
+AVVA-JA7R
+AV5A-JA28
+AWDA-JA3C
+
+// Start with 9 lives
+BEBT-AACN
+
+// Start with 19 lives
+EABT-AACN
+
+// Start with 29 lives
+GABT-AACN
+
+// Start with 49 lives
+LABT-AACN
+
+// Start with 98 lives
+XEBT-AACN

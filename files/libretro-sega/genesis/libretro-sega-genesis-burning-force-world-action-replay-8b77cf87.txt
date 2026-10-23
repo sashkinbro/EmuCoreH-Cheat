@@ -1,0 +1,2 @@
+// Gives You 40 Lives On Reset
+FFB25C:0004

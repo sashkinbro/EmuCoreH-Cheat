@@ -1,0 +1,24 @@
+// Infinite Energy
+AJ9A-AA3J
+
+// Infinite Lives
+AJ0A-AA7E
+
+// Unvincibility (Disable Hit Detection)
+RY7A-A6W4
+R08A-A61R
+R0KT-A6YC
+RZTT-A6XL
+RZSA-A6ZJ
+R0KT-A6VA
+
+// Enabled Password Code Infinite Energy
+RETA-A60R
+
+// Invincibility (Disable Hit Detection) - Gods (Japan)
+RY7A-A6WA
+R08T-A6X2
+R0LA-A6TN
+RZTT-A6TN
+RZSA-A6WL
+R0KT-A6ZL

@@ -1,0 +1,11 @@
+// Charge Power Meter Mega Always On Maximum
+A42A-AA2W
+
+// Freeze Time
+R1WT-66WE
+
+// Infinite Fuel
+AJ6T-EA5L
+
+// Infinite Ships
+AVFA-AA8A

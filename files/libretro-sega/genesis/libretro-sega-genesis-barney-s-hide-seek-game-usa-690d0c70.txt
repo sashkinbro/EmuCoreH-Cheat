@@ -1,0 +1,30 @@
+// Stage Modifier
+FFDBFA:0003
+
+// Have All Kids Found
+FFDBFC:0005
+FFDBFE:0005
+FFDC08:0005
+
+// Makes most of the intro screens go by MUCH faster
+1BET-BAW6
+
+// Skip all intros
+1BET-BCW6
+AA0A-AABW
+
+// 1 Present Worth 5
+HGTA-BY16
+HGTT-BYTC
+
+// 1 Present Worth 5 (Alt)
+HGWA-BYWA
+HGWA-BYV4
+
+// 1 Kid Worth 5
+HGZA-BYW0
+HGZA-BYW6
+
+// 1 Kid Worth 5 (Alt)
+HGZA-BYX2
+HGZA-BYX8

@@ -1,0 +1,47 @@
+// Infinite Hp
+ALYA-AA42
+
+// Money Never Decrese
+AV4A-AA3G
+
+// Sadler Max Gold
+FFF23E:270F
+
+// Sadler Max Level (99)
+FFF220:0063
+
+// Sadler 999 HP
+FFF226:03E7
+FFF228:03E7
+
+// Sadler 999 MP
+FFF22A:03E7
+FFF22C:03E7
+
+// Sadler Max Exp
+FFF222:FFFF
+
+// Sadler Max AP
+FFF22E:03E5
+
+// Sadler Max AC
+FFF236:03E6
+
+// Invincibility
+R0XT-A6TJ
+
+// Infinite Mp
+AW0A-AA94
+AW1A-AA9A
+
+// Infinite Gold
+AK4A-AA3R
+
+// 1 Hit Kill Enemies And Bosses
+ALYT-AA6E
+
+// Infinite All Tonic
+FFF256:0001
+
+// Infinite All Tonic
+ATNT-AA3W

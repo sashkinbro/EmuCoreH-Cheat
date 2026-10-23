@@ -1,0 +1,65 @@
+// Freeze Time
+ALDA-AA7T
+
+// Freeze Cpu Cars
+ALHA-AA5G
+
+// Infinite Oil
+AK5A-AA4N
+
+// Have Best Tires P1
+FF0038:0007
+
+// Have Best Engine P1
+FF003A:0007
+
+// Have Best Turbo Charge P1
+FF003C:0007
+
+// Have All Special Power Ups P1
+FF003E:0007
+
+// Max Acceleration For P1
+FF1058:00FF
+
+// Have Billions of Dollars P1
+FF0020:00FF
+
+// Music Instrument Remover
+FF02FC:0068
+
+// Character Modifier P1
+FF001C:0000
+
+// Infinite Time
+FF3CD4:0099
+
+// Max Acceleration For Car In Demo
+FF0310:00FF
+
+// Lap Modifier P1
+FF10C8:0000
+
+// Track Modifier
+FF0004:0000
+
+// Activate &quot;Unlock All Tracks&quot; Built-In Cheat
+FF0048:00FF
+
+// Boot Into Region Info Screen
+AJBT-AA3J
+
+// Level Select
+RE6A-A618
+
+// P1 Infinite Time
+FF10D4:06D6
+
+// P2 Infinite Time
+FF1172:06D6
+
+// P1 Infinite Money
+FF0020:270F
+
+// P2 Infinite Money
+FF0022:270F

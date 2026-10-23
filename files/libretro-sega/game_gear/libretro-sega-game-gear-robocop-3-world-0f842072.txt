@@ -1,0 +1,69 @@
+// Start with 1 life
+31E-13F-2A6
+
+// Start with 5 lives
+35E-13F-2A6
+
+// Start with 9 lives
+39E-13F-2A6
+
+// Infinite lives
+3AB-30D-2A2
+
+// Infinite energy
+3AA-BF6-2A2
+3AC-156-2A2
+
+// Power-up does nothing
+3AD-346-2A2
+
+// Infinite timer
+000-E05-E6E
+
+// 100 bullets on pick-up
+019-86F-E6E
+
+// Start with 900 bullets and get 200 on each pick-up (1st Life only)
+099-86F-E6E
+
+// Infinite ammo all guns
+006-64D-A2C
+
+// Infinite Lives
+00CE-6A09
+
+// Infinite Time (Seconds)
+00CE-6499
+
+// Infinite Life
+00C7-603E
+
+// Infinite Normal Ammo (First Digit)
+00CE-A009
+
+// Infinite Normal Ammo (Final Two Digits)
+00CE-9F99
+
+// Infinite 3-Way Shot (First Digit)
+00CE-A209
+
+// Infinite 3-Way Shot (Final Two Digits)
+00CE-A199
+
+// FAKE Infinite Life
+00CE-063E
+
+// Have All Weapons
+00CD-F71F
+
+// Infinite Ammo Flamethrower
+00CE-A599
+
+// Infinite Ammo Laser
+00CE-A399
+
+// Infinite Ammo Missile Launcher
+00CE-A799
+
+// Never Die
+00CD-EF00

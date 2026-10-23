@@ -1,0 +1,125 @@
+// Infinite lives
+D3RA-AA9G
+
+// Infinite fuel
+CKPT-AA4L
+
+// Infinite ammo
+AM4A-AA4G
+
+// Mohican armor starts at 600
+MAFB-YEA6
+
+// Mohican armor starts at 800
+EAFB-YGA6
+
+// Mohican armor starts at 2000
+4AFB-YRA6
+
+// Mohican armor starts at 5000
+VAFB-ZGA6
+
+// Mohican armor starts at 10,000
+CAFB-YRJ6
+
+// Blackhawke armor starts at 1000
+9AGB-YGFG
+
+// Blackhawke armor starts at 5000
+VAGB-ZGFG
+
+// Blackhawke armor starts at 10,000
+CAGB-YRPG
+
+// Timer never runs out
+AKYT-AA2R
+
+// Infinite Armor
+R05T-A60E
+
+// Infinite Rockets
+FF10CA:00FF
+
+// Infinite Missiles
+FF10CE:00FF
+
+// Infinite Gun Ammo
+FFB1A2:00FF
+
+// Infinite Fuel
+FF10D6:00FF
+
+// Infinite Armor
+FF10D2:00FF
+
+// No Load
+FF10DA:0000
+
+// Infinite Lives
+FF10DE:00FF
+
+// Infinite Time
+FF10E2:00FF
+
+// Level Select
+FF10C2:0000
+
+// Access Two Hidden Options, Sound and Movie (Options Menu)
+ATRT-AAB4
+MNRT-AJB8
+
+// Infinite Armor
+AMFA-AA68
+AMAT-AA5Y
+
+// Choose any Copilot
+AAPT-AA82
+
+// Copilot Select
+FF10A4:0000
+
+// Start with ?? lives (when not using a password)
+AYNA-AADG
+
+// Start with ?? lives (when using a password)
+AYNA-AADG
+BAMA-AA9Y
+
+// Start on Campaign 02 - Baja Oil Rigs
+AENA-AAGW
+
+// Start on Campaign 03 - Main Rig
+AJNA-AAGW
+
+// Start on Campaign 04 - Mexico
+ANNA-AAGW
+
+// Start on Campaign 05 - San Francisco
+ATNA-AAGW
+
+// Start on Campaign 06 - Alcatraz
+AYNA-AAGW
+
+// Start on Campaign 07 - New York
+A2NA-AAGW
+
+// Start on Campaign 08 - Las Vegas
+A6NA-AAGW
+
+// Start on Campaign 09 - Casino
+BANA-AAGW
+
+// Start on Campaign 10 - Underground
+BENA-AAGW
+
+// Start on Campaign 11 - Win Screen
+BJNA-AAGW
+
+// Infinite Load
+AD9T-AA5T
+
+// Start with Fast Ladder (Winch)
+AD7A-ABVJ
+
+// Have Fast Ladder (Winch)
+FF5098:00C0

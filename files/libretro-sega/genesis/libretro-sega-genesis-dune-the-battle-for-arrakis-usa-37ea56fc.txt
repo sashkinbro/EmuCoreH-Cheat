@@ -1,0 +1,149 @@
+// Construction done faster and cheaper than normal
+A5BA-AA6G
+
+// Buildings fixed faster and cheaper than normal
+ADAA-ACGR
+
+// Buildings cannot be fixed-will still use up money if you try to fix them
+ADAA-AAGR
+
+// Buildings not damaged when layed on rock instead of concrete
+AMZT-AA6R
+
+// Start on Scenario 2
+AK0T-DA2C
+
+// Start on Scenario 3
+AP0T-DA2C
+
+// Start on Scenario 4
+AV0T-DA2C
+
+// Start on Scenario 5
+AZ0T-DA2C
+
+// Start on Scenario 6
+A30T-DA2C
+
+// Start on Scenario 7
+A70T-DA2C
+
+// Start on Scenario 8
+BB0T-DA2C
+
+// Start on Scenario 9
+BF0T-DA2C
+
+// Show credits
+BK0T-DA2C
+
+// Automatically Win Mission 1 (Atreides House Only)
+7Z2A-LGAA
+
+// Have Lots of Money
+FFD6C2:00FF
+
+// Have Maxed Out Money
+FFD6C2:00FF
+FFD6C2:00FF
+
+// Join House Modifier
+FFA62C:0028
+
+// Select your House Cursor Modifier
+FFBEF8:0020
+
+// Mission Modifier
+FFC04C:0001
+
+// P1 Selected House Modifier
+FFC274:0000
+
+// P2 Selected House Modifier
+FFC27C:0000
+
+// Main Menu Cursor Modifier
+FFD70E:00A0
+
+// Options Cursor Select
+FFDBF2:0024
+
+// Music is/Sounds are (Options)
+FFDC50:0000
+
+// Music Test (Options)
+FFFF94:0000
+
+// Sound Test (Options)
+FFFF9C:0000
+
+// Harvester only has to collect half as much spice before it returns with a full load.  See notes.
+GKPT-JACA
+
+// Harvester only has to collect 1/4 as much spice before it returns with a full load.  See notes.
+DFPT-JACA
+
+// Refinery doesn't use any energy
+AC4A-NAFT
+
+// Windtrap produces twice as much energy
+HC3T-P958
+
+// Windtrap produces 5x as much energy
+BW3T-P758
+
+// Refinery holds 2000 units (instead of 1005). See notes.
+4C4A-NRFR
+
+// Refinery holds 4000 units (instead of 1005). See notes.
+YC4A-N8FR
+
+// All vehicles and troops take no damage. See notes!
+ACZA-BA2T
+
+// 1 hit destroys any vehicles, troops, or sand worms. See notes!
+AK0A-JA34
+
+// All buildings take no damage. See notes!
+AM6T-AA24
+
+// 1 hit destroys any building.  See notes!
+AM6T-AA3C
+
+// The blue trikes (Atreides) move very slowly
+AMAA-NAH0
+
+// The blue trikes (Atreides) move faster than normal
+KSAA-NAH0
+
+// The blue trikes (Atreides) do 100 damage per shot (instead of 8)
+NXAT-NAAJ
+
+// The blue trikes (Atreides) do 2000 damage per shot (instead of 8).  See notes.
+4DAT-NRAJ
+
+// Can always see the entire map.  See notes.
+RF5A-A6ZA
+RF4T-A6WT
+
+// Can place your new buildings anywhere on the map.  See notes.
+AK8T-EA7Y
+B5YA-AA5C
+
+// The blue trikes (Atreides) can take twice as much damage before they are destroyed
+3DAA-NAGE
+
+// The blue trikes (Atreides) can take 10x as much damage before they are destroyed
+JDAA-NNGE
+
+// The blue trikes (Atreides) cost nothing to build
+ADAA-NAGL
+
+// The blue trikes (Atreides) can attack any target from anywhere on the map, no matter how far away it is.  See notes.
+K5AT-NAAG
+
+// All your troops and vehicles are invincible
+RFZT-J61N
+
+// All your buildings are invincible
+RH6T-A6TC

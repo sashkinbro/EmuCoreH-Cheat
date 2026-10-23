@@ -1,0 +1,29 @@
+// Remaining Soldiers Maxed
+FF5FE8:00FF
+
+// Cao Cao Soldiers Modifier
+FF1378:0000
+
+// Chen Gong Soldiers Modifier
+FF1390:0000
+
+// Xiahov Yuan Soldiers Modifier
+FF13A8:0000
+
+// Xiahov Dun Soldiers Modifier
+FF13C0:0000
+
+// Cao Hong Soldiers Modifier
+FF13D8:0000
+
+// Cao Ang Soldiers Modifier
+FF13F0:0000
+
+// Cao Ren Soldiers Modifier
+FF1408:0000
+
+// Yue Jim Soldiers Modifier
+FF1420:0000
+
+// Cao Chun Soldiers Modifier
+FF1438:0000

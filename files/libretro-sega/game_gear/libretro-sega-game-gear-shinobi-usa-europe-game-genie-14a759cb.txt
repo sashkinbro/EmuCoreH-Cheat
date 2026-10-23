@@ -1,0 +1,17 @@
+// Infinite Energy
+21F-055-2A2
+
+// Infinite Lives
+006-06D-3BE
+
+// Start With 6 Lives
+06B-75C-F72
+
+// Start With 8 Lives
+08B-75C-F72
+
+// Start With 9 Lives
+09B-75C-F72
+
+// On Highway Stage, Jump Onto Road And Stop Traffic
+21E-BA5-2A2

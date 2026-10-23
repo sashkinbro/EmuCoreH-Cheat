@@ -1,0 +1,74 @@
+// Bat Speed Mach X
+00CE-C300
+
+// Access Level Select
+00CB-3702
+
+// Infinite balls
+00C-EDA-19E
+
+// Infinite credits
+3A3-A6E-2A2
+
+// Start with 2 balls
+011-76D-E62
+
+// Start with 7 balls
+061-76D-E62
+
+// Start with 9 balls
+081-76D-E62
+
+// Start with 2 credits
+012-9AE-E62
+
+// Start with 6 credits
+052-9AE-E62
+
+// Start with 8 credits
+072-9AE-E62
+
+// Start on Stage 2 Under Passage
+022-E2E-E6E
+
+// Start on Stage 3 Waterfalls
+032-E2E-E6E
+
+// Start on Stage 4 Old Castle
+042-E2E-E6E
+
+// Start on Stage 5 Prairie
+052-E2E-E6E
+
+// Start on Stage 6 Volcano
+062-E2E-E6E
+
+// Start on Stage 7 World of Ice
+072-E2E-E6E
+
+// Start on Stage 8 Evil Temple
+082-E2E-E6E
+
+// Infinite Time
+3A4-32E-2A2
+
+// Time Doesn't Run Out
+00CA-EF09
+
+// Infinite Balls
+00CF-4D09
+
+// Infinite Time (Ten's Digit)
+00CA-F209
+
+// Start With ?? Number of Balls (Number Is In Hex)
+00CE-A400
+
+// Stage Select Accessible Under Time Trial
+7B4-76D-E60
+
+// Infinite Time
+3A7-53E-2A2
+
+// Freeze Timer
+00CA-F400

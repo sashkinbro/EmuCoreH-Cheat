@@ -1,0 +1,11 @@
+// Infinite Arrows P1
+00C1-2103
+
+// Infinite Lives P1
+00C1-1F02
+
+// Infinite Lives P2
+00C1-2003
+
+// Infinite Arrows P2
+00C1-2205

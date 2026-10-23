@@ -1,0 +1,11 @@
+// Infinite Health
+FFF092:0040
+
+// Infinite Lives
+FF00A2:0009
+
+// Infinite Health
+FFEB92:0040
+
+// Infinite Lives
+FF00A2:0009

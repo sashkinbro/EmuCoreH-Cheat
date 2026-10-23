@@ -1,0 +1,21 @@
+// Level Select
+00C1-1000
+
+// Infinite Time [Alternate]
+00C2-9000
+
+// Always Have Nunchucks
+00C2-6201
+
+// Invincibility
+00C2-54F0
+
+// Infinite Time
+00C2-9164
+
+// Infinite Health
+00C2-5147
+00C2-5447
+
+// Infinite Lives
+00C0-1409

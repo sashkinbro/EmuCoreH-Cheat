@@ -1,0 +1,2 @@
+// Team 2 Never Scores (Left Team On Screen At Pitching Screen)
+00C1-F200

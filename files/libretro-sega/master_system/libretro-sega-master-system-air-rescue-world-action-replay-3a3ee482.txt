@@ -1,0 +1,8 @@
+// Infinite Lives
+00C1-1309
+
+// Infinite Continues (Credits)
+00C1-0609
+
+// Infinite Time
+00CC-0A09

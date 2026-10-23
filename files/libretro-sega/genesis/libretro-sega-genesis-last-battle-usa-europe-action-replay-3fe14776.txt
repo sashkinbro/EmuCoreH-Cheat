@@ -1,0 +1,5 @@
+// Infinite Energy
+0093D8:6002
+
+// Infinite Time
+00121C:6002

@@ -1,0 +1,46 @@
+// Infinite Ships P1
+FF0872:0009
+
+// Infinite Time To Continue
+FF0822:0009
+
+// Infinite Continues
+FF0822:0009
+
+// Enable Zone Select Mode
+FF0832:0001
+
+// Enable Zone Select Mode
+ABBA-AA74
+
+// Invincibility
+RYMT-A61G
+RZPA-A614
+
+// Freeze Time To Continue
+AKCA-AA5L
+
+// Keep Power of Weapons After The Death
+AKXT-AA58
+AWCA-AA3L
+
+// Special Mode
+RFBA-A60R
+
+// Keep Homing Bomb After The Death
+ALCA-AA2A
+
+// Keep Extra Bomb After The Death
+ALBT-AA9T
+
+// Enable Sound Test After Game Over And After Best Players
+RFCT-A6XY
+
+// Enable Free Play
+RFBT-A61E
+
+// Enable Expert Mode
+RFBA-A60R
+
+// Enabled Cheat Code Invincibility
+RFBA-A6ZR

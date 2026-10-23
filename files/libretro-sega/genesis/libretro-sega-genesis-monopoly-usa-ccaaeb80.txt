@@ -1,0 +1,18 @@
+// Infinite Money
+9TLT-DGJA
+B6LT-CRJC
+96LT-CAAE
+6TLT-CKAG
+RELT-C6TJ
+
+// Infinite Money
+FF84E4:270F
+
+// Roll Modifier
+FFFFE6:0000
+
+// Select up to $65,400 of starting cash in the vault option menu when starting a new game.
+P6RT-B95G
+
+// Use with code above (P6RT-B95G) to make the counter count up faster.
+NTRT-AAEA

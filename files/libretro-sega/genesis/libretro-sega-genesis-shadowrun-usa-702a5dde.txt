@@ -1,0 +1,200 @@
+// The Samurai starts a new game with the Predator HP pistol, and the Heavy Combat Armor added to his normal inventory (in slots 5 &amp; 6).
+GJYT-RREE
+
+// The Samurai starts a new game with the HK227-S SMG, and Allegiance Shotgun added to his normal inventory (in slots 7 &amp; 8).
+BNYT-RWEG
+
+// The Samurai starts a new game with 12 Scatter Grenades, and 12 Medkits (instead of only 6).
+BTYT-R2EL
+
+// The Samurai starts a new game with 25 Scatter Grenades, and 25 Medkits (instead of only 6).
+DEYT-SWEL
+
+// Samurai starts a new game with Bare Hands (instead of Razor Claws).
+AAYT-RAFL
+
+// The Samurai Starts A New Game With 25 Ammo Clips (Instead Of Only 10)
+DEYT-RAMJ
+
+// The Samurai Starts A New Game With 50 Ammo Clips (Instead Of Only 10)
+GJYT-RAMJ
+
+// The Samurai Starts A New Game With 9 Body (Instead Of 4) And Your Def Goes Up, And Your Magical Defense Goes Up
+BEYT-RCET
+
+// The Samurai Starts A New Game With 15 Quickness (Instead Of 3), And 15 Strength (Instead Of 4)
+B6YT-R8EW
+
+// The Samurai Starts A New Game With 15 Charisma (Instead Of 1), And 15 Intelligence (Instead Of 2)
+B6YT-R8EY
+
+// The Samurai Starts A New Game With The Firearms Stat At 15 (Instead Of 4)
+B6YT-RAE4
+
+// The Samurai Starts A New Game With 9 Negotiation (Instead Of 1), And 9 Karma (Instead Of 0)
+BEYT-RWFG
+
+// Decker Starts With 25 Ammo Clips (Instead of 10)
+DEZA-RAMJ
+
+// Decker Starts With 50 Ammo Clips
+GJZA-RAMJ
+
+// Decker Starts With 99 Ammo Clips
+NNZA-RAMJ
+
+// Gator Shaman Starts With 25 Ammo Clips (Instead of 10)
+DEZT-RAMJ
+
+// Gator Shaman Starts With 50 Ammo Clips
+GJZT-RAMJ
+
+// Gator Shaman Starts With 99 Ammo Clips
+NNZT-RAMJ
+
+// When You &quot;Die&quot; And Are Taken To The Hospital, Your Mental Health Will Be 100% Instead of 80% When They Release You (Only For Character In Top Slot)
+BMDT-AADW
+
+// When You &quot;Die&quot; And Are Taken To The Hospital, Your Physical Health Will Be 100% Instead of 60% When They Release You (Only For Character In Top Slot)
+BMDT-AAC8
+
+// Money Code
+93EA-573W
+
+// Makes The Scatter Granade Do Maximum Damage (10)
+APDT-4NGY
+
+// Makes The Armor Vest Give Maximum Protection (This Will Give You Complete Protection From Some Attacks)
+BBGT-4ADY
+ABGT-4TD0
+
+// Makes The Armor Clothing Give Maximum Protection (This Will Give You Complete Protection From Some Attacks)
+BBGT-4AFE
+ABGT-4TFG
+
+// Makes The Vest With Plates Give Maximum Protection (This Will Give You Complete Protection From Some Attacks)
+BBHA-4AAE
+ABHA-4TAG
+
+// Infinite Mental Health
+AJ6A-AA3G
+
+// Infinite Physical Health
+AJ5A-AA7R
+
+// Infinite Pistol Ammo
+FA5T-BEYR
+
+// Infinite Granades
+AJ5T-AA5E
+
+// Makes The 101T Light Pistol Hold 24 Rounds of Ammo Per Clip (Instead of 12), And Increases Its Damage To 3 (Instead of 1)
+AFCT-5TEY
+
+// Makes The 101T Light Pistol Hold 38 Rounds of Ammo Per Clip (Instead of 12), And Increases Its Damage To 3 (Instead of 1)
+AFCT-4NNY
+
+// Makes The 101T Light Pistol Hold 38 Rounds of Ammo Per Clip (Instead of 12), And Gives It Max Damage (10)
+APCT-4NNY
+
+// Makes The L36 Light Pistol Hold 38 Rounds of Ammo Per Clip (Instead of 11), And Gives It Max Damage (10)
+APCT-4NRE
+
+// Spurs Are Free (Instead of $5,000)
+AC2B-YAER
+
+// Muscle Replacement Is Free (Instead of $12,000)
+AC2B-YAE0
+
+// Dermal Plating Is Free (Instead of $3,800)
+AC2B-YAE4
+
+// Wired Reflexes Are Free (Instead of $30,000)
+AC2B-YAE8
+
+// Infinite Mental Health (First Character Only)
+FF019C:0A00
+
+// Infinite Essence (First Character Only)
+FF017E:0700
+
+// Always Have At Least $1,000,000
+FFFBFE:0010
+
+// Cheat Menu/Debugger Is Always Available
+FFF100:00FF
+
+// Infinite Ammo
+FF014E:1E14
+
+// Infinite Karma
+FF018C:00FF
+
+// No Alerts In Cyberspace
+FFF0A0:00FF
+
+// Cab Rides Are Always Free
+FF018E:0021
+
+// Max Cyberdeck Memory
+FFFBC0:270F
+
+// Max Cyberdeck Storage
+FFFBC2:270F
+
+// Max Cyberdeck Load Speed
+FFFBC4:7803
+
+// All items in shops are free
+TF7A-LE1N
+
+// Contacts, info, protection from gangs, etc are free
+B2PA-EA4R
+
+// Hiring runners is free
+DAKT-EA36
+
+// No Karma is subtracted when upgrading attributes and skills
+RHLA-A6V2
+
+// Infinite Karma when upgrading attributes and skills
+AXKT-AA96
+
+// Cheat/debugger menu is always available
+ADBT-AA2T
+
+// No Essence subtracted when buying Cyberware
+AK3T-LA5G
+
+// Walk through walls
+AL7T-AA48
+
+// Walk faster
+AL4T-AA8W
+
+// The program refresh meter in the Matrix recharges twice as fast (for faster attacks).
+HF9T-DJV0
+
+// The program refresh meter in the Matrix recharges instantly (for much faster attacks).
+HF9T-D2V0
+
+// One hit kills enemies (ICE) in the Matrix
+AKWA-LA4Y
+
+// No alerts in the Matrix.
+AWNA-CA64
+
+// 1 hit kills enemies (overhead view)
+AKPA-LA6Y
+
+// Fixes the melee instant death bug.  See notes.
+AVRT-LA26
+
+// No random enemies/battles
+AMTT-CA8L
+
+// Many more random enemies or encounters
+ADTT-CA8L
+
+// Invincibility
+R03A-A6X6

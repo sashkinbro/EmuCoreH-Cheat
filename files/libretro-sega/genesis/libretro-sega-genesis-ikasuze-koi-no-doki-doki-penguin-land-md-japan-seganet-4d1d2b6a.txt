@@ -1,0 +1,8 @@
+// Infinite Lives
+FF2642:0000
+
+// Infinite Eggs
+FFEE38:0003
+
+// Select Any Stage
+FFF404:0030

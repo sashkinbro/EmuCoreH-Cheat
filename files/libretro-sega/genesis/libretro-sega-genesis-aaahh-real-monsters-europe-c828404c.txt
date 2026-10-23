@@ -1,0 +1,22 @@
+// Infinite Lives
+AWHA-AA8A
+
+// Infinite Energy
+AMDA-AA9J
+
+// Invincibility (Disable Hit Detection)
+R1DA-A6TC
+RZCT-A6XY
+R1DT-A6X2
+
+// Infinite Books
+ATYA-AA32
+
+// Infinite Special Weapon
+ATXA-AA7J
+
+// Enable Monsters Options Cheat Menu
+RE5A-A608
+
+// Jump In Mid-Air (Multi Jumps)
+BJVA-AA6N

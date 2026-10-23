@@ -1,0 +1,8 @@
+// Balls Modifier
+FF8ABC:0000
+
+// Strikes Modifier
+FF8ABC:0000
+
+// Outs Modifier
+FF8ABE:0000

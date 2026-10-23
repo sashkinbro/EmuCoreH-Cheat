@@ -1,0 +1,5 @@
+// Large Number of Lives
+002280:3CC0
+
+// Infinite Items
+FFC108:FFFF

@@ -1,0 +1,53 @@
+// Begin with web fluid
+003-39F-5D4
+
+// Start With Less Energy
+013-35F-C4A
+
+// Start With More Energy
+0A3-35F-C4A
+
+// Start With A Lot More Energy
+0F3-35F-C4A
+
+// Gives you 2,540 points
+FF3-2FF-E6E
+
+// Start With 5 Continues
+063-1DF-E66
+
+// Start With 8 Continues
+093-1DF-E66
+
+// Infinite energy
+3A4-0DD-2A2
+
+// Infinite Health
+00C1-6A08
+
+// Infinite Health
+004-0CD-19E
+
+// Don't Die When Health Reaches 0
+003-F5D-7FE
+
+// Invulnerability
+003-E9D-F7E
+
+// Infinite Web
+00C1-6D08
+
+// Infinite Web
+002-68E-19E
+
+// Always Have Web
+002-67E-912
+
+// Max Web Upon Pickup
+FF5-37D-C4A
+
+// Infinite Continues
+00C1-6803
+
+// Infinite Continues
+003-91F-E6D

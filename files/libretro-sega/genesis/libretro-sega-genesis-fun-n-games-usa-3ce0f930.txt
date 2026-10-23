@@ -1,0 +1,33 @@
+// Infinite Lives
+FF1AF8:0009
+
+// Max NRG (Health)
+FF184E:0063
+
+// Heads Whacked Modifier
+FF1486:00FF
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Infinite Mouse - Mouse Maze
+AJVA-CA9L
+
+// Infinite NRG - Space Lazer
+AW6T-AA20
+
+// Infinite Hammer - Whack A Clown
+AXST-AA2E
+
+// Invincibility - Mouse Maze
+RYWA-C6ZE
+
+// Invincibility - Space Lazer (Disable Hit Detection)
+R09T-A6VW
+R05A-A6X8
+
+// Freeze Time - Whack A Clown
+AXRA-AA4W

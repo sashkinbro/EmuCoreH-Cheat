@@ -1,0 +1,2 @@
+// Always On 1st Stroke P1
+FF2C04:0000

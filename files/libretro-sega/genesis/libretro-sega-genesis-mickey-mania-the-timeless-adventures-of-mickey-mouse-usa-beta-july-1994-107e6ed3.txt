@@ -1,0 +1,34 @@
+// Invincibility (Disable Hit Detection)
+RZ7A-A6ZC
+RZ5T-A6ZC
+R1KT-C6X4
+R02A-A6XY
+
+// Infinite Energy
+AK6A-AA3L
+A36A-AA4N
+A5KT-CA68
+
+// Infinite Lives
+AJDA-AA2N
+
+// Infinite Weapon
+AVAT-AA6T
+
+// Infinite Continue
+AJDA-AA68
+
+// Enabled Cheat Code Level Select
+RECA-E6WC
+
+// Invincibility (Disable Hit Detection)
+RZ8T-A6VL
+RZ7A-A6VL
+R04A-C6XG
+R03A-A61R
+
+// Infinite Lives
+AJDT-AA24
+
+// Infinite Weapon
+AVBA-AA7J

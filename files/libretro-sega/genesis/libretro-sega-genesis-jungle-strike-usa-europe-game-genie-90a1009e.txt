@@ -1,0 +1,5 @@
+// Infinite Ammo
+AKFT-JA9C
+
+// Infinite fuel
+AXDA-GA3N

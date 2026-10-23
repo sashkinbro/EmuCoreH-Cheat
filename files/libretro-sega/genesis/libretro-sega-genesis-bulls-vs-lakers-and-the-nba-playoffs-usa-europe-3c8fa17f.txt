@@ -1,0 +1,137 @@
+// Infinite shot clock
+ATHA-AA68
+
+// Infinite timeouts for both teams
+REJA-A6TN
+
+// Team 1 starts with 1 timeout
+AFFT-CAEL
+
+// Team 1 starts with 3 timeouts
+APFT-CAEL
+
+// Team 1 starts with 7 timeouts
+A7FT-CAEL
+
+// Team 1 starts with 9 timeouts
+BFFT-CAEL
+
+// Team 2 starts with 1 timeout
+AFFT-CAEW
+
+// Team 2 starts with 3 timeouts
+APFT-CAEW
+
+// Team 2 starts with 7 timeouts
+A7FT-CAEW
+
+// Team 2 starts with 9 timeouts
+BFFT-CAEW
+
+// Team 1 starts with 10 points
+BJCA-AAH8
+
+// Team 1 starts with 20 points
+CTCA-AAH8
+
+// Team 1 starts with 30 points
+D2CA-AAH8
+
+// Team 1 starts with 40 points
+FACA-AAH8
+
+// Team 1 starts with 50 points
+GJCA-AAH8
+
+// Team 2 starts with 10 points
+BJCT-AAAG
+
+// Team 2 starts with 20 points
+CTCT-AAAG
+
+// Team 2 starts with 30 points
+D2CT-AAAG
+
+// Team 2 starts with 40 points
+FACT-AAAG
+
+// Team 2 starts with 50 points
+GJCT-AAAG
+
+// Team 1's baskets worth 1 point
+SFBT-DEZ2
+
+// Team 1's baskets worth 2 points
+SFBT-DJZ2
+
+// Team 1's baskets worth 3 points
+SFBT-DNZ2
+
+// Team 1's baskets worth 4 points
+SFBT-DTZ2
+
+// Team 1's baskets worth 5 points
+SFBT-DYZ2
+
+// Team 1's baskets worth 6 points
+SFBT-D2Z2
+
+// Team 1's baskets worth 7 points
+SFBT-D6Z2
+
+// Team 1's baskets worth 8 points
+SFBT-DAZ2
+
+// Team 2's baskets worth 1 point
+SFBT-DEZR
+
+// Team 2's baskets worth 2 points
+SFBT-DJZR
+
+// Team 2's baskets worth 3 points
+SFBT-DNZR
+
+// Team 2's baskets worth 4 points
+SFBT-DTZR
+
+// Team 2's baskets worth 5 points
+SFBT-DYZR
+
+// Team 2's baskets worth 6 points
+SFBT-D2ZR
+
+// Team 2's baskets worth 7 points
+SFBT-D6ZR
+
+// Team 2's baskets worth 8 points
+SFBT-DAZR
+
+// All 3-pointers worth 6 points
+A30T-AAEA
+
+// All 3-pointers worth 9 points
+BF0T-AAEA
+
+// All free throws worth 2 points
+AK0T-AAAT
+
+// All free throws worth 3 points
+AP0T-AAAT
+
+// All free throws worth 6 points
+A30T-AAAT
+
+// All free throws worth 9 points
+BF0T-AAAT
+
+// Infinite Timer
+FFA4D2:0059
+
+// Infinite Shot Time
+FFA4DA:0099
+
+// Score Modifier
+FFA4CA:0000
+
+// Score Modifier
+FFA4CC:0000

@@ -1,0 +1,99 @@
+// Almost invincible
+D4DA-AA3W
+
+// Invincible against quake (the magic of the 1st boss)
+R0ZA-A6YY
+
+// Jump higher
+6KDA-BA78
+
+// Almost invincible
+D4LT-AA6J
+
+// Infinite Hp
+R0MA-A6TT
+
+// Infinite Mp
+AK2A-AA52
+
+// Infinite Lives
+AJET-AA8G
+
+// Infinite Time
+AJFA-AA58
+
+// Infinite Energy
+R0DT-A6VE
+
+// Invincibility
+D4DA-AR3W
+
+// Infinite Lives
+AJGA-AA66
+
+// Stage Modifier
+FFF410:0000
+
+// Infinite Energy
+FFF442:0020
+
+// Infinite Magic
+FFF446:0018
+
+// Have Full Powered Sword Shot
+FFF454:0003
+
+// Have All Magic
+FFF45E:0006
+
+// Infinite HP
+ALDT-AA3C
+AWZA-AA8E
+AKJA-AA5C
+AXRA-CA2R
+AXDT-CA3G
+
+// Invincibility
+R0DA-A6VT
+R0ZA-A6XE
+RZJA-A6WR
+R1RA-C6TG
+R1DT-C6TG
+
+// Keep power of sword shot after the death
+ATHT-AA8J
+
+// Don't fall when you walk off ledges (walk on air)
+RZGT-A6ZT
+
+// Pause the game to refill your HP and MP
+BJET-AA76
+
+// Start a new game with all 6 magic spells
+A2JA-AAD6
+
+// Start a new game with a stronger sword and shot
+SAHT-BEZJ
+
+// Move faster when walking
+JBGT-BJ0J
+JBHA-BLVE
+
+// Move faster when walking and jumping at the same time (diagonally)
+JBHA-BJYW
+JBHA-BLY8
+
+// Always do the high jump
+AKDA-AA76
+
+// Makes the high jump much higher
+53DA-BA70
+
+// Slower descent when jumping or falling
+BBGA-AAFT
+
+// Super slow descent when jumping or falling
+A3GA-AAFT
+
+// Enabled Unused Cheat Code? Restore HP/MP
+REET-A614

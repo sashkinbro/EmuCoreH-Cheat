@@ -1,0 +1,28 @@
+// Infinite Lives
+ATFA-CA60
+
+// Infinite Health
+ATBT-EA94
+
+// Enable Debug
+RHLT-R6X2
+
+// Infinite Lives
+FFC3B2:0002
+
+// Infinite Energy
+FFC3BA:0038
+
+// Infinite Continues
+AT8T-CA5W
+
+// Start with ?? Lives
+HWDA-BEF6
+A0DA-AAF8
+
+// Start with ?? Continues
+HWDA-BAG6
+A0DA-AAG8
+
+// Invincibility
+ABYT-GA82

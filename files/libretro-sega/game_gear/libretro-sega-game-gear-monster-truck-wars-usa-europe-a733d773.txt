@@ -1,0 +1,26 @@
+// Always Come In First (Ignore HUD)
+00D1-5201
+
+// Infinite Money
+00D1-7D98
+
+// Infinite Nitro
+00D1-FE76
+
+// Low Timer
+00D2-C600
+
+// 0% Tire Damage
+00D1-F500
+
+// 0% Suspension Damage
+00D1-FB00
+
+// 0% Chassis Damage
+00D1-FD00
+
+// 0% Engine Damage
+00D1-F700
+
+// Infinite Cash
+2A2-55D-6E2

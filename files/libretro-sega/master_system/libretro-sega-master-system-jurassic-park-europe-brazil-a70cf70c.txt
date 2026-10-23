@@ -1,0 +1,56 @@
+// Infinite Energy (Car)
+00CA-0003
+
+// Infinite Energy (Action Levels)
+00C1-EA03
+
+// Infinite Lives
+00C0-3003
+
+// Invulnerability
+01D-A2D-3B4
+
+// Invulnerability
+00DD-9002
+
+// Infinite Lives (Player Levels)
+00C0-3009
+
+// Infinite Continues
+00C0-3409
+
+// Invincibility
+189-79D-6EA
+
+// Infinite Health
+3A5-C18-2A2
+
+// Infinite Health
+7E9-AAD-3B7
+
+// Invincibility (after being hit)
+00DD-90FF
+
+// Infinite Health
+00CA-0003
+
+// Infinite Health
+00C1-EA03
+
+// Infinite Lives
+3A9-799-2A2
+
+// Infinite Continues
+00A-C09-3BE
+
+// Infinite Medkit
+004-B1A-3BE
+
+// Infinite Lives
+00C0-3063
+
+// Infinite Continues
+00C0-3463
+
+// Infinite Medkit
+00C0-3309

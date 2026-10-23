@@ -1,0 +1,35 @@
+// Infinite Footwork
+00C1-1204
+
+// Infinite Recovery
+00C1-1304
+
+// Infinite Strength
+00C1-1104
+
+// Infinite Super-Punch
+00C1-1505
+
+// Enable Test Mode
+B69-C0F-3B4
+
+// Infinite Health P1
+C94-00B-2A2
+
+// Infinite Health P1
+00C1-28FF
+
+// No Health P2
+00C1-2900
+
+// Infinite Time - Seconds One's Digit
+00C1-3309
+
+// Infinite Time - Seconds Ten's Digit
+00C1-3409
+
+// Infinite Time - Minutes' Digit
+090-C1F
+
+// Move P1 Into The Air During Fights
+00C5-0F09

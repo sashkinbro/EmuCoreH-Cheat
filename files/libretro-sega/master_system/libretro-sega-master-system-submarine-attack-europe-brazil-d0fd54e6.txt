@@ -1,0 +1,14 @@
+// Invulnerability
+00C0-F600
+
+// Invulnerability
+003-34F-91D
+
+// Infinite Lives
+00C0-2809
+
+// Infinite Lives
+B62-20C-3BE
+
+// Start with ?? Lives, instead of 3
+044-D0D-E66

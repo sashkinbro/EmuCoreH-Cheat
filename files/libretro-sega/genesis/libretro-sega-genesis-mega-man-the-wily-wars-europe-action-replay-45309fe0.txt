@@ -1,0 +1,18 @@
+// Infinite Energy
+FFA3FE:1C00
+
+// Infinite Energy (Improved)
+FFA3FE:001C
+FFAD96:1C00
+
+// Invincible (Walk Through Anything)
+FFA436:0500
+
+// Add This Code With Infinite Weapons Codes To Prevent The Game From Freezing Each Time You Pick-Up A Weapon Recharge Capsule
+FFAD98:1C00
+
+// High Jump
+FFA3F4:0020
+
+// Mega Jump
+FFA3F4:0016

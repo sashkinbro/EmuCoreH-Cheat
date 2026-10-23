@@ -1,0 +1,23 @@
+// Infinite Lives
+004-E5E-3B7
+
+// Infinite Energy
+000-02C-F7A
+
+// Start With Mega-Energy
+011-56C-B3A
+
+// One Hit & You're Invincible
+00F-93F-3BE
+
+// Don't Flash After Getting Hit
+010-20C-C4A
+
+// Longer Flash After Getting Hit
+190-20C-C4A
+
+// Most Enemies Can't Even Touch You
+C9F-C3D-082
+
+// Infinite Laser Bolts On Pick-Up
+002-36C-19E

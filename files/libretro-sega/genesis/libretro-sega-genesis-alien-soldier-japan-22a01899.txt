@@ -1,0 +1,69 @@
+// Regional lockout bypass code
+A2CA-AA8J
+
+// Infinite Player
+AJ9T-CA46
+AKJT-CA4R
+AKJT-CA4W
+
+// Invincibility
+RY9T-C6VN
+RZ0A-C6VC
+RZJT-C6WW
+RZJT-C6WT
+
+// Infinite Flame Teleport
+AV4A-CA56
+
+// Infinite Buster Force Shoot Mode A (White)
+AK9T-CA6Y
+
+// Infinite Buster Force Shoot Mode B (Green)
+AK9T-CA6C
+
+// Infinite Flame Force Shoot Mode A (White)
+ALBT-CA52
+
+// Infinite Flame Force Shoot Mode B (Green)
+ALBT-CA5G
+
+// Infinite Sword Force Shoot Mode A (White)
+ALDT-CA3T
+
+// Infinite Sword Force Shoot Mode B (Green)
+ALDT-CA28
+
+// Infinite Ranger Force Shoot Mode A (White)
+ALBA-CA9N
+
+// Infinite Ranger Force Shoot Mode B (Green)
+ALBA-CA8Y
+
+// Infinite Homing Force Shoot Mode A (White)
+ALCA-CA46
+
+// Infinite Homing Force Shoot Mode B (Green)
+ALCA-CA4L
+
+// Infinite Lancer Force Shoot Mode A (White)
+ALCT-CA6G
+
+// Infinite Lancer Force Shoot Mode B (Green)
+ALCT-CA5W
+
+// Freeze Time
+AJ0A-CA3N
+AJ0A-CA3E
+
+// Infinite Credit
+AMPT-CA90
+
+// Freeze Time Continue
+A5PT-CA6E
+
+// Infinite Jump
+AKRA-CA98
+
+// 1 Shot/Flame Teleport Kill Bosses
+AA8T-CAGR
+ABAT-CAAG

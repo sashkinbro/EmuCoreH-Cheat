@@ -1,0 +1,134 @@
+// Rounds last 30 seconds instead of 1:30
+PPGA-AEDL
+
+// Rounds last 1 minute
+2PGA-AJDL
+
+// Rounds last 2 minutes
+RPGA-AWDL
+
+// Rounds last 3 minutes
+EPGA-A6DL
+
+// Rounds last 5 minutes
+TPGA-BRDL
+
+// Rounds last 7 minutes
+6PGA-AAML
+
+// Rounds last 9 minues, 59 seconds
+57GA-A6ML
+
+// Referee Count Faster When The Player Is Knock Down
+ABDA-AA3L
+
+// Referee Always Say Fight
+ABAA-AAJW
+
+// Select Up To 42 Rounds
+ANMA-AADC
+
+// Both Players Energy Refills Fast
+AVLA-AAJC
+
+// Referee Only Count To 1 For Knockout
+ABDA-AA5G
+
+// cpu don't fight back
+ABLA-AAJJ
+
+// Knockout Count Is 3 Instead Of 10
+APDA-AADJ
+APHT-AAEN
+APHT-AAC6
+
+// Knockout Count Is 5
+AZDA-AADJ
+AZHT-AAEN
+AZHT-AAC6
+
+// Knockout Count Is 7
+A7DA-AADJ
+A7HT-AAEN
+A7HT-AAC6
+
+// Knockout Count Is 9
+BFDA-AADJ
+BFHT-AAEN
+BFHT-AAC6
+
+// Player 1's Damage Meter Recovers More Slowly
+P3WT-BFXR
+0BWT-B25T
+AEAT-AACE
+AJAT-AAGE
+
+// Player 1's Damage Meter Recovers Faster
+P3WT-BFXR
+0BWT-B25T
+CAAT-AACE
+AJAT-AAGE
+
+// Player 1's Damage Meter Recovers Much Faster
+P3WT-BFXR
+0BWT-B25T
+JAAT-AACE
+AJAT-AAGE
+
+// Player 2's Damage Meter Recovers More Slowly
+P3WT-BFXR
+0BWT-B25T
+AJAT-AACE
+AEAT-AAGE
+
+// Player 2's Damage Meter Recovers Faster
+P3WT-BFXR
+0BWT-B25T
+AJAT-AACE
+CAAT-AAGE
+
+// Player 2's Damage Meter Recovers Much Faster
+P3WT-BFXR
+0BWT-B25T
+AJAT-AACE
+JAAT-AAGE
+
+// Player 1 Scores Fewer Points
+734T-ABYG
+YB4T-B26J
+ATAT-AABY
+BJAT-AAFY
+
+// Player 1 Scores More Points
+734T-ABYG
+YB4T-B26J
+EAAT-AABY
+BJAT-AAFY
+
+// Player 2 Scores Fewer Points
+734T-ABYG
+YB4T-B26J
+BJAT-AABY
+ATAT-AAFY
+
+// Player 2 Scores More Points
+734T-ABYG
+YB4T-B26J
+BJAT-AABY
+EAAT-AAFY
+
+// Choose 1 To 19 Rounds Instead Of 1 To 12 On Options Screen
+CTLT-AAC0
+CNLT-AAFE
+
+// Infinite Energy P1
+FF84BC:00FF
+
+// Infinite Energy P2
+FF853C:00FF
+
+// No Energy P1
+FF84BC:0000
+
+// No Energy P2
+FF853C:0000

@@ -1,0 +1,676 @@
+// Both characters turn back to there original color when hit
+CTSA-AAAR
+
+// Don't take damage except from throws or grabs--both players
+AKKA-CA2L
+
+// Both players start with 1/4 health
+FTGA-AAFN
+
+// Both players start with 1/2 health
+MAGA-AAFN
+
+// Both players start with 3/4 health
+TTGA-AAFN
+
+// Allows up to 7 turbo stars on Start Game
+CCTA-AAEC
+
+// 1st normal hit wins (except throws or grabs)
+RFJT-C60L
+
+// Dizziness doesn't last
+RHEA-C6ZN
+
+// No charging required for some special moves
+CMNT-DTWC
+
+// Some special moves can be done in the air
+AC5A-CAB2
+
+// Every hit sets opponent on fire
+RFHT-C614
+GBHT-DE92
+
+// Every hit sets opponent on fire and knocks him down
+RFHT-C614
+DBHT-DE92
+
+// Every hit zaps opponent and knocks him down
+RFHT-C614
+DKHT-DE92
+
+// Every hit knocks opponent down
+RFHT-C614
+DVHT-DE92
+
+// Every hit is a &quot;hard hit&quot;--opponent almost never gets knocked down
+RFHT-C614
+BKHT-DE92
+
+// Jab projectiles go much slower for Ryu, Ken, Dhalsim, Guile, and Dee Jay
+PVST-D930
+
+// Jab projectiles go much slower for Chun-li
+PVYA-D920
+
+// Jab projectiles go much slower for Sagat
+PVWT-D926
+
+// Fierce projectiles go much faster for Ryu, Ken, Dhalsim, Guile, and Dee Jay
+GVST-DZ34
+
+// Fierce projectiles go much faster for Chun-li
+GVYA-DZ24
+
+// Fierce projectiles go much faster for Sagat
+6KWT-DS3A
+
+// Ryu's jab dragon punch [very near] does more damage
+AF4A-G9AE
+
+// Ken's roundhouse hurricane kick does much more damage
+AF5T-G9GE
+
+// Ken's fierce fireball does more damage
+AF6A-G9FJ
+
+// E. Honda's fierce sumo torpedo does more damage
+AK8T-G9D8
+
+// Blanka's fierce forward ball does more damage
+B8AT-G9FE
+
+// Guile's fierce sonic boom does more damage
+AGDT-G9D8
+
+// Chun-li's fireball does more damage
+D4GT-G9HA
+
+// Dhalsim's fierce yoga fire does more damage
+AGMA-G9AJ
+
+// Sagat's fierce high tiger does more damage
+AGST-G9BJ
+
+// Fei Long's roundhouse dragon kick does more damage
+AL9T-G9CE
+
+// Dee Jay's fierce Max Out does more damage
+D5DA-G9C4
+
+// Cammy's roundhouse cannon drill does more damage
+AG1T-G9DE
+
+// M. Bison's fierce psycho crusher does more damage
+AGNA-G9D4
+
+// P1 Can Perform Moves in Mid-Air
+FF80C0:0000
+
+// P2 Can Perform Moves in Mid-Air
+FF8340:0000
+
+// Hyper Mode P1
+FF801A:0000
+
+// Hyper Mode P2
+FF829A:0000
+
+// P1 Costume Modifier
+FF828C:0000
+
+// P2 Costume Modifier
+FF858C:0000
+
+// All P1 Hits/Projectiles Burn [Blue]
+FF8360:0022
+FF8362:0022
+
+// All P1 Hits/Projectiles Burn [Red]
+FF8360:002A
+FF8362:002A
+
+// All P2 Hits/Projectiles Burn [Blue]
+FF80E0:0022
+FF80E2:0022
+
+// All P2 Hits/Projectiles Burn [Red]
+FF80E0:002A
+FF80E2:002A
+
+// P1 Can't Be Hit [Can still be grabbed]
+FF80EC:0010
+
+// P2 Can't Be Hit [Can still be grabbed]
+FF83EC:0010
+
+// CPU don't fight back
+RHSA-CAL4
+
+// Dee Jay,Ryu,Guile,Ken,Chun Li,Dhalsim,Sagat have a combo fireball
+A7HA-CAAR
+
+// Ken can't throw fireball
+APTA-C5AG
+
+// Hyper Ken and Ryu
+WK0A-CAE4
+
+// Player 2 or CPU is untouchable
+JKFA-CJHW
+
+// Both characters are untouchable
+JKFA-CJSN
+
+// CPU or Player 2 is untouchable, hit yourself anywhere
+JKFA-CJH6
+
+// Ken fireball don't go no where
+DBTA-CA2A
+
+// Ken can't throw fireball
+DBTA-CA2G
+
+// Ken fireball don't go no where
+DBTA-CA2Y
+
+// Ken fireball is below
+ABTA-CA28
+
+// Ken and Ryu's dragon punch are fast
+AB1A-CRRN
+
+// Blanka's cannon ball can hit anybody from any distance
+B8AT-G9FA
+
+// Jump and you're untouchable
+BT5T-AABC
+
+// Untouchable
+BN5T-AABC
+
+// Both Players Are Hyper
+ZYKA-ATKG
+
+// One Hit For CPU
+AJGA-AZFJ
+
+// Guile,Ken,Ryu,Dee Jay,Satgat,Dhalsim,Chun Li Projectiles Do Less Damage
+CVGT-CA8R
+
+// Guile,Ken,Ryu,Dee Jay,Satgat,Dhalsim,Chun Li Projectiles Don't Harm Characters At All
+DVGT-CA8R
+
+// Infinite Energy
+9VET-BCBC
+0BET-AABE
+HZET-ABBG
+
+// Infinite Time
+AX8T-AAB4
+
+// Hyper Fireball Speed
+9VTT-DGCJ
+BBTT-CACL
+97TT-CACN
+JKTT-CPCR
+
+// Always Hyper Fireball
+SXRT-D4B0
+AXRT-CAB2
+
+// Only Ken And Ryu Can Throw Fireballs
+AB0T-DATW
+
+// Ken and Ryu Hurricane Kicks Are Faster
+RB1T-CRDG
+
+// Fighters can hit anywhere
+EBLT-DANL
+
+// Guile can grab or throw fighters from anywhere on the ground
+ARET-DEXJ
+
+// Players Jump Faster (Doesn't Work For The Computer)
+HXKT-DAMA
+NDKT-CCDC
+
+// Players Jump Slower (Doesn't Work For The Computer)
+HXKT-DAMA
+6DKT-CADC
+
+// Ryu Can't Throw Fireballs
+DFTT-D924
+
+// Timer Always 99 Or 66
+SAMA-AATE
+
+// All Super Moves Disable
+MALA-AATE
+
+// Ryu, Ken, Sagat Can Throw You Anywhere
+GVZA-DA36
+
+// Ken Has Combo Fireballs
+FVTA-DA30
+
+// Color Background
+LVEA-DA30
+
+// Fighters Fall From The Sky When Thrown
+HGFA-A30C
+
+// Infinite Time
+AM8T-AA34
+
+// Player 1 Is Invincible Against Regular Hits (They Are All Moves, Except Fireballs And Throws)
+RFFT-C6TG
+
+// Disable Throws
+RYMT-A6W8
+
+// Fireballs Are Harmless
+RZGT-C6XJ
+
+// Guile, Dhalsim, Deejay, Sagat Have Combo Fireballs
+KBST-CELE
+
+// Characters In Hyper Mode
+8NKA-A0VG
+
+// Game Start Star Modifier
+FFFCE8:0000
+
+// Infinite Time
+FF986E:0098
+
+// Fake Infinite Health Player 1
+FF80E8:0063
+
+// Infintie Health Player 1
+FF803C:0063
+
+// Player 1 Win Modifier
+FF828A:0000
+
+// Player 1 Action Modifier
+FF8046:0000
+
+// Fake Infinite Health P2
+FF83E8:0063
+
+// Player 2 Win Modifier
+FF858A:0000
+
+// Player 2 Action Modifier
+FF8346:0000
+
+// Player 2 Has No Health
+FF833C:0000
+
+// Character Modifier P1
+FF828A:0000
+
+// Character Modifier P2
+FF858A:0000
+
+// P1 Attack Level Modifier (0-7)
+FFFCEA:0000
+
+// P2 Attack Level Modifier (0-7)
+FFFCEA:0000
+
+// Stage Modifier (All Modes)
+FF97E0:0000
+
+// Rapid Attacks P1
+FF8290:0000
+
+// Rapid Attacks P2
+FF8590:0000
+
+// All P1 Hits/Projectiles Shock
+FF8360:001A
+FF8362:001A
+
+// All P1 Hits/Projectiles Burn
+FF8360:002A
+FF8362:002A
+
+// All P2 Projectiles Are Normal
+FF80E0:0014
+FF80E2:0014
+
+// All P2 Hits/Projectiles Shock
+FF80E0:001A
+FF80E2:001A
+
+// All P2 Hits/Projectiles Burn
+FF80E0:002A
+FF80E2:002A
+
+// Stage Music Modifier
+FFA5D8:0075
+
+// All P1 Hits/Projectiles Burn (Blue)
+FF8360:0022
+FF8362:0022
+
+// All P2 Hits/Projectiles Burn (Blue)
+FF80E0:0022
+FF80E2:0022
+
+// P1 Throws Disabled
+FF82CA:0000
+FF82CA:0000
+FF82CC:0000
+
+// P2 Throws Disabled
+FF804A:0000
+FF804A:0000
+FF804C:0000
+
+// fighters can hit anywhere #2
+EBLT-DA0R
+
+// Zangief  regular grabs  from anywhere
+AS4T-CAE8
+
+// Zangief air throw (hold forward down and push the B or C button
+AS4T-CYSE
+AS4T-C4HW
+
+// Zangief auto spin attack
+AS5T-CK98
+
+// Zangief can grab you with his Spinning Piledriver and Suplex move from anywhere
+AS6T-C530
+
+// Zangief automatically can do a suplex
+AS5T-CSX8
+AS6T-C530
+
+// Both characters are untouchble (not from throws)
+ABMT-C70L
+
+// Ryu and ken can do shoryuken fire balls
+AB0T-DJTW
+
+// Ryu and ken can do shoryuken fire balls (ken does his shoryuken)
+AB0T-DTTW
+
+// ryu and ken can hurt the players with there shoryuken without even touching them
+AB0T-D582
+
+// ryu and ken release there fire ball fast
+AB0T-DVER
+
+// ryu and ken Hurricane Kicks moves further
+AB1T-DRDG
+
+// Always Play In Car Bonus Stage
+REHA-A6W0
+HTHA-BAC2
+CAHA-AAC4
+J2HA-AA5A
+
+// Always Play In Barrels Bonus Stage
+REHA-A6W0
+HTHA-BAC2
+CJHA-AAC4
+J2HA-AA5A
+
+// Always Play In Bricks Bonus Stage
+REHA-A6W0
+HTHA-BAC2
+CEHA-AAC4
+J2HA-AA5A
+
+// Hit Anywhere Both Players
+PKFT-CYWY
+HVFT-CAC0
+Z3FT-C042
+
+// Go to all three bonus stages
+REHA-A6W0
+J2HA-AA5A
+
+// cpu hit themself by regular attacks from anywhere and hit the opponents with regular combo attacks
+AFFT-CAJC
+
+// untouchble to regular attacks and projectiles
+AFFT-CAJN
+
+// Both players are untouchble
+AVMT-CA0L
+
+// players always stuck together
+AVMT-CAZG
+
+// Skip Intro Screens
+C3WT-AA32
+A3WT-AA4J
+RFXA-A6WR
+RZXA-A6WY
+
+// Skip VS Screen
+SC9T-B200
+
+// Ken and Ryu throw there fire balls with a spinning kick
+AB0T-DATW
+
+// Ken can throw combo fireballs
+ABTA-CAB0
+
+// Regular Punch And Kicks Has a Combo Attack For Both Players
+AFFT-CG6J
+
+// Both Players Take Less Damage From Hits
+AFFT-CG76
+
+// CPU Can't Hit You With Regular Attacks
+AFFT-CAAE
+
+// CPU Gets Hurt When Attacking With Regular Hits
+AFFT-CCAC
+
+// You Can Have a Combo Attack And CPU Get Hurt When Hitting You
+AFFT-CAAC
+
+// Player 1 Is Hyper
+AC2T-CAD6
+
+// Player 1 Can Move When The Fight Start
+AC2T-CAEC
+
+// Both Players Can't Be Pushed Back When Hit (Works only on ground)
+A88A-CAAW
+
+// Both Players Get Set On Fire When Hit (Works only on ground)
+A88A-CAXA
+
+// Choose Same Character up to 8 Times in Group Mode
+FFFCF0:0008
+
+// Infinite Time - Time Challenge
+AM8A-AA6C
+
+// Select Options on Title Screen for Debug Menu
+04TT-BW8A
+
+// Choose Same Character up to 8 Times in Group Mode
+RHLA-E6X8
+RHLT-A6X8
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Vega never loses his Claw
+AMHA-CA8G
+
+// Vega's Claw absorbs 4 more hits before there is a chance of it becoming dislodged
+BXHA-CAGA
+
+// Vega's Rolling Crystal Flash is slightly faster/farther
+JAKT-EGHE
+
+// Ryu's Dragon Punch goes as far as Ken's Dragon Punch
+RF1A-C6TA
+
+// Sagat's Tiger Uppercut goes as far as Ken's Dragon Punch
+YV4T-CJF0
+NF4T-CNF2
+0P4T-CTF8
+
+// Balrog's Turnaround Punches are always Final Level Turnaround Punches
+HTFT-FAJ0
+AAFT-EYA2
+
+// P1 Color Modifier - Color 1
+9VET-BCDE
+ABET-AADG
+VZET-AFDJ
+
+// P1 Color Modifier - Color 2
+9VET-BCDE
+EBET-AADG
+VZET-AFDJ
+
+// P1 Color Modifier - Color 3
+9VET-BCDE
+JBET-AADG
+VZET-AFDJ
+
+// P1 Color Modifier - Color 4
+9VET-BCDE
+NBET-AADG
+VZET-AFDJ
+
+// P1 Color Modifier - Color 5
+9VET-BCDE
+TBET-AADG
+VZET-AFDJ
+
+// P1 Color Modifier - Color 6
+9VET-BCDE
+YBET-AADG
+VZET-AFDJ
+
+// P1 Color Modifier - Color 7
+9VET-BCDE
+2BET-AADG
+VZET-AFDJ
+
+// P1 Color Modifier - Color 8
+9VET-BCDE
+6BET-AADG
+VZET-AFDJ
+
+// P2 Color Modifier - Color 1
+9VET-BCDW
+ABET-AADY
+VZET-AMD0
+
+// P2 Color Modifier - Color 2
+9VET-BCDW
+EBET-AADY
+VZET-AMD0
+
+// P2 Color Modifier - Color 3
+9VET-BCDW
+JBET-AADY
+VZET-AMD0
+
+// P2 Color Modifier - Color 4
+9VET-BCDW
+NBET-AADY
+VZET-AMD0
+
+// P2 Color Modifier - Color 5
+9VET-BCDW
+TBET-AADY
+VZET-AMD0
+
+// P2 Color Modifier - Color 6
+9VET-BCDW
+YBET-AADY
+VZET-AMD0
+
+// P2 Color Modifier - Color 7
+9VET-BCDW
+2BET-AADY
+VZET-AMD0
+
+// P2 Color Modifier - Color 8
+9VET-BCDW
+6BET-AADY
+VZET-AMD0
+
+// Fix incorrect damage value (too high) assigned to Guile's Hip Toss Throw
+BRFT-DJ5G
+
+// Fix incorrect damage value (too high) assigned to Chun Li's Ground Throw
+BRKT-DJ2A
+
+// Fix incorrect damage value (too high) assigned to M. Bison's Throw
+BRXT-CAFN
+
+// Fix incorrect damage value (too high) assigned to Zangief's Piledriver and Brain Buster Throws
+BS8A-CAHE
+BS8T-CAHJ
+
+// Regional Lockout Bypass (European and Japanese Systems)
+L3VT-AA84
+
+// Dee Jay always gets all 4 possible hits on his Machine Gun Uppercut
+RFBA-E60W
+
+// Balrog's Turnaround Punches are always Level 2 Turnaround Punches
+HTFT-FAJ0
+8AFT-EAA2
+
+// Zangief Easy Spinning Piledriver, Atomic Suplex, and Running Bear Grab
+BD7A-CACA
+
+// T. Hawk Easy Mexican Typhoon
+CJ0A-FAVJ
+
+// Fix incorrect recovery time (too fast) assigned to Guile's Sonic Boom
+DWHT-CAB6
+
+// Fix incorrect recovery time (too slow) assigned to Sagat's High Tiger Shot
+E34T-CACL
+
+// Cammy's Cannon Drill recovers 6 frames faster
+ACYA-RCAT
+ACYA-RCAY
+ACYA-REA8
+ACYA-RCBC
+ACYA-RGBN
+ACYA-RCBT
+
+// CPU Plays Instead of You
+F26A-AEY0
+
+// P1 Infinite Health
+9VET-BCBC
+0BET-AABE
+HZET-ABBG
+
+// P2 Infinite Health
+9VET-BCBT
+0BET-AABW
+HZET-AHBY
+
+// Game Speed Modifier
+FF9932:0000
+
+// Easier Special Moves
+RHPT-C6XG
+CMNT-DAWC
+BD7A-CACA
+CJ0A-FAVJ
+
+// Easier Button Mashing Moves (Hundred Hand Slap, Lightning Kick, and Electric Thunder)
+FDNT-DJTJ

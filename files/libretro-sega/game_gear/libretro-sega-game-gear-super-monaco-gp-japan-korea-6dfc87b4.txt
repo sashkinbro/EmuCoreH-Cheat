@@ -1,0 +1,20 @@
+// Low Lap Timer (Seconds)
+00C3-6C00
+
+// FAKE Speed Modifier
+00D7-AA00
+
+// Warp Speed Ahead, Cap'n!
+00C3-0B0F
+
+// Infinite Time (Red Timer)
+00C3-6299
+
+// Infinite Time
+008-A3F-3BA
+
+// Freeze Lap Timer
+008-9BF-3BA
+
+// Freeze Lap Timer
+00C3-6B00

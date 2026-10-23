@@ -1,0 +1,294 @@
+// Play every 2nd scene (After the 1st Scene)
+SECT-BT04
+
+// Play every 3rd scene (After the 1st Scene)
+SECT-B204
+
+// Play every 4th scene (After the 1st Scene)
+SECT-BA04
+
+// Keep playing the Band Concert scene until successfully completed
+F2DT-AAFE
+
+// Start with  0 continues instead of 1
+ABHA-AADN
+
+// Start with  3 continues instead of 1
+APHA-AADN
+
+// Start with  5 continues instead of 1
+AZHA-AADN
+
+// Start with 10 continues instead of 1
+BKHA-AADN
+
+// Infinite continues
+ATEA-AA42
+
+// Start with 6 tries
+JBHA-BTX2
+
+// Start with 8 tries
+JBHA-B2X2
+
+// Start with 10 tries
+JBHA-BAX2
+
+// Start with  5 marbles
+AZLT-AABT
+
+// Start with 10 marbles
+ABLT-ACBT
+
+// Start with 25 marbles
+AZLT-AEBT
+
+// Start with 99 marbles
+BFLT-AWBT
+
+// Mickey Mouse hat adds 0 extra tries
+AT0T-AA26
+
+// Mickey Mouse hat adds 2 extra tries
+SE0T-BJT6
+
+// Mickey Mouse hat adds 3 extra tries
+SE0T-BNT6
+
+// Mickey Mouse hat adds 1 continue instead
+RT0T-AJBA
+
+// Start on Steamboat Willie, Scene 2
+AKHA-BA34
+
+// Start on Mad Doctor, Scene 1
+AVHA-BA34
+
+// Start on Mad Doctor, Scene 2
+A3HA-BA34
+
+// Start on Mad Doctor, Scene 3
+BBHA-BA34
+
+// Start on Mad Doctor, Scene 4 [the tower]
+BKHA-BA34
+
+// Start on Mad Doctor, Scene 5
+BVHA-BA34
+
+// Start on Mad Doctor, Scene 6
+B3HA-BA34
+
+// Start on Mad Doctor, Scene 7
+CBHA-BA34
+
+// Start on Moose Hunters, Scene 1
+CKHA-BA34
+
+// Start on Moose Hunters, Scene 2
+CVHA-BA34
+
+// Start on Lonesome Ghosts, Scene 1
+C3HA-BA34
+
+// Start on Lonesome Ghosts, Scene 2
+DBHA-BA34
+
+// Start on Lonesome Ghosts, Scene 3
+DKHA-BA34
+
+// Start on Mickey and The Beanstalk, Scene 1
+DVHA-BA34
+
+// Start on Mickey and The Beanstalk, Scene 2
+D3HA-BA34
+
+// Start on Mickey and The Beanstalk, Scene 3
+EBHA-BA34
+
+// Start on Mickey and The Beanstalk, Scene 4
+EKHA-BA34
+
+// Start on The Prince and The Pauper, Scene 1
+EVHA-BA34
+
+// Start on The Prince and The Pauper, Scene 2
+E3HA-BA34
+
+// Start on The Prince and The Pauper, Scene 3
+FBHA-BA34
+
+// Start on The Prince and The Pauper, Scene 4 [the tower]
+FKHA-BA34
+
+// Start on The Prince and The Pauper, Scene 5
+FVHA-BA34
+
+// Start on The Prince and The Pauper, Scene 6
+F3HA-BA34
+
+// Start on The Band Concert [secret bonus level]
+GBHA-BA34
+
+// After being hit, there is no temporary invincibility
+AB7T-AAC4
+
+// After being hit, temporary invincibility lasts 1/2x normal
+DF7T-AAC4
+
+// After being hit, temporary invincibility lasts 3x normal
+W37T-AAC4
+
+// After being hit, temporary invincibility lasts 10x normal
+8V7T-ACC4
+
+// After being hit, temporary invincibility lasts 100x normal
+VB7T-BGC4
+
+// Almost invincible
+FB7T-AA38
+
+// Infinite tries
+A2DT-AA7R
+
+// Stars do not help health
+MJ0T-AA4G
+
+// Infinite marbles [once you get one]
+CVBT-AA9L
+
+// Most marbles found are worth 0
+AT0T-AA5W
+
+// Most marbles found are worth 2
+HE0T-BJXW
+
+// Most marbles found are worth 5
+HE0T-BYXW
+
+// Most marbles found are worth 10
+B20T-AA5W
+
+// Marble counter doesn't max out at 99 [ignore counter]
+A20T-AA64
+
+// Jump lower
+A7KT-AACR
+
+// Jump much lower
+BBKT-AACR
+
+// Jump higher
+AVKT-AACR
+
+// Jump much higher
+APKT-AACR
+
+// Jump much, much higher
+AKKT-AACR
+
+// Jump way too high
+AFKT-AACR
+
+// After being hit, there is no temporary invincibility
+ADZA-CAD4
+
+// After being hit, temporary invincibility lasts 1/2x normal
+DHZA-CAD4
+
+// After being hit, temporary invincibility lasts 3x normal
+W5ZA-CAD4
+
+// After being hit, temporary invincibility lasts 10x normal
+8XZA-CCD4
+
+// After being hit, temporary invincibility lasts 100x normal
+VDZA-DGD4
+
+// Almost invincible
+FDZA-CA5G
+
+// Infinite tries [Mad Doctor Scene 4 only]
+BADA-AA60
+
+// Stars do not help health
+BXMT-CA3J
+
+// Infinite marbles [once you get one]
+CXCA-CA3C
+
+// Most marbles found are worth 0
+AXMA-CA8Y
+AXMA-CA26
+
+// Most marbles found are worth 2
+HHMA-DJ0Y
+HHMA-DJT6
+
+// Most marbles found are worth 5
+HHMA-DY0Y
+HHMA-DYT6
+
+// Most marbles found are worth 10
+CDMA-CA8Y
+CDMA-CA26
+
+// Marble counter doesn't max out at 99 [ignore counter]
+A5MT-CA2A
+A5MA-CA4J
+
+// Infinite Lives
+AADT-AAFT
+
+// Infinite Energy
+SF7T-BEXR
+P37T-AJDW
+J37T-AN5Y
+
+// Infinite Energy
+FF046E:0004
+FF046C:0000
+
+// Infinite Lives
+FF0466:0003
+
+// Infinite Hits
+FF046E:0004
+
+// Infinite Lives
+FF0466:0009
+
+// Infinite Black Balls
+FF0470:0009
+
+// Ghost Mickey
+FF06C0:0026
+
+// Stage Select Enabled (Press Start On Start Game)
+FF045A:0001
+
+// Invincible
+FF06C0:00FF
+
+// Invincibility (Disable Hit Detection)
+RZ8T-A6Z0
+RZ7A-A6Z0
+R1ZA-C6W6
+R03T-A61W
+
+// Skip Intro Screens
+C2BT-AA7C
+ATBT-AA9T
+
+// Enabled Cheat Code Level Select
+RFFT-E60A
+
+// Controllable Jump + Jump In Mid Air 2 in 1
+RELA-A606
+
+// Hit enemies from anywhere (with marbles)
+CK9A-AA8W
+
+// Always have 99 marbles, even at the very beginning of the game
+9VBT-BGRN
+BFBT-AWGR

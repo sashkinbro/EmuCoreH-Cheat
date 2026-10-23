@@ -1,0 +1,8 @@
+// Infinite Health (L)
+00C1-130F
+
+// Infinite Weapon Energy (E)
+00C1-140F
+
+// Infinite Credits (Continues)
+00C1-1909

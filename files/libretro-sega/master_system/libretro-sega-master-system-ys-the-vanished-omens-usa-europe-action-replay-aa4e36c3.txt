@@ -1,0 +1,20 @@
+// Infinite Health
+00C1-8E0F
+00C2-220F
+
+// Maximum HP/HP Is Infinite
+00C2-22FF
+
+// Maximum Str
+00C2-23FF
+
+// Maximum Def
+00C2-24FF
+
+// Maximum Gold/Gold Is Infinite
+00C2-25FF
+00C2-26FF
+
+// Maximum Experience
+00C2-27FF
+00C2-28FF

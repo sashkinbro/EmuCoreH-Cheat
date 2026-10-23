@@ -1,0 +1,5 @@
+// Mickey Only Takes One Damage Point Per Section
+00B794:4E75
+
+// Infinite Health
+FFF322:0200

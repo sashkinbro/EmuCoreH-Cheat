@@ -1,0 +1,39 @@
+// Infinite Energy
+FF47B4:33FC
+FF47B6:6868
+FF47B8:00FF
+FF47BA:41C2
+
+// Character Modifier P1
+FF8E4A:0000
+
+// Character Modifier P2
+FF8E0A:0000
+
+// CPU/P2's Number of Rounds Won Modifier
+FF19A8:0000
+
+// Fake Infinite Health P1
+FF41C2:0045
+
+// Stage Modifier
+FF08B0:0000
+
+// Infinite Time
+FF56FA:001D
+
+// Hit Anywhere Both Players
+AJ8A-AA40
+AA8A-AA6N
+AJ9A-AA6A
+AJ9A-AA68
+BT9A-AA9A
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Interplay logo music / sound effect / DAC/PCM sample modier
+RYFT-AJV0

@@ -1,0 +1,101 @@
+// Clock Runs Slower
+FB4A-AABE
+CV4A-BA46
+
+// Clock Runs Much Slower
+LB4A-AABE
+CV4A-BA46
+
+// Clock Runs Faster
+BK4A-AABE
+CV4A-BA46
+
+// Clock Runs Much Faster
+AZ4A-AABE
+CV4A-BA46
+
+// No Preliminary Races
+1A2A-A6T0
+7T2A-AET2
+
+// No Position Limit
+ACBT-AA66
+
+// World Championship Consists Of 1 Race Instead Of 16
+AG5T-AAE2
+AHFT-AACE
+AHFT-AAEG
+
+// World Championship Consists Of 2 Races
+AL5T-AAE2
+AMFT-AACE
+AMFT-AAEG
+
+// World Championship Consists Of 3 Races
+AR5T-AAE2
+ASFT-AACE
+ASFT-AAEG
+
+// World Championship Consists Of 4 Races
+AW5T-AAE2
+AXFT-AACE
+AXFT-AAEG
+
+// World Championship Consists Of 5 Races
+A05T-AAE2
+A1FT-AACE
+A1FT-AAEG
+
+// World Championship Consists Of 6 Races
+A45T-AAE2
+A5FT-AACE
+A5FT-AAEG
+
+// World Championship Consists Of 7 Races
+A85T-AAE2
+A9FT-AACE
+A9FT-AAEG
+
+// World Championship Consists Of 8 Races
+BC5T-AAE2
+BDFT-AACE
+BDFT-AAEG
+
+// World Championship Consists Of 9 Races
+BG5T-AAE2
+BHFT-AACE
+BHFT-AAEG
+
+// World Championship Consists Of 10 Races
+BL5T-AAE2
+BMFT-AACE
+BMFT-AAEG
+
+// World Championship Consists Of 11 Races
+BR5T-AAE2
+BSFT-AACE
+BSFT-AAEG
+
+// World Championship Consists Of 12 Races
+BW5T-AAE2
+BXFT-AACE
+BXFT-AAEG
+
+// World Championship Consists Of 13 Races
+B05T-AAE2
+B1FT-AACE
+B1FT-AAEG
+
+// World Championship Consists Of 14 Races
+B45T-AAE2
+B5FT-AACE
+B5FT-AAEG
+
+// World Championship Consists Of 15 Races
+B85T-AAE2
+B9FT-AACE
+B9FT-AAEG
+
+// No Preliminary Races
+1A2A-A61T
+7T2A-AE1W

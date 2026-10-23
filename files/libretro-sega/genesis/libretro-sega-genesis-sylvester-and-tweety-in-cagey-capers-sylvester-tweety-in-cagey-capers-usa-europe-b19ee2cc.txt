@@ -1,0 +1,110 @@
+// Infinite lives
+AJZA-CA68
+
+// Invincible
+DJ4T-CA8E
+
+// Start with 1 life
+AEYT-CAA2
+
+// Start with 3 lives
+ANYT-CAA2
+
+// Start with 5 lives
+AYYT-CAA2
+
+// Start with 15 lives
+B6YT-CAA2
+
+// Start with 20 lives
+CTYT-CAA2
+
+// Don't get an extra life at 100,000 points
+AJZA-CA3N
+
+// Get 2 extra lives at 100,000 points
+PJZA-DJVN
+
+// Get 3 extra lives at 100,000 points
+PJZA-DNVN
+
+// Get an extra life at 34,464 points
+AAZA-CAA8
+AAZA-CABG
+
+// Get an extra life at 165,536 points
+AJZA-CAA8
+AJZA-CABG
+
+// Get an extra life at 231,072 points
+ANZA-CAA8
+ANZA-CABG
+
+// Get an extra life at 296,608 points
+ATZA-CAA8
+ATZA-CABG
+
+// Fish bowls don't restore any health
+RE4T-C6Y8
+
+// Fish bowls restore full health
+RE4T-C6ZG
+
+// Sylvester can only take one hit
+BJ3A-CAE6
+BJ3A-CAFC
+
+// Sylvester can take less hits
+GJ3A-CAE6
+GJ3A-CAFC
+
+// Sylvester can take more hits
+3A3A-CAE6
+3A3A-CAFC
+
+// Sylvester can take a lot more hits
+FT3A-CCE6
+FT3A-CCFC
+
+// Start on Level 2 (Domestic Devils 2)
+AECT-AAA8
+
+// Start on Level 3 (Mayhem Express)
+AJCT-AAA8
+
+// Start on Level 4 (Back Alley Blues)
+ANCT-AAA8
+
+// Start on Level 5 (Hyde and Shriek)
+ATCT-AAA8
+
+// Start on Level 6 (Hyde and Shriek 2)
+AYCT-AAA8
+
+// Start on Level 7 (Oceans of Trouble)
+A2CT-AAA8
+
+// Infinite Energy
+AJ4T-CA86
+
+// Freeze Time
+AJXA-CA5Y
+
+// Go To Final Stage
+FF0004:0006
+
+// Infinite Lives
+FFFBCA:0009
+
+// Infinite Health (Sylvester)
+FF7B42:0064
+
+// Low Timer
+FFFBD2:0000
+FFFBD2:0000
+
+// Jump higher
+8J1T-B99C
+
+// Jump much higher
+721T-B99C

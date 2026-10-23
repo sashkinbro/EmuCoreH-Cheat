@@ -1,0 +1,11 @@
+// Score Modifier Left Team
+FFF50C:0000
+
+// Score Modifier Right Team
+FFF50E:0000
+
+// Time Modifier
+FFF5BA:0000
+
+// Regional Lockout Bypass
+AADA-AA5R

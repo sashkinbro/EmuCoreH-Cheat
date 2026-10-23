@@ -1,0 +1,8 @@
+// Infinite Energy
+00C0-5506
+
+// Enemy Energy At Zero, One Blow Kills
+00C8-6300
+
+// Infinite Vases
+00C0-591F

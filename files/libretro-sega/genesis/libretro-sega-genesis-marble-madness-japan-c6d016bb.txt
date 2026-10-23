@@ -1,0 +1,5 @@
+// Infinite time
+RF4A-A60J
+
+// Boot into previously inaccessible Zoom/Rotate Test Menu (Disable code and press Start when finished)
+CJSA-AA2J

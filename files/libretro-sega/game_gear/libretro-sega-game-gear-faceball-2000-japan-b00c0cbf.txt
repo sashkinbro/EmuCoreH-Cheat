@@ -1,0 +1,11 @@
+// Turkey Modifier
+00D9-5FBE
+
+// Gremlins Modifier
+00D9-6000
+
+// Rovers Modifier
+00D9-6100
+
+// Bouncers Modifier
+00D9-6200

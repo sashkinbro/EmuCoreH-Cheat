@@ -1,0 +1,23 @@
+// Infinite Time (Minutes)
+FF57C4:0063
+
+// Infinite Time (Seconds)
+FF57C4:0063
+
+// Team 1 Score Modifier
+FF50B0:0000
+
+// Team 1 Shot Modifier
+FF50D4:0000
+
+// Team 2 Score Modifier
+FF5B02:0000
+
+// Team 2 Shot Modifier
+FF50BA:0000
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T

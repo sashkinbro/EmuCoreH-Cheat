@@ -1,0 +1,29 @@
+// Infinite Jump
+00C1-4C00
+00C1-6300
+
+// Infinite Lives
+00C1-AC05
+
+// Infinite Health
+00C1-AD10
+
+// Infinite Time
+00C1-BA09
+
+// Infinite Health
+3A9-0DE-2A2
+
+// Invulnerability
+00C1-7732
+
+// Invulnerability After Taking Damage
+18C-B1F-4CA
+
+// Infinite Lives
+009-68E-19E
+
+// Infinite Time
+3A2-B0B-2A2
+3A2-ABB-2A2
+3A2-BDB-2A2

@@ -1,0 +1,29 @@
+// Infinite Lives
+AJ2A-AA96
+
+// Infinite Time
+AJZT-AA4W
+
+// Infinite Bombs
+AJ4A-AA5A
+
+// Never Loose Keys
+AKHT-AA78
+
+// Invincibility
+DA8T-AN8C
+
+// Infinite Lives
+FFE85A:0009
+
+// Infinite Time
+FFE85C:009B
+
+// Infinite Bombs
+FFE85A:000A
+
+// Infinite Keys
+FFE85C:0009
+
+// Invincibility Flashing
+FFEA40:0010

@@ -1,0 +1,26 @@
+// Infinite Lives
+AVXC-2A6A
+
+// Infinite Energy
+AKWC-2A7A
+
+// Untouchable
+RZWC-26Y8
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Jump On Any Height
+AKVC-2A8J
+
+// Infinite Aqualung Oxygen
+AMSC-0A32
+
+// Infinite Aqualung Energy
+AKWC-2A7A
+
+// 1 Shot Kill Enemies
+ALKW-2A94
+
+// 1 Shot Kill Bosses
+BCKW-2A6G

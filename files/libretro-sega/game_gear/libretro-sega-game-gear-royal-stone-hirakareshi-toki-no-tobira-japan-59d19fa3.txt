@@ -1,0 +1,7 @@
+// Infinite HP - In-Battle - All Characters
+00D6-6DE7
+00D6-6E03
+
+// Infinite HP - In-Battle - All Characters
+3A0-919-2A2
+3A0-959-2A2

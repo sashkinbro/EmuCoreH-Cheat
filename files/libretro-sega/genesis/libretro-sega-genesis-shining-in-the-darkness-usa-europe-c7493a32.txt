@@ -1,0 +1,528 @@
+// Infinite Peace Spell
+FF1606:0023
+
+// All your characters have infinite HP
+ATRT-AA3J
+
+// High Iq
+FF16D2:0003
+
+// High Speed
+FF16C6:0003
+
+// High Luck
+FF16CC:0003
+
+// High Attack
+FF16C0:0003
+
+// High Defense
+FF1500:0003
+
+// High Iq
+FF16D4:0003
+
+// High Speed
+FF16C8:0003
+
+// High Luck
+FF16CE:0003
+
+// High Attack
+FF16C2:0003
+
+// High Defense
+FF1502:0003
+
+// High Iq
+FF16D6:0001
+
+// High Speed
+FF16CA:0003
+
+// High Luck
+FF16D0:0003
+
+// High Attack
+FF16C4:0003
+
+// High Defense
+FF1504:0003
+
+// No Random Attacks
+FF2008:00FF
+
+// Mucho And Infinite Money
+FF16A4:00FF
+
+// Exp. 2
+FF16DE:0F00
+
+// Max-infinite HP
+FF16A8:03E7
+FF16B4:03E7
+
+// High IQ
+FF16D2:03E7
+
+// High Speed
+FF1512:03E7
+
+// High Luck
+FF1518:03E7
+
+// High Attack
+FF16C0:03E7
+
+// High Defense
+FF1500:03E7
+
+// Item Modifier Slot 1
+FF16EA:0000
+
+// Item Modifier Slot 2
+FF16EC:0000
+
+// Exp.
+FF16E2:0F00
+
+// Max-infinite HP
+FF16AA:03E7
+FF16B6:03E7
+
+// Max-infinite MP
+FF16B0:03E7
+FF15BC:03E7
+
+// High IQ
+FF16D4:03E7
+
+// High SPD
+FF1514:03E7
+
+// High Luck
+FF151A:03E7
+
+// High Attack
+FF16C2:03E7
+
+// High Defense
+FF1502:03E7
+
+// Exp.
+FF16E6:0F00
+
+// Max-infinite HP
+FF16AC:03E7
+FF16B8:03E7
+
+// Max-infinite MP
+FF16B2:03E7
+FF16BE:03E7
+
+// High IQ
+FF16D6:03E7
+
+// High SPD
+FF1516:03E7
+
+// High Luck
+FF151C:03E7
+
+// High Attack
+FF16C4:03E7
+
+// High Defense
+FF1504:03E7
+
+// The minister gives you 50 GP instead of 200
+GJTA-EAB2
+
+// The minister gives you 500 GP
+8TTA-ECB2
+
+// The minister gives you 5,000 GP
+VATA-FGB2
+
+// The minister gives you 25,000 GP
+ZATA-EC32
+
+// Start new game with 100 hit points instead of 24
+NT0T-AABY
+NT0T-AACA
+
+// Start new game with 400 hit points
+WA0T-ACBY
+WA0T-ACCA
+
+// Start new game with 999 hit points
+660T-AGBY
+660T-AGCA
+
+// Start new game with 100 attack points instead of 18
+NT0T-AACN
+
+// Start new game with 700 attack points
+1T0T-AECN
+
+// Start new game with 50 defense points instead of 4, and 100 speed points instead of 8
+NT0T-AACW
+
+// Start new game with 350 defense points and 700 speed points
+1T0T-AECW
+
+// Start new game with 100 IQ points instead of 8
+NT0T-AAC8
+
+// Start new game with 700 IQ points
+1T0T-AEC8
+
+// Start new game with 100 luck points instead of 6
+NT0T-AAC2
+
+// Start new game with 700 luck points
+1T0T-AEC2
+
+// Start new game with 100 experience points instead of 8
+NT0T-AADN
+
+// Start new game with 700 experience points
+1T0T-AEDN
+
+// Start new game with 100 magic points instead of none
+NT0T-AAB4
+NT0T-AACG
+
+// Start new game with 200 magic points
+3A0T-AAB4
+3A0T-AACG
+
+// Cotton robe costs 0 GP instead of 80
+AAKT-AAFR
+
+// Woven robe costs 0 GP instead of 200
+AAKT-AAF0
+
+// Straw robe costs 0 GP instead of 250
+AAKT-AAGR
+
+// Fur robe costs 0 GP instead of 450
+AAKT-AAF8
+
+// Hemp robe costs 0 GP instead of 700
+AAKT-AAG0
+
+// Leather armor costs 0 GP instead of 700
+AAKT-AAH8
+
+// Chain mail costs 0 GP instead of 1200
+AALA-AAAG
+
+// Bronze armor costs 0 GP instead of 3200
+AALA-AAA0
+
+// Main gauche costs 0 GP instead of 900
+AALT-AAG0
+
+// Madu costs 0 GP instead of 2500
+AALT-AAG8
+
+// Gauntlet costs 0 GP instead of 120
+AAMA-AAAG
+
+// Leather shield costs 0 GP instead of 300
+AALA-AAC0
+
+// Bronze shield costs 0 GP instead of 700
+AALA-AAB8
+
+// Cloth hood costs 0 GP instead of 120
+AALA-AAD8
+
+// Leather helm costs 0 GP instead of 300
+AALA-AAFR
+
+// Woven hood costs 0 GP instead of 450
+AALA-AAEG
+
+// Fur hood costs 0 GP instead of 1030
+AALA-AAER
+
+// Bronze helm costs 0 GP instead of 1200
+AALA-AAF0
+
+// Iron helm costs 0 GP instead of 3400
+AALA-AAF8
+
+// Bronze knife costs 0 GP instead of 100
+AAKA-AABG
+
+// Wooden club costs 0 GP instead of 120
+AAKT-AAA0
+
+// Short sword costs 0 GP instead of 200
+AAKA-AABR
+
+// Bronze saber costs 0 GP instead of 300
+AAKA-AAD0
+
+// Short axe costs 0 GP instead of 330
+AAKA-AAFG
+
+// Sword costs 0 GP instead of 750
+AAKA-AAB0
+
+// Woodstaff costs 0 GP instead of 760
+AAKA-AAGR
+
+// Herb costs 0 GP instead of 12
+AALA-AAH8
+
+// Depoison costs 0 GP instead of 15
+AALT-AAAG
+
+// Angel feather costs 0 GP instead of 24
+AALT-AAAR
+
+// Wisdom seed costs 0 GP instead of 8
+AALT-AAA0
+
+// Healer fruit costs 0 GP instead of 100
+AALT-AAE0
+
+// Smelling salts costs 0 GP instead of 30
+AALT-AAE8
+
+// Room for the night costs 0 GP instead of 10
+AA0T-EAAT
+
+// Item Mod
+FF16EA:00BE
+FF16EC:00BE
+
+// Item Mod
+FF16FA:00BE
+FF16FC:00BE
+
+// Item Mod
+FF170A:00BE
+FF170C:00BE
+
+// Start With 350 Attack
+M20T-ACCN
+
+// Start With 350 Speed
+M20T-ACCW
+
+// Start With Light Sword
+A60T-AAD0
+
+// Start With Mithril Armor
+JE0T-AAD2
+
+// Start With Mithril Shield
+KE0T-AAD4
+
+// Start With Mithril Helmet
+L60T-AAD6
+
+// Start With 350 Attack
+M20T-ACCR
+
+// Start With 350 Speed
+M20T-ACCY
+
+// Start With 350 Magic
+M20T-ACCJ
+
+// Start With Super Flail
+FJ0T-AAEG
+
+// Start With Mithril Armor
+JE0T-AAEJ
+
+// Start With Mithril Shield
+KE0T-AAEL
+
+// Start With Mithril Helmet
+L60T-AAEN
+
+// Start With Magic Ring
+PA0T-AAER
+
+// Start With Earth Hammer
+SA0T-AAET
+
+// Start With 350 Attack
+M20T-ACCT
+
+// Start With 350 Speed
+M20T-ACC0
+
+// Start With 350 Magic
+M20T-ACCL
+
+// Start With Steel Whip
+E60T-AAE0
+
+// Start With Magic Mail
+MJ0T-AAE2
+
+// Start With Mithril Shield
+KE0T-AAE4
+
+// Start With Mithril Hood
+LA0T-AAE6
+
+// Start With Magic Ring
+PA0T-AAFA
+
+// Start With Earth Hammer
+SA0T-AAFC
+
+// Item Modifier #1
+FF16FA:0000
+
+// Item Modifier #2
+FF16FC:0000
+
+// Item Modifier #3
+FF16FE:0000
+
+// Item Modifier #4
+FF1700:0000
+
+// Item Modifier #5
+FF1702:0000
+
+// Item Modifier #6
+FF1704:0000
+
+// Item Modifier #7
+FF1706:0000
+
+// Item Modifier #8
+FF1708:0000
+
+// Item Modifier #1
+FF170A:0000
+
+// Item Modifier #2
+FF170C:0000
+
+// Item Modifier #3
+FF170E:0000
+
+// Item Modifier #4
+FF1710:0000
+
+// Item Modifier #5
+FF1712:0000
+
+// Item Modifier #6
+FF1714:0000
+
+// Item Modifier #7
+FF1716:0000
+
+// Item Modifier #8
+FF1718:0000
+
+// HP
+FF16A8:03E7
+
+// HP
+FF16B4:03E7
+
+// Item Modifier Slot 1
+FF16EA:00BE
+
+// Item Modifier Slot 2
+FF16EC:00DE
+
+// HP
+FF16AA:03E7
+
+// HP
+FF16B6:03E7
+
+// MP
+FF16B0:03E7
+
+// MP
+FF15BC:03E7
+
+// HP
+FF16AC:03E7
+
+// HP
+FF16B8:03E7
+
+// MP
+FF16B2:03E7
+
+// MP
+FF16BE:03E7
+
+// Extra items for sale in shops.
+CDYT-AA36
+
+// Makes the Bronze Knife stronger.
+B6KA-ABBJ
+
+// Makes the Bronze Knife much stronger.
+JTKA-ABBJ
+
+// Makes the Short Sword stronger.
+D2KA-ABBT
+
+// Makes the Short Sword much stronger.
+W2KA-ABBT
+
+// Can always run from battles.
+ABYA-EA6C
+
+// Anywhere you Search in a cave/labyrinth, you'll find a chest. See notes.
+ALBA-AA50
+
+// 1 hit kills most enemies.
+MKNT-EE0G
+
+// Chests that normally give you $50 will give you $500 instead.
+8WBT-ACC6
+
+// Chests that normally give you $50 will give you $10,000 instead.
+CCBT-ARL6
+
+// All chests that give you gold will give you $9,999,999.
+HTVA-AJMT
+
+// Can buy anything in shops, even if you don't have enough money.
+EABA-EA52
+
+// Can buy the Long Spear in the Weapon Shop
+D2AA-EJJJ
+
+// Can buy the Steel Whip in the Weapon Shop
+D2AA-ERJJ
+
+// Can buy the Fire Sword in the Weapon Shop
+D2AA-ELAJ
+
+// Can buy the Doom Blade in the Weapon Shop
+D2AA-E0JJ
+
+// Can buy the Mithril Axe in the Weapon Shop
+D2AA-E4AJ
+
+// Can buy the Magic Ring in the Alkemist Shop
+PAAA-FGVC
+
+// Can buy the Black Box in the Alkemist Shop
+SNAA-FGVC
+
+// Walk thru walls
+RY3A-A6TC
+
+// No random battles
+AKRT-AA34

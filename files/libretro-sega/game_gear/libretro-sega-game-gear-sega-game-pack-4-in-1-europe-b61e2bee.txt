@@ -1,0 +1,23 @@
+// Shoot Yourself (The Blonde Buy) Instead of Soccer Ball (In Soccer Game)
+00C1-0409
+
+// Score Modifier P2 (Tennis Game)
+00C5-0B00
+
+// P1 Scores 6 (In Soccer Game)
+00C1-0E06
+
+// CPU Never Scores (In Soccer Game)
+00C1-0F00
+
+// Have Infinite Tries (In Puzzle Game)
+00C6-1709
+
+// Infinite Time - One's Digit (In Racing Game)
+00C4-2F09
+
+// Infinite Time - Ten's Digit (In Racing Game)
+00C4-3009
+
+// Infinite Time (Racing Game)
+C97-FEC-A29

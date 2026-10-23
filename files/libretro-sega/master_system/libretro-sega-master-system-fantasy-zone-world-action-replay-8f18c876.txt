@@ -1,0 +1,21 @@
+// Infinite Lives
+00C0-6503
+
+// Infinite Money
+00C0-6699
+00C0-6799
+
+// Infinite Weapon Power
+00C0-8615
+
+// Infinite Weapon Power (Alternate)
+00C0-8500
+
+// Infinite Fire Bomb
+00C0-CD09
+
+// Infinite Smart Bomb
+00C0-CE09
+
+// Infinite Heavy Bomb
+00C0-CE09

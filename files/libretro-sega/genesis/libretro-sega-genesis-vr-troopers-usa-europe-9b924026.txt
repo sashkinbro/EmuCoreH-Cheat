@@ -1,0 +1,58 @@
+// CPU Doesn't Fight Back
+C57A-AANT
+
+// Can't Be Hurt By Normal Attacks
+CR8A-AXDR
+
+// Infinite timer
+AAGA-AAA2
+
+// Start with very little energy
+AGJT-AAFL
+
+// Start with 1/4 energy
+CCJT-AAFL
+
+// Start with 1/2 energy
+ECJT-AAFL
+
+// Start with 3/4 energy
+F8JT-AAFL
+
+// Opponent starts with very little energy
+AGKA-AAAJ
+
+// Opponent starts with 1/4 energy
+CCKA-AAAJ
+
+// Opponent starts with 1/2 energy
+ECKA-AAAJ
+
+// Opponent starts with 3/4 energy
+F8KA-AAAJ
+
+// Carry your match timer into the bonus rounds
+AAET-AABG
+
+// Timer counts by ten
+CAGA-AAAR
+
+// Infinite Energy
+9T4A-DCHC
+NN4A-CAHE
+VY4A-CMSG
+
+// Infinite Health P1
+FFA58C:0063
+
+// Infinite Time
+FFA2FC:0098
+
+// No Health P2
+FFA60C:0000
+
+// Rounds Won Modifier P1
+FFA016:0063
+
+// Rounds Won Modifier P2/CPU
+FFA018:0000

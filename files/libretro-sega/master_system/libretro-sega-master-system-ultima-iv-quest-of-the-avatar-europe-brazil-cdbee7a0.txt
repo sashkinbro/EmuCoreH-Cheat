@@ -1,0 +1,375 @@
+// Enter Dungeons On Bottom [8th] Level
+00C9-7007
+
+// Number of Moves Frozen At 60,100
+00C8-FD00
+00C9-0100
+
+// Infinite Food
+00C9-070F
+00C9-0827
+
+// Infinite Gold
+00C9-090F
+00C9-0A27
+
+// Infinite Torches
+00C9-1363
+
+// Infinite Gems
+00C9-1463
+
+// Infinite Keys
+00C9-1563
+
+// Start With/Have All Quest Items
+00C9-51FF
+00C9-52FF
+
+// Start With/Have All Stones
+00C9-55FF
+
+// Start With/Have All Runes
+00C9-56FF
+
+// Character Slot 1 Has 800 HP/HP Is Infinite
+00C7-5120
+00C7-5203
+
+// Character Slot 1 Has Maximum HP of 800
+00C7-5320
+00C7-5403
+
+// Character Slot 1 Has 9,999 EXP
+00C7-550F
+00C7-5627
+
+// Character Slot 1 Has STR 50
+00C7-5732
+
+// Character Slot 1 Has DEX 50
+00C7-5932
+
+// Character Slot 1 Has INT 50
+00C7-5832
+
+// Character Slot 1 Has 99 MP/MP Is Infinite
+00C7-5A63
+
+// Character Slot 1 Is Equipped With ? Weapon
+00C7-5C00
+
+// Character Slot 1 Is Equipped With ? Armor
+00C7-5D00
+
+// Character Slot 2 Has 800 HP/HP Is Infinite
+00C7-6E20
+00C7-6F03
+
+// Character Slot 2 Has Maximum HP of 800
+00C7-7020
+00C7-7103
+
+// Character Slot 2 Has 9,999 exp
+00C7-720F
+00C7-7327
+
+// Character Slot 2 Has STR 50
+00C7-7432
+
+// Character Slot 2 Has DEX 50
+00C7-7532
+
+// Character Slot 2 Has INT 50
+00C7-7632
+
+// Character Slot 2 Has 99 MP/MP Is Infinite
+00C7-7763
+
+// Character Slot 2 Is Equipped With ? Weapon
+00C7-7900
+
+// Character Slot 2 Is Equipped With ? armor
+00C7-7A00
+
+// Character Slot 3 Has 800 HP/HP Is Infinite
+00C7-8B20
+00C7-8C03
+
+// Character Slot 3 Has Maximum HP of 800
+00C7-8D20
+00C7-8E03
+
+// Character Slot 3 Has 9,999 Exp
+00C7-8F0F
+00C7-9027
+
+// Character Slot 3 Has STR 50
+00C7-9132
+
+// Character Slot 3 Has DEX 50
+00C7-9232
+
+// Character Slot 3 Has INT 50
+00C7-9332
+
+// Character Slot 3 Has 99 MP/MP Is Infinite
+00C7-9463
+
+// Character Slot 3 Is Equipped With ? Weapon
+00C7-9600
+
+// Character Slot 3 Is Equipped With ? armor
+00C7-9700
+
+// Character Slot 4 Has 800 HP/HP Is Infinite
+00C7-A820
+00C7-A903
+
+// Character Slot 4 Has Maximum HP of 800
+00C7-AA20
+00C7-AB03
+
+// Character Slot 4 Has 9,999 Exp
+00C7-AC0F
+00C7-AD27
+
+// Character Slot 4 Has STR 50
+00C7-AE32
+
+// Character Slot 4 Has DEX 50
+00C7-AF32
+
+// Character Slot 4 Has INT 50
+00C7-B032
+
+// Character Slot 4 Has 99 MP/MP Is Infinite
+00C7-B163
+
+// Character Slot 4 Is Equipped With ? Weapon
+00C7-B300
+
+// Character Slot 4 Is Equipped With ? Armor
+00C7-B400
+
+// Start With/Have Sextant
+00C9-1601
+
+// Start With/Have Cloth armor
+00C9-1863
+
+// Start With/Have Leather armor
+00C9-1963
+
+// Start With/Have Chain Mail armor
+00C9-1A63
+
+// Start With/Have Plate armor
+00C9-1B63
+
+// Start With/Have Magic Chain armor
+00C9-1C63
+
+// Start With/Have Magic Plate armor
+00C9-1D63
+
+// Start With/Have Mystic Robe
+00C9-1E63
+
+// Start With/Have Staff
+00C9-2063
+
+// Start With/Have Dagger
+00C9-2163
+
+// Start With/Have Sling
+00C9-2263
+
+// Start With/Have Mace
+00C9-2363
+
+// Start With/Have Axe
+00C9-2463
+
+// Start With/Have Sword
+00C9-2563
+
+// Start With/Have Bow
+00C9-2663
+
+// Start With/Have Crossbow
+00C9-2763
+
+// Start With/Have Flame Oil
+00C9-2863
+
+// Start With/Have Halberd
+00C9-2963
+
+// Start With/Have Magic Axe
+00C9-2A63
+
+// Start With/Have Magic Sword
+00C9-2B63
+
+// Start With/Have Magic Bow
+00C9-2C63
+
+// Start With/Have Magic Wand
+00C9-2D63
+
+// Start With/Have Mystic Sword
+00C9-2E63
+
+// Infinite Sulfur Ash
+00C9-2F63
+
+// Infinite Ginseng
+00C9-3063
+
+// Infinite Garlic
+00C9-3163
+
+// Infinite Spider Silk
+00C9-3263
+
+// Infinite Blood Moss
+00C9-3363
+
+// Infinite Black Pearl
+00C9-3463
+
+// Infinite Night Shade
+00C9-3563
+
+// Infinite Mandrake
+00C9-3663
+
+// Infinite Awaken spell
+00C9-3763
+
+// Infinite Blink spell
+00C9-3863
+
+// Infinite Cure Spell
+00C9-3963
+
+// Infinite Dispel Spell
+00C9-3A63
+
+// Infinite Energy Spell
+00C9-3B63
+
+// Infinite Fireball Spell
+00C9-3C63
+
+// Infinite Gate Spell
+00C9-3D63
+
+// Infinite Heal Spell
+00C9-3E63
+
+// Infinite Iceball Spell
+00C9-3F63
+
+// Infinite Jinx Spell
+00C9-4063
+
+// Infinite Kill Spell
+00C9-4163
+
+// Infinite Light Spell
+00C9-4263
+
+// Infinite Magic Missile Spell
+00C9-4363
+
+// Infinite Negate Spell
+00C9-4463
+
+// Infinite Open Spell
+00C9-4563
+
+// Infinite Protect Spell
+00C9-4663
+
+// Infinite Quickness Spell
+00C9-4763
+
+// Infinite Resurrect Spell
+00C9-4863
+
+// Infinite Sleep Spell
+00C9-4963
+
+// Infinite Tremor Spell
+00C9-4A63
+
+// Infinite Undead Spell
+00C9-4B63
+
+// Infinite View Spell
+00C9-4C63
+
+// Infinite Winds Spell
+00C9-4D63
+
+// Infinite Exit Spell
+00C9-4E63
+
+// Infinite Up Spell
+00C9-4F63
+
+// Infinite Down Spell
+00C9-5063
+
+// Infinite Health (Main Character)
+00C7-51FF
+
+// Character Slot 1 Has 800 HP/HP Is Infinite
+00C7-5120
+00C7-5203
+
+// Character Slot 1 Has Maximum HP of 800
+00C7-5320
+00C7-5403
+
+// Character Slot 1 Has 9,999 EXP
+00C7-550F
+00C7-5627
+
+// Character Slot 2 Has 800 HP/HP Is Infinite
+00C7-6E20
+00C7-6F03
+
+// Character Slot 2 Has Maximum HP of 800
+00C7-7020
+00C7-7103
+
+// Character Slot 2 Has 9,999 exp
+00C7-720F
+00C7-7327
+
+// Character Slot 3 Has 800 HP/HP Is Infinite
+00C7-8B20
+00C7-8C03
+
+// Character Slot 3 Has Maximum HP of 800
+00C7-8D20
+00C7-8E03
+
+// Character Slot 3 Has 9,999 Exp
+00C7-8F0F
+00C7-9027
+
+// Character Slot 4 Has 800 HP/HP Is Infinite
+00C7-A820
+00C7-A903
+
+// Character Slot 4 Has Maximum HP of 800
+00C7-AA20
+00C7-AB03
+
+// Character Slot 4 Has 9,999 Exp
+00C7-AC0F
+00C7-AD27

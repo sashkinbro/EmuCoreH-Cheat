@@ -1,0 +1,17 @@
+// Infinite Energy P1
+FF06BE:000E
+
+// Infinite Lives P1
+FF0066:0009
+
+// Infinite Gun P1
+FF0054:03E7
+
+// Infinite Energy P2
+FF076C:000E
+
+// Infinite Lives P2
+FF008C:0009
+
+// Infinite Gun P2
+FF007A:03E7

@@ -1,0 +1,11 @@
+// Invincibility
+FFE47E:1000
+
+// Infinite Lives
+ADBT-AACG
+
+// Infinite Energy
+AMBA-AA5N
+
+// Freeze Time
+ALTA-AA4R

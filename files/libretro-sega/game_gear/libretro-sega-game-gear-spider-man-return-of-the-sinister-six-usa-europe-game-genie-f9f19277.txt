@@ -1,0 +1,23 @@
+// Begin With Web Fluid
+003-39F-5D4
+
+// Start With Less Energy
+013-35F-C4A
+
+// Start With More Energy
+0A3-35F-C4A
+
+// Start With A Lot More Energy
+0F3-35F-C4A
+
+// Gives You 2,540 Points
+FF3-2FF-E6E
+
+// Start With 5 Continues
+063-1DF-E66
+
+// Start With 8 Continues
+093-1DF-E66
+
+// Infinite Energy
+3A4-0DD-2A2

@@ -1,0 +1,11 @@
+// Level Highlight Modifier (On Mode Screen - 0 to 9)
+00C3-E100
+
+// Level Modifier
+00CF-D100
+
+// Level Modifier
+00C3-CC00
+
+// Stay at current level
+3A6-74E-2A2

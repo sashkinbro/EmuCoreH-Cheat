@@ -1,0 +1,167 @@
+// Protection from most damage
+BWST-AA54
+
+// Start with 24 life bar ticks instead of 16
+96CT-BTAR
+
+// Start with 12 life bar ticks
+96CT-A2AR
+
+// Start with 8 life bar ticks
+96CT-ATAR
+
+// Start with 4 life bar ticks
+96CT-AJAR
+
+// Start with 5 rounds
+ATCT-AAAG
+
+// Start with 6 rounds
+AYCT-AAAG
+
+// Start with 7 rounds
+A2CT-AAAG
+
+// Start with 8 rounds
+A6CT-AAAG
+
+// Start with 9 rounds
+BACT-AAAG
+
+// Start with 10 rounds
+BECT-AAAG
+
+// Start with 26 energy bar ticks
+96CT-BYA0
+
+// Start with 12 energy bar ticks
+96CT-A2A0
+
+// Start with only 4 energy bar ticks
+96CT-AJA0
+
+// $10 ghosts worth $100
+ACTT-ACH6
+
+// $10 ghosts worth $1,000
+ACTT-BAH6
+
+// $10 ghosts worth $3,000
+ACTT-BAS6
+
+// $20 ghosts worth $200
+ACTT-AEH8
+
+// $20 ghosts worth $2,000
+ACTT-AAS8
+
+// $20 ghosts worth $5,000
+ACTT-BA18
+
+// $30 ghosts worth $300
+ACVA-AGAA
+
+// $30 ghosts worth $3,000
+ACVA-BAJA
+
+// $30 ghosts worth $5,000
+ACVA-BATA
+
+// $50 ghosts worth $500
+ACVA-ALAC
+
+// $50 ghosts worth $5,000
+ACVA-BATC
+
+// Infinite bombs
+AV0T-AA4C
+
+// Start with 99 bombs
+NNCT-AABN
+
+// Start with 18 bombs
+CJCT-AABN
+
+// Start with 37 bombs
+EYCT-AABN
+
+// Start with 0 bombs
+AACT-AABN
+
+// Infinite Lives
+D8EA-AAHE
+
+// Infinite Energy
+AWST-AA54
+
+// Infinite Bombs
+AV0T-AA4C
+
+// Won All Levels Without Play Them
+A37A-AN90
+
+// Invincibility
+AF0A-AADY
+
+// Gives You Lots of Money For Use In Shops
+BBGT-CA3T
+
+// Gives Your Player An Unlimited Amount of Bombs
+AV0T-AA4C
+
+// Gives Your Player Infinite Lives
+AWEA-AA9C
+
+// Infinite Life
+AWST-AA54
+AV8A-AA2L
+
+// Invincibility
+R0SA-A61C
+RZ7T-A6Z2
+
+// Infinite Energy Weapon Phaser Shell
+A2PA-AA26
+
+// Infinite Energy Shield Special Suit
+A2PT-AA4A
+
+// Infinite Item Peking Duck
+AT2A-CA60
+
+// Infinite Money
+GAXA-D2LA
+
+// Infinite Continue
+AVST-CA4W
+
+// Walk thru walls.  See notes.
+REWA-A6V8
+RYWA-A6XL
+
+// Invincibility (Walk Thru Enemies, Enemy Fire, etc). See notes
+ACSA-AA82
+
+// Jump Higher
+E31A-AABN
+
+// Jump Much Higher
+C31A-AABN
+
+// Start A New Game With All Weapons And Shields. See notes
+S6CT-AABY
+
+// Infinite Item Infrared Scope
+AT2A-CA9Y
+
+// Infinite Energy Weapon Bubble Projectile
+A2LT-AA5L
+
+// Infinite Energy Weapon 3 - Way Shot
+A2NA-AA20
+
+// Infinite Energy Weapon Explosives
+ATKT-AA7Y
+
+// Infinite Energy Shield Barrier
+ATRA-AA4A

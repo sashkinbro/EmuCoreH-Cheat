@@ -1,0 +1,263 @@
+// All hits are nothing
+ADJT-CEYN
+
+// All hits are very weak
+AHJT-DA6N
+
+// All hits are weak
+A1JT-DA6N
+
+// All hits are average
+BMJT-DA6N
+
+// All hits are strong
+CMJT-DA6N
+
+// All hits are very strong
+EDJT-DA6N
+
+// All hits are lethal
+S5JT-DA6N
+
+// Infinite time to fight
+ACVA-AAAA
+
+// Infinite credits
+AXBA-AA3C
+
+// 1 globe required for you to win match (1 player mode only)
+AGGT-AAHY
+
+// 3 globes required for you to win match (1 player mode only)
+ARGT-AAHY
+
+// 5 globes required for you to win match (1 player mode only)
+A0GT-AAHY
+
+// 10 globes required for you to win match (1 player mode only)
+BLGT-AAHY
+
+// 20 globes required for you to win match (1 player mode only)
+CWGT-AAHY
+
+// 50 globes required for you to win match (1 player mode only)
+GLGT-AAHY
+
+// 1 globe required for opponent to win match (1 player mode only)
+AGGT-AAH2
+
+// 3 globes required for opponent to win match (1 player mode only)
+ARGT-AAH2
+
+// 5 globes required for opponent to win match (1 player mode only)
+A0GT-AAH2
+
+// 10 globes required for opponent to win match (1 player mode only)
+BLGT-AAH2
+
+// 20 globes required for opponent to win match (1 player mode only)
+CWGT-AAH2
+
+// 50 globes required for opponent to win match (1 player mode only)
+GLGT-AAH2
+
+// Infinite Energy
+9TKT-BCGW
+MAKT-AAGY
+C2KT-BV00
+
+// Hit Anywhere P1
+ALJT-AA8J
+ALKT-AA3J
+
+// Hit Anywhere P2
+ALKA-AA3C
+ALKA-AA56
+
+// Invincibility P1
+ACKA-AA3C
+ACKA-AA56
+
+// Invincibility P2
+ACJT-AA8J
+ACKT-AA3J
+
+// Initial Health For You At 144% (Maximum)
+S8AT-AABT
+S8AT-AACA
+
+// Initial Health For You At 80%
+J4AT-AABT
+J4AT-AACA
+
+// Initial Health For You At 60%
+G0AT-AABT
+G0AT-AACA
+
+// Initial Health For You At 40%
+ERAT-AABT
+ERAT-AACA
+
+// Initial Health For You At 20%
+CLAT-AABT
+CLAT-AACA
+
+// Initial Health For You At 1%
+AGAT-AABT
+AGAT-AACA
+
+// Initial Health For Opponent At 144% (Maximum)
+S8AT-AAB2
+S8AT-AACJ
+
+// Initial Health For Opponent At 80%
+J4AT-AAB2
+J4AT-AACJ
+
+// Initial Health For Opponent At 60%
+G0AT-AAB2
+G0AT-AACJ
+
+// Initial Health For Opponent At 40%
+ERAT-AAB2
+ERAT-AACJ
+
+// Initial Health For Opponent At 20%
+CLAT-AAB2
+CLAT-AACJ
+
+// Initial Health For Opponent At 1%
+AGAT-AAB2
+AGAT-AACJ
+
+// P1 Infinite Health
+FFD816:0058
+
+// P1 Fake Health Modifier
+FFD816:0000
+
+// P2 Health Modifier
+FFD896:0000
+
+// P2 Fake Health Modifier
+FFD896:0000
+
+// Infinite Time
+FF00BE:0060
+
+// P1 Wins Modifier (1P Mode)
+FFD844:0000
+
+// P1 Wins Modifier (VS Mode)
+FFD84C:0000
+
+// P2 Wins Modifier (VS Mode)
+FFD8CC:0000
+
+// Character Select P1 (1P Mode)
+FF0060:0000
+
+// Opponent Modifier (1P Mode)
+FF0078:0000
+
+// P1 Character Modifier (VS Mode)
+FFD802:0000
+
+// P2 Character Modifier (VS Mode)
+FFD882:0000
+
+// Level Modifier
+FF202A:0017
+
+// Geese Howard (hidden character) is always available in the VS mode
+AKFA-AA3A
+
+// With Tu Fu Rue
+BVTA-AAD4
+
+// With Duck King
+CBTA-AAD4
+
+// With Micheal Max
+CVTA-AAD4
+
+// With Richard Meyer
+DBTA-AAD4
+
+// With Raiden
+DVTA-AAD4
+
+// With Geese Howard
+EBTA-AAD4
+
+// With Tu Fu Rue
+BVSA-AADW
+
+// With Duck King
+CBSA-AADW
+
+// With Micheal Max
+CVSA-AADW
+
+// With Richard Meyer
+DBSA-AADW
+
+// With Raiden
+DVSA-AADW
+
+// With Geese Howard
+EBSA-AADW
+
+// With Tu Fu Rue
+BVST-AAHC
+
+// With Duck King
+CBST-AAHC
+
+// With Micheal Max
+CVST-AAHC
+
+// With Richard Meyer
+DBST-AAHC
+
+// With Raiden
+DVST-AAHC
+
+// With Geese Howard
+EBST-AAHC
+
+// With Tu Fu Rue
+BVTA-AACE
+
+// With Duck King
+CBTA-AACE
+
+// With Micheal Max
+CVTA-AACE
+
+// With Richard Meyer
+DBTA-AACE
+
+// With Raiden
+DVTA-AACE
+
+// With Geese Howard
+EBTA-AACE
+
+// With Tu Fu Rue
+BVST-AAFN
+
+// With Duck King
+CBST-AAFN
+
+// With Micheal Max
+CVST-AAFN
+
+// With Richard Meyer
+DBST-AAFN
+
+// With Raiden
+DVST-AAFN
+
+// With Geese Howard
+EBST-AAFN

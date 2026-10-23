@@ -1,0 +1,63 @@
+// Ghosts are faster than normal after 1st level
+3E1-93A-6EA
+099-94A-E62
+
+// After a power pill runs out the ghosts go mad
+C92-D1A-C45
+
+// Infinite lives
+00C-F29-19E
+
+// Start with 1 life
+014-DF9-E66
+
+// Start with 9 lives
+094-DF9-E66
+
+// Infinite Lives
+00C3-A009
+
+// Infinite Power Pill Time
+00C3-9500
+
+// Infinite Lives - 1P Game - Zoom (Default) View
+3AC-F39-2A2
+
+// P1 Infinite Lives - 2P Game - Zoom (Default) View
+3AD-219-2A2
+
+// P2 Infinite Lives - 2P Game - Zoom (Default) View
+3AD-359-2A2
+
+// Infinite Power Pill Time
+3A2-3BA-2A2
+
+// P1 Start with ?? lives
+044-DF9-E66
+
+// P2 Start with ?? lives
+044-E99-E66
+
+// Infinite Lives - 1P Game - Half Screen View
+3A5-E08-2A2
+
+// P1 Infinite Lives - 2P Game - Half Screen View
+3A6-0E8-2A2
+
+// P2 Infinite Lives - 2P Game - Half Screen View
+3A6-228-2A2
+
+// Infinite Lives - Both Players - Zoom (Default) View
+00C3-A00A
+
+// Infinite Lives - Both Players - Half Screen View
+00C3-A003
+
+// Invincibility - Both Players - Zoom (Default) View
+18B-7D9-4CA
+
+// Invincibility - Both Players - Half Screen View
+184-628-4CA
+
+// Invincibility - Both Players
+00C3-C801

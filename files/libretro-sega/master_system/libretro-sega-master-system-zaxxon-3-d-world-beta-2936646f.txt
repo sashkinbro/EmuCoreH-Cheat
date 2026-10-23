@@ -1,0 +1,7 @@
+// Enable 2-D Mode
+181-E5F-6EA
+180-56E-6EA
+C9B-47E-E69
+
+// Enable 2-D Mode
+00C0-02FF

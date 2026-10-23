@@ -1,0 +1,40 @@
+// Unlimited Money
+AVTT-AA94
+AVWT-AA4C
+
+// Regional Lockout Bypass (European Systems)
+REBT-A6TL
+
+// Can't Score - Both Teams
+RGHT-A6V8
+
+// Infinite Time
+RGDT-A6ZN
+
+// Infinite Money - Both Players
+AVTT-AA94
+AVWT-AA4C
+
+// Start with $2500, instead of $1100 - Both Players
+2T1A-AWHT
+
+// Start with $5000 - Both Players
+VA1A-BGHT
+
+// Start with $10000 - Both Players
+CA1A-ARST
+
+// Start with $32767 - Both Players
+961A-B89T
+
+// Infinite Money - Both Players
+FF00FA:7FFF
+
+// Freeze Timer
+FF009E:0030
+
+// P1 Score Multiplier
+FF0DEE:0000
+
+// Electro Mode
+FFD5AA:0008

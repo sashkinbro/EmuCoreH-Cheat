@@ -1,0 +1,23 @@
+// Your Car Will Automatically Drive At Top Speed
+AJDT-CAGL
+
+// Start With 9 Lives iIn Hidden &quot;POD&quot; Game
+BHSA-CADY
+
+// Infinite Lives In Hidden &quot;POD&quot; Game
+AMRT-CA22
+
+// Infinite Time
+FF2BC6:00FF
+
+// Score Keeps Climbing
+FF2BB4:00FF
+
+// Decent Acceleration
+FF2BB4:0010
+
+// Maximum Acceleration
+FF2BB4:0025
+
+// Infinite Fuel
+AJHT-CA9T

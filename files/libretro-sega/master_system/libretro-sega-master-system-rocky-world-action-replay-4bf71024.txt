@@ -1,0 +1,14 @@
+// 99 Hits (Training)
+00C0-AC99
+
+// Infinite Health P1
+00C1-C32F
+
+// No Health P2
+00C1-E300
+
+// Move Rocky To The Far Left
+00C1-C200
+
+// Takes You Straight To Round 15
+00C0-5F0E

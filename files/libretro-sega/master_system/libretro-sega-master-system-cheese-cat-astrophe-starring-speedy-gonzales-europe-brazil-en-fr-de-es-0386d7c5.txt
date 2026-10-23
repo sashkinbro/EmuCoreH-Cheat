@@ -1,0 +1,17 @@
+// Invulnerability
+00C0-CB28
+
+// Invincibility
+001-EDB-6EE
+
+// Infinite Hearts (Health)
+00C2-1A04
+
+// Infinite Lives
+00C2-1905
+
+// Infinite Lives
+00E-D17-3BE
+
+// Infinite Health
+001-F3B-3BE

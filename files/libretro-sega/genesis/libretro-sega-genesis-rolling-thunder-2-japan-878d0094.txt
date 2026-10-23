@@ -1,0 +1,30 @@
+// Regional Lockout Bypass
+AC9T-AAC8
+
+// Infinite Lives
+AMWT-AA6W
+
+// Infinite Energy
+AMJA-AA8J
+AMFT-AA94
+AMJT-AA5W
+
+// Infinite Primary Weapon
+RHZA-A6T6
+
+// Invincibility (Disable Hit Detection)
+R1KA-A6TT
+R1JA-A6YL
+R1FT-A60J
+R1JT-A6VN
+R1HA-A60G
+RYTT-C6TA
+
+// Infinite Energy For The First Boss
+AJTT-CA2J
+
+// Infinite Secondary Weapon Extra
+RHZA-A61G
+
+// Freeze Time
+AKTT-AA7L

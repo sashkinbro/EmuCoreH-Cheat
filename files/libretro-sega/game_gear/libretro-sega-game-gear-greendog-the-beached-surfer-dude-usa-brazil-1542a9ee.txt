@@ -1,0 +1,23 @@
+// Infinite Lives
+00DC-0409
+
+// Infinite Health
+00CA-4E18
+
+// Invulnerability
+00CA-3AFF
+
+// Invulnerability
+18A-A9D-6EA
+
+// FAKE Infinite Health Modifier
+00CA-4E00
+
+// Infinite Health
+7EA-C0D-3B7
+
+// Infinite Lives
+00F-3AD-19E
+
+// Jump Higher
+BC9-EDA-919

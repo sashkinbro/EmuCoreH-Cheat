@@ -1,0 +1,732 @@
+// Enemys Keep Punching You Until You Die
+CBJA-AAG0
+
+// Skate Looks Like Shiva
+D2HA-EAF2
+LTHA-FK74
+
+// Almost Invinciblity
+5BJA-AF24
+
+// Level Skip
+ACAT-AASC
+
+// Enable &quot;Bare Knuckle 2&quot; Title Screen
+ABRA-AAAA
+
+// Enemies, Bosses Are Hard To Kill
+A5TT-A92N
+
+// Enemies, Bosses Are Easy To Kill
+A5TT-A42N
+
+// Infinite Time
+AK5A-AA86
+
+// The Remake Of Daminmancejin's Code
+RZHT-A6ZW
+
+// Clear Stages With No Enemies
+RDST-ARY8
+
+// Both Players Are Invincible Against Shooting Attacks
+AZFT-AAFA
+ABFT-BD7E
+
+// Both Players Are Invincible Against The Flying Bodies Of Enemies
+AZJT-AAB6
+ABJT-BD4A
+
+// Both Players Are Invincible Against The Grappling Attacks Of Their Partners
+AZKA-AAF0
+
+// Signal Can't Throw You
+ABYA-CA5Y
+
+// Storm Can't Grapple You
+ADET-CA5N
+
+// Jet Can't Catch You
+ACWT-CA3J
+
+// Ninja Can't Throw You
+AC2A-CA7G
+
+// Zamza Can't Grapple You From The Front Or Behind
+AB7A-CA8R
+AB7T-CA2A
+
+// Abadede Can't Grapple You, If The Difficulty Level Is Normal Or Hard, Or Hardest, Or Mania
+AA1T-CA62
+
+// Abadede Can't Grapple You, If The Difficulty Level Is Easy Or Very Easy
+AA2A-CA34
+
+// Raven Can't Grapple You
+ACMT-CA34
+
+// Bear Can't Grapple You
+AAVA-CA72
+
+// Shiva Can't Grapple You
+AD8A-CA2E
+
+// Jet Can't Get Free From Grapple Attacks
+R0XT-C608
+
+// Abadede Can't Get Free From Grapple Attacks From The Front
+RY6A-C6T0
+
+// Abadede Can't Get Free From Grapple Attacks From The Behind
+RY6A-C6XT
+
+// Abadede Can't Get free From Grapple Attacks Using His Counter Attack
+RY2T-C6Z0
+
+// Bear Doesn't Try To Get Free From Grapple Attacks
+RYWT-C6XR
+
+// Robot Can't Get Free From The Front Grapple Attack
+R1WA-C6XG
+
+// Robot Can't Get Free From The Behind Grapple Attack
+R1WA-C6Z6
+
+// Shiva Can't Get Free From The Front Grapple Attack
+RYBA-E6WJ
+
+// Shiva Can't Get Free From The Behind Grapple Attack
+RYBA-E6Y8
+
+// Max's Special #1 (Press A) Doesn't Hurt Him If It Was Successful
+AL2T-AA8L
+
+// Max's Special #2 (press Forwards + A) doesn't hurt him.
+AL3A-AA6N
+
+// Axel's Special #1 (press A) doesn't hurt him if it was successful.
+AL1A-AA80
+
+// Axels Special #2 (press Forwards + A) doesn't hurt him.
+AL1T-AA7L
+
+// Blaze's Special #1 (press A) doesn't hurt her if it was successful.
+AL2A-AA38
+
+// Blazes Special #2 (press Forwards + A) doesn't hurt her.
+AL2T-AA58
+
+// Skate's Special #1 (press A) doesn't hurt him if it was successful.
+AL3A-AA9Y
+
+// Skates Special #2 (press Forwards + A) doesn't hurt him.
+AL3T-AA86
+
+// Player 1 starts with 7 lives
+V30A-BEB6
+
+// Player 1 starts with 9 lives
+LB0A-BEB6
+
+// Player 2 starts with 7 lives
+V30A-BEGL
+V45A-BEAC
+
+// Player 2 starts with 9 lives
+LB0A-BEGL
+LC5A-BEAC
+
+// Infinite lives (both players)
+AW7T-AA6L
+
+// Apple pick-up restores less energy
+CBFA-AAG6
+
+// Apple pick-up restores more energy
+JKFA-AAG6
+
+// Apple pick-up restores all energy
+PBFA-AAG6
+
+// Apple pick-up worth nothing
+ABFA-AAG6
+
+// Roast chicken pick-up restores less energy
+JBFA-AAH8
+PKFA-ANH6
+5VFT-AA2C
+
+// Roast chicken pick-up restores much less energy
+EBFA-AAH8
+PKFA-ANH6
+5VFT-AA2C
+
+// Roast chicken pick-up worth nothing
+ABFA-AAH8
+PKFA-ANH6
+5VFT-AA2C
+
+// Cash bag worth 5,000 instead of 1,000
+LBFT-AAAT
+
+// Cash bag worth 10,000
+ABFT-ACAT
+
+// Cash bag worth 25,000
+LBFT-AEAT
+
+// Cash bag worth nothing
+ABFT-AAAT
+
+// Gold bar worth 1,000 instead of 5,000
+CBFT-AAAY
+
+// Gold bar worth 10,000
+ABFT-ACAY
+
+// Gold bar worth 20,000
+ABFT-AEAY
+
+// Gold bar worth 50,000
+ABFT-ALAY
+
+// Gold bar worth nothing
+ABFT-AAAY
+
+// 1-up worth 2 lives instead of 1
+PKFA-BJ0E
+
+// 1-up worth 3 lives
+PKFA-BN0E
+
+// 1-up worth nothing
+AKFA-AA8E
+
+// Player 1 starts with 1 continue instead of 2
+AK1A-AAAE
+
+// Player 1 starts with 4 continues
+AZ1A-AAAE
+
+// Player 1 starts with 6 continues
+A71A-AAAE
+
+// Player 1 starts with 8 continues
+BF1A-AAAE
+
+// Player 1 starts with no continues
+AF1A-AAAE
+
+// Player 2 starts with 1 continue instead of 2
+AK1A-AAC4
+
+// Player 2 starts with 4 continues
+AZ1A-AAC4
+
+// Player 2 starts with 6 continues
+A71A-AAC4
+
+// Player 2 starts with 8 continues
+BF1A-AAC4
+
+// Player 2 starts with no continues
+AF1A-AAC4
+
+// Infinite continues (both players)
+AL7T-AA62
+
+// Choose up to 99 players on options screen
+NM6T-AAF0
+
+// Start on stage 2 instead of 1
+AK9A-BA6C
+
+// Start on stage 3
+AV9A-BA6C
+
+// Start on stage 4
+A39A-BA6C
+
+// Start on stage 5
+BB9A-BA6C
+
+// Start on stage 6
+BK9A-BA6C
+
+// Start on stage 7
+BV9A-BA6C
+
+// Start on stage 8
+B39A-BA6C
+
+// Infinite Health
+FFEF80:0068
+
+// Invincible
+FFEF50:0014
+
+// Start with 99 Lives
+FFFD06:0063
+
+// Infinite Time
+FFFC3C:0099
+
+// Game always say GO
+BCAT-AA6L
+
+// Game never say GO
+BCAT-AA6J
+
+// GO blinks fast
+BCAT-AA62
+
+// Game play boss music when saying GO
+BCNT-AAS0
+
+// No music
+BCNT-AAR0
+
+// Throws,bodyslam give you a high score
+2XET-AAAW
+
+// Infinite Lives
+AL7T-AA6L
+
+// Infinite Energy
+9V5T-BGSE
+PB5T-AAHG
+975T-AAHJ
+TB5T-A99L
+
+// Freeze Time
+RF5A-A608
+
+// Invincibility
+AW4A-AN9W
+
+// Enable Same Character In 2P Game
+9ACA-BAVY
+
+// Enable Extra Options
+HD8T-BE06
+
+// Barbon Can'T Throw You
+ABKT-CA6J
+
+// Masive Damage
+HVLA-BAC6
+GBLA-AAC8
+
+// Max Walks Faster
+ADAA-AEHL
+
+// Max Walks Much Faster
+ADAA-AGHL
+
+// Axel Walks Faster
+JDAA-AEHN
+
+// Axel Walks Much Faster
+JDAA-AGHN
+
+// Blaze Walks Faster
+TDAA-AEHR
+
+// Blaze Walks Much Faster
+TDAA-AGHR
+
+// Skate Walks Faster
+YDAA-AEHT
+
+// Skate Walks Much Faster
+YDAA-AGHT
+
+// Max, Axel, And Blaze Are Ultra Fast [Don't Pick Skate].
+AF2A-AAF0
+
+// See The 7 Bosses In The Character Select Screen.
+BV2A-AAF0
+
+// High Jump. Works On All Characters.
+ADAT-AALE
+
+// Super High Jump. Works On All Characters.
+ADAT-BACE
+
+// Max's sprites changes to Jack's sprites
+PJHA-FVPR
+
+// Max's sprites changes to Barbon's sprites
+32HA-F5PR
+
+// Max's sprites changes to Zamza's sprites
+82HA-E1ZR
+
+// Max's sprites changes to R Bear's sprites
+YJHA-FFZR
+
+// Max's sprites changes to Abadede's sprites
+6JHA-F3ZR
+
+// Max's sprites changes to Mr X's sprites
+6JHA-E57R
+
+// Max's sprites changes to Shiva's sprites
+LTHA-FK7R
+
+// Axel's sprites changes to Jack's sprites
+PJHA-FVPW
+
+// Axel's sprites changes to Barbon's sprites
+32HA-F5PW
+
+// Axel's sprites changes to Zamza's sprites
+82HA-E1ZW
+
+// Axel's sprites changes to R Bear's sprites
+YJHA-FFZW
+
+// Axel's sprites changes to Abadede's sprites
+6JHA-F3ZW
+
+// Axel's sprites changes to Mr X's sprites
+6JHA-E57W
+
+// Axel's sprites changes to shiva's sprites
+LTHA-FK7W
+
+// Blaze's sprites changes to Jack's sprites
+PJHA-FVP0
+
+// Blaze's sprites changes to Barbon's sprites
+32HA-F5P0
+
+// Blaze's sprites changes to Zamza's sprites
+82HA-E1Z0
+
+// Blaze's sprites changes to R Bear's sprites
+YJHA-FFZ0
+
+// Blaze's sprites changes to Abadede's sprites
+6JHA-F3Z0
+
+// Blaze's sprites changes to Mr X's sprites
+6JHA-E570
+
+// Blaze's sprites changes to Shiva's sprites
+LTHA-FK70
+
+// Skate's sprites changes to Jack's sprites
+PJHA-FVP4
+
+// Skate's sprites changes to Barbon's sprites
+32HA-F5P4
+
+// Skate's sprites changes to Zamza's sprites
+82HA-E1Z4
+
+// Skate's sprites changes to R Bear's sprites
+YJHA-FFZ4
+
+// Skate's sprites changes to Abadede's sprites
+6JHA-F3Z4
+
+// Skate's sprites changes to Shiva's sprites
+LTHA-FK74
+
+// P1 Weapon Modifier
+FFEF38:003C
+
+// P2 Weapon Modifier
+FFF038:003C
+
+// P1 Character Modifier
+FFEF0C:0000
+
+// P2 Character Modifier
+FFF00C:0000
+
+// Boss Modifier
+FFF10C:000C
+
+// Duel mode stage select
+FFFD12:0000
+
+// P1 Sprite Animation  XX
+FFEF0E:0000
+
+// P2 Sprite Animation  XX
+FFF00E:0000
+
+// Boss Sprite Animation  XX
+FFF10E:0000
+
+// Mania Difficulty Selected In Options
+FFFD04:000A
+
+// Very Easy Difficulty Selected In Options
+FFFD04:0000
+
+// Enable Extra Options
+HD8T-BE14
+
+// Axel's Sprites Changes To Jack's Sprites
+PJHA-FVRT
+
+// Axel's Sprites Changes To Barbon's Sprites
+32HA-F5RT
+
+// Axel's Sprites Changes To Zamza's Sprites
+82HA-E10T
+
+// Axel's Sprites Changes To R Bear's Sprites
+YJHA-FF0T
+
+// Axel's Sprites Changes To Abadede's Sprites
+6JHA-F30T
+
+// Axel's Sprites Changes To Mr X's Sprites
+6JHA-E58T
+
+// Axel's Sprites Changes To Shiva's Sprites
+LTHA-FK8T
+
+// Axel's Sprites Changes To Max's Sprites
+GAHA-EKRT
+
+// Axel's Sprites Changes To Axel's Sprites
+S2HA-E3RT
+
+// Axel's Sprites Changes To Blaze's Sprites
+KJHA-FPRT
+
+// Axel's Sprites Changes To Skate's Sprites
+B2HA-F9RT
+
+// 2p axel color
+N4WT-ANHA
+74WT-AYHC
+ELWT-AEHE
+Z4WT-ANHG
+PLWT-AEHJ
+E4WT-AAHL
+ELWT-ANHN
+ACWT-AAHR
+VCWT-AYHT
+JWWT-AJHW
+ELWT-AEHY
+VWWT-AAH0
+KCWT-AAH2
+74WT-AAH4
+PWWT-AAH6
+ACWT-AAH8
+
+// 2p max color
+N4WT-ANHA
+74WT-A6HC
+ALWT-AAHE
+Z4WT-ANHG
+PLWT-AEHJ
+E4WT-AAHL
+JCWT-ANHN
+ECWT-AEHR
+K4WT-AAHT
+BLWT-AAHW
+A4WT-AAHY
+VLWT-ATH0
+J4WT-AJH2
+NCWT-A2H4
+ACWT-ANH6
+ACWT-AAH8
+
+// 2p blaze color
+N4WT-ANHA
+74WT-A2HC
+ELWT-AEHE
+Z4WT-ATHG
+KLWT-AEHJ
+E4WT-AAHL
+NCWT-A2HN
+ACWT-ATHR
+ZLWT-A6HT
+N4WT-A2HW
+JLWT-ATHY
+N4WT-ANH0
+N4WT-ANH2
+74WT-ATH4
+VWWT-AJH6
+ACWT-AAH8
+
+// 2p skate color
+N4WT-ANHA
+74WT-A6HC
+ELWT-AEHE
+Z4WT-ANHG
+PLWT-AEHJ
+E4WT-AAHL
+NLWT-A2HN
+ELWT-AEHR
+ZLWT-A6HT
+N4WT-A2HW
+JLWT-ATHY
+KLWT-AAH0
+ELWT-ANH2
+3WWT-A6H4
+VCWT-ATH6
+ACWT-AAH8
+
+// Hit Anywhere
+AKGA-AA9R
+AKGT-AA5N
+AKGT-AA50
+AKGT-AA66
+AKGT-AA7G
+AWGT-CA8N
+
+// Enable Same Character In Main Character Select Screen
+C3ZA-AA9Y
+
+// Enable Same Character During Gameplay Character Selection Screen
+C45A-AA3W
+
+// 1-Up Worth 7 Lives
+PKFA-B60E
+
+// Money Bag Worth 999999 Points
+XFFT-BXAT
+XFFT-BXAW
+
+// Gold Bar Worth 999999 Points
+XFFT-BXAY
+XFFT-BXA0
+
+// Axel's Knee Press Deal Massive Damage [Movelist: Press c or Left+C or Right+C, Then Down+B]
+AJWT-AT44
+
+// Blaze's Flying Chop Deal Massive Damage [Movelist: Press c or Left+C or Right+C, Then Down+B]
+AJXT-AT3C
+
+// Axel's Single Punch Deal Massive Damage
+AAWA-AT38
+
+// Blaze's Single Punch Deal Massive Damage
+AAXA-AT30
+
+// Skate's Single Punch Deal Massive Damage
+DNYA-AT3W
+
+// Max's Single Punch Deal Massive Damage
+AAVA-AT7C
+
+// Max's Slide Deal Massive Damage
+AJVA-AT9C
+
+// Max's Elbow Drop Deal Massive Damage - Press c or Left+C or Right+C, Then Down+B
+AJVA-AT94
+
+// Axel's Grand Uppercut / Bare Knuckle Deal Massive Damage - Forward, Forward, B
+HAWA-AT8Y
+
+// Blaze's Vertical Slash Deal Massive Damage
+L2XA-AT9L
+
+// Skate's Roller Press Deal Massive Damage
+ATYA-AT6R
+
+// Freeze Rain In Round 1 Stage
+FFFC10:00FF
+
+// Stage Scene Modifier
+FFFC22:0000
+
+// Mode Selection
+FFFC02:0000
+
+// All Enemies Have Minimal Health
+ADTT-AAAN
+
+// Almost Untouchable
+NVJA-A3BA
+
+// Enemies Are Untouchable
+ABGA-A284
+
+// Activates Level Select In Options
+AD8T-AN9A
+AD6A-AR9R
+
+// Activates Very East And Mania Difficulties In Options
+AD6T-AR5Y
+AD6T-AR66
+
+// Activates 9 Lives In Options
+AX6T-AN76
+
+// Makes All Non-Scrolling Texts Japanese
+AJ6T-EA4G
+RFAA-E6YA
+
+// The First Sentence Is Located Directly Under &quot;Photo&quot; Prom SoR1
+RE7T-E6WN
+
+// Makes Non-Scrolling Texts Centered
+RFBA-E6VW
+
+// Unlock Extra Options
+FFA902:0001
+
+// Infinite Lives
+FFEF82:000A
+
+// Invincible To All Attacks
+FFEF48:0001
+
+// Every Non Knockdown Hit Is A Multi Hit Killing Attack
+FFEF48:0001
+
+// Infinite Time
+FFFC3C:005F
+
+// Invincible
+FFEF50:0029
+
+// Invincibility From All Attack
+RZHT-A60G
+RZFT-A6ZR
+
+// 6 Enemies instead of 5 on single player
+A5XA-AA3L
+
+// Display number of KO's when pausing (Displayed above player's score)
+C36A-AA4E
+C36A-AA54
+
+// Reduce Hitting Delay
+RFGT-A61R
+
+// Invincible Against Hits from Enemies - Both Players
+RZHT-A6ZW
+
+// Invincible Against Hits from Partner and Explosions - Both Players
+AZGA-AAGN
+ABGA-BD8T
+
+// Invinciblile Against Shooting Attacks - Both Players
+AZFT-AAFA
+ABFT-BD7E
+
+// Invinciblile Against Thrown Enemies by Partner - Both Players
+AZJT-AAB6
+ABJT-BD4A
+
+// Invinciblile Against Partner's Grapple Attacks - Both Players
+AZKA-AAF0
+ABKA-BD74
+
+// Enable Extra Options in Options Menu
+SD8T-BE06
+
+// Allows you to choose Sammy as your character
+RF1T-A612
+RF2T-A6WC
+RF2T-A6Y6

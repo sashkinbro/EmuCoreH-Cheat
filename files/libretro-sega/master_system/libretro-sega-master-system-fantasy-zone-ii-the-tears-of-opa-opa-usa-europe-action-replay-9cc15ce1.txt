@@ -1,0 +1,38 @@
+// Infinite Lives
+00C0-A303
+
+// Infinite Money (Ten Thousands Digit)
+00C0-BA99
+
+// Infinite Money (Thousands Digit)
+00C0-B999
+
+// Infinite Money (Hundreds/Tens/Ones)
+00C0-B899
+
+// Invincibility
+00C0-AB0C
+
+// Infinite Weapon Time
+00C0-B120
+
+// Almost Everything Free
+00C1-5D03
+
+// Have Rapid Fire Power-Up
+00C0-7901
+
+// Have Shield With Infinite Hits
+00C0-7C01
+
+// Shield Has Infinite Hits
+00C0-AC06
+
+// Infinite Weapon Power (Alternate)
+00C0-B000
+
+// Have Extended Lifebar
+00C0-AA30
+
+// Infinite Bombs
+00C0-B299

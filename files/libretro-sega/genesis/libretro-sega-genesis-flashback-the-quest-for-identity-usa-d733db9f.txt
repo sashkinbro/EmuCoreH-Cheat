@@ -1,0 +1,93 @@
+// Never lose a shield when shot
+AJ2T-AA3C
+
+// Protection from some falls
+AT2T-AA44
+
+// Start with 1 shield
+AM2A-WAH4
+
+// Start with 2 shields
+AS2A-WAH4
+
+// Start with 3 shields
+AX2A-WAH4
+
+// Start with 5 shields
+A52A-WAH4
+
+// Start with 10 shields
+BS2A-WAH4
+
+// Start with 20 shields
+C12A-WAH4
+
+// Start with 50 shields
+GS2A-WAH4
+
+// Start with 100 shields
+N12A-WAH4
+
+// Start with 50 credits
+GM6T-WAA4
+
+// Start with 100 credits
+NX6T-WAA4
+
+// Credit packs worth 100 credits
+HV9T-BELR
+NV9T-AACT
+
+// Credit packs worth 1,000 credits
+HV9T-BELR
+7B9T-AGCT
+
+// Credit packs worth 10,000 credits
+HV9T-BELR
+CB9T-ARLT
+
+// Always have enough money to buy
+RGBT-A6T4
+
+// Don't need to charge magnetic cartridge
+RGBT-A6XN
+
+// Squat Down And Shoot Gun To Slide Thru Walls And Trees (And You Won't Fall)
+DJ2T-AA5C
+
+// Once You're Hit, You'll Be Invincible For The Rest of The Level
+AJZT-AA6N
+
+// Stay Invincible Longer After You're Hit
+9J2T-AAFA
+
+// Infinite Hits
+FFD3D6:0009
+
+// Level Modifier
+FFF49A:0000
+FFF49C:0000
+
+// Walk across any opening without falling (&quot;Walk on air&quot;).
+RZ8A-A6WE
+
+// Walk through walls, trees, etc.
+RZ7T-A61W
+RZ9A-A6WN
+
+// Invincible
+FFF676:0010
+
+// Lets you play the USA cartridge on a Brazilian Mega Drive
+HAWA-AA4W
+AJWA-AA9L
+
+// Enemies don't see you (and won't shoot at you)
+AB6A-AA7N
+
+// Enemies can't shoot you while you're squatting down
+BA5A-AA8W
+
+// Can climb almost anywhere and as high as you want, even if nothing is above you
+RF8A-A6Y0
+AV8A-AA48

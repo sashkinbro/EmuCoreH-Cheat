@@ -1,0 +1,33 @@
+// Infinite Shields
+00C0-E208
+
+// Infinite Ammo
+00C1-5D05
+
+// Infinite Turbos
+00C1-5402
+
+// Infinite time
+007-6BD-E6E
+
+// Infinite turbos
+00C-8EF-19E
+
+// Start with 8 shields
+054-27F-C42
+
+// Start with 5 shields
+024-27F-C42
+
+// Infinite ammo
+007-E4E-19E
+
+// Infinite Shields
+00C-C5E-E6E
+
+// Freeze Timer
+00C1-6013
+
+// Infinite Shields
+7EC-C7E-3B7
+7EE-93E-3B7

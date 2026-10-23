@@ -1,0 +1,395 @@
+// Infinite Energy
+FFDF6C:0034
+
+// Infinite Lives
+FFDF8A:0009
+
+// Invincibility
+FFDF58:0080
+
+// Invincibility P1
+FFDF5C:00FF
+
+// Infinite Power P1
+FFF616:0090
+
+// Invincibility P2
+FFE05C:00FF
+
+// Infinite Power P2
+FFF618:0090
+
+// Super Kick Axel
+FFFF1C:0001
+
+// Super Zan
+FFFF1E:0001
+
+// Super Skate
+FFFF1E:0001
+
+// Super Punch Axel
+FFFF20:0001
+
+// Super Axel
+FFFF20:0001
+
+// Weapons Never Disappear
+FFE76A:0002
+
+// Infinite Swords, Bats, Pipes And Sticks
+FFE76C:0028
+
+// Infinite Knives
+FFE7EC:0028
+
+// Infinite Kunais
+FFE86C:0028
+
+// Lv6 General Allways Alive
+FF88E8:0004
+
+// Activate Level Select In Options
+CAJA-AR4R
+
+// Activate 9 Lives In Options
+A2FT-AR2J
+
+// Enable Very Easy In Options
+AAFA-AAB4
+
+// Enable Very Easy In Options
+AAFA-AACJ
+
+// Can Select Stage 7 And 8 In The Stage Select Menu
+A6HT-AAGR
+
+// Can Select Stage 7 And 8 In The Stage Select Menu
+CAHT-AAG0
+
+// Activate Super Axel Mode
+F5ET-AN20
+
+// Activate Axel Super Kick Combo
+F4LT-AN6Y
+
+// Activate Axel Super Punch Combo
+ECLT-AN5R
+
+// Activate Skate Super Punch Combo
+A4LT-AN76
+
+// Activate Zan Super Punch Combo
+DLLT-AN7J
+
+// Infinite Lives
+AXDA-AA34
+
+// P1 Start With 09 Continues
+BKGA-CAG6
+
+// P2 Start With 09 Continues
+BKGA-CAHC
+
+// Infinite Continues
+AMDA-AA76
+
+// Infinite Swords And Daggers Hits
+RYRA-C61L
+
+// Infinite Bat/Plank Hits
+R1EA-A6VC
+
+// Unlimited Blaze Katana Special Attack
+R1KA-A60G
+
+// Unlimited Blaze Kunai/Dagger Special Power Attack  Unlimited Skate Bat Special Power Attack
+R14A-A6Y4
+
+// Unlimited Blaze Kunai/Dagger Special Attack
+R1MA-A60L
+
+// Unlimited Skate Kunai/Dagger Special Attack
+R1MT-A6ZC
+
+// Unlimited Axel Katana Special Attack
+R1LT-A6WT
+
+// Unlimited Zan Weapons Special Attacks
+R1EA-A6YJ
+
+// Swords Doesn't Lose Hp When Ninjas Drops Them
+RYRT-C6Z0
+
+// Unlimited Power
+R1PT-A6WC
+
+// Invincibility
+AWFT-AN7W
+
+// Weapons Never Dissapear
+AJRT-CA8L
+
+// Lv6 General Never Dies
+AX9T-GAAC
+
+// Allways Have 3 Stars
+CM3A-AA6E
+
+// Blaze Punch Does Masive Damage
+ECFV-CJA4
+
+// Blaze Kick Does Masive Damage
+8WFV-CTFL
+
+// Blaze Special
+9CGB-CYHE
+ECGB-C0LJ
+ECGB-C6ER
+
+// Fix Caterpillar Issue In Level 3
+RF6T-E6YW
+
+// Infinite Energy
+9VGA-BGP6
+GVGA-BJP8
+97GA-AAGA
+PVGA-B90C
+
+// Boss Modifier
+FFE10C:0036
+
+// Infinite Energy Boss
+FFE16C:0034
+
+// P1 2-hits combo when you press attack button
+FFDF9A:00FF
+
+// P2 2-hits combo when you press attack button
+FFE09A:00FF
+
+// Player 1 and 2 can control the player characters in demostration mode
+FFFB12:0100
+
+// Infinite Time In Battle Mode Sunset/Disco/Trap Room 2
+FFEB96:0099
+
+// Infinite Time In Battle Mode Construction Site
+FFED16:0099
+
+// Infinite Time In Battle Mode Subway / Trap Room 1 / Trap Room 3
+FFEC96:0099
+
+// Infinite Time In Battle Mode Trap Room 4
+FFED96:0099
+
+// Infinite Time In Battle Mode Morning Forest
+FFEF96:0099
+
+// Infinite Time In Battle Mode Belt Conveyer
+FFEE16:0099
+
+// P1 Palette Mod
+FFDF0A:0004
+
+// P2 Palette Mod
+FFE00A:0005
+
+// 1 Color Palette
+FFFA20:0000
+
+// 2 Color Palette
+FFFA22:0000
+
+// 3 Color Palette
+FFFA24:0000
+
+// 4 Color Palette
+FFFA26:0000
+
+// 5 Color Palette
+FFFA28:0000
+
+// 6 Color Palette
+FFFA2A:0000
+
+// 7 Color Palette
+FFFA2C:0000
+
+// 8 Color Palette
+FFFA2E:0000
+
+// 9 Color Palette
+FFFA30:0000
+
+// 10 Color Palette
+FFFA32:0000
+
+// 11 Color Palette
+FFFA34:0000
+
+// 12 Color Palette
+FFFA36:0000
+
+// 13 Color Palette
+FFFA38:0000
+
+// 14 Color Palette
+FFFA3A:0000
+
+// 15 Color Palette
+FFFA3C:0000
+
+// Boss Hp Modifier
+FFE16C:0000
+
+// Punk#1 Hp Modifier
+FFE26C:0000
+
+// Punk#2 Hp Modifier
+FFE36C:0000
+
+// Punk#3 Hp Modifier
+FFE46C:0000
+
+// Punk#5 Hp Modifier
+FFE56C:0000
+
+// Punk#5 Hp Modifier
+FFE66C:0000
+
+// General Always Has Infinite Hp
+FFF06C:0034
+
+// Stage 6 Switch#1/Switch#2 Always Has Infinite Health
+FFEBEC:0050
+
+// Item#1 Infinite Health
+FFE76C:7F7F
+
+// Item#2 Infinite Health
+FFE7EC:7F7F
+
+// Item#3 Infinite Health
+FFE86C:7F7F
+
+// Item#4 Infinite Health
+FFE8EC:7F7F
+
+// Item#5 Infinite Health
+FFE96C:7F7F
+
+// Item#6 Infinite Health
+FFE9EC:7F7F
+
+// Infinite Energy P2
+FFE06C:0032
+
+// Infinite Time In Level 6
+FF88E2:0060
+
+// Infinite Time For Robot Y
+FF8850:0059
+
+// Override Anti-Lockout Code For Us System
+AABT-AA5L
+DJBT-AADN
+RYDA-A608
+AJDA-AAHA
+
+// Shorter Anti-Lockout Code For US System
+RYDA-A608
+
+// Invincible
+AGFT-APV8
+
+// No HP Loss From Special Attack
+RHPT-A6WC
+
+// Play As Ash
+BA3T-AAGN
+
+// Weird Music
+AA4A-AAFN
+
+// Character Change In-Game
+AA3T-AAGN
+
+// Stage Select
+GT3T-AAGW
+
+// Invincibility (Disable Hit Detection)
+RZKT-E6VL
+R1DA-E61L
+RZRT-E6XY
+
+// Play As Supe Axel
+RHET-A6T0
+
+// Enabled Animation On Title Screen
+AT8A-CA3W
+
+// Victy (Roo) is available in the character selection screen
+RE8A-C6XN
+
+// Enabled Ash In Select Player
+FFFB0C:0001
+
+// Enabled Ash In Select Player
+RH6T-A6WW
+
+// Enabled Shiva In Select Player
+RH6T-A6V0
+
+// Two Players As Same Character
+FF88F0:0001
+
+// Two Players As Same Character
+ACFT-JA4L
+ALGT-JA7A
+ALGT-JA42
+
+// Some enemies will not be able to grab you
+RZNT-E6YL
+
+// Hit Anywhere
+RFJA-E61L
+9VJA-FBSN
+ABJA-F91R
+ABJA-ER9T
+YBJA-EAHW
+JPTT-FCHC
+
+// Invincibility (Disable Hit Setection)
+R0FT-A6Z0
+R1DA-E61L
+
+// Infinite Energy Power Attack All Characters
+AMGA-AA7A
+AMGT-AA2T
+AMJA-AA8W
+AMHT-AA6A
+AMHA-AA5E
+AMKA-AA4A
+AMPA-AA4R
+AMKT-AA9T
+AMLA-AA8E
+
+// Enabled Cheat Code Stage Select In Options
+AJDT-AA60
+ATDT-AA7R
+REDT-A61W
+CAHT-AA3N
+CAJA-AA4R
+
+// Enable Stage Select in Options and Stages 7 and 8 in Stage Select
+HADT-AEYW
+AJDT-AA60
+HADT-BEZL
+CAHT-AAG0
+A6HT-AAGR
+
+// Enable Stage Select in Options
+HADT-AEYW
+AJDT-AA60
+HADT-BEZL

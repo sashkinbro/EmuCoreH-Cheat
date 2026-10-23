@@ -1,0 +1,14 @@
+// Infinite Time (Seconds)
+FFF848:0075
+
+// Team 1 Score Modifier (P1)
+FFC710:0000
+
+// Team 2 Score Modifier (P2/CPU)
+FFC712:0000
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T

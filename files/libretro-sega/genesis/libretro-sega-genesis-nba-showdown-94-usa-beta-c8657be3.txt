@@ -1,0 +1,8 @@
+// Team 1 Score Modifier (P1)
+FF90D6:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FF90D2:0000
+
+// Infinite Ball Possession
+FF90CC:0063

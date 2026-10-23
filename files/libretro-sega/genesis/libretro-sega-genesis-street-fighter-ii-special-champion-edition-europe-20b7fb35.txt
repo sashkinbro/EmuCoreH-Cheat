@@ -1,0 +1,11 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// P1 Inf HP
+9T0A-DGRR
+0A0A-CAGT
+960A-CAGW
+JJ0A-CBGY

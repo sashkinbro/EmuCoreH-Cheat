@@ -1,0 +1,33 @@
+// Start With No Mutant Power
+002-644-195
+
+// Start With 1/2 Mutant Power
+772-644-195
+
+// Infinite Mutant Power
+3AA-2A7-2A2
+
+// Mutant Power Is Used Quicker
+14A-267-C42
+
+// Infinite Energy
+3AA-BD7-2A2
+
+// One Hit Is Fatal Most Of The Time
+AFA-BA7-2AA
+00A-BB7-E6E
+
+// Start With Very Little Energy
+012-634-195
+
+// Start With 1/2 Energy
+772-634-195
+
+// Flash A Lot Longer After Getting Hit
+FFA-A97-2A2
+
+// 1 Hit And You're Invisible
+000-2F7-19E
+
+// Almost Invincible
+000-2B7-806

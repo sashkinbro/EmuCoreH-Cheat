@@ -1,0 +1,8 @@
+// Break 1 Block To Clear Stage
+00C5-1401
+
+// Infinite Lives
+00C1-1103
+
+// Infinite Balls
+009-3FE-E6D

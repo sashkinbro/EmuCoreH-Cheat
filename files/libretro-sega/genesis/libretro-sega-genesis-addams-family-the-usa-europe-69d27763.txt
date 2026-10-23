@@ -1,0 +1,158 @@
+// Infinite lives
+RH0A-R6VA
+
+// Start With 1 Life Iin a New Game Instead of 5
+AGET-RAFY
+
+// Start With 10 Lives (New Game)
+CCET-RAFY
+
+// Start With 50 Lives (New game)
+LCET-RAFY
+
+// Start With 99 Lives (New game)
+XGET-RAFY
+
+// Start With 1 Life After Using a Continue Instead of 5
+AFET-TAA2
+
+// Start With 10 Lives After Using a Continue
+CBET-TAA2
+
+// Start with 50 lives after using a continue
+LBET-TAA2
+
+// Start with 99 lives after using a continue
+XFET-TAA2
+
+// Extra life every 10,000 pts. instead of 50,000
+AHTA-RAA2
+
+// Extra life every 100,000 pts.
+CDTA-RAA2
+
+// Extra life every 250,000 pts.
+E1TA-RAA2
+
+// Finding a 1-UP gives you 0 more lives
+AD4A-RACC
+
+// Finding a 1-UP gives you 5 more lives
+A14A-RACC
+
+// Start With 1 Heart For The First Life Instead of 2
+AGFA-RABA
+
+// Start With 3 hearts (1st Life)
+ARFA-RABA
+
+// Start With 5 Hearts (1st Life)
+A0FA-RABA
+
+// Start with max hearts at 1 instead of 2
+AGFA-RAA2
+
+// Start with max hearts at 3
+ARFA-RAA2
+
+// Start with max hearts at 5
+A0FA-RAA2
+
+// Invincible!
+A5ZT-RA6T
+
+// Heart Replenished Every 5 Dollars Instead of 25
+A13T-RAD4
+
+// Heart Replenished Every 50 Dollars
+LD3T-RAD4
+
+// Heart replenished every 99 dollars
+XH3T-RAD4
+
+// Shields last 1/3x normal
+CX4A-RAHA
+
+// Shields last 1/2x normal
+D54A-RAHA
+
+// Shields last 2x normal
+SD4A-RAHA
+
+// Shields last 3x normal
+0X4A-RAHA
+
+// Shields last forever
+AXYT-RA48
+
+// Don't lose Fezi-copter when you die or change
+A47T-RA42
+
+// Infinite Lives
+FFA5D4:0005
+
+// Infinite Energy
+FFA5D6:0002
+
+// Invincibility
+FFC6A6:006B
+
+// Fly
+FFC612:0001
+
+// Infinite Lives
+D90A-RABE
+
+// Infinite Energy
+D9ZT-RAEW
+
+// Invincibility
+DDAT-RN5E
+
+// Fly
+AH1A-RAAC
+
+// Infinite Hearts  Hits
+FFA5D6:0002
+
+// Infinite/Max Money
+FFA5CE:0099
+
+// Walks On Air
+DDYT-RA8G
+
+// Infinite Controllable Jump
+AM1A-RA40
+AM1A-RA32
+
+// Keep Weapon Balls After Touching Enemies
+AMZT-RA7R
+
+// Invincibility (Disable Hit Detection)
+RYAT-T6XW
+R1ZT-R6VW
+
+// Keep Weapon Court Sword After Touching Enemies
+AXZT-RA7J
+
+// Keep Weapon Balls After Touching Enemies
+FFC6C0:0001
+
+// Keep Weapon Court Sword After Touching Enemies
+FFC6BE:0001
+
+// Keep Speed Shoes After Touching Enemies
+AXZT-RA68
+AXZT-RA7E
+
+// Infinite Controllable Jump
+FFC69E:FFF0
+
+// Jump in mid-air (multi-jump)
+RH1A-R61Y
+
+// Jump higher
+SH1A-SCX6
+
+// Kill enemies that walk/move on the ground just by touching them (you normally have to jump on them to kill them)
+B2AA-TA8C

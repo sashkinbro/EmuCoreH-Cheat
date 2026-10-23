@@ -1,0 +1,5 @@
+// High Speed (See Note)
+00C2-319D
+
+// Always Super High Speed
+00C5-1799

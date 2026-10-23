@@ -1,0 +1,17 @@
+// Infinite Lives
+FFEA0C:0005
+
+// Infinite Lives
+AJ6A-AA5A
+
+// Infinite Energy
+AJLT-AA8C
+
+// Untouchable (spikes can still kill)
+RYLT-A6W0
+
+// Infinite Balls
+AJWA-AA5C
+
+// Infinite Credit
+AM7A-RA6W

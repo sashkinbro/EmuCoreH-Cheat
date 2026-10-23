@@ -1,0 +1,14 @@
+// Infinite Balls
+AKTA-CA7R
+
+// Infinite Balls
+FFD72E:0005
+
+// Start With 9 Balls
+BHCA-CAB6
+
+// Infinite Balls P1
+FFD72E:0009
+
+// Infinite Balls P2
+FFD81C:0009

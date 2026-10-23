@@ -1,0 +1,71 @@
+// Invincibility (non flashing)
+CLMA-EA4A
+
+// Invincibility (flashing)
+RFLT-E6W6
+
+// Jump higher. See notes.
+9BTA-F95L
+
+// Jump much higher. See notes.
+83TA-F95L
+
+// Start with 9 lives
+BEVT-EAB8
+
+// Infinite lives. Doesn't work on 2nd snow level.
+ALVT-EA2A
+
+// Infinite lives on 2nd snow level (with the moose).
+ALVA-EA20
+
+// Start on Dippy the Dinosaur level
+ALRT-EABC
+
+// Start on Butterfly Grove level
+ARRT-EABC
+
+// Start on Lively Lava level
+AWRT-EABC
+
+// Start on The Fruit Mountain level
+A0RT-EABC
+
+// Start on In the Smelly Sewers level
+A4RT-EABC
+
+// Start on The Apple Tree level
+A8RT-EABC
+
+// Start on The River Race level
+BCRT-EABC
+
+// Start on Statue Carving level
+BGRT-EABC
+
+// Invincibility
+RZYA-E6XJ
+RZRT-E6V8
+RZ1A-E6XT
+
+// Infinite Energy
+RFYT-E6TG
+
+// Skip Levels Pause Right+A And Moving The Character On The Screen Hold A+B+C And D-pad
+RGXA-E6TY
+RFMA-E6YR
+
+// 1 Hit Kill Bosses
+CLLT-EA6T
+
+// Infinite Credits
+ALWA-EA68
+
+// Freeze Time Continue
+ALWA-EA4T
+
+// Hit enemies from anywhere (as long as they are anywhere in front of or behind you)
+RGLT-E6VA
+
+// Hit enemies from anywhere (when they are below you)
+RGLT-E6VN

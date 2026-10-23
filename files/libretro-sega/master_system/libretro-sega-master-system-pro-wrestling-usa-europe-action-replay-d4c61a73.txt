@@ -1,0 +1,11 @@
+// Infinite Life P1&P2 (Team 1)
+00C6-0737
+
+// Invincibility - Player 1
+00C6-0300
+
+// Infinite Time
+00C6-E250
+
+// Name of Last Attack Stays
+00C0-1101

@@ -1,0 +1,1070 @@
+// Max Attack
+FF9C9E:0063
+
+// Max Agility
+FF9CA0:0063
+
+// Max Agility
+FF9D18:0063
+
+// Max Attack
+FF9D16:0063
+
+// Max Attack
+FF9DDE:0063
+
+// Max Agility
+FF9DE0:0063
+
+// Max Attack
+FF9E7E:0063
+
+// Max Movement
+FF9E80:0063
+
+// Max Attack
+FF9ECE:0063
+
+// Max Agility
+FF9ED0:0063
+
+// Max Attack
+FF9F96:0063
+
+// Max Agility
+FF9F98:0063
+
+// Max Attack
+FF9CC6:0063
+
+// Max Movement
+FF9CC8:0063
+
+// Max Attack
+FF9F46:0063
+
+// Max Movement
+FF9F48:0063
+
+// Max Attack
+FF9F6E:0063
+
+// Max Movement
+FF9F70:0063
+
+// Max Attack
+FFA0AE:0063
+
+// Max Movement
+FFA0B0:0063
+
+// Max Attack
+FF9E06:0063
+
+// Max Movement
+FF9E08:0063
+
+// Max Attack
+FF9EE6:0063
+
+// Max Movement
+FF9EE8:0063
+
+// Max Attack
+FF9E2E:0063
+
+// Max Movement
+FF9E30:0063
+
+// Max Attack
+FF9D8E:0063
+
+// Max Movement
+FF9D90:0063
+
+// Max Attack
+FF9FE6:0063
+
+// Max Movement
+FF9FE8:0063
+
+// Max Attack
+FFA0D6:0063
+
+// Max Movement
+FFA0D8:0063
+
+// Max Attack
+FFA00E:0063
+
+// Max Movement
+FFA010:0063
+
+// Max Movement
+FF9CF0:0063
+
+// Max Attack
+FFA0FE:0063
+
+// Max Movement
+FFA100:0063
+
+// Max Attack
+FF9E56:0063
+
+// Max Movement
+FF9E58:0063
+
+// Max Attack
+FF9F1E:0063
+
+// Max Movement
+FF9F20:0063
+
+// Max Attach
+FF9EA6:0063
+
+// Max Movement
+FF9EA8:0063
+
+// Max Attack
+FFA036:0063
+
+// Max Movement
+FFA038:0063
+
+// Max Attack
+FF9D3E:0063
+
+// Max Movement
+FF9D40:0063
+
+// Max Attack
+FFA086:0063
+
+// Max Movement
+FFA088:0063
+
+// Max Attack
+FFA126:0063
+
+// Max Movement
+FFA128:0063
+
+// Inf MP
+FFA068:0063
+
+// LV 99
+FFA05C:0063
+
+// Attack 99
+FFA05E:0063
+
+// Move 99
+FFA060:0063
+
+// Spell
+FFA070:0099
+
+// Inf MP
+FF9FC8:0063
+
+// Level 99
+FF9FBC:0063
+
+// Attack 99
+FF9FBE:0063
+
+// Move 99
+FF9FC0:0063
+
+// Spell
+FF9FD0:0099
+
+// Infinite money
+RZGT-E61J
+
+// When you use the Medical Herb, EVERYONE in your party will have their HP restored!!
+CKNT-F0A8
+
+// When you use the Medical Herb, EVERYONE in your party will receive the Turbo Pepper!!
+HBNT-F0A8
+
+// When you use the Medical Herb, EVERYONE in your party will receive the Bread of Life!!
+HFNT-F0A8
+
+// When you use the Healing Seed, EVERYONE in your party will have their HP restored!!
+CKNT-F0BR
+
+// When you use the Healing Seed, EVERYONE in your party will receive the Turbo Pepper!!
+HBNT-F0BR
+
+// When you use the Healing Seed, EVERYONE in your party will receive the Bread of Life!!
+HFNT-F0BR
+
+// When you use the Antidote, EVERYONE in your party will receive the Turbo Pepper!!
+HBNT-F0B8
+
+// When you use the Antidote, EVERYONE in your party will receive the Bread of Life!!
+HFNT-F0B8
+
+// Buy &quot;Medical Herb&quot; with the code turned OFF for $10
+93NT-F93E
+
+// Makes the Middle Sword MUCH more powerful
+FBPA-EAH6
+
+// Makes the Steel Sword MUCH more powerful
+FBPT-EAA6
+
+// Makes the Spear MUCH more powerful
+EPPT-EAHN
+
+// Makes the Steel Lance MUCH more powerful
+EPPT-EAFN
+
+// Makes the Hand Axe MUCH more powerful
+EFRA-EAA6
+
+// Makes the Wooden Staff MUCH more powerful
+EPRA-EADN
+
+// Makes the Wooden Arrow MUCH more powerful
+EPRA-EAGN
+
+// Hero starts with 50 Att, Def
+GKJT-FEMA
+
+// Hero starts with 50 Mov, Agi
+GKJT-FEMC
+
+// Hero starts with 50 HP
+GKJT-EADG
+
+// Hero starts with 50 max HP
+GKJT-EADJ
+
+// Hero starts with 50 MP, max MP
+GKJT-FEML
+
+// Hero starts with Egress 1, Heal 1, Heal 2, Heal 3, Heal 4, Bolt 1, Bolt 2, Bolt 3, and Bolt 4 magic spells!!
+3PJT-EBXW
+
+// Hero starts with Egress 1, Aura 1, Aura 2, Aura 3, Aura 4, Freeze 1, Freeze 2, Freeze 3, and Freeze 4 magic spells!!
+3KJT-EDXW
+
+// Hero starts with Egress 1, Blaze 1, Blaze 2, Blaze 3, Blaze 4, Heal 1, Heal 2, Heal 3, and Heal 4 magic spells!
+2BJT-EXXW
+
+// Hero starts with the Long Sword equipped instead of the Middle sword.
+97JT-F9DR
+
+// Hero starts with the Long Sword equipped instead of the Middle sword, and a Healing Seed.
+AFJT-F9DR
+
+// Hero starts with the Long Sword equipped instead of the Middle sword, and the Shower of Cure.
+APJT-F9DR
+
+// Hero starts with the Long Sword equipped instead of the Middle sword, and the Bread of Life.
+BFJT-F9DR
+
+// Hero starts with the Long Sword equipped instead of the Middle sword, and the Turbo Pepper.
+BBJT-F9DR
+
+// Hero starts with the Long Sword equipped instead of the Middle sword, and the Buster Shot you can sell the Buster Shot for $9300
+S3JT-F9DR
+
+// Hero starts with 2 Healing Seeds instead of nothing.
+AFJT-ECDT
+
+// Hero starts with 2 Shower of Cures instead of nothing.
+APJT-EGDT
+
+// Hero starts with 2 Bread of Lifes instead of nothing.
+BFJT-EWDT
+
+// Hero starts with 2 Buster Shots instead of nothing.
+S3JT-F65T
+
+// Mae starts with 50 Att, Def
+GKJT-FENJ
+
+// Mae starts with 50 Mov, Agi
+GKJT-FENL
+
+// Mae starts with 50 HP
+GKJT-EAER
+
+// Mae starts with 50 max HP
+GKJT-EAET
+
+// Mae starts with 50 MP, max MP
+GKJT-FENW
+
+// Pelle starts with 50 Att, Def
+GKJT-FEPT
+
+// Pelle starts with 50 Mov, Agi
+GKJT-FEPW
+
+// Pelle starts with 50 HP
+GKJT-EAF0
+
+// Pelle starts with 50 max HP
+GKJT-EAF2
+
+// Pelle starts with 50 MP, max MP
+GKJT-FEP4
+
+// Ken starts with 50 Att, Def
+GKJT-FER2
+
+// Ken starts with 50 Mov, Agi
+GKJT-FER4
+
+// Ken starts with 50 HP
+GKJT-EAG8
+
+// Ken starts with 50 max HP
+GKJT-EAHA
+
+// Ken starts with 50 MP, max MP
+GKJT-FESC
+
+// Vankar starts with 50 Att, Def
+GKKA-FEJA
+
+// Vankar starts with 50 Mov, Agi
+GKKA-FEJC
+
+// Vankar starts with 50 HP
+GKKA-EAAG
+
+// Vankar starts with 50 max HP
+GKKA-EAAJ
+
+// Vankar starts with 50 MP, max MP
+GKKA-FEJL
+
+// Earnest starts with 50 Att, Def
+GKKA-FEKJ
+
+// Earnest starts with 50 Mov, Agi
+GKKA-FEKL
+
+// Earnest starts with 50 HP
+GKKA-EABR
+
+// Earnest starts with 50 max HP
+GKKA-EABT
+
+// Earnest starts with 50 MP, max MP
+GKKA-FEKW
+
+// Arthur starts with 50 Att, Def
+GKKA-FELT
+
+// Arthur starts with 50 Mov, Agi
+GKKA-FELW
+
+// Arthur starts with 50 HP
+GKKA-EAC0
+
+// Arthur starts with 50 max HP
+GKKA-EAC2
+
+// Arthur starts with 50 MP, max MP
+GKKA-FEL4
+
+// Gort starts with 50 Att, Def
+GKKA-FEM2
+
+// Gort starts with 50 Mov, Agi
+GKKA-FEM4
+
+// Gort starts with 50 HP
+GKKA-EAD8
+
+// Gort starts with 50 max HP
+GKKA-EAEA
+
+// Gort starts with 50 MP, max MP
+GKKA-FENC
+
+// Luke starts with 50 Att, Def
+GKKA-FEPA
+
+// Luke starts with 50 Mov, Agi
+GKKA-FEPC
+
+// Luke starts with 50 HP
+GKKA-EAFG
+
+// Luke starts with 50 max HP
+GKKA-EAFJ
+
+// Luke starts with 50 MP, max MP
+GKKA-FEPL
+
+// Guntz starts with 50 Att, Def
+GKKA-FERJ
+
+// Guntz starts with 50 Mov, Agi
+GKKA-FERL
+
+// Guntz starts with 50 HP
+GKKA-EAGR
+
+// Guntz starts with 50 max HP
+GKKA-EAGT
+
+// Guntz starts with 50 MP, max MP
+GKKA-FERW
+
+// Anri starts with 50 Att, Def
+GKKA-FEST
+
+// Anri starts with 50 Mov, Agi
+GKKA-FESW
+
+// Anri starts with 50 HP
+GKKA-EAH0
+
+// Anri starts with 50 max HP
+GKKA-EAH2
+
+// Anri starts with 50 MP, max MP
+GKKA-FES4
+
+// Alef starts with 50 Att, Def
+GKKT-FEJ2
+
+// Alef starts with 50 Mov, Agi
+GKKT-FEJ4
+
+// Alef starts with 50 HP
+GKKT-EAA8
+
+// Alef starts with 50 max HP
+GKKT-EABA
+
+// Alef starts with 50 MP, max MP
+GKKT-FEKC
+
+// Tao starts with 50 Att, Def
+GKKT-FELA
+
+// Tao starts with 50 Mov, Agi
+GKKT-FELC
+
+// Tao starts with 50 HP
+GKKT-EACG
+
+// Tao starts with 50 max HP
+GKKT-EACJ
+
+// Tao starts with 50 MP, max MP
+GKKT-FELL
+
+// Domingo starts with 50 Att, Def
+GKKT-FEMJ
+
+// Domingo starts with 50 Mov, Agi
+GKKT-FEML
+
+// Domingo starts with 50 HP
+GKKT-EADR
+
+// Domingo starts with 50 max HP
+GKKT-EADT
+
+// Domingo starts with 50 MP, max MP
+GKKT-FEMW
+
+// Lowe starts with 50 Att, Def
+GKKT-FENT
+
+// Lowe starts with 50 Mov, Agi
+GKKT-FENW
+
+// Lowe starts with 50 HP
+GKKT-EAE0
+
+// Lowe starts with 50 max HP
+GKKT-EAE2
+
+// Lowe starts with 50 MP, max MP
+GKKT-FEN4
+
+// Khris starts with 50 Att, Def
+GKKT-FEP2
+
+// Khris starts with 50 Mov, Agi
+GKKT-FEP4
+
+// Khris starts with 50 HP
+GKKT-EAF8
+
+// Khris starts with 50 max HP
+GKKT-EAGA
+
+// Khris starts with 50 MP, max MP
+GKKT-FERC
+
+// Torasu starts with 50 Att, Def
+GKKT-FESA
+
+// Torasu starts with 50 Mov, Agi
+GKKT-FESC
+
+// Torasu starts with 50 HP
+GKKT-EAHG
+
+// Torasu starts with 50 max HP
+GKKT-EAHJ
+
+// Torasu starts with 50 MP, max MP
+GKKT-FESL
+
+// Gong starts with 50 Att, Def
+GKLA-FEJJ
+
+// Gong starts with 50 Mov, Agi
+GKLA-FEJL
+
+// Gong starts with 50 HP
+GKLA-EAAR
+
+// Gong starts with 50 max HP
+GKLA-EAAT
+
+// Gong starts with 50 MP, max MP
+GKLA-FEJW
+
+// Diane starts with 50 Att, Def
+GKLA-FEKT
+
+// Diane starts with 50 Mov, Agi
+GKLA-FEKW
+
+// Diane starts with 50 HP
+GKLA-EAB0
+
+// Diane starts with 50 max HP
+GKLA-EAB2
+
+// Diane starts with 50 MP, max MP
+GKLA-FEK4
+
+// Hans starts with 50 Att, Def
+GKLA-FEL2
+
+// Hans starts with 50 Mov, Agi
+GKLA-FEL4
+
+// Hans starts with 50 HP
+GKLA-EAC8
+
+// Hans starts with 50 max HP
+GKLA-EADA
+
+// Hans starts with 50 MP, max MP
+GKLA-FEMC
+
+// Lyle starts with 50 Att, Def
+GKLA-FENA
+
+// Lyle starts with 50 Mov, Agi
+GKLA-FENC
+
+// Lyle starts with 50 HP
+GKLA-EAEG
+
+// Lyle starts with 50 max HP
+GKLA-EAEJ
+
+// Lyle starts with 50 MP, max MP
+GKLA-FENL
+
+// Amon starts with 50 Att, Def
+GKLA-FEPJ
+
+// Amon starts with 50 Mov, Agi
+GKLA-FEPL
+
+// Amon starts with 50 HP
+GKLA-EAFR
+
+// Amon starts with 50 max HP
+GKLA-EAFT
+
+// Amon starts with 50 MP, max MP
+GKLA-FEPW
+
+// Balbaroy starts with 50 Att, Def
+GKLA-FERT
+
+// Balbaroy starts with 50 Mov, Agi
+GKLA-FERW
+
+// Balbaroy starts with 50 HP
+GKLA-EAG0
+
+// Balbaroy starts with 50 max HP
+GKLA-EAG2
+
+// Balbaroy starts with 50 MP, max MP
+GKLA-FER4
+
+// Kokichi starts with 50 Att, Def
+GKLA-FES2
+
+// Kokichi starts with 50 Mov, Agi
+GKLA-FES4
+
+// Kokichi starts with 50 HP
+GKLA-EAH8
+
+// Kokichi starts with 50 max HP
+GKLT-EAAA
+
+// Kokichi starts with 50 MP, max MP
+GKLT-FEJC
+
+// Bleu starts with 50 Att, Def
+GKLT-FEKA
+
+// Bleu starts with 50 Mov, Agi
+GKLT-FEKC
+
+// Bleu starts with 50 HP
+GKLT-EABG
+
+// Bleu starts with 50 max HP
+GKLT-EABJ
+
+// Bleu starts with 50 MP, max MP
+GKLT-FEKL
+
+// Adam starts with 50 Att, Def
+GKLT-FELJ
+
+// Adam starts with 50 Mov, Agi
+GKLT-FELL
+
+// Adam starts with 50 HP
+GKLT-EACR
+
+// Adam starts with 50 max HP
+GKLT-EACT
+
+// Adam starts with 50 MP, max MP
+GKLT-FELW
+
+// Zylo starts with 50 Att, Def
+GKLT-FEMT
+
+// Zylo starts with 50 Mov, Agi
+GKLT-FEMW
+
+// Zylo starts with 50 HP
+GKLT-EAD0
+
+// Zylo starts with 50 max HP
+GKLT-EAD2
+
+// Zylo starts with 50 MP, max MP
+GKLT-FEM4
+
+// Musashi starts with 50 Att, Def
+GKLT-FEN2
+
+// Musashi starts with 50 Mov, Agi
+GKLT-FEN4
+
+// Musashi starts with 50 HP
+GKLT-EAE8
+
+// Musashi starts with 50 max HP
+GKLT-EAFA
+
+// Musashi starts with 50 MP, max MP
+GKLT-FEPC
+
+// Hanzou starts with 50 Att, Def
+GKLT-FERA
+
+// Hanzou starts with 50 Mov, Agi
+GKLT-FERC
+
+// Hanzou starts with 50 HP
+GKLT-EAGG
+
+// Hanzou starts with 50 max HP
+GKLT-EAGJ
+
+// Hanzou starts with 50 MP, max MP
+GKLT-FERL
+
+// Jogurt starts with 50 Att, Def
+GKLT-FESJ
+
+// Jogurt starts with 50 Mov, Agi
+GKLT-FESL
+
+// Jogurt starts with 50 HP
+GKLT-EAHR
+
+// Jogurt starts with 50 max HP
+GKLT-EAHT
+
+// Jogurt starts with 50 MP, max MP
+GKLT-FESW
+
+// Healing Seed is free instead of $200
+ABNT-EABY
+
+// Antidote is free instead of $20
+ABNT-EACE
+
+// Angel Wing is free instead of $40
+ABNT-EADE
+
+// Short Sword is free instead of $100
+ABPA-EAHY
+
+// Middle sword is free instead of $250
+ABPT-EAAE
+
+// Steel Sword is free instead of $2500
+ABPT-EABE
+
+// Broad Sword is free instead of $4800
+ABPT-EABY
+
+// Spear is free instead of $150
+ABPT-EAHY
+
+// Bronze Lance is free instead of $300
+ABPT-EAFE
+
+// Power Spear is free instead of $900
+ABRA-EAAE
+
+// Chrome Lance is free instead of $4500
+ABPT-EAGE
+
+// Hand Axe is free instead of $200
+ABRA-EABE
+
+// Great Axe is free instead of $10,000
+ABPA-EAGY
+
+// Wooden Staff is free instead of $80
+ABRA-EADY
+
+// Power Staff is free instead of $500
+ABRA-EAFE
+
+// Holy Staff is free instead of $8000
+ABRA-EAEY
+
+// Wooden Arrows are free instead of $320
+ABRA-EAGY
+
+// Buster Shot is free instead of $12,400
+ABRT-EAAE
+
+// Max Movement When You Open Character Profile
+A6WA-FEAT
+
+// Enable debug commands
+FFB0AC:00FF
+
+// When You Use The Medical Herb (In Battle), EVERYONE In Your Party Will Level-Up To Level 19!!
+LFNT-EAA0
+LFNT-EAA2
+ABNT-EKT4
+NPNT-F4J8
+
+// Levels Keep Going Up In Battle
+JA0A-F23A
+
+// Go Anywhere In Battle
+PECT-FF8L
+
+// You Can Walk Through Walls On The Map
+ALCT-AA6Y
+ALDA-AA24
+ALDA-AA7E
+ALDT-AA3L
+
+// You Can Walk Through Walls In Towns
+REEA-C6WL
+
+// You Can Control Enemies/Enemies Can't Attack You
+ACCA-AA2E
+
+// Level Up During Every Battle Scene
+RFGV-E61E
+
+// Highest Possible Level-Up Bonuses After Level 20!
+RFEA-E6TY
+
+// Your Characters Are Completely Invincible
+AVEV-EA9E
+RZFB-E6TT
+
+// Retargeting of Attacks
+ZKAB-EYF4
+
+// 1 Hit Kills Enemy
+RFGB-E6VR
+
+// When You Use The HEAL 1 Spell, It Will Cast A HEAL 3 Spell Instead! (But It Still Only Costs 3 MP)
+C3WA-FNDG
+
+// When You Use The HEAL 1 Spell, It Will Cast A HEAL 4 Spell Instead! (But It Still Only Costs 3 MP)
+C7WA-FRDG
+
+// When You Use The MUDDLE Spell, It Will Cast A BOLT 3 Spell Instead! (But It Still Only Costs 6 MP)
+F3WA-E6SG
+
+// When You Use The SLEEP Spell, It Will Cast A BOLT 4 Spell Instead! (But It Still Only Costs 6 MP)
+F7WT-E8L0
+
+// When You Use The BLAZE 1 Spell, It Will Cast A BLAZE 3 Spell Instead! (But It Still Only Costs 2 MP)
+E3WA-ENS0
+
+// When You Use The BLAZE 1 Spell, It Will Cast A BLAZE 4 Spell Instead! (But It Still Only Costs 2 MP)
+E7WA-ERS0
+
+// When You Use The BLAZE 1 Spell, It Will Cast A FREEZE 3 Spell Instead! (But It Still Only Costs 2 MP)
+FKWA-EYS0
+
+// When You Use The BLAZE 1 Spell, It Will Cast A FREEZE 4 Spell Instead! (But It Still Only Costs 2 MP)
+FPWA-E0S0
+
+// When You Use The BLAZE 1 Spell, It Will Cast A BOLT 3 Spell Instead! (But It Still Only Costs 2 MP)
+F3WA-E6S0
+
+// When You Use The BLAZE 1 Spell, It Will Cast A BOLT 4 Spell Instead! (But It Still Only Costs 2 MP)
+F7WA-E8S0
+
+// When You Use The BLAZE 1 Spell, It Will Cast A HEAL 3 Spell Instead! (But It Still Only Costs 2 MP)
+C3WA-FNH0
+
+// When You Use The BLAZE 1 Spell, It Will Cast A HEAL 4 Spell Instead! (But It Still Only Costs 2 MP)
+C7WA-FRH0
+
+// When You Use The BLAZE 1 Spell, It Will Cast A AURA 4 Spell Instead! (But It Still Only Costs 2 MP)
+DPWA-F0H0
+
+// The EGRESS Spell Costs 0 MP
+ABWT-EAB2
+
+// The BLAZE 1 Spell Costs 0 MP
+ABWA-EAH2
+
+// The BLAZE 2 Spell Costs 0 MP
+ABWA-EAH6
+
+// The BLAZE 3 Spell Costs 0 MP
+ABWT-EAAA
+
+// The BOLT 1 Spell Costs 0 MP
+ABWT-EAA2
+
+// The BOLT 2 Spell Costs 0 MP
+ABWT-EAA6
+
+// The BOLT 3 Spell Costs 0 MP
+ABWT-EABA
+
+// The BOLT 4 Spell Costs 0 MP
+ABWT-EABE
+
+// The FREEZE 2 Spell Costs 0 MP
+ABWT-EAAN
+
+// The FREEZE 4 Spell Costs 0 MP
+ABWT-EAAY
+
+// The AURA 1 Spell Costs 0 MP
+ABWA-EAD2
+
+// The AURA 2 Spell Costs 0 MP
+ABWA-EAD6
+
+// The AURA 4 Spell Costs 0 MP
+ABWA-EAEE
+
+// The HEAL 1 Spell Costs 0 MP
+ABWA-EADJ
+
+// The HEAL 2 Spell Costs 0 MP
+ABWA-EADN
+
+// The HEAL 3 Spell Costs 0 MP
+ABWA-EADT
+
+// The HEAL 4 Spell Costs 0 MP
+ABWA-EADY
+
+// Get 250 Coins For Defeating Goblins In Battle
+9K4T-EAA6
+
+// Get 3000 Coins For Defeating Goblins In Battle
+1B4T-E0A6
+
+// Get 65,000 Coins For Defeating Goblins In Battle
+7B4T-F526
+
+// Get 250 Coins For Defeating Dark Dwarfs In Battle
+9K4T-EADN
+
+// Get 3000 Coins For Defeating Dark Dwarfs In Battle
+1B4T-E0DN
+
+// Get 65,000 Coins For Defeating Dark Dwarfs In Battle
+7B4T-F55N
+
+// Get 250 Coins For Defeating Giant Bats In Battle
+9K5A-EAE6
+
+// Get 3000 Coins For Defeating Giant Bats In Battle
+1B5A-E0E6
+
+// Get 65,000 Coins For Defeating Giant Bats In Battle
+7B5A-F566
+
+// Get 250 Coins For Defeating Pegasus Knights In Battle
+9K5T-EAEN
+
+// Get 3000 Coins For Defeating Pegasus Knights In Battle
+1B5T-E0EN
+
+// Get 65,000 Coins For Defeating Pegasus Knights In Battle
+7B5T-F56N
+
+// Get 3000 Coins For Defeating Torch Eyes In Battle
+1B6A-E0A6
+
+// Get 65,000 Coins For Defeating Torch Eyes In Battle
+7B6A-F526
+
+// Fake Damage Modifier
+FFBCBC:0000
+
+// Fake Attack/Damage/Reward Stats Modifier
+FFF902:0000
+
+// Some Enemies Have No Health
+FFC754:0000
+FFC704:0000
+FFC664:0000
+FFC72C:0000
+FFC6B4:0000
+FFC68C:0000
+FFC6DC:0000
+FFC63C:0000
+FFC7A4:0000
+FFC7CC:0000
+FFC77C:0000
+
+// Max Attack
+FF9CEE:0063
+
+// Spell
+FFA070:0099
+
+// Spell
+FF9FD0:0000
+
+// The king gives you $25,600 at the beginning of the game (instead of $100)
+V7GT-F3GJ
+
+// All shops have up to 155 items for sale
+931T-CACN
+
+// If you don't have enough money to buy something, the shop owner will still give it to you.
+AKYT-CA8G
+
+// Can buy the Kinden No Hako in the Item Shop in Guardiana, as well as several weapons
+DV1T-CJE6
+
+// Domingo joins your party at the beginning of the game instead of Lowe
+B0DA-DA60
+
+// Zylo joins your party at the beginning of the game instead of Lowe
+DLDA-DA60
+
+// Alef joins your party at the beginning of the game instead of Luke
+BRCT-DA9W
+
+// Torasu joins your party at the beginning of the game instead of Ken
+CCDA-DA2W
+
+// Lyle joins your party at the beginning of the game instead of Tao
+CWDA-DA3W
+
+// Adam joins your party at the beginning of the game instead of Hans
+DGDA-DA4W
+
+// Infinite MP
+AJXT-EA94
+
+// Special Turbo
+FFB0A8:0000
+
+// Control Opponents
+FFB0AA:0000
+
+// Auto Battle
+FFB0AA:0000
+
+// Game Completed
+FFB0AC:0000
+
+// Chapter Selection (Note: Enable it when you start a new game.)
+FF9C00:0001
+
+// Max Gold (999999)
+FF9C8E:0000
+FF9C8E:000F
+FF9C90:0042
+FF9C90:003F
+
+// All members unlocked
+FF9C8A:3FFF
+FF9C8C:FFFF
+
+// Character's turn during battle Modifier
+FF9C06:0000
+
+// Game Speed
+FF9C04:0000
+
+// Battle Message
+FF9C06:0000
+
+// X-axis cursor during battle
+FF9C4A:0000
+
+// Y-axis cursor during battle
+FF9C4A:0000
+
+// Infinite MP (alt)
+REZT-E61G
+
+// Earnest - Max Attack
+FF9D66:0063
+
+// Earnest - Max Agility
+FF9D68:0063
+
+// Gort - Max Attack
+FF9DB6:0063
+
+// Gort - Max Agility
+FF9DB8:0063

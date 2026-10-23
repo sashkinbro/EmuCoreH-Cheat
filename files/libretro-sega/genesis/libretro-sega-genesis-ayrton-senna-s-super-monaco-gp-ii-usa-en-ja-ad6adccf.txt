@@ -1,0 +1,110 @@
+// Your position is always reported as 1st place except when you choose rival [switchable]
+RE6T-C6T8
+
+// Faster low end acceleration
+BJAT-CAH8
+
+// Faster high end acceleration and higher top speed
+DAAT-CAFJ
+
+// Start new World Championship Game on Round 2
+SBFT-BEYC
+
+// Start new World Championship Game on Round 3
+SBFT-BJYC
+
+// Start new World Championship Game on Round 4
+SBFT-BNYC
+
+// Start new World Championship Game on Round 5
+SBFT-BTYC
+
+// Start new World Championship Game on Round 6
+SBFT-BYYC
+
+// Start new World Championship Game on Round 7
+SBFT-B2YC
+
+// Start new World Championship Game on Round 8
+SBFT-B6YC
+
+// Start new World Championship Game on Round 9
+SBFT-BAYC
+
+// Start new World Championship Game on Round 10
+9VFT-BGNC
+97FT-AAEG
+B3FT-B36J
+BFFT-AAEE
+
+// Start new World Championship Game on Round 11
+9VFT-BGNC
+97FT-AAEG
+B3FT-B36J
+BKFT-AAEE
+
+// Start new World Championship Game on Round 12
+9VFT-BGNC
+97FT-AAEG
+B3FT-B36J
+BPFT-AAEE
+
+// Start new World Championship Game on Round 14
+9VFT-BGNC
+97FT-AAEG
+B3FT-B36J
+BZFT-AAEE
+
+// Start new World Championship Game on Round 15
+9VFT-BGNC
+97FT-AAEG
+B3FT-B36J
+B3FT-AAEE
+
+// Start new World Championship Game on Round 16
+9VFT-BGNC
+97FT-AAEG
+B3FT-B36J
+B7FT-AAEE
+
+// Freeze Time
+FFFD26:0000
+
+// Have Max Speed
+FFFC2A:00FF
+
+// Race with the Hang-On Bike
+FFFF6C:00FF
+
+// Regional Lockout Bypass (European and Japanese Systems)
+AA4A-AA90
+
+// Slightly Higher Top Speed for Automatic Transmission (Same Top Speed as 7-Speed Manual Transmission)
+E2AT-CAFJ
+
+// Slightly Higher Top Speed for 4-Speed Manual Transmission (Same Top Speed as 7-Speed Manual Transmission)
+E2AT-CAF0
+
+// Always Finish 1st (Except when you wreck or retire)
+AJ6T-CA26
+AJ6T-CA6W
+
+// Always Qualify Pole (Except when you wreck or retire)
+AACA-CA4Y
+
+// All Races in World Championship Mode - Beginner Difficulty are ?? Laps Long, instead of 3 Laps Long
+AAFT-CADG
+
+// All Races in World Championship Mode - Master Difficulty are ?? Laps Long, instead of 6 Laps Long
+AAFT-CAD4
+
+// All Races in Senna GP Mode are ?? Laps Long, instead of 3 Laps Long
+AAFT-CAGG
+
+// Never Wreck Car
+ABPA-CAFW
+
+// Race with the Hang-On Bike
+9TKT-7CBR
+96KT-6ABT
+PTKT-793W

@@ -1,0 +1,60 @@
+// Don't Turn To A Frog
+AX4T-2A34
+
+// Infinite Seeds
+A21A-4674
+
+// No Knockdowns From Attacks
+AMHT-2A6A
+
+// Infinite Z's
+AMCT-2A6R
+
+// Infinite Bubble Gum
+AMEA-2A9R
+
+// Infinite Lives
+ALTA-LA8A
+
+// Infinite Health
+RGST-L60W
+
+// Keep Weapons After Death
+AWTA-LA7T
+AWTA-LA5W
+
+// Infinite Lives
+AM3T-LA2N
+
+// Kill Germs 1 Hit
+FBFA-MYXL
+
+// Can't Be Blown Up
+AVVT-LA30
+
+// Don't Turn To A Frog
+FFDEBC:0001
+
+// Infinite Lives
+FFC812:0004
+
+// Infinite Health
+FFC814:1F1F
+
+// Weapon Modifier
+FFC816:0000
+
+// Kill Germs In 1 Hit
+FFDF7A:0005
+
+// Can't Be Blown Up
+FFC192:0000
+
+// Infinite Lives
+FFC812:0004
+
+// Infinite Bubblegum
+FFC802:0005
+
+// Removes Some Enemies
+FFC862:0000

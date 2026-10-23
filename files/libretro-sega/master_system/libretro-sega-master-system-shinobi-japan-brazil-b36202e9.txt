@@ -1,0 +1,15 @@
+// Stage Select after Title Screen
+00C0-1A06
+
+// Stage Select after Title Screen
+063-31F-E6A
+
+// Start with ?? Health
+0C5-F0F-F72
+
+// Start with ?? Lives, instead of 2
+035-D7F-E62
+
+// Infinite/Max Health
+00C0-6C14
+00C0-6D12

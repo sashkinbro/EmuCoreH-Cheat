@@ -1,0 +1,5 @@
+// Infinite Rest (For Editting 1P's Character)
+00C6-0B09
+
+// Always On First Stroke
+00C6-1500

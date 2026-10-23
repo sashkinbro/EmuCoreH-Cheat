@@ -1,0 +1,12 @@
+// Invincibility
+AAZT-AA2R
+AJZT-AADE
+
+// Makes Your Ship Move Faster
+DTYA-AACW
+
+// Makes Your Ship Move Much Faster
+FAYA-AACW
+
+// Pause the game, press C, then unpause for Debug menu
+AAHA-BE9N

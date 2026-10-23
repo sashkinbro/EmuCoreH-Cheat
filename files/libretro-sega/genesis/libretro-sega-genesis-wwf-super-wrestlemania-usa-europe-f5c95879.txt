@@ -1,0 +1,122 @@
+// Player 1 starts with 3/4 energy
+5CWA-CAEE
+
+// Player 1 starts with 1/2 energy
+WCWA-CAEE
+
+// Player 1 starts with 1/4 energy
+KCWA-CAEE
+
+// Player 2 starts with 3/4 energy
+5CWT-CAFG
+
+// Player 2 starts with 1/2 energy
+WCWT-CAFG
+
+// Player 2 starts with 1/4 energy
+KCWT-CAFG
+
+// Kick does no damage
+DWCA-CACJ
+
+// Punch does no damage
+ACCA-CAAR
+
+// Elbow drop does no damage (not flying elbowdrop)
+CCCA-CABA
+
+// Stomp does no damage
+ACCA-CABC
+
+// Flying dropkick does no damage
+ACCA-CABE
+
+// Body slam does no damage
+ACCA-CAA8
+
+// Head butt does no damage
+ACCA-CJBJ
+
+// Suplex does no damage
+ACCA-CAB2
+
+// Hiptoss does no damage
+ACCA-CABG
+
+// Clothesline does no damage
+BWCA-CABY
+
+// Kick does more damage
+DWCA-DTCJ
+
+// Punch does more damage
+DCCA-CAAR
+
+// Elbow drop does more damage (not flying elbowdrop)
+CCCA-DAKA
+
+// Stomp does more damage
+ACCA-DABC
+
+// Flying dropkick does more damage
+GCCA-CABE
+
+// Body slam does more damage
+HWCA-CAA8
+
+// Head butt does more damage
+CCCA-CJBJ
+
+// Suplex does more damage
+FLCA-CAB2
+
+// Hiptoss does more damage
+D4CA-CABG
+
+// Clothesline does more damage
+BWCA-CJKY
+
+// Kick does a lot more damage
+DWCA-DALJ
+
+// Punch does a lot more damage
+GCCA-CAAR
+
+// Elbow drop does a lot more damage (not flying elbowdrop)
+CCCA-CA3A
+
+// Stomp does a lot more damage
+ACCA-DAKC
+
+// Flying dropkick does a lot more damage
+NCCA-CABE
+
+// Body slam does a lot more damage
+SCCA-CAA8
+
+// Head butt does a lot more damage
+GCCA-CJBJ
+
+// Suplex does a lot more damage
+LWCA-CAB2
+
+// Hiptoss does a lot more damage
+HWCA-CABG
+
+// Clothesline does a lot more damage
+BWCA-CTVY
+
+// Infinite Energy
+9WHT-FGP4
+ECHT-ECF6
+98HT-EAF8
+9LHT-FVRA
+
+// Character Modifier P1 (Alternate)
+FFB8BE:0000
+
+// Character Modifier P2/CPU (Alternate)
+FFB8C8:0000
+
+// Infinite Health P1
+FFB8FA:0032

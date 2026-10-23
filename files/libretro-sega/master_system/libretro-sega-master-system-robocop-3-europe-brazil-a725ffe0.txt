@@ -1,0 +1,50 @@
+// Infinite Lives
+00CE-6A03
+
+// Infinite Lives
+00A-D4D-082
+
+// Infinite Bullets (1st Digit)
+00CE-A009
+
+// Infinite Bullets (2nd &amp; 3rd Digits)
+00CE-9F99
+
+// Infinite Health
+00C7-603F
+
+// On-Screen Health Modifier
+00CE-0800
+
+// Infinite Time - Seconds
+00CE-6459
+
+// Infinite Time - Minutes
+00CE-6309
+
+// Infinite Time (Alternate)
+00CE-6559
+
+// Infinite Ammo 3-way shot
+00CE-A199
+
+// Infinite Ammo Laser
+00CE-A399
+
+// Infinite Ammo Flamethrower
+00CE-A599
+
+// Infinite Ammo Missile Launcher
+00CE-A799
+
+// Never Die
+00CD-EF00
+
+// Have All Weapons
+00CD-F71F
+
+// Infinite Lives
+3AA-D8D-2A2
+
+// One Hit Kills Some Enemies
+007-689-E6E

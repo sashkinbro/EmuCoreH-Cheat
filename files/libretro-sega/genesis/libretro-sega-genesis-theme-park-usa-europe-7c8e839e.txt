@@ -1,0 +1,17 @@
+// Start A New Game With Over $2,000,000 (Instead of Only $200,000)
+EABA-RAF4
+
+// Start A New Game With $396,000 (Instead of $200,000)
+A2BA-RAF4
+
+// Start A New Game With About $5,000,000
+KYBA-RAF4
+
+// Start A New Game With About $15,000,000
+6YBA-RAF4
+
+// Infinite Money
+FF2D82:00FF
+
+// Take control while the demo mode plays
+FFD9D4:0000

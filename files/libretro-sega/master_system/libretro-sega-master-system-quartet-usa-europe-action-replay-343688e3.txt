@@ -1,0 +1,8 @@
+// Infinite Lives
+00C0-1609
+
+// Invincibility - Player 1
+00C2-C110
+
+// Infinite Time - Player 1
+00C2-C099

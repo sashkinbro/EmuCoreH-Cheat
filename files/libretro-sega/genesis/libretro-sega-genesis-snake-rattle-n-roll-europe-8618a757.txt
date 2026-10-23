@@ -1,0 +1,119 @@
+// Infinite Lives
+FF0BC0:0009
+
+// Infinite Credits
+FF0BC0:0009
+
+// Invincibility
+FF0BE4:00FF
+
+// Infinite Time - Seconds
+FF0A94:0009
+
+// Infinite Time - Minutes
+FF0A94:0009
+
+// Shark Never Comes
+FF0B8C:0000
+
+// Start with 9 Lives and 9 Credits
+BEJT-AWFL
+
+// Infinite Lives
+AJ5A-AA4N
+
+// Infinite Credits
+AJ5A-AA34
+
+// Infinite Time (Seconds)
+AHYA-AAFC
+
+// Almost Invincible after hit
+AJ7T-AA7R
+CT7T-AA7N
+
+// Almost Invincible
+ABXT-AA32
+
+// Shark Never Comes
+AKAT-AA2T
+
+// Infinite Time (Minutes)
+AHYA-AAFY
+
+// High jump.
+DVDA-AAF8
+
+// Super high jump.
+GKDA-AAF8
+
+// Don't die from jumping/falling from high places, or from jumping too high when using the super high jump code above.
+RE8T-A6WJ
+
+// The rocketship at the end of level 1 waits much longer before blasting off.
+V2VA-ATGC
+
+// Start a new game on level 2.
+AEJT-AAEN
+
+// Start a new game on level 3.
+AJJT-AAEN
+
+// Start a new game on level 4.
+ANJT-AAEN
+
+// Start a new game on level 5.
+ATJT-AAEN
+
+// Start a new game on level 6.
+AYJT-AAEN
+
+// Start a new game on level 7.
+A2JT-AAEN
+
+// Start a new game on level 8.
+A6JT-AAEN
+
+// Start a new game on level 9.
+BAJT-AAEN
+
+// Start a new game on level 10.
+BEJT-AAEN
+
+// Start a new game on level 11.
+BJJT-AAEN
+
+// Start a new game on level 12.
+BNJT-AAEN
+
+// Infinite Credits (Continues) P2
+FF0BC2:0009
+
+// Infinite Lives P2
+FF0BC2:0009
+
+// Have Long Tail P1
+FF0B54:0035
+
+// Have Long Tail P2
+FF0B56:0035
+
+// 1 Hit Kill Enemies
+A3WT-AA2G
+
+// Freeze Time
+AMYA-AA7A
+
+// Untouchable
+RZXT-A6VY
+
+// Freeze Time Play On
+AX3T-AA42
+
+// Infinite Tile P1 P2
+AKXT-AA6A
+ALCA-AA2E
+
+// Title screen music modifier
+ADGT-NACA
+ADCA-PA7R

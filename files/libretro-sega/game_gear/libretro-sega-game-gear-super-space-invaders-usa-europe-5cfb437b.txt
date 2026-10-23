@@ -1,0 +1,50 @@
+// Shoot One Invader To Clear Round
+00C8-4601
+
+// Faster Shooting
+00C7-E702
+
+// Faster Shooting Improvement Code
+00C7-E922
+
+// Makes You Invisible
+00C7-E601
+
+// Start With ?? Lives
+01A-E1C-E66
+
+// Infinite lives
+00F-D5B-3BE
+
+// Start with 3 shields
+02B-09E-E66
+
+// Start with 6 shields
+05B-09E-E66
+
+// Start with 8 shields
+07B-09E-E66
+
+// Infinite shields
+007-43E-E6E
+
+// Infinite Lives
+00C7-EC09
+
+// Infinite Hits
+00C7-EE09
+
+// Invincibility
+009-63E-F76
+
+// Infinite Shields
+3A7-44E-2A2
+
+// Infinite Credits
+3AA-61C-2A2
+
+// Invincibility
+00C7-F935
+
+// Infinite Credits
+00C7-ED02

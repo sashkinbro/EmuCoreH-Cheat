@@ -1,0 +1,38 @@
+// Cant Strike Out
+00CC-2600
+
+// Almost no strikes
+00B-FAE-3BA
+
+// 1 strike needed for an out
+01C-85E-E66
+
+// 2 strikes needed for an out
+02C-85E-E66
+
+// 5 strikes needed for an out
+05C-85E-E66
+
+// 15 strikes needed for an out
+0EC-85E-E66
+
+// Never strike outs
+00C-ADE-3BA
+
+// Never walk
+00C-07E-D59
+
+// 1 ball needed for walk
+01C-8DE-F7A
+
+// 5 balls needed for walk
+05C-8DE-F7A
+
+// 10 balls needed for walk
+0AC-8DE-F7A
+
+// 15 balls needed for walk
+0EC-8DE-F7A
+
+// No scoring
+000-0C5-3BA

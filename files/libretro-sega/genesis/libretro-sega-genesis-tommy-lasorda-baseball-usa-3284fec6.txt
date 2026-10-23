@@ -1,0 +1,438 @@
+// Regulation game lasts 1 inning
+AAEA-AAAA
+AAEA-AACC
+ACPA-AAHY
+
+// Regulation game lasts 2 innings
+AEEA-AAAA
+AEEA-AACC
+AGPA-AAHY
+
+// Regulation game lasts 3 innings
+AJEA-AAAA
+AJEA-AACC
+ALPA-AAHY
+
+// Regulation game lasts 5 innings
+ATEA-AAAA
+ATEA-AACC
+AWPA-AAHY
+
+// Regulation game lasts 7 innings
+A2EA-AAAA
+A2EA-AACC
+A4PA-AAHY
+
+// Pitches use less energy
+RHVA-A6WJ
+AHVA-BE4L
+
+// Pitches use more energy
+RHVA-A6WJ
+A5VA-BE4L
+
+// Pitches use much more energy
+RHVA-A6WJ
+CDVA-BE4L
+
+// Pitches use no energy
+BMVA-AA4W
+
+// Batter walks on 2 balls
+AJ3T-AAD2
+
+// Batter walks on 3 balls
+AN3T-AAD2
+
+// Batter walks on 5 balls
+AY3T-AAD2
+
+// Batter walks on 6 balls
+A23T-AAD2
+
+// Batter never walks
+AA3T-AA56
+
+// Any pitch taken is a ball
+HT3T-AA3N
+
+// Any pitch taken is a strike
+4A3T-AA5L
+
+// Taken strikes do not count
+CJ3T-AN3L
+FA3T-AA36
+FE3T-BA38
+
+// Foul ball after 2 strikes is an out
+9DTT-ACC4
+
+// Foul bunt after 2 strikes is not an out
+AXPA-AA4Y
+
+// Regulation game lasts 1 inning
+AADT-AAGA
+AAEA-AAAC
+ACNA-AACR
+
+// Regulation game lasts 2 innings
+AEDT-AAGA
+AEEA-AAAC
+AGNA-AACR
+
+// Regulation game lasts 3 innings
+AJDT-AAGA
+AJEA-AAAC
+ALNA-AACR
+
+// Regulation game lasts 5 innings
+ATDT-AAGA
+ATEA-AAAC
+AWNA-AACR
+
+// Regulation game lasts 7 innings
+A2DT-AAGA
+A2EA-AAAC
+A4NA-AACR
+
+// Pitches use less energy
+RHST-A6Y8
+AHST-BE7A
+
+// Pitches use more energy
+RHST-A6Y8
+A5ST-BE7A
+
+// Pitches use much more energy
+RHST-A6Y8
+CDST-BE7A
+
+// Pitches use no energy
+BMST-AA7J
+
+// Batter walks on 2 balls
+AJ3T-AAB2
+
+// Batter walks on 3 balls
+AN3T-AAB2
+
+// Batter walks on 5 balls
+AY3T-AAB2
+
+// Batter walks on 6 balls
+A23T-AAB2
+
+// Batter never walks
+AA3T-AA36
+
+// Any pitch taken is a ball
+HT3A-AA9N
+
+// Any pitch taken is a strike
+4A3T-AA3L
+
+// Taken strikes do not count
+CJ3A-AN9L
+FA3A-AA96
+FE3A-BA98
+
+// Foul ball after 2 strikes is an out
+9DSA-ACFT
+
+// Foul bunt after 2 strikes is not an out
+AXMT-AA7L
+
+// Game starts with computer leading 1-0
+AFJT-BA76
+2BJT-ACP8
+9BJT-ACRC
+GKJT-AD8G
+9KJT-BCRE
+
+// Game starts with computer leading 2-0
+AFJT-BA76
+2BJT-ACP8
+9BJT-ACRC
+GKJT-AD8G
+3KJT-BCRE
+
+// Game starts with computer leading 3-0
+AFJT-BA76
+2BJT-ACP8
+9BJT-ACRC
+GKJT-AD8G
+73JT-BCRE
+
+// Game starts with player 1 leading 4-0
+AFJT-BA76
+2BJT-ACP8
+9BJT-ACRC
+GKJT-AD8G
+GVJT-AGGE
+
+// Game starts with player 1 leading 5-0
+AFJT-BA76
+2BJT-ACP8
+9BJT-ACRC
+GKJT-AD8G
+6BJT-BCRE
+
+// Game starts with player 1 leading 6-0
+AFJT-BA76
+2BJT-ACP8
+9BJT-ACRC
+GKJT-AD8G
+3BJT-BCRE
+
+// Game starts with player 2 leading 1-0
+AFJT-BA80
+2BJT-ACR2
+9BJT-ACR6
+GKJT-AD9A
+9KJT-BCR8
+
+// Game starts with player 2 leading 2-0
+AFJT-BA80
+2BJT-ACR2
+9BJT-ACR6
+GKJT-AD9A
+3KJT-BCR8
+
+// Game starts with player 2 leading 3-0
+AFJT-BA80
+2BJT-ACR2
+9BJT-ACR6
+GKJT-AD9A
+73JT-BCR8
+
+// Game starts with player 1 leading 4-0
+AFJT-BA80
+2BJT-ACR2
+9BJT-ACR6
+GKJT-AD9A
+6VJT-AGG8
+
+// Game starts with player 1 leading 5-0
+AFJT-BA80
+2BJT-ACR2
+9BJT-ACR6
+GKJT-AD9A
+6BJT-BCR8
+
+// Game starts with player 1 leading 6-0
+AFJT-BA80
+2BJT-ACR2
+9BJT-ACR6
+GKJT-AD9A
+3BJT-BCR8
+
+// Game starts with computer leading 1-0
+AFJT-BA2E
+2BJT-ACJG
+9BJT-ACJL
+GKJT-AD2R
+1KJT-BCJN
+
+// Game starts with computer leading 2-0
+AFJT-BA2E
+2BJT-ACJG
+9BJT-ACJL
+GKJT-AD2R
+VKJT-BCJN
+
+// Game starts with computer leading 3-0
+AFJT-BA2E
+2BJT-ACJG
+9BJT-ACJL
+GKJT-AD2R
+Z3JT-BCJN
+
+// Game starts with player 1 leading 4-0
+AFJT-BA2E
+2BJT-ACJG
+9BJT-ACJL
+GKJT-AD2R
+6VJT-AGAN
+
+// Game starts with player 1 leading 5-0
+AFJT-BA2E
+2BJT-ACJG
+9BJT-ACJL
+GKJT-AD2R
+YBJT-BCJN
+
+// Game starts with player 1 leading 6-0
+AFJT-BA2E
+2BJT-ACJG
+9BJT-ACJL
+GKJT-AD2R
+VBJT-BCJN
+
+// Game starts with player 2 leading 1-0
+AFJT-BA28
+2BJT-ACKA
+9BJT-ACKE
+GKJT-AD3J
+1KJT-BCKG
+
+// Game starts with player 2 leading 2-0
+AFJT-BA28
+2BJT-ACKA
+9BJT-ACKE
+GKJT-AD3J
+VKJT-BCKG
+
+// Game starts with player 2 leading 3-0
+AFJT-BA28
+2BJT-ACKA
+9BJT-ACKE
+GKJT-AD3J
+Z3JT-BCKG
+
+// Game starts with player 1 leading 4-0
+AFJT-BA28
+2BJT-ACKA
+9BJT-ACKE
+GKJT-AD3J
+6VJT-AGBE
+
+// Game starts with player 1 leading 5-0
+AFJT-BA28
+2BJT-ACKA
+9BJT-ACKE
+GKJT-AD3J
+YBJT-BCKG
+
+// Game starts with player 1 leading 6-0
+AFJT-BA28
+2BJT-ACKA
+9BJT-ACKE
+GKJT-AD3J
+VBJT-BCKG
+
+// Regulation Game Lasts 1 Inning
+AADT-AAGA
+AAEA-AAAC
+ACNA-AACR
+
+// Regulation Game Lasts 1 Inning (Open Game)
+AAEA-AAAA
+AAEA-AACC
+ACPA-AAHY
+
+// Regulation Game Lasts 2 Innings
+AEDT-AAGA
+AEEA-AAAC
+AGNA-AACR
+
+// Regulation Game Lasts 2 Innings (Open Game)
+AEEA-AAAA
+AEEA-AACC
+AGPA-AAHY
+
+// Regulation Game Lasts 3 Innings
+AJDT-AAGA
+AJEA-AAAC
+ALNA-AACR
+
+// Regulation Game Lasts 3 Innings (Open Game)
+AJEA-AAAA
+AJEA-AACC
+ALPA-AAHY
+
+// Regulation Game Lasts 5 Innings
+ATDT-AAGA
+ATEA-AAAC
+AWNA-AACR
+
+// Regulation Game Lasts 5 Innings (Open Game)
+ATEA-AAAA
+ATEA-AACC
+AWPA-AAHY
+
+// Regulation Game Lasts 7 Innings
+A2DT-AAGA
+A2EA-AAAC
+A4NA-AACR
+
+// Regulation Game Lasts 7 Innings (Open Game)
+A2EA-AAAA
+A2EA-AACC
+A4PA-AAHY
+
+// Taken Strikes Do Not Count
+CJ3A-AN9L
+FA3A-AA96
+FE3A-BA98
+
+// Taken Strikes Do Not Count (Open Game)
+CJ3T-AN3L
+FA3T-AA36
+FE3T-BA38
+
+// Game Starts With CPU Leading 1-0
+AFJT-BA2E
+2BJT-ACJG
+9BJT-ACJL
+GKJT-AD2R
+1KJT-BCJN
+
+// Game Starts With Player 2 Leading 1-0
+AFJT-BA28
+2BJT-ACKA
+9BJT-ACKE
+GKJT-AD3J
+1KJT-BCKG
+
+// Game Starts With CPU Leading 2-0
+AFJT-BA76
+2BJT-ACP8
+9BJT-ACRC
+GKJT-AD8G
+3KJT-BCRE
+
+// Game Starts With Player 2 Leading 1-0
+AFJT-BA80
+2BJT-ACR2
+9BJT-ACR6
+GKJT-AD9A
+9KJT-BCR8
+
+// Pitches Use Less Energy
+RHST-A6Y8
+AHST-BE7A
+
+// Pitches Use Less Energy (Open Game)
+RHVA-A6WJ
+AHVA-BE4L
+
+// Pitches Use More Energy
+RHST-A6Y8
+A5ST-BE7A
+
+// Pitches Use More Energy (Open Game)
+RHVA-A6WJ
+A5VA-BE4L
+
+// Pitches Use Much More Energy
+RHST-A6Y8
+CDST-BE7A
+
+// Pitches Use Much More Energy (Open Game)
+RHVA-A6WJ
+CDVA-BE4L
+
+// Balls Modifier
+FFE128:0000
+
+// Strikes Modifier
+FFE126:0000
+
+// Outs Modifier
+FFE12A:0000
+
+// Team 1 Score Modifier (P1)
+FFE132:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FFE134:0000

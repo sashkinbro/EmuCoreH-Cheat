@@ -1,0 +1,11 @@
+// Infinite Health
+00CF-5280
+
+// Infinite Potion
+00CF-4A09
+
+// Infinite Health
+2A7-00D-6E2
+
+// Invincibility
+00C2-4080

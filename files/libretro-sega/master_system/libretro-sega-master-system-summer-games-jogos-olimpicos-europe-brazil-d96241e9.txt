@@ -1,0 +1,32 @@
+// Low Timer - Seconds
+00D7-7200
+
+// Low Timer - Micro-Seconds
+00D7-7300
+
+// Score Modifier (i.e. X.000)
+00D7-8F00
+
+// Score Modifier (i.e. 0.Y00)
+000-D7F
+
+// Score Modifier (i.e. 0.0Z0)
+100-D7F
+
+// Score Modifier (i.e. 0.V00)
+200-D7F
+
+// Score Modifier (i.e. 0.Y)
+00D7-A700
+
+// Low Timer - Minutes Digit
+00D7-7600
+
+// Low Timer - Seconds Digits
+00D7-7500
+
+// Low Timer - Micro-Seconds Digit
+00D7-7400
+
+// Enable FM Audio
+00C0-0101

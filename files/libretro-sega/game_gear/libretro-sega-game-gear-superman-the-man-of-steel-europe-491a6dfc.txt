@@ -1,0 +1,29 @@
+// Infinite Health
+00CC-1514
+
+// Infinite Continues
+00CE-C409
+
+// Invulnerability
+00C4-633C
+
+// Invulnerability
+C96-AEA-E69
+
+// FAKE Infinite Life Modifier
+00C4-6406
+
+// Stage Skip
+00D5-C0FF
+
+// Instantly Beat Stage
+00CB-9A02
+
+// Instantly Beat Stage
+18E-03E-6EA
+
+// Infinite Health
+006-B7A-A24
+
+// Infinite Continues
+00E-18E-19E

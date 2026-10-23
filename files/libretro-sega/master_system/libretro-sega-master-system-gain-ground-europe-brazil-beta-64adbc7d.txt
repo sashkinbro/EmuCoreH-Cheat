@@ -1,0 +1,13 @@
+// P1 Infinite Lives
+00CD-E709
+
+// P2 Infinite Lives
+00CE-2709
+
+// Infinite Time
+00CF-E409
+00CF-E509
+00CF-E609
+
+// Freeze Timer
+00CF-E33C

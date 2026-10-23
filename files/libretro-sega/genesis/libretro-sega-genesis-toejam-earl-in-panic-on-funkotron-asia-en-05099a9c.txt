@@ -1,0 +1,23 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Infinite Lives TOE JAM & EARL
+AJ4A-CA9G
+
+// Infinite Energy TOE JAM & EARL
+AT5T-CA7E
+
+// Infinite Teleport TOE JAM & EARL
+AJ2A-CA4N
+
+// Infinite Special WEAPON TOE JAM & EARL
+AJ3A-CA7G
+
+// Freeze Time Underwater TOE JAM & EARL
+AJ4A-GA2G
+
+// Infinite Continue
+AJ8T-CA6A

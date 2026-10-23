@@ -1,0 +1,23 @@
+// Infinite Lives
+AMWT-AA5C
+
+// Infinite Energy
+AMJA-AA62
+AMFT-AA8L
+AMJT-AA4C
+AJTA-CA82
+
+// Invincibility (Disable Hit Detection)
+R1JT-A61R
+R1JA-A6WT
+R1FT-A6Z4
+R1JT-A6VN
+R1HA-A6Y0
+RYTA-C6ZT
+
+// Infinite Primary Weapon And Secondary Weapon
+RHYT-A61N
+RHZA-A6Z0
+
+// Freeze Time
+AKTT-AA54

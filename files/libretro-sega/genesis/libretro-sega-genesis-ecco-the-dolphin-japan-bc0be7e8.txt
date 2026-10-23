@@ -1,0 +1,6 @@
+// Invincibility (Stars)
+FFAAC0:000A
+
+// Pause the game and press Right for Debug Menu
+A1HT-KAYL
+RHHT-J6Y6

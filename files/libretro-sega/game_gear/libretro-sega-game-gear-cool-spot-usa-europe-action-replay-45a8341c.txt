@@ -1,0 +1,14 @@
+// 99% Cool (Enables Bonus Game After Level)
+00C7-6999
+
+// Infinite Health
+00D1-8F30
+
+// Infinite Lives
+00D1-8E03
+
+// Invincibility
+00D1-BD02
+
+// Infinite Time
+00D0-9055

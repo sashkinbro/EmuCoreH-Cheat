@@ -1,0 +1,182 @@
+// Become Super Knuckles with 0 rings
+ABWX-CADG
+
+// Don't Use Up Rings To Maintain Transformation of Super Knuckles
+ABXD-CACA
+
+// Become Super Knuckles With 0 Emeralds
+ABWX-CAC8
+
+// The regular level music plays when Super Knuckles, instead of the Super theme
+ADFW-8AF6
+
+// Infinite Time In Debugger
+RGMD-G6WT
+
+// Rings Worth 4 In Special Stages
+SDSX-FTZW
+
+// Rings Worth 8 In Special Stages
+SDSX-FAZW
+
+// Jump In Midair - Knuckles
+CVWD-CA94
+HVWX-DEJT
+ABWX-DZ2W
+APWX-DP20
+AVWX-CR26
+
+// Invincibility
+R0BX-G6WY
+
+// Get Rings From Anywhere
+E23X-CA5E
+
+// Infinite Time
+R0LX-G6TL
+
+// A.I. Only Play
+HT6D-AA2J
+
+// Walk Through Walls
+R0GX-C6WY
+
+// Knuckles jumps as high as Sonic (slightly higher than usual)
+TBWD-CNDC
+
+// Don't Lose Rings When Hit
+R16D-A6VN
+
+// Walk Through Solid Objects
+RZHD-C6YL
+
+// Walk Through Perfectly Solid Walls
+RZTD-C6W4
+
+// Pause the game and press A for level select menu
+REJD-A60L
+FAJD-AAG0
+
+// Pause the game and press A to play special stages
+REJD-A60L
+CAJD-AAG0
+
+// Pause the game and press A for level select menu, press B or C for debugger.  See notes.
+REJD-A60L
+FAJD-AAG0
+5JJX-B92R
+
+// Get rings from anywhere in special/bonus stages. See notes.
+C5TD-EA5W
+G5SD-EA6W
+
+// Can run right thru black spikes in special/bonus stages without bouncing back, or losing any rings
+G5SD-EA6W
+
+// Press double jump to turn into Super Knuckles at any time. See notes.
+BBWX-CA5C
+
+// Press double jump to turn into Super Knuckles at any time.  See notes.
+BBWX-CA5C
+RZXD-C6WW
+
+// Special/Bonus stages are always accessible. See notes.
+B4LX-CA5E
+
+// Double jump to make Knuckles fly upwards. See notes.
+ABRX-CJC6
+
+// Start on Emerald Hill Zone, Act 2
+RE6D-A6TA
+9T6D-BCJC
+AE6D-AAAE
+
+// Start on Chemical Plant Zone, Act 1
+RE6D-A6TA
+9T6D-BCJC
+AA6D-A4AE
+
+// Start on Chemical Plant Zone, Act 2
+RE6D-A6TA
+9T6D-BCJC
+AE6D-A4AE
+
+// Start on Aquatic Ruin Zone, Act 1
+RE6D-A6TA
+9T6D-BCJC
+AA6D-A8AE
+
+// Start on Aquatic Ruin Zone, Act 2
+RE6D-A6TA
+9T6D-BCJC
+AE6D-A8AE
+
+// Start on Casino Night Zone, Act 1
+RE6D-A6TA
+9T6D-BCJC
+AA6D-A2AE
+
+// Start on Casino Night Zone, Act 2
+RE6D-A6TA
+9T6D-BCJC
+AE6D-A2AE
+
+// Start on Hill Top Zone, Act 1
+RE6D-A6TA
+9T6D-BCJC
+AA6D-ARAE
+
+// Start on Hill Top Zone, Act 2
+RE6D-A6TA
+9T6D-BCJC
+AE6D-ARAE
+
+// Start on Mystic Cave Zone, Act 1
+RE6D-A6TA
+9T6D-BCJC
+AA6D-A0AE
+
+// Start on Mystic Cave Zone, Act 2
+RE6D-A6TA
+9T6D-BCJC
+AE6D-A0AE
+
+// Start on Oil Ocean Zone, Act 1
+RE6D-A6TA
+9T6D-BCJC
+AA6D-AYAE
+
+// Start on Oil Ocean Zone, Act 2
+RE6D-A6TA
+9T6D-BCJC
+AE6D-AYAE
+
+// Start on Metropolis Zone, Act 1
+RE6D-A6TA
+9T6D-BCJC
+AA6D-AJAE
+
+// Start on Metropolis Zone, Act 2
+RE6D-A6TA
+9T6D-BCJC
+AE6D-AJAE
+
+// Start on Metropolis Zone, Act 3
+RE6D-A6TA
+9T6D-BCJC
+AA6D-ALAE
+
+// Start on Sky Chase Zone
+RE6D-A6TA
+9T6D-BCJC
+AA6D-BAAE
+
+// Start on Wing Fortress Zone
+RE6D-A6TA
+9T6D-BCJC
+AA6D-ANAE
+
+// Start on Death Egg Zone
+RE6D-A6TA
+9T6D-BCJC
+AA6D-A6AE

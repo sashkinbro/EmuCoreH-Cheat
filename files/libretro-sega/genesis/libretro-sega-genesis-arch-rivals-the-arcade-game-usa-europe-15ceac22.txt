@@ -1,0 +1,5 @@
+// 1P Team (Home) Score Modifier
+FF0098:0000
+
+// 2P Team (Visitor)Score Modifier
+FF0096:0000

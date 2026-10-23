@@ -1,0 +1,8 @@
+// Power Meter Charge Mega Always On Maximum
+A3VA-LA8R
+
+// Infinite Fuel
+BDCT-RA5Y
+
+// Infinite Ships
+AXJA-JA3W

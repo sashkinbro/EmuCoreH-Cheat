@@ -1,0 +1,8 @@
+// Infinite Lives (Hats)
+00D5-0E09
+
+// Infinite Papers
+00D5-0F0A
+
+// Papers Delivered Modifier
+00D5-1299

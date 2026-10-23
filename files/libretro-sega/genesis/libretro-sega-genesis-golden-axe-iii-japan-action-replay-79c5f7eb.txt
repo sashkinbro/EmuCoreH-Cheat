@@ -1,0 +1,2 @@
+// Infinite Energy (Take No Damage From Enemies)
+FFC8E6:3300

@@ -1,0 +1,8 @@
+// No Damage
+00C1-0400
+
+// Infinite Lives
+00C1-0503
+
+// Invincibility
+C94-7BE-2A2

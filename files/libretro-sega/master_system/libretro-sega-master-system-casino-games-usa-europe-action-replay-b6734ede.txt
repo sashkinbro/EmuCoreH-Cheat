@@ -1,0 +1,5 @@
+// Always Bet With 9 Coins
+00C8-7A09
+
+// Always Receive $255 In Pay
+00C8-7EFF

@@ -1,0 +1,50 @@
+// Infinite Lives
+00D2-9B09
+
+// Infinite Rings
+00D2-9C63
+
+// Better Invincibility
+00D3-B101
+
+// Cheat Enable Modifier
+00D2-D001
+
+// High Jump
+00D5-0C95
+
+// Infinite Time
+00D2-C199
+
+// No Enemies
+00D7-4000
+
+// Rocket Jump
+00D5-1830
+
+// Infinite Fly Time Tails
+00D3-A199
+
+// Infinite Flying Time (Tails)
+00E-9FC-4C6
+
+// Invulnerability After Taking Damage
+019-67B-91A
+
+// Don't Die When Hit With No Rings
+A28-85B-5D5
+
+// Don't Lose Rings When Hit
+3A8-A2B-2A2
+
+// Infinite Lives
+004-79E-E6E
+
+// Infinite Time
+007-22D-E6E
+
+// Sound Test
+009-62F-C49
+
+// Zone Select
+008-42F-C49

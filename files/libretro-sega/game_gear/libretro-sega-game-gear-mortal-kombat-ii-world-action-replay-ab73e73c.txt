@@ -1,0 +1,15 @@
+// Infinite Continues
+00C4-0B09
+
+// Infinite Time
+00C4-3609
+00C4-3809
+
+// Infinite Energy P1
+00C4-8847
+
+// Enemies Float In Air
+00C6-47FF
+
+// Computer Cannot Move
+00C6-452E

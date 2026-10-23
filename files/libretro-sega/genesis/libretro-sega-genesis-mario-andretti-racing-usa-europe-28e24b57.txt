@@ -1,0 +1,6 @@
+// Great Acceleration P1
+FF4E82:00FF
+
+// Impossible Acceleration P1
+FF4E82:00FF
+FF4E82:00FF

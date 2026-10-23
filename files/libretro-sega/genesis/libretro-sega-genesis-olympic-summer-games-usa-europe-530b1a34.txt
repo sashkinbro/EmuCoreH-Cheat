@@ -1,0 +1,8 @@
+// Archery Points Maxed
+FFF7DA:00FF
+
+// Infinite Arrows (Archery)
+FFF812:0009
+
+// Always Have A Score of 9 (Skeet)
+FFF7DA:0009

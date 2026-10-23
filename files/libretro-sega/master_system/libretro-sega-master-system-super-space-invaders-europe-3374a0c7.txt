@@ -1,0 +1,29 @@
+// Infinite Lives
+00C2-EE03
+
+// Invulnerability
+00C2-FB35
+
+// Invulnerability
+00A-6CE-3B4
+
+// Infinite Hits
+00C2-F00F
+
+// Infinite Lives
+002-FCA-3BE
+
+// Invincibility - Both Players
+00A-6EE-F76
+
+// P1 Infinite Shield
+3A8-4FE-2A2
+
+// P1 Infinite Lives
+002-FCA-3BE
+
+// P2 Infinite Shield
+3A8-D3E-2A2
+
+// P2 Infinite Lives
+3A8-B2E-2A2

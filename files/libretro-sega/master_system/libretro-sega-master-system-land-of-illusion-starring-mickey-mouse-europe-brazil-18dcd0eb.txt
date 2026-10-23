@@ -1,0 +1,53 @@
+// Infinite Air
+00C0-AD07
+
+// Level Select [Replace ? With 0-C]
+00C0-B000
+
+// Invulnerability
+00C2-2726
+
+// Invulnerability
+C9A-166-91D
+
+// Infinite Lives
+00C0-9F09
+
+// Infinite Circles (Hits)
+00C0-9902
+
+// Infinite Time
+00C0-A299
+
+// Invincibility (blinking)
+00C2-2601
+
+// Infinite Health
+B6C-197-3BE
+
+// Infinite Lives
+7E9-DAD-3B7
+
+// Infinite Time
+002-B3E-E6E
+
+// Start with ?? Lives, instead of 03
+05E-0ED-E66
+
+// Invincibility
+18C-E77-6EA
+
+// Start a new game with ?? health stars
+03D-FFD-E62
+
+// Freeze Timer
+00C0-A119
+
+// Infinite Air
+001-A1E-3BE
+
+// Jump Height Modifier
+FBA-B56-199
+
+// High Jump
+00C2-2AFF

@@ -1,0 +1,63 @@
+// Freeze Cpu Cars [Challenge]
+ATRT-JA8A
+ATSA-JA42
+ATSA-JA9T
+
+// Freeze Cpu Counter [Head To Head]
+AWDT-AA8N
+
+// Infinite Lives
+AAKT-AAH0
+
+// Infinite Lives
+FFE776:0002
+
+// Freeze Cpu Cars [Challenge]
+FFD130:0000
+FFD132:0000
+FFD134:0000
+
+// Infinite Time (Minutes)
+FFD634:0000
+
+// Infinite Time (Seconds)
+FFD636:0000
+
+// 0 Laps Remaining P1
+FFD164:0000
+
+// All Computer-Controlled Racers Drive Against Walls
+FFD0C0:0009
+
+// Blue Car Direction
+FFD058:0000
+
+// Yellow Car Direction
+FFD05A:0000
+
+// Green Car Direction
+FFD05C:0000
+
+// Infinite Lives - Challenge Race
+AJKA-AA2C
+
+// Infinite Lives - Head-to-Head Race
+AJKT-AA9Y
+
+// Infinite Lives - Time Trial Challenge
+AJHT-AA6G
+
+// Infinite Time - Challenge Race and Time Trial
+RGNT-A6X0
+
+// Infinite Time - Extra Life Game
+RGPA-A61Y
+
+// Start with 5 Lives, instead of 3
+ATCT-AAGT
+
+// Start with 7 Lives
+A2CT-AAGT
+
+// Start with 9 Lives
+BACT-AAGT

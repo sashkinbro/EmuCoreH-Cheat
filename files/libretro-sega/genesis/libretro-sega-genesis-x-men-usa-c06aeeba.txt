@@ -1,0 +1,332 @@
+// Protection from most enemy hits
+A3YA-AA32
+
+// Protection from falling off screen (No health lost)
+BDBA-CA34
+
+// Protection from spikes
+ACJT-CAGA
+
+// Wolverine's claws use no mutant power
+ALKT-CA4L
+
+// Wolverine's spin slash uses no extra mutant power
+ABET-CAAE
+ABDT-CAG8
+
+// Mutant power does not regenerate
+ACKT-CAFT
+
+// Mutant power regenerates faster
+TCKT-CAFT
+
+// Mutant power regenerates much faster
+ACKT-CEFT
+
+// Mutant power regenerates to full very quickly
+ACKT-CJFT
+
+// Lets you use Iceman multiple times
+BC7A-CA5W
+
+// Lets you use Archangel multiple times
+BC9T-CA80
+
+// Lets you use Rogue multiple times
+BC8T-CA42
+
+// Lets you use Storm multiple times
+BC7T-CA2T
+
+// Wolverine heals himself faster
+P0KT-DAYW
+
+// Switch X-Men an infinite number of times
+ALKA-CA86
+
+// No mutant power lost when Wolverine falls
+B5BA-CA7T
+
+// Start part way through Savage Land
+AP6T-EAF2
+
+// Start in Shi'ar Empire
+AV6T-EAF2
+
+// Start on Excalibur's Lighthouse stage
+AZ6T-EAF2
+
+// Start inside Excalibur's Lighthouse
+A36T-EAF2
+
+// Start in Ahab's Future World
+A76T-EAF2
+
+// Start in Mojo's Crunch
+BB6T-EAF2
+
+// Start in Asteroid M
+BK6T-EAF2
+
+// Infinite Energy
+FFD62A:0100
+
+// Infinite Mutant Powers
+FFD63A:0400
+
+// Infinite Energy
+ALHA-CA9C
+
+// Invincibility
+AWLA-CA54
+
+// Zaldane's Health Modifier
+FFC080:0000
+FFC080:0000
+
+// Zaldane's Location Modifier
+FFC04E:0000
+FFC04E:0000
+
+// Player 1 Sprites Modifier
+FFD5EE:0000
+FFD5F0:0000
+
+// Player 2 Sprites Modifier
+FFD64A:0000
+FFD64C:0000
+
+// Zaldane's Sprites Modifier
+FFC044:0000
+FFC046:0000
+
+// Sabertooth's Health Modifier
+FFC1E0:0000
+FFC1E0:0000
+
+// Sabertooth's Sprites Modifier
+FFC1A4:0000
+FFC1A6:0000
+
+// Apocalypse's Health Modifier
+FFC130:0000
+FFC130:0000
+
+// Apocalypse's Sprites Modifier
+FFC0F4:0000
+FFC0F6:0000
+
+// DeathBird / Juggernaut Health modifier
+FFC340:0000
+FFC340:0000
+
+// DeathBird / Juggernaut sprites modifier
+FFC304:0000
+FFC306:0000
+
+// Juggernaut's Health modifier
+FFC3F0:0000
+FFC3F0:0000
+
+// Juggernaut's sprites modifier
+FFC3B4:0000
+FFC3B6:0000
+
+// Super Jump
+FFD620:0005
+
+// Character Modifier
+FFD62C:00BE
+
+// Walk Through Enemies
+FFD62C:0015
+
+// Level Modifier
+FFD780:0001
+
+// Gambit's Lethal Burst Uses No Mutant Power
+AB1A-CAGJ
+AB1T-CAHE
+
+// Nightcrawler's Teleport Uses No Mutant Power
+DKWA-CA4C
+DVWA-CA6L
+
+// Cyclops' Eye-Beam Uses No Mutant Power (Except When You Duck Or Jump)
+ABMT-CAE2
+ABNA-CAFA
+
+// Cyclops' Optic Blast Uses No Mutant Power
+ABPA-CAC6
+ABMA-CAC4
+
+// Enemies Can't Hurt You
+YKYA-AAXR
+
+// Infinite Health P1
+FFD62A:0020
+
+// P1 Character Modifier: Gambit
+FFD5EE:000C
+FFD5F0:3FBA
+FFD612:1362
+
+// P1 Character Modifier: NightCrawler
+FFD5EE:000D
+FFD5F0:13AA
+FFD612:123C
+
+// P1 Character Modifier: Wolverine
+FFD5EE:000E
+FFD5F0:AF1A
+FFD612:0F84
+
+// P1 Character Modifier: Cyclops
+FFD5EE:000A
+FFD5F0:B89C
+FFD612:10BC
+
+// P2 Character Modifier: Gambit
+FFD64A:000C
+FFD64C:3FBA
+FFD66E:1362
+
+// P2 Character Modifier: NightCrawler
+FFD64A:000D
+FFD64C:13AA
+FFD66E:123C
+
+// P2 Character Modifier: Wolverine
+FFD64A:000E
+FFD64C:AF1A
+FFD66E:0F84
+
+// P2 Character Modifier: Cyclops
+FFD64A:000A
+FFD64C:B89C
+FFD66E:10BC
+
+// P1 Character Modifier: NightCrawler looks like Magneto
+FFD5EE:000B
+FFD5F0:61EE
+FFD612:123C
+
+// P2 Character Modifier: NightCrawler looks like Magneto
+FFD64A:000B
+FFD64C:61EE
+FFD66E:123C
+
+// Cyclops' Eye Beam can shoot thru walls
+A3LT-CA5G
+C3LT-CA40
+
+// Gambit Jumps higher
+AAKT-A4FA
+
+// Gambit Jumps much higher
+AAKT-AWFA
+
+// Cyclops jumps higher
+AAJA-A4H4
+
+// Cyclops jumps much higher
+AAJA-AWH4
+
+// Walk thru walls and rocks when moving Right
+AVTT-AA9A
+DKWT-AA6Y
+42YT-EA82
+
+// Walk Through Walls
+HVSA-BAMR
+ABSA-BB5T
+
+// Walk Through Walls
+FFD628:F000
+
+// Starts the battle against Zaldane
+MVEA-ALRR
+1BEA-ACGT
+
+// Starts the Battle Against Juggernaut (Stage 1)
+X7EA-B6GR
+5BEA-ACGT
+
+// Infinite Mutant Powers
+AV1A-CA8G
+AV1T-CA9C
+BDBA-CA7T
+AKWA-CA4C
+AKWA-CA7J
+ALKT-CA4L
+BBET-CA2T
+AKDT-CA9J
+AKMT-CA66
+AKNA-CA7E
+BBPA-CA5C
+BBPT-CA3C
+AKPT-CA9W
+
+// Infinite Back-up Teams
+AW8T-CA42
+BC9T-CA80
+AL7A-CA5W
+BC7T-CA2T
+
+// Infinite Switching
+ACKA-CA88
+
+// Infinite Extra Energy
+AMBA-CA34
+AWJT-CA78
+
+// Faster Intro Screens
+ECFT-EA7T
+AF5T-4BBY
+PLGA-E5DN
+FWKA-EA4J
+
+// Cyclops Walks On Air
+BVNA-CA4T
+
+// Gambit Walks On Air
+BBYA-CA6R
+
+// Wolverine Walks On Air
+BBCT-CA5E
+
+// Nightcrawler Walks On Air
+CBTA-CA6E
+
+// No Enemies
+JLLT-CA2G
+
+// Some Enemies Don't Attack You
+E3ZT-AA2C
+
+// Some Enemies Disappear When You Approach Them
+CB0A-AA2Y
+
+// Speed Up Gameplay
+ABGT-CA9J
+
+// Enable Level Select
+RFAA-E6W8
+
+// Wolverine heals himself much faster. See notes.
+AWKT-CAER
+
+// Wolverine heals himself instantly
+RGKT-C6Y4
+
+// All enemy hits cause less damage
+PCHA-DC1C
+
+// All enemy hits cause much less damage
+PCHA-DW1C
+
+// Nightcrawler Jump On Any Height
+AAKA-AAD4
+
+// Wolverine Jump On Any Height
+AAHT-AAGC

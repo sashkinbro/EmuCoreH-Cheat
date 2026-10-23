@@ -1,0 +1,208 @@
+// Freeze clock (no time limit)
+DLMA-AA9E
+
+// Best frame $100 (Ignore onscreen price)
+ABMA-CAB0
+AFMA-CAB2
+
+// Best engine $100 (Ignore onscreen price)
+ABMA-CAC0
+AFMA-CAC2
+
+// Best brakes $100 (Ignore onscreen price)
+AFMA-CADY
+
+// Best muffler $100 (Ignore onscreen price)
+AFMA-CAET
+
+// Best oil $100 (Ignore onscreen price)
+AFMA-CAFT
+
+// Best tires $100 (Ignore onscreen price)
+AFMA-CAGY
+
+// Accidents don't damage frame
+ALZT-AA98
+B5LT-AA2C
+
+// Accidents don't damage engine
+AL0A-AA2C
+
+// Accidents don't damage brakes
+AL0A-AA2G
+
+// Accidents don't damage muffler
+AL0A-AA2L
+AMLA-AA98
+
+// Drop rank with 1 defeat
+AFMT-AAAY
+
+// Drop rank with 2 defeats
+AKMT-AAAY
+
+// Drop rank with 3 defeats
+APMT-AAAY
+
+// Drop rank with 7 defeats
+A7MT-AAAY
+
+// Drop rank with 9 defeats
+BFMT-AAAY
+
+// Freeze Lap Time
+ALMA-AA6Y
+
+// Allways Can Buy Any Part
+BKVT-AA4E
+
+// Invincibility
+AXDT-AA76
+
+// Start With A Lot Of Money
+9V4T-BCD6
+XF4T-BXD8
+HB4T-BPNA
+
+// Allways Can Hire Any Mechanic
+BKLA-AA78
+
+// Your Bike Parts Doesn't Wear Out After Races
+RFST-A6WT
+
+// 255 Speed
+FF064A:00FF
+
+// X Axys
+FF0614:0000
+
+// Race Position
+FF0616:0000
+
+// Frame Status Modifier
+FFB648:0000
+
+// Engine Status Modifier
+FFB64A:0000
+
+// Brake Status Modifier
+FFB64C:0000
+
+// Muffler Status Modifier
+FFB64E:0000
+
+// Oil Status Modifier
+FFB650:0000
+
+// Tires Status Modifier
+FFB652:0000
+
+// Auto Acceleration
+ACRA-AA66
+
+// Acelerate Up To 323 KM/H
+DCRT-AA8L
+
+// Nitro Accelerates Up to 390 KM/H
+LCRT-ACFY
+
+// Your Frame and Muffler Never Damages
+CXLA-AA96
+
+// Auto Drive in Curves
+A5ZA-AA36
+
+// Start Course With 25 Seconds
+1X4T-BACC
+E14T-AACE
+
+// Start Course With 30 Seconds
+1X4T-BACC
+GD4T-AACE
+
+// Start Course With 40 Seconds
+1X4T-BACC
+JD4T-AACE
+
+// Start Course With 50 Seconds
+1X4T-BACC
+LD4T-AACE
+
+// Start Course With 75 Seconds
+1X4T-BACC
+R14T-AACE
+
+// Start Course With 99 Seconds
+1X4T-BACC
+XH4T-AACE
+
+// Extended Play Adds 25 Seconds
+HXXA-BECR
+E1XA-AACT
+
+// Extended Play Adds 30 Seconds
+HXXA-BECR
+GDXA-AACT
+
+// Extended Play Adds 40 Seconds
+HXXA-BECR
+JDXA-AACT
+
+// Extended Play Adds 50 Seconds
+HXXA-BECR
+LDXA-AACT
+
+// Extended Play Adds 75 Seconds
+HXXA-BECR
+R1XA-AACT
+
+// Advance Rank With 1 Victory
+AFMT-AAAC
+AFMT-AAC2
+AFSA-AAEC
+
+// Advance Rank With 2 Victories
+AKMT-AAAC
+AKMT-AAC2
+AKSA-AAEC
+
+// Advance Rank With 3 Victories
+APMT-AAAC
+APMT-AAC2
+APSA-AAEC
+
+// Advance Rank With 7 Victories
+A7MT-AAAC
+A7MT-AAC2
+A7SA-AAEC
+
+// Advance Rank With 9 Victories
+BFMT-AAAC
+BFMT-AAC2
+BFSA-AAEC
+
+// Infinite Time
+FF0554:0402
+
+// Freeze Time Select Your Class/Select Music
+FFC71A:000A
+
+// Infinite $
+AVVT-AA56
+
+// Freeze Time
+ALMA-AA96
+
+// Instantly accelerate to 280 km
+9WRT-BGRC
+
+// Instantly accelerate to 390 km
+9WRT-BGRC
+LLRT-ACGE
+
+// Accelerate twice as fast
+TGRA-BFYR
+
+// Accelerate twice as fast, and increases your top speed to 323 km
+TGRA-BFYR
+LLRT-ACGE

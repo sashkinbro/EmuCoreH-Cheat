@@ -1,0 +1,35 @@
+// Lines Modifier (One's Digit)
+00C4-A700
+
+// Lines Modifier (Ten's Digit)
+00C4-A600
+
+// Lines Modifier (Hundreds Digit)
+00C4-A500
+
+// Lines Modifier (Thousands Digit)
+00C4-A400
+
+// Lines Modifier (Ten Thousands Digit)
+00C4-A300
+
+// Score Modifier (One's Digit)
+00C4-A200
+
+// Score Modifier (Ten's Digit)
+00C4-A100
+
+// Score Modifier (Hundred's Digit)
+00C4-A000
+
+// Level Modifier (One's Digit)
+00C4-9B00
+
+// Level Modifier (Ten's Digit)
+00C4-9A00
+
+// Disable Level Speedup Timer
+003-BFF-A26
+
+// Disable Level Speedup Timer
+00C4-BB00

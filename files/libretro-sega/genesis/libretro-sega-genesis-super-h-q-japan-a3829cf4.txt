@@ -1,0 +1,17 @@
+// Infinite Time
+AJRT-CA6G
+
+// Infinite Turbo
+AJWT-CA4E
+
+// Fake Infinite Time
+FFBCD0:0057
+
+// Good Acceleration P1
+FFBC58:00FF
+
+// Infinite Time
+FFBC4E:0039
+
+// Infinite Continues
+AV3T-AA58

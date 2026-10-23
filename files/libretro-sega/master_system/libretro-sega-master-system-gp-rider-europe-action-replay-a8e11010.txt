@@ -1,0 +1,11 @@
+// Low Timer (CPU At Top In Versus)
+00CA-2900
+
+// Low Timer (P1 At Bottom In Versus)
+00CA-2D00
+
+// FAKE - Low Timer (CPU At Top In Versus)
+00DE-F400
+
+// FAKE - Low Timer (P1 At Bottom In Versus)
+00DE-F600

@@ -1,0 +1,94 @@
+// Have 1st set of enemies cleared on stage 1
+AJ0T-AAEA
+
+// Start stage 1 with alot more time
+AA0T-AAFG
+
+// Start a new game with a lot more coins.
+560A-BCSL
+
+// This code allows you to buy an infinite number of &quot;Extra Guys&quot; in the shop (as long as you have coins). Has only been tested in the first shop.
+AHEA-AACC
+
+// Infinite &quot;Extra Guys&quot;. You have to buy at least one extra guy for this code to work.
+AB2T-AAD2
+
+// Infinite Energy
+ALMA-AA2R
+
+// Money Never Goes Down
+A5FT-AA6N
+A5FT-AA68
+A5FT-AA84
+
+// Hit Anywhere
+ACLT-AA4N
+W4LT-AACR
+
+// Open Doors / Complete Levels
+FF00C0:00FF
+
+// One Knockdown Kills
+FF2908:0000
+FF29C2:0000
+FF2A7C:0000
+FF2B36:0000
+FF2BF0:0000
+
+// Infinite Energy P1
+FF2338:03E7
+
+// Infinite Energy P2
+FF23F2:03E7
+
+// Infinite Coins
+FF00EA:0063
+
+// Have Tricks P1
+FF2340:0001
+
+// Have Tricks P2
+FF23FA:0001
+
+// Character Modifier P1
+FF233C:0000
+
+// Character Modifier P2
+FF23F6:0000
+
+// Weapon Modifier P1
+FF2342:0000
+
+// Weapon Modifier P2
+FF23FC:0001
+
+// Level Modifier
+FF00B4:0000
+
+// Always Running P1
+FF23C4:0001
+
+// Always Running P2
+FF247E:0001
+
+// Invincible To Punches & Standing Kicks
+A3RT-AR46
+A3RT-AR9R
+
+// Can enter a shop anywhere in the level by walking up. See notes.
+RGRT-A6W2
+
+// No motorcycles in the 2nd level
+AB9T-AABE
+
+// Only have to fight 1 enemy at a time (instead of 3) in the 1st fight scene
+AF9T-AAAC
+
+// Can go thru exit doors without having to kill any enemies
+RGMT-A6Z2
+
+// Instantly finish some levels (1st motorcycle level, mission 2, etc).
+RGNT-A608
+
+// Invincibility P1 P2
+R0LA-A602

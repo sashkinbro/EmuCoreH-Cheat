@@ -1,0 +1,23 @@
+// Infinite Shot Time
+00C5-0E00
+
+// Round Modifier
+00C1-05FF
+
+// FAKE Infinite Continues
+00C0-8700
+
+// Infinite Continues
+00DE-2900
+
+// Score Modifier - Hundred's Digit
+00D1-AA00
+
+// Infinite Shot Time
+003-6FA-3BA
+
+// Infinite Credits
+003-ACD-19E
+
+// Fire Anywhere to Clear Level
+002-369-F7E

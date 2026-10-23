@@ -1,0 +1,9 @@
+// Always Get A Score of 0 Or 1 For Each Hole
+RE1B-R6ZR
+
+// Wind Speed Always Stays The Same
+AMET-YA54
+AMET-YA6C
+
+// Never Over Par
+FFFFE4:0000

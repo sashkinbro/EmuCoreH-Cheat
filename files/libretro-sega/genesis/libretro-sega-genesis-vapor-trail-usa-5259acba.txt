@@ -1,0 +1,80 @@
+// Invincibility
+P4FA-AA28
+
+// Allow only one hit per ship
+FWNA-BETJ
+
+// Start with 1 ship
+RG8T-A604
+FW8T-BE06
+
+// Start with 8 ships
+RG8T-A604
+FW8T-BA06
+
+// Infinite ships
+C4FA-AA5G
+
+// Start with weapons at full power
+RGYA-A6WY
+ACYA-BAW0
+
+// Very fast roll power recharge
+ACTA-AAFW
+
+// Start at mission 2
+SG6T-BEXA
+SG6T-BEXG
+
+// Start at mission 3
+SG6T-BJXA
+SG6T-BJXG
+
+// Start at mission 4
+SG6T-BNXA
+SG6T-BNXG
+
+// Start at mission 5
+SG6T-BTXA
+SG6T-BTXG
+
+// Start at mission 6
+SG6T-BYXA
+SG6T-BYXG
+
+// Infinite Lives
+F0FA-BGXG
+
+// Infinite Energy
+ALFA-AA28
+
+// Invincibility
+ACAT-AN7R
+
+// Infinite Ships P1
+FF000A:0004
+
+// Infinite Ships P2
+FF000A:0004
+
+// Infinite Health P2
+FF00CA:0004
+
+// Infinite Continue
+FF11CC:0005
+
+// Infinite Continue
+ALFT-AA9C
+
+// Freeze Time Continue
+ATVA-AA3E
+
+// Infinite Power Bar
+FF0068:001F
+
+// Invincibility (Disable Hit Detection)
+RYMA-C6Y0
+RYCA-C6Z8
+
+// Enabled Cheat Code Level Select
+RF9T-C6ZJ

@@ -1,0 +1,23 @@
+// Infinite Lives
+008-A6E-E6E
+
+// Infinite Energy
+003-64C-E69
+
+// Start With 2 Energy Stars
+029-76F-E66
+
+// Start With 4 Energy Stars
+049-76F-E66
+
+// Start With 5 Energy Stars
+059-76F-E66
+
+// Timer Starts At 300
+036-C1E-F7A
+
+// Timer Starts At 500
+056-C1E-F7A
+
+// Timer Starts At 600
+066-C1E-F7A

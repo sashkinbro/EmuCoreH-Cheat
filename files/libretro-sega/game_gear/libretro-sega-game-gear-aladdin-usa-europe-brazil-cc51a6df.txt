@@ -1,0 +1,49 @@
+// Boot Game Into Test Mode
+00C2-0001
+
+// Infinite Health
+00C1-1606
+
+// Invulnerability
+00C4-67FF
+
+// Invulnerability
+C9E-B7C-E69
+
+// Start with 1/2 jewel in life gauge
+012-9AD-F72
+
+// Start with 1/2 maximum jewels in life gauge
+032-9AD-F72
+
+// Don't take damage from most hits
+3AE-DDC-2A2
+
+// No blinking after being hit
+00F-46C-803
+
+// Longer blinking after being hit
+CCF-46C-803
+
+// Infinite blinking after being hit
+3A2-ACE-2A2
+
+// Invisibility
+C92-01D-082
+
+// Temporary invisibility when you hit something
+002-0BD-E6E
+
+// Special options screen
+3EB-8DB-2A2
+01B-8EB-F7A
+00B-8FB-E6D
+
+// Test Mode Menu
+BFF-BBF-080
+
+// Boot into Test Mode Menu
+3CA-349-5D4
+
+// Don't Fall in Pits
+C9E-4AC-A29

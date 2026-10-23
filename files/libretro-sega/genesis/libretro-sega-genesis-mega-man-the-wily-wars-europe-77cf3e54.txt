@@ -1,0 +1,524 @@
+// Region Lock Disabled (European Version)
+B32A-CA50
+
+// Region Lock Disabled (Japanese Version)
+V2AT-BMEJ
+EAAT-BL1T
+REBT-A6XL
+
+// Can Always Access Wily Tower Game
+ATNA-CAFG
+
+// Invincible Against Enemies
+J4CT-AA3E
+
+// Invincible Against Spikes
+H51T-EA50
+
+// Extra Lives Are Worth 5 Lives
+SEEA-DYWG
+
+// 9 lives in Mega Man 3
+BHJT-AAEJ
+
+// 50 Lives in Mega Man 3
+GMJT-AAEJ
+
+// Rush Jet
+FFCBB6:0001
+FFCBB4:001C
+
+// Rush Marine
+FFCBB2:0001
+FFCBB0:001C
+
+// Shadow Man
+FFCBAA:0001
+FFCBA8:001C
+
+// Spark Man
+FFCBA6:0001
+FFCBA4:001C
+
+// Snake Man
+FFCBA2:0001
+FFCBA0:001C
+
+// Item 3
+FFCB88:001C
+
+// Needle Man
+FFCB8E:0001
+FFCB8C:001C
+
+// Magnet Man
+FFCB90:001C
+FFCB92:0001
+
+// Rush Coil
+FFCBAE:0001
+FFCBAC:001C
+
+// Gemini Man
+FFCB98:0001
+FFCB96:001C
+
+// Hard Man
+FFCB9A:0001
+FFCB98:001C
+
+// Top Man
+FFCB9E:0001
+FFCB9C:001C
+
+// Item 2
+FFCB86:0001
+FFCB84:001C
+
+// Item 1
+FFCB82:0001
+FFCB80:001C
+
+// CrashMan
+FFCB7E:0001
+FFCB7C:001C
+
+// MetalMan
+FFCB7A:0001
+FFCB78:001C
+
+// FlashMan
+FFCB76:0001
+FFCB74:001C
+
+// Inf. Energy Tanks
+FFCB70:0001
+
+// QuickMan
+FFCB6E:0001
+FFCB6C:001C
+
+// BubbleMan
+FFCB6A:0001
+FFCB68:001C
+
+// WoodMan
+FFCB66:0001
+FFCB64:001C
+
+// AirMan
+FFCB62:0001
+FFCB60:001C
+
+// HeatMan
+FFCB5E:0001
+FFCB5C:001C
+
+// Jump
+FFA3F4:0010
+
+// Untouchable, enemies, shots, spikes
+FFA436:0062
+
+// Lives
+FFCB38:0003
+
+// Energy
+FFAD96:001C
+FFA3FE:001C
+
+// FireMan | Start with infinite lives (all 3 games)
+FFCB56:0001
+FFCB54:0001
+
+// IceMan | Start with infinite lives (all 3 games)
+FFCB4E:0001
+FFCB4C:001C
+
+// High Jump
+FXXT-EAAG
+
+// Super High Jump
+DDXT-EAAG
+
+// Infinite Lives
+AX1A-EA7T
+
+// Infinite Use Of Weapons, Rush and Items
+RHJT-E6Z6
+
+// Slide code
+FFCA76:0002
+
+// Jump in Midair
+RHTA-E6Z8
+
+// Hit Anywhere
+D44A-AA8N
+AC4T-AA2J
+AW5A-AA3A
+
+// Most Enemies Are Gone
+AEPT-AAH8
+
+// Infinite Lives
+FFCB38:0009
+
+// Infinite Energy
+FFA3FE:1C00
+
+// Infinite Energy (Improved)
+FFA3FE:001C
+FFAD96:1C00
+
+// Invincible (Walk Through Anything)
+FFA436:0500
+
+// Add This Code With Infinite Weapons Codes To Prevent The Game From Freezing Each Time You Pick-Up A Weapon Recharge Capsule
+FFAD98:1C00
+
+// High Jump
+FFA3F4:0020
+
+// Mega Jump
+FFA3F4:0016
+
+// BombMan - Start With Infinite Lives (All 3 Games)
+FFCB42:0001
+FFCB40:001C
+
+// ElecMan - Start With Infinite Lives (All 3 Games)
+FFCB46:0001
+FFCB44:001C
+
+// GutsMan - Start With Infinite Lives (All 3 Games)
+FFCB4A:0001
+FFCB48:001C
+
+// IceMan - Start With Infinite Lives (All 3 Games)
+FFCB4E:0001
+FFCB4C:001C
+FFCB52:0001
+FFCB50:001C
+
+// FireMan - Start With Infinite Lives (All 3 Games)
+FFCB56:0001
+FFCC54:001C
+
+// M Gun - Start With Infinite Lives (All 3 Games)
+FFCB5A:0001
+FFCB58:001C
+
+// HeatMan
+FFCB5E:0001
+FFCB5C:001C
+
+// AirMan
+FFCB62:0001
+FFCB60:001C
+
+// WoodMan
+FFCB66:0001
+FFCB64:001C
+
+// BubbleMan
+FFCB6A:0001
+FFCB68:001C
+
+// QuickMan
+FFCB6E:0001
+FFCB6C:001C
+
+// FlashMan
+FFCB76:0001
+FFCB74:001C
+
+// MetalMan
+FFCB7A:0001
+FFCB78:001C
+
+// CrashMan
+FFCB7E:0001
+FFCB7C:001C
+
+// Item 1
+FFCB82:0001
+FFCB80:001C
+
+// Item 2
+FFCB86:0001
+FFCB84:001C
+
+// Item 3
+FFCB88:001C
+
+// Needle Man
+FFCB8E:0001
+FFCB8C:001C
+
+// Magnet Man
+FFCB90:001C
+FFCB92:0001
+
+// Rush Coil
+FFCBAE:0001
+FFCBAC:001C
+
+// Gemini Man
+FFCB98:0001
+FFCB96:001C
+
+// Hard Man
+FFCB9A:0001
+FFCB98:001C
+
+// Top Man
+FFCB9E:0001
+FFCB9C:001C
+
+// Snake Man
+FFCBA2:0001
+FFCBA0:001C
+
+// Spark Man
+FFCBA6:0001
+FFCBA4:001C
+
+// Shadow Man
+FFCBAA:0001
+FFCBA8:001C
+
+// Rush Jet
+FFCBB6:0001
+FFCBB4:001C
+
+// Slot 1
+FFCBBE:0000
+
+// Slot 2
+FFCBC0:0000
+
+// Slot 3
+FFCBC2:0000
+
+// Slot 4
+FFCBC4:0000
+
+// Slot 5
+FFCBC6:0000
+
+// Slot 6
+FFCBC8:0000
+
+// Slot 7
+FFCBCA:0000
+
+// Slot 8
+FFCBCC:0000
+
+// Slot 1
+FFCBCE:0100
+
+// Slot 2
+FFCBD2:0000
+
+// Slot 3
+FFCBD0:0000
+
+// Start With 4 E-Tanks For Megaman 2
+FFCC4E:0004
+
+// Start With 3 E-Tanks For Megaman 3
+FFCC50:0002
+
+// 1-Hit Death For Bosses (All Megaman Games)
+FFB81E:0100
+
+// Start With All Weapons For Megaman 2 With The Option To Pick Dr. Wily
+FFCC4A:00FF
+
+// Start With All Bosses Defeated For Megaman 2
+FFCC52:00FF
+
+// Have The 1st 8 Bosses Defeated For Megaman 3
+FFCC4C:00FF
+
+// Have The 1st 8 Bosses Defeated For Megaman 3
+FFCC54:00FF
+
+// Have Wily's Tower Available From Start
+FFCC4C:00FF
+
+// Start With All Weapons For Megaman 1 With The Option To Pick Dr. Wily
+FFCC4A:00FF
+
+// Have All Bosses Defeated For Megaman 1
+FFCC52:00FF
+
+// One Hit Kills Enemies And Bosses
+RG5A-A6TG
+
+// Most Enemies And Bosses Dies Automatically As Soon as They Appear On Screen.
+AW5T-AA3C
+
+// Enable Sliding In Megaman 1 And Megaman 2 Games
+AMSA-EA4N
+
+// Megaman Slides Twice As Far
+FXSA-EAFR
+
+// Megaman Keeps Sliding Until You Hit An Obstacle Or Edge
+AMRT-EA7J
+
+// Press Up To Fly
+RHTT-E6X0
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Megaman's bullet speed is 33% faster
+ADHT-EJGW
+ADHT-F384
+
+// Megaman's bullet speed is 67% faster
+ADHT-ELGW
+ADHT-F184
+
+// Can Have 5 Bullets On The Screen At The Same Time (instead of 3)
+ACYT-NLH2
+
+// Makes the default controller config the same as NES (A = Shoot, B = Jump)
+ADLT-AATA
+ADLT-BAAJ
+ADLT-AAJT
+
+// No delay when beginning to walk from standing position
+AMNA-EA9J
+
+// Pause The Game To Add An Energy Tank To Your Inventory
+AM0A-AA4N
+HH0A-BEWT
+
+// Always Have 9 Energy Tanks (Megaman 3 only)
+RH0A-A6WN
+9X0A-BGCR
+BH0A-AACT
+
+// Always Have All Weapons And All Rush items (Megaman 3 only)
+A51T-AA50
+RH2T-A6ZN
+
+// Always Have All Weapons And All Items (Megaman 2 only)
+A5YA-AA6T
+B5YT-AA62
+
+// Always Have All Weapons (Megaman 1 only)
+RHVT-A6TY
+RHWA-A6VR
+
+// Small Health Power-ups Completely Fill Your Health
+WJDT-CCDW
+
+// Large Health Power-ups Completely Fill Your Health
+WJDT-CCDY
+
+// Small Health Power-ups Give You 3x As Much Health
+FEDT-D2ZG
+
+// Small weapon power ups give you 3x as much weapon energy
+GNDT-D206
+
+// Large Weapon Power-ups Completely Fill Up Your Weapon Energy
+DTEA-CAA2
+
+// Small Health Power-ups Give You An Extra Life Instead
+2TDT-CADW
+
+// Small Health Power-ups Give You An Energy Tank Instead
+8TDT-CADW
+
+// Small Health Power-ups Make you instantly finish the level and get The Weapon From That Level
+L2DT-CCDW
+
+// Magnet Beam Lasts Twice As Long
+PAJA-GCHL
+
+// Walk Through Walls
+RG1T-E6Y4
+RG1A-E61A
+
+// Jump Through Ceilings
+9G0A-FHV6
+
+// Debug Fly Mode
+RHVA-E6YJ
+RHVT-E61T
+
+// Always Drop Item Modifier
+96GT-DJ4J
+ATGT-CA4C
+
+// Always Drop Item Modifier
+AAGT-DJ4J
+ATGT-CA4C
+
+// Always Drop Item Modifier
+AAGT-DJ4J
+ATGT-CA4C
+
+// Blink 1.5x Longer After Being Hit
+W5ZT-EAG0
+SDYT-EABC
+
+// Blink 2x Longer After Being Hit
+0XZT-EAG0
+W5YT-EABC
+
+// Blink 3x Longer After Being Hit
+99ZT-EAG0
+6HYT-EABC
+
+// Take Less Damage
+FRCT-BLVY
+
+// Take Much Less Damage
+FRCT-BGVY
+
+// Small Energy Pellets Restore 2x More Health
+FEDT-DTZG
+
+// Small Energy Pellets Restore 3x More Health
+FEDT-D2ZG
+
+// Small Energy Pellets Restore 4x More Health
+FEDT-DAZG
+
+// Large Energy Pellets Restore 1.5x More Health
+B6DT-CAGA
+
+// Large Energy Pellets Restore 2x More Health
+CTDT-CAGA
+
+// Large Energy Pellets Fully Restore Health
+DTDT-CAGA
+
+// Small Weapon Capsules Restore 2x More Weapon Energy
+GNDT-DT06
+
+// Small Weapon Capsules Restore 3x More Weapon Energy
+GNDT-D206
+
+// Small Weapon Capsules Restore 4x More Weapon Energy
+GNDT-DA06
+
+// Large Weapon Capsules Restore 1.5x More Weapon Energy
+B6EA-CAA2
+
+// Large Weapon Capsules Restore 2x More Weapon Energy
+CTEA-CAA2
+
+// Large Weapon Capsules Fully Restores Weapon Energy
+DTEA-CAA2

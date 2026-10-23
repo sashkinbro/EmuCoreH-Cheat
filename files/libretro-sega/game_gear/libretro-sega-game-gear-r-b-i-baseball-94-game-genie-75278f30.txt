@@ -1,0 +1,35 @@
+// Almost No Strikes
+00B-FAE-3BA
+
+// 1 Strike Needed For An Out
+01C-85E-E66
+
+// 2 Strikes Needed For An Out
+02C-85E-E66
+
+// 5 Strikes Needed For An Out
+05C-85E-E66
+
+// 15 Strikes Needed For An Out
+0EC-85E-E66
+
+// Never Strike Outs
+00C-ADE-3BA
+
+// Never Walk
+00C-07E-D59
+
+// 1 Ball Needed For Walk
+01C-8DE-F7A
+
+// 5 Balls Needed For Walk
+05C-8DE-F7A
+
+// 10 Balls Needed For Walk
+0AC-8DE-F7A
+
+// 15 Balls Needed For Walk
+0EC-8DE-F7A
+
+// No Scoring (Switch Off When You're At Bat)
+000-0C5-3BA

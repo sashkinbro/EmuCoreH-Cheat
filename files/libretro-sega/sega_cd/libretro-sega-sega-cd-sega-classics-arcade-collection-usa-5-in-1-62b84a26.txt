@@ -1,0 +1,44 @@
+// P1 INF HP (Streets of Rage)
+FFB832:0050
+
+// P2 Inf HP (Streets of Rage)
+FFB8B2:0009
+
+// P1 Invincible (Streets of Rage)
+FFB848:001B
+
+// P2 Invincible (Streets of Rage)
+FFB8C8:001B
+
+// Inf Time (Streets of Rage)
+FFF800:0040
+
+// P2 Inf Lives (Streets of Rage)
+FFFAA2:0009
+
+// P1 Inf Lives (Golden Axe)
+FFFC7C:0303
+
+// P1 Inf HP (Golden Axe)
+FFFC7E:5050
+
+// P1 Inf Magic (Golden Axe)
+FFFC80:0909
+
+// Inf Shuriken (Revenge of Shinobi)
+FFD13E:03E7
+
+// P1 Inf HP (Revenge of Shinobi)
+FFD13A:0008
+
+// Never-Ending Ikazuchi (Revenge of Shinobi)
+FFD146:0004
+
+// P1 Inf Magic (Revenge of Shinobi)
+FFD144:0001
+
+// Super Jump (Revenge of Shinobi)
+FFD00A:0001
+
+// Enemies Frozen (Revenge of Shinobi)
+FFD008:0009

@@ -1,0 +1,8 @@
+// Unlimited Time
+FF001C:0035
+
+// Unlimited Energy
+FFFED2:000A
+
+// Unlimited Men
+FF00B4:0033

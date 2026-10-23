@@ -1,0 +1,56 @@
+// Infinite lives
+BABA-CA5C
+
+// Infinite energy
+BCBT-CA9E
+
+// Infinite Lives
+D6BA-CADE
+
+// Invincibility
+R0BT-C61E
+
+// Infinite Energy
+ACBT-CAHG
+
+// Infinite Lives
+FF000A:0005
+
+// Infinite Energy
+FF0770:0008
+
+// Infinite Time
+FF0054:0003
+FF0056:0000
+FF0056:0000
+
+// Replace Copyright Screen with Bits Screen
+C0LT-CAA4
+CYAA-CACY
+
+// Infinite Energy (against all enemies)
+AA3T-CADG
+AA5A-CAET
+AA5T-CAAW
+
+// Untouchable (against all enemies)
+R0BT-C60L
+RY2T-C6WA
+RY2T-C6T2
+RY5A-C6XG
+RY5T-C6TJ
+
+// Freeze Time
+ATKA-CA5G
+
+// Start with 25 Lives
+DECA-CAAJ
+
+// Start with 50 Lives
+GJCA-CAAJ
+
+// Start with 99 Lives
+NNCA-CAAJ
+
+// Start with 15 Lives
+CYCA-CAAJ

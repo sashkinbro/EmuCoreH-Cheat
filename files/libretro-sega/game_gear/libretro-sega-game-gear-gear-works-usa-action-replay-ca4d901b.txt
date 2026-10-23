@@ -1,0 +1,11 @@
+// Infinite "Targets" (Third Item On Bar)
+00C0-8299
+
+// Infinite Bombs
+00C0-8399
+
+// Infinite Oil
+00C0-8499
+
+// Infinite Lives
+00C0-8A09

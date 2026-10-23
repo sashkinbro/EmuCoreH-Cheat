@@ -1,0 +1,35 @@
+// Use This Code If You Get A DECODE ERROR Message And The Game Won't Run
+AABA-AGAE
+
+// Protection From All Enemies And Bosses
+AWBA-CA7W
+
+// Large Energy Pick-Ups Restore Twice As Much Energy
+SGAA-DAY0
+
+// Makes Your Regular (Uncharged) Weapon Twice As Strong
+LWET-DLXT
+
+// Makes Your Regular (Uncharged) Weapon 8 Times Stronger
+LWET-DCXT
+
+// Infinite Hp
+FF0076:0014
+
+// Instant Super Shot
+FFE5B6:0003
+
+// Boss Hp Modifier
+FF0212:0000
+
+// Hp Bar Size
+FF0074:001E
+
+// P1 X-Axis Modifier
+FFE7A0:0000
+
+// P1 Y-Axis Modifier
+FFE7A2:0000
+
+// Stage Select Menu
+FF0186:0001

@@ -1,0 +1,11 @@
+// Allows the game to run on emulators, or with a Game Genie attached.
+RY3A-A6WJ
+
+// You get 99 trys in homerun derby
+NPJT-BA7N
+
+// 20 tries in home run derby (instead of 10).
+CVJT-BA7N
+
+// 30 tries in home run derby.
+D3JT-BA7N

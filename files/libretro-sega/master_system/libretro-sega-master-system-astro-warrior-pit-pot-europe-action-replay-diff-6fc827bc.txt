@@ -1,0 +1,5 @@
+// Infinite Lives (Astro Warrior)
+00C2-3F03
+
+// Infinite Lives (Pit Pot)
+00C0-2109

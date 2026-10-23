@@ -1,0 +1,66 @@
+// Invincibility
+00C0-AB0C
+
+// Infinite Weapon Time
+00C0-B120
+
+// Almost Everything Free
+00C1-5D03
+
+// Have Weapon
+00C0-B600
+
+// Have Weapon 2
+00C0-B700
+
+// Have Engine
+00C0-B500
+
+// Infinite Bombs
+00C0-B299
+
+// Have Extended Lifebar
+00C0-AA30
+
+// Infinite Weapon Power [Alternate]
+00C0-B000
+
+// Shield Has Infinite Hits
+00C0-AC06
+
+// Have Shield With Infinite Hits
+00C0-7C01
+
+// Have Rapid Fire Power-Up
+00C0-7901
+
+// Infinite Lives
+00C0-A302
+
+// Infinite Lives
+006-6EB-3BE
+
+// Infinite Health (Power)
+004-08E-A28
+004-0FE-D56
+
+// Infinite Weapon Time
+B64-40E-3BE
+
+// Infinite Money
+1A3-BFA-A22
+1A3-C5A-A22
+1A3-CBA-A22
+
+// Start a new game with ?? Health (Power)
+10D-42E-C4A
+
+// Invincibility
+C33-8BE-C41
+
+// Invincibility
+00C2-0200
+
+// Keep Upgrades after Dying
+2A6-4AB-6E2
+3A6-4EB-2A2

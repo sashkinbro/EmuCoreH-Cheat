@@ -1,0 +1,12 @@
+// Have Tons Of Money
+FF001E:00FF
+FF0020:00FF
+
+// Don't Get Charged For Setting Up New Routes
+AK9T-GA38
+
+// Don't Get Charged When You Order New Planes
+AMRT-EA40
+
+// Don't Get Charged When You Purchase A Business Venture
+AMNA-AA86

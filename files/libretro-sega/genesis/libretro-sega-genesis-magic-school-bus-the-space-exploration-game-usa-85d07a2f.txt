@@ -1,0 +1,34 @@
+// Max Speed
+FFDC74:00FF
+FFDCB4:000A
+
+// Infinite Ships
+FFE646:0009
+
+// Infinite Ships
+FFB73C:0009
+
+// Infinite Fuel
+BART-TN62
+
+// Infinite Bus/Lives Astronaut
+ABHT-NABG
+ADXA-NAET
+ABHT-NAEJ
+
+// Infinite Oxygen Astronaut
+AMBA-RA5R
+
+// Invincibility Bus/Astronaut
+RY1A-R602
+R12A-N6X2
+
+// Infinite Fuel Bus
+AJRT-TA7J
+AJ4T-RA52
+
+// Invincibility Bus/Astronaut
+FFB91A:00FF
+
+// Infinite Fuel Astronaut
+AJDT-RA7G

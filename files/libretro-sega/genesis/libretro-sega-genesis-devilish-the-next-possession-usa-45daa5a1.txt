@@ -1,0 +1,14 @@
+// Infinite Balls
+FFE70C:0004
+
+// Infinite Time (Seconds)
+FFE704:0063
+
+// Infinite Time (Minutes)
+FFE704:0009
+
+// Infinite balls
+AKMT-CA7G
+
+// Infinite Time
+AJRA-CA8G

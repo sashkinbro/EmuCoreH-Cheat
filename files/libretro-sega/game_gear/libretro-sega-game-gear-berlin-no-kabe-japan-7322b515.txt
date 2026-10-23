@@ -1,0 +1,30 @@
+// Invincibility [No Enemies!]
+00C2-0A0A
+
+// Have Dragon Suit
+00C1-6501
+
+// Infinite Lives
+00C0-1C03
+
+// Invulnerability (Blinking)
+C39-0FE-E61
+
+// Infinite Lives
+00F-4AE-19E
+
+// Infinite Lives
+00C0-1C09
+
+// Infinite Time
+00C0-1D09
+00C0-1E99
+
+// Freeze Timer
+00C0-1F00
+
+// Infinite Lives
+3AF-4BE-2A2
+
+// Infinite Time
+006-0FF-3BA

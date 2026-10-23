@@ -1,0 +1,27 @@
+// Strong wind
+3E7-71C-191
+407-72C-195
+187-73C-6EA
+
+// Massive wind
+3E7-71C-191
+1F7-71C-195
+187-73C-6EA
+
+// Hit longer shots
+017-A2C-4CA
+
+// Hit even longer shots
+FF7-A2C-4CA
+
+// Infinite shots (always hole in one)
+006-50D-19A
+
+// Always On First Stroke
+00DB-6700
+
+// FAKE Stroke Modifier
+00DB-970E
+
+// No penalty stroke for hitting ball in water hazard or out of bounds
+3AB-7FE-2A2

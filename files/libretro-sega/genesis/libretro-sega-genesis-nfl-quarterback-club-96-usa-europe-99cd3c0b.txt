@@ -1,0 +1,80 @@
+// Start with 1 timeout
+AEVT-AABC
+
+// Start with 2 timeouts
+AJVT-AABC
+
+// Start with 5 timeouts
+AYVT-AABC
+
+// Start with 7 timeouts
+A6VT-AABC
+
+// Start with 9 timeouts
+BEVT-AABC
+
+// Infinite timeouts
+ABHT-AAE4
+
+// Infinite play clock time
+RYZA-A6YT
+
+// Always start on second down
+ALKT-AAB6
+ALET-CACA
+
+// Always start on third down
+ARKT-AAB6
+ARET-CACA
+
+// Always start on fourth down
+AWKT-AAB6
+AWET-CACA
+
+// Its always 1st down
+ACEA-CAF6
+
+// Safeties are worth worth 0 points
+PWAA-DA02
+
+// Safeties are worth worth 1 point
+PWAA-DE02
+
+// Safeties are worth worth 3 points
+PWAA-DN02
+
+// Safeties are worth worth 4 points
+PWAA-DT02
+
+// Safeties are worth worth 5 points
+PWAA-DY02
+
+// Safeties are worth worth 6 points
+PWAA-D202
+
+// Safeties are worth worth 7 points
+PWAA-D602
+
+// Touchdowns are worth 0 points
+PWAA-DAT0
+
+// Touchdowns are worth 1 point
+PWAA-DET0
+
+// Touchdowns are worth 2 points
+PWAA-DJT0
+
+// Touchdowns are worth 3 points
+PWAA-DNT0
+
+// Touchdowns are worth 4 points
+PWAA-DTT0
+
+// Touchdowns are worth 5 points
+PWAA-DYT0
+
+// Touchdowns are worth 7 points
+PWAA-D6T0
+
+// Allows the game to run on Gens emulator
+RZBT-A6W2

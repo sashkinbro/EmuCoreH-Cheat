@@ -1,0 +1,68 @@
+// Max Health is 250, Instead of 200
+9MGA-GAC8
+
+// Max Health is 1000
+7DGA-GGC8
+
+// Blue Health Pick-Ups Worth 4, Instead of 2
+AXFT-HC66
+
+// Blue Health Pick-Ups Worth 8
+BDFT-HC66
+
+// Start with 125 Health, Instead of 100
+SZ9T-GB8T
+
+// Armor Never Gets Damaged
+BHKA-GAF2
+
+// Armor Pick-Ups Worth 4, Instead of 2
+AXFT-HC7Y
+
+// Armor Pick-Ups Worth 8
+BDFT-HC7Y
+
+// Have Radiation Suit Effect
+AALT-JS58
+
+// Infinite Pistol/Chaingun Ammo on Pickup
+AD4T-HC8N
+
+// Infinite Shotgun Ammo on Pickup
+AD5A-HC9C
+
+// Infinite Rocket Launcher Ammo on Pickup
+AD3T-HC82
+
+// Infinite Cell Ammo on Pickup
+AD4A-HC6T
+
+// Max Pistol/Chaingun Ammo is 499, Instead of 200
+8NFA-0CGR
+
+// Max Shotgun Ammo is 400, Instead of 50
+WAFA-0CGW
+
+// Max Rocket Launcher Ammo is 200, Instead of 50
+3AFA-0AG4
+
+// Max Cell Ammo is 499, Instead of 300
+8NFA-0CG0
+
+// Pistol/Chaingun Ammo Pick-Ups Worth 2x
+CTFA-0AG8
+
+// Shotgun Ammo Pick-Ups Worth 2x
+BAFA-0AHC
+
+// Rocket Launcher Ammo Pick-Ups Worth 4x
+ATFA-0AHL
+
+// Cell Ammo Pick-Ups Worth 4x
+LAFA-0AHG
+
+// Start with 125 Pistol Ammo, Instead of 50
+SZ9T-G39R
+
+// Access Secret Levels
+DAHA-AADY

@@ -1,0 +1,35 @@
+// Infinite Turbo When On Offense
+7E3-859-3B7
+
+// Turbo Doesn't Recharge
+7E3-A59-3B7
+
+// No Shot Clock
+00D-2EA-19E
+
+// CPU's 2-Point Shots Are Worth 0
+00A-CE6-E62
+
+// CPU's 2-Point Shots Are Worth 1
+01A-CE6-E62
+
+// CPU's 2-Point Shots Are Worth 3
+03A-CE6-E62
+
+// CPU's 2-Point Shots Are Worth 4
+04A-CE6-E62
+
+// CPU's 2-Point Shots Are Worth 5
+05A-CE6-E62
+
+// CPU's 2-Point Shots Are Worth 6
+06A-CE6-E62
+
+// CPU's 2-Point Shots Are Worth 7
+07A-CE6-E62
+
+// CPU's 2-Point Shots Are Worth 8
+08A-CE6-E62
+
+// CPU's 2-Point Shots Are Worth 9
+09A-CE6-E62

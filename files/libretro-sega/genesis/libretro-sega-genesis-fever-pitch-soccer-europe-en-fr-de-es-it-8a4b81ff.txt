@@ -1,0 +1,5 @@
+// Team 1 Score Modifier (P1)
+FFDEC8:0000
+
+// Team 2 Score Modifier (P2/CPU)
+FFDF10:0000

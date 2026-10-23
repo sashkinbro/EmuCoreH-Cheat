@@ -1,0 +1,5 @@
+// Team 2 Score Modifier (P2/CPU)
+FF5460:0000
+
+// Lets you play the European cartridge on a US Genesis or Japanese Mega Drive console
+E4FT-CA3R

@@ -1,0 +1,144 @@
+// Keep shot power after dying
+AVZA-AA3G
+
+// Keep special weapons after dying
+AVZA-AA3N
+
+// Infinite credits
+AVWA-AA2W
+
+// 1 Credit
+AAFA-AAFY
+
+// 2 Credits
+AEFA-AAFY
+
+// 3 credits
+AJFA-AAFY
+
+// 6 credits
+AYFA-AAFY
+
+// 11 credits
+BJFA-AAFY
+
+// 21 credits
+CTFA-AAFY
+
+// Infinite stock
+BVSA-AA2W
+
+// Starting speed of 10
+BKZA-AABY
+
+// Starting speed of 15
+B7ZA-AABY
+
+// Starting speed of 20
+CVZA-AABY
+
+// Starting speed of 30
+D3ZA-AABY
+
+// Starting speed of 35
+EPZA-AABY
+
+// Starting speed of 50
+GKZA-AABY
+
+// Each P worth 3 [half] shot power
+SFYT-BNT0
+
+// Each P worth 6 [full] shot power
+SFYT-B2T0
+
+// Each P worth 2 &amp; each PP worth 3 shot power
+SFYT-BJT0
+
+// Each PP worth 6 [full] shot power
+SFYA-B218
+
+// Infinite Lives
+AVSA-AA2W
+
+// Invincibility
+A3ZT-AA9E
+A22T-AA3E
+A3ZT-AA4W
+
+// Boss One Hit Kill
+FF8F34:0001
+
+// Stage Modifier
+FF9724:0000
+
+// Speed Modifier
+FF97F4:0030
+
+// Shot Strength Modifier
+FF97F6:0000
+
+// Have Secondary Shot
+FF97F8:0001
+
+// Start With 10 Stock
+BJDA-AAD4
+BJBT-AABA
+
+// Start With 15 Stock
+B6DA-AAD4
+B6BT-AABA
+
+// Start With 20 Stock
+CTDA-AAD4
+CTBT-AABA
+
+// Start With 25 Stock
+DEDA-AAD4
+DEBT-AABA
+
+// Start With 50 Stock
+GJDA-AAD4
+GJBT-AABA
+
+// Start With 100 Stock
+NTDA-AAD4
+NTBT-AABA
+
+// Start With 250 Stock
+9JDA-AAD4
+9JBT-AABA
+
+// Start With 500 Stock
+8TDA-ACD4
+8TBT-AABA
+
+// Start With 1,000 Stock
+7ADA-AGD4
+7ABT-AABA
+
+// Hit Anywhere
+GAKT-AA3J
+
+// 1 Shot Kill Bosses
+AV4T-AA26
+
+// Invincibility You Can Go Through Enemies And Shots Pass Through You
+RZZT-A61J
+RY2A-A61Y
+RZZT-A6WW
+RZ4T-A6TJ
+RZ4T-A6YL
+RZGA-A618
+R0HA-A6TL
+RZCT-A6XY
+R0HA-A6VW
+
+// Keep S After The Death
+AVZA-AA3W
+
+// 1 Shot Kill Enemies
+AKZT-AA48
+
+// Infinite Thunder
+AJMT-AA8A

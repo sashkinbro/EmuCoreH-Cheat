@@ -1,0 +1,17 @@
+// Infinite Lives
+AK4A-JA9A
+
+// Lives Constantly Increase
+AB5A-JAFG
+
+// Lives Modifier
+FFC4E0:0000
+
+// Stage Modifier
+FF8034:0000
+
+// Start with 9 lives.
+BF4A-JAEE
+
+// Start with 15 lives.
+B74A-JAEE

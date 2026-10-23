@@ -1,0 +1,5 @@
+// Begin With Over 400 Ships
+000A86:1040
+
+// Begin With Over 4000 Bombs
+000AB4:1040

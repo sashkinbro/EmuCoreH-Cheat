@@ -1,0 +1,32 @@
+// Invulnerability
+00C4-2E42
+
+// Invincibility
+C91-6E9-3BE
+
+// Level Select Enabled
+00C7-5701
+
+// Infinite Continues
+00C7-9409
+
+// Infinite Lives P1
+00C7-8109
+
+// Infinite Green Orbs P1 (Hits)
+00C7-8209
+
+// Infinite Lives P2
+00C7-8C09
+
+// Infinite Green Orbs P2 (Hits)
+00C7-8D09
+
+// Infinite Lives P1
+B61-6E9-3BE
+
+// Infinite Health - Both Players
+B61-689-3BE
+
+// Infinite Continues
+3AB-4BC-2A2

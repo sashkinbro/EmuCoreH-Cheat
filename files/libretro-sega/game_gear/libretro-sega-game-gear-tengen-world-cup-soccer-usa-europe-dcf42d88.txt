@@ -1,0 +1,33 @@
+// CPU Opponent Never Scores
+00D1-3500
+
+// Infinite Time
+002-D4C-19E
+
+// 1 min. per half
+002-6DC-F7A
+012-6EC-F7E
+
+// 5 mins. per half
+002-6DC-F7A
+052-6EC-F7E
+
+// 60 mins. per half
+062-6DC-F7A
+002-6EC-F7E
+
+// Start With 43 Points To Use On The Edit Screen
+3EF-2BE-082
+00F-2DE-E6D
+
+// Start With Only 10 Points On Edit Screen
+0AF-21E-B3A
+
+// Start With 50 Points On Edit Screen
+2AF-21E-B3A
+
+// Start With 60 Points On Edit Screen
+3CF-21E-B3A
+
+// Infinite Points On Edit Screen
+001-21D-19E

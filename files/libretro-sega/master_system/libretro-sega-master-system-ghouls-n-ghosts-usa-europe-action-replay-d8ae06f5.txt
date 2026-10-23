@@ -1,0 +1,14 @@
+// Infinite Lives
+00C0-3309
+
+// Infinite Hits
+00C0-4C01
+
+// Fire & Thunder Magic Stays Full
+00C0-4B40
+
+// Conditional Invincibility
+00C0-3E01
+
+// Double Clone Has No Time Limit
+00C0-5201

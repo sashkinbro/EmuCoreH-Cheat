@@ -1,0 +1,55 @@
+// All Levels Open
+CE9-ADE-D5D
+CE9-92E-D5D
+
+// All Characters Showing
+CE9-7BE-D5D
+
+// 'Mutant Power' Bar Never Shows
+00E-0EF-C40
+
+// 'Mutant Power' Bar Always Showing
+00E-10F-3B4
+
+// Mutant Power Always On
+00DF-8A09
+
+// Invulnerability
+00C3-0124
+
+// Infinite Health
+00DF-8BFF
+
+// Infinite Mutant Power
+00DF-8CFF
+
+// Invulnerability
+18A-407-6EA
+
+// Jump In Midair
+C32-D67-801
+E62-D77-7FD
+822-D87-E64
+002-F37-A26
+002-F97-D5E
+
+// Infinite Health
+00DF-8BCF
+
+// Infinite Mutant Powers
+00DF-8CCF
+
+// Turn On Side-Scrolling
+00C0-047C
+
+// Turn On Walking To The Left
+00C0-7A88
+
+// Allow you start with any player
+C34-3AF-E61
+
+// Infinite Mutant Power
+009-F77-C42
+
+// Infinite Health
+00A-587-A28

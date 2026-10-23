@@ -1,0 +1,158 @@
+// 1st side starts with 1 point
+SHNA-BEW0
+
+// 1st side starts with 2 points
+SHNA-BJW0
+
+// 1st side starts with 3 points
+SHNA-BNW0
+
+// 1st side starts with 4 points
+SHNA-BTW0
+
+// 1st side starts with 5 points
+SHNA-BYW0
+
+// 1st side starts with 6 points
+SHNA-B2W0
+
+// 1st side starts with 7 points
+SHNA-B6W0
+
+// 1st side starts with 8 points
+SHNA-BAW0
+
+// 2nd side starts with 1 point
+SHNA-BEW6
+
+// 2nd side starts with 2 points
+SHNA-BJW6
+
+// 2nd side starts with 3 points
+SHNA-BNW6
+
+// 2nd side starts with 4 points
+SHNA-BTW6
+
+// 2nd side starts with 5 points
+SHNA-BYW6
+
+// 2nd side starts with 6 points
+SHNA-B2W6
+
+// 2nd side starts with 7 points
+SHNA-B6W6
+
+// 2nd side starts with 8 points
+SHNA-BAW6
+
+// Stay powered up half as long
+EA7A-AACR
+
+// Stay powered up twice as long
+TA7A-AACR
+
+// Stay powered up four times as long (causes weird power bar graphics)
+AA7A-ACCR
+
+// Stay powered up eight times as long (causes weird power bar graphics)
+AA7A-AECR
+
+// Stay powered up all quarter (causes weird power bar graphics)
+AJ0T-AA2W
+
+// Infinite power bursts
+AJ0T-AA22
+
+// 3-point shots worth nothing
+ABKT-BJ96
+
+// 3-point shots worth 1
+AFKT-BJ96
+
+// 3-point shots worth 2
+AKKT-BJ96
+
+// 3-point shots worth 4
+AVKT-BJ96
+
+// 3-point shots worth 5
+AZKT-BJ96
+
+// 3-point shots worth 6
+A3KT-BJ96
+
+// 3-point shots worth 7
+A7KT-BJ96
+
+// 3-point shots worth 8
+BBKT-BJ96
+
+// 2-point shots worth nothing
+ABKT-BJ9Y
+
+// 2-point shots worth 1
+AFKT-BJ9Y
+
+// 2-point shots worth 3
+APKT-BJ9Y
+
+// 2-point shots worth 4
+AVKT-BJ9Y
+
+// 2-point shots worth 5
+AZKT-BJ9Y
+
+// 2-point shots worth 6
+A3KT-BJ9Y
+
+// 2-point shots worth 7
+A7KT-BJ9Y
+
+// 2-point shots worth 8
+BBKT-BJ9Y
+
+// Play to 2 points [select &quot;Play to 21&quot; on menu]
+AF4A-AABT
+
+// Play to 5 points [select &quot;Play to 21&quot; on menu]
+AV4A-AABT
+
+// Play to 10 points [select &quot;Play to 21&quot; on menu]
+BF4A-AABT
+
+// Play to 30 points [select &quot;Play to 21&quot; on menu]
+FF4A-AABT
+
+// Play to 40 points [select &quot;Play to 21&quot; on menu]
+HF4A-AABT
+
+// Play to 100 points [select &quot;Play to 21&quot; on menu]
+XF4A-AABT
+
+// Quarters last 30 seconds [select &quot;1 minute&quot; on menu]
+GDAA-AABY
+
+// Quarters last about 2 minutes [select &quot;1 minute&quot; on menu]
+ADAA-AEBY
+
+// Quarters last about 4 minutes [select &quot;1 minute&quot; on menu]
+ADAA-AJBY
+
+// Quarters last about 6 minutes [select &quot;1 minute&quot; on menu]
+ADAA-ANBY
+
+// Quarters last about 9 minutes [select &quot;1 minute&quot; on menu]
+ADAA-AWBY
+
+// Time counts down twice as fast
+DA9A-AAAE
+
+// Time counts down faster
+EA9A-AAAE
+
+// Time counts down slower
+JJ9A-AAAE
+
+// Time counts down half as fast
+NJ9A-AAAE

@@ -1,0 +1,62 @@
+// Start With 1 Hellfire
+01E-03E-C4A
+
+// Start With 5 Hellfires
+05E-03E-C4A
+
+// Start With 9 Hellfires
+09E-03E-C4A
+
+// Start With 1 Hydras
+01E-08E-3BA
+
+// Start With 56 Hydras
+56E-08E-3BA
+
+// Start With 99 Hydras
+99E-0DE-3BA
+
+// Start With 178 Guns
+01E-0DE-A2E
+
+// Start With 678 Guns
+06E-0DE-A2E
+
+// Start With 9,978 Guns
+99E-0DE-A2E
+
+// Start With 100 Fuel Load
+01E-12E-08B
+01E-1CE-E6E
+
+// Start With 5,500 Fuel Load
+55E-12E-08B
+55E-1CE-E6E
+
+// Start With 9,900 Fuel Load
+99E-12E-1CE
+99E-1CE-E6E
+
+// Start With 300 Armor
+03E-2BE-F72
+
+// Start With 600 Armor
+06E-2BE-F72
+
+// Start With 9900 Armor
+99E-2BE-F72
+
+// Infinite Fuel
+002-E97-E6E
+
+// Infinite Armor
+3A9-807-2A2
+
+// Infinite Hydras
+005-B07-E6E
+
+// Infinite Hellfires
+004-CF7-E6E
+
+// Infinite Guns
+006-FC7-E6E

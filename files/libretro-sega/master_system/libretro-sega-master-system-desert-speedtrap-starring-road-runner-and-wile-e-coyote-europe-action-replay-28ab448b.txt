@@ -1,0 +1,14 @@
+// Have 99 Stars
+00C2-0599
+
+// Infinite Credits
+00C2-2609
+
+// Infinite Time
+00CA-FC48
+
+// Infinite Hits
+00CA-F904
+
+// Infinite Lives
+00C0-2509

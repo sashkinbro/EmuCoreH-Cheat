@@ -1,0 +1,11 @@
+// Always Control Beavis
+FFAEEA:0001
+
+// Infinite Health Beavis
+FFAEEA:0020
+
+// Infinite Health Butthead
+FFAEEC:0020
+
+// Infinite Money
+FFAEEE:00FF

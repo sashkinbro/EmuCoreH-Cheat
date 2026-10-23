@@ -1,0 +1,16 @@
+// Bet as much as you want in 5 card stud
+FF2-EBE-2A2
+
+// Start with $9,900
+995-FDF-6EA
+
+// Don't lose money in 5-card stud
+00C-F4F-A24
+
+// Always Have $99
+00C6-E199
+
+// Infinite Money
+00C6-DF99
+00C6-E099
+00C6-E199

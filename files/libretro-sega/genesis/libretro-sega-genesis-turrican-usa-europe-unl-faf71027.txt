@@ -1,0 +1,254 @@
+// Start with 1 life
+AFAA-AAFY
+
+// Start with 9 lives
+BFAA-AAFY
+
+// Start with 25 lives
+EZAA-AAFY
+
+// Start with 50 lives
+LBAA-AAFY
+
+// Start with 99 lives
+XFAA-AAFY
+
+// Infinite lives
+REXT-A6YR
+
+// Start with no grenades
+AAXA-AAC8
+
+// Start with 9 grenades
+BEXA-AAC8
+
+// Start with 99 grenades
+XEXA-AAC8
+
+// Start with 999 grenades
+XEXA-AWC8
+
+// Start with zero mines
+AAXA-AADE
+
+// Start with 9 mines
+BEXA-AADE
+
+// Start with 99 mines
+XEXA-AADE
+
+// Start with 999 mines
+XEXA-AWDE
+
+// Start with no power lines
+AAXA-AADL
+
+// Start with 9 power lines
+BEXA-AADL
+
+// Start with 99 power lines
+XEXA-AADL
+
+// Start with 999 power lines
+XEXA-AWDL
+
+// Start with no buzzsaws
+ABBA-AAAJ
+
+// Start with 1 buzzsaws
+AFBA-AAAJ
+
+// Start With 9 Buzzsaws
+BFBA-AAAJ
+
+// Infinite buzzsaws
+AJZT-AA6L
+
+// Start 1st level timer at 900
+ABGT-EWFT
+
+// Time goes by faster
+BAXA-BA4T
+
+// Start with 1 continue
+AECA-AAHY
+
+// Start with 6 continues
+A2CA-AAHY
+
+// Start with 9 continues
+BECA-AAHY
+
+// Infinite continues
+AJ6T-AA7L
+
+// Each crystal worth 8 instead of 1
+BAHT-BA2G
+
+// Each crystal worth 16 instead of 1
+C2HT-BA2G
+
+// Infinite Energy
+C2YA-AA64
+
+// Always Shoot Grenades Instead of Bullets
+AALA-AAEL
+
+// Always Shoot Power Lines Instead of Bullets
+AALA-AAEY
+
+// Infinite time, grenades, mines, and power lines
+KJXA-BLZ0
+KEXA-BLZ2
+
+// Shoot multiple shots instead of single
+ANMT-BT6Y
+REMT-A6Y0
+
+// Each grenade token worth 8
+BAHA-BA88
+
+// Each grenade token worth 20
+EAHA-BA88
+
+// Each mine token worth 8
+BAHA-BA9G
+
+// Each mine token worth 20
+EAHA-BA9G
+
+// Each power line token worth 8
+BAHA-BA9R
+
+// Each power line token worth 20
+EAHA-BA9R
+
+// Makes the Gauntlet easier to defeat
+RFZT-A604
+
+// Makes Dead Head easier to defeat
+RF5A-A6W8
+
+// Makes Trash Monster easier to defeat
+RGHA-A60Y
+
+// Makes Mother Fish easier to defeat
+RGDA-A6VT
+
+// Force field lasts until the next level [after you get a force field token]
+BAZA-AA2G
+
+// Start in world 1, level 1.2
+SECA-BEXR
+
+// Start in world 1, level 1.3
+SECA-BJXR
+
+// Start in world 2, level 2.1
+SECA-BNXR
+
+// Start in world 2, level 2.2
+SECA-BTXR
+
+// Start in world 3, level 3.1
+SECA-BYXR
+
+// Start in world 3, level 3.2
+SECA-B2XR
+
+// Start in world 3, level 3.3
+SECA-B6XR
+
+// Start in world 4, level 4.1
+SECA-BAXR
+
+// Start in world 4, level 4.2
+AJCA-AA5J
+9TCA-BGMN
+BECA-AADR
+
+// Start in world 4, level 4.3
+AJCA-AA5J
+9TCA-BGMN
+BJCA-AADR
+
+// Start in world 5, level 5.1
+AJCA-AA5J
+9TCA-BGMN
+BNCA-AADR
+
+// Start in world 5, level 5.2
+AJCA-AA5J
+9TCA-BGMN
+BTCA-AADR
+
+// Infinite Lives
+AJXT-AA6T
+
+// Infinite Energy
+RYYA-A6ZW
+
+// Infinite Time
+REXA-A6Z0
+
+// Infinite Lives
+FF0492:0099
+
+// Infinite Health
+FF03A8:0063
+
+// Infinite Time
+FF03D4:00FF
+
+// Infinite Grey Crystals (1st Weapon On HUD)
+FF03CC:00FF
+
+// Infinite Explosions (2nd Weapon On HUD)
+FF03CE:00FF
+
+// Infinite Grey Object (3rd Weapon On HUD)
+FF03D0:00FF
+
+// Infinite Wave Blasts (4th Weapon On HUD)
+FF03D2:00FF
+
+// Walk Through Rocks, Walls, etc
+A20T-AA46
+A20T-AA3L
+
+// Can jump up thru rocks, ceilings, etc
+A20A-AA8A
+
+// Enable Cheat Menu
+JDST-AA46
+
+// Jump Higher
+EJ5A-AESY
+
+// Pressing Up plants a mine
+1EZT-A6V4
+AAZT-AAB6
+2TZT-BJB8
+
+// Pressing Up plants a mine and you will also have infinite mines
+1EZT-A6V4
+AAZT-AAB6
+32ZT-BJB8
+
+// Pressing Up plants a mine
+1EZT-A6V4
+AAZT-AAB6
+2TZT-BJB8
+RYZT-A6WE
+
+// Pressing Up plants a mine and you will also have infinite mines
+1EZT-A6V4
+AAZT-AAB6
+32ZT-BJB8
+RYZT-A6WE
+
+// Pressing Up will not make you jump
+B2ZT-AA32
+
+// Pressing Up will not make you jump
+RYZT-A6WE

@@ -1,0 +1,100 @@
+// CPU don't fight back
+ALPT-AADC
+
+// Hyper characters
+FRRT-ARAR
+
+// 1 hit kills either player
+PC8T-AEVT
+
+// Fury activated every hit
+AL8T-AA5W
+
+// Player must have Fury to damage other player
+AL8T-AA3T
+
+// Start with no continues
+AA0T-AAB6
+
+// Start with 1 continue
+AE0T-AAB6
+
+// Start with 2 continues
+AJ0T-AAB6
+
+// Start with 4 continues
+AT0T-AAB6
+
+// Start with 5 continues
+AY0T-AAB6
+
+// Start with 7 continues
+A60T-AAB6
+
+// Start with 9 continues
+BE0T-AAB6
+
+// Infinite continues
+AT4T-CA6C
+
+// After the first fight, always fight Shaq
+ABBA-BA82
+
+// After the first fight, always fight Mephis
+AFBA-BA82
+
+// After the first fight, always fight Sett
+AKBA-BA82
+
+// After the first fight, always fight Nezu
+APBA-BA82
+
+// After the first fight, always fight Kaori
+AVBA-BA82
+
+// After the first fight, always fight Beast
+AZBA-BA82
+
+// After the first fight, always fight Auroch
+A3BA-BA82
+
+// After the first fight, always fight Voodoo
+A7BA-BA82
+
+// After the first fight, always fight Colonel
+BBBA-BA82
+
+// After the first fight, always fight Diesel
+BFBA-BA82
+
+// After the first fight, always fight Leotsu
+BKBA-BA82
+
+// After the first fight, always fight Rajah
+BPBA-BA82
+
+// Infinite Energy And Time
+9TBT-BCAJ
+NNBT-AAAL
+3EBT-ABAN
+
+// fighter float when moving or doing special moves
+ACPT-ADBC
+
+// tiny mode
+ACPT-ADBL
+
+// Character Modifier P1
+FF9478:0000
+
+// Character Highlighter Modifier P1
+FF9480:0000
+
+// Infinite Health P1
+FF80C8:0063
+
+// No Health P2
+FF81E0:0000
+
+// Infinite Credits
+FFEA06:0009

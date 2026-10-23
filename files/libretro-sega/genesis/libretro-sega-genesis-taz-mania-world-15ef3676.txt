@@ -1,0 +1,224 @@
+// No Recoil From Touching Enemies
+RY0T-G6Z6
+
+// Infinite lives
+AJKT-JA24
+
+// Start with 1 life
+AEJT-JABY
+AEKT-JAB2
+
+// Start with 2 lives
+AJJT-JABY
+AJKT-JAB2
+
+// Start with 4 lives
+ATJT-JABY
+ATKT-JAB2
+
+// Start with 5 lives
+AYJT-JABY
+AYKT-JAB2
+
+// Start with 10 lives
+CAJT-JABY
+CAKT-JAB2
+
+// Start with 15 lives
+CYJT-JABY
+CYKT-JAB2
+
+// Start with 20 lives
+EAJT-JABY
+EAKT-JAB2
+
+// Start with 50 lives
+LAJT-JABY
+LAKT-JAB2
+
+// Start with 100 lives
+AAJT-JCBY
+AAKT-JCB2
+
+// Infinite continues
+AKCT-GA7W
+
+// 5 seconds to continue game
+A1GT-GADE
+
+// 60 seconds to continue game
+NDGT-GADE
+
+// Infinite time to continue game
+AMGA-GA3R
+
+// Never lose health
+AJXA-GA22
+
+// Play every 2nd level
+PYKT-KJW2
+
+// Play every 3rd level
+PYKT-KNW2
+
+// Play every 4th level
+PYKT-KTW2
+
+// Play every 5th level
+PYKT-KYW2
+
+// 0 seconds of invincibility when star is eaten
+AB4T-EAAN
+
+// 5 seconds of invincibility when star is eaten
+W34T-EAAN
+
+// 10 seconds of invincibility when star is eaten
+FV4T-ECAN
+
+// 30 seconds of invincibility when star is eaten
+TV4T-EGAN
+
+// 60 seconds of invincibility when star is eaten
+BB4T-ERAN
+
+// 120 seconds of invincibility when star is eaten
+CB4T-E6AN
+
+// 2 seconds of invincibility after injury
+G2LT-JAF0
+
+// 7 seconds of invincibility after injury
+4JLT-JAF0
+
+// 10 seconds of invincibility after injury
+FTLT-JCF0
+
+// 15 seconds of invincibility after injury
+2JLT-JCF0
+
+// 20 seconds of invincibility after injury
+MALT-JEF0
+
+// Infinite invincibility after star or injury
+AKAA-GA7G
+
+// Each photo 1 worth 0 extra lives
+AB4A-FA8A
+
+// Each photo 1 worth 2 extra lives
+AK4A-FA8A
+
+// Each photo 1 worth 3 extra lives
+AP4A-FA8A
+
+// Each photo 1 worth 5 extra lives
+AZ4A-FA8A
+
+// Each photo 1 worth 10 extra lives
+CB4A-FA8A
+
+// Each photo 3 worth 0 continues
+AK4A-EA9R
+
+// Each photo 3 worth 2 continues
+PZ4A-FJ1R
+
+// Each photo 3 worth 3 continues
+PZ4A-FN1R
+
+// Each photo 3 worth 4 continues
+PZ4A-FT1R
+
+// Each photo 3 worth 5 continues
+PZ4A-FY1R
+
+// Each photo 3 worth 6 continues
+PZ4A-F21R
+
+// Each photo 3 worth 7 continues
+PZ4A-F61R
+
+// Each photo 3 worth 8 continues
+PZ4A-FA1R
+
+// Each photo 3 worth 1 extra life
+MA4A-FF1T
+
+// Each food worth 0% health
+AK4A-EA6J
+
+// Each food worth 8% health
+FZ4A-FEYJ
+
+// Each food worth 16% health
+FZ4A-FJYJ
+
+// Each food worth 33% health
+FZ4A-FTYJ
+
+// Each food worth 42% health
+FZ4A-FYYJ
+
+// Each food worth 50% health
+FZ4A-F2YJ
+
+// Each food worth 58% health
+FZ4A-F6YJ
+
+// Each food worth 67% health
+FZ4A-FAYJ
+
+// Each food worth 100% health
+RF4A-E6YW
+
+// Invincibility
+D2VT-GR9J
+AKAA-GA68
+
+// Glide Spin
+HWKA-KNSJ
+
+// Get Hit And Go To The Next Level
+PJXA-GA22
+
+// Hyper Taz
+FFD534:0000
+
+// Ghost Taz
+FFD4CA:0070
+
+// Moon Jump
+FFD4D6:00AC
+
+// Taz Jump Height Modifier
+FFD4DE:0000
+
+// Fire Breathing Taz
+FFD036:0005
+
+// Restart Point Modifier
+FFD01C:0001
+
+// 1-Hit Death Bird Boss
+FF18E2:0000
+
+// Press start in the game to skip levels
+AKAA-GA5L
+
+// Enable Debug Menu. See Note
+FFCFFC:0001
+
+// Enable Debug Menu. See Note
+AK2A-LA2L
+
+// Invincibility
+FFD4CA:0010
+
+// Controllable Jump
+ACHT-JAEA
+
+// Invincibility
+RY0T-G6Z6
+RZ4A-E6VC
+RZYT-E6Y0

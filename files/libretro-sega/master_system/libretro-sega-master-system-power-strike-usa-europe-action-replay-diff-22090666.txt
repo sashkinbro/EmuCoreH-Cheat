@@ -1,0 +1,8 @@
+// Infinite Lives
+00C8-1203
+
+// Always Fight Power-Up Pods
+00C8-2601
+
+// Infinite Weapon Ammo
+00C8-5E32

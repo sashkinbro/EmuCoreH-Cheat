@@ -1,0 +1,14 @@
+// Invulnerability
+00D6-0B7C
+
+// Invulnerability
+00F-4A7-2A1
+
+// Infinite Hearts (Lives)
+00C3-7509
+
+// Infinite Lives
+3AB-286-2A2
+
+// Get 1 clue to complete current level
+01E-F37-F76

@@ -1,0 +1,79 @@
+// Level Select Zone
+00D2-9500
+
+// Level Select Act
+00D2-9601
+
+// Score 999000 For Every Act And Unlimited Timer
+00D2-B9FF
+
+// Glider From The Start
+00D5-0213
+
+// Sonic Runs Upside-Down
+00D5-2876
+
+// Invulnerability
+00D3-A972
+
+// Invulnerability
+C98-84C-2A2
+
+// Jump In Midair
+00A-96C-E69
+
+// Level Select Enabled
+004-C2D-D5E
+
+// Rings Worth ?
+005-C7D-E6E
+
+// Force Show Symbol On Goal
+00D7-1E05
+00D7-5E05
+00D7-9E05
+
+// Infinite Rings
+00D2-9998
+
+// Infinite Lives
+00D2-9809
+
+// Play Game Demos!!
+00D2-9200
+
+// Always Have Invincibility
+00D5-3202
+
+// Invincibility And Speed Shoes Never Run Out With Time
+00D4-A002
+00D4-A100
+
+// Infinite Air
+00D4-6700
+00D4-6805
+00D4-6900
+
+// Zone Select after Title Screen
+00D1-2C0D
+
+// Infinite Lives
+009-30F-3BE
+
+// Invincibility (after being hit)
+3A8-82C-2A2
+
+// Don't Lose Rings when Hit
+3A7-DFC-2A2
+
+// Infinite Time
+000-A9D-3BA
+
+// Infinite Time Underwater
+008-98B-3BA
+
+// Start with ?? Lives, instead of 3
+042-5CD-E66
+
+// Start with some Rings most of the Time
+222-92D-2A2

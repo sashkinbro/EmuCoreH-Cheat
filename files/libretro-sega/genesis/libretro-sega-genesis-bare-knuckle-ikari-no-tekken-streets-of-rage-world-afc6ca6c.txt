@@ -1,0 +1,266 @@
+// All Bosses 1 hit kill
+FFB932:0000
+
+// Control 1st Boss
+JW3A-B2HC
+
+// Infinite Time
+M2GA-CA6W
+
+// Almost Invincible
+DCZT-AA2G
+
+// Activate level select in options
+AD8T-AN9A
+AD6A-AR9R
+
+// Activate very easy and mania difficulties in options
+AD6T-AR5Y
+AD6T-AR66
+
+// Activates 9 lives in options
+AX6T-AN76
+
+// Both players start with 1 fighter instead of 3
+AEMT-BA7W
+
+// Both players start with 5 fighters
+AYMT-BA7W
+
+// Both players start with 7 fighters
+A6MT-BA7W
+
+// Both players start with 9 fighters
+BEMT-BA7W
+
+// Player 1 starts with 3 fighters, player 2 starts with 6 fighters
+ANMT-BA7T
+A2MT-BE7W
+2EMT-BCF2
+
+// Player 1 starts with 3 fighters, player 2 starts with 9 fighters
+ANMT-BA7T
+BEMT-BE7W
+2EMT-BCF2
+
+// Player 1 starts with 6 fighters, player 2 starts with 3 fighters
+A2MT-BA7T
+ANMT-BE7W
+2EMT-BCF2
+
+// Player 1 starts with 9 fighters, player 2 starts with 3 fighters
+BEMT-BA7T
+ANMT-BE7W
+2EMT-BCF2
+
+// Infinite fighters for both players
+AT4A-AA48
+
+// Infinite special attacks for both players
+RFAA-A6VR
+
+// Both players continue with 1 fighter
+AFMA-BA6E
+
+// Both players continue with 5 fighters
+AZMA-BA6E
+
+// Both players continue with 7 fighters
+A7MA-BA6E
+
+// Both players continue with 9 fighters
+BFMA-BA6E
+
+// Infinite life on life gauge--both players
+AJ4T-AA34
+
+// Regular attacks are useless
+ABBA-AAP4
+
+// Start timer at 99
+RGMA-C6VC
+XGMA-DA3E
+
+// Start timer at 25
+RGMA-C6VC
+E0MA-DA3E
+
+// Start on round 2
+9WHT-BGSR
+AGHT-AAHT
+98HT-AAHW
+ALHT-B99Y
+
+// Start on round 3
+9WHT-BGSR
+ALHT-AAHT
+98HT-AAHW
+ALHT-B99Y
+
+// Start on round 4
+9WHT-BGSR
+ARHT-AAHT
+98HT-AAHW
+ALHT-B99Y
+
+// Start on round 5
+9WHT-BGSR
+AWHT-AAHT
+98HT-AAHW
+ALHT-B99Y
+
+// Start on round 6
+9WHT-BGSR
+A0HT-AAHT
+98HT-AAHW
+ALHT-B99Y
+
+// Start on round 7
+9WHT-BGSR
+A4HT-AAHT
+98HT-AAHW
+ALHT-B99Y
+
+// Start on round 8
+9WHT-BGSR
+A8HT-AAHT
+98HT-AAHW
+ALHT-B99Y
+
+// Infinite Energy
+AKHA-AA5R
+
+// Infinite Lives
+BA4A-AN44
+
+// Freeze Time
+KTGA-CR7E
+
+// Invincibility
+JGZT-BCAC
+
+// Player 2 - Infinite Lives
+FFFF22:0009
+
+// Player 2 - Infinite Police Calls
+FFFF24:0001
+
+// Player 1 - Infinite Continues
+FFFF1A:0009
+
+// Player 2 -  Infinite Continues
+FFFF1C:0009
+
+// Player 1 Can Continue / Game Over
+FFFF22:0000
+
+// Player 2 Can Continue / Game Over
+FFFF24:0000
+
+// Music Sounds Weird
+FFF1BE:0001
+
+// Player 1 Max Score
+FFFF08:9999
+FFFF0A:9999
+
+// Player 2 Max Score
+FFFF10:9999
+FFFF12:9999
+
+// Hit Anywhere
+RGZA-A6ZW
+RGZT-A6Z0
+R0ZA-A606
+
+// Start On Round 2
+9WHT-BGSR
+AGHT-AAHT
+98HT-AAHW
+ALHT-B99Y
+
+// Start On Round 3
+9WHT-BGSR
+ALHT-AAHT
+98HT-AAHW
+ALHT-B99Y
+
+// Start On Round 4
+9WHT-BGSR
+ARHT-AAHT
+98HT-AAHW
+ALHT-B99Y
+
+// Start On Round 5
+9WHT-BGSR
+AWHT-AAHT
+98HT-AAHW
+ALHT-B99Y
+
+// Start On Round 6
+9WHT-BGSR
+A0HT-AAHT
+98HT-AAHW
+ALHT-B99Y
+
+// Start On Round 7
+9WHT-BGSR
+A4HT-AAHT
+98HT-AAHW
+ALHT-B99Y
+
+// Start On Round 8
+9WHT-BGSR
+A8HT-AAHT
+98HT-AAHW
+ALHT-B99Y
+
+// Infinite Lives For Both Players (On A Real PAR)
+REZT-A6XG
+
+// Infinite Time On Each Section (On A Real PAR)
+TAGA-D2HA
+
+// Constant Supply of Special Weapons
+RFAA-A6VR
+
+// Infinite Energy
+FFB832:0050
+
+// Infinite Time
+FFFB00:0040
+
+// Infinite Lives (Both Players
+FFFF20:0009
+
+// Infinite Special Weapons
+FFFF20:0001
+
+// Invincible
+FFB848:001B
+
+// Enable Players And Round Select In Options
+REJT-A6ZN
+BALT-AA2N
+
+// Enable Extra Options in Options Menu
+BALT-AA2G
+BALT-AA3G
+
+// Enemies that hit you 3 times in a row will hit ultra fast (makes the game harder)
+AJ4A-AAER
+
+// Enemies that hit you 3 times in a row will only hit once and won't knock you down (makes the game easier)
+EA4A-AAER
+
+// Enemy stun time is much longer after you hit them (makes the game easier)
+P4RA-BNAE
+
+// Enemy stun time is longer after you hit them (makes the game easier)
+GLRA-AGAE
+
+// Start with 1 continue
+AEMT-BA7C
+
+// Start with 6 continues
+A2MT-BA7C

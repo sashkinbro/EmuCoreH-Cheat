@@ -1,0 +1,14 @@
+// Infinite Arrows
+00D6-7C06
+
+// Infinite Stamina - Swimming
+66A-218-3BB
+
+// Infinite Arrows
+009-AEB-3BE
+
+// Infinite Time
+005-6EF-3BA
+
+// Start with ?? Arrows
+0A6-0FB-F72

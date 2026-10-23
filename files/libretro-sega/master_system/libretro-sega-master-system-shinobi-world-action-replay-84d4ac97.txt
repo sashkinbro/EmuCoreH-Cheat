@@ -1,0 +1,5 @@
+// Infinite Lives
+00C0-7A02
+
+// Invincible
+00C0-6C06

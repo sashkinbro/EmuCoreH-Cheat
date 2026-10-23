@@ -1,0 +1,14 @@
+// Infinite Time (Switch On To Freeze Time)
+002-D4C-19E
+
+// 1 Minute Per Half
+002-6DC-F7A
+012-6EC-F7E
+
+// 5 Minutes Per Half
+002-6DC-F7A
+052-6EC-F7E
+
+// 60 Minutes Per Half
+062-6DC-F7A
+002-6EC-F7E

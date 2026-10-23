@@ -1,0 +1,269 @@
+// Untouchable (Regular Hits)
+AW8T-AAHT
+
+// Worms can't grab Ali
+AADT-EA30
+
+// Ogres can't grab Ali
+ACXT-CA6T
+
+// Almost Invincible
+83NA-AA2G
+
+// Don't lose SP on 'Hold A' Spirit moves
+REPT-C6YA
+
+// SP doesn't decrease
+REPT-C6XL
+
+// Use MODE to cancel Spirit
+NCFT-BNFT
+BCFT-AAF0
+
+// Start Game with Hyper Bomb
+96KT-A0GT
+
+// Start Game with Metal Bow
+96KT-ATGT
+
+// Start Game with Omega Sword
+96KT-ALGT
+
+// Start Game with 500 Rank
+8TLA-ACAR
+
+// Start Game with 100 Rank
+NTLA-AAAR
+
+// Start Game with 500 HP
+8TKT-ACH4
+8TLA-ACAA
+
+// Start Game with 250 HP
+9JKT-AAH4
+9JLA-AAAA
+
+// Protection from most attacks
+RFNA-A6YE
+
+// Jump on Air
+ABSA-AA6L
+
+// Walking on Air (Alternate)
+ABPA-AA58
+
+// Walking on Air
+AGRA-BT3L
+
+// Disable Active Zones: (Turns off waterfalls, etc.)
+ALFT-AA4W
+
+// &quot;Service Pack&quot; for Walking on Air codes
+ABWA-AA9T
+
+// Don't lose SP on 'Tap A' Spirit moves
+REPT-C6VR
+
+// Infinite weapons aren't infinite
+ALCT-AA5E
+
+// Weapons are infinite
+RGCT-A6XJ
+
+// Weapon turns infinite after use:(Don't use with below code)
+98CT-BE5J
+
+// Invincible
+MXFT-AAF4
+
+// Walking on the air
+AGRA-BT3L
+ABPA-AA58
+
+// Open red door without a key
+RFWA-A6TE
+
+// Open blue door without a key
+RFWA-A6TY
+
+// Open green door without a key
+RFWA-A6VE
+
+// Open yellow door without a key
+RFWA-A6VY
+
+// Walking through the right wall
+M4JA-AA72
+
+// Walking through the left wall
+M4JT-AA44
+
+// Walking through the bottom wall
+M4KA-AA4A
+
+// Walking through the upper wall
+M4KA-AA9C
+
+// Walking through walls
+ACRA-BY3N
+
+// Infinite weapon uses, Slot 2
+FF0D82:00FF
+
+// Weapons, Slot 2
+FF0D82:0000
+
+// Start with rank of 500
+8TLA-ACAR
+
+// Platforms in Secret Cliffs don't disappear
+FF2E9A:0056
+FF2E40:0056
+FF2DE6:0056
+FF2EF4:0056
+
+// Infinite weapon uses, Slot 1
+FF0D80:00FF
+
+// Spirit power bar stays full
+FF1A76:00D6
+
+// Health Bar stays full
+FF1A72:00DE
+
+// 15 blue gems
+FF0DB6:000F
+
+// Always have red key
+FF0DB2:0001
+
+// Always have Blue key
+FF0DB2:0001
+
+// Always have gold key
+FF0DB4:0001
+
+// Always have green key
+FF0DB4:0001
+
+// 15 green gems
+FF0DB8:000F
+
+// Very high rank
+FF1A7E:01F4
+
+// 15 red gems
+FF0DB6:000F
+
+// 15 black gems
+FF0DB8:000F
+
+// Infinite Energy
+AKNA-AA6G
+JCZT-CAG4
+
+// Sp Bar Fills 8x Faster
+JBMT-BAZN
+
+// Each Kill Worth 8
+SH5T-BAX0
+
+// Infinite Health
+FF17A0:00FF
+FF17A2:00FF
+
+// Infinite Magic
+FF17A4:00FF
+FF17A6:00FF
+
+// Infinite Health
+FF17A2:00FF
+FF17A4:00FF
+
+// Infinite Magic
+FF17A6:00FF
+FF17A8:00FF
+
+// Infinite Hp
+FF1A72:03E7
+
+// Max Hp
+FF1A70:03E7
+
+// Infinite Sp
+FF1A76:03E7
+
+// Max Sp
+FF1A74:03E7
+
+// Max Kills
+FF1A7C:FFFF
+
+// Max Rank
+FF1A7E:03E7
+
+// Allways Can Use Health Restoring Items
+H3KA-AAF8
+
+// Allways Can Use SP Restoring Items
+FKKA-AAGW
+
+// Play Time Is Allways 0
+SGFA-AYZ8
+
+// Allways Have Rank 999 Damage
+HW8T-BELL
+HW8T-AGCN
+
+// Infinite H.P
+AKNA-AA6G
+AWZT-CA88
+AXGT-CA36
+AKYT-AA5G
+AJFA-EA6N
+
+// Infinite S.P
+AJPT-CA6C
+AJPT-CA32
+AJWT-CA6E
+AJ1T-CA5C
+AJ1T-CA72
+AJ6A-CA7T
+AXJA-CA28
+
+// Infiniite Special Weapon
+ALCT-AA5L
+
+// Infinite Items
+AKEA-AA42
+AKEA-AA9A
+
+// Infinite Keys
+RFWA-A6ZL
+RHEA-A61G
+RHEA-A61E
+
+// 1 Hit Kill Enemies
+PC2T-CEXE
+PAWA-EEWN
+PCWT-CEZJ
+
+// 1 Hit Kill Bosses
+PBWA-CEXE
+
+// Walk Through Walls (Alternate)
+R0LA-A6WT
+R0LT-A6Y4
+R0MA-A6XJ
+
+// Infinite H.P - Story of Thor, The (Japan) (Beta) [b]
+FF1C90:00C8
+
+// Infinite H.P - Story of Thor, The (Japan) (Beta) [b]
+AJZA-AA2Y
+
+// Level Select
+FF0D7A:0080
+
+// Game thinks It's In Demo Mode
+FF1996:0001

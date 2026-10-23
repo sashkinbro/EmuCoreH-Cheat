@@ -1,0 +1,8 @@
+// Infinite Lives
+001-CDD-19E
+
+// Infinite Lives
+00C0-4009
+
+// Eat One Pellet To Complete Level
+00C0-2001

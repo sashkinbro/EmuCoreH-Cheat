@@ -1,0 +1,88 @@
+// Invincible
+FFA444:001E
+
+// The exit is always open (you still need to get on your kangaroo
+FFA958:0000
+
+// Infinite lives
+AJ3A-AA4C
+
+// Start a New Game With 9 Lives
+BHBA-CAD0
+
+// Invincibility
+7T2A-AN24
+AA2A-AN3J
+
+// Max Bombs
+FFA462:0009
+
+// Boss 1 Hit Kill
+FFA602:0000
+
+// Area Modifier
+FF953A:0000
+
+// Stage Modifier
+FF953C:0000
+
+// Invincibility, Plus The Clock Counts Down Much Slower
+TC0A-AAGT
+JL0A-AKRW
+HC0A-BEZ0
+
+// Invincibility, Plus You Can Walkthrough Some Obstacles, Plus The Clock Counts Down Much Slower
+2C0A-AAGT
+JL0A-AKRW
+HC0A-BEZ0
+
+// Infinite Time (Turn Off To Exit Level)
+AL0A-AA8Y
+
+// Infinite Time (Turn Off To Exit Level) Alternate
+AL0A-AA8R
+
+// Invincibility, Plus The Clock Counts Down Much Slower
+980A-AAGT
+JW0A-AKRW
+HC0A-BEZ0
+
+// Infinite Lives
+FF9542:0009
+
+// Infinite Time (Alternate Code)
+FFA428:003B
+
+// Bombs Have Longer Reach
+FF8288:0009
+
+// Can Kick Bombs
+FFA442:0010
+
+// Walk Through Walls
+AJZT-AA3T
+AAZT-AA42
+C22A-AA4W
+
+// Start With All Abilities
+AART-A5SL
+
+// Drop Unlimited Bombs
+ABNT-AA2R
+
+// 1 Hit Kill
+AB1A-AG30
+AK1A-AA8T
+
+// Kill Enemies And Bosses In One Bomb
+A31A-AA8N
+
+// Untouchable
+RY4T-A6TW
+RY2A-A6YN
+
+// Keep Extra Bombs After The Death
+AJRT-AA7G
+
+// Freeze Time
+AL0A-AA8G

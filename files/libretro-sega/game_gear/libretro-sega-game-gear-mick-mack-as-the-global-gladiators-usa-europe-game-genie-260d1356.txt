@@ -1,0 +1,32 @@
+// Infinite Timer
+219-82B-6E2
+
+// Start With 10 Minutes
+0A2-88B-F76
+
+// Start With 6 Minutes
+062-88B-F76
+
+// Start With 4 Minutes
+042-88B-F76
+
+// Start With 2 Minutes
+022-88B-F76
+
+// Each M Logo Counts As 5
+05F-ACD-E6E
+
+// Each M Logo Counts As 3
+03F-ACD-E6E
+
+// Start With 1 Life
+012-51E-F7E
+
+// Start With 5 Lives
+052-51E-F7E
+
+// Start 10 Lives
+0A2-51E-F7E
+
+// Infinite Lives
+002-08E-A29

@@ -1,0 +1,8 @@
+// Team 1 Score Modifier (P1)
+FFA7B4:0000
+
+// Team 2 Score Modifier (P2/CPU)
+FFA7B6:0000
+
+// Allows cartridge to work with Game Genie attached
+3JAA-AGAG

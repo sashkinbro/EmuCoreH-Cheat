@@ -1,0 +1,17 @@
+// Infinite Gun/SSM/ENG
+00C8-4109
+
+// Enable 2-D Mode
+00C0-1D01
+
+// Take No Damage
+00C9-0120
+
+// Infinite Fuel
+00C9-4120
+
+// Infinite Missiles
+00C8-4199
+
+// Enable 2-D Mode
+18D-38F-6EA

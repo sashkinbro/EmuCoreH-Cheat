@@ -1,0 +1,38 @@
+// Start With 1 Life
+013-4EE-E66
+
+// Start With 5 Lives
+053-4EE-E66
+
+// Start With 9 Lives
+093-4EE-E66
+
+// Start On A Strange Level
+001-D8F-5D4
+
+// Infinite Lives
+001-B8E-3BE
+
+// Infinite Energy
+00E-ACB-3BE
+
+// Stimpy Starts With Less Energy After 1st Life
+021-C0E-F72
+
+// Stimpy Starts With Half Energy After 1st Life
+031-C0E-F72
+
+// Invincible After First Hit
+00E-E7C-E6E
+
+// You Still Get Hurt When You Flash
+01E-ECB-803
+
+// Flash Twice As Long After Getting Hit
+99E-ECB-803
+
+// Flash Longer After Getting Hit
+FFE-ECB-803
+
+// Flash A Lot Longer After Getting Hit
+00E-ECB-803

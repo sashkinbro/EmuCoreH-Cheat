@@ -1,0 +1,24 @@
+// Infinite Lives P1
+FFC016:000A
+
+// Infinite Lives P2
+FFC216:000A
+
+// Shooting Helper Powerup Modifier
+FFC010:0001
+
+// Gun Powerup Modifier
+FFC004:0002
+
+// Can Charge Up Longer P1
+FFC018:0000
+
+// Less SFX
+FFC016:0000
+
+// Keep Special Helpers Shots And Power of Weapons After The Death
+ALKT-AA6J
+ALSA-AA6J
+
+// Infinite Credit
+AWTA-AA3L

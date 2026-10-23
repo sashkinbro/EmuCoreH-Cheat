@@ -1,0 +1,23 @@
+// Always End In 1st Place
+00C5-17A3
+
+// You Never Crash
+00C5-2981
+
+// Low Timer - One's Seconds
+00C3-4A00
+
+// Low Timer - Ten's Seconds Digits
+00C3-4B00
+
+// Low Timer - Minute's Digits
+00C3-4C00
+
+// Always Rev Up To 6th Gear
+00C9-03FF
+
+// Freeze Lap Timer
+7EA-A0F-3B7
+
+// Freeze Lap Timer
+00C3-3D00

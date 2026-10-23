@@ -1,0 +1,5 @@
+// Infinite Health P1
+FF0D3E:00FF
+
+// No Health P2
+FF0D40:0000

@@ -1,0 +1,36 @@
+// Always Bet With 9 Coins
+00C8-7A09
+
+// Always Receive $255 In Pay
+00C8-7EFF
+
+// Start a new game with $550, instead of $500
+50E-CFB-E6A
+
+// Start a new game with $1000
+10E-D0B-F7E
+
+// Start a new game with $5000
+50E-D0B-F7E
+
+// Start a new game with $990500
+99E-D1B-E6A
+
+// Start a new game with $999999
+99E-CFB-E6A
+99E-D0B-F7E
+99E-D1B-E6A
+
+// Infinite Money
+1A0-4CA-A2E
+
+// Infinite Pinballs
+18A-D5A-6EA
+
+// Infinite Pinballs
+00C8-4500
+
+// Infinite Money
+00C9-2799
+00C9-2899
+00C9-2999

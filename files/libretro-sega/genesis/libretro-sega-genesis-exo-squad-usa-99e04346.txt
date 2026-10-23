@@ -1,0 +1,32 @@
+// Infinite Energy
+FF1CBC:0024
+
+// Infinite Lives
+FFF3CA:0000
+
+// Infinite Energy
+ADHT-CN9G
+
+// Infinite Energy - Exo Squad (USA) (Beta)
+FF1CC6:0024
+FF1D7E:0027
+
+// Infinite Energy - Exo Squad (USA) (Beta)
+AMHA-CA64
+AM7T-CA9E
+
+// Infinite Energy Extra
+FF1D74:0027
+
+// Infinite Energy
+AMHT-CA92
+AM8A-CA3R
+
+// Infinite Lives - Exo Squad (USA) (Beta)
+RGKA-E6T0
+
+// Infinite Lives
+RGLT-E6YE
+
+// Infinite Lives - Exo Squad (Europe)
+RGLT-E6Z2

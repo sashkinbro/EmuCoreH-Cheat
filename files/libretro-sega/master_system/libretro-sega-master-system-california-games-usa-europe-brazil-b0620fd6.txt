@@ -1,0 +1,17 @@
+// Infinite Time (Events With Time That Goes Down)
+00DC-A799
+
+// Low Time (Events With Time That Goes Up)
+00DC-A700
+
+// Infinite Time
+2A6-A9D-6E2
+
+// Freeze Timer
+00DC-A609
+
+// Don't Fall in Skating Event
+3A4-BC9-2A2
+
+// Don't Fall in BMX Event
+C97-72C-192

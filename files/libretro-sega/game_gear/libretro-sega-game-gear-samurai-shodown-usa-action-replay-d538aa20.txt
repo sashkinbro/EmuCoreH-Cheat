@@ -1,0 +1,8 @@
+// Infinite Life P1
+00C0-9050
+
+// Infinite Life P2
+00C0-9352
+
+// 1-Hit For P2
+00C0-9300

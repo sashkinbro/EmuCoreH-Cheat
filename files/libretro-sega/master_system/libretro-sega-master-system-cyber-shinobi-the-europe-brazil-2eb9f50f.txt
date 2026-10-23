@@ -1,0 +1,32 @@
+// Infinite Lives
+00C0-0E05
+
+// Have Shot And It Is Infinite
+00C0-1208
+
+// Have Ninjutsu And It Is Infinite
+00C0-1100
+
+// Maximum Power
+00C0-1008
+
+// Invincibility
+C90-1ED-2A2
+
+// Infinite Seconds - One's Digit
+00C0-1409
+
+// Infinite Seconds - Ten's Digit
+00C0-1509
+
+// Infinite Minutes - One's Digit
+00C0-1609
+
+// Infinite Minutes - Ten's Digit
+00C0-1709
+
+// Infinite Health
+00C1-1C23
+
+// Infinite Lives
+B6C-73D-3BE

@@ -1,0 +1,20 @@
+// Always First Place
+00C3-6201
+
+// Start Race In First Place
+018-43D-D5E
+
+// Keep Current Position When Passed
+00F-9EF-D52
+
+// Infinite Time
+00C3-6C00
+
+// Warp Speed Ahead, Cap'n!
+00C3-0B0F
+
+// Freeze Lap Timer
+008-9BF-3BA
+
+// Freeze Lap Timer
+00C3-6B00

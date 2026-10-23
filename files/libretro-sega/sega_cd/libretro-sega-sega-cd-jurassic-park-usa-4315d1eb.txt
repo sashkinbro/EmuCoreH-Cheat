@@ -1,0 +1,8 @@
+// Infinite Hours
+FFAA60:0101
+
+// Infinite Minutes
+FFAA62:0509
+
+// Infinite Seconds
+FFAA64:0509

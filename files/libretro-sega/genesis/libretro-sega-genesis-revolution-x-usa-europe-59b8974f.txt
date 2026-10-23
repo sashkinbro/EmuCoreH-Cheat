@@ -1,0 +1,44 @@
+// Infinite CD Discs
+AW8C-LA6Y
+
+// Infinite health
+AWSC-LA32
+
+// Infinite Health P1
+FFE872:0026
+
+// Infinite Discs P1
+FFEA98:00FF
+
+// Infinite Health P2
+FFE880:0026
+
+// Infinite Discs P2
+FFEAA8:00FF
+
+// Infinite Continue
+AL1W-LA64
+
+// Infinite use of the Super Gun once you have it
+AVKW-NA4R
+
+// Always have the Super Gun
+RFKC-N6XR
+
+// Start on level 2 (Find Aerosmith's car)
+AV4W-JABA
+
+// Start on The Middle East
+AZ4W-JABA
+
+// Start on Pacific Rim
+A34W-JABA
+
+// Start on The Amazon
+A74W-JABA
+
+// Start on Wembley Stadium
+BB4W-JABA
+
+// Start on the ending
+BF4W-JABA

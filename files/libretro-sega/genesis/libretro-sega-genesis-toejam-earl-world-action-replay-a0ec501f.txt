@@ -1,0 +1,8 @@
+// Infinite Lives In Most Circumstances
+00BCB0:6002
+
+// Begins ToeJam With A Total of 99 Bucks
+00BB98:0063
+
+// Begins Earl With A Total of 99 Bucks
+00BBBC:0063

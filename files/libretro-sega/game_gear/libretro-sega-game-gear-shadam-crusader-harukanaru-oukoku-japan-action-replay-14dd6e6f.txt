@@ -1,0 +1,8 @@
+// Gain 255~511+ Experience Points (In Battle)
+00DC-80FF
+
+// Gain 511+ Dinars (In Battle)
+00DC-82FF
+
+// Infinite Dinar (Money)
+00DB-79FF

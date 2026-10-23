@@ -1,0 +1,77 @@
+// Infinite Time
+008-3BD-E6E
+
+// Each Ring Worth 2
+022-1EC-E6E
+
+// Each Ring Worth 4
+042-1EC-E6E
+
+// Each Ring Worth 6
+062-1EC-E6E
+
+// Each Ring Worth 8
+082-1EC-E6E
+
+// Each Ring Worth 10
+0A2-1EC-E6E
+
+// Never Lose Rings
+3A9-DCB-2A2
+
+// Start With Some Rings Most Of The Time
+22A-91D-2A2
+
+// Sonic Starts With 1 Life
+016-93C-E66
+
+// Sonic Starts With 9 Lives
+096-93C-E66
+
+// Sonic Starts With 50 Lives
+506-93C-E66
+
+// Sonic Starts With 99 Lives
+996-93C-E66
+
+// Sonic Continues With 1 Life
+014-23E-E66
+
+// Sonic Continues With 9 Lives
+094-23E-E66
+
+// Sonic Continues With 50 Lives
+504-23E-E66
+
+// Sonic Continues With 99 Lives
+994-23E-E66
+
+// Tails Starts With 1 Life
+016-99C-F7E
+
+// Tails Starts With 9 Lives
+096-99C-F7E
+
+// Tails Starts With 50 Lives
+506-99C-F7E
+
+// Tails Starts With 99 Lives
+996-99C-F7E
+
+// Tails Continues With 1 Life
+014-28E-F7E
+
+// Tails Continues With 9 Lives
+094-28E-F7E
+
+// Tails Continues With 50 Lives
+504-28E-F7E
+
+// Tails Continues With 99 Lives
+994-28E-F7E
+
+// Infinite Lives
+3A6-24E-2A2
+
+// Infinite Lives
+00D2-9B99

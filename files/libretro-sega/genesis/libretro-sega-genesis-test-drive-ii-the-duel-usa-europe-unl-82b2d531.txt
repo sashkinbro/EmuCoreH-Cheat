@@ -1,0 +1,14 @@
+// Infinite Time (Seconds)
+FFE31E:0000
+
+// Drive At A Decent Speed
+FFE33E:00FF
+
+// Infinite Lives
+FFE306:0009
+
+// Infinite Time
+A44T-AA3Y
+
+// Infinite Lives
+AJRA-AA28

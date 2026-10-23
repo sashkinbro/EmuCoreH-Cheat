@@ -1,0 +1,8 @@
+// Infinite Time
+FFB980:00CD
+
+// Team 1 Score Modifier (P1)
+FFB79C:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FFB79E:0000

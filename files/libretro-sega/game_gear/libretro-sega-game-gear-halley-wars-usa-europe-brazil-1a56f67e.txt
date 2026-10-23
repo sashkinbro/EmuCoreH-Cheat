@@ -1,0 +1,68 @@
+// Infinite lives
+00F-F2E-19E
+
+// Keep power-ups after dying
+00F-E1E-19E
+
+// Start with 1 life
+014-43F-E66
+
+// Start with 5 lives
+054-43F-E66
+
+// Start with 7 lives
+074-43F-E66
+
+// Collect 1 gun power-up and get max
+3EF-5DF-082
+04F-5EF-C43
+00F-5FF-E69
+
+// Collect 1 thrust and get max manuverability
+3EF-72F-082
+03F-73F-C4F
+00F-74F-E69
+
+// Collect 1 Gun Power-Up &amp; Get Max
+00F-5FF-E69
+04F-5EF-C43
+3EF-5DF-082
+
+// Collect 1 Thrust For Maximum Speed
+00F-74F-E69
+03F-73F-C4F
+3EF-72F-082
+
+// Invulnerability
+00C0-6501
+
+// Access Collision Setting In Cheat Menu
+08B-1EB-F76
+07B-16B-F72
+
+// Always Access Cheat Menu
+119-7DB-A2A
+
+// Invulnerability
+C9E-ECF-E69
+
+// Earth No Damage
+009-96C-2AB
+
+// Auto-Fire
+001-21D-C49
+
+// Infinite Credits
+00C0-990A
+
+// Infinite Credits
+3A5-34F-2A2
+
+// Go to Extra Options Menu
+00C0-6411
+
+// Enable Invincibility Cheat
+00C0-6501
+
+// Disable Invincibility Cheat
+00C0-6500

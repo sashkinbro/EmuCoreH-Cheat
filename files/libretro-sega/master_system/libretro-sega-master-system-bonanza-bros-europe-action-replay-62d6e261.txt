@@ -1,0 +1,14 @@
+// Infinite Lives
+00C4-E10A
+
+// Infinite Time - One's Digit
+00C5-8509
+
+// Infinite Time - Ten's Digit
+00C5-8609
+
+// Infinite Time - Hundred's Digit
+00C5-8709
+
+// Infinite Continues (Credits)
+00C4-E209

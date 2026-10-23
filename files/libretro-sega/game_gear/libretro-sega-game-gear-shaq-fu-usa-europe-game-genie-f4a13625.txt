@@ -1,0 +1,109 @@
+// Infinite Time
+7E6-C0F-3BE
+7E6-CEF-3BE
+
+// Start With 10 Seconds
+01A-2AD-F7E
+
+// Start With 90 Seconds
+09A-2AD-F7E
+
+// Start With 150 Seconds
+0FA-2AD-F7E
+
+// Start With Very Little Energy
+019-FED-2A2
+019-FFD-2A2
+01A-B4D-2A2
+
+// Start With 1/4 Energy
+0D9-FED-2A2
+0D9-FFD-2A2
+0DA-B4D-2A2
+
+// Start With 1/2 Energy
+199-FED-2A2
+199-FFD-2A2
+19A-B4D-2A2
+
+// Start With 3/4 Energy
+229-FED-2A2
+229-FFD-2A2
+22A-B4D-2A2
+
+// Start With MEGA Energy
+FF9-FED-2A2
+FF9-FFD-2A2
+FFA-B4D-2A2
+
+// Roundhouse Kick Does Nothing
+007-F5B-F72
+
+// Roundhouse Kick Does Very Little Damage
+017-F5B-F72
+
+// Roundhouse Kick Does More Damage
+1A7-F5B-F72
+
+// Roundhouse Kick Kills
+407-F5B-F72
+
+// Jumping Punch Does Nothing
+007-D1B-F7A
+
+// Jumping Punch Does Very Little Damage
+017-D1B-F7A
+
+// Jumping Punch Does More Damage
+1A7-D1B-F7A
+
+// Jumping Punch Kills
+407-D1B-F7A
+
+// Flaming Roundhouse Does Nothing
+008-21B-D5A
+
+// Flaming Roundhouse Does Very Little Damage
+018-21B-D5A
+
+// Flaming Roundhouse Does More Damage
+1A8-21B-D5A
+
+// Flaming Roundhouse Kills
+408-21B-D5A
+
+// Straight Kick Does Nothing
+007-81B-F7A
+
+// Straight Kick Does Very Little Damage
+017-81B-F7A
+
+// Straight Kick Does More Damage
+1A7-81B-F7A
+
+// Straight Kick Kills
+407-81B-F7A
+
+// Roundhouse Sweep Does Nothing
+007-F9B-F7A
+
+// Roundhouse Sweep Does Very Little Damage
+017-F9B-F7A
+
+// Roundhouse Sweep Does More Damage
+1A7-F9B-F7A
+
+// Roundhouse Sweep Kills
+407-F9B-F7A
+
+// Standing Punch Does Nothing
+007-71B-F7A
+
+// Standing Punch Does Very Little Damage
+017-71B-F7A
+
+// Standing Punch Does More Damage
+1A7-71B-F7A
+
+// Standing Punch Kills
+407-71B-F7A

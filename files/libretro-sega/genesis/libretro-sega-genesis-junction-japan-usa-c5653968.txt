@@ -1,0 +1,35 @@
+// Unlock stages 51 to 60 in the Configuration menu
+HRCT-BJ3E
+
+// Can choose up to 20 stock in the Configuration menu
+CWCT-AAB8
+
+// Infinite Stock (Balls)
+ATTT-AA9R
+
+// Infinite Slow Down
+RERT-A6TA
+
+// Infinite Time
+REWA-A6VY
+
+// Infinite Time
+FFCCA2:01C2
+
+// Start with 100 Slowdown
+NTDA-AAA8
+
+// Start With 200 Slowdown
+3ADA-AAA8
+
+// Start With 300 Slowdown
+FTDA-ACA8
+
+// Start With 400 Slowdown
+WADA-ACA8
+
+// Start With 500 Slowdown
+8TDA-ACA8
+
+// Start With 999 Slowdown
+66DA-AGA8

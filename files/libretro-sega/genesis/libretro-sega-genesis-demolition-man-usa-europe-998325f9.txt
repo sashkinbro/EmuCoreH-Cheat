@@ -1,0 +1,112 @@
+// Infinite Lives
+FF054A:0063
+
+// Infinite Health
+AKMB-YA6Y
+
+// Invincible To Ice Grenades
+AKMB-YA5L
+
+// Invincible To Electric Rays In Monorail
+P7JB-YAC8
+
+// Advance One Level When You Loose A Life
+AKHB-YA7T
+
+// Infinite Lives
+AFHB-YAFW
+
+// Start With 59 Lives In Calm Difficulty
+HRSB-WAB8
+
+// Start With 79 Lives In Calm Difficulty
+K8SB-WAB8
+
+// Start With 99 Lives In Calm Difficulty
+NRSB-WAB8
+
+// Start With 59 Lives In Crazed Difficulty
+HRSB-WACA
+
+// Start With 79 Lives In Crazed Difficulty
+K8SB-WACA
+
+// Start With 99 Lives In Crazed Difficulty
+NRSB-WACA
+
+// Start With 59 Lives In Total Demolition Difficulty
+HRSB-WACC
+
+// Start With 79 Lives In Total Demolition Difficulty
+K8SB-WACC
+
+// Start With 99 Lives In Total Demolition Difficulty
+NRSB-WACC
+
+// Allways Have 99 Lives
+9VJV-9GGY
+NPJV-8AG0
+97JV-8AG2
+KPJV-8LG4
+
+// Infinite Grenades When You Throw Them Standing
+AK1B-0A64
+
+// Infinite Grenades When You Throw Them Crouching
+ALFV-0A78
+
+// Infinite Grenades When You Throw Them From A Stair
+AK2V-0A8R
+
+// Infinite Grenades When You Throw Them From A Cable
+AK1V-0A9T
+
+// Infinite Grenades In Level 2 Museum And In Level 4 Library
+ALLV-0A9L
+
+// Infinite Magnum And Shotgun
+AKPB-YA46
+
+// Jump Higher
+AD6V-XAKG
+
+// Jump Much Higher
+AD6V-WAKG
+
+// Jump Much More Higher
+AD6V-XABG
+
+// No Damage From Long Falls
+MW3T-CA72
+ACST-DAEW
+
+// Invincible To Fire, Spikes, etc
+DCWT-CA94
+
+// Infinite Lives (Don't Use With Below Code)
+SFHB-ZEZT
+
+// Infinite Lives And Level Skip If You Die (Don't Use With Above Code)
+AVHB-YA7T
+
+// Almost Infinite Energy
+7PDB-ZCP2
+7PHB-ZCPG
+
+// Infinite Lives
+FF054A:0005
+
+// Infinite Grenades
+FF8442:0009
+
+// Infinite Energy
+FF83A0:006F
+
+// Infinite Magnum
+FF8444:0032
+
+// Enable Level Select In Options
+RG9V-W6Y0
+
+// Infinite Continue
+AL4B-WA2R

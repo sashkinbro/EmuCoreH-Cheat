@@ -1,0 +1,33 @@
+// Infinite Lives
+FF05C2:0009
+
+// Infinite Shields
+FF05C4:0009
+
+// Infinite Credits (Continues)
+FF04CA:0009
+
+// Invincibility
+RYWT-A6VA
+
+// Infinite P
+AT8T-AA88
+
+// Infinite Shield
+AJ9T-AA6J
+
+// Infinite Item
+AVNT-AA8J
+
+// Infinite Credit
+AJ6T-AA6L
+
+// Invincibility against enemy shots
+L2WA-AA8W
+
+// Invincibility against enemy shots (alt)
+D29T-AA6G
+
+// Always have Speed-Up
+RFAA-A6VE
+RFAA-A6ZC

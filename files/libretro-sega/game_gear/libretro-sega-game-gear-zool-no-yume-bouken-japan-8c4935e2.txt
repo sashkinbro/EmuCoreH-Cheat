@@ -1,0 +1,14 @@
+// Infinite Health
+00CA-9203
+
+// Infinite Lives
+00CA-9109
+
+// Infinite Continues
+00DE-D809
+
+// Infinite Time
+00CA-DF99
+
+// Invulnerability (Blinking)
+00CA-80E6

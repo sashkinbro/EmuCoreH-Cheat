@@ -1,0 +1,39 @@
+// Infinite Lives
+FF9EA8:0009
+
+// Invincibility
+FFBBBC:0000
+
+// Fly
+FFA126:00FF
+
+// Infinite Lives
+ALMT-AA4G
+
+// Invincibility
+A56A-AR4E
+
+// Stage Modifier
+FF9EA4:0001
+
+// 99 Stars
+FF9EAC:0909
+
+// Power Modifier
+FFA132:0001
+
+// Super Blast Autofire
+FFA150:000E
+
+// Boss Never Wins
+FFBBDE:0000
+
+// Regional Lockout Bypass
+A35T-AA6W
+
+// Bosses Never Wins
+AKRA-AA9N
+AJGT-CA9A
+
+// Infinite Use Fly/Toy Key/Clone
+RYBT-C6TG

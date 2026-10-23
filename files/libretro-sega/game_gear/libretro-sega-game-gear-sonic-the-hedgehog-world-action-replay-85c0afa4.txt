@@ -1,0 +1,8 @@
+// Infinite Lives
+00D2-4609
+
+// Infinite Rings
+00D2-AA99
+
+// Low Timer
+00D2-CF00

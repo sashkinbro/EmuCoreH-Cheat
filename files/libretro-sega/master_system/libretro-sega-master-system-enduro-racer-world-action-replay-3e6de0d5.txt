@@ -1,0 +1,14 @@
+// Infinite Time
+00C3-9260
+
+// Infinite Points
+00C3-9A99
+
+// Have No Damage
+00C3-9600
+
+// Timer Doesn't Decrease
+00C3-9100
+
+// Invincible
+00C4-1601

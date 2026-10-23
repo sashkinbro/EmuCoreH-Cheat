@@ -1,0 +1,359 @@
+// Infinite lives
+REGT-A6XY
+
+// No continues
+ABHT-YAG4
+
+// Start with 4 continues
+AVHT-YAG4
+
+// Start with 9 continues
+BFHT-YAG4
+
+// Each round lasts about 10 seconds
+CEFT-CADR
+
+// Each round lasts about 20 seconds
+ETFT-CADR
+
+// Each round lasts about 30 seconds
+G2FT-CADR
+
+// Each round lasts about 1 minute
+PYFT-CADR
+
+// Each round lasts about 2 minutes
+5JFT-CADR
+
+// Each round lasts about 3 minutes
+KAFT-CCDR
+
+// Infinite time to complete a round
+BAEA-CA3T
+
+// Everyone is about 2x stronger
+AKDT-AAD0
+
+// Everyone is about 3x stronger
+APDT-AAD0
+
+// Everyone is about 4x stronger
+AVDT-AAD0
+
+// Everyone is about 5x stronger
+AZDT-AAD0
+
+// Begging does not improve health
+AMHA-AA5R
+
+// Begging can improve health 2x normal amount
+PDHA-BJXR
+
+// Begging can improve health 3x normal amount
+PDHA-BNXR
+
+// Begging can improve health 5x normal amount
+PDHA-BYXR
+
+// Player 1 can select any character in the game
+CBNA-CABA
+
+// Player 2 can select any character in the game
+CBNA-CABJ
+
+// Start on Match 2
+AFHT-CAA8
+
+// Start on Match 3
+AKHT-CAA8
+
+// Start on Match 4
+APHT-CAA8
+
+// Start on Match 5
+AZHT-CAA8
+
+// Start on Match 6
+A3HT-CAA8
+
+// Start on Match 7
+A7HT-CAA8
+
+// Start on Match 8
+BFHT-CAA8
+
+// Start on Match 9
+BKHT-CAA8
+
+// Start on Match 10
+BPHT-CAA8
+
+// Start on Match 11
+BZHT-CAA8
+
+// Start on Match 12
+B3HT-CAA8
+
+// Start on Match 13
+CBHT-CAA8
+
+// Kronk starts with almost no health
+AFJV-0AGG
+
+// Kronk starts with 33% health
+JPJV-0AGG
+
+// Kronk starts with 67% health
+TZJV-0AGG
+
+// Kronk starts with 200% health
+WBJV-0CGG
+
+// Kronk starts with 300% health
+MBJV-0EGG
+
+// Boomer starts with almost no health
+AGFB-GADR
+
+// Boomer starts with 33% health
+JRFB-GADR
+
+// Boomer starts with 67% health
+T0FB-GADR
+
+// Boomer starts with 200% health
+WCFB-GCDR
+
+// Boomer starts with 300% health
+MCFB-GEDR
+
+// Bruiser starts with almost no health
+AF4V-JAAY
+
+// Bruiser starts with 33% health
+JP4V-JAAY
+
+// Bruiser starts with 67% health
+TZ4V-JAAY
+
+// Bruiser starts with 200% health
+WB4V-JCAY
+
+// Bruiser starts with 300% health
+MB4V-JEAY
+
+// Turbo starts with almost no health
+AFNB-NABJ
+
+// Turbo starts with 33% health
+JPNB-NABJ
+
+// Turbo starts with 67% health
+TZNB-NABJ
+
+// Turbo starts with 200% health
+WBNB-NCBJ
+
+// Turbo starts with 300% health
+MBNB-NEBJ
+
+// Tsunami starts with almost no health
+AFHV-YAD2
+
+// Tsunami starts with 33% health
+JPHV-YAD2
+
+// Tsunami starts with 67% health
+TZHV-YAD2
+
+// Tsunami starts with 200% health
+WBHV-YCD2
+
+// Tsunami starts with 300% health
+MBHV-YED2
+
+// Yoko starts with almost no health
+AF2V-LAH6
+
+// Yoko starts with 33% health
+JP2V-LAH6
+
+// Yoko starts with 67% health
+TZ2V-LAH6
+
+// Yoko starts with 200% health
+WB2V-LCH6
+
+// Yoko starts with 300% health
+MB2V-LEH6
+
+// Divine starts with almost no health
+AFRB-RADG
+
+// Divine starts with 33% health
+JPRB-RADG
+
+// Divine starts with 67% health
+TZRB-RADG
+
+// Divine starts with 200% health
+WBRB-RCDG
+
+// Divine starts with 300% health
+MBRB-REDG
+
+// Crusher starts with almost no health
+AFYB-2AB2
+
+// Crusher starts with 33% health
+JPYB-2AB2
+
+// Crusher starts with 67% health
+TZYB-2AB2
+
+// Crusher starts with 200% health
+WBYB-2CB2
+
+// Crusher starts with 300% health
+MBYB-2EB2
+
+// Guggler starts with almost no health
+AH6V-WADT
+
+// Guggler starts with 33% health
+JS6V-WADT
+
+// Guggler starts with 67% health
+T16V-WADT
+
+// Guggler starts with 200% health
+WD6V-WCDT
+
+// Guggler starts with 300% health
+MD6V-WEDT
+
+// Bounder starts with almost no health
+AFPB-TAET
+
+// Bounder starts with 33% health
+JPPB-TAET
+
+// Bounder starts with 67% health
+TZPB-TAET
+
+// Bounder starts with 200% health
+WBPB-TCET
+
+// Bounder starts with 300% health
+MBPB-TEET
+
+// T-Wrecks starts with almost no health
+AFXB-WAGT
+
+// T-Wrecks starts with 33% health
+JPXB-WAGT
+
+// T-Wrecks starts with 67% health
+TZXB-WAGT
+
+// T-Wrecks starts with 200% health
+WBXB-WCGT
+
+// T-Wrecks starts with 300% health
+MBXB-WEGT
+
+// El Ballz starts with almost no health
+AEVV-WABT
+
+// El Ballz starts with 33% health
+JNVV-WABT
+
+// El Ballz starts with 67% health
+TYVV-WABT
+
+// El Ballz starts with 200% health
+WAVV-WCBT
+
+// El Ballz starts with 300% health
+MAVV-WEBT
+
+// Byte Viper starts with almost no health
+AE3B-6ACY
+
+// Byte Viper starts with 33% health
+JN3B-6ACY
+
+// Byte Viper starts with 67% health
+TY3B-6ACY
+
+// Byte Viper starts with 200% health
+WA3B-6CCY
+
+// Byte Viper starts with 300% health
+MA3B-6ECY
+
+// Lamprey starts with almost no health
+AH3B-TAGN
+
+// Lamprey starts with 33% health
+JS3B-TAGN
+
+// Lamprey starts with 67% health
+T13B-TAGN
+
+// Lamprey starts with 200% health
+WD3B-TCGN
+
+// Lamprey starts with 300% health
+MD3B-TEGN
+
+// Spike starts with almost no health
+AGYB-WACE
+
+// Spike starts with 33% health
+JRYB-WACE
+
+// Spike starts with 67% health
+T0YB-WACE
+
+// Spike starts with 200% health
+WCYB-WCCE
+
+// Spike starts with 300% health
+MCYB-WECE
+
+// 1st Jester starts with almost no health
+AE4V-4AEY
+
+// 1st Jester starts with 33% health
+JN4V-4AEY
+
+// 1st Jester starts with 67% health
+TY4V-4AEY
+
+// 1st Jester starts with 200% health
+WA4V-4CEY
+
+// 1st Jester starts with 300% health
+MA4V-4EEY
+
+// 2nd Jester starts with almost no health
+AEAA-CAFE
+
+// 2nd Jester starts with 33% health
+JNAA-CAFE
+
+// 2nd Jester starts with 67% health
+TYAA-CAFE
+
+// 2nd Jester starts with 200% health
+WAAA-CCFE
+
+// 2nd Jester starts with 300% health
+MAAA-CEFE
+
+// Infinite Energy
+FF0780:00C8
+
+// No Health P2
+FF0CBA:0000

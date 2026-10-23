@@ -1,0 +1,49 @@
+// Infinite Time
+FF0C98:0034
+
+// Infinite Lives
+FF088A:0009
+
+// Infinite Starting Weapon
+FF0A40:0063
+
+// Invincibility
+RYPA-A6Z8
+
+// Infinite Items
+RELT-A6ZT
+RELT-A6VL
+
+// Infinite Time
+AJMA-AA5R
+
+// Infinite Keys
+RE8A-A6Y2
+
+// Infinite Continue Time
+AKJT-AA2R
+
+// Freeze Fix
+AAPT-AN6W
+AACA-AN3G
+
+// Infinite Energy
+ATPT-AA7C
+
+// Infinite Time
+ATMA-AA5R
+
+// Infinite Lives
+ATFA-AA68
+
+// Infinite Weapons
+AJRT-AA5N
+
+// Infinite Flowers
+RELA-A60N
+
+// Infinite Spell Books
+RELT-A6VL
+
+// Infinite Clouds
+RELT-A6ZT

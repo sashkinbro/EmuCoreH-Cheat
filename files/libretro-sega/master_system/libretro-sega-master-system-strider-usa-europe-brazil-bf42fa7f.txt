@@ -1,0 +1,33 @@
+// Invulnerability
+00D4-8939
+
+// Invulnerability
+C91-99A-2A2
+
+// Infinite Time
+C97-27C-2A2
+
+// Invincibility
+C95-A3A-19E
+
+// Hit Anywhere
+3A7-73A-C41
+182-EEA-4CA
+142-EFA-B36
+005-EE9-C49
+005-E89-E69
+
+// Infinite Lives
+00D4-8509
+
+// Infinite Hits
+00D4-8704
+
+// Infinite Time (One's Digit)
+00D2-6509
+
+// Infinite Time (Ten's Digit)
+00D2-6609
+
+// Infinite Lives
+005-ABA-19E

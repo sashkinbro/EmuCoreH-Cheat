@@ -1,0 +1,29 @@
+// Infinite Lives
+00C0-0F03
+
+// Infinite Honey
+00C0-0E09
+
+// Have 10 Flowers
+00C0-BE0A
+
+// Infinite Lives
+3A5-E0D-2A2
+
+// Infinite Honey
+3A8-42F-2A2
+
+// Infinite Time
+3A8-8ED-2A2
+
+// Start with ?? Lives, instead of 2
+03B-38D-E62
+
+// Start with ?? Honey, instead of 5
+06B-33D-F7E
+
+// Infinite Time
+00C0-1901
+
+// Freeze Timer
+00C0-1A09

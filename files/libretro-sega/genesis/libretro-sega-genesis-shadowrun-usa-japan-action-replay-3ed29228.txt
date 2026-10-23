@@ -1,0 +1,23 @@
+// Infinite Mental Health (First Character Only)
+FF019C:0A00
+
+// Infinite Essence (First Character Only)
+FF017E:0700
+
+// Always Have At Least $1,000,000
+FFFBFE:0010
+
+// Cheat Menu/Debugger Is Always Available
+FFF100:00FF
+
+// Infinite Ammo
+FF014E:1E14
+
+// Max Cyberdeck Memory
+FFFBC0:270F
+
+// Max Cyberdeck Storage
+FFFBC2:270F
+
+// Max Cyberdeck Load Speed
+FFFBC4:7803

@@ -1,0 +1,41 @@
+// Invulnerability
+00D3-A1FF
+
+// Invulnerability (Blinking)
+00A-67C-91A
+
+// Infinite Flying
+3AA-2C6-6E2
+
+// Hit Anywhere
+185-AE7-08A
+
+// Infinite Rings
+00D2-F709
+
+// FAKE Rings Modifier
+00D5-2600
+
+// Don't Blink From Taking Damage
+18A-66C-4CA
+
+// Infinite Rings
+009-37C-E6E
+009-4AC-E6E
+
+// Walk Thru Enemies
+C39-24C-E61
+
+// Invulnerable To Most Attacks/Enemies
+C39-06C-E61
+
+// Infinite Flight
+00D3-B0FF
+
+// Enable Level Select on Map
+00D0-2CFF
+
+// Have all Items and Chaos Emeralds
+00D0-30FF
+00D0-31FF
+00D0-32FF

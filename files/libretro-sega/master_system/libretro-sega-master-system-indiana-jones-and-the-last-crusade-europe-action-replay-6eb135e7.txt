@@ -1,0 +1,26 @@
+// Infinite Lives
+00C9-8709
+
+// Infinite Time - Ten's Digit
+00CB-B909
+
+// Infinite Time - One's Digit
+00CB-A909
+
+// Infinite Whips
+00C9-7309
+
+// FAKE Infinite Time - Ten's Digit
+00CB-A309
+
+// FAKE Infinite Time - One's Digit
+00CB-BA09
+
+// FAKE Infinite Whips
+00CB-AF09
+
+// FAKE Infinite Health
+00C9-C13E
+
+// Infinite Credits (Continues)
+00C9-C002

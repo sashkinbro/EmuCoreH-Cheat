@@ -1,0 +1,11 @@
+// Infinite Lives For The Red Player
+00539E:6068
+
+// Infinite Lives For The Blue Player
+00542A:606C
+
+// Five Minutes Per Level
+0104BE:0005
+
+// Infinite Time
+0106D0:4A28

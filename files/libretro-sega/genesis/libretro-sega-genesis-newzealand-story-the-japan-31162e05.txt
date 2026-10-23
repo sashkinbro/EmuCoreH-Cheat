@@ -1,0 +1,96 @@
+// Infinite Lives
+AKLA-AA6L
+ABLA-AA6R
+
+// Stop Enemies
+AVKA-AN6N
+
+// Invincibility
+CLBA-AR68
+CVKA-AN60
+
+// Start A New Game With 9 Lives
+BFJA-AAET
+
+// Start A New Game With 20 Lives
+CVJA-AAET
+
+// Start A New Game With 99 Lives
+NPJA-AAET
+
+// Infinite Lives
+FF8002:0009
+
+// Invincible (Flashing)
+FF8008:0026
+
+// Can Shoot Through Walls
+R04T-A61R
+
+// Can Walk through Walls
+ELCT-AA6A
+
+// Jump Higher
+NCCA-B96T
+
+// Jump Much Higher
+DWCA-B96T
+
+// High Moon Jump With Slow Descent
+JCDA-BJVT
+
+// Much Higher Moon Jump With Slow Descent
+JCDA-BEVT
+
+// Don't Fall When You Walk Off Any Ledge (Walk On Air)
+C4BT-AA92
+
+// Invincibility
+BLEA-AA4G
+
+// 1 Shot Kill Bosses
+PC8T-AEXL
+
+// Your Hover Platform Is Nnvincible (Except Against Spikes)
+RGEA-A6XA
+
+// Your Hover Platform Is Protected When Landing On Horizontal Spikes
+AL1T-AA3L
+
+// Invincibility (Flashing)
+AKKA-AA62
+
+// 1 Hit Invincibility
+FF8008:0010
+
+// Invincibility Enabled
+FF9498:00FF
+
+// Invincibility Disabled
+FF9498:0001
+
+// Infinite Continues
+FF8004:0009
+
+// Infinite Time
+FF8006:38FF
+
+// Infinite Time Underwater
+FF9438:0026
+
+// Invincibility (Disable Hit Detection)
+R0EA-A6VJ
+R08T-A6V8
+R0EA-A6TL
+
+// Freeze Time Power Meter Oxygen Underwater
+FF9438:0026
+
+// Infinite Continues
+AKLT-AA46
+
+// Infinite Time
+AKLT-AA5R
+
+// Infinite Time Underwater
+AWYT-AA9E

@@ -1,0 +1,97 @@
+// Skip Levels
+AKHA-LA7Y
+
+// Double Velocity
+BBHA-LA7Y
+
+// Infinite Lives
+AJEA-NA3C
+
+// Infinite Energy
+AM7A-LA3R
+
+// Infinite AMMO
+ATFA-AA84
+
+// Infinite Lives In 2P Mode
+AAEA-NAC2
+AAEA-NABE
+
+// Infinite Energy P1
+FF06BE:000E
+
+// Infinite Lives P1
+FF0066:0009
+
+// Infinite Gun P1
+FF0054:03E7
+
+// Infinite Energy P2
+FF076C:000E
+
+// Infinite Lives P2
+FF008C:0009
+
+// Infinite Gun P2
+FF007A:03E7
+
+// Enable Invincibility Cheat - Both Players
+AD7A-LA2R
+
+// Enable Level Select after Character Select Screen
+M3TA-LA42
+
+// Infinite Continues
+AV4A-LA78
+
+// Enable Level Select after Character Select Screen
+FF009E:0112
+FF00A0:070F
+FF00A2:0E01
+FF00A4:1408
+
+// Infinite Continues
+FF0096:0063
+
+// Take Less Damage - Both Players
+HX7A-MEBG
+AH7A-LABJ
+
+// Start with 200 Gun Ammo, instead of 100 - Both Players
+3CKT-LAB8
+
+// Start with 300 Gun Ammo - Both Players
+FWKT-LCB8
+
+// Start with 500 Gun Ammo - Both Players
+8WKT-LCB8
+
+// Start with 999 Gun Ammo - Both Players
+68KT-LGB8
+
+// Start with 5 Lives, instead of 2 - Both Players
+B4KT-LLB6
+
+// Start with 9 Lives - Both Players
+B4KT-LWB6
+
+// Start with 5 Continues, instead of 2
+A13A-LAEN
+
+// Start with 9 Continues
+BH3A-LAEN
+
+// Infinite Ammo - Both Players
+AJFA-AA88
+
+// Gun Ammo Pickups worth 100, instead of 50
+NWJA-NAGA
+
+// Temporary Invincibility after being hit lasts 2x longer
+HTBT-NAA8
+
+// Temporary Invincibility after being hit lasts 3x longer
+MJBT-NAA8
+
+// Temporary Invincibility after being hit lasts 5x longer
+W2BT-NAA8

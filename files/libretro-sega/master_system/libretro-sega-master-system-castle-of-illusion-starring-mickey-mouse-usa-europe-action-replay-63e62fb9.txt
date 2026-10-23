@@ -1,0 +1,26 @@
+// Infinite Lives
+00C0-C809
+
+// Infinite Time (Seconds - Ten's & One's Digits)
+00DC-0099
+
+// Infinite Time (Seconds - Hundred's Digit)
+00DC-0109
+
+// Infinite Health
+00C0-BD03
+
+// Infinite Energy
+00C0-BD03
+
+// Infinite Lives
+00C0-C803
+
+// Invincibility
+00C2-26FF
+
+// Get Hit Once For Invincibility
+00C2-27FF
+
+// Mickey Jumps Higher
+00C2-28FF

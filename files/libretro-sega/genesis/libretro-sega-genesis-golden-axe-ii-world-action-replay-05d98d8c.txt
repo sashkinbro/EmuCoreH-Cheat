@@ -1,0 +1,5 @@
+// Infinite Lives (Use On A Real PAR)
+FF0880:0002
+
+// Always Keep Five Bombs (Use On A Real PAR)
+FF0882:0005

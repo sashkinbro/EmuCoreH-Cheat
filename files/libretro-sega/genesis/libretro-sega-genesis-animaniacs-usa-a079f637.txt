@@ -1,0 +1,88 @@
+// Infinite Lives
+AJNA-AA8J
+
+// Infinite Energy
+AW1T-CA9J
+
+// Infinite Time
+AK1A-CA94
+
+// Invincibility
+AC1T-CN7E
+
+// Infinite Lives
+FFFB70:0003
+
+// Infinite Energy
+FFFB16:003F
+
+// Invincibility
+FFB362:0100
+
+// Infinite Time
+FFFB0E:705E
+
+// Jump in Midair
+HBVA-CTBG
+AVVA-CVBJ
+RFVA-DBKL
+SVVA-DGBR
+8BVA-CVBT
+CVVA-CABW
+
+// Yakko Moon Jump
+FFC016:0080
+
+// Wakko Moon Jump
+FFC096:0080
+
+// Dot Moon Jump
+FFC116:0080
+
+// 99 Stars
+FFFB08:0063
+
+// Infinite Lives
+FFFB70:000A
+
+// Dot Constantly Floats Up
+FFC114:FFFF
+
+// Infinite Time
+FFFB0E:003D
+
+// Walk faster
+ALZT-CABA
+90ZT-D92J
+YCZT-DE3C
+NCZT-C5AL
+
+// Walk much faster
+ALZT-CABA
+90ZT-D92J
+
+// Push crates twice as fast
+93WA-D99J
+AKWA-CAGC
+
+// Pull crates twice as fast
+93WT-D93G
+AKWT-CAC6
+
+// Wacko does his hammer attack much faster when on the ground
+CWRA-CAA8
+RWRA-D7BN
+
+// Dot does her kiss attack much faster when on the ground
+EWWA-CAH2
+
+// Walk off ledges without falling (Walk on Air)
+AWTT-CA5W
+
+// Invincibility
+R01T-C61J
+R08T-C6W6
+R08T-C6ZC
+
+// Password screen music modifier
+AHZT-GAHT

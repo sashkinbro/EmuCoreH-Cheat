@@ -1,0 +1,53 @@
+// Infinite Lives
+00C0-6903
+
+// Infinite Energy And Weapons
+00C1-3E01
+
+// Maximum Hammer Power
+00C0-8805
+
+// Make Donald Float In Mid-Air
+00C1-2112
+
+// Invulnerability
+008-5FC-F77
+
+// Invulnerability
+00C1-3F2C
+
+// Hit Anywhere
+378-8FC-A29
+
+// Invincible (Character Flickers Though)
+00C1-3F01
+
+// Infinite Time
+00C0-8D0F
+
+// Infinite Lives
+B6A-25E-3BE
+
+// Infinite Energy
+005-50E-3BE
+
+// Start with ?? Health Units
+020-D3E-E6E
+
+// Start with ?? Lives, instead of 3
+048-30F-E66
+
+// Infinite Time
+003-39F-3BE
+
+// Freeze Timer
+00C0-8C04
+
+// Enable Round Select and SFX Test
+017-7BF-E6A
+
+// Enable Round Select and SFX Test
+00C0-0802
+
+// Jump Height Modifier
+FB4-24E-199

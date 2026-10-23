@@ -1,0 +1,8 @@
+// Infinite Lives
+00C0-0209
+
+// Infinite Energy
+00C7-0A08
+
+// Infinite Spin
+00C3-097F

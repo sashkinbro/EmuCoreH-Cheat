@@ -1,0 +1,37 @@
+// Infinite Lives
+FFE020:0002
+
+// Infinite Energy
+FFE028:001B
+
+// Invincibility
+RGET-E6YA
+
+// Infinite Lives
+AL5A-EA80
+AMVT-EA64
+
+// Invulnerable
+RGET-E6YA
+
+// The lava doesn't move up.
+ALET-EA38
+
+// Infinite Energy
+ALFA-EA3C
+ALLT-EA88
+
+// Untouchable
+R0LT-E60A
+R0FA-E6TR
+
+// Freeze Time Lava
+ALCT-EA4T
+
+// Infinite Credits
+AMCA-EA4C
+
+// Enabled Cheat Code Level Select In Options
+RHAA-E6VA
+RHBT-E6VL
+RHAA-E6XG

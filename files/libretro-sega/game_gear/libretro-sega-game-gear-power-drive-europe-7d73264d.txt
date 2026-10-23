@@ -1,0 +1,23 @@
+// Start With A Free Mini Cooper S
+1D7-FC5-F7D
+
+// Start With A Free Fiat Cinquecento
+0B7-FC5-F7D
+
+// Start With A Free Clio Williams
+587-FC5-F7D
+
+// Start With A Free Vauxhall Astra GSI
+4C7-FC5-F7D
+
+// Start With A Free Escort RS Cosworth
+197-FC5-F7D
+
+// Start With A Free Celica Turbo 4WD
+4B7-FC5-F7D
+
+// Start With $2,800,000 (Instead of $28,000)
+576-9DD-B33
+
+// Start Game With The Car Of Your Choice
+1D7-FC5-F7D

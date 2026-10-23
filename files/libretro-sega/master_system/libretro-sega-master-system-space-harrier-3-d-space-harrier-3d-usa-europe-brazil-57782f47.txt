@@ -1,0 +1,15 @@
+// 3D Fix
+00DF-FB01
+
+// Infinite Lives
+00C1-3909
+
+// Infinite Lives
+B60-D69-3BE
+
+// Enable 2-D Mode
+C33-3DF-E61
+C32-9FF-E61
+
+// Enable 2-D Mode
+00C0-D501

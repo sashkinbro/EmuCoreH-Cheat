@@ -1,0 +1,33 @@
+// Infinite Specials
+FFF302:0005
+
+// Infinite Health
+FFF30C:003C
+
+// Infinite Ammo
+FFF304:00FF
+
+// Infinite Energy
+AJWA-AA58
+
+// Infinite Special
+AJWA-AA3N
+
+// Infinite Health P1
+FFF30C:0063
+
+// Infinite Special Attacks P1
+FFF302:0009
+
+// Press Button To Activate Special Attack P1 (No Charge Is Required)
+FFF308:0064
+
+// 1 Hit To Kill Boss
+FFF374:0000
+
+// Turn Options Menu into Super Options Menu
+FFF04A:0002
+
+// Enable Super Options
+AJGT-AA3A
+REHT-A610

@@ -1,0 +1,26 @@
+// Infinite Energy
+FFFD46:0003
+
+// Infinite Lives
+FFFD44:0009
+
+// Invincibility
+FFF828:002A
+
+// Infinite Energy
+D65A-AABR
+
+// Infinite Lives
+D63A-AAEC
+
+// Invincibility
+A22A-AN7G
+
+// Have All Magic Powers
+FFFD48:0003
+
+// Map/Level Select is always available in the Option menu
+A47A-AABN
+
+// Jump In Mid Air (Multi-Jumps)
+AA5A-AAFR

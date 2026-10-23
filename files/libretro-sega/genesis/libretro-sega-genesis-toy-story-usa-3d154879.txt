@@ -1,0 +1,96 @@
+// Infinite lives
+BJDA-AA7A
+
+// Invulnerability
+G2YA-AA7G
+
+// Start on level 2
+AEBT-AAGJ
+
+// Start on level 3
+AJBT-AAGJ
+
+// Start on level 4
+ANBT-AAGJ
+
+// Start on level 5
+ATBT-AAGJ
+
+// Start on level 6
+AYBT-AAGJ
+
+// Start on level 7
+A2BT-AAGJ
+
+// Start on level 8
+A6BT-AAGJ
+
+// Start on level 9
+BABT-AAGJ
+
+// Start on level 10
+BEBT-AAGJ
+
+// Start on level 11
+BJBT-AAGJ
+
+// Start on level 12
+BNBT-AAGJ
+
+// Start on level 13
+BTBT-AAGJ
+
+// Start on level 14
+BYBT-AAGJ
+
+// Start on level 15
+B2BT-AAGJ
+
+// Start on level 16
+B6BT-AAGJ
+
+// Start on level 17
+CABT-AAGJ
+
+// Start on level 18
+CEBT-AAGJ
+
+// Start With 5 Lives
+ANBT-AAER
+GTDA-AA88
+
+// Start With 7 Lives
+AYBT-AAER
+GTDA-AA88
+
+// Start With 9 Lives
+A6BT-AAER
+GTDA-AA88
+
+// Infinite Yellow Stars (Hits)
+FF04A4:0020
+
+// Infinite Hats (Lives)
+FF04A0:0009
+
+// Invulnerability (Walk Thru Enemies)
+AAYA-AR7A
+
+// Skip Levels In the Pause Press A
+REWA-A6WR
+
+// Untouchable
+RYYA-A60E
+
+// Infinite Health (Stars)
+A2YA-AA80
+ATYA-AA8E
+
+// Options screen music / sound effects / DAC/PCM samples modifier
+AHPT-CAEN
+
+// Play unused song at options screen
+BXPT-CAEN
+
+// Select 6th additional life hat at options menu
+A50T-CNA2

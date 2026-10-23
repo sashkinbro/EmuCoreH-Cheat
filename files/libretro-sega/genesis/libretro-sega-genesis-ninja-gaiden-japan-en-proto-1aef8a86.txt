@@ -1,0 +1,53 @@
+// Infinite Energy
+ALMT-AA56
+
+// Infinite Lives
+ALEA-AA6W
+
+// Infinite Time
+ALWT-AA4C
+
+// Invincibility
+ACMA-AR78
+
+// Hit Anywhere
+AWMA-AA6W
+AWMA-AA7N
+ALNA-AA5J
+RGNA-A6XT
+ACMA-AR78
+
+// Infinite Life
+HCAT-BEZL
+
+// Infinite Lives
+HCAT-BEYW
+
+// Infinite Time (Second Digit)
+FFC208:0009
+
+// Infinite Health P1
+FF9054:0015
+
+// Can Hit From Anywhere With Kick Attack P1
+FFB500:0009
+
+// Level Modifier (00-11)
+FFC020:0000
+
+// Ninja Runs Funny
+FF905C:0003
+
+// Infinite Lives P1
+FFC280:0005
+
+// Infinite Energy Special Attack
+ALHA-AA6Y
+ALJA-AA8R
+ALHT-AA52
+
+// Freeze Time Continue
+ALWT-AA8J
+
+// Infinite Continue
+ALDA-AA9L

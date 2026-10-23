@@ -1,0 +1,26 @@
+// Infinite Lives
+ATWA-AA2T
+
+// Infinite A
+AW2A-AA9L
+
+// Invincibility (Disable Hit Detection)
+R02A-A60L
+RYJA-C6XN
+RYJT-C6YC
+
+// Infinite Stars
+AXDA-AA58
+
+// Freeze Time
+AT8A-AA6A
+
+// Infinite Attempts
+AVPA-EA7L
+
+// Enable Level Select and other installation in pause, press and hold A + C until you see a choice of stages and other installation
+AJ4A-AA92
+AJZT-AA5G
+
+// Regional Lockout Bypass (USA and Japanese Systems)
+AABT-AA3G

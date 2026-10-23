@@ -1,0 +1,23 @@
+// Infinite Lives
+00C1-3303
+
+// Ghost Stay Blue Until Eaten
+00C1-7FFF
+
+// Ghost Stay Blue Until Eaten
+005-F16-4C6
+
+// Infinite Lives
+3A8-966-2A2
+
+// Start with ?? lives
+045-546-E66
+
+// Invincibility
+3E8-826-4CA
+
+// Invincibility
+008-836-F7E
+
+// Invincibility
+00C1-4701

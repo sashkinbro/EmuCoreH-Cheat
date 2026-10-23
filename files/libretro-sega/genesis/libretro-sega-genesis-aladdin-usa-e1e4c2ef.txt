@@ -1,0 +1,294 @@
+// Start with 1 life
+GEAB-0AC0
+
+// Start with 7 lives
+G6AB-0AC0
+
+// Start with 9 lives
+HEAB-0AC0
+
+// Infinite lives
+RGJB-Y6Z8
+
+// Infinite continues
+ATFB-0A26
+
+// Infinite Energy
+ATCB-0A24
+
+// Start with 1 health unit instead of 8
+AGXB-YAE2
+
+// Start with 2 health units instead of 8
+ALXB-YAE2
+
+// Start with 4 health units instead of 8
+AWXB-YAE2
+
+// Start with 12 health units instead of 8
+BWXB-YAE2
+
+// Start with 16 health units instead of 8
+CCXB-YAE2
+
+// Start with 32 health units instead of 8
+ECXB-YAE2
+
+// Genie hearts do not increase health
+D51V-YA32
+
+// Genie hearts restore health to maximum
+CM1V-YA32
+
+// Infinite apples
+ATBV-0A5L
+
+// Start with 0 apples
+GCXB-ZAM8
+
+// Start with 5 apples
+G0XB-ZAM8
+
+// Start with 20 apples
+GCXB-ZEM8
+
+// Start with 50 apples
+GCXB-ZLM8
+
+// Start with 99 apples
+HGXB-ZWM8
+
+// Each apple found worth 0 apples
+ATBV-0A4A
+
+// Each apple found worth 10 apples
+6ABV-094E
+
+// The apple thief won't steal your apples
+BMYV-YA6G
+
+// Start with 5 gems
+G0XB-ZAMG
+
+// Start with 10 gems
+GCXB-ZCMG
+
+// Start with 20 gems
+GCXB-ZEMG
+
+// Start with 50 gems
+GCXB-ZLMG
+
+// Start with 99 gems
+HGXB-ZWMG
+
+// Each gem found worth 0 gems
+ATBV-0A68
+
+// Each gem found worth 10 gems
+6JBV-097C
+
+// Each genie token found worth 0 genie tokens
+AX4B-YA82
+
+// Each genie token found worth 2 genie tokens
+HH4B-ZJ02
+
+// Each genie token found worth 4 genie tokens
+HH4B-ZT02
+
+// Each genie token found worth 8 genie tokens
+HH4B-ZA02
+
+// Genie tokens never decrease in genie bonus round
+ATNV-0A68
+
+// 'Lose!' does not count in genie bonus round
+ATPB-0A6W
+
+// Start at Sultan's Dungeon
+AWWB-YACN
+W4WB-YAWE
+
+// Start at Cave of Wonders
+A0WB-YACN
+XLWB-YAWE
+
+// Start at Abu in the Cave
+A4WB-YACN
+X4WB-YAWE
+
+// Start at The Escape
+A8WB-YACN
+YLWB-YAWE
+
+// Start at Rug Ride
+BCWB-YACN
+Y4WB-YAWE
+
+// Start at Inside the Lamp
+BGWB-YACN
+ZLWB-YAWE
+
+// Start at Sultan's Palace
+BLWB-YACN
+Z4WB-YAWE
+
+// Start at Jafar's Quarters
+BWWB-YACN
+0LWB-YAWE
+
+// Start at Jafar's Palace
+BRWB-YACN
+04WB-YAWE
+
+// Invincibility
+ADWB-YR98
+
+// Infinite Lives
+FF7E3C:3300
+
+// Infinite Energy
+FFEFFA:0808
+
+// Infinite Apples
+FFEFE0:3130
+
+// Invincibility
+FFF0F2:0200
+1ABB60:6606
+
+// Super Jump
+FFF0BE:0000
+
+// Complete Level
+FFF0E8:00FF
+
+// Throwing An Apple Uses All Apples
+9TBV-1GMA
+RYBV-06XJ
+
+// Tries Are Free At Peddler's Stall
+GD9B-ZALJ
+CM9B-YA5E
+
+// Tries Are 1 Gem At Peddler's Stall
+GH9B-ZALJ
+B59B-YA5E
+
+// Tries Are 3 Gems At Peddler's Stall
+GS9B-ZALJ
+A59B-YA5E
+
+// Wishes Are Free At Peddler's Stall
+GD9B-ZAPC
+E59B-YA7W
+
+// Wishes Are 1 Gem At Peddler's Stall
+GH9B-ZAPC
+EM9B-YA7W
+
+// Wishes Are 3 Gems At Peddler's Stall
+GS9B-ZAPC
+DM9B-YA7W
+
+// Wishes Are 5 Gems At Peddler's Stall
+G19B-ZAPC
+CM9B-YA7W
+
+// Wishes Are 7 Gems At Peddler's Stall
+G99B-ZAPC
+BM9B-YA7W
+
+// Infinite Health
+FFEFFA:0003
+
+// Set Infinite Lives (9)
+FF7E3C:0039
+
+// Set Infinite Apples (20)
+FFEFE0:0032
+
+// Set Infinite Gems (20)
+FFEFE2:0032
+
+// Infinite Genie Bonus Icons
+FFF002:0009
+
+// Invincibility
+FFF0F2:0080
+
+// Stage Select
+FF7E26:0001
+
+// Enable Cheat Mode (Invincibility)
+FF7E20:00FF
+
+// Enable Freezability Mode
+FF7E24:00FF
+
+// Enable Map View Mode
+FF7272:00FF
+
+// Switch F/X On For Levitate Jump
+FF7E5A:0080
+
+// Hyper Mode (Sky)
+FFF09E:0000
+
+// Disable Death
+FFF0E6:0000
+
+// Level Skip (Abu Version)
+FFF0E8:0020
+
+// Character Modifier
+FFF172:00BE
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Jump higher
+D4RB-YAC6
+
+// Jump much higher
+CLRB-YAC6
+
+// Access the Debug menu by pressing A in the Option menu
+D2GB-0A5C
+
+// Skip to the next level by pausing the game and pressing A
+ABAT-B93L
+
+// Infinite Controllable Jump
+ACMV-YACL
+
+// Enable Debug Infinite Health
+FF7E20:00FF
+
+// Disable Debug Infinite Health
+FF7E20:0000
+
+// Invincibility
+ADWV-YA26
+
+// Blink 2x longer after being hit
+LACB-0ABC
+
+// Blink 3x longer after being hit
+SACB-0ABC
+
+// High Jump with slower descent
+FCRB-YAC6
+NCRB-YABL
+
+// Super Jump with slower descent
+DWRB-YAC6
+NCRB-YABL
+
+// Moon Jump with slower descent
+CLRB-YAC6
+NCRB-YABL

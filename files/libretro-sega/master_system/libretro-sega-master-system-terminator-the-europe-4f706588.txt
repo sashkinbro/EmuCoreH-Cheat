@@ -1,0 +1,8 @@
+// Invincibility
+C9C-40C-2A2
+
+// Infinite Health (137%)
+00CC-1689
+
+// Infinite Energy
+3AC-40C-2A2

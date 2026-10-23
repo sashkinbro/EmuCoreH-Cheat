@@ -1,0 +1,30 @@
+// Infinite Health
+00C2-1A04
+
+// Invulnerability
+00C0-CB2F
+
+// X-Position Modifier
+00C2-8B00
+
+// Infinite Hats
+00C2-1E0A
+
+// Jump In Mid-Air
+009-9A7-E6E
+000-336-E6E
+
+// Infinite Hats
+00F-867-3BE
+
+// Infinite Health
+001-F3B-3BE
+
+// Invulnerability
+C91-66B-E69
+
+// Infinite Lives
+00C2-1905
+
+// Infinite Lives
+00F-097-3BE

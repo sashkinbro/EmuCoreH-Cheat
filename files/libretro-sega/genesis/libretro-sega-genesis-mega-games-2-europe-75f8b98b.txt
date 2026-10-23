@@ -1,0 +1,50 @@
+// Invincibility
+R09V-A602
+
+// Infinite Magic
+RF8B-A6T4
+
+// Max And Infinite Amazon Magic
+ABBB-AWA8
+RF8B-A6T4
+
+// Infinite Shurikens
+ADTV-0ACN
+
+// Infinite Energy
+AKHA-TA48
+
+// Freeze Time
+KTGA-WR7W
+
+// Infinite Energy
+AMTB-0A7E
+
+// Infinite Lives
+AMTV-0A7Y
+
+// Invincibility
+JGZA-VCH8
+
+// Infinite Special
+RFAA-T6T8
+
+// Max And Infinite Dwarf Magic
+ABBB-AJA8
+RF8B-A6T4
+
+// Max And Infinite Fighter Magic
+ABBB-ANA8
+RF8B-A6T4
+
+// Stage Select
+AK8V-AA24
+
+// Start With 16 Of Energy
+8BBB-AAEJ
+
+// Infinite Lives
+BA4A-TN4L
+
+// Invincibility
+AXWV-0N90

@@ -1,0 +1,128 @@
+// Infinite energy
+AKCT-EA24
+
+// Infinite lives
+AVCT-EA4A
+
+// Start wtih 1 life
+AGAT-AAHW
+
+// Start wtih 9 lives
+BGAT-AAHW
+
+// Start with 99 Grenades
+XGBA-AAC4
+
+// Start with 99 High explosive missiles
+XGBA-AADC
+
+// Start with 99 Armor piercing missiles
+XGBA-AACW
+
+// Start with 99 Incediary missiles
+XGBA-AACL
+
+// Start with 99 Richochet missiles
+XGBA-AACC
+
+// Start with 99 Heat seekers
+XGBA-AAB4
+
+// Start with 99 Double whammies
+XGBA-AADL
+
+// Start with 99 Boing bubbles
+XGBA-AADW
+
+// Start with 99 Flares
+XGBA-AAD4
+
+// Most weapon ammo is infinite once you have some
+AAST-EAGL
+
+// Enable Music/SFX menu
+ACGA-AAG4
+94GA-AJVJ
+
+// Infinite Health P1
+FF2B40:0085
+
+// Infinite Lives P1
+FF2B2E:0009
+
+// 'Boomerang Bullets'
+FF3168:0009
+
+// Infinite Futuristic Pipe-Bombs
+FF316A:0009
+
+// Infinite Large Missiles
+FF316C:0063
+
+// Infinite Sleeker Missiles
+FF316E:0063
+
+// Infinite Blue Canister Missiles
+FF3170:0063
+
+// Invincibility (Disable Hit Detection)
+RZGA-E6X6
+RZCA-E610
+RZHA-E6WW
+
+// Infinite Ammo
+AJTA-EA4T
+
+// Freeze Time Flight
+AT9A-EA58
+
+// Start a new game with flight ability.
+HGBA-BEZJ
+
+// Always Have Flight
+AKKA-EA36
+
+// Run Instead Of Walk
+AALA-AA5L
+
+// 1 Shot/Hit/Kill Enemies/Bosses
+AAKT-CAAJ
+
+// Infinite Energy Flight In The Air On Motorbike
+AVHA-EA82
+
+// Walk thru walls
+RZWT-E6TJ
+RZVT-E60E
+
+// Kill enemies and bosses with one hit
+AAKT-CA2N
+
+// Enabled Cheat Code Music/SFX/Level Select
+ACFA-AA8N
+ALGA-AA82
+AL2A-AA2Y
+
+// Invincibility (Disable Hit Detection) - Judge Dredd (USA) (Beta) (Alt 1) Judge Dredd (USA) (Beta)
+RYRA-E6WN
+RYMT-E6ZG
+RYPT-E6XT
+
+// Infinite Energy - Judge Dredd (USA) (Beta) (Alt 1) Judge Dredd (USA) (Beta)
+ATMT-EA86
+ATRT-EA94
+
+// 1Shot Kill Enemies/Bosses - Judge Dredd (USA) (Beta) (Alt 1) Judge Dredd (USA) (Beta)
+FF0A4A:0000
+
+// Enabled Cheat Code Level Select - Judge Dredd (USA) (Beta) (Alt 1) Judge Dredd (USA) (Beta)
+ALMT-AA3R
+
+// Infinite Ammo - Judge Dredd (USA) (Beta) (Alt 1) Judge Dredd (USA) (Beta)
+AM5A-CA86
+
+// Freeze Time Flight - Judge Dredd (USA) (Beta) (Alt 1) Judge Dredd (USA) (Beta)
+ATKA-EA7J
+
+// Infinite Lives - Judge Dredd (USA) (Beta) (Alt 1) Judge Dredd (USA) (Beta)
+ATMT-EA9G

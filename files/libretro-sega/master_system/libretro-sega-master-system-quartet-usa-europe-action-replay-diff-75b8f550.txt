@@ -1,0 +1,8 @@
+// Infinite Lives
+00C0-1603
+
+// Infinite Time (Most Digits)
+00C2-C0FF
+
+// Infinite Time (First Digit - Fourth From Left)
+00C2-C109

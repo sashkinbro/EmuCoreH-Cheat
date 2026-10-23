@@ -1,0 +1,29 @@
+// Invulnerability
+00D9-91FF
+
+// Invulnerability
+C94-94C-E69
+
+// Infinite Lives
+00D9-CD09
+
+// Infinite Health
+00D9-BD80
+
+// No Death
+00D9-7300
+
+// No Death When Health Reaches 0
+004-B3C-195
+
+// Infinite Health
+3A4-A5C-2A2
+
+// Infinite Lives
+003-2D5-19E
+
+// Stage Select
+00DA-EAFF
+
+// Stage Select
+FF6-1CF-E6A

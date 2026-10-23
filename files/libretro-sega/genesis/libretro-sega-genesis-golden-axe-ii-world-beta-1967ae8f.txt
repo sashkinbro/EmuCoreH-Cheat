@@ -1,0 +1,28 @@
+// Infinite Energy Player 1
+FF0840:0003
+
+// Infinite Lives Player 1
+FF0882:0003
+
+// Infinite Magic Player 1
+FF0884:0008
+
+// Enemies Don't Attack Player 1
+FF088A:0002
+
+// Infinite Lives Player 2
+FF0926:0003
+
+// Infinite Energy Player 2
+FF08E4:0003
+
+// Infinite Magic Player 2
+FF0928:0008
+
+// Enemies Don't Attack Player 2
+FF092E:0002
+
+// Invincibility
+RYNT-A6XY
+RYPT-A6WA
+RZDT-A61Y

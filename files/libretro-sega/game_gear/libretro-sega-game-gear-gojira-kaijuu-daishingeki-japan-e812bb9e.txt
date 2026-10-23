@@ -1,0 +1,18 @@
+// Extra Options Unlocked
+00D2-4001
+
+// Have Infinite Players (In Fighting Scenes)
+00D7-2209
+
+// Have Infinite Movements
+00C4-5E09
+
+// custom remaining battle times
+00D1-0764
+
+// walk thourgh anything in 7 step [note]
+00C4-EC05
+00C4-5E07
+
+// Test Options Shown
+001-0D7-D56

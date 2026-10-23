@@ -1,0 +1,53 @@
+// Infinite Time In Missions That Use A Timer
+PB1A-BE0Y
+
+// Your Main Ship Will Take No Damage From Enemy Hits
+AJYT-CA4G
+
+// All of Your Extra Ships That You Use For Missions and mining (Crab, Darwin, Speeder, etc) will have protection from most damage (falling rocks, enemies, etc).
+AKJA-GA38
+
+// Start A New Game With $9000
+FA5T-CGNY
+
+// Start A New Game With $50,000
+LA5T-CHYY
+
+// The Darwin Aqualung Only Costs $1
+AFVA-AAFN
+
+// The Sea Crab Only Costs $1
+AFVA-AAFY
+
+// The Type IV Torpedo Only Costs $1
+AFVA-AAF8
+
+// Infinite Missiles
+FF0A8E:00FF
+
+// Infinite Mines
+FF0A96:00FF
+
+// Start with 99 of everything, and refill at anytime
+RHTT-G6ZY
+
+// Your ship has infinite health (overhead veiw only)
+JDDT-AAH0
+LHDT-B112
+
+// None of your mining ships will die from enemy fire (mining missions only)
+CDRT-AAE4
+LDRT-B1Y6
+
+// Infinite All Weapons A
+AKSA-EA4R
+
+// Infinite All Weapons B
+AKSA-EA7C
+
+// Infinite Energy
+AJXT-CA26
+
+// Invincibility (Disable Hit Detection)
+RYYA-C6YR
+RYXT-C6T8

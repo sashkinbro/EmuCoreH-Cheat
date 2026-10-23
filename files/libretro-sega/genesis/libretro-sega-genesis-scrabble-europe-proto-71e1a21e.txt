@@ -1,0 +1,2 @@
+// Max Points Allotted To Every Word
+FF6A88:00FF

@@ -1,0 +1,20 @@
+// Level Select [Replace ? To Play Different Levels]
+00C0-1700
+
+// Invincibility Missiles (1/3)
+C91-09D-19D
+
+// Invincibility Missiles (2/3)
+180-ADC-4CA
+
+// Invincibility Missiles (3/3)
+C91-24C-19D
+
+// Aircraft Invincibility
+C9B-56D-91D
+
+// Infinite Lives
+00C0-1809
+
+// Infinite Lives
+00B-C3D-3BE

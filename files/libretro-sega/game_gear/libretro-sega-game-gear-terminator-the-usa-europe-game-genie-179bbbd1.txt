@@ -1,0 +1,14 @@
+// Invincibility
+3AD-87C-2A2
+
+// Start With About 75% Health
+4B7-72E-7FB
+
+// Start With About 50% Health
+327-72E-7FB
+
+// Start With About 25% Health
+197-72E-7FB
+
+// Infinite Time
+002-A7A-19E

@@ -1,0 +1,8 @@
+// Kill Boss In One Hit
+FF00D0:0001
+
+// Infinite Lives
+FF00BE:0099
+
+// Banana Modifier
+FF00B2:0063

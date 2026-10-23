@@ -1,0 +1,17 @@
+// Invincibility (You also kill enemies on contact)
+RY4T-A6W6
+
+// Infinite Lives
+BKJT-AA64
+
+// Enable Counter
+AKLT-AA5C
+
+// Enable Inverts The Color
+RFXT-A6ZA
+
+// Freeze Time Continue
+AVKT-AA4E
+
+// Infinite Credit
+AVKT-AA7R

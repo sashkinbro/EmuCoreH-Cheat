@@ -1,0 +1,62 @@
+// Instantly Beat Each Level
+00D7-2C00
+
+// 1 Hit Until Scratchy Dead
+00D7-2C01
+
+// Infinite Health
+00D6-E964
+
+// Invulnerability
+00D6-E8FF
+
+// Invulnerability
+005-52C-191
+
+// Start With 4 Lives And 4 Continues
+002-76F-B30
+
+// Start With 1 Life
+012-72F-F7A
+
+// Start With 7 Lives
+072-72F-F7A
+
+// Start With 9 Lives
+092-72F-F7A
+
+// Start With 15 Lives
+0F2-72F-F7A
+
+// Start With Very Little Energy On Your First Life
+3EE-3D5-B31
+01E-3E5-F7E
+
+// Infinite energy
+3AA-CAB-2A2
+
+// Almost Invincible
+3E9-14E-4CA
+3E5-54C-4CA
+
+// Infinite lives
+3A2-E2B-2A2
+
+// Infinite Health (Itchy)
+00D6-E999
+
+// Invulnerable To Lava
+C94-32B-E69
+
+// Invulnerable To Scratchy
+C3B-F5B-E61
+
+// Invulnerable To Other Animals
+C93-7BC-E69
+
+// Instantly Beat Stage
+384-36F-E6B
+044-37F-E66
+
+// Start On Stage 2
+11E-395-D56

@@ -1,0 +1,34 @@
+// Have Flaming Shurikens
+FFE00C:0001
+
+// Enemies Frozen ((Jitsu of Mijin)
+FFE008:0009
+
+// Super Jump (Jitsu of Fushin)
+FFE00A:0001
+
+// Infinite Shurikens
+FFE13E:03E7
+
+// Infinite Health
+FFE13A:0008
+
+// Infinite Magic
+AL3A-AA6A
+
+// Untouchable
+RZBT-A61Y
+RZCA-A6Z6
+RZTT-A6WC
+R1AA-A6XJ
+RY5T-A6TC
+R1MA-A6WW
+RYDT-A60A
+RYFA-A61A
+RZ1A-A6Z2
+RZMA-A6ZA
+RZMT-A6TG
+RZ3T-A614
+
+// Pause the game to refill your health
+HLET-AD62

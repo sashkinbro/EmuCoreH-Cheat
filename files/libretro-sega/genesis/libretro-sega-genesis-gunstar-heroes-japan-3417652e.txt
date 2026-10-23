@@ -1,0 +1,19 @@
+// Regional Lockout Bypass
+AJCA-AA62
+
+// Invincibility (Disable Hit Detection)
+R04A-A61R
+R03A-A6XN
+RYKA-C6VY
+RYKA-C6ZR
+
+// Infinite Life
+AL4T-AA4W
+ATLT-CA9J
+ATKA-CA3T
+
+// Keep Second Slot Weapon After The Death
+AM0A-AA6W
+
+// Invincibility - Both Players (Blinking)
+AM5A-AA7T

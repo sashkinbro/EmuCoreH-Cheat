@@ -1,0 +1,89 @@
+// Always &quot;Zone&quot; Mode
+FFC53C:0008
+
+// You Will Go To The Next Level Even If You Don't Score Enough Points. See note.
+A35T-AA3R
+
+// Cue Ball Will Move Vertically After 1st Shot (Holding Start Will Cause The Cue Ball To Move Differently; Pressing Start Repeatedily Will Cause The Other Balls To Move In A Weird Way.
+XPNA-ACFR
+
+// Cue Ball Goes Backwards With Most Shots &amp; Off The Table (In Order To Avoid A Backwards Shot, Hold The B Button &amp; Press Up On The Control Pad. You Still Won't Aim Exactly Where You Intend For The Ball To Go. Also, Other Balls Will Likely Go Off The Table. If A Ball Hits The Edge Of The Table, It Will Move Sharply Toward A Hole. The Same Applies To The Cue Ball.
+XBNA-ARDE
+
+// No After Stage Bonus / No Extra Lives For Making Bonus Shot
+FNJT-ACMR
+
+// Balls Pocketed Are Worth No Points Instead Of 100 Points
+HAJT-APZ0
+
+// Balls Pocketed Are Worth 200 Points Instead Of 100 Points
+DAJT-ABZW
+
+// Balls Don't Stop Moving
+PBNA-BSBN
+
+// Object Balls Temporarily Disappear When You Press B
+MDYT-CBME
+
+// Get 1 Extra Life When You Make The Bonus Shot
+XCAT-CBV0
+
+// Causes The Bonus Star To Stay Once It Appears
+SHWT-CV2G
+
+// Stay On Stage 1 Even If You Get 3000 Points
+XLAT-CB14
+
+// Duplicate Balls Pocketed On After Stage Bonus Screen
+AYJT-AVPJ
+
+// Cue Balls Don't Appear To Fly Upward When Performing A Jump Shot ,Masse 3
+HKMT-AGBN
+
+// Balls Slowly Drift Toward The Top Of The Screen After Performing A Jump Shot ,Masse 3
+ABNT-AGBN
+
+// Can't advance past the 1st stage
+XLAT-CB14
+
+// Infinite Shots (1 Player Game Only)
+HF6A-BEVR
+
+// Infinite Shots P1
+FFC094:0008
+
+// Can Make More Powerful Shots (Power meter goes up higher)
+JCKT-CAB2
+
+// Stage 1 (Los Angeles) only has 2 balls
+AEAA-JGAA
+
+// Stage 2 (Las Vegas) only has 2 balls
+AEAA-JGBN
+
+// Only Have To Knock In Half As Many Balls To Finish The Stage
+HE2A-BJW2
+
+// Only Have To Knock 1/4th As many Balls To Finish The Stage
+HE2A-BTW2
+
+// 3 in 1 code. You'll Start Each Stage With 6000 Points, Each Shot Will Be Worth 3000 Points Even If You Miss, And You'll Also Have Infinite Shots
+HV6A-B2CW
+D36A-AACY
+RF6A-A6W0
+
+// Las Vegas bonus shot is MUCH easier (straight in)
+AAAA-J09N
+
+// San Francisco bonus shot is MUCH easier (straight in)
+AAAA-JHS2
+
+// San Francisco Challenge Shot is MUCH easier. Just hit the blue ball straight in.
+AABA-JW60
+
+// New York Challenge Shot is MUCH easier (straight in)
+AABT-J2V8
+AEBT-JEB4
+
+// Atlantic City Challenge Shot is MUCH easier (just hit the yellow ball in)
+AEBA-JEAY

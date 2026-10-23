@@ -1,0 +1,54 @@
+// Invincibility
+00C5-AA04
+
+// Infinite Invincibility Time
+00E-40E-E6E
+
+// Infinite Lives
+4D9-49E-19E
+
+// Enable World Select
+3C4-2FE-7F4
+
+// Infinite Lives
+00C0-2E09
+
+// Enable World Select on Title Screen
+00D1-CF01
+
+// Start with ?? Lives, instead of 3
+043-9AE-E66
+
+// Infinite Time (Water doesn't rise)
+2A1-E7E-6E2
+
+// Infinite Time (Water doesn't rise)
+00C5-9BA4
+
+// Fix bug that can cause the game to crash when viewing the good or bad ending
+E13-348-7FD
+
+// Continue with ?? Lives
+041-B38-E66
+
+// Invincibility
+18D-9AE-6EA
+
+// Start with all Small Diamonds
+7F3-8EE-E6A
+
+// Have all Small Diamonds
+00C0-457F
+
+// Have all Big Diamonds
+00C1-587F
+
+// World Modifier
+00C1-5601
+
+// Level Modifier
+00C1-5701
+
+// Have all Items (invincible) (after dying or in the menu)
+00C5-BA6F
+00C5-BB6F

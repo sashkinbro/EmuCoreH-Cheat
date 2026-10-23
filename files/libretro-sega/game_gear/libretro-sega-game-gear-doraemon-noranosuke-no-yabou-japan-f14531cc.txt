@@ -1,0 +1,20 @@
+// Have Weapon Code
+00C0-6100
+
+// Infinite Lives
+00C0-5B09
+
+// Infinite Lives
+009-E7B-E69
+
+// Level Select
+00C0-8601
+
+// Level Select
+BF0-86B-088
+
+// Free Movement Mode
+C38-0CB-E61
+
+// Jump Higher
+F7B-EBB-085

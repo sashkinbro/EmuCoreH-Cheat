@@ -1,0 +1,11 @@
+// Infinite Lives - Both Players
+006-E2E-3BE
+
+// Infinite Time
+00C-F5E-4C6
+
+// Infinite Lives - Both Players
+00C0-4764
+
+// Infinite Time
+00C0-7000

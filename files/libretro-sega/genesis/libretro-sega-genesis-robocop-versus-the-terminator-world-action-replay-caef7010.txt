@@ -1,0 +1,17 @@
+// Enable Weapon Select
+FFF1B4:00FF
+
+// Disable Weapon Select
+FFF1B4:0000
+
+// Allow Jump Down From Platforms
+FFF1BA:00FF
+
+// Disable Jump Down From Platforms
+FFF1BA:0000
+
+// Enable Alternate/Original Graphics
+FFF1B6:00FF
+
+// Disable Alternate/Original Graphics
+FFF1B6:0000

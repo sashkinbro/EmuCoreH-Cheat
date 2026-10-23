@@ -1,0 +1,128 @@
+// Start with 0 grenades
+ABEA-EADY
+
+// Start with 99 grenades
+NPEA-EADY
+
+// Infinite grenades
+AAEA-EAFG
+
+// Start with 3 lives
+AKEA-EADW
+
+// Start with 99 lives
+NPEA-EADW
+
+// Infinite lives
+AA5A-EAH6
+
+// Start with 99 continues
+NPEA-EADT
+
+// Infinite continues
+AA5T-EAD2
+
+// Start with 99 alien grenades
+NPEA-EAD0
+
+// Infinite alien grenades
+AAEA-EAE2
+
+// Protects against most enemies
+C27A-CA6W
+BT7T-CA3E
+
+// Don't lose energy when you fall off screen
+AA5T-EAC4
+
+// Protection against floor spikes
+ACHT-CAHL
+
+// Pick up five mission objectives for each 1 you get
+A0NA-AAHC
+
+// Extra life worth nothing
+ACBT-CAHE
+
+// Extra life worth 2
+ALBT-CAHE
+
+// Energy icon does nothing
+ACBT-CAGR
+
+// Energy icon restores energy to full
+JCBT-CGGR
+
+// Machine gun does not heat up
+ADXT-CAGA
+
+// Machine gun heats up quicker
+LDXT-CAGA
+
+// Machine gun cools off instantly
+RHXT-C61A
+
+// Invincible after you get hit
+AC0T-AAG0
+
+// Infinite Energy
+AT7A-CA6W
+
+// Infinite Granades
+A2EA-EA7E
+
+// Weapon Doesn't Heat
+AXXT-CA8N
+
+// Invincibility
+DL0T-AN8W
+
+// Infinite Grenades
+FFC890:0063
+
+// Gun Never Heats Up
+FFFC64:0000
+
+// Turbo Mode
+FFC934:0063
+
+// Level Modifier
+FFFFA4:0000
+
+// Infinite Alien Grenades
+FFC892:000A
+
+// Infinite Energy
+FFFC62:0340
+
+// Boot The Game With Invincibility Difficulty Active
+AN3A-EAHE
+
+// Developer's Infinite Health Cheat Enabled
+AN3A-EAHE
+
+// Infinite Grenades - Stargate (Europe) (Beta)
+A51T-CA6Y
+
+// Infinite Lives - Stargate (Europe) (Beta)
+A21A-EA52
+
+// Infinite Energy - Stargate (Europe) (Beta)
+ATNT-CA9A
+A2PT-CA6Y
+
+// Weapon Does Not Overheat - Stargate (Europe) (Beta)
+AXKA-CA4G
+
+// Infinite Energy - Stargate (Europe) (Beta)
+FFFC40:0340
+
+// Infinite Energy - Stargate (USA) (Sample) (NGen)
+AT7T-CA3E
+AT7A-CA6W
+
+// Infinite Granades - Stargate (USA) (Sample) (NGen)
+A2EA-EA7E
+
+// Weapon Does Not Overheat - Stargate (USA) (Sample) (NGen)
+AXXT-CA8N

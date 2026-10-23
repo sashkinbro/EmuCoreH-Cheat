@@ -1,0 +1,8 @@
+// Infinite Lives
+00C0-6C03
+
+// Infinite Weapons
+C92-06E-6E2
+
+// Infinite Health
+00C1-3619

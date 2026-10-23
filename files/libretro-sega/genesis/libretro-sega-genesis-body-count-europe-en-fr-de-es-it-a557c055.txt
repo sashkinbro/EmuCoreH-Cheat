@@ -1,0 +1,53 @@
+// Infinite Energy
+ALKT-AA9Y
+
+// Infinite Grenades
+RFHT-A6YR
+
+// Infinite Ammo
+AK6A-AA5A
+
+// Infinite Granades
+FF511A:0005
+
+// Infinite Energy
+FF50F8:0027
+
+// Infinite Ammo
+FF50F6:00FF
+
+// Regional Lockout Bypass Code
+AABT-AC82
+
+// Infinite Health P2
+FF51D6:0028
+
+// Infinite Grenades P2
+FF51F8:0063
+
+// Infinite Ammo P2
+FF51D4:00FF
+
+// Fake No Health Bosses
+FF02FC:0000
+
+// Infinite Credits
+FF044E:0009
+
+// Infinite Hearts P1 - Body Count (Europe) (En,Fr,De,Es,It) (Beta)
+FF50EC:0027
+
+// Infinite Hearts - Body Count (Europe) (En,Fr,De,Es,It) (Beta)
+ALRT-AA8J
+
+// Infinite Grenades - Body Count (Europe) (En,Fr,De,Es,It) (Beta)
+AKHA-AA5J
+
+// Infinite Ammo - Body Count (Europe) (En,Fr,De,Es,It) (Beta)
+ALAT-AA6G
+
+// Infinite Hearts P2 - Body Count (Europe) (En,Fr,De,Es,It) (Beta)
+FF51CA:0027
+
+// Infinite Credits - Body Count (Europe) (En,Fr,De,Es,It) (Beta)
+A4SA-AA8Y

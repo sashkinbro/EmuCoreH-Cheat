@@ -1,0 +1,38 @@
+// Infinite Lives
+00D2-9B09
+
+// Infinite Rings
+00D2-9C99
+
+// Infinite Time
+00D2-C199
+
+// Sonic Can't Jump
+00D5-0380
+
+// Sonic Can't Move
+00D5-0389
+
+// Invincibility
+00D2-9C05
+
+// Better Invincibility
+00D3-B101
+
+// Sonic Runs Backwards
+00D5-0410
+
+// High Jump
+00D5-0C95
+
+// Rocket Jump
+00D5-1830
+
+// No Enemies
+00D7-4000
+
+// New Level
+00D1-60C8
+
+// Infinite Lives
+00D2-9B99

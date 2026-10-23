@@ -1,0 +1,158 @@
+// Infinite Hp
+00C4-8763
+
+// Infinite Mp
+00C4-8963
+
+// Max Ap
+00C4-8F63
+
+// Max Dp
+00C4-9063
+
+// Max Lk
+00C4-9263
+
+// Max Sp
+00C4-9E63
+
+// Infinite Hp
+00C5-0763
+
+// Infinite Mp
+00C5-0963
+
+// Max Ap
+00C5-0F63
+
+// Max Dp
+00C5-1063
+
+// Max Lk
+00C5-1263
+
+// Max Sp
+00C5-1E63
+
+// Infinite Hp
+00C5-2763
+
+// Infinite Mp
+00C5-2963
+
+// Max Ap
+00C5-2F63
+
+// Max Dp
+00C5-3063
+
+// Max Lk
+00C5-3263
+
+// Max Sp
+00C5-3E63
+
+// Infinite Hp
+00C4-E763
+
+// Infinite Hp
+00C4-E963
+
+// Max Ap
+00C4-EF63
+
+// Max Dp
+00C4-F063
+
+// Max Lk
+00C4-F263
+
+// Max Sp
+00C4-FE63
+
+// Infinite Hp
+00C4-C763
+
+// Infinite Mp
+00C4-C963
+
+// Max Ap
+00C4-CF63
+
+// Max Bp
+00C4-D063
+
+// Max Lk
+00C4-D263
+
+// Max Sp
+00C4-DE63
+
+// Infinite Hp
+00C4-A763
+
+// Infinite Mp
+00C4-A963
+
+// Max Ap
+00C4-AF63
+
+// Max Dp
+00C4-B063
+
+// Max Lk
+00C4-B263
+
+// Max Sp
+00C4-BE63
+
+// Iris starts with 50 HP
+96D-335-6EA
+
+// Iris starts with 50 MP
+96D-345-802
+
+// Iris starts with 50 AP
+96D-355-A22
+
+// Iris starts with 50 DP
+96D-365-C42
+
+// Iris starts with 50 LK
+96D-375-C42
+
+// Enables you to change characters around
+010-C0F
+
+// Invincibility
+00C0-0720
+
+// Desired Level (Put Into YY)
+020-C0F
+
+// Unlimited Magic
+00C0-0940
+
+// Enable Sound Test
+00C4-51FF
+
+// Infinite HP - All Characters
+7E1-C6A-3B7
+
+// Infinite MP - In Battle - All Characters
+7E5-29B-3B7
+
+// Infinite MP - Outside Battle - All Characters
+7EF-ABC-3B7
+
+// Inns are Free
+2AA-B88-6E2
+
+// Fortunes are Free
+2AC-EA8-6E2
+
+// Weapons, Armor, and Spells are Free
+2A7-428-6E2
+
+// Walk Anywhere
+3E1-04C-4CA

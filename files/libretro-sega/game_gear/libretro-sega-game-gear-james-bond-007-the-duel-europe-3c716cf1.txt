@@ -1,0 +1,41 @@
+// Infinite Health
+00C1-1304
+
+// Infinite Lives
+00C7-4463
+
+// Invulnerability
+00DE-E2FF
+
+// Invulnerability
+183-CFD-6EA
+
+// Infinite Lives
+00C7-4409
+
+// Infinite Missiles (Ignore Menu Display)
+00D9-B409
+
+// Infinite Grenades
+00C7-5209
+
+// Infinite Missiles
+00C7-5305
+
+// Infinite Missiles
+009-6D8-19E
+
+// Start With 255 Grenades
+FF7-10C-E6E
+
+// Start With 255 Missiles
+FF7-15C-F7E
+
+// Infinite Grenades
+009-7C8-19E
+
+// Infinite Health
+001-85C-19E
+
+// Infinite Lives
+3A3-24C-2A2

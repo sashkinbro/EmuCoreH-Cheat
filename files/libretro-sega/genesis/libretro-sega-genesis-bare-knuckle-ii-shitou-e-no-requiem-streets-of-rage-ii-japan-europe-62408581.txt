@@ -1,0 +1,112 @@
+// Region Bypass
+L3MT-AA7W
+
+// Enable same character in main character select screen
+C3ZT-AA2J
+
+// Enable same character during gameplay character selection screen
+C45A-AA6R
+
+// Can't walk left
+CMAA-BLFC
+
+// Choose Up To 99 Players On The Option Screen
+NM6T-AAGY
+
+// Start On Level 5
+BB9A-BA60
+
+// Invincibility From All Attack
+RZHT-A60L
+RZFT-A6ZW
+
+// Infinite Lives - both players
+AW7T-AA7J
+
+// Apple pick-up restores all health
+PBFA-AAHA
+
+// Cash bag worth 25,000, instead of 1,000
+LBFT-AEAY
+
+// 1-up worth 3 lives, instead of 1
+PKFA-BN0J
+
+// Invincible to Hits - both players
+AW4T-AN2T
+
+// Infinite Health - both players
+9V5T-BGS2
+PB5T-AAH4
+975T-AAH6
+TB5T-A998
+
+// Infinite Continues - both players
+AL7T-AA70
+
+// Infinite Time
+AK5A-AA9T
+
+// Enable Extra Options in Options Menu
+SD8T-BE14
+
+// 6 Enemies instead of 5 on single player
+A5XA-AA4J
+
+// Display number of KO's when pausing (Displayed above player's score)
+C36A-AA42
+C36A-AA6R
+
+// Reduce Hitting Delay
+RFGT-A61W
+
+// Hit Anywhere - Both Players
+AKGA-AA9W
+AKGT-AA54
+AKGT-AA5T
+AKGT-AA7A
+AKGT-AA7L
+AWGT-CA9L
+
+// Invincible Against Hits from Enemies - Both Players
+RZHT-A6Z0
+
+// Invincible Against Hits from Partner and Explosions
+AZGA-AAGT
+ABGA-BD8Y
+
+// Invinciblile Against Shooting Attacks - Both Players
+AZFT-AAFE
+ABFT-BD7J
+
+// Invinciblile Against Thrown Enemies by Partner - Both Players
+AZJT-AACA
+ABJT-BD4E
+
+// Invinciblile Against Partner's Grapple Attacks - Both Players
+AZKA-AAF4
+ABKA-BD78
+
+// Axel's Defensive Special Doesn't Hurt Him if Successful
+AL1A-AA9Y
+
+// Axel's Offensive Special Doesn't Hurt Him
+AL1T-AA8J
+
+// Blaze's Defensive Special Doesn't Hurt Her if Successful
+AL2A-AA46
+
+// Blaze's Offensive Special Doesn't Hurt Her
+AL2T-AA66
+
+// Max's Defensive Special Doesn't Hurt Him if Successful
+AL2T-AA9J
+
+// Max's Offensive Special Doesn't Hurt Him
+AL3A-AA7L
+
+// Skate's Defensive Special Doesn't Hurt Him if Successful
+AL3T-AA2W
+
+// Skate's Offensive Special Doesn't Hurt Him
+AL3T-AA94

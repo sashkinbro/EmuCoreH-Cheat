@@ -1,0 +1,291 @@
+// Disable Reverse Mode
+FFBC6C:0000
+
+// Infinite Health
+FFBF20:0040
+
+// Infinite Lives
+FFBF26:0003
+
+// Infinite Time
+FFBF28:0072
+
+// Infinite Special Attacks
+FFBD0C:0003
+
+// Enable Stage Skip
+FFBD26:0001
+
+// Stage Modifier
+FFBF1E:0000
+
+// Phase Mode
+FFBCF2:001D
+
+// Have Missile Weapon
+FFBD12:0001
+
+// Firing Rate Modifier
+FFBD10:0000
+
+// Start with 2 lives
+AENT-AADL
+
+// Start with 3 lives
+AJNT-AADL
+
+// Start with 6 lives
+AYNT-AADL
+
+// Start with 8 lives
+A6NT-AADL
+
+// Start with 11 lives
+BJNT-AADL
+
+// Start with 20 lives
+DENT-AADL
+
+// Start with 33 lives
+GJNT-AADL
+
+// Start with 64 lives
+NNNT-AADL
+
+// Start with no continues
+AALT-AAD8
+
+// Start with 1 continue
+AELT-AAD8
+
+// Start with 2 continues
+AJLT-AAD8
+
+// Start with 4 continues
+ATLT-AAD8
+
+// Start with 5 continues
+AYLT-AAD8
+
+// Start with 7 continues
+A6LT-AAD8
+
+// Start with 9 continues
+BELT-AAD8
+
+// Start each life with no smart bombs (Except 1st life)
+AAMT-AAEN
+
+// Start each life with 1 smart bomb (Except 1st life)
+AEMT-AAEN
+
+// Start each life with 2 smart bombs (Except 1st life)
+AJMT-AAEN
+
+// Start each life with 4 smart bombs (Except 1st life)
+ATMT-AAEN
+
+// Start each life with homing missile (Except 1st life)
+9AMT-BAZW
+
+// Weapon power-ups always max out weapon level
+1VWT-BCBE
+
+// Weapon levels don't decrease after dying
+BAMT-AA60
+
+// Homing missile isn't lost after dying
+AJMT-AA7W
+
+// Infinite time
+AAST-BJ2J
+
+// Infinite lives
+AAMT-BA44
+
+// Infinite continues
+AANT-BE3N
+
+// Infinite wheel time
+AJST-AA6A
+
+// Infinite smart bombs
+AKET-AA7J
+
+// No energy loss [invulnerability]
+AJTA-AA94
+
+// Always continue on last level played
+ATLT-AA6G
+
+// Start on level 2
+AELT-AAEJ
+9TLT-BCNG
+
+// Start on level 3
+AJLT-AAEJ
+9TLT-BCNG
+
+// Start on level 4
+ANLT-AAEJ
+9TLT-BCNG
+
+// Start on level 5
+ATLT-AAEJ
+9TLT-BCNG
+
+// Start on level 6
+AYLT-AAEJ
+9TLT-BCNG
+
+// Start on level 7
+A2LT-AAEJ
+9TLT-BCNG
+
+// Enable Reverse Mode
+FFBC6C:0004
+
+// Infinite Health
+JAST-AAA4
+
+// Infinite Lives
+CEMT-AADG
+
+// Infinite Bombs
+ABET-AAFJ
+
+// Infinite Time/Stop Time from ticking
+AAST-AAAA
+
+// Semi Phase Mode
+AAWT-AAB6
+
+// Have Missile Sub Weapon
+AE8A-AAAJ
+
+// Enable Stage Skip
+AEMA-AADT
+
+// Auto Fire
+AA8A-AAAE
+
+// Invincible against enemies
+AAWT-AA2N
+
+// Invincible against most shots
+FJXA-AA5E
+
+// Invincible against last level compactors
+EWKA-CA68
+
+// Regional Lockout Bypass
+RZ2T-A6VC
+
+// Invincibility
+BTWA-AN8N
+
+// Multi Jumping
+REZA-A6W8
+
+// Allways Play Secret Level
+RGSA-A6V4
+ACSA-AA4A
+
+// Start On Level 2
+AELT-AAEJ
+9TLT-BCNG
+
+// Start On Level 3
+AJLT-AAEJ
+9TLT-BCNG
+
+// Start On Level 4
+ANLT-AAEJ
+9TLT-BCNG
+
+// Start On Level 5
+ATLT-AAEJ
+9TLT-BCNG
+
+// Start On Level 6
+AYLT-AAEJ
+9TLT-BCNG
+
+// Start On Level 7
+A2LT-AAEJ
+9TLT-BCNG
+
+// Infinite Energy
+FFBF20:0040
+
+// Infinite Time
+FFBF90:0099
+
+// Infinite Lives
+FFBF26:0005
+
+// Invincibility
+FFBCF2:0010
+
+// Walk Thru Walls (Interactive Version)
+RE3A-A60L
+RE3A-A61J
+
+// Anytime You Walk Into A Wall Or Obstacle, You're Teleported To a Different Location On The Screen
+RY3T-A6VG
+
+// Jump higher (fast jump)
+BAYT-AACW
+
+// Jump much higher (fast jump)
+BTYT-AACW
+
+// Jump higher (slow jump)
+AAYT-AASA
+
+// Jump much higher (slow jump)
+AAYT-BJHA
+
+// Slow Moon Descent When Jumping Or Falling
+AAZA-AEE6
+
+// Makes the starting/default weapon (and the multi-shot versions of it) stronger
+CBAA-BA6L
+RFAA-A6YN
+
+// Makes the starting/default weapon (and the multi-shot versions of it) much stronger
+GBAA-BA6L
+RFAA-A6YN
+
+// To Skip To The Next Level, Pause The Game, Press B, Then Unpause
+RK7A-BY46
+777A-ACDW
+
+// For Infinite Energy, Pause The Game, press A, Then Unpause
+TV7A-BY5E
+177A-ACEE
+
+// To Restart At The Beginning of The Level, Pause The Game, Press Right, Then Unpause
+AF7A-ACDY
+
+// Super Slow Moon Descent When Jumping Or Falling
+AAZA-AEE6
+AEZA-AABE
+
+// Moon Jump With Short Float Ability. See notes.
+AAZA-ANE6
+AAZA-AABE
+
+// Moon Jump With Long Float Ability. See notes.
+AAZA-AEE6
+AAZA-AABE
+
+// Invincibility
+RYWT-A6VW
+RZRT-A6ZY
+R02T-A60J
+R1GT-A6W8
+RYWT-A6Z2
+R0AT-C6ZN
+R0KA-C6ZA
+RYXA-A6XG

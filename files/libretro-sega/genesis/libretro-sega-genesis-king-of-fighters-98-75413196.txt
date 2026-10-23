@@ -1,0 +1,14 @@
+// Infinite Energy P1
+FF0212:0050
+
+// Infinite Energy P2
+FF0412:0050
+
+// No Energy P1
+FF0212:0000
+
+// No Energy P2
+FF0412:0000
+
+// Infinite Time
+FF0708:0063

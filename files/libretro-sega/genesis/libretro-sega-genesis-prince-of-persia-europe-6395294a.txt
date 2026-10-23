@@ -1,0 +1,18 @@
+// Start with more energy (new game only).
+A1VA-JAGA
+
+// Start with much more energy (new game only).
+BHVA-JAGA
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Freeze Time
+AKBT-AA3W
+
+// Infinite Health
+ATLA-LA4W
+AXRT-JA2G

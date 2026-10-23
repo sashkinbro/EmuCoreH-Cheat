@@ -1,0 +1,109 @@
+// All player 1 shots worth 1 point
+PZDA-PETC
+
+// All player 1 shots worth 2 points
+PZDA-PJTC
+
+// All player 1 shots worth 3 points
+PZDA-PNTC
+
+// All player 1 shots worth 4 points
+PZDA-PTTC
+
+// All player 1 shots worth 5 points
+PZDA-PYTC
+
+// All player 1 shots worth 6 points
+PZDA-P2TC
+
+// All player 1 shots worth 7 points
+PZDA-P6TC
+
+// All player 1 shots worth 8 points
+PZDA-PATC
+
+// All player 2 shots worth 1 point
+PZDA-PEV6
+
+// All player 2 shots worth 2 points
+PZDA-PJV6
+
+// All player 2 shots worth 3 points
+PZDA-PNV6
+
+// All player 2 shots worth 4 points
+PZDA-PTV6
+
+// All player 2 shots worth 5 points
+PZDA-PYV6
+
+// All player 2 shots worth 6 points
+PZDA-P2V6
+
+// All player 2 shots worth 7 points
+PZDA-P6V6
+
+// All player 2 shots worth 8 points
+PZDA-PAV6
+
+// All 3-point shots worth 5 (both players)
+A0ET-NAFE
+
+// All 3-point shots worth 7 (both players)
+A8ET-NAFE
+
+// All 3-point shots worth 9 (both players)
+BGET-NAFE
+
+// Player 1 starts with 5 points in exhibition game
+9T9T-PGSL
+AY9T-NAHN
+969T-NAHR
+HA9T-NAHT
+
+// Player 1 starts with 10 points in exhibition game
+9T9T-PGSL
+BJ9T-NAHN
+969T-NAHR
+HA9T-NAHT
+
+// Player 1 starts with 15 points in exhibition game
+9T9T-PGSL
+B69T-NAHN
+969T-NAHR
+HA9T-NAHT
+
+// Player 1 starts with 20 points in exhibition game
+9T9T-PGSL
+CT9T-NAHN
+969T-NAHR
+HA9T-NAHT
+
+// Player 2 starts with 5 points in exhibition game
+9T9T-PGSL
+AY9T-NAHN
+969T-NAHR
+
+// Player 2 Starts With 10 Points In Exhibition Game
+9T9T-PGSL
+BJ9T-NAHN
+969T-NAHR
+
+// Player 2 Starts With 15 Points In Exhibition Game
+9T9T-PGSL
+B69T-NAHN
+969T-NAHR
+
+// Player 2 Starts With 20 Points In Exhibition Game
+9T9T-PGSL
+CT9T-NAHN
+969T-NAHR
+
+// Infinite Time
+FF0036:00B3
+
+// Team 1 Score Modifier (P1)
+FF0038:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FF003A:0000

@@ -1,0 +1,47 @@
+// Infinite Zenny
+00CD-50FF
+00CD-51FF
+
+// Always Have Flying Stone
+00CC-8700
+
+// Always Have Life Potion
+00CC-E001
+
+// Always Have Armor
+00CC-D101
+00CC-D205
+
+// Always Have Satellite type
+00CC-9600
+
+// Faster Rate of Fire
+00CC-9200
+00CC-9300
+
+// Invulnerability
+00CC-8D21
+
+// Invulnerability
+009-D1D-3B4
+
+// Infinite Health
+00CC-8C0F
+
+// Infinite Energy
+3AA-9FD-2A2
+
+// Infinite Health
+3A3-4ED-2A2
+
+// Infinite Zenny
+2A4-118-6E2
+
+// Enable Test Mode Invincibility
+00CC-F501
+
+// Disable Test Mode Invincibility
+00CC-F500
+
+// Skip Levels
+00CD-4701

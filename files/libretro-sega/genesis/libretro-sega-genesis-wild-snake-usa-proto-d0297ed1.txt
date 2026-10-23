@@ -1,0 +1,2 @@
+// Snake Pattern Modifier (After 1st Snake)
+FF7538:0000

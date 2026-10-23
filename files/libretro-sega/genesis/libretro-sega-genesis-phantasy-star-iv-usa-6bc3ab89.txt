@@ -1,0 +1,1861 @@
+// Have Infinite/Lots Meseta
+FFF43A:00FF
+
+// 1st Item Slot 1
+FFF410:00BE
+
+// 2nd Item Slot 2
+FFF410:0000
+
+// No Random Attacks
+FFECE4:000A
+
+// Bookoo Exp.
+FFF58A:00FF
+
+// High HP
+FFF58E:03E7
+FFF590:03E7
+
+// High TP
+FFF592:03E7
+FFF594:03E7
+
+// High STR
+FFF598:00FF
+
+// High Mental
+FFF59C:00FF
+
+// High AGI
+FFF59E:00FF
+
+// High DEX
+FFF5A2:00FF
+
+// High Attack
+FFF5A4:03E7
+
+// High DEF
+FFF5A8:03E7
+
+// Bookoo Exp.
+FFF50A:00FF
+
+// High HP
+FFF50E:03E7
+FFF510:03E7
+
+// High TP
+FFF512:03E7
+FFF514:03E7
+
+// High STR
+FFF518:00FF
+
+// High Mental
+FFF51C:00FF
+
+// High AGI
+FFF51E:00FF
+
+// High DEX
+FFF522:00FF
+
+// High Attack
+FFF524:03E7
+
+// High DEF
+FFF528:03E7
+
+// Bookoo Exp.
+FFF60A:00FF
+
+// High HP
+FFF60E:03E7
+FFF610:03E7
+
+// High TP
+FFF612:03E7
+FFF614:03E7
+
+// High STR
+FFF618:00FF
+FFF61C:00FF
+
+// High AGI
+FFF61E:00FF
+
+// High DEX
+FFF622:00FF
+
+// High Attack
+FFF624:03E7
+
+// High DEF
+FFF628:03E7
+
+// Bookoo Exp.
+FFF68A:00FF
+
+// High HP
+FFF68E:03E7
+FFF690:03E7
+
+// High TP
+FFF692:03E7
+FFF694:03E7
+
+// High STR
+FFF698:00FF
+
+// High Mental
+FFF69C:00FF
+
+// High AGI
+FFF69E:00FF
+
+// High DEX
+FFF6A2:00FF
+
+// High Attack
+FFF6A4:03E7
+
+// High DEF
+FFF6A8:03E7
+
+// Bookoo Exp.
+FFF70A:00FF
+
+// High HP
+FFF70E:03E7
+FFF710:03E7
+
+// High TP
+FFF712:03E7
+FFF714:03E7
+
+// High STR
+FFF718:00FF
+
+// High Mental
+FFF71C:00FF
+
+// High AGI
+FFF71E:00FF
+
+// High DEX
+FFF722:00FF
+
+// High Attack
+FFF724:03E7
+
+// High DEF
+FFF728:03E7
+
+// Bookoo Exp.
+FFF78A:00FF
+
+// High HP
+FFF78E:03E7
+FFF790:03E7
+
+// High STR
+FFF798:00FF
+
+// High Mental
+FFF79C:00FF
+
+// High AGI
+FFF79E:00FF
+
+// High DEX
+FFF7A2:00FF
+
+// High Attack
+FFF7A4:03E7
+
+// High DEF
+FFF7A8:03E7
+
+// Bookoo Exp.
+FFF80A:00FF
+
+// High HP
+FFF80E:03E7
+FFF810:03E7
+
+// High TP
+FFF812:03E7
+FFF814:03E7
+
+// High STR
+FFF818:00FF
+
+// High Mental
+FFF81C:00FF
+
+// High AGI
+FFF81E:00FF
+
+// High DEX
+FFF822:00FF
+
+// High Attack
+FFF824:03E7
+
+// High DEF
+FFF828:03E7
+
+// Bookoo Exp.
+FFF88A:00FF
+
+// High HP
+FFF88E:03E7
+FFF890:03E7
+
+// High TP
+FFF892:03E7
+FFF894:03E7
+
+// High STR
+FFF898:00FF
+
+// High Mental
+FFF89C:00FF
+
+// High AGI
+FFF89E:00FF
+
+// High DEX
+FFF8A2:00FF
+
+// High Attack
+FFF8A4:03E7
+
+// High DEF
+FFF8A8:03E7
+
+// Bookoo Exp.
+FFF90A:00FF
+
+// High HP
+FFF90E:03E7
+FFF910:03E7
+
+// High TP
+FFF912:03E7
+FFF914:03E7
+
+// High STR
+FFF918:00FF
+
+// High Mental
+FFF91C:00FF
+
+// High AGI
+FFF91E:00FF
+
+// High DEX
+FFF922:00FF
+
+// High Attack
+FFF924:03E7
+
+// High DEF
+FFF928:03E7
+
+// Bookoo Exp.
+FFF98A:00FF
+
+// High HP
+FFF98E:03E7
+FFF990:03E7
+
+// High TP
+FFF992:03E7
+FFF994:03E7
+
+// High STR
+FFF998:00FF
+
+// High Mental
+FFF99C:00FF
+
+// High AGI
+FFF99E:00FF
+
+// High DEX
+FFF9A2:00FF
+
+// High Attack
+FFF9A4:03E7
+
+// High DEF
+FFF9A8:03E7
+
+// Bookoo Exp.
+FFFA0A:00FF
+
+// High TP
+FFFA12:03E7
+FFFA14:03E7
+
+// High STR
+FFFA18:00FF
+
+// High Mental
+FFFA1C:00FF
+
+// High AGI
+FFFA1E:00FF
+
+// High DEX
+FFFA22:00FF
+
+// High Attack
+FFFA24:03E7
+
+// High DEF
+FFFA28:03E7
+
+// 999 HP
+FF470E:03E7
+
+// Always have 9 of first optn weapon
+FF476A:0009
+
+// Always have 9 of 2nd optn weapon
+FF476C:0009
+
+// 999 damage inflicted
+FF4164:03E7
+
+// Walking through walls (if you're not on the vehicle)
+RFPT-J6YE
+
+// No random encounters
+AB6A-LA4W
+
+// Almost invincible
+TAFA-AJK8
+
+// Start a new game with $50,000 meseta.
+LBCA-JHZY
+
+// Start a new game with $262,644 meseta.
+AVCA-JAFW
+
+// Start a new game with $1000 meseta (instead of only $500)
+7BCA-JGFY
+
+// Start a new game with $10,000 meseta.
+CBCA-JRPY
+
+// Get ten times as much meseta from treasure chests.
+7B0A-NGDW
+
+// Get twice as much meseta from treasure chests.
+3B0A-NADW
+
+// Open treasure chests as many times as you want.
+AWFT-LA54
+
+// Always get items after battle.
+A22T-AA5Y
+
+// Infinite TP during battle
+ALJT-AA6N
+
+// Infinite use of skills during battle
+ALRA-AA4E
+
+// Infinite TP outside of battle
+AJJT-NA4G
+
+// Everyone in your party will level-up to level 99 after one battle.
+BA2A-AA5G
+
+// Everyone in your party will get more experience points after battle.
+RE2A-A6V4
+
+// Everyone in your party will get A LOT more experience points after battle.
+2J2A-AFV4
+
+// Get $50,000 meseta from Hahn (instead of $100)
+LC4A-NHYL
+
+// Money Code
+98NC-Z99E
+
+// Dimate Is Free (Instead of $160 Meseta)
+ACNC-YAH4
+
+// Antidote Is Free (Instead of $10 Meseta)
+ACNW-YABG
+
+// Cure-Paral Is Free (Instead of $120 Meseta)
+ACNW-YAB6
+
+// Telepipe Is Free (Instead of $130 Meseta)
+ACNW-YAD8
+
+// Escapipe Is Free (Instead of $70 Meseta)
+ACNW-YAEY
+
+// Makes Monomate About 3 Times Stronger
+WCNC-ZEGT
+
+// Makes Monomate About 10 Times Stronger!
+8CNC-ZEGT
+8CNC-YJGW
+
+// Makes Monomate Restore At least 260 HP On EVERYONE In Your Party!
+98NC-YLGW
+
+// Makes Monomate Restore At least 500 HP On EVERYONE In Your Party!
+98NC-ZEGT
+98NC-YLGW
+
+// Makes Dimate Work On EVERYONE In Your Party! (Instead Of Just One Member)
+GCNC-YLHJ
+
+// Makes Dimate Work On EVERYONE In Your Party, And Makes It Much Stronger!
+98NC-YLHJ
+
+// Makes Antidote Work On EVERYONE In Your Party (Instead Of Just One Member)
+ACNW-YLAY
+
+// Makes Cure-Paral Work On EVERYONE In Your Party (Instead Of Just One Member)
+ACNW-YLBL
+
+// Can Buy The Guard Mail And Shadowsabr At Weapon Store In Mile
+VGAT-PL7G
+
+// Don't Get Charged In Shops
+AKNT-NA9R
+
+// Everything In Shops Are Free, Even If You Don't Have Enough Money
+AKNT-NA9R
+RFKT-N6WW
+
+// You Don't Have To Have Enough Money To Buy Things In Shops
+RFKT-N6WW
+
+// Chaz Starts A New Game With 100 HP (Instead Of Only 25)
+NWFC-YAGW
+
+// Chaz Starts A New Game With 250 HP (Instead Of Only 25)
+9LFC-YAGW
+
+// Chaz Starts A New Game With 500 HP (Instead Of Only 25)
+8WFC-YCGW
+
+// Chaz Starts A New Game With 50 TP (Instead Of Only 10)
+GLFC-YAGY
+
+// Chaz Starts A New Game With 99 TP (Instead Of Only 10)
+NRFC-YAGY
+
+// Chaz Starts A New Game With 40 Strength (Instead Of Only 8), And 30 Mental (Instead Of Only 6)
+D4FC-YTR0
+
+// Chaz Starts A New Game With 80 Strength (Instead Of Only 8), And 60 Mental (Instead Of Only 6)
+HWFC-ZA00
+
+// Chaz Starts A New Game With 35 Agility (Instead Of Only 7), And 25 Dexterity (Instead Of Only 5)
+DGFC-YGR2
+
+// Chaz Starts A New Game With 70 Agility (Instead Of Only 7), And 50 Dexterity (Instead Of Only 5)
+GLFC-YN02
+
+// Chaz Starts A New Game With The Titanium Sword Equipped (Instead Of The Hunting Knives)
+ACFC-ZEHJ
+
+// Chaz Starts A New Game With The Guard Sword Equipped (Instead Of The Hunting Knives)
+ACFC-Y49J
+
+// Chaz Starts A New Game With The Elsydeon Equipped (Instead Of The Hunting Knives)
+ACFC-ZR9J
+
+// Chaz Starts A New Game With The Titanium Helmet And The Ceramic Armor Equipped (Instead Of The Leather Helmet And The Leather Cloth)
+GGFC-ZWHL
+
+// Chaz Starts A New Game With the Silver Helmet And The Guard Mail Equipped (Instead Of The Leather Helmet And The Leather Cloth)
+R0FC-YW1L
+
+// Lets You Buy The Steel Sword (For $280) At The Tool Shop In Piata
+98AT-NTFE
+
+// Lets You Buy The Psyco Wand (For Free!) Or The Shadow Blade (For $2) At The Weapon Shop In The Town Of Mile
+VGAT-P8PG
+
+// The Res Technique Only Uses 1 TP (Technique Point)
+AGRC-ZEFA
+
+// The GiRes Technique Only Uses 1 TP
+AGRC-ZEFJ
+
+// The NaRes Technique Only Uses 1 TP
+AGRC-ZEFT
+
+// The Sar Technique Only Uses 1 TP
+AGRC-ZEF2
+
+// The GiSar Technique Only Uses 1 TP
+AGRC-ZEGA
+
+// The NaSar Technique Only Uses 1 TP
+AGRC-ZEGJ
+
+// The MEGID Technique Only Uses 1 TP
+AGRC-YCDA
+
+// The Tsu Technique Only Uses 1 TP
+AGRC-YCA2
+
+// The GiThu Technique Only Uses 1 TP
+AGRC-YCBA
+
+// The NaThu Technique Only Uses 1 TP
+AGRC-YCBJ
+
+// The Foi Technique Only Uses 1 TP
+AGPW-YCHJ
+
+// The GiFoi Technique Only Uses 1 TP
+AGPW-YCHT
+
+// The NaFoi Technique Only Uses 1 TP
+AGPW-YCH2
+
+// The Zan Technique Only Uses 1 TP
+AGRC-YCBT
+
+// The GiZan Technique Only Uses 1 TP
+AGRC-YCB2
+
+// The NaZan Technique Only Uses 1 TP
+AGRC-YCCA
+
+// The Rever Technique Only Uses 1 TP
+AGRW-ZLAA
+
+// Makes The Res Technique Stronger!
+LCRC-ZJPC
+
+// Makes The Res Technique MUCH Stronger!
+8CRC-ZJPC
+
+// Makes The Res Technique Stronger, And It Works On EVERYONE In Your Party!! (Instead of Just One)
+JCRC-ZLPC
+
+// Makes The Res Technique MUCH Stronger, And It Works On EVERYONE In Your Party!! (Instead of Just One)
+8CRC-ZLPC
+
+// Makes The GiRes Technique MUCH Stronger!
+8CRC-ZJPL
+
+// Makes The GiRes Technique MUCH Stronger, And It Works On EVERYONE In Your Party!! (Instead of Just One)
+8CRC-ZLPL
+
+// Makes The NaRes Technique Work On Everyone In Your Pyarty! (Instead of Just One Person)
+8CRC-ZLPW
+
+// Makes The Sar Technique MUCH Stronger!
+8CRC-ZLP4
+
+// Makes The GiSar Technique MUCH Stronger!
+8CRC-ZLRC
+
+// Makes The NaSar Technique Stronger
+8CRC-ZLRL
+
+// Makes The Shift Technique Work On ALL Members of Your Party (Instead of Just One)
+ACRC-ZWGW
+
+// Makes The Earth Skill Work On ALL Enemies (Instead of Just One)
+ECSC-ZEA4
+
+// Makes The Crosscut skill MUCH stronger!
+8CRW-ZCBL
+
+// Makes The Crosscut Skill Work Against ALL Enemies! (Instead of Just One enemy.)
+LCRW-ZEBL
+
+// Makes The Crosscut Skill Work Against ALL Enemies (Instead of Just One), and makes it MUCH stronger!
+8CRW-ZEBL
+
+// Makes The Airslash Skill MUCH Stronger!
+8CRW-ZEDC
+
+// Makes The Vortex Skill MUCH Stronger!
+8CRW-ZCCW
+
+// Makes The Vortex Skill Work Against ALL Enemies! (Instead of Just One Enemy)
+GCRW-ZECW
+
+// Makes The Vortex Skill Work Against ALL Enemies (Instead of Just One), and Makes It MUCH Stronger!
+8CRW-ZECW
+
+// Makes The Rayblade Skill Work Against ALL Enemies! (Instead of Just One.)
+0CRW-ZEBW
+
+// Makes The Rayblade Skill Work Against ALL Enemies (Instead of Just One), And Makes It Stronger!
+8CRW-ZEBW
+
+// Makes The Tsu Technique MUCH Stronger!
+8CRC-ZCA4
+
+// Makes The Tsu Technique Work Against ALL Enemies! (Instead of Just One Enemy)
+GCRC-ZEA4
+
+// Makes The Tsu Technique Work Against ALL Enemies  (Instead of Just One), And Makes It MUCH Stronger!
+8CRC-ZEA4
+
+// Makes The GiThu Technique Work Against ALL Enemies! (Instead of Just One Enemy)
+NCRC-ZEBC
+
+// Makes The GiThu Technique Work Against ALL Enemies (Instead of Just One), And Makes It MUCH Stronger!
+8CRC-ZEBC
+
+// Makes The NaThu Technique Work Against ALL Enemies (Instead of Just One), And Makes It MUCH Stronger!
+8CRC-ZEBL
+
+// Makes The Foi Technique MUCH Stronger!
+8CPW-ZCHL
+
+// Makes The Foi Technique Work Against ALL Enemies (Instead of Just One)
+DCPW-ZEHL
+
+// Makes The Foi Technique Work Against ALL Enemies (Instead of Just One), And Makes It MUCH Stronger!
+8CPW-ZEHL
+
+// Makes The GiFoi Technique Work Against ALL Enemies (Instead of Just One)
+KCPW-ZEHW
+
+// Makes The GiFoi Technique Work Against ALL Enemies (Instead of Just One), And Makes It MUCH Stronger!
+8CPW-ZEHW
+
+// Makes The NaFoi Technique Work Against ALL Enemies (Instead of Just One)
+VCPW-ZEH4
+
+// Makes The NaFoi Technique Work Against ALL Enemies (Instead of Just One), And Makes It MUCH Stronger!
+8CPW-ZEH4
+
+// Makes The Zan Technique MUCH Stronger!
+8CRC-ZEBW
+
+// Makes The GiZan Technique MUCH Stronger!
+8CRC-ZEB4
+
+// Makes The NaZan Technique MUCH Stronger!
+8CRC-ZECC
+
+// Get 10,000 Experience Points For Every Xanafalgue You Kill In Battle!
+CANC-TRN2
+
+// Get 65,535 Experience Points When You Kill Xanafalgues In Battle!
+96NC-V962
+
+// Get 10,000 Experience Points For Every Monsterfly You Kill In Battle!
+CAMW-TRJ2
+
+// Get 65,535 Experience Points When You Kill Monsterflies In Battle!
+96MW-V922
+
+// Get 10,000 Experience Points For Every InfantWorm You Kill In Battle!
+CA3W-TRJJ
+
+// Get 65,535 Experience Points When You Kill InfantWorms In Battle!
+963W-V92J
+
+// Get 10,000 Experience Points For Every Zol Slug You Kill In Battle!
+CARW-TRLJ
+
+// Get 65,535 Experience Points When You Kill Zol Slugs In Battle!
+96RW-V94J
+
+// Get 10,000 Experience Points For Every Hungrymole You Kill In Battle!
+CA3C-TRLJ
+
+// Get 65,535 Experience Points When You Kill Hungrymoles In Battle!
+963C-V94J
+
+// Chaz Starts A New Game At Level 7!
+BGFC-YWGT
+
+// Chaz Starts A New Game At Level 18!
+LLFC-YZRT
+
+// Chaz Starts A New Game At Level 27!
+ALFC-YAGR
+
+// 1st Item Slot
+FFF410:00BE
+
+// 2nd Item Slot
+FFF410:0000
+
+// HP
+FFF58E:03E7
+
+// HP
+FFF590:03E7
+
+// TP
+FFF592:03E7
+
+// TP
+FFF594:03E7
+
+// HP
+FFF50E:03E7
+
+// HP
+FFF510:03E7
+
+// TP
+FFF512:03E7
+
+// TP
+FFF514:03E7
+
+// HP
+FFF60E:03E7
+
+// HP
+FFF610:03E7
+
+// TP
+FFF612:03E7
+
+// TP
+FFF614:03E7
+
+// STR
+FFF618:00FF
+
+// STR
+FFF61C:00FF
+
+// HP
+FFF68E:03E7
+
+// HP
+FFF690:03E7
+
+// TP
+FFF692:03E7
+
+// TP
+FFF694:03E7
+
+// HP
+FFF70E:03E7
+
+// HP
+FFF710:03E7
+
+// TP
+FFF712:03E7
+
+// TP
+FFF714:03E7
+
+// HP
+FFF78E:03E7
+
+// HP
+FFF790:03E7
+
+// TP
+FFF792:03E7
+
+// TP
+FFF794:03E7
+
+// HP
+FFF80E:03E7
+
+// HP
+FFF810:03E7
+
+// TP
+FFF812:03E7
+
+// TP
+FFF814:03E7
+
+// HP
+FFF88E:03E7
+
+// HP
+FFF890:03E7
+
+// TP
+FFF892:03E7
+
+// TP
+FFF894:03E7
+
+// HP
+FFF90E:03E7
+
+// HP
+FFF910:03E7
+
+// TP
+FFF912:03E7
+
+// TP
+FFF914:03E7
+
+// HP
+FFF98E:03E7
+
+// HP
+FFF990:03E7
+
+// TP
+FFF992:03E7
+
+// TP
+FFF994:03E7
+
+// HP
+FFFA10:03E7
+
+// TP
+FFFA12:03E7
+
+// TP
+FFFA14:03E7
+
+// Skill Slot 1 Modifier
+FFF5E2:0000
+
+// Skill Slot 2 Modifier
+FFF5E2:0000
+
+// Skill Slot 3 Modifier
+FFF5E4:0000
+
+// Skill Slot 4 Modifier
+FFF5E4:0000
+
+// Skill Slot 5 Modifier
+FFF5E6:0000
+
+// Skill Slot 6 Modifier
+FFF5E6:0000
+
+// Skill Slot 7 Modifier
+FFF5E8:0000
+
+// Skill Slot 8 Modifier
+FFF5E8:0000
+
+// Max Qty Skill Slot 1
+FFF5EA:6363
+
+// Max Qty Skill Slot 2
+FFF5EC:6363
+
+// Max Qty Skill Slot 3
+FFF5EE:6363
+
+// Max Qty Skill Slot 4
+FFF5F0:6363
+
+// Max Qty Skill Slot 5
+FFF5F2:6363
+
+// Max Qty Skill Slot 6
+FFF5F4:6363
+
+// Max Qty Skill Slot 7
+FFF5F6:6363
+
+// Max Qty Skill Slot 8
+FFF5F8:6363
+
+// Skill Slot 1 Modifier
+FFF562:0000
+
+// Skill Slot 2 Modifier
+FFF562:0000
+
+// Skill Slot 3 Modifier
+FFF564:0000
+
+// Skill Slot 4 Modifier
+FFF564:0000
+
+// Skill Slot 5 Modifier
+FFF566:0000
+
+// Skill Slot 6 Modifier
+FFF566:0000
+
+// Skill Slot 7 Modifier
+FFF568:0000
+
+// Skill Slot 8 Modifier
+FFF568:0000
+
+// Max Qty Skill Slot 1
+FFF56A:6363
+
+// Max Qty Skill Slot 2
+FFF56C:6363
+
+// Max Qty Skill Slot 3
+FFF56E:6363
+
+// Max Qty Skill Slot 4
+FFF570:6363
+
+// Max Qty Skill Slot 5
+FFF572:6363
+
+// Max Qty Skill Slot 6
+FFF574:6363
+
+// Max Qty Skill Slot 7
+FFF576:6363
+
+// Max Qty Skill Slot 8
+FFF578:6363
+
+// Skill Slot 1 Modifier
+FFF662:0000
+
+// Skill Slot 2 Modifier
+FFF662:0000
+
+// Skill Slot 3 Modifier
+FFF664:0000
+
+// Skill Slot 4 Modifier
+FFF664:0000
+
+// Skill Slot 5 Modifier
+FFF666:0000
+
+// Skill Slot 6 Modifier
+FFF666:0000
+
+// Skill Slot 7 Modifier
+FFF668:0000
+
+// Skill Slot 8 Modifier
+FFF668:0000
+
+// Max Qty Skill Slot 1
+FFF66A:6363
+
+// Max Qty Skill Slot 2
+FFF66C:6363
+
+// Max Qty Skill Slot 3
+FFF66E:6363
+
+// Max Qty Skill Slot 4
+FFF670:6363
+
+// Max Qty Skill Slot 5
+FFF672:6363
+
+// Max Qty Skill Slot 6
+FFF674:6363
+
+// Max Qty Skill Slot 7
+FFF676:6363
+
+// Max Qty Skill Slot 8
+FFF678:6363
+
+// Skill Slot 1 Modifier
+FFF6E2:0000
+
+// Skill Slot 2 Modifier
+FFF6E2:0000
+
+// Skill Slot 3 Modifier
+FFF6E4:0000
+
+// Skill Slot 4 Modifier
+FFF6E4:0000
+
+// Skill Slot 5 Modifier
+FFF6E6:0000
+
+// Skill Slot 6 Modifier
+FFF6E6:0000
+
+// Skill Slot 7 Modifier
+FFF6E8:0000
+
+// Skill Slot 8 Modifier
+FFF6E8:0000
+
+// Max Qty Skill Slot 1
+FFF6EA:6363
+
+// Max Qty Skill Slot 2
+FFF6EC:6363
+
+// Max Qty Skill Slot 3
+FFF6EE:6363
+
+// Max Qty Skill Slot 4
+FFF6F0:6363
+
+// Max Qty Skill Slot 5
+FFF6F2:6363
+
+// Max Qty Skill Slot 6
+FFF6F4:6363
+
+// Max Qty Skill Slot 7
+FFF6F6:6363
+
+// Max Qty Skill Slot 8
+FFF6F8:6363
+
+// Skill Slot 1 Modifier
+FFF762:0000
+
+// Skill Slot 2 Modifier
+FFF762:0000
+
+// Skill Slot 3 Modifier
+FFF764:0000
+
+// Skill Slot 4 Modifier
+FFF764:0000
+
+// Skill Slot 5 Modifier
+FFF766:0000
+
+// Skill Slot 6 Modifier
+FFF766:0000
+
+// Skill Slot 7 Modifier
+FFF768:0000
+
+// Skill Slot 8 Modifier
+FFF768:0000
+
+// Max Qty Skill Slot 1
+FFF76A:6363
+
+// Max Qty Skill Slot 2
+FFF76C:6363
+
+// Max Qty Skill Slot 3
+FFF76E:6363
+
+// Max Qty Skill Slot 4
+FFF770:6363
+
+// Max Qty Skill Slot 5
+FFF772:6363
+
+// Max Qty Skill Slot 6
+FFF774:6363
+
+// Max Qty Skill Slot 7
+FFF776:6363
+
+// Max Qty Skill Slot 8
+FFF778:6363
+
+// Skill Slot 1 Modifier
+FFF7E2:0000
+
+// Skill Slot 2 Modifier
+FFF7E2:0000
+
+// Skill Slot 3 Modifier
+FFF7E4:0000
+
+// Skill Slot 4 Modifier
+FFF7E4:0000
+
+// Skill Slot 5 Modifier
+FFF7E6:0000
+
+// Skill Slot 6 Modifier
+FFF7E6:0000
+
+// Skill Slot 7 Modifier
+FFF7E8:0000
+
+// Skill Slot 8 Modifier
+FFF7E8:0000
+
+// Max Qty Skill Slot 1
+FFF7EA:6363
+
+// Max Qty Skill Slot 2
+FFF7EC:6363
+
+// Max Qty Skill Slot 3
+FFF7EE:6363
+
+// Max Qty Skill Slot 4
+FFF7F0:6363
+
+// Max Qty Skill Slot 5
+FFF7F2:6363
+
+// Max Qty Skill Slot 6
+FFF7F4:6363
+
+// Max Qty Skill Slot 7
+FFF7F6:6363
+
+// Max Qty Skill Slot 8
+FFF7F8:6363
+
+// Skill Slot 1 Modifier
+FFF862:0000
+
+// Skill Slot 2 Modifier
+FFF862:0000
+
+// Skill Slot 3 Modifier
+FFF864:0000
+
+// Skill Slot 4 Modifier
+FFF864:0000
+
+// Skill Slot 5 Modifier
+FFF866:0000
+
+// Skill Slot 6 Modifier
+FFF866:0000
+
+// Skill Slot 7 Modifier
+FFF868:0000
+
+// Skill Slot 8 Modifier
+FFF868:0000
+
+// Max Qty Skill Slot 1
+FFF86A:6363
+
+// Max Qty Skill Slot 2
+FFF86C:6363
+
+// Max Qty Skill Slot 3
+FFF86E:6363
+
+// Max Qty Skill Slot 4
+FFF870:6363
+
+// Max Qty Skill Slot 5
+FFF872:6363
+
+// Max Qty Skill Slot 6
+FFF874:6363
+
+// Max Qty Skill Slot 7
+FFF876:6363
+
+// Max Qty Skill Slot 8
+FFF878:6363
+
+// Skill Slot 1 Modifier
+FFF8E2:0000
+
+// Skill Slot 2 Modifier
+FFF8E2:0000
+
+// Skill Slot 3 Modifier
+FFF8E4:0000
+
+// Skill Slot 4 Modifier
+FFF8E4:0000
+
+// Skill Slot 5 Modifier
+FFF8E6:0000
+
+// Skill Slot 6 Modifier
+FFF8E6:0000
+
+// Skill Slot 7 Modifier
+FFF8E8:0000
+
+// Skill Slot 8 Modifier
+FFF8E8:0000
+
+// Max Qty Skill Slot 1
+FFF8EA:6363
+
+// Max Qty Skill Slot 2
+FFF8EC:6363
+
+// Max Qty Skill Slot 3
+FFF8EE:6363
+
+// Max Qty Skill Slot 4
+FFF8F0:6363
+
+// Max Qty Skill Slot 5
+FFF8F2:6363
+
+// Max Qty Skill Slot 6
+FFF8F4:6363
+
+// Max Qty Skill Slot 7
+FFF8F6:6363
+
+// Max Qty Skill Slot 8
+FFF8F8:6363
+
+// Skill Slot 1 Modifier
+FFF962:0000
+
+// Skill Slot 2 Modifier
+FFF962:0000
+
+// Skill Slot 3 Modifier
+FFF964:0000
+
+// Skill Slot 4 Modifier
+FFF964:0000
+
+// Skill Slot 5 Modifier
+FFF966:0000
+
+// Skill Slot 6 Modifier
+FFF966:0000
+
+// Skill Slot 7 Modifier
+FFF968:0000
+
+// Skill Slot 8 Modifier
+FFF968:0000
+
+// Max Qty Skill Slot 1
+FFF96A:6363
+
+// Max Qty Skill Slot 2
+FFF96C:6363
+
+// Max Qty Skill Slot 3
+FFF96E:6363
+
+// Max Qty Skill Slot 4
+FFF970:6363
+
+// Max Qty Skill Slot 5
+FFF972:6363
+
+// Max Qty Skill Slot 6
+FFF974:6363
+
+// Max Qty Skill Slot 7
+FFF976:6363
+
+// Max Qty Skill Slot 8
+FFF978:6363
+
+// Skill Slot 1 Modifier
+FFF9E2:0000
+
+// Skill Slot 2 Modifier
+FFF9E2:0000
+
+// Skill Slot 3 Modifier
+FFF9E4:0000
+
+// Skill Slot 4 Modifier
+FFF9E4:0000
+
+// Skill Slot 5 Modifier
+FFF9E6:0000
+
+// Skill Slot 6 Modifier
+FFF9E6:0000
+
+// Skill Slot 7 Modifier
+FFF9E8:0000
+
+// Skill Slot 8 Modifier
+FFF9E8:0000
+
+// Max Qty Skill Slot 2
+FFF9EC:6363
+
+// Max Qty Skill Slot 3
+FFF9EE:6363
+
+// Max Qty Skill Slot 4
+FFF9F0:6363
+
+// Max Qty Skill Slot 5
+FFF9F2:6363
+
+// Max Qty Skill Slot 6
+FFF9F4:6363
+
+// Max Qty Skill Slot 7
+FFF9F6:6363
+
+// Max Qty Skill Slot 8
+FFF9F8:6363
+
+// Skill Slot 1 Modifier
+FFFA62:0000
+
+// Skill Slot 2 Modifier
+FFFA62:0000
+
+// Skill Slot 3 Modifier
+FFFA64:0000
+
+// Skill Slot 4 Modifier
+FFFA64:0000
+
+// Skill Slot 5 Modifier
+FFFA66:0000
+
+// Skill Slot 6 Modifier
+FFFA66:0000
+
+// Skill Slot 7 Modifier
+FFFA68:0000
+
+// Skill Slot 8 Modifier
+FFFA68:0000
+
+// Max Qty Skill Slot 1
+FFFA6A:6363
+
+// Max Qty Skill Slot 2
+FFFA6C:6363
+
+// Max Qty Skill Slot 3
+FFFA6E:6363
+
+// Max Qty Skill Slot 4
+FFFA70:6363
+
+// Max Qty Skill Slot 5
+FFFA72:6363
+
+// Max Qty Skill Slot 6
+FFFA74:6363
+
+// Max Qty Skill Slot 7
+FFFA76:6363
+
+// Max Qty Skill Slot 8
+FFFA78:6363
+
+// Tech Slot 1
+FFF5E0:0000
+
+// Tech Slot 2
+FFF5DE:0000
+
+// Tech Slot 3
+FFF5DE:0000
+
+// Tech Slot 4
+FFF5DC:0000
+
+// Tech Slot 5
+FFF5DC:0000
+
+// Tech Slot 6
+FFF5DA:0000
+
+// Tech Slot 7
+FFF5DA:0000
+
+// Tech Slot 8
+FFF5D8:0000
+
+// Tech Slot 9
+FFF5D8:0000
+
+// Tech Slot 10
+FFF5D6:0000
+
+// Tech Slot 11
+FFF5D6:0000
+
+// Tech Slot 12
+FFF5D4:0000
+
+// Tech Slot 1
+FFF560:0000
+
+// Tech Slot 2
+FFF55E:0000
+
+// Tech Slot 3
+FFF55E:0000
+
+// Tech Slot 4
+FFF55C:0000
+
+// Tech Slot 5
+FFF55C:0000
+
+// Tech Slot 6
+FFF55A:0000
+
+// Tech Slot 7
+FFF55A:0000
+
+// Tech Slot 8
+FFF558:0000
+
+// Tech Slot 9
+FFF558:0000
+
+// Tech Slot 10
+FFF596:0000
+
+// Tech Slot 11
+FFF556:0000
+
+// Tech Slot 12
+FFF554:0000
+
+// Tech Slot 1
+FFF660:0000
+
+// Tech Slot 2
+FFF65E:0000
+
+// Tech Slot 3
+FFF65E:0000
+
+// Tech Slot 4
+FFF65C:0000
+
+// Tech Slot 5
+FFF65C:0000
+
+// Tech Slot 6
+FFF65A:0000
+
+// Tech Slot 7
+FFF65A:0000
+
+// Tech Slot 8
+FFF658:0000
+
+// Tech Slot 9
+FFF658:0000
+
+// Tech Slot 10
+FFF656:0000
+
+// Tech Slot 11
+FFF656:0000
+
+// Tech Slot 12
+FFF654:0000
+
+// Tech Slot 1
+FFF6E0:0000
+
+// Sloe 2
+FFF6DE:0000
+
+// Slot 3
+FFF6DE:0000
+
+// Slot 4
+FFF6DC:0000
+
+// Slot 5
+FFF6DC:0000
+
+// Slot 6
+FFF6DA:0000
+
+// Slot 7
+FFF6DA:0000
+
+// Slot 8
+FFF6D8:0000
+
+// Slot 9
+FFF6D8:0000
+
+// Slot 10
+FFF6D6:0000
+
+// Slot 11
+FFF6D6:0000
+
+// Slot 12
+FFF6D4:0000
+
+// Tech Slot 1
+FFF760:0000
+
+// Tech Slot 2
+FFF75E:0000
+
+// Tech Slot 3
+FFF75E:0000
+
+// Tech Slot 4
+FFF75C:0000
+
+// Tech Slot 5
+FFF75C:0000
+
+// Tech Slot 6
+FFF75A:0000
+
+// Tech Slot 7
+FFF75A:0000
+
+// Tech Slot 8
+FFF758:0000
+
+// Tech Slot 9
+FFF758:0000
+
+// Tech Slot 10
+FFF756:0000
+
+// Tech Slot 11
+FFF756:0000
+
+// Tech Slot 12
+FFF754:0000
+
+// Tech Slot 1
+FFF7E0:0000
+
+// Tech Slot 2
+FFF7DE:0000
+
+// Tech Slot 3
+FFF7DE:0000
+
+// Tech Slot 4
+FFF7DC:0000
+
+// Tech Slot 5
+FFF7DC:0000
+
+// Tech Slot 6
+FFF7DA:0000
+
+// Tech Slot 7
+FFF7DA:0000
+
+// Tech Slot 8
+FFF7D8:0000
+
+// Tech Slot 9
+FFF7D8:0000
+
+// Tech Slot 10
+FFF7D6:0000
+
+// Tech Slot 11
+FFF7D6:0000
+
+// Tech Slot 12
+FFF7D4:0000
+
+// Tech Slot 1
+FFF860:0000
+
+// Tech Slot 2
+FFF85E:0000
+
+// Tech Slot 3
+FFF85E:0000
+
+// Tech Slot 4
+FFF85C:0000
+
+// Tech Slot 5
+FFF85C:0000
+
+// Tech Slot 6
+FFF85A:0000
+
+// Tech Slot 7
+FFF85A:0000
+
+// Tech Slot 8
+FFF858:0000
+
+// Tech Slot 9
+FFF858:0000
+
+// Tech Slot 10
+FFF856:0000
+
+// Tech Slot 11
+FFF856:0000
+
+// Tech Slot 12
+FFF854:0000
+
+// Tech Slot 1
+FFF8E0:0000
+
+// Tech Slot 2
+FFF8DE:0000
+
+// Tech Slot 3
+FFF8DE:0000
+
+// Tech Slot 4
+FFF8DC:0000
+
+// Tech Slot 5
+FFF8DC:0000
+
+// Tech Slot 6
+FFF8DA:0000
+
+// Tech Slot 7
+FFF8DA:0000
+
+// Tech Slot 8
+FFF8D8:0000
+
+// Tech Slot 9
+FFF8D8:0000
+
+// Tech Slot 10
+FFF8D6:0000
+
+// Tech Slot 11
+FFF8D6:0000
+
+// Tech Slot 12
+FFF8D4:0000
+
+// Tech Slot 1
+FFF960:0000
+
+// Tech Slot 2
+FFF95E:0000
+
+// Tech Slot 3
+FFF95E:0000
+
+// Tech Slot 4
+FFF95C:0000
+
+// Tech Slot 5
+FFF95C:0000
+
+// Tech Slot 6
+FFF95A:0000
+
+// Tech Slot 7
+FFF95A:0000
+
+// Tech Slot 8
+FFF958:0000
+
+// Tech Slot 9
+FFF958:0000
+
+// Tech Slot 10
+FFF956:0000
+
+// Tech Slot 11
+FFF956:0000
+
+// Tech Slot 12
+FFF954:0000
+
+// Tech Slot 1
+FFF9E0:0000
+
+// Tech Slot 2
+FFF9DE:0000
+
+// Tech Slot 3
+FFF9DE:0000
+
+// Tech Slot 4
+FFF9DC:0000
+
+// Tech Slot 5
+FFF9DC:0000
+
+// Tech Slot 6
+FFF9DA:0000
+
+// Tech Slot 7
+FFF9DA:0000
+
+// Tech Slot 8
+FFF9D8:0000
+
+// Tech Slot 9
+FFF9D8:0000
+
+// Tech Slot 10
+FFF9D6:0000
+
+// Tech Slot 11
+FFF9D6:0000
+
+// Tech Slot 12
+FFF9D4:0000
+
+// Tech Slot 1
+FFFA60:0000
+
+// Tech Slot 2
+FFFA5E:0000
+
+// Tech Slot 3
+FFFA5E:0000
+
+// Tech Slot 4
+FFFA5C:0000
+
+// Tech Slot 5
+FFFA5C:0000
+
+// Tech Slot 6
+FFFA5A:0000
+
+// Tech Slot 7
+FFFA5A:0000
+
+// Tech Slot 8
+FFFA58:0000
+
+// Tech Slot 9
+FFFA58:0000
+
+// Tech Slot 10
+FFFA56:0000
+
+// Tech Slot 11
+FFFA56:0000
+
+// Tech Slot 12
+FFFA54:0000
+
+// High MNTL
+FFF61C:00FF
+
+// Max Qty Skill Slot 1
+FFF9EA:6363
+
+// Character Slot 1 Modifier
+FFF40A:0000
+
+// Character Slot 2 Modifier
+FFF40A:0000
+
+// Character Slot 3 Modifier
+FFF40C:0000
+
+// Character Slot 4 Modifier
+FFF40C:0000
+
+// Character Slot 5 Modifier
+FFF40E:0000
+
+// Move 2x Faster
+FFECE0:0002
+
+// Start a new game with Megid. See notes.
+CCFC-ZTHN
+
+// Makes the Steel Sword a 1 handed weapon
+ACHC-YCGN
+
+// Makes the Steel Sword a 1 handed weapon, and it will hit multiple targets
+ACHC-YEGN
+
+// Makes the Steel Sword twice as strong (attack power)
+DWHC-YAGT
+
+// Makes the Steel Sword 10x as strong (attack power)
+VWHC-YAGT
+
+// Makes the Defeat Axe a 1 handed weapon
+ACNC-YCE2
+
+// Makes the Defeat Axe a 1 handed weapon, and it will hit multiple targets
+ACNC-YEE2
+
+// Makes the Sonic Buster a 1 handed weapon
+ACNC-YCEC
+
+// Makes the Sonic Buster a 1 handed weapon, and it will hit multiple targets
+ACNC-YEEC
+
+// Makes the Pulse Vulcan twice as strong (attack power)
+RWLW-YAC2
+
+// Makes the Moon Slasher twice as strong (attack power)
+LWMC-YAGR
+
+// Makes the Rever technique MUCH stronger
+BWRW-ZNAA
+
+// Allows non Tech users to use Tech outside of battle
+RH9T-L6V0
+
+// Infinite TP outside of battle (Works even if you don't have any TP)
+BTJT-NA36
+
+// Makes Elsydeon a 1 handed weapon
+ACNC-YCC0
+
+// Makes Elsydeon a 1 handed weapon, and it will hit multiple targets
+ACNC-YEC0
+
+// Makes the Guard Rod a 1 handed weapon
+ACMC-YCBT
+
+// 1 hit kills an enemy or boss
+KZ9T-BGM2
+
+// 1/2x Movement (Walking) Speed
+JF5T-KGZ2
+RF5T-J6Z4
+
+// 2x Movement (Walking) Speed
+JF5T-KEZ2
+RF5T-J6Z4
+
+// Disable Enemy Encounters (Random Battles)
+AB6A-LA4W
+
+// Disable Poison Damage while walking around
+GB6T-LA2W
+
+// Disable Collision Detection (Walk Thru Anything except Sprites)
+RFPT-J6YE
+
+// Movement (Walking) Speed Modifier
+FFECE0:0000
+
+// Poisoned Damage Modifer while walking around
+FFECE6:0000
+
+// Disable Collision Detection - Vehicle (Drive Thru Anything)
+RFRA-J6YN
+
+// No Random Battles
+GV6A-LA6W

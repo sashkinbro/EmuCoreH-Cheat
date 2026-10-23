@@ -1,0 +1,38 @@
+// Power Bracelet
+00C0-4D01
+
+// Magic Capsule A (Attack)
+00C0-4601
+
+// Magic Capsule B (Barrier)
+00C0-4701
+
+// Teleport Powder
+00C0-4A01
+
+// Cane of Flight
+00C0-4901
+
+// Telepathy Ball
+00C0-4801
+
+// Moonstone Medallion
+00C0-4B01
+
+// Letter To Nibana
+00C0-4C01
+
+// Hirotta Stone
+00C0-4E01
+
+// Start Level With Motor Bike
+00C0-5407
+
+// Start Level With Speed Boat
+00C0-5101
+
+// Level 16 - JankenÃ¢â¬â¢s Castle (Janken The Great)
+00C0-2310
+
+// Final Level - Cragg Lake (Crown)
+00C0-2311

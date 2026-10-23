@@ -1,0 +1,29 @@
+// Infinite Lives
+00C0-3F09
+
+// Light Suit
+00C2-9001
+
+// Absorb Suit
+00C2-9002
+
+// Jump Shoes
+00C2-9101
+
+// Spike Shoes
+00C2-9102
+
+// Power Shoes
+00C2-9103
+
+// Always Have Key
+00C2-9401
+
+// Bar
+00C2-9501
+
+// Darkness
+00C2-9901
+
+// Final Level
+00C0-4013

@@ -1,0 +1,8 @@
+// Infinite Time (One's Digit)
+00D6-6509
+
+// Infinite Time (Ten's Digit)
+00D6-6609
+
+// Infinite Health P1
+00C0-4F0A

@@ -1,0 +1,11 @@
+// Team 2 Never Scores
+00C0-AA00
+
+// Out Modifier
+00C0-9900
+
+// Ball Modifier
+00C0-9B00
+
+// Strike Modifier
+00C0-9A00

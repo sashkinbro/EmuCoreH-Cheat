@@ -1,0 +1,8 @@
+// Infinite Turbo
+AV3T-AA6E
+
+// Start The Race With 99 Seconds Instead of 60
+NS6A-AADC
+
+// Infinite Time
+AD6T-AAA0

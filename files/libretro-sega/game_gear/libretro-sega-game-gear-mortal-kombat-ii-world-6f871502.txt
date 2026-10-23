@@ -1,0 +1,186 @@
+// Infinite energy
+00B-B19-F79
+
+// Infinite credits
+3A4-026-2A2
+
+// Start with 0 credits
+001-2CA-F76
+
+// Start with 10 credits
+0B1-2CA-F76
+
+// Start with 15 credits
+101-2CA-F76
+
+// Start with 49 sec.
+04B-7C6-C4E
+
+// Start with 79 sec.
+07B-7C6-C4E
+
+// Start with 9 sec.
+00B-7C6-C4E
+
+// Infinite time
+005-3F5-3BE
+
+// Start with 3/4 energy (player 1)
+32B-A3E-F77
+
+// Start with 1/2 energy (player 1)
+22B-A3E-F77
+
+// Start with 1/4 energy (player 1)
+12B-A3E-F77
+
+// Start with very little energy (player 1)
+02B-A3E-F77
+
+// Start with 3/4 energy (player 2)
+32B-A6E-F77
+
+// Start with 1/2 energy (player 2)
+22B-A6E-F77
+
+// Start with 1/4 energy (player 2)
+12B-A6E-F77
+
+// Start with very little energy (player 2)
+02B-A6E-F77
+
+// View ending
+001-30A-082
+3E1-31A-C42
+001-32A-F7A
+
+// Flying kick does no damage
+006-4EF-D56
+
+// Flying kick does mega damage
+996-4EF-D56
+
+// Uppercut does no damage
+006-66F-A2E
+
+// Uppercut does mega damage
+996-66F-A2E
+
+// Crouching kick does no damage
+006-1EF-E66
+
+// Crouching kick does mega damage
+996-1EF-E66
+
+// Regular high kick does no damage
+006-26F-F72
+
+// Regular high kick does mega damage
+996-26F-F72
+
+// Roundhouse foot sweep does no damage
+006-AEF-C42
+
+// Roundhouse foot sweep does mega damage
+996-AEF-C42
+
+// Invincibility
+000-3D8-91D
+000-3E8-193
+7B0-3F8-80E
+FE0-408-5D0
+880-418-7F0
+
+// All Bosses Accessable on character select Screen
+0DD-134-C4A
+
+// CPU Dead At Start
+00B-A9E-F77
+
+// Both Invisible
+990-567-4C0
+
+// Wacky Mode
+B45-45C-3B1
+
+// Character Select
+00C4-2B00
+
+// Infinite Energy
+00C4-8847
+
+// Enemies Float In Air
+00C6-47FF
+
+// Computer Cannot Move
+00C6-452E
+
+// Infinite Continues
+00C4-0B09
+
+// Infinite Time
+00C4-3609
+00C4-3809
+
+// No Health P2
+00C4-8A00
+
+// Infinite Fatality Time
+C90-9C7-E69
+C90-BA8-E69
+
+// Liu Kang Stage - Press Punch Close
+FF3-978-E62
+
+// Liu Kang Fatality - Press Kick Sweep or Close
+FF2-4C8-E6E
+
+// Sub Zero Stage - Press Punch Close
+FF3-978-E62
+
+// Sub Zero Fatality - Press Kick Then Punch
+FF2-BF8-C4A
+FF2-C38-E62
+
+// Kitana Fatality - Hold Block And Press Kick Close
+FF2-6F8-E62
+
+// Reptile Stage - Press Punch Close
+FF3-978-E62
+
+// Reptile Fatality - Press Punch Sweep or Close
+FF2-868-C4A
+
+// Shang Tsung Fatality - Hold Block And Press Punch Sweep
+FF2-968-F7A
+
+// Mileena Fatality - Press Kick Sweep or Close
+FF2-658-E62
+
+// Scorpion Stage - Press Punch Close
+FF3-978-E62
+
+// Scorpion Fatality - Press Punch Sweep or Close
+FF2-C78-F7A
+
+// Jax Stage - Press Punch Close
+FF3-978-E62
+
+// Jax Fatality - Press Punch Sweep or Close
+FF2-9F8-E62
+
+// 2x More Fatality Time
+648-A96-2A2
+B4A-446-803
+
+// 3x More Fatality Time
+968-A96-2A2
+FFA-446-803
+
+// 4x More Fatality Time
+C88-A96-2A2
+FFA-446-803
+
+// 5x More Fatality Time
+FF8-A96-2A2
+FFA-446-803

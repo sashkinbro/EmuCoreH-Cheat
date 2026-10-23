@@ -1,0 +1,69 @@
+// Infinite Health (Punisher)
+AB8T-CA9N
+
+// Infinite Time
+ATET-AA94
+
+// Infinite Lives (Punisher)
+FFA142:0009
+
+// Infinite Lives (Nick Fury)
+FFA144:0009
+
+// Infinite Health (Nick Fury)
+FFA0DC:0063
+
+// Infinite Weapon Usage (Nick Fury)
+FF9E34:0010
+
+// Always Have Machine Gun (Nick Fury)
+FF9DA8:0003
+
+// Always Have Machine Gun (Punisher)
+FF9DA6:0003
+
+// Infinite Continue Time
+FF8942:0009
+
+// Infinite Blasts (Punisher)
+FF8938:0009
+
+// Infinite Blasts (Nick Fury)
+FF8938:0009
+
+// Infinite Health (Punisher)
+FFA0DA:0063
+
+// Infinite Time
+FF8782:003F
+
+// Invincibility (Disable Hit Detection)
+RZ1T-A60E
+R01T-A6TC
+RZ3T-A6T6
+RZ5A-A6Z8
+RZ4A-A6VL
+R13A-A6ZT
+RZ4T-A6V0
+
+// Infinite Bombs
+AKMT-AA4R
+AL5A-AA2G
+
+// Infinite Use Weapon
+AK0A-AA7G
+AMET-AA66
+
+// Freeze Time Continue
+AT0A-CA5L
+
+// Infinite Lives
+AVDA-AA96
+
+// Infinite Health
+AV8T-CA9T
+AKGA-AA56
+AK8T-CA3R
+
+// Infinite Health Super Kick
+AMSA-AA80

@@ -1,0 +1,37 @@
+// Infinite Time
+00C-B3D-3BE
+
+// Start Round With 50 Seconds
+3EC-62D-80E
+32C-63D-193
+
+// Start Round With 60 Seconds
+3EC-62D-80E
+3CC-63D-193
+
+// Start Round With 75 Seconds
+3EC-62D-80E
+4BC-63D-193
+
+// Both Players Start With 1/4 Energy
+14F-4BF-E6B
+
+// Both Players Start With 1/2 Energy
+22F-4BF-E6B
+
+// Both Players Start With 3/4 Energy
+30F-4BF-E6B
+
+// Infinite Energy
+01B-F4D-EB9
+
+// Get Pow From Every Hit
+3EC-51D-191
+01C-53D-08A
+
+// Once You Have Pow You Keep It
+007-CAD-3B2
+
+// All Hits Do Massive Damage
+20B-4BC-F77
+06B-4AC-E68

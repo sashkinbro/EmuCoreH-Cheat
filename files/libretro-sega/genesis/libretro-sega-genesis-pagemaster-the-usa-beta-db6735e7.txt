@@ -1,0 +1,31 @@
+// Infinite Lives - Pagemaster, The (USA) (Beta)
+AJFT-JA8N
+
+// Invincibility - Pagemaster, The (USA) (Beta)
+RZPT-J6YC
+RYHT-A6ZJ
+RZPT-J6WN
+
+// Keep Items After Toching Enemies - Pagemaster, The (USA) (Beta)
+AKRA-JA2L
+AKRA-JA32
+AKPT-JA8Y
+
+// Magic Dust Meter Always On Maximum - Pagemaster, The (USA) (Beta)
+ATGT-AA40
+
+// Enabled Cheat Code Skip Levels/Level Select/Items - Pagemaster, The (USA) (Beta)
+AB8T-JA4C
+RF8A-J6YA
+RGJA-E6X0
+
+// Infinite Attempts In Bonus Stage - Pagemaster, The (USA) (Beta)
+AKEA-NA7E
+
+// 1 Hit/Shot Kill Enemies - Pagemaster, The (USA) (Beta)
+ATWA-JA3L
+A3RT-JA2G
+A3RT-JA28
+
+// Keep Keys/Gold Tokens After The Death - For Versions Pagemaster, The (USA) - Pagemaster, The (USA) (Beta) - Pagemaster, The (Europe)
+ALGT-EA7N

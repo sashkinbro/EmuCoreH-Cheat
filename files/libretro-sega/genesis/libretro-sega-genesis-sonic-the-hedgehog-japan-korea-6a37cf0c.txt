@@ -1,0 +1,33 @@
+// Walks On Air
+BVHA-CA22
+
+// Invulnerable When You Have No Rings
+K46A-CA4W
+
+// Don't Die When Hit With No Rings
+AC6A-CA4L
+
+// Invincibility
+R05T-C6ZT
+R06A-C6WW
+
+// Infinite Lives
+AJ9T-CA5Y
+
+// Infinite Rings
+AWVT-AA9T
+
+// Freeze Time
+BDHA-CA9J
+
+// Freeze Time Underwater
+AKDA-CA5Y
+
+// Enabled Cheat Code Slow Motion
+REKT-A60T
+
+// Enabled Cheat Code Debug Mode
+RE2A-A61G
+
+// Enabled Cheat Code Level Select
+AJ3A-AA3J

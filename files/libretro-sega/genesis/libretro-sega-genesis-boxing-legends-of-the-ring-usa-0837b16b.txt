@@ -1,0 +1,203 @@
+// Infinite time per round--must get a knockout
+AVGA-AA2W
+
+// Each round is 1 minute (only in Career Mode only)
+AF1A-AAG8
+
+// Each round is 2 minutes (only in Career Mode only)
+AK1A-AAG8
+
+// Each round is 4 minutes (only in Career Mode only)
+AV1A-AAG8
+
+// Each round is 5 minutes (only in Career Mode only)
+AZ1A-AAG8
+
+// Each round is 7 minutes (only in Career Mode only)
+A71A-AAG8
+
+// Each round is 9 minutes (only in Career Mode only)
+BF1A-AAG8
+
+// Player 1 starts with 0 superpunches
+ABVT-AABY
+
+// Player 1 starts with 2 superpunches
+AKVT-AABY
+
+// Player 1 starts with 3 superpunches
+APVT-AABY
+
+// Player 1 gets infinite superpunches
+ATVA-AA90
+
+// Each knockdown worth 2 superpunches to Player 1
+SEVA-BJZT
+
+// Each knockdown worth 3 superpunches to Player 1
+SEVA-BNZT
+
+// Player 2 starts with 0 superpunches
+ABVT-AACA
+
+// Player 2 starts with 2 superpunches
+AKVT-AACA
+
+// Player 2 starts with 3 superpunches
+APVT-AACA
+
+// Player 2 gets infinite superpunches
+ATVA-AA9C
+
+// Each knockdown worth 2 superpunches to Player 2
+SEVA-BJY4
+
+// Each knockdown worth 3 superpunches to Player 2
+SEVA-BNY4
+
+// Infinite stamina for Player 1
+AXLA-AA9R
+
+// Player 1 regains stamina faster than normal
+SFGA-BGY6
+
+// Infinite stamina for Player 2
+AXGT-AA6Y
+
+// Player 2 regains stamina faster than normal
+SFGA-BGWL
+
+// Punch power starts at maximum
+LALT-DA7W
+
+// Punch power starts at half of maximum
+FALT-DA7W
+
+// Punch power starts at zero
+AALT-DA7W
+
+// Stamina starts at maximum
+NALT-CAHE
+
+// Stamina starts at half of maximum
+GALT-CAHE
+
+// Stamina starts at zero
+AALT-CAHE
+
+// Chin starts at maximum
+LAMA-DA2Y
+
+// Chin starts at half of maximum
+FAMA-DA2Y
+
+// Chin starts at zero
+AAMA-DA2Y
+
+// Infinite strength beads
+RE3T-C6TW
+
+// Punch Power is Beyond Maxed Out When Creating A New Boxer
+SALT-DA7N
+
+// Punch Power is at maximum
+LALT-DA7W
+
+// Stamina is at Maximum
+NALT-CAHE
+
+// Chin is at maximum
+LAMA-DA2Y
+
+// Infinite punch attribute beads
+RE3T-C6TW
+
+// Alternate Infinite punch attribute beads
+RE4V-G6WN
+
+// Makes it possible to have no punch attributes assigned
+RE4T-C6TL
+
+// mirror match
+AB1A-AAXG
+
+// mirror match
+APSA-AAPC
+
+// player 1 color is changed
+APSA-AARC
+
+// CPU doesn't fight back
+APSA-AAWT
+
+// CPU doesn't come out to fight
+ABMA-AA8C
+
+// CPU is invisible
+ABTA-AA00
+
+// player 1 is blue
+1VSA-AASE
+
+// Player 1 always plays as ?? Modifier
+FFBB5A:000A
+
+// Max Stamina
+FFC0CA:0230
+
+// Max Power
+FFC112:0050
+
+// Max Chin
+FFC0EE:0050
+
+// Attribute Bar doesnt Drain from Stamina
+REPT-C60L
+
+// Attribute Bar doesnt Drain from Power
+RERT-C6WT
+
+// Rankings Modifier - #1
+FFC05E:0000
+
+// Rankings Modifier - #3
+FFC060:0000
+
+// Rankings Modifier - #5
+FFC062:0000
+
+// Rankings Modifier - #7
+FFC064:0000
+
+// Rankings Modifier - #9
+FFC066:0000
+
+// Referee moonwalks
+AVPA-AAYG
+
+// Alternate Infinite Punch Attribute Beads
+RE4T-C6WN
+
+// Once a Punch Attribute Bead is Used, it Can't be Used for Another Punch
+RE4T-C6TL
+
+// P1 Infinite Health
+FFBD50:0898
+
+// P1 No Health
+FFBD50:0000
+
+// P2 Infinite Health
+FFBD6E:0898
+
+// P2 No Health
+FFBD6E:0000
+
+// Freeze Round Timer
+FFCBBC:001B
+
+// P1 Infinite Health
+AXLT-AA9E
+
+// P2 Infinite Health
+AXMA-AA50

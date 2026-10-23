@@ -1,0 +1,172 @@
+// P1 Infinite Health
+FF0164:0050
+
+// P2 Infinite Health
+FF047E:0050
+
+// Infinite continues
+AX2A-GA9J
+
+// Both players invulnerable to most damage
+AMZT-EA2G
+
+// Start with 1/4 health
+CW4A-CAH2
+
+// Start with 1/2 health
+FC4A-CAH2
+
+// Start with 3/4 health
+HW4A-CAH2
+
+// Start with 1 reserve point
+AE5T-JAA0
+
+// Start with 2 reserve points
+AJ5T-JAA0
+
+// Start with 3 reserve points
+AN5T-JAA0
+
+// Start with 4 reserve points
+AT5T-JAA0
+
+// Start with 5 reserve points
+AY5T-JAA0
+
+// Start with 6 reserve points
+A25T-JAA0
+
+// Play as either of the two bosses (Not in quest mode)
+9F8T-HAXR
+
+// Charging isn't necessary for special moves
+AMDT-EA3E
+
+// Dizzy is over instantly
+Z5WA-AEVE
+
+// Always fight Billy Lee
+AC0A-HA3N
+
+// Always fight Jimmy Lee
+AG0A-HA3N
+
+// Always fight Jawbreaker
+AL0A-HA3N
+
+// Always fight Icepick
+AR0A-HA3N
+
+// Always fight Shadow Master
+AW0A-HA3N
+
+// Always fight Bones
+A00A-HA3N
+
+// Always fight Sickle
+A40A-HA3N
+
+// Always fight Blade
+A80A-HA3N
+
+// Always fight Trigger Happy
+BC0A-HA3N
+
+// Always fight Countdown
+BG0A-HA3N
+
+// Always fight Dominique
+BL0A-HA3N
+
+// Always fight Sekka
+BR0A-HA3N
+
+// Reserve Never Goes Down
+RH4T-G6T6
+
+// Infinite Energy
+9TET-FGCG
+LAET-EACJ
+96ET-EACL
+NYET-ECCN
+
+// Freeze Time
+REAA-C6XN
+
+// Freeze Time
+FF2E8A:0000
+FF2E8A:0009
+
+// Use Shadow Master In Quest Mode
+AW6A-GAAC
+
+// Use Dominique In Quest Mode
+BL6A-GAAC
+
+// Player 1 palette modifier
+FF00AC:0000
+
+// Player 2 palette modifier
+FF03C6:0000
+
+// P1 Fighter Modifier
+FFE090:0000
+
+// P2 Fighter Modifier
+FFE092:0000
+
+// Hit Anywhere Both Players
+AL1A-AA3Y
+R1GA-C6V8
+
+// Never Stunned
+FF024E:0000
+
+// Opponent Always Stunned
+FF0568:0015
+
+// Location Modifier
+FFE08E:0000
+
+// Bosses Selectable in Vs. Mode
+FFF0BE:00FF
+
+// Infinite Health
+FF0164:0063
+
+// Character Attribute Stats - Strength Modifier
+FFE0A0:0000
+
+// Character Attribute Stats - Defense Modifier
+FFE0A4:0000
+
+// Character Attribute Stats - Special Modifier
+FFE0A8:0000
+
+// Have 63 Attributes In Reserve
+FFE0AC:0063
+
+// Fake Have Two Rounds Won
+FF0336:0002
+
+// No Health P2/CPU
+FF047E:0000
+
+// Character Attribute Stats - Strength
+FFE0A2:0000
+
+// Character Attribute Stats - Defense
+FFE0A6:0000
+
+// Character Attribute Stats - Special
+FFE0AA:0000
+
+// Character Attribute Stats - Attributes In Reserve
+FFE0AE:0000
+
+// Regional Lockout Bypass
+EAAT-AL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T

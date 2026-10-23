@@ -1,0 +1,492 @@
+// Life Bar and Batarang increases
+C24A-B4EE
+BA4A-AR3C
+
+// Bosses and some enemies don't fight back
+GC1A-AAAA
+
+// swordmen 2 boss play music when attacking
+AHNA-AA26
+
+// swordmen 2 boss attacks fast
+ADNA-AA40
+RDMA-A6NR
+
+// swordmen 2 boss don't fight back
+ADMT-AA72
+
+// Hold down for a kick pose
+VZGA-AGSE
+
+// Level Select [Disengage At Correct Level]
+REFT-A6Z0
+
+// Batman keeps blinking
+AVEA-BALE
+
+// Yellow Game
+AA4T-AASA
+
+// Fight six Bosses
+A0TT-AMNC
+
+// Batman keeps falling from the sky
+BBNT-AAX8
+
+// Music 1
+D2MT-B740
+
+// Music 2
+Y2MT-B740
+
+// Music 3
+CNMT-B740
+
+// Music 4
+YTMT-B740
+
+// Music 5
+AYMT-B740
+
+// Music 6
+Y6MT-B740
+
+// Music 7
+YYMT-B740
+
+// Music 8
+BEMT-B740
+
+// Music 9
+YNMT-B740
+
+// Music 10
+YJMT-B740
+
+// Infinite lives
+AKFT-AA4Y
+
+// Batman floats when he dies!
+RFFA-A60N
+
+// Infinite Batarangs
+AKYA-AA9G
+
+// Guns Don't Hurt
+RYFA-C6VR
+
+// Infinite rockets for the Batwing
+AKYT-AA5L
+
+// Punches, Knives And Guns Don't Hurt
+B2AT-CA46
+
+// Infinite Rockets For The Batmobile
+AKYT-AA7R
+
+// Skip Through Levels
+HEGA-BJVG
+
+// Skip through levels faster
+HEGA-BTVG
+
+// Invincible And Invisible!
+AKEA-AA4J
+
+// Start On Axis Chemical Plant Level
+HEET-BJX2
+
+// Start On Flugelheim Museum Level
+HEET-BNX2
+
+// Start Battle With Bob The Goon
+HEET-BTX2
+
+// Start With Graphic Before Gotham City Streets
+HEET-BYX2
+
+// Start On Gotham City Streets Level
+HEET-B2X2
+
+// Start Battle With Mimes
+HEET-B6X2
+
+// Start Battle With Gotham City Streets Boss
+HEET-BAX2
+
+// Start On Sky Over Gotham Level
+9TET-BGD2
+BEET-AAD4
+96ET-AAD6
+5NET-AYX8
+AJET-AA6A
+
+// Start On Gotham Cathedral Level
+9TET-BGD2
+BJET-AAD4
+96ET-AAD6
+5NET-AYX8
+AJET-AA6A
+
+// Start On Gotham Cathedral Level spikes
+9TET-BGD2
+BNET-AAD4
+96ET-AAD6
+5NET-AYX8
+AJET-AA6A
+
+// Meet The Joker
+9TET-BGD2
+BTET-AAD4
+96ET-AAD6
+5NET-AYX8
+AJET-AA6A
+
+// Infinite Energy
+AJFA-CA3G
+AAEA-CA3W
+
+// Invincibility
+AABA-CR64
+AAAT-CR60
+
+// Infinite Lives
+FF431C:0200
+
+// Infinite Energy
+FF430C:3F00
+
+// Infinite Weapon
+FF432A:0500
+
+// Invincibility
+FF4326:29FF
+
+// Skip Levels
+REFT-A6Z0
+
+// Invincibility Alt
+BAAT-CA5C
+
+// Extra Bullets And Rockets
+AKYA-AA9G
+
+// Infinite Rockets For Bat Car
+AKYT-AA5L
+
+// Infinite Rockets For Bat Plane
+AKYT-AA7R
+
+// chandeliers don't move on Flugelheim Museum Level
+AEPA-CAJ4
+
+// faster walk animation
+ABGA-AAXN
+
+// hyper walk animation
+ABGA-AAXR
+
+// fast walk animation
+ABGA-AAYL
+
+// no animation
+ABGA-AAYY
+
+// Batman Comes Down Slow
+ABEA-AAFA
+
+// hit start to play intro
+AESA-CAFR
+
+// walkthrough crates in Axis Chemical Plant Level
+VEHA-CLX8
+
+// long pipes don't blow up in Axis Chemical Plant Level
+BELA-DAAL
+
+// the barrels in the Axis Chemical Plant Level his no chemicals in it where jack is
+AAMA-CAFT
+
+// chemicals keep moving in the barrels on Axis Chemical Plant Level where jack is
+AALT-CAH6
+
+// Start With 1 Life Bar
+AANA-AACR
+AENA-AAK2
+
+// Start With 2 Life Bars
+AANA-AACR
+CENA-AAK2
+
+// start With 3 Life Bars
+AANA-AACR
+EENA-AAK2
+
+// Start With 4 Life Bars
+AANA-AACR
+GENA-AAK2
+
+// Start With 5 Life Bars
+AANA-AACR
+JENA-AAK2
+
+// Start With 6 Life Bars
+AANA-AACR
+LENA-AAK2
+
+// Start With 7 Life Bars
+AANA-AACR
+NENA-AAK2
+
+// Start With 8 Life Bars
+AANA-AACR
+RENA-AAK2
+
+// Start With 99 Batarangs When Killed
+XENA-AA1Y
+
+// Start With 8 Life Bars When Killed
+RENA-AASN
+
+// Start With 99 Baterangs
+AENA-AA4E
+XENA-AAML
+
+// Slow Motion
+AJHA-AAR2
+
+// fast motion
+AAHA-AARY
+
+// swordmen 2 boss don't get pushed back when hit
+ADMT-AA22
+
+// acrobatic clowns keep doing backflips
+ADJA-AAT4
+
+// acrobatic clowns that fly kick don't move
+ADJA-AACJ
+
+// boxing boss don't fight back
+ADKA-AAHJ
+
+// boxing man boss don't uppercut you when rushing
+ADKT-AAJY
+
+// acrobatic clowns backflips in the air
+ADJA-AAAN
+
+// acrobatic flipping clowns don't move
+ADHA-AAC2
+
+// fat clowns don't attack
+AD6A-AAJE
+
+// fat clowns always blow out flames
+AD6A-AAJ0
+
+// fat clowns can't blow out flames
+AD6A-AAJ2
+
+// 1 fat clown is a boss
+AD6A-AAK2
+
+// Batman Walks Faster
+AFJA-AABA
+ABJT-AAXG
+
+// Dark Batman
+AA5A-AAAT
+
+// The Joker Don't Attack At All
+ADWA-AAAJ
+ADVT-AAC8
+
+// 1 Hit Kill For Enemies And Bosses
+AAET-CA04
+
+// batman can't be killed
+AAFT-CAJE
+
+// Untouchable
+B2AT-CA48
+EACA-C7HN
+
+// batman bounce back when hit
+AVFA-BADY
+
+// rocket men don't shoot at you
+AD5A-AAGY
+
+// untouchable to rocket men bumps
+AD5A-AAJ4
+
+// rocket men always facing left
+AD5A-AALC
+
+// rocket men always facing right
+AD5A-AALE
+
+// rocket men can't shoot out rockets
+HD5A-AAEW
+
+// laser guns don't shoot lasers
+AD2A-AASJ
+
+// batman land fast
+ABET-AAKN
+
+// the joker can't throw blue waves
+ADWT-AA5N
+
+// the joker throw blue waves faster
+ADWT-AA30
+
+// Untouchable To Knifes
+AB2A-AAJA
+
+// Gunmen Can't Shoot Out Bullets
+AB2A-AAWR
+
+// batman punches with his arm straight
+ABHA-AA56
+
+// batman jump different
+ABHA-AAJN
+
+// go to the next level when bumped
+ZAEA-CA3C
+
+// don't flash when bumped
+AAEA-CA3A
+
+// die when bumped
+0AEA-CA3C
+
+// Enemies Get Hurt When Bumped
+AAEA-CA2J
+
+// the joker throw blue waves only on the left side
+ADWT-AACJ
+
+// the joker throw blue waves only on the right side
+ADWT-AALJ
+
+// the joker turns in to a clown when throwing blue waves
+ADWT-AAYC
+
+// the joker always holds the blue energy in his hand
+ADVT-AAXG
+
+// batman lands in the air and falls down
+ABEA-AARN
+
+// batman keeps jumping in mid air
+ABKT-AAT6
+
+// Axe Battlers don't fight back
+AD8A-AALY
+
+// Axe Battlers fight fast
+AD8A-AALT
+
+// Axe Battlers don't get stun when hit or bumped
+AD8A-AAJ6
+
+// Axe Battlers turn in to Jack Napier when hit
+AD8A-AAHR
+
+// Axe Battler can't jump
+AD8T-AABC
+
+// Axe Battlers always walk to you
+AD8T-AAA2
+
+// Axe Battlers don't attack you close
+AD8T-AACC
+
+// Axe Battlers throw there axe in the air
+AD9A-AAAA
+
+// Axe Battlers walk fast
+AD9T-AASG
+
+// Axe Battlers can't throw there ax at you
+AD9A-AAC0
+
+// All Coated Gunmen Throw Dynamics
+ADET-AAA0
+
+// All Coated Gunmen Can't Shoot You
+ADET-AACR
+
+// Batman Automatically Jumps
+ABKA-AACL
+
+// Push UP To Jump
+ABKA-AACC
+
+// skip the first level
+AAFA-AACN
+
+// Black enemies
+AAFA-AAY8
+
+// swordman 1 attacks fast
+AD6A-AAEY
+
+// untouchable to swordman 1 sword
+AD6T-AAR4
+
+// Jack Napier don't move
+ADLA-AART
+ADLA-AAPT
+
+// you fight a black boxer instead of a white boxer
+AC2T-B5EJ
+
+// Hit Any Enemies From a Distance
+AAGA-CAPC
+AAGA-CAPN
+
+// grappling hook hooks on anything
+AKLA-AA24
+
+// Start With 4 Lives
+AANA-AAVJ
+
+// plays as batman on the car and plane stage
+AANA-AATJ
+
+// more gravity
+ABMT-AAW8
+
+// Batarangs move very slow when throwing them
+ABZT-AAMW
+
+// Invincibility
+RYAT-C6XA
+RYCA-C61N
+
+// Keep Additional Energy After the Death
+A2NA-AA9L
+
+// Hit enemies or bosses from anywhere
+A2GA-CA68
+
+// 1 hit kills enemies and bosses
+REET-C608
+
+// Walk thru walls
+RFJA-A6YL
+C3JA-AA70
+
+// Invincibility
+B2AT-CA46
+
+// Jump higher
+ABKA-BP94
+
+// Level select
+5NYT-CY0C
+ATET-AA52

@@ -1,0 +1,47 @@
+// Character Highlighter P1 (On Menu)
+FFA070:0000
+
+// Character Highlighter P2 (On Menu)
+FFA0F0:0000
+
+// Stadium Modifier
+FFA29E:0000
+
+// Stadium Highlighter (On Menu)
+FFFB40:0000
+
+// Team 1 Score Modifier (P1)
+FFE02A:0000
+
+// Team 2 Score Modifier (P2/CPU)
+FFE02C:0000
+
+// Player 1
+FFE032:0029
+
+// Player 2
+FFE032:0000
+
+// Player 3
+FFE034:0000
+
+// Player 1
+FFE034:0029
+
+// Player 2
+FFE036:0000
+
+// Player 3
+FFE036:0000
+
+// Score Modifier P1 (First Bowl)
+FFA050:0000
+
+// Score Modifier P1 (First Bowl Total)
+FFA052:0000
+
+// Score Modifier P2-P4 (First Bowl)
+FFA0D0:0000
+
+// Score Modifier P2-P4 (First Bowl Total)
+FFA0D2:0000

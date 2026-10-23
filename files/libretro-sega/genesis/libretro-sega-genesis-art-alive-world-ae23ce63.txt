@@ -1,0 +1,12 @@
+// no cursor when drawing
+AAJA-AASY
+
+// no music when drawing with a pencil
+ACTA-AA6J
+
+// different sound effect
+ACWA-AAAA
+
+// no music or sound effects
+ACWA-AAAE
+ACYA-AA62

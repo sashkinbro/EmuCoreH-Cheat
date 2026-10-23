@@ -1,0 +1,20 @@
+// Position Modifier
+00C9-9200
+
+// Freeze Lap Timer - 1P Race
+3A5-98E-2A2
+
+// P1 Freeze Lap Timer - 2P Race
+3A4-F9E-2A2
+
+// P2 Freeze Lap Timer - 2P Race
+3A5-98E-2A2
+
+// Freeze Lap Timer - 1P Race
+00C8-BB00
+
+// P1 Freeze Lap Timer - 2P Race
+00C8-AB00
+
+// P2 Freeze Lap Timer - 2P Race
+00C8-BB00

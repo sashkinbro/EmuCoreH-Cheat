@@ -1,0 +1,57 @@
+// Jump higher
+YAHT-AGB8
+
+// Jump much higher
+CAHT-ALB8
+
+// Float in mid-air
+RYMA-A6Y8
+
+// Slower descent when jumping or falling
+BAMA-BE6Y
+
+// Super slow descent when jumping or falling
+ATMA-BE6Y
+
+// Start with 9 lives
+BJCA-AAE8
+
+// Infinite lives
+AJZT-AA7C
+
+// Start with twice as much energy
+AYCA-AAFE
+
+// Infinite energy
+AJZA-AA5W
+
+// Invincibility
+AW0A-CA30
+
+// Invincibility against spikes when walking
+AX7A-CA9J
+
+// Infinite Fly time (once you have it)
+AJPA-AA6N
+
+// Start each life with Fly time. See notes.
+HB1T-BEXC
+
+// Invincibility
+R00A-C6VJ
+R17A-C61J
+R18T-C600
+RYBA-E6WY
+RYAT-E60T
+R19T-C610
+R18T-C6YE
+R17A-C6XG
+
+// Take fly recharge anywhere
+RFFA-C6VJ
+
+// Take items anywhere
+ALVT-CA66
+
+// Time stopped
+755A-CA8G

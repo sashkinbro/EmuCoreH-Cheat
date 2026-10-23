@@ -1,0 +1,23 @@
+// Infinite Energy
+00C7-0A08
+
+// Infinite Spin
+00C3-097F
+
+// Start level 1 with 3 lives
+031-CFD-F7E
+
+// Start level 1 with 7 lives
+071-CFD-F7E
+
+// Start level 1 with 9 lives
+091-CFD-F7E
+
+// Infinite lives
+00E-32E-3B7
+
+// Infinite Lives
+00C0-0209
+
+// Invulnerable To Some Hazards
+181-ADC-6EA

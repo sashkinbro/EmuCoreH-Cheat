@@ -1,0 +1,17 @@
+// Infinite Continues
+00C0-1203
+
+// Infinite Health
+00D2-5A05
+
+// Infinite Lives
+00C0-0804
+
+// Infinite Life
+00CA-1F05
+
+// Infinite Health
+007-F79-3BE
+
+// Infinite Lives
+00C-78E-3BE

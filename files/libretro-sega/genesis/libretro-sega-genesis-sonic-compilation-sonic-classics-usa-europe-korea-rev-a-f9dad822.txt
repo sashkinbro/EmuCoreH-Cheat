@@ -1,0 +1,20 @@
+// infinite lives
+GJ6C-CA46
+
+// 99 lives
+NN3W-AAAG
+
+// You can't be hurt by enemies or spikes when you collect rings
+ATTA-CABE
+
+// Rings always count up to 999
+AP2A-CAR4
+
+// Grab rings from anywhere
+AP2A-CAPA
+
+// Dont lose rings when Hit
+AWRW-AA3R
+
+// Dont lose rings when Hit
+ATTA-CA92

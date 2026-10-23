@@ -1,0 +1,11 @@
+// Fake Team 1 Score Modifier (P1)
+FFEB28:0000
+
+// Fake Team 2 Score Modifier (P2/CPU)
+FFEB28:0000
+
+// Team 1 Score Modifier (P1)
+FFF0F8:0000
+
+// Team 2 Score Modifier (P2/CPU)
+FFF0FA:0000

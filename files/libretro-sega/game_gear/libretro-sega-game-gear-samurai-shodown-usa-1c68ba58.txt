@@ -1,0 +1,59 @@
+// Infinite Time
+00C2-0063
+
+// Amakusa Unlocked
+00C0-7580
+
+// Infinite time
+00C-B3D-3BE
+
+// Start round with 50 seconds
+3EC-62D-80E
+32C-63D-193
+
+// Start round with 60 seconds
+3EC-62D-80E
+3CC-63D-193
+
+// Start round with 75 seconds
+3EC-62D-80E
+4BC-63D-193
+
+// Both players start with 1/4 energy
+14F-4BF-E6B
+
+// Both players start with 1/2 energy
+22F-4BF-E6B
+
+// Both players start with 3/4 energy
+30F-4BF-E6B
+
+// Infinite energy
+01B-F4D-E69
+
+// Get Pow from every hit
+3EC-51D-191
+01C-53D-08A
+
+// Once you have Pow you keep it
+007-CAD-3B2
+
+// All hits do massive damage
+20B-4BC-F77
+06B-4AC-E68
+
+// Infinite Life P1
+00C0-9050
+
+// Infinite Life P2
+00C0-9352
+
+// 1-Hit For P2
+00C0-9300
+
+// Amakusa Unlocked
+181-10E-6EA
+183-4AE-6EA
+
+// Unlock Amakusa on character select screen (Enable before Takara Logo)
+00B-87F-F7E

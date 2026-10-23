@@ -1,0 +1,17 @@
+// Invulnerability
+00C6-DD5E
+
+// Invulnerability
+B67-65B-7F4
+
+// Level Select
+00C6-1A01
+
+// Infinite Lives
+00C6-3D09
+
+// Infinite Health
+3A6-2F9-2A2
+
+// Infinite Lives
+3A6-8EC-2A2

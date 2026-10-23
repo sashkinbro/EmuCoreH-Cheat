@@ -1,0 +1,55 @@
+// Infinite Health
+AX2A-AA6Y
+DM2A-AA8N
+
+// Infinite Lives
+BM2A-AA9L
+
+// Start on Stage 2
+AJST-EAHY
+HAPA-BEWA
+
+// Start on Stage 3
+ANST-EAHY
+HAPA-BJWA
+
+// Start on Stage 4
+ATST-EAHY
+HAPA-BNWA
+
+// Start on Stage 5
+AYST-EAHY
+HAPA-BTWA
+
+// Invincibility Mickey and Donald
+R12A-A6VT
+
+// Infinite Tries Mickey and Donald
+AM2A-AA9L
+
+// Infinite Energy Mickey and Donald
+AM2A-AA6Y
+
+// Hit enemies from anywhere
+DM4T-AA3R
+
+// Jump higher
+9MVA-B97N
+
+// Jump much higher
+9DVA-B97N
+
+// Level select
+9AST-FCSW
+02ST-FHHY
+
+// Stage select
+52JA-F96A
+AJST-EA92
+REJT-E6WN
+
+// Modifies the gravity in the game
+AC8T-BACR
+
+// Walk thru walls
+R1CT-A61J

@@ -1,0 +1,89 @@
+// Start with 1 try instead of 3 (player 1)
+AEST-BA30
+
+// Start with 9 tries (player 1)
+BEST-BA30
+
+// Start with 25 tries (player 1)
+DEST-BA30
+
+// Start with 50 tries (player 1)
+GJST-BA30
+
+// Start with 75 tries (player 1)
+KNST-BA30
+
+// Start with 99 tries (player 1)
+NNST-BA30
+
+// Infinite tries
+BM2A-AA9R
+
+// Infinite health
+AX2A-AA62
+DM2A-AA8T
+
+// Candy restores health fully
+FF5T-BAWC
+
+// Candy worth nothing
+AK5T-AA4C
+
+// Cake worth nothing
+RZ5T-A6W8
+
+// Gain an extra try with every card instead of 52
+AF6A-AAA2
+
+// Gain an extra try with 10 cards
+BK6A-AAA2
+
+// Gain an extra try with 26 cards
+DK6A-AAA2
+
+// Enemy hits cost 2 health points
+A92A-BJYL
+
+// Enemy hits cost 3 health points
+A92A-BNYL
+
+// Enemy hits cost 4 health points
+A92A-BTYL
+
+// Start on stage 2
+AJST-EAH2
+HAPA-BEWE
+
+// Start on stage 3
+ANST-EAH2
+HAPA-BJWE
+
+// Start on stage 4
+ATST-EAH2
+HAPA-BNWE
+
+// Start on stage 5
+AYST-EAH2
+HAPA-BTWE
+
+// Infinite Energy
+AM2A-AA62
+
+// Infinite Lives
+A52A-AA9T
+
+// Invincibility
+FX1T-AN8N
+A51T-AR8Y
+
+// Unlimited Energy
+FFA038:0005
+
+// Untouchable Mickey & Donald P1, P1 & P2
+R12A-A6VY
+
+// Super High Jump
+FFA01C:0000
+
+// Walk Thru Walls
+RHAT-A60N

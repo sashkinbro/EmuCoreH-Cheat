@@ -1,0 +1,8 @@
+// Infinite Health
+00C1-6A08
+
+// Infinite Web
+00C1-6D08
+
+// Invincibility
+C94-2AD-19E

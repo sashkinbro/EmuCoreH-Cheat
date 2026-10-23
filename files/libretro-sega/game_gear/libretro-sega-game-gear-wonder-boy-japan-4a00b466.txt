@@ -1,0 +1,35 @@
+// Infinite Lives
+00C1-4309
+
+// Freeze Wonder Boy's Jogging Animation
+00C1-7013
+
+// Infinite Red/Yellow Bar
+00CC-3611
+
+// Infinite Lives
+00C1-2D09
+
+// Start On Stage
+00C1-2800
+
+// Invincibility + Stone Hammers
+00C1-2703
+
+// Invulnerability
+A11-92D-4C8
+
+// Have Skateboard
+CDE-13C-F79
+
+// Have Stone Hammers
+00E-1CC-91E
+
+// Infinite Lives
+005-47E-3BE
+
+// Infinite Health
+004-BC9-3BE
+
+// Area/Round Select after Title Screen
+00C0-5401

@@ -1,0 +1,14 @@
+// Strikes Modifier
+FFF034:0000
+
+// Outs Modifier
+FFF034:0000
+
+// Balls Modifier
+FFF032:0000
+
+// Team 1 Score Modifier (P1)
+FFF04C:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FFF04C:0000

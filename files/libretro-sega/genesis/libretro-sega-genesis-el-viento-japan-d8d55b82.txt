@@ -1,0 +1,46 @@
+// Infinite Energy
+AXBT-AA9J
+AXBT-AA7C
+
+// Mp Is Always Full
+AWKT-AA5Y
+
+// Invincibility/Untouchable
+R1BT-A60C
+
+// Infinite Continues
+AVDT-AA3A
+
+// Start with 5 Continues, instead of 3
+AZDT-AAGW
+
+// Start with 7 Continues
+A7DT-AAGW
+
+// Start with 9 Continues
+BFDT-AAGW
+
+// Pause the game and press C to increase your Magic Abilities, B to Skip Levels, and A to enable Slow Motion Gameplay
+AWGT-B66L
+AWGT-AA6R
+
+// Start a new game with 3 Magic Abilities
+AP9T-AAA6
+
+// Start a new game with 5 Magic Abilities
+AZ9T-AAA6
+
+// Start a new game with more MP
+GB9T-AAAN
+
+// Start a new game with max MP
+LB9T-AAAN
+
+// Start on Test Level
+AB9A-AADW
+
+// Jump Height Modifier
+TCNA-B94A
+
+// Invincibility
+ADBT-AA8J

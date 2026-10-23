@@ -1,0 +1,59 @@
+// Infinite Lives
+AFCT-AADT
+
+// Infinite Energy
+AFZT-CAET
+
+// Invincibility
+AE7T-AAEC
+A27T-AR6Y
+
+// Untouchable
+FF04E0:000C
+
+// Infinite Health
+FF00B8:0038
+
+// Infinite Lives
+FF00BE:0009
+
+// Level Modifier
+FF0106:0000
+
+// No Health Enemies
+FF178A:0000
+FF178C:0000
+FF178E:0000
+
+// Always Have Knife
+FF237E:0001
+
+// Take No Damage From Some Enemies
+AVZT-CA6R
+
+// Infinite Lives (Alternate)
+ABCT-AADR
+
+// Turbo Mode
+AAWA-AA52
+
+// You Die With One Hit
+AKYT-CAV2
+
+// Once You Are Knocked Down Or Shot, You Will Be Invincible For The Rest of The Level
+AT7T-AA6R
+
+// Invincible To All Attacks With The Exception of Throws
+ABYA-CA6Y
+
+// Invincible Against Throws
+AA1A-CA76
+
+// Doesn't Stumble Over
+RZNT-C60C
+
+// 1 Hit Kill Enemies And Bosses
+AKXT-CA6A
+
+// Infinite Shot
+AKEA-AA9E

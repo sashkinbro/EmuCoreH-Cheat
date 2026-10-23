@@ -1,0 +1,11 @@
+// Infinite McDonald's Symbols
+00D5-0199
+
+// Infinite Lives
+00D0-B909
+
+// Infinite Minutes (On Clock)
+00D4-EB09
+
+// Infinite Seconds (On Clock)
+00D4-EA59

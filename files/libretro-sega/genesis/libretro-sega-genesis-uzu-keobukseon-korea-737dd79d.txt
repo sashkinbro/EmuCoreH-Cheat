@@ -1,0 +1,12 @@
+// Infinite Lives
+AKRT-AA44
+
+// Infinite Energy
+RZJA-A6ZY
+
+// Invincibility (Disable Hit Detection)
+RZCT-A6WJ
+RZCA-A61J
+
+// Infinite Bomb
+AK8T-AA8L

@@ -1,0 +1,43 @@
+// All Hits Are Homeruns! (Even Grounders!)
+AK9A-AE9A
+
+// All Hits Turn Around In Mid-Air And Head Back Towards Batter!
+CV9A-AA8C
+
+// Any Hit Is A Guaranteed Base Hit At Least
+AK9A-AE9C
+
+// Any Hit Is A Guaranteed Base Hit At Least (Similar To Above Code -- A Little Glitchy)
+AK9A-AVHA
+
+// VERY Easy To Hit The Maximum Distance Homeruns (600 Feet)!
+JV9A-BXHA
+
+// All Hits Are Foul Balls
+A79A-AFHC
+
+// Most Grounders Will Curve Sharply (Instead Of Going Straight)
+AK9A-BR9A
+
+// Strikes Modifier
+FF0E6A:0000
+
+// Balls Modifier
+FF0E6A:0000
+
+// Outs Modifier
+FF0E6C:0000
+
+// Team 1 Score Modifier (P1)
+FF07CA:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FF07CA:0000
+
+// Enable BADACODEAAAA Password
+JH3T-CJ0T
+JH3T-CC00
+JH3T-CC02
+
+// Infinite Spitball Warnings - Home Team
+FF0E60:0000

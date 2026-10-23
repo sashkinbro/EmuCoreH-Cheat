@@ -1,0 +1,36 @@
+// Regional Lockout Bypass Code
+AJBT-AA54
+
+// Infinite Lives
+AJMT-AA5L
+
+// Infinite Health
+AJST-AA4N
+
+// Invincibility
+RYWT-A6V0
+RZRT-A6Z2
+R02T-A6YL
+R1GT-A6VA
+RYWT-A6Z6
+R0AT-C6XR
+R0KA-C6XC
+RYXA-A6XL
+
+// Infinite Bombs
+AKET-AA7N
+
+// Infinite Wheel
+AJST-AA6E
+
+// Freeze Time
+ATST-AA20
+
+// Keep Power of Weapon After The Death
+BAMT-AA64
+
+// Keep Homing Missile After The Death
+AJMT-AA70
+
+// Infinite Continue
+AJNT-AA32

@@ -1,0 +1,26 @@
+// Infinite lives
+AMJT-AA8R
+AXKA-AA7A
+
+// Infinite Energy
+FF8C26:0064
+
+// Infinite Lives
+FF8C1C:0009
+
+// Infinite Energy
+R1ST-A6VL
+
+// Pinocchio has high moon jump with slow descent
+AABA-DTCW
+
+// Pinocchio has super high moon jump with slow descent
+AABA-C6CW
+
+// Invincibility (Disable Hit Detection)
+RZ8A-C6WL
+R0TA-C60A
+R0HA-C61R
+RZ8T-C6VL
+R1HT-A6XY
+R1HT-A602

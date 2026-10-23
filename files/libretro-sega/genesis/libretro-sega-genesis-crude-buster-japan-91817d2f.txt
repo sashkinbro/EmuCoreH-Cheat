@@ -1,0 +1,21 @@
+// Infinite Lives
+AKXA-AA46
+
+// Infinite Energy
+AWYA-AA8N
+
+// Untouchable
+R0XT-A61R
+RZWT-A60J
+
+// Infinite Continue
+AKFA-AA76
+
+// Freeze Time Continue
+AKFA-AA46
+
+// Can select 9 lives in the Options menu
+BF1T-BA74
+
+// Can select up to 9 continues in the Option menu
+BF1T-AAG4

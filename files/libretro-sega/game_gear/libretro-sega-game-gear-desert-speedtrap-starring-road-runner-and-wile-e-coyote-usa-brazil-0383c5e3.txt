@@ -1,0 +1,88 @@
+// Invincible
+00CA-E501
+
+// Infinite Lives
+00C0-2902
+
+// Infinite hits
+212-39B-19D
+
+// 2 energy points allowed (1st life only)
+014-74E-E66
+
+// 3 energy points allowed (1st life only)
+024-74E-E66
+
+// 1 energy point allowed (1st life only)
+004-74E-E66
+
+// 10 energy points allowed (1st life only)
+094-74E-E66
+
+// Start With 2 Lives
+015-3AF-E62
+
+// Start With 6 Lives
+065-3AF-E62
+
+// Start With 9 Lives
+095-3AF-E62
+
+// Infinite timer
+001-59B-A2A
+
+// Start With 1 Credit
+015-0FF-E66
+
+// Start With 5 Credits
+055-0FF-E66
+
+// Start With 7 Credits
+075-0FF-E66
+
+// Start With 9 Credits
+095-0FF-E66
+
+// Enemies can't hurt
+C31-A8B-E61
+
+// Start On Level 3
+035-0FF-E66
+325-13F-082
+
+// Start On Level 6
+065-0FF-E66
+325-13F-082
+
+// Start On Level 9
+095-0FF-E66
+325-13F-082
+
+// Start On Last Level
+0E5-0FF-E66
+325-13F-082
+
+// Infinite Credits
+00E-F5F-19E
+
+// Infinite Health
+00CA-DC04
+
+// Infinite Credits
+00C0-2809
+
+// Infinite Stars
+00C2-0899
+
+// Infinite Time
+00CA-DF0A
+
+// Invulnerability
+048-06E-E66
+
+// Infinite Lives
+3AE-F6F-2A2
+
+// Jump Higher
+166-289-6E6
+F06-299-5D3

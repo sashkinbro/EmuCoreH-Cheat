@@ -1,0 +1,8 @@
+// Have 39,000 Gold
+FFDA80:9999
+
+// Max Blue Hearts
+FFDA7A:000F
+
+// Infinite Blue Hearts
+FFDA76:000F

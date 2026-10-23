@@ -1,0 +1,37 @@
+// Infinite Energy
+BBLA-AA3E
+
+// Infinite Lives
+A3LA-AA5T
+
+// Invincibility
+BAPA-AA6C
+DTPA-AN7J
+BBLA-AA3E
+
+// Infinite Health
+FF1470:0007
+
+// Infinite Lives
+FF13E6:0009
+
+// Infinite Bombs
+FF146A:0009
+
+// Untouchable
+RZLA-A6T2
+
+// Infinite Gold Coins
+AW4T-AA7W
+
+// Skip Levels In Game Pause Press A+Start
+AJ3A-GA6L
+
+// 9999 Coins
+FF146C:270F
+
+// Press the Jump button to fly. See notes.
+RYBA-E604
+
+// Can select up to 15 lives in the Options menu.  See notes.
+B6HT-AAE8

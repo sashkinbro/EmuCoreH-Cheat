@@ -1,0 +1,5 @@
+// Infinite Lives
+00C0-1F05
+
+// Infinite Energy
+B6D-16E-3BE

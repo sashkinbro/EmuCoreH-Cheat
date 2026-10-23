@@ -1,0 +1,22 @@
+// Infinite Lives
+AVYA-AA5W
+
+// Infinite Health
+AL1A-AA38
+
+// Invincibility (Disable Hit Detection)
+RZBA-A6T8
+RZBT-A6Y8
+RYPA-G6YW
+RYNA-G602
+RYFT-G6X8
+R1ZT-A61R
+
+// Keep Diamands After The Death
+ALST-CA48
+
+// Freeze Time
+ALZT-AA30
+
+// Freeze Time Continue
+AK1A-AA6C

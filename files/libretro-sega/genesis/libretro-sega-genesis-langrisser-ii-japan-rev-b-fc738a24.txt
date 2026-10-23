@@ -1,0 +1,43 @@
+// Allways Have All The Units
+AJZT-EA3T
+
+// All Items Avalaible In The Item Shop
+AB7T-EA7G
+
+// Free Troops
+AJYT-EA4W
+
+// Free Items
+AK5A-EA8J
+
+// Max Hp To The Char You Place The Cursor In
+STCA-D0CG
+BJCA-CACJ
+
+// Max Hp To The Unit You Place The Cursor In
+STBT-D0AE
+BJBT-CAAG
+
+// Realease Turn Of Character Or Unit You Place The Cursor In
+FYCA-CE0T
+
+// Magic Allways Avalaible
+RGJA-Y6X2
+
+// Summon Allways Avalaible
+RGJA-Y6ZG
+
+// All Spells
+AJKA-EA7E
+
+// All Summons
+AJMT-EA7A
+
+// Infinite Mp For Summons
+AMZT-AA2Y
+
+// Everyone Can Equip Anything
+AB2T-EAA0
+
+// When you get a level-up, you'll level-up all the way to level 10, and you'll get to make a class change.
+AKEA-CA6N

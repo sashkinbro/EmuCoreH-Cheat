@@ -1,0 +1,8 @@
+// Infinite Health P1
+00C4-8849
+
+// Infinite Credits (Continues)
+00C4-0B09
+
+// No Health P2
+00C4-8A00

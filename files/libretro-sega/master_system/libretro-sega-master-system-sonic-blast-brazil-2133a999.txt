@@ -1,0 +1,17 @@
+// Invulnerability
+00D5-22B1
+
+// Invulnerability
+005-EE5-3BE
+
+// Infinite Rings
+00D2-5E99
+
+// Infinite Lives
+00D1-7809
+
+// Don't Lose Rings When Hit
+002-335-A2A
+
+// Don't Die When Hit With No Rings
+C32-725-E61

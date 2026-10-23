@@ -1,0 +1,17 @@
+// Infinite Bombs
+FF824A:0003
+
+// Health
+AAPA-AAAR
+
+// Infinite Magic
+AKXT-AA9R
+
+// Infinite Coins
+AJWA-AA22
+
+// Invincible
+FFAF14:0010
+
+// Enemies self-destruct
+RZPA-A6Z6

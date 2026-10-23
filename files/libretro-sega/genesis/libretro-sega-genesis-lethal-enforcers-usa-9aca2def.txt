@@ -1,0 +1,135 @@
+// Start each level with Magnum
+AFTA-BA5L
+
+// Start each level with Shotgun
+AKTA-BA5L
+
+// Start each level with Assault Rifle
+APTA-BA5L
+
+// Start each level with Machine gun
+AVTA-BA5L
+
+// Start each level with Automatic
+AZTA-BA5L
+
+// Start each level with Grenade gun
+A3TA-BA5L
+
+// Continue with Magnum
+AE9A-BA80
+
+// Continue with Shotgun
+AJ9A-BA80
+
+// Continue with Assault Rifle
+AN9A-BA80
+
+// Continue with Machine gun
+AT9A-BA80
+
+// Continue with Automatic
+AY9A-BA80
+
+// Continue with Grenade gun
+A29A-BA80
+
+// Keep gun after getting shot (1st life only)
+AKBT-AA54
+
+// Score 100% accuracy every time [always get a double promotion]
+W3GT-ADJY
+
+// Don't go down in rank for shooting innocent bystanders
+RGST-A6VG
+
+// Infinite ammo
+GBCT-AA5J
+
+// Infinite lives
+ABBT-BA8T
+
+// Infinite credits
+ABAT-BE46
+
+// Revolver reloads with 12 shots instead of 6
+A3CT-A2GJ
+
+// Magnum reloads with 12 shots instead of 6
+BVCT-ANGJ
+
+// Revolver and Magnum reload with 12 shots instead of 6
+BVCT-A2GJ
+
+// Shotgun reloads with 12 shots instead of 6
+BVCT-A2GL
+
+// Assault Rifle reloads with 24 shots instead of 12
+DBCT-ANGL
+
+// Shotgun reloads with 12 shots and Assault Rifle reloads with 24 shots
+DBCT-A2GL
+
+// Machine gun reloads with 56 shots instead of 28
+BVCT-BTRN
+
+// Automatic reloads with 24 shots instead of 12
+DBCT-B2GN
+
+// Machine gun reloads with 56 shots and Automatic reloads with 24 shots
+DBCT-BTRN
+
+// Grenade gun reloads with 14 shots instead of 7
+ABCT-A6GR
+
+// Infinite Energy
+AKBT-AA9A
+
+// Infinite Ammo
+A3CT-AA5E
+
+// Infinite Energy
+FFA09E:0005
+
+// Infinite Ammo [No Reload]
+FFA0AE:0006
+
+// Infinite Health P2
+FFA0A0:0005
+
+// Infinite Bullets P2
+FFA0B0:0006
+
+// Infinite Credits
+FFA094:0099
+
+// Invincibility
+RZBT-A6WE
+
+// Enable hidden level select
+A61T-BE36
+
+// Hit anywhere (never miss)
+RGRT-A6VE
+BWRT-AA50
+B4RT-AA3R
+BWRT-AA6N
+ECRA-AA7J
+
+// Enable hidden level select arrow
+A61T-BA6J
+
+// Start on stage 2 (Chinatown Assault)
+AJ0A-AABJ
+
+// Start on stage 3 (The Hijack)
+AN0A-AABJ
+
+// Start on stage 4 (The Drug Dealer)
+AT0A-AABJ
+
+// Start on stage 5 (The Chemical Plant)
+AY0A-AABJ
+
+// View game ending/credits
+BA0A-AABW

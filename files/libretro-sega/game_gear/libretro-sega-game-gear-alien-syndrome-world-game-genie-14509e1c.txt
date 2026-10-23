@@ -1,0 +1,14 @@
+// Start With 1 Life
+010-75F-E66
+
+// Start With 5 Lives
+050-75F-E66
+
+// Start With 9 Lives
+090-75F-E66
+
+// Start With 500 Seconds
+058-39F-E66
+
+// Start With 900 Seconds
+098-39F-E66

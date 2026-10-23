@@ -1,0 +1,5 @@
+// Never Taken A Shot
+00C2-2400
+
+// Always On First Shot
+00C2-2401

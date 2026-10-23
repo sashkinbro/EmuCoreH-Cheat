@@ -1,0 +1,50 @@
+// Take No Damage
+LAYA-TA8E
+
+// Mostly Untouchable
+AB7A-TA5J
+
+// Infinite Lives
+RYPA-T6W0
+
+// Hyper Goofy
+FFB10E:0009
+
+// Infinite Health Goofy
+FF01C2:0005
+
+// Infinite Blue Balls (Ignore HUD)
+FF0550:0083
+
+// Infinite Lives
+FF057A:004F
+
+// Infinite Yellow Balloons
+FF04F8:0078
+
+// Infinite Continues (Ignore Continue Screen)
+FF0650:0009
+
+// Invincibility (Disable Hit Detection)
+RZ7T-T6TC
+R0FT-T61A
+RYEA-W6V6
+R03T-26YG
+
+// Infinite Weapon 1
+AJPA-TA64
+
+// 1 Hit Kill Enemies
+AK7T-TA58
+
+// 1 Hit Kill Bosses
+ATEA-WA9J
+
+// Infinite Continue
+AXZT-0A44
+
+// Invincibility
+FF060C:0010
+
+// Infinite Controllable Jump + Jump In Mid Air 2 in 1
+AA4T-TABW

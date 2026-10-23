@@ -1,0 +1,17 @@
+// P1 Infinite Nitros (Red Car)
+00C1-1363
+
+// P2/CPU Has No Nitros (Yellow Car)
+00C1-4800
+
+// CPU Has No Nitros (Dark Blue Car)
+00C1-7D00
+
+// CPU Has No Nitros (Grey Car)
+00C3-5000
+
+// FAKE Infinite Time
+00D2-1100
+
+// Infinite Credits
+00D0-6509

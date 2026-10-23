@@ -1,0 +1,30 @@
+// skip the intros
+AAMA-A32C
+
+// See everything
+AAMA-AACY
+
+// Fast Music
+WVDA-ALLC
+
+// Fast Music (Alternate Code)
+AFDA-ANCE
+
+// Music Is Off Beat
+A77A-ABRA
+
+// Infinite Time
+FF0F1C:00FF
+
+// Once you click on the item the clock doesn't run fast when you get it wrong
+AA5A-AABW
+
+// Can't get anything
+AA6A-AAGE
+
+// The background doesn't move
+AASA-AADW
+
+// Freeze Time
+RYVT-A6W0
+RYVA-A618

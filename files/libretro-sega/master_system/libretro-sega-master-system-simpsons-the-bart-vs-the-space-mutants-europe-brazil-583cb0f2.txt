@@ -1,0 +1,30 @@
+// Infinite Lives
+00C0-1003
+
+// Infinite Time
+00C3-AF09
+
+// Infinite Paint
+00C3-E9BE
+
+// Invulnerability
+00C3-E76D
+
+// Invulnerability
+C96-599-2A2
+
+// Infinite Coins
+3A3-F69-2A2
+002-DB9-E6E
+
+// Infnite Energy
+3A6-759-2A2
+
+// Infinite Time
+1A6-18C-A22
+
+// Infinite Lives
+3A6-6B9-2A2
+
+// More Spraypaint From Cans
+FF5-B49-194

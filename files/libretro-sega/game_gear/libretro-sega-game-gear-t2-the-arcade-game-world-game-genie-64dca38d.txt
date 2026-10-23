@@ -1,0 +1,5 @@
+// Infinite Energy
+00DC-CF80
+
+// Infinite Gun
+00DC-CEA0

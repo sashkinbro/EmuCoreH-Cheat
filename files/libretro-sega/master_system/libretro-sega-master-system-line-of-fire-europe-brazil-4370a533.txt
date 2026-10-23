@@ -1,0 +1,48 @@
+// Invulnerability
+00C6-1432
+
+// Infinite Health
+00C6-1830
+
+// Cheat Mode
+00C1-0401
+
+// Infinite Lives
+00CB-8109
+
+// Infinite Continues
+00CB-9309
+
+// Infinite Missiles
+00CB-9409
+00CB-9509
+00CB-9609
+
+// Invincibility
+4E5-F6A-D51
+4EE-925-D51
+
+// Infinite Lives
+003-B0C-3BE
+
+// Infinite Continues
+001-489-3BE
+
+// Infinite Missiles
+7E3-B3B-3B7
+
+// Don't Die When Life Reaches 0
+623-60C-F70
+
+// Cheat Mode Enabled
+CDC-0CD-F79
+
+// Enable 3-D Mode
+00C1-0201
+
+// Disable 3-D Mode
+00C1-0200
+
+// Infinite Health
+7EF-06F-3B7
+7E3-42C-3B7

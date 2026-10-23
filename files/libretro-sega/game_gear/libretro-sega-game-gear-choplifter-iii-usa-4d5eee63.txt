@@ -1,0 +1,32 @@
+// Heat Seeking Missles
+00D1-7B01
+
+// Start with 3 extra lives
+00D2-3802
+
+// Infinite Lives
+00C9-F603
+
+// Infinite Health
+00D1-6B14
+
+// Infinite Lives
+00D2-0509
+
+// Infinite Health (Ignore Display)
+00D1-6B05
+
+// Hostages Saved (Ignore Display)
+00D1-6900
+
+// Infinite Damage From Hitting Trees
+000-CDB-E66
+
+// Infinite Damage From Tank Ammo
+000-2DC-A2C
+
+// Infinite Damage From Hitting Birds
+00D-04B-A20
+
+// Have Heat Seeking Missiles
+008-6EC-C49

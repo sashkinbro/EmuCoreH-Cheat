@@ -1,0 +1,14 @@
+// Invincibility
+C92-73B-2A2
+
+// Infinite Health
+00CF-3E33
+
+// Time Limit
+00CF-5D59
+
+// Infinite Ammo
+00CB-A656
+
+// Infinite Ammo
+00D-6AF-19E

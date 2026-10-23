@@ -1,0 +1,8 @@
+// Infinite Health
+00CA-9203
+
+// Infinite Lives
+00CA-9109
+
+// Infinite Continues
+00DE-D809

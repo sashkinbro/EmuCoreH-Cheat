@@ -1,0 +1,50 @@
+// Unlimited Energy For First Character
+00C4-0DEF
+
+// Unlimited Energy For The Second Character In Tag M
+00C4-4CEF
+
+// Start with no energy (Hulk Hogan)
+023-327-5D5
+
+// Start with 1/4 energy (Hulk Hogan)
+4F3-327-5D5
+
+// Start with 1/2 energy (Hulk Hogan)
+6A3-327-5D5
+
+// Start with 3/4 energy (Hulk Hogan)
+C03-327-5D5
+
+// Start with 1/4 energy (opponent)
+453-8E7-5D5
+
+// Start with 1/2 energy (opponent)
+6A3-8E7-5D5
+
+// Start with 3/4 energy (opponent)
+C03-8E7-5D5
+
+// Not allowed outside ring for long
+03B-BAB-C42
+
+// No out-of-ring counter (Hulk Hogan)
+003-076-E65
+
+// Hulk is invincible and so is opponent, who can only be body slammed
+C98-076-6EE
+
+// Stamp takes ?? points from opponent [04]
+00C-E05-F7A
+
+// Tummy bump takes 04
+00B-EA5-F7A
+
+// Body slam causes max damage
+FFB-845-A2A
+
+// Body slam causes no damage
+00B-845-A2A
+
+// Body slam causes 1/2 damage
+99B-845-A2A

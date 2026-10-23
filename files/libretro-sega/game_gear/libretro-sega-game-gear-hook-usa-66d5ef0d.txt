@@ -1,0 +1,32 @@
+// Infinite Time
+00DA-AB01
+
+// Infinite Lives
+00DA-F709
+
+// Infinite Health
+00DA-A903
+
+// Invulnerability (Blink)
+00DB-2DFF
+
+// Invulnerability
+181-5BD-6EA
+
+// Infinite Seconds
+00DA-AB44
+
+// Infinite Hits
+00DA-A902
+
+// Infinite Health
+007-7CD-19E
+
+// Infinite Lives
+009-A0F-19E
+
+// Infinite Time
+00A-75E-19E
+
+// Jump Higher
+FEB-56D-195

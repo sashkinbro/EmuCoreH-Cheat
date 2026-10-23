@@ -1,0 +1,104 @@
+// Pit crew time is 0
+AA9T-6A8A
+
+// Pit crew time is 2x normal
+JA9T-7EZ4
+
+// Pit crew time is 1/2x normal
+JA9T-7TZ4
+
+// Pit crew time is 1/4x normal
+JA9T-7AZ4
+
+// Tires don't wear out from normal driving
+AJ5A-6A2N
+
+// No Tire Wear from bumping some cars &amp; some rough driving
+ABBT-6AD0
+
+// No Tire Wear from bumping cars or other rough driving
+ABBA-6ACC
+
+// Tires don't wear out from hitting some trees, signs, etc.
+ABAT-6ADR
+
+// Tires don't wear out from hitting other trees, signs, etc.
+ABBA-6AF8
+
+// No warning to pit when tires are worn
+AT5A-6A4J
+
+// Each race is 1 lap
+AJ2A-6A5L
+
+// Each race is infinite laps [lap never counts up]
+AJ2A-6A48
+
+// Tires last 1/4x long as normal
+ABKT-6EG4
+AA9T-6ECA
+
+// Tires last 1/2x long as normal
+ABKT-6JG4
+AA9T-6JCA
+
+// Tires last 2x long as normal
+ABKT-7AG4
+AA9T-7ACA
+
+// Tires last 3x long as normal
+ABKT-7TG4
+AA9T-7TCA
+
+// Highest gear with manual transmission is 5th
+AYRT-6AB0
+AYRT-6AB6
+
+// Highest gear with manual transmission is 4th
+ATRT-6AB0
+ATRT-6AB6
+
+// Highest gear with manual transmission is 3rd
+ANRT-6AB0
+ANRT-6AB6
+
+// Highest gear with manual transmission is 2nd
+AJRT-6AB0
+AJRT-6AB6
+
+// Highest gear with manual transmission is 1st
+AERT-6AB0
+AERT-6AB6
+
+// 11 speed transmission
+BTRT-6AB0
+BTRT-6AB6
+
+// Take corners at full speed! [only lasts 3 - 4 laps.]
+CVKT-7JG4
+CT9T-6ECA
+
+// Almost always finish 1st in Championship mode.
+FFF524:000F
+
+// Accelerate faster, and have a higher top speed.
+J6VT-6NCT
+RTVT-6ACW
+
+// Accelerate much faster, and have a higher top speed.
+J6VT-6NCT
+92VT-6ACW
+
+// When you hit an obstacle (bridge, sign, etc), you'll get back on the track faster.
+AJ0T-6A6L
+
+// Take Corners At Full Speed! (Only Lasts 3 ~ 4 Laps)
+CVKT-7JG4
+CT9T-6ECA
+
+// 11-Speed Transmission
+BTRT-6AB0
+BTRT-6AB6
+
+// Overtaken Modifier
+FFE402:0000

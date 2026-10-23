@@ -1,0 +1,44 @@
+// Start With 1 Life
+002-4FA-E66
+
+// Start With 2 Lives
+012-4FA-E66
+
+// Start With 6 Lives
+052-4FA-E66
+
+// Start With 10 Lives
+092-4FA-E66
+
+// Infinite Lives
+3A3-C8A-2A2
+
+// Start With Energy At 1 (1st Life)
+012-4AA-F7A
+
+// Start With Energy At 6 (1st Life)
+062-4AA-F7A
+
+// Start With Energy At 9 (1st Life)
+092-4AA-F7A
+
+// Start With Energy At 1 (1st Life)
+013-C0A-F7A
+
+// Start With Energy At 6 (After 1st Life)
+063-C0A-F7A
+
+// Start With Energy At 9 (After 1st Life)
+093-C0A-F7A
+
+// After Pick-Up, Keep Weapons Until End Of Level (After 1st Life)
+3A4-39C-2A2
+
+// Infinite Time (After 1st Life)
+001-7BB-19E
+
+// Invincible (After 1st Life)
+3A5-93C-2A2
+
+// Protection From Water & Spikes (After 1st Life)
+C39-95E-E61

@@ -1,0 +1,137 @@
+// Start At Mission 2
+AECA-AAGC
+
+// Start At Mission 3
+AJCA-AAGC
+
+// Start At Mission 4
+ANCA-AAGC
+
+// Start At Mission 5
+ATCA-AAGC
+
+// No Continues
+AACA-AAGL
+
+// 2 Continues
+AJCA-AAGL
+
+// 3 Continues
+ANCA-AAGL
+
+// 5 Continues
+AYCA-AAGL
+
+// Unlimited Lives
+ATGA-AA56
+
+// Unlimited Continues
+ATGA-AA70
+
+// Start With 1 Life
+AB6A-AAFR
+
+// Start With 2 Lives
+AF6A-AAFR
+
+// Start With 3 Lives
+AK6A-AAFR
+
+// Start With 4 Lives
+AP6A-AAFR
+
+// Start With 6 Lives
+AZ6A-AAFR
+
+// Start With 8 Lives
+A76A-AAFR
+
+// Start With 10 Lives
+BF6A-AAFR
+
+// Start With No Extra Clips
+AB6A-AAF2
+
+// Start With 1 Extra clip
+AF6A-AAF2
+
+// Start With 3 Extra Clips
+AP6A-AAF2
+
+// Start With 5 Extra Clips
+AZ6A-AAF2
+
+// Start With 7 Extra Clips
+A76A-AAF2
+
+// Start With 9 Extra Clips
+BF6A-AAF2
+
+// Each Clip Holds 1 Round
+AB6A-AAGC
+ACNT-AAAT
+
+// Each Clip Holds 5 Rounds
+AV6A-AAGC
+AWNT-AAAT
+
+// Each Clip Holds 10 Rounds
+BF6A-AAGC
+BGNT-AAAT
+
+// Each Clip Holds 20 Rounds
+CP6A-AAGC
+CRNT-AAAT
+
+// Each Clip Holds 40 Rounds
+E76A-AAGC
+E8NT-AAAT
+
+// Each Clip Holds 80 Rounds
+K76A-AAGC
+K8NT-AAAT
+
+// Start With 1 Grenade
+AF6A-AAGN
+
+// Start With 2 Grenades
+AK6A-AAGN
+
+// Start With 3 Grenades
+AP6A-AAGN
+
+// Start With 5 Grenades
+AZ6A-AAGN
+
+// Start With 7 Grenades
+A76A-AAGN
+
+// Start With 9 Grenades
+BF6A-AAGN
+
+// Infinite Energy
+AMKA-AA9W
+ALTA-AA30
+ALBT-AA20
+AB7A-AA78
+ALMA-AA5A
+ALDA-AA8G
+
+// Invincibility
+R1KA-A61R
+RZ7A-A6Z4
+R0AT-A6VT
+R0MA-A6V8
+R0DA-A6YY
+
+// Infinite Clips
+AWNT-AA6N
+
+// Infinite Ammo
+AW8T-AA5C
+
+// Infinite Granades
+AV8T-AA82
+
+// Freeze Time Find Bomb Exit
+AK5T-AA5G

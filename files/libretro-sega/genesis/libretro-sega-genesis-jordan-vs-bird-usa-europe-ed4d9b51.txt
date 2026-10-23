@@ -1,0 +1,5 @@
+// Infinite Time
+FF5972:0059
+
+// Infinite Ball Possession Time
+FF5974:0099

@@ -1,0 +1,14 @@
+// Course Select
+00C0-1000
+
+// Area Select
+00C0-0705
+
+// Infinite Time
+B64-12D-3BE
+
+// Infinite Time
+00C0-0D3C
+
+// Freeze Timer
+00C0-0C00

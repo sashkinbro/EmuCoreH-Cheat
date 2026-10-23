@@ -1,0 +1,29 @@
+// Infinite Lives
+00C4-A909
+
+// Infinite Time (First Two Digits)
+00C4-9399
+
+// Infinite Time (Last Two Digits)
+00C4-9499
+
+// Infinite Lives
+3AA-8CD-2A2
+
+// Infinite Time
+774-DE9-193
+
+// Freeze Timer (Disable after entering door)
+00C4-BF00
+
+// Invincibility
+015-28D-F7E
+
+// Start with 5 Lives, instead of 2
+051-86F-E62
+
+// Start with 9 Lives
+091-86F-E62
+
+// Choose any Starting Room
+00C4-102F

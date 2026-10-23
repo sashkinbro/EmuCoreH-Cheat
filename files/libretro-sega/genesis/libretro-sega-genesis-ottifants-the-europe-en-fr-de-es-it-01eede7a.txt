@@ -1,0 +1,39 @@
+// Infinite Lives
+ALEA-AA5R
+
+// Infinite Energy
+AKZA-AA28
+
+// Infinite Lives
+FF8798:0004
+
+// Infinite Energy
+FF87B0:0060
+
+// Flight Mode
+FF87AE:000C
+
+// Freeze Flight Mode Timer
+FFB470:02CB
+
+// Full Percentage
+FFA342:00A0
+
+// Infinite Lives
+FF8798:0009
+
+// Keep Flight Round To Round And After The Death
+ABBT-AAGA
+ACBT-AAGN
+ACET-AAG8
+
+// Freeze Time Special Items
+ALMT-AA5N
+ABYT-AADL
+
+// Freeze Time Bonus
+BCMT-AA22
+
+// Invincibility
+RZYT-A606
+RZCT-A61T

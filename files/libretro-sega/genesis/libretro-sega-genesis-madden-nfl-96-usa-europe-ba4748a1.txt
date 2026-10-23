@@ -1,0 +1,91 @@
+// Infinite play clock time (two player mode only)
+ACZA-8AFA
+
+// Start with 35 seconds on play clock
+CCNT-8AA0
+
+// Start with 25 seconds on play clock
+ECNT-8AAG
+
+// Team one starts with 0 time outs
+ACRA-6AGR
+
+// Team one starts with 1 time out
+AGRA-6AGR
+
+// Team one starts with 5 time outs
+A0RA-6AGR
+
+// Team one starts with 9 time outs
+BGRA-6AGR
+
+// Team two starts with 0 time outs
+ACRA-6AGY
+
+// Team two starts with 1 time out
+AGRA-6AGY
+
+// Team two starts with 5 time outs
+A0RA-6AGY
+
+// Team two starts with 9 time outs
+BGRA-6AGY
+
+// Infinite timeouts
+RHGA-66ZE
+RHGA-66ZG
+
+// Touchdowns are worth 0 points
+GD0A-7ATR
+
+// Touchdowns are worth 1 point
+GD0A-7ETR
+
+// Touchdowns are worth 2 points
+GD0A-7JTR
+
+// Touchdowns are worth 3 points
+GD0A-7NTR
+
+// Touchdowns are worth 4 points
+GD0A-7TTR
+
+// Touchdowns are worth 5 points
+GD0A-7YTR
+
+// Touchdowns are worth 7 points
+GD0A-76TR
+
+// Safties are worth 0 points
+GD0A-7AXG
+
+// Safties are worth 1 point
+GD0A-7EXG
+
+// Safties are worth 3 points
+GD0A-7NXG
+
+// Safties are worth 4 points
+GD0A-7TXG
+
+// Safties are worth 5 points
+GD0A-7YXG
+
+// Safties are worth 6 points
+GD0A-72XG
+
+// Safties are worth 7 points
+GD0A-76XG
+
+// Infinite Time Outs
+RHGA-66ZE
+RHGA-66ZG
+
+// Enabled Built Date
+RH4T-86Z2
+
+// Cannot Be Tackled
+HCAA-8TB6
+AWAA-8VB8
+4WAA-91WA
+ALAA-8N4C

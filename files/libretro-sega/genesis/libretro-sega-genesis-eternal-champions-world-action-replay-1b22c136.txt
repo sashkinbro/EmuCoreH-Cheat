@@ -1,0 +1,5 @@
+// P1 Can't Be Hit (All Fighters)
+FFABBA:29DC
+
+// P2 Can't Be Hit (All Fighters)
+FFAA86:29DC

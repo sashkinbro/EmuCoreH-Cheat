@@ -1,0 +1,65 @@
+// Infinite 3 Way [Pick Up 3 Way To Use
+00D2-AC10
+
+// Infinite Rapid Fire[Pick Up Rapid Fire To Use]
+00D2-AE10
+
+// Infinite Grenades[Pick Up Grenades To Use]
+00D2-B410
+
+// Infinite Blaster [Pick Up Blaster To Use]
+00D2-B010
+
+// Infinite Health
+00D2-9B80
+
+// Invulnerable To Bullets
+18F-B1D-6EA
+
+// Infinite Lives
+00D2-F209
+
+// Infinite Bullets
+00D2-AA99
+
+// Invincibility
+00D2-A502
+
+// Infinite Lives
+185-CCF-6EA
+
+// Infinite Health
+3A3-36C-2A2
+
+// Always Have Grenades
+18C-61C-4CA
+
+// Infinite Bullets
+00D-36C-E6E
+
+// Stage Skip
+1FB-94F-E6A
+
+// Invulnerable To Enemies
+18E-11D-6EA
+
+// Infinite Grenades
+00C-65C-E6E
+
+// Cheat Modifier
+00DE-B600
+
+// Enable Level Skip Cheat
+00E-C1F-4CA
+
+// Enable Infinite Lives Cheat
+185-CCF-6EA
+
+// Enable Bulletproof Cheat (Invincible against enemy gunfire)
+C9F-93D-E69
+
+// Enable Start every Level with all Keys Cheat
+006-1AE-C46
+
+// Enable Start every Level with 99 Grenades Cheat
+006-2CE-A2A

@@ -1,0 +1,14 @@
+// Infinite Energy
+FFF054:0000
+
+// Infinite Energy
+AK1A-EA2W
+
+// Infinite Lives
+AKMT-EA3J
+
+// Infinite Ammo
+AJ1T-EA82
+
+// Infinite Grenades
+AJ2T-EA5Y

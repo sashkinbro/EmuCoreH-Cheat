@@ -1,0 +1,8 @@
+// Infinite Time - Seconds
+00C0-CC00
+
+// Infinite Time - Minutes
+00C0-CB00
+
+// Infinite Time - Hours
+00C0-CA00

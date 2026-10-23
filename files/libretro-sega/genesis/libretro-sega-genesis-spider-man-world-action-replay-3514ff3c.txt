@@ -1,0 +1,11 @@
+// Infinite Health
+FFD3CA:6300
+
+// Infinite Lives
+FFD786:0300
+
+// Infinite Blue And Red Webs
+FFD77A:143C
+
+// Infinite Blue And Red Granades
+FFD77C:0202

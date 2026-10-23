@@ -1,0 +1,15 @@
+// Infinite Money
+00CE-0199
+
+// Infinite Beam Power
+00CE-815F
+
+// Infinite Overall Time
+00CE-0B00
+
+// Never Have Items On Car
+00CD-A400
+00CD-A500
+
+// Infinite Ghostbusters
+00CE-0D03

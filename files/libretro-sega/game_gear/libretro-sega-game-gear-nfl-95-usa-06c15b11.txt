@@ -1,0 +1,51 @@
+// Team 2 Score Modifier
+00C2-5300
+
+// Infinite time outs
+3A2-6DB-2A2
+
+// No time outs
+00C-DAF-E66
+
+// Start with 5 time outs
+05C-DAF-E66
+
+// Start with 10 time outs
+10C-DAF-E66
+
+// Only have enough time for one play after kick off in each quater
+00C-F4F-F7E
+
+// 2 min. quarters
+02C-F4F-F7E
+
+// 60 min. quarters
+3CC-F4F-F7E
+
+// Infinite play timer
+3A8-D7E-2A2
+
+// Start with 10 seconds on play clock after most plays
+0A0-79B-4CA
+
+// Always 4th and goal after a kickoff
+049-35E-E6E
+509-30E-C42
+
+// Touchdowns worth 0 points
+006-B09-F72
+
+// Touchdowns worth 1 point
+016-B09-F72
+
+// Touchdowns worth 3 points
+036-B09-F72
+
+// Touchdowns worth 5 points
+056-B09-F72
+
+// Touchdowns worth 9 points
+096-B09-F72
+
+// Extra Points worth 0 points
+000-6C9-3BA

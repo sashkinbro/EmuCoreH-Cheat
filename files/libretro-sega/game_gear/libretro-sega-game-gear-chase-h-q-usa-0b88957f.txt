@@ -1,0 +1,35 @@
+// Infinite Time
+00C2-3E3C
+
+// Infinite Time
+004-F1D-5DA
+
+// Infinite turbos
+006-B4D-3BE
+
+// Timer starts at 50 seconds --1st life
+324-74D-19A
+
+// Timer starts at 70 sceonds --1st life
+464-74D-19A
+
+// Timer starts at 90 seconds --1st life
+5A4-74D-19A
+
+// Timer starts at 50 seconds--after 1st life
+327-61C-19A
+
+// Infinite Continues
+00C2-2803
+
+// Infinite Continues
+007-50C-3BE
+
+// Infinite Turbos
+00C2-8903
+
+// Freeze Timer
+00C2-3D00
+
+// Infinite Time
+2A5-18D-6E2

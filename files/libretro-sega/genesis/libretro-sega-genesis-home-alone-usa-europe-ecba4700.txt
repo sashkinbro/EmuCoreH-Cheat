@@ -1,0 +1,61 @@
+// Infinite Charge
+AL1A-AA8Y
+
+// Infinite Ammo
+RFVA-C6TT
+
+// Freeze Time
+ALVA-AA44
+
+// Infinite Charge
+FFF54C:0030
+
+// Infinite Ammo
+FFF884:0030
+
+// Freeze Time
+FFF582:003B
+
+// Looting Does Not Go Up
+FFF548:0000
+
+// Infinite Tyres
+AKLT-CA5L
+
+// Freeze Loot
+R1FA-A6XE
+
+// Start a new game with 6 of Torches, Ice, Tar, Toys, and Marbles (instead of only 3)
+AB7A-CEFG
+
+// Start a new game with 9 of Torches, Ice, Tar, Toys, and Marbles (instead of only 3)
+AB7A-CGFG
+
+// The Torch Causes 5x As Much Pain On The Bad Guys (Pain Meter)
+APXT-A2BC
+
+// The Torch Causes 10x As Much Pain On The Bad Guys (Pain Meter)
+A3XT-BTBC
+
+// Jump Higher
+9J4T-B94R
+
+// Jump Much Higher (All The Way To The Ceiling)
+9A4T-B94R
+
+// Jump Higher 2
+ABRA-CALW
+
+// Jump Much Higher (All The Way To The Ceiling) 2
+ABRA-DACW
+
+// BB gun causes 10x as much pain on the bad guys (Pain meter)
+33YA-AJEW
+
+// Infinite BB gun ammo
+ABYA-AAE2
+
+// House Will Never Flood (From Looting)
+A5HT-AA6Y
+BA8A-CA2R
+BAYA-CA4C

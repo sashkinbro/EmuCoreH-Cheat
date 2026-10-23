@@ -1,0 +1,14 @@
+// Invincibility
+00C1-1180
+
+// Infinite Lives
+00A-CDF-3BE
+
+// FAKE Infinite Lives
+00C1-3403
+
+// Infinite Lives
+00C1-4203
+
+// Invincible
+320-B1D-082

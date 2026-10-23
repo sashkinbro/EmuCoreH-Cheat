@@ -1,0 +1,5 @@
+// Number of Men Playing Island Modifier
+FFB602:0000
+
+// Fake Number of Men Playing Island Modifier
+FF1256:0000

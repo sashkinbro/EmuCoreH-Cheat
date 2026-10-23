@@ -1,0 +1,5 @@
+// Max Enemies Killed
+FFEA7E:9999
+
+// Highest Rank
+FFEA7C:000B

@@ -1,0 +1,100 @@
+// Almost invincible
+R17T-E60G
+
+// Bridge segments don't fall
+AL2T-EA5W
+
+// Infinite everything
+CX8A-EA5N
+
+// Start with 6 lives
+G57A-FAPA
+
+// Start with 6 of everything
+G57A-FAN2
+
+// Start with 4 of everything
+GX7A-FAN2
+
+// Start with 1 of everything
+GH7A-FAN2
+
+// Infinite Lives
+AM8A-EA5N
+
+// Invincibility
+GXEA-EN78
+
+// Chuck Is Immune To Enemy Attack
+AM0A-EA68
+
+// Allows Chuck To Walk On Lava
+AL2T-EA5G
+
+// Removes All Enemies From The Game
+AX0A-EA32
+
+// Infinite Chucks
+RHZT-E6YJ
+
+// Use To Skip Through Levels
+AMZT-EA5C
+
+// Enabled Round Select
+RHZA-E6Y8
+
+// Infinite Lives
+FFC27E:3939
+
+// Infinite Time (Item Usage)
+FFC264:1212
+
+// Infinite Red Marbles
+FFC26E:3939
+
+// Infinite Blue Marbles
+FFC270:3939
+
+// Infinite Yellow Marbles
+FFC272:3939
+
+// Infinite Green Marbles
+FFC274:3939
+
+// Infinite M Bottle
+FFC278:3939
+
+// Infinite S Bottle
+FFC27A:3939
+
+// Infinite B-Coins
+FFC27C:3939
+
+// Enabled Round Select OFF/ON In Options
+RE8A-G6XR
+AJ6T-GA6W
+AXZA-EAE8
+
+// Jump higher
+AC7A-FZ4A
+
+// Jump much higher
+AC7A-FV4A
+
+// Slow moon descent
+AC7A-EAFT
+
+// Walk thru walls
+R02A-E6X4
+
+// Pause the game to get 20 seconds of invincibility
+96AA-JGG6
+3JAA-JBHA
+
+// Pause the game to refill your health.  See notes.
+HAAA-KE10
+N6AA-JF12
+
+// Invincibility
+R1EA-E618
+R1ET-E6XE

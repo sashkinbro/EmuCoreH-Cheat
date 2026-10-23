@@ -1,0 +1,8 @@
+// Soldiers Assigned To Zao Qian Modifier
+FF4152:0000
+
+// Soldiers Assigned To Zhang Kai Modifier
+FF39D2:0000
+
+// Unassigned Soldiers Modifier
+FFCA9E:0000

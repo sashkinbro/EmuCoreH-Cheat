@@ -1,0 +1,132 @@
+// One-Minute Time Trial
+AEKT-TAHY
+HTKT-TAH4
+
+// Two-Minute Time Trial
+AJKT-TAHY
+SAKT-TAH4
+
+// Five-Minute Time Trial
+AYKT-TAHY
+FTKT-TCH4
+
+// Can't Pause The Game
+DKXA-TA3R
+
+// Stay At Selected Level
+ABSA-VA7J
+
+// Disable Preview Of Next Jewels
+RFMT-T61E
+RFMT-T600
+
+// Invincibility
+AW9A-AA4T
+
+// Auto Acceleration
+AC7A-AA4R
+
+// Accelerate Up To 323 Km/H
+DC7T-AA56
+
+// Nitro Accelerates Up To 390 Km/H
+LC7T-ACC6
+
+// Your Frame And Muffler Never Damages
+CX3A-AA7R
+
+// Auto Drive In Curves
+A2DT-CA9R
+
+// Player 1 Starts With 1 Point
+AJLT-2A4G
+9TLT-3GLL
+AALT-2CCN
+
+// Player 1 Starts With 2 Points
+AJLT-2A4G
+9TLT-3GLL
+AALT-2ECN
+
+// Player 1 Starts With 3 Points
+AJLT-2A4G
+9TLT-3GLL
+AALT-2GCN
+
+// Player 1 Starts With 4 Points
+AJLT-2A4G
+9TLT-3GLL
+AALT-2JCN
+
+// Player 1 Starts With 5 Points
+AJLT-2A4G
+9TLT-3GLL
+AALT-2LCN
+
+// Player 1 Starts With 6 Points
+AJLT-2A4G
+9TLT-3GLL
+AALT-2NCN
+
+// Player 2 Starts With 1 Point
+AJLT-2A4G
+9TLT-3GLL
+AELT-2ACN
+
+// Player 2 Starts With 2 Points
+AJLT-2A4G
+9TLT-3GLL
+AJLT-2ACN
+
+// Player 2 Starts With 3 Points
+AJLT-2A4G
+9TLT-3GLL
+ANLT-2ACN
+
+// Player 2 Starts With 4 Points
+AJLT-2A4G
+9TLT-3GLL
+ATLT-2ACN
+
+// Player 2 Starts With 5 Points
+AJLT-2A4G
+9TLT-3GLL
+AYLT-2ACN
+
+// Player 2 Starts With 6 Points
+AJLT-2A4G
+9TLT-3GLL
+A2LT-2ACN
+
+// Each Player 1 Goal Worth 2
+AJWT-3E9J
+
+// Each Player 1 Goal Worth 3
+ANWT-3E9J
+
+// Each Player 1 Goal Worth 5
+AYWT-3E9J
+
+// Each Player 1 Goal Worth 6
+A2WT-3E9J
+
+// Each Player 2 Goal Worth 4
+ATWT-3E9J
+
+// Instantly accelerate to 280 km
+9W7T-BGMY
+
+// Instantly accelerate to 390 km
+9W7T-BGMY
+LL7T-ACD0
+
+// Accelerate twice as fast
+TG7A-BFWA
+
+// Accelerate twice as fast, and increases your top speed to 323 km
+TG7A-BFWA
+LL7T-ACD0
+
+// Accelerate twice as fast, and increases your top speed to 390 km when using nitro
+TG7A-BFWA
+LL7T-ACDG

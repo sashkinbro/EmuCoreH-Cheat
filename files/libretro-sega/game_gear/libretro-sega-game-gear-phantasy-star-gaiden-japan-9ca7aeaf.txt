@@ -1,0 +1,45 @@
+// Infinite Wood
+00C5-8E63
+
+// Infinite Short
+00C5-8F63
+
+// Infninite Leather
+00C5-A263
+
+// Infinite Monomate
+00C5-C063
+
+// Infinite Wisdom
+00C5-D463
+
+// Infinite HP Alec
+00C5-5067
+
+// Infinite HP Mina
+00C5-335A
+
+// Infinite Gold
+00C5-8BFF
+
+// Start New Game With $65,330
+FFB-718-E6A
+
+// Start New Game With 8 More Of Each Standard Item
+09B-768-E6E
+
+// Buy An Item For Max Money
+219-969-3B4
+FF9-979-5DD
+FF9-989-A23
+
+// Infinite Money
+2A9-999-6E2
+
+// Walk Anywhere
+C3E-65F-801
+3EE-12F-08A
+3EE-20F-08A
+
+// No Random Battles
+C96-A3C-B3D

@@ -1,0 +1,72 @@
+// Invulnerability
+00D5-04FF
+
+// Invulnerability
+18D-5DD-6EA
+
+// Invincibility
+00D5-10A6
+
+// Infinite Energy
+00D0-BA3F
+00DB-FEF3
+
+// Infinite Time
+00D4-EA59
+
+// Infinite Tokens
+00D5-0199
+
+// Infinite Lives
+00D0-B909
+
+// Infinite timer
+219-82B-6E2
+
+// Start With 10 Minutes
+0A2-88B-F76
+
+// Start With 6 Minutes
+062-88B-F76
+
+// Start With 4 Minutes
+042-88B-F76
+
+// Start With 2 Minutes
+022-88B-F76
+
+// Each M logo counts as 5
+05F-ACD-E6E
+
+// Each M logo counts as 3
+03F-ACD-E6E
+
+// Start With 1 Life
+012-51E-F7E
+
+// Start With 5 Lives
+052-51E-F7E
+
+// Start With 10 Lives
+0A2-51E-F7E
+
+// Infinite lives
+002-08E-A29
+
+// Infinite Minutes (On Clock)
+00D4-EB09
+
+// Infinite Time
+009-81B-7FE
+
+// Cheat Menu
+004-09A-E69
+
+// Infinite Health
+7E1-34C-3B7
+
+// Cheat Modifier
+00D5-109C
+
+// Jump in Midair
+003-53C-E69

@@ -1,0 +1,77 @@
+// Start with 1 life
+AETA-CAAJ
+
+// Start with 2 lives
+AJTA-CAAJ
+
+// Start with 4 lives
+ATTA-CAAJ
+
+// Start with 5 lives
+AYTA-CAAJ
+
+// Start with 10 lives
+BJTA-CAAJ
+
+// Start with 15 lives
+B6TA-CAAJ
+
+// Start with 20 lives
+CTTA-CAAJ
+
+// Infinite lives
+AVCA-CA30
+
+// Hi score starts at 0, not 100,000
+AABT-AAFE
+
+// Start on round 2
+AJTA-CEAR
+
+// Start on round 3
+ANTA-CGAR
+
+// Start on round 4
+ATTA-CJAR
+
+// Start on round 5
+AYTA-CLAR
+
+// Start on round 6
+A2TA-CNAR
+
+// Start on round 7
+A6TA-CRAR
+
+// Start on round 8
+BATA-CTAR
+
+// Start on round 9
+BETA-CWAR
+
+// Infinite Lives
+FF4438:0000
+
+// Invincibility
+FF4494:4E75
+
+// Only Need To Bring One Chicken To An Exit To Advance To Next Level
+RFET-C6ZW
+
+// No Enemies (Cats)
+BKVT-CA4T
+
+// Infinite Lives P1
+FFD882:0009
+
+// All Chicks Rescues
+FFD882:0000
+
+// Fake Rescued All Chicks In Bonus Round
+FFD28E:0063
+
+// Press Start on Make Your Movie screen for Round Select
+REVA-C614
+
+// Press Start on Make Your Movie screen for Round Select
+FF22FA:4E71

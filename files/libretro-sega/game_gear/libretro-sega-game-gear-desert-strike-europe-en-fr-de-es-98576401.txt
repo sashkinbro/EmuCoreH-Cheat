@@ -1,0 +1,56 @@
+// Infinite Lives
+00C5-DE09
+
+// Infinite Fuel
+00C5-E099
+
+// Load Modifier
+00C5-E100
+
+// Infinite Gun Ammo
+00C5-E378
+
+// Infinite Hydras
+00C5-E434
+
+// Infinite Hellfires
+00C5-E509
+
+// Infinite Armor
+00C5-E799
+
+// Start With 99 Lives
+999-54F-E66
+
+// Infinite Lives
+002-A57-3BE
+
+// Start With 9 Times More Fuel
+09E-1CE-E6E
+
+// Infinite Fuel
+002-E97-E6E
+
+// Start With 9 Times More Gun Ammo
+99E-0DE-A2E
+
+// Infinite Gun Ammo
+006-FC7-E6E
+
+// Start With 99 Hydras
+99E-08E-3BA
+
+// Infinite Hydras
+005-B07-E6E
+
+// Start With 99 Hellfires
+99E-03E-C4A
+
+// Infinite Hellfires
+004-CF7-E6E
+
+// Start With 16 Times More Armor
+99E-2BE-F72
+
+// Infinite Armor
+009-737-A24

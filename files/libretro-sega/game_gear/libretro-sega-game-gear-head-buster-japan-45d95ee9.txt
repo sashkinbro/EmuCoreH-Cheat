@@ -1,0 +1,12 @@
+// 65,368 Gold
+00C7-E4FF
+
+// Enemies Have Zero Energy
+008-C7F
+008-E7F
+009-07F
+009-27F
+009-47F
+
+// Start With 65,368 Gold
+FF5-D3B-E62

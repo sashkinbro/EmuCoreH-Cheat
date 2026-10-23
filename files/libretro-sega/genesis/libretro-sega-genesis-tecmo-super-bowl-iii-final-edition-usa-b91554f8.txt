@@ -1,0 +1,3 @@
+// Infinite ability points when creating players
+AXPA-JA6Y
+AXPA-JA3J

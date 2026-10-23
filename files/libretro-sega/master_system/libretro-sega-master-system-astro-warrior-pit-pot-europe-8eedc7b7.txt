@@ -1,0 +1,20 @@
+// Infinite Lives (Astro Warrior)
+00C2-3F03
+
+// Infinite Lives (Pit Pot)
+00C0-2109
+
+// Infinite Lives (Pit Pot)
+009-0E9-3BE
+
+// Invincibility
+3A9-20F-2A2
+
+// Infinite Lives - 1P Game
+3A1-63F-2A2
+
+// P1 Infinite Lives - 2P Game
+3A1-A4F-2A2
+
+// P2 Infinite Lives - 2P Game
+3A1-EDF-2A2

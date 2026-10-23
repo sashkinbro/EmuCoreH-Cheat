@@ -1,0 +1,11 @@
+// Team 1 Score Modifier (P1)
+FFF97E:0000
+
+// Team 2 Score Modifier (P2/CPU)
+FFF8E6:0000
+
+// Never Miss A Shot
+N40T-0A52
+HC0T-0THA
+AW0T-0VHC
+900T-17SE

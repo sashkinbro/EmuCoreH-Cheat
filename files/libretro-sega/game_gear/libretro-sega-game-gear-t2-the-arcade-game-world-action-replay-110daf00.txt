@@ -1,0 +1,11 @@
+// Have 99 Credits (Continues)
+00DC-D799
+
+// Infinite Missiles
+00DC-CC99
+
+// Infinite Energy
+00DC-CF80
+
+// Infinite Gun
+00DC-CEA0

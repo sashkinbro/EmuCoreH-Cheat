@@ -1,0 +1,11 @@
+// Always Come In First (Ignore HUD)
+00D1-5201
+
+// Infinite Money
+00D1-7D98
+
+// Infinite Nitro
+00D1-FE76
+
+// Low Timer
+00D2-C600

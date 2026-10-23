@@ -1,0 +1,245 @@
+// Each quarter is 1 minute long
+AG2T-0CHE
+
+// Each quarter is 15 minutes long
+B82T-0CHE
+
+// Each quarter is 30 minutes long
+D42T-0CHE
+
+// Start with 0 timeouts
+ADKT-3A7E
+
+// Start with 1 timeout
+AHKT-3A7E
+
+// Start with 2 timeouts
+AMKT-3A7E
+
+// Start with 5 timeouts
+A1KT-3A7E
+
+// Start with 8 timeouts
+BDKT-3A7E
+
+// Infinite timeouts
+RHJA-461A
+
+// Timeouts not reset at halftime
+AXEA-4A9L
+
+// Play clock is 15 seconds
+CWSA-4AG6
+CXJT-4ADN
+
+// Play clock is 30 seconds
+D4SA-4AG6
+D5JT-4ADN
+
+// Play clock is 60 seconds
+HWSA-4AG6
+HXJT-4ADN
+
+// Play clock is 90 seconds
+MLSA-4AG6
+MMJT-4ADN
+
+// Play clock is infinite
+RGSA-460L
+
+// 2 downs to get a 1st down instead of 4
+AKBA-0AGR
+AKTA-4ADY
+
+// 3 downs to get a 1st down instead of 4
+APBA-0AGR
+APTA-4ADY
+
+// The down never increments
+AKTA-4A2E
+
+// 1st and 5 after a kickoff or a 1st down
+HBST-4AG2
+
+// 1st and 15 after a kickoff or a 1st down
+ZBST-4AG2
+
+// 1st and 20 after a kickoff or a 1st down
+6BST-4AG2
+
+// 1st and 50 after a kickoff or a 1st down
+GBST-4EG2
+
+// 1st and goal after a kickoff or a 1st down
+NBST-4JG2
+
+// 1st and 5 after a punt or loss of downs
+HA1T-4AAW
+
+// 1st and 15 after a punt or loss of downs
+ZA1T-4AAW
+
+// 1st and 20 after a punt or loss of downs
+6A1T-4AAW
+
+// 1st and 50 after a punt or loss of downs
+GA1T-4EAW
+
+// 1st and goal after a punt or loss of downs
+NA1T-4JAW
+
+// Kick meter goes up to 1/3 maximum
+BXXA-2AH8
+BXXT-2AAG
+
+// Kick meter goes up to 2/3 maximum
+DDXA-2AH8
+DDXT-2AAG
+
+// Once kick meter reaches maximum, it stays there
+RHXT-26TR
+
+// Touchdown worth 0 points
+AJMA-4A22
+
+// Touchdown worth 1 point
+REMA-5ET2
+
+// Touchdown worth 2 points
+REMA-5JT2
+
+// Touchdown worth 3 points
+REMA-5NT2
+
+// Touchdown worth 4 points
+REMA-5TT2
+
+// Touchdown worth 5 points
+REMA-5YT2
+
+// Touchdown worth 7 points
+REMA-56T2
+
+// Touchdown worth 8 points
+REMA-5AT2
+
+// Field goal worth 0 points
+AJXT-4A6Y
+
+// Field goal worth 1 point
+REXT-5EYY
+
+// Field goal worth 2 points
+REXT-5JYY
+
+// Field goal worth 4 points
+REXT-5TYY
+
+// Field goal worth 5 points
+REXT-5YYY
+
+// Field goal worth 6 points
+REXT-52YY
+
+// Field goal worth 7 points
+REXT-56YY
+
+// Field goal worth 8 points
+REXT-5AYY
+
+// Safety worth 0 points
+AL7T-2A36
+
+// Safety worth 1 point
+RG7T-3EV6
+
+// Safety worth 3 points
+RG7T-3NV6
+
+// Safety worth 4 points
+RG7T-3TV6
+
+// Safety worth 5 points
+RG7T-3YV6
+
+// Safety worth 6 points
+RG7T-32V6
+
+// Safety worth 7 points
+RG7T-36V6
+
+// Safety worth 8 points
+RG7T-3AV6
+
+// Extra point worth 0 points
+AJXT-4A46
+
+// Extra point worth 2 points
+REXT-5JW6
+
+// Extra point worth 3 points
+REXT-5NW6
+
+// Extra point worth 4 points
+REXT-5TW6
+
+// Extra point worth 5 points
+REXT-5YW6
+
+// Extra point worth 6 points
+REXT-52W6
+
+// Extra point worth 7 points
+REXT-56W6
+
+// Extra point worth 8 points
+REXT-5AW6
+
+// 2 point conversion worth 0 points
+AJMA-4A50
+
+// 2 point conversion worth 1 point
+REMA-5EX0
+
+// 2 point conversion worth 3 points
+REMA-5NX0
+
+// 2 point conversion worth 4 points
+REMA-5TX0
+
+// 2 point conversion worth 5 points
+REMA-5YX0
+
+// 2 point conversion worth 6 points
+REMA-52X0
+
+// 2 point conversion worth 7 points
+REMA-56X0
+
+// 2 point conversion worth 8 points
+REMA-5AX0
+
+// Away Team 99 Points
+FFE3CC:0063
+
+// Away Team 0 Points
+FFE3CC:0000
+
+// Home Team 99 Points
+FFE888:0063
+
+// Home Team 0 Points
+FFE888:0000
+
+// Can not be tackled
+ABMA-4A4N
+
+// Can run out of bounds on the sidelines and easily run all the way for a touchdown (Right side only)
+FA4T-2A3C
+DALA-4A2W
+
+// Can run over land mines without blowing up and fumbling the ball
+BJ5T-2A4R
+
+// Can run over open areas on the field without being sucked out
+FA4A-2A9L

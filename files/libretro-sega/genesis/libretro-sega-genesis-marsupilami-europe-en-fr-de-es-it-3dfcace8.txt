@@ -1,0 +1,27 @@
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Infinite Lives
+AWTT-AA7G
+
+// Infinite Health
+AXRT-AA40
+
+// Infinite Fruits
+AWDT-CA38
+
+// Keep Fruits After The Death
+AXST-AA8L
+
+// Freeze Time
+AXTA-AA5E
+
+// Invincibility/Untouchable You can go through the enemies and pick up objects
+R1LA-A6TT
+R07T-A6Z4
+
+// Skip Levels In Pause Hold A+B+C Start
+ALST-AA52

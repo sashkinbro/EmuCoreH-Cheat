@@ -1,0 +1,16 @@
+// 1P Score Modifier
+FFCE38:0000
+
+// Opponent (2P) Score Modifier
+FFCE3A:0000
+
+// Andre Agassi's Stats Are All 10
+AB0A-AR5J
+
+// Title intro music / sound effect / DAC/PCM sample modifier
+WEET-A6TN
+B4DT-AAGR
+
+// Title intro music / sound effect / DAC/PCM sample modifier
+WEET-A6TN
+B4DT-AAGR

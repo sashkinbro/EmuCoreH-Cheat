@@ -1,0 +1,14 @@
+// Infinite Health
+007-9C9-F7E
+
+// Infinite Lives
+00D3-7809
+
+// Infinite Lives
+3AE-F0F-2A2
+
+// Infinite Health
+00D3-732F
+
+// Start with ?? Lives, instead of 3
+055-1BF-E66

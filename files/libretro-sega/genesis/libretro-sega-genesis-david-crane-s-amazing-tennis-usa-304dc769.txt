@@ -1,0 +1,5 @@
+// Player 1 Score Modifier
+FFB788:0000
+
+// Opponent Score Modifier (P2/CPU)
+FF8F04:0000

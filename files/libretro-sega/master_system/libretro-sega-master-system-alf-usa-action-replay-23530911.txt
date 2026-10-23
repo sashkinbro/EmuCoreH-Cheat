@@ -1,0 +1,5 @@
+// Infinite Lives
+00C2-4A09
+
+// Infinite Money ($255)
+00CF-70FF

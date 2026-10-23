@@ -1,0 +1,25 @@
+// Infinite Energy P1
+FF819E:0040
+
+// Infinite Energy P2 Or CPU
+FF821E:0040
+
+// No Energy P2 Or CPU
+FF821E:0000
+
+// Infinite Time
+FFF0E8:0002
+FFF0E8:0005
+FFF0EA:0009
+
+// Infinite Power Punches
+FF81A0:0008
+
+// Referee Countdown Voice Modifier
+FF83F0:00BE
+
+// Invincibility P2/CPU Europe Version
+RYXA-A6VY
+
+// Stop Timer
+AKFA-AA7C

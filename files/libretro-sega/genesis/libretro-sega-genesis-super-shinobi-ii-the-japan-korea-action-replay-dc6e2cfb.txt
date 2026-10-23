@@ -1,0 +1,5 @@
+// Infinite Lives
+FF37E-00009
+
+// Infinite Ninjitsu
+FF37E-60003

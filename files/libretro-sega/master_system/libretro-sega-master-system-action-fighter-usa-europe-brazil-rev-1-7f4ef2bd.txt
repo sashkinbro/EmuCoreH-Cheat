@@ -1,0 +1,11 @@
+// Letters A, B, C, D, E &amp; F
+00C1-1E06
+
+// Mission Select [Replace ? With 0-4]
+00C1-1500
+
+// Power Up Modifier
+00C5-FF00
+
+// Infinite Time
+00C1-18E8

@@ -1,0 +1,5 @@
+// Infinite Hits
+00C2-F00F
+
+// Infinite Lives
+00C2-EE03

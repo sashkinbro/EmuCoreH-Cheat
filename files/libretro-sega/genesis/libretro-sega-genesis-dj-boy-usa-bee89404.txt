@@ -1,0 +1,100 @@
+// Almost infinite life
+BCZA-JA94
+
+// Start with life meter at length of 1
+AGMT-JADR
+
+// Start with life meter at length of 3
+ARMT-JADR
+
+// Start with life meter at length of 5
+A0MT-JADR
+
+// Start with life meter at length of 6
+A4MT-JADR
+
+// Start with life meter at length of 7
+A8MT-JADR
+
+// Start with life meter at length of 8
+BCMT-JADR
+
+// Start with life meter at length of 9
+BGMT-JADR
+
+// Start with life meter at length of 10
+BLMT-JADR
+
+// Start with 1 life point in life meter
+AGMT-JADG
+
+// Start with 2 life points in life meter
+ALMT-JADG
+
+// Start with 3 life points in life meter
+ARMT-JADG
+
+// Start with 5 life points in life meter
+A0MT-JADG
+
+// Start with 6 life points in life meter
+A4MT-JADG
+
+// Start with 7 life points in life meter
+A8MT-JADG
+
+// Start with 8 life points in life meter
+BCMT-JADG
+
+// Start with 9 life points in life meter
+BGMT-JADG
+
+// Start with 10 life points in life meter
+BLMT-JADG
+
+// Life meter not extended at end of each round
+AT6T-JA6A
+
+// Life meter extended by 1 at end of each round
+SE6T-KEYA
+
+// Life meter extended by 3 at end of each round
+SE6T-KNYA
+
+// All items in the item shop are free
+CKBA-JA8N
+
+// All items in the item shop that you can afford are free
+AVBA-JA84
+
+// All coins worth 40
+SHFA-MJWY
+
+// All coins worth 60
+SHFA-MNWY
+
+// All coins worth 100
+SHFA-MYWY
+
+// All coins worth 160
+SHFA-MAWY
+
+// Infinite Energy
+AWZA-JA94
+
+// Invincibility
+AT6T-NA4N
+AA6T-NA74
+
+// Hit Anywhere
+AJ6A-NA7A
+ET7T-P6PW
+
+// Infinite Energy
+FFA188:000A
+
+// Max Energy
+FFA194:000A
+
+// Infinite Money
+FFA198:03E7

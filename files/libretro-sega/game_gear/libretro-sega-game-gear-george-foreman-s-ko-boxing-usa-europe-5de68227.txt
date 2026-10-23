@@ -1,0 +1,83 @@
+// Infinite Energy [Player 1]
+00C1-2880
+
+// Infinite Power Punch [Player 1]
+00C1-1503
+
+// Round Selevt [1-9] [Switch Action Replay Off At End of Level]
+00C1-2000
+
+// Infinite Timer
+00C1-3309
+
+// Full Power Punch Power Meter [player 1]
+00C1-1104
+
+// Full Recovery Power Meter [player 1]
+00C1-1204
+
+// Full Footwork Power Meter [player 1]
+00C1-1304
+
+// Full Power Punch Power Meter [Player 2/Computer]
+00C1-1604
+
+// Full Recovery Power Meter [Player 2/Computer]
+00C1-1704
+
+// Full Footwork Power Meter [Player 2/Computer]
+00C1-1804
+
+// Full Energy [Player 2/Computer]
+00C1-2980
+
+// Infinite Power Punches [Player 2/Computer]
+00C1-1A01
+
+// Pause Cheat Mode
+00C1-0301
+
+// Infinite superpunches
+21C-04C-2A2
+
+// Both boxers start with 3/4 energy
+602-CEE-E68
+
+// Both boxers start with 1/2 energy
+402-CEE-E68
+
+// Both boxers start with 1/4 energy
+202-CEE-E68
+
+// Infinite ring timer
+000-BED-19E
+
+// 2-min. rounds
+02F-59E-E66
+
+// 4-min. rounds
+04F-59E-E66
+
+// 6-min. rounds
+06F-59E-E66
+
+// Enable Test Mode
+C8A-5EF-3B4
+
+// Level Select (1-4) (Switch Action Replay Off At End of Level)
+00C1-1000
+
+// Round Selevt (1-9) (Switch Action Replay Off At End of Round)
+00C1-2000
+
+// Cheat Mode
+00A-5FF-C49
+
+// P1 Infinite Health
+296-1EB-4CA
+
+// After getting back up, enemy loses health instead of gaining health
+3D1-0AC-19A
+
+// 1-Hit Knockouts
+92F-96C-A28

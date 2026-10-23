@@ -1,0 +1,198 @@
+// Eating fish does not heal at all (Most of the time)
+ADLA-WAD4
+
+// Eating fish heals 1/2x as much as usual (Most of the time)
+BDLA-WAD4
+
+// Eating fish heals 2x as much as usual (Most of the time)
+EDLA-WAD4
+
+// Eating fish heals Ecco completely (Most of the time)
+HDLA-WAD4
+
+// Infinite air
+AKZA-TA7A
+
+// Infinite health and air
+REAA-W6V0
+
+// Always have 360-degree sonar blast
+A4KT-2A38
+
+// No rings lost for missing gates in 3D stages
+ALBA-4A8R
+
+// No rings lost for shooting gates in 3D stages
+AKCT-4A7N
+
+// Start on Sea of Green
+AB0A-TAGY
+
+// Start on Deep Ridge
+AF0A-TAGY
+
+// Start on The Eye
+AK0A-TAGY
+
+// Start on Sea of Birds
+AP0A-TAGY
+
+// Start on Secret Cave
+AV0A-TAGY
+
+// Start on The Hungry Ones
+AZ0A-TAGY
+
+// Start on Convergence
+A30A-TAGY
+
+// Start on Globe Holder
+A70A-TAGY
+
+// Start on Two Tides
+BF0A-TAGY
+
+// Start on The Lost Orcas
+BK0A-TAGY
+
+// Start on Vents of Medusa
+BP0A-TAGY
+
+// Start on Four Islands
+BV0A-TAGY
+
+// Start on Maze of Stone
+BZ0A-TAGY
+
+// Start on Home Bay
+B30A-TAGY
+
+// Start on Sea of Darkness
+B70A-TAGY
+
+// Start on Crystal Springs
+CB0A-TAGY
+
+// Start on Fault Zone
+CF0A-TAGY
+
+// Start on Gateway
+CK0A-TAGY
+
+// Start on Trellia's Bay
+CP0A-TAGY
+
+// Start on Skyway
+CV0A-TAGY
+
+// Start on Asterite's Cave
+CZ0A-TAGY
+
+// Start on Eagle's Bay
+C30A-TAGY
+
+// Start on Fin to Feather
+C70A-TAGY
+
+// Start on Skylands
+DB0A-TAGY
+
+// Start on Tube of Medusa
+DF0A-TAGY
+
+// Start on Vortex Arrived
+DK0A-TAGY
+
+// Start on Aqua Tubeway
+DP0A-TAGY
+
+// Start on Sky Tides
+DV0A-TAGY
+
+// Start on Moray Abyss
+DZ0A-TAGY
+
+// Start on Asterite's Home
+D30A-TAGY
+
+// Start on Epilogue
+D70A-TAGY
+
+// Start on Atlantis
+EB0A-TAGY
+
+// Start on Fish City
+EF0A-TAGY
+
+// Start on City of Forever
+EK0A-TAGY
+
+// Start on Black Clouds
+EP0A-TAGY
+
+// Start on Vortex Future
+EV0A-TAGY
+
+// Start on Gravitor Box
+EZ0A-TAGY
+
+// Start on Lunar Bay
+E30A-TAGY
+
+// Start on Dark Sea
+E70A-TAGY
+
+// Start on New Machine
+FB0A-TAGY
+
+// Start on Inside
+FF0A-TAGY
+
+// Start on Inter
+FK0A-TAGY
+
+// Start on Innuendo
+FP0A-TAGY
+
+// Start on Trans
+FV0A-TAGY
+
+// Start on Vortex Queen
+FZ0A-TAGY
+
+// Start on Big Water
+F30A-TAGY
+
+// Start on The Pod
+F70A-TAGY
+
+// Start on The Machine
+GB0A-TAGY
+
+// Infinite Health
+FFAA16:0040
+
+// Infinite Air
+FFAA18:0400
+
+// Ecco jumps much higher.
+93BA-V95N
+
+// Ecco swims through rocks and barriers by pressing the B (Dash) button.
+GB2A-TAA4
+
+// Ecco swims much faster when using the C button.
+CC7A-TAB8
+
+// Swimming through walls.
+ACHT-TA7L
+
+// Swimming in the air.
+RFDA-T60A
+
+// Invincibility (Stars)
+FFAB6C:0258
+
+// Pause the game and press A for Debug Menu
+BHFA-VN8J
+RHFA-T604

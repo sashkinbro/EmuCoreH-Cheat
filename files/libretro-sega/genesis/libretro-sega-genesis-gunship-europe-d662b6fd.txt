@@ -1,0 +1,19 @@
+// Infinite Fuel
+FFBD1C:0099
+
+// Infinite Health
+FFBD1A:0045
+
+// Infinite F
+RF5T-A6W0
+ALLT-AA5L
+
+// Infinite D
+ALCT-AA9L
+AL7T-AA84
+
+// Infinite Rockets
+AWSA-AA8W
+
+// Invincibility Against Rockets Enemies
+R07A-A6X4

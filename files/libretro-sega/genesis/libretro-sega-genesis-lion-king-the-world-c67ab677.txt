@@ -1,0 +1,225 @@
+// Almost invincible
+ABZB-WAG6
+
+// Infinite lives
+AV6B-4A5G
+
+// Infinite continues
+PVYV-4A4G
+
+// Start with roar meter at 2x normal
+EB5B-4ABA
+
+// Start with roar meter at 3x normal
+GB5B-4ABA
+
+// Start with health at 2x normal
+BB5B-4ABT
+
+// Start with health at 3x normal
+BV5B-4ABT
+
+// Start with 0 continues
+AB4B-4ACE
+
+// Start with 3 continues
+AP4B-4ACE
+
+// Start with 5 continues
+AZ4B-4ACE
+
+// Roar meter increases faster
+SHRT-ST04
+
+// Roaring does not reduce roar meter
+A3XV-WA7J
+
+// Getting hit does not reduce roar meter
+A3ZB-WA3E
+
+// Blue beetle adds 0x normal amount
+AD6V-TAH2
+
+// Blue beetle adds 1/2x normal amount
+AX6V-TAH2
+
+// Blue beetle adds 2x normal amount
+CD6V-TAH2
+
+// Blue beetle adds 3x normal amount
+DD6V-TAH2
+
+// African Red Bug doesn't add anything to health
+AD6B-TAA6
+
+// African Red Bug adds 1/2x normal amount
+AH6B-TAA6
+
+// African Red Bug adds 2x normal amount
+AX6B-TAA6
+
+// African Red Bug adds 3x normal amount
+A56B-TAA6
+
+// Plain beetle restores no health
+AD4B-TAF2
+
+// Plain beetle restores 1/2x normal amount
+AM4B-TAF2
+
+// Patterned beetle restores no health
+BD4V-TA2T
+
+// 1UP worth 0 extra lives
+AD7V-TAF0
+
+// 1UP worth 2 extra lives
+AM7V-TAF0
+
+// 1UP worth 3 extra lives
+AS7V-TAF0
+
+// Circle of Life adds 0 continues
+AD8V-TAEL
+
+// Circle of Life adds 2 continues
+AM8V-TAEL
+
+// Circle of Life adds 3 continues
+AS8V-TAEL
+
+// Start on Level 2 (Can't Wait To Be King)
+AK4V-5A8W
+
+// Start on Level 3 (The Elephant Graveyard)
+AP4V-5A8W
+
+// Start on Level 4 (The Stampede)
+AV4V-5A8W
+
+// Start on Level 5 (Simba's Exile)
+AZ4V-5A8W
+
+// Start on Level 6 (Hakuna Matata)
+A34V-5A8W
+
+// Start on Level 7 (Simba's Destiny)
+A74V-5A8W
+
+// Start on Level 8 (Be Prepared)
+BB4V-5A8W
+
+// Start on Level 9 (Simba's Return)
+BF4V-5A8W
+
+// Start on Level 10 (Pride Rock)
+BK4V-5A8W
+
+// Start on Bonus Level (Bug Toss)
+BP4V-5A8W
+
+// Start on Bonus Level (Bug Hunt 1)
+BV4V-5A8W
+
+// Start on Bonus Level (Bug Hunt 2)
+BZ4V-5A8W
+
+// Start on Bonus Level (Bug Hunt 3)
+B34V-5A8W
+
+// Infinite Energy
+A3ZB-WA84
+
+// Infinite Roars
+A5RT-RR82
+
+// Invincibility
+FDRT-RN6Y
+
+// Start With 1 Life
+AF5B-4AB2
+AFZV-4AA0
+
+// Start With 5 Lives
+AZ5B-4AB2
+AZZV-4AA0
+
+// Start With 7 Lives
+A75B-4AB2
+A7ZV-4AA0
+
+// Start With 9 Lives
+BF5B-4AB2
+BFZV-4AA0
+
+// Infinite Health
+FFCCF6:0005
+
+// Infinite Lives
+FFCCEE:0003
+
+// Invincibility
+FF9414:00FF
+
+// Infinite Roars
+FFCCF2:0030
+
+// Stage Select
+FFF288:0000
+
+// Enable Cheat Mode (Invincibility)
+FFF288:0001
+
+// Switch F/X On For Levitate Jump
+FF940A:00FE
+
+// Character Modifier
+FFCCFA:0000
+
+// Hyper Simba
+FF9368:0000
+FF93E8:0000
+
+// Walk On Air (Left Direction)
+ABDB-WA2E
+
+// Walk On Air (Right Direction)
+ABAV-WA5J
+
+// Take No Damage
+RF6B-46X0
+
+// Jump Higher (Young Simba)
+ACKB-WTKC
+
+// Jump Much Higher (Young Simba)
+ACKB-XNBC
+
+// Super Slow Moon Descent When Jumping Or Falling (Young Simba)
+TCKB-WAHL
+
+// Can Jump Thru Rocks/Obstacles Above You
+REYT-A6V4
+BTYT-AA5E
+
+// Walk Through Rocks, Walls, etc
+RYXA-A60E
+
+// Press A In The Option Menu To Get To The Invincibility & Level Select Screen
+97KC-WNDJ
+
+// Infinite Roars
+A3XV-WA7J
+A3ZB-WA3E
+
+// Enable Debug Infinite Health
+FFF288:0001
+
+// Disable Debug Infinite Health
+FFF288:0000
+
+// Jump Higher (Adult Simba)
+ACKB-WTJ4
+
+// Jump Much Higher (Adult Simba)
+ACKB-XNA4

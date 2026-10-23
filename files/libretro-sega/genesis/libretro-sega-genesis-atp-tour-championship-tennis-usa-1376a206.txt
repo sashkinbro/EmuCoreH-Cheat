@@ -1,0 +1,21 @@
+// The first one that makes a point wins a game, you or the cpu
+AJAA-CA3J
+
+// Cpu Never Scores
+9TRA-BGEG
+AARA-AAEJ
+96RA-AAEL
+NERA-AAEN
+
+// 1P Score Modifier
+FF0060:0000
+
+// 2P Score Modifier
+FF0060:0000
+
+// Debug Menu (Options Menu)
+FFF18E:0001
+
+// Debug Menu (Options Menu)
+RERA-C6XY
+RERA-C6Z4

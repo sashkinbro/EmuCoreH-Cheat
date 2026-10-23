@@ -1,0 +1,9 @@
+// Infinite Health
+00DF-B3F0
+00DF-B4F0
+
+// Start With Fire/Ice Super Sword
+00DF-A504
+
+// Start With Lightning Sword
+00DF-A503

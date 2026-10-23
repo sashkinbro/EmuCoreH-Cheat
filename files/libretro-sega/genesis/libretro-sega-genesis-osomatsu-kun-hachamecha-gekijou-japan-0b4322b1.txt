@@ -1,0 +1,17 @@
+// Infinite Lives
+AB0A-AACA
+
+// Infinite Energy
+RGAA-A6TN
+
+// Invincibility
+BKZT-AA8W
+
+// Infinite Lives
+FFB120:0005
+
+// Infinite Money
+FFB126:9999
+
+// 1 Shot Kill Enemies/Bosses
+ALAA-AA4G

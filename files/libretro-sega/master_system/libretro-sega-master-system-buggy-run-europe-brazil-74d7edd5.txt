@@ -1,0 +1,144 @@
+// Infinite Points P1
+00CE-2464
+
+// Infinite Money P1
+00CE-4CFF
+00CE-4DFF
+
+// Infinite Mines (At Setup Screen)
+00C8-3963
+
+// Infinite Nitoro (At Setup Screen)
+00C8-3A63
+
+// Course Modifier - 1 Player Game
+00CD-4200
+
+// P1 Infinite Points
+00CE-2464
+
+// P1 Infinite Money
+00CE-4D27
+
+// P1 Infinite Nitro (Setup Screen)
+00C8-3A64
+
+// P1 Infinite Mines (Setup Screen)
+00C8-3964
+
+// P1 Infinite Nitro (Race)
+00CE-2801
+
+// P1 Infinite Mines (Race)
+00CE-2802
+
+// P1 Max Item Slots
+00C8-3806
+
+// P2 Infinite Points
+00CE-2464
+
+// P2 Infinite Money
+00CE-4F27
+
+// P2 Infinite Nitro (Setup Screen)
+00C8-7A64
+
+// P2 Infinite Mines (Setup Screen)
+00C8-7964
+
+// P2 Infinite Nitro (Race)
+00CE-2E01
+
+// P2 Infinite Mines (Race)
+00CE-2E02
+
+// P2 Max Item Slots
+00C8-7806
+
+// P1 Tire Upgrades
+00CE-4101
+
+// P1 Engine Uprgrades
+00CE-4201
+
+// P1 Suspension Upgrades
+00CE-4301
+
+// P1 Steering Upgrades
+00CE-4401
+
+// P1 Transmission Upgrades
+00CE-4501
+
+// P2 Tire Upgrades
+00CE-4601
+
+// P2 Engine Uprgrades
+00CE-4701
+
+// P2 Suspension Upgrades
+00CE-4801
+
+// P2 Steering Upgrades
+00CE-4901
+
+// P2 Transmission Upgrades
+00CE-4A01
+
+// Infinite Nitros/Mines - Both Players
+004-AEE-3B2
+
+// Infinite Money - Both Players
+5EB-047-2A7
+56B-067-2A3
+
+// Start with $??, instead of $20000 - 1P Mode
+011-05C-E6A
+
+// Start with $??, instead of $30000 - 2P Mode - Both Players
+02D-396-E6E
+
+// P1 Always on Last Lap (3 Lap Race) - 1P Mode
+00CD-4503
+00CD-4903
+
+// P1 Always on 1st Lap - 1P Mode
+00CD-4501
+00CD-4901
+
+// P2 Always on 1st Lap - 1P Mode
+00CD-4601
+00CD-4A01
+
+// P3 Always on 1st Lap - 1P Mode
+00CD-4701
+00CD-4B01
+
+// P4 Always on 1st Lap - 1P Mode
+00CD-4801
+00CD-4C01
+
+// P1 Always on Last Lap (5 Lap Race) - 2P Mode
+00CD-4504
+00CD-4904
+
+// P2 Always on Last Lap (5 Lap Race) - 2P Mode
+00CD-4604
+00CD-4A04
+
+// P1 Always on 1st Lap - 2P Mode
+00CD-4500
+00CD-4900
+
+// P2 Always on 1st Lap - 2P Mode
+00CD-4600
+00CD-4A00
+
+// P3 Always on 1st Lap - 2P Mode
+00CD-4700
+00CD-4B00
+
+// P4 Always on 1st Lap - 2P Mode
+00CD-4800
+00CD-4C00

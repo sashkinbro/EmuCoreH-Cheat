@@ -1,0 +1,27 @@
+// Infinite Energy P1
+FF0E48:0060
+
+// Infinite Energy P2
+FF0F60:0060
+
+// No Energy P1
+FF0E48:0000
+
+// Infinite Time
+FF118C:0063
+
+// Infinite NRG P1
+ATYA-CA7A
+
+// Infinite NRG P2/CPU
+ATWT-CA2Y
+
+// Freeze Time
+AX9A-AA6C
+
+// Play As Supervisor In 2 Player VS Mode
+AL7T-AA86
+AACA-CA92
+
+// Play VS Supervisor In 1 Player Training Mode
+AABT-CA94

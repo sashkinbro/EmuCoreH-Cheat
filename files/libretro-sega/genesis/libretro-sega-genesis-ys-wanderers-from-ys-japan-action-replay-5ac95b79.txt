@@ -1,0 +1,11 @@
+// Infinite Energy
+FFE296:03E7
+
+// Max HP
+FFE298:03E7
+
+// Max Strength
+FFE29E:03E7
+
+// Max Defense
+FFE2A0:03E7

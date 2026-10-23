@@ -1,0 +1,1682 @@
+// the announcer say finish him on female opponent
+AFSA-ABAC
+
+// play as reptile on round 2
+9W6A-BCBG
+AG6A-AABJ
+AL6A-A1VL
+
+// 'Counter of might' fills automatically
+DBSA-CA9A
+
+// Infinite HP for player 2
+P2JT-AETJ
+E2JT-AAAL
+
+// Infinite HP for player 1
+P2JT-AETA
+E2JT-AAAC
+
+// Infinite time for 'Test Your Might'
+AVTT-CA5T
+
+// Auto blocking for both players
+AB8T-AA20
+
+// Infinite Health [Player 1]
+FFCAB8:00FA
+
+// Infinite Health [Player 2]
+FFCBB8:00FA
+
+// Player 1 Modifier
+FFABCC:0000
+
+// Player 2 Modifier
+FFABCE:0000
+
+// Infinite Time For Matches
+FFAC7E:00FA
+
+// Infinite Continues
+FFAB7A:0003
+
+// Only Need 1 Win For Matches [Player 1 &amp; 2]
+FFAB8A:0001
+
+// Only Need 1 Win For Matches [Player 2 &amp; CPU]
+FFAB8C:0001
+
+// Set Max. Strength In Bonus Game [Player 1]
+FFAAD8:007F
+
+// Set Max. Strength In Bonus Game [Player 2]
+FFAAD8:007F
+
+// Enable Blood
+FFFF56:0000
+
+// Player 1 Doesn't Move/Attack, Can Only Block And Duck
+FFAB30:0000
+
+// Player 1 Move Set Modifier
+FFCB82:0000
+
+// After First Match Always Fight On Pit Stage
+ANJT-DA9W
+
+// both opponents attack quicker
+AXDA-AA5L
+
+// Always Fight Shang Tsung
+BC2T-B67C
+RG2T-A6ZA
+
+// Sub-Zero can morph when sliding
+4WXA-AC32
+
+// infinite health for CPU
+AXFA-AA38
+
+// Invisible Characters With Shadows
+ABCA-BBJA
+
+// No Blood
+BJXA-AAYT
+
+// Create blood
+ABNT-CABN
+
+// Infinite time
+AKRA-AA7N
+
+// Each round is 90 seconds
+WBRA-AAEA
+
+// Each round is 60 seconds
+NBRA-AAEA
+
+// Each round is 30 seconds
+GBRA-AAEA
+
+// Each round is 10 seconds
+CBRA-AAEA
+
+// Always fight in the Courtyard
+A2JT-DA9W
+
+// After 1st round, most fights are at the Palace Gates
+AEJT-DA9W
+
+// After 1st round, most fights are in the Warrior Shrine
+AJJT-DA9W
+
+// After 1st round, most fights are in the Throne Room
+ATJT-DA9W
+
+// After 1st round, most fights are in Goro's Lair
+AYJT-DA9W
+
+// Always get Flawless Victory bonus
+AKXA-AA22
+
+// All throws do no damage
+AC7T-AAA2
+
+// All throws do more damage
+SC7T-AAA2
+
+// All throws do maximum damage
+8C7T-AAA2
+
+// Always fight Johnny Cage
+AC2T-B67C
+AAJT-DA4E
+RG2T-A6ZA
+
+// Always fight Kano
+AG2T-B67C
+AEJT-DA4E
+RG2T-A6ZA
+
+// Always fight Rayden
+AL2T-B67C
+AJJT-DA4E
+RG2T-A6ZA
+
+// Always fight Liu Kang
+AR2T-B67C
+ANJT-DA4E
+RG2T-A6ZA
+
+// Always fight Scorpion
+AW2T-B67C
+ATJT-DA4E
+RG2T-A6ZA
+
+// Always fight Sub-Zero
+A02T-B67C
+AYJT-DA4E
+RG2T-A6ZA
+
+// Always fight Sonya Blade
+A42T-B67C
+A2JT-DA4E
+RG2T-A6ZA
+
+// Always fight Goro
+A82T-B67C
+A6JT-DA4E
+RG2T-A6ZA
+
+// Start on match 2
+AJ9A-CAG2
+
+// Start on match 3
+AN9A-CAG2
+
+// Start on match 4
+AT9A-CAG2
+
+// Start on match 5
+AY9A-CAG2
+
+// Start on match 6
+A29A-CAG2
+
+// Start on mirror match
+A69A-CAG2
+
+// Start on endurance 1 match
+BA9A-CAG2
+
+// Start on endurance 2 match
+BE9A-CAG2
+
+// Start on endurance 3 match
+BJ9A-CAG2
+
+// Start on match with Goro
+BN9A-CAG2
+
+// Start on match with Shang Tsung
+BT9A-CAG2
+
+// High Punch does no damage
+AEMT-CACG
+
+// High Punch does more damage
+AEMT-D6CG
+
+// High Punch does maximum damage
+AEMT-D94G
+
+// Low Punch does no damage
+AEMT-CAC2
+
+// Low Punch does more damage
+AEMT-D6C2
+
+// Low Punch does maximum damage
+AEMT-D942
+
+// High Kick does no damage
+AYMT-CAG0
+
+// High Kick does more damage
+AYMT-CT00
+
+// High Kick does maximum damage
+AYMT-D980
+
+// Low Kick does no damage
+AYMT-CAHJ
+
+// Low Kick does more damage
+AYMT-CT1J
+
+// Low Kick does maximum damage
+AYMT-D99J
+
+// Head Blow does no damage
+A2MT-CAD6
+
+// Head Blow does more damage
+A2MT-CTX6
+
+// Head Blow does maximum damage
+A2MT-D956
+
+// Knee does no damage
+ATMT-CADL
+
+// Knee does more damage
+ATMT-CTXL
+
+// Knee does maximum damage
+ATMT-D95L
+
+// Crouched Kick does no damage
+AYMT-CAGE
+
+// Crouched Kick does more damage
+AYMT-D2RE
+
+// Crouched Kick does maximum damage
+AYMT-D98E
+
+// Uppercut does no damage
+BJMT-CAFW
+
+// Uppercut does more damage
+BJMT-DT7W
+
+// Uppercut does maximum damage
+BJMT-D97W
+
+// Roundhouse Kick does no damage
+BJMT-CABY
+
+// Roundhouse Kick does more damage
+BJMT-CA3Y
+
+// Roundhouse Kick does maximum damage
+BJMT-D93Y
+
+// Foot Sweep does no damage
+AYMT-CAFA
+
+// Foot Sweep does more damage
+AYMT-D2PA
+
+// Foot Sweep does maximum damage
+AYMT-D97A
+
+// Flying Punch does no damage
+A2NA-CAAN
+
+// Flying Punch does more damage
+A2NA-C0TN
+
+// Flying Punch does maximum damage
+A2NA-D92N
+
+// Jump Kick does no damage
+AYMT-CAER
+
+// Jump Kick does more damage
+AYMT-D2NR
+
+// Jump Kick does maximum damage
+AYMT-D96R
+
+// Cannonball does no damage
+A6MA-CAHN
+
+// Cannonball does more damage
+A6MA-DY1N
+
+// Cannonball does maximum damage
+A6MA-D99N
+
+// Knife does no damage
+A2MT-CABC
+
+// Knife does more damage
+A2MT-C0VC
+
+// Knife does maximum damage
+A2MT-D93C
+
+// High Punch does no damage
+AEMA-CAAE
+
+// High Punch does more damage
+AEMA-D6AE
+
+// High Punch does maximum damage
+AEMA-D92E
+
+// Low Punch does no damage
+AEMA-CAA0
+
+// Low Punch does more damage
+AEMA-D6A0
+
+// Low Punch does maximum damage
+AEMA-D920
+
+// High Kick does no damage
+AYLT-CAHA
+
+// High Kick does more damage
+AYLT-CT1A
+
+// High Kick does maximum damage
+AYLT-D99A
+
+// Low Kick does no damage
+ATLT-CAHW
+
+// Low Kick does more damage
+ATLT-CE1W
+
+// Low Kick does maximum damage
+ATLT-D99W
+
+// Head Blow does no damage
+AYMA-CACN
+
+// Head Blow does more damage
+AYMA-D2LN
+
+// Head Blow does maximum damage
+AYMA-D94N
+
+// Knee does no damage
+ATMA-CAC8
+
+// Knee does more damage
+ATMA-CTW8
+
+// Knee does maximum damage
+ATMA-D948
+
+// Crouched Kick does no damage
+AJMA-CAB4
+
+// Crouched Kick does more damage
+AJMA-DTB4
+
+// Crouched Kick does maximum damage
+AJMA-D934
+
+// Uppercut does no damage
+BJMA-CADT
+
+// Uppercut does more damage
+BJMA-DT5T
+
+// Uppercut does maximum damage
+BJMA-D95T
+
+// Roundhouse Kick does no damage
+BJLT-CAGR
+
+// Roundhouse Kick does more damage
+BJLT-CA8R
+
+// Roundhouse Kick does maximum damage
+BJLT-D98R
+
+// Foot Sweep does no damage
+AYMA-CABJ
+
+// Foot Sweep does more damage
+AYMA-D2KJ
+
+// Foot Sweep does maximum damage
+AYMA-D93J
+
+// Flying Punch does no damage
+A2LT-CAF6
+
+// Flying Punch does more damage
+A2LT-C0Z6
+
+// Flying Punch does maximum damage
+A2LT-D976
+
+// Jump Kick does no damage
+AYMA-CAEC
+
+// Jump Kick does more damage
+AYMA-D2NC
+
+// Jump Kick does maximum damage
+AYMA-D76C
+
+// Shadow Kick does no damage
+A6LT-CAB8
+
+// Shadow Kick does more damage
+A6LT-DYV8
+
+// Shadow Kick does maximum damage
+A6LT-D938
+
+// Fireball does no damage
+A2LT-CAE2
+
+// Fireball does more damage
+A2LT-C0Y2
+
+// Fireball does maximum damage
+A2LT-D762
+
+// Split Punch does no damage
+ATLT-CADC
+
+// Split Punch does more damage
+ATLT-CN5C
+
+// Split Punch does maximum damage
+ATLT-C95C
+
+// Low Punch does no damage
+AEPA-CAFG
+
+// Low Punch does more damage
+AEPA-D6FG
+
+// Low Punch does maximum damage
+AEPA-D97G
+
+// High Kick does no damage
+AYPT-CAAW
+
+// High Kick does more damage
+AYPT-CTTW
+
+// High Kick does maximum damage
+AYPT-D92W
+
+// Low Kick does no damage
+AYPT-CABE
+
+// Low Kick does more damage
+AYPT-CTVE
+
+// Low Kick does maximum damage
+AYPT-D93E
+
+// Head Blow does no damage
+AYPA-CACN
+
+// Head Blow does more damage
+AYPA-D2LN
+
+// Head Blow does maximum damage
+AYPA-D94N
+
+// Knee does no damage
+ATPA-CAF2
+
+// Knee does more damage
+ATPA-CTZ2
+
+// Knee does maximum damage
+ATPA-D972
+
+// Crouched Kick does no damage
+AYPT-CAAA
+
+// Crouched Kick does more damage
+AYPT-D2JA
+
+// Crouched Kick does maximum damage
+AYPT-D92A
+
+// Uppercut does no damage
+BJPA-CAHR
+
+// Uppercut does more damage
+BJPA-DT9R
+
+// Uppercut does maximum damage
+BJPA-D99R
+
+// Roundhouse Kick does no damage
+BJPA-CAEC
+
+// Roundhouse Kick does more damage
+BJPA-CA6C
+
+// Roundhouse Kick does maximum damage
+BJPA-D96C
+
+// Foot Sweep does no damage
+AYPA-CAG6
+
+// Foot Sweep does more damage
+AYPA-D2R6
+
+// Foot Sweep does maximum damage
+AYPA-D986
+
+// Flying Punch does no damage
+A2PT-CACJ
+
+// Flying Punch does more damage
+A2PT-C0WJ
+
+// Flying Punch does maximum damage
+A2PT-D94J
+
+// Jump Kick does no damage
+AYPA-CAGL
+
+// Jump Kick does more damage
+AYPA-D2RL
+
+// Jump Kick does maximum damage
+AYPA-D98L
+
+// Special Jump Kick does no damage
+A6PA-CAB4
+
+// Special Jump Kick does more damage
+A6PA-DYV4
+
+// Special Jump Kick does maximum damage
+A6PA-D934
+
+// Fireball does no damage
+A2PA-CADT
+
+// Fireball does more damage
+A2PA-C0XT
+
+// Fireball does maximum
+A2PA-D95T
+
+// High Punch does no damage
+AELA-CADE
+
+// High Punch does more damage
+AELA-D6DE
+
+// High Punch does maximum damage
+AELA-D95E
+
+// Low Punch does no damage
+AELA-CAD0
+
+// Low Punch does more damage
+AELA-D6D0
+
+// Low Punch does maximum damage
+AELA-D950
+
+// High Kick does no damage
+AYKT-CAH2
+
+// High Kick does more damage
+AYKT-DJ12
+
+// High Kick does maximum damage
+AYKT-D992
+
+// Low Kick does no damage
+A2LA-CAAL
+
+// Low Kick does more damage
+A2LA-DCTL
+
+// Low Kick does maximum damage
+A2LA-D92L
+
+// Head Blow does no damage
+AYLA-CAA6
+
+// Head Blow does more damage
+AYLA-D2J6
+
+// Head Blow does maximum damage
+AYLA-D926
+
+// Knee does no damage
+ATLA-CABR
+
+// Knee does more damage
+ATLA-CTVR
+
+// Knee does maximum damage
+ATLA-D93R
+
+// Crouched Kick does no damage
+AYLA-CACW
+
+// Crouched Kick does more damage
+AYLA-D2LW
+
+// Crouched Kick does maximum damage
+AYLA-D94W
+
+// Uppercut does no damage
+BJLA-CAEJ
+
+// Uppercut does more damage
+BJLA-DT6J
+
+// Uppercut does maximum damage
+BJLA-D96J
+
+// Roundhouse Kick does no damage
+BJKT-CAHG
+
+// Roundhouse Kick does more damage
+BJKT-CN9G
+
+// Roundhouse Kick does maximum damage
+BJKT-D99G
+
+// Foot Sweep does no damage
+AYKT-CAGY
+
+// Foot Sweep does more damage
+AYKT-D2RY
+
+// Foot Sweep does maximum damage
+AYKT-D98Y
+
+// Flying Punch does no damage
+A2LA-CAFN
+
+// Flying Punch does more damage
+A2LA-C0ZN
+
+// Flying Punch does maximum damage
+A2LA-D97N
+
+// Jump Kick does no damage
+AYLA-CACA
+
+// Jump Kick does more damage
+AYLA-D2LA
+
+// Jump Kick does maximum damage
+AYLA-D94A
+
+// Special Jump Kick does no damage
+BALA-CAF8
+
+// Sonic Rings does no damage
+A2KT-CAFT
+
+// Sonic Rings does more damage
+A2KT-C0ZT
+
+// Sonic Rings does maximum damage
+A2KT-D97T
+
+// Leg Grab does more damage
+AAKT-CTRC
+
+// Leg Grab does maximum damage
+AAKT-D98C
+
+// Special Flying Punch does more damage
+BALA-DCZ8
+
+// Special Flying Punch does maximum damage
+BALA-D978
+
+// High Punch does no damage
+AENT-CAA2
+
+// High Punch does more damage
+AENT-D6A2
+
+// High Punch does maximum damage
+AENT-D722
+
+// Low Punch does no damage
+AENT-CAB6
+
+// Low Punch does more damage
+AENT-D6B6
+
+// Low Punch does maximum damage
+AENT-D936
+
+// High Kick does no damage
+AYNA-CAHY
+
+// High Kick does more damage
+AYNA-CL1Y
+
+// High Kick does maximum damage
+AYNA-D99Y
+
+// Low Kick does no damage
+AYNT-CAAG
+
+// Low Kick does more damage
+AYNT-CETG
+
+// Low Kick does maximum damage
+AYNT-D92G
+
+// Head Blow does no damage
+AYNT-CADW
+
+// Head Blow does more damage
+AYNT-D2MW
+
+// Head Blow does maximum damage
+AYNT-D95W
+
+// Knee does no damage
+ATNT-CAEE
+
+// Knee does more damage
+ATNT-CTYE
+
+// Knee does maximum damage
+ATNT-DS6E
+
+// Crouched Kick does no damage
+AJNT-CADA
+
+// Crouched Kick does more damage
+AJNT-DTDA
+
+// Crouched Kick does maximum damage
+AJNT-D95A
+
+// Uppercut does no damage
+BJNT-CAE0
+
+// Uppercut does more damage
+BJNT-DT60
+
+// Uppercut does maximum damage
+BJNT-D960
+
+// Roundhouse Kick does no damage
+BJNA-CAHC
+
+// Roundhouse Kick does more damage
+BJNA-DY1C
+
+// Roundhouse Kick does maximum damage
+BJNA-D99C
+
+// Foot Sweep does no damage
+AYNT-CACR
+
+// Foot Sweep does more damage
+AYNT-D2LR
+
+// Foot Sweep does maximum damage
+AYNT-D94R
+
+// Flying Punch does no damage
+A2NA-CAGT
+
+// Flying Punch does more damage
+A2NA-C00T
+
+// Flying Punch does maximum damage
+A2NA-D98T
+
+// Jump Kick does no damage
+AYNT-CAFJ
+
+// Jump Kick does more damage
+AYNT-D2PJ
+
+// Jump Kick does maximum damage
+AYNT-D97J
+
+// Flying Thunderbolt does no damage
+A6NA-CAD0
+
+// Flying Thunderbolt does more damage
+A6NA-DYX0
+
+// Flying Thunderbolt does maximum damage
+A6NA-D950
+
+// Lightning does no damage
+A2NA-CAFN
+
+// Lightning does more damage
+A2NA-C0ZN
+
+// Lightning does maximum damage
+A2NA-D97N
+
+// High Punch does no damage
+AERA-CAB6
+
+// High Punch does more damage
+AERA-D6B6
+
+// High Punch does maximum damage
+AERA-D936
+
+// Low Punch does no damage
+AERA-CACR
+
+// Low Punch does more damage
+AERA-D6CR
+
+// Low Punch does maximum damage
+AERA-D94R
+
+// High Kick does no damage
+AYRA-CAF4
+
+// High Kick does more damage
+AYRA-CTZ4
+
+// High Kick does maximum damage
+AYRA-D974
+
+// Low Kick does no damage
+AYRA-CAGN
+
+// Low Kick does more damage
+AYRA-CT0N
+
+// Low Kick does maximum damage
+AYRA-D98N
+
+// Head Blow does no damage
+AYRA-CADW
+
+// Head Blow does more damage
+AYRA-D2MW
+
+// Head Blow does maximum damage
+AYRA-D95W
+
+// Knee does no damage
+ATRA-CADA
+
+// Knee does more damage
+ATRA-CTXA
+
+// Knee does maximum damage
+ATRA-D95A
+
+// Crouched Kick does no damage
+AJRT-CAAC
+
+// Crouched Kick does more damage
+AJRT-DTAC
+
+// Crouched Kick does maximum damage
+AJRT-D92C
+
+// Uppercut does no damage
+BJRA-CABL
+
+// Uppercut does more damage
+BJRA-DT3L
+
+// Uppercut does maximum damage
+BJRA-D93L
+
+// Roundhouse Kick does no damage
+BJRA-CAHT
+
+// Roundhouse Kick does more damage
+BJRA-CA9T
+
+// Roundhouse Kick does maximum damage
+BJRA-D99T
+
+// Foot Sweep does more damage
+AYRA-D2R8
+
+// Foot Sweep does no damage
+AYRA-CAG8
+
+// Foot Sweep does maximum damage
+AYRA-D988
+
+// Flying Punch does no damage
+A2RA-CAE0
+
+// Flying Punch does more damage
+A2RA-C0Y0
+
+// Flying Punch does maximum damage
+A2RA-D960
+
+// Jump Kick does no damage
+AYRA-CAFJ
+
+// Jump Kick does more damage
+AYRA-D2PJ
+
+// Jump Kick does maximum damage
+AYRA-D97J
+
+// Sub-Zero's Slide does no damage
+ANPT-CAF8
+
+// Scorpion's Harpoon does no damage
+AJPT-CAHC
+
+// Sub-Zero's Slide does more damage
+ANPT-CRP8
+
+// Sub-Zero's Slide does maximum damage
+ANPT-D978
+
+// Sub-Zero's Deep Freeze does damage--ONLY FROM A DISTANCE
+AARA-CTJ2
+
+// Sub-Zero's Deep Freeze does maximum damage--ONLY FROM A DISTANCE
+AARA-D922
+
+// Scorpion's Scorpion Split does no damage
+A2PT-CAGT
+
+// Scorpion's Scorpion Split does more damage
+A2PT-C00T
+
+// Scorpion's Scorpion Split does maximum damage
+A2PT-D98T
+
+// Scorpion's Harpoon does more damage
+AJPT-DTHC
+
+// Scorpion's Harpoon does maximum damage
+AJPT-D99C
+
+// No Background
+AENT-BAXN
+
+// scorpion [BLACK]
+831T-BARY
+
+// Infinite Bonus Time
+9VTT-DCSL
+BFTT-CAHN
+93TT-CZSR
+JBTT-C4H0
+RFTT-C612
+
+// Infinite Energy
+9VRA-BGSA
+SBRA-AAHC
+
+// Intro Credits Go Faster
+ABNT-CAAL
+AC3T-CAAR
+ACVA-CAET
+ABNT-CAG8
+REYT-C6XW
+
+// Player 2 Freezes After Getting Hit
+9VRA-BCEN
+AFRA-AVER
+APRA-A3YT
+ABRA-BE7C
+
+// Invincibility
+9F8T-A6T0
+D78T-AAA2
+JB8T-B124
+RF8T-A6T6
+FH7V-9ALA
+BM7V-8ACC
+9X7V-9DLE
+997V-994G
+GX7V-81WJ
+AX7V-8R4L
+9D7V-86WN
+D57V-944R
+9D7V-86WT
+LX7V-944W
+
+// Blood Stay On The Ground
+JJXT-AXF0
+
+// You Can Throw Scorpion Spear Many Times
+ACPA-AAT4
+
+// Infinite Time
+A3RT-AAYR
+
+// Always Win
+ABRT-AA7L
+
+// Fight Never Ends
+ABRT-AA76
+
+// Infinite Health For Both Players
+ABET-AAC0
+
+// Alot Of Damage For Both Players
+ABET-AACJ
+
+// Both Players Cant Lose
+ABET-AAC6
+
+// One Hit For Both Players
+ABET-AABC
+
+// The Screen Doesn't Turn Dark When Doing A Fatality
+AJWT-AALG
+
+// player or cpu still standing when doing sub-zero fatality
+ACPT-AAEJ
+
+// Sub-Zero Does Fatality 1 Uppercut
+ACPT-AAME
+
+// Both Players Never Back Up When Being Punched
+J8AT-AA1G
+
+// Cpu Always Doing Power Moves
+ADDT-AA4R
+
+// Player 1 Automatically Wins
+AVEA-AAH4
+
+// Small Players
+APCA-AAT6
+
+// Spine Doesnt Stop Moving When You Do Sub-Zero Fatality 2
+ACRA-AAZ8
+
+// Player is Dazed And Dead When Doing Sub-Zero Fatality 2
+ACRA-AA42
+
+// You Beat The Game On The 1st Opponent
+AKSA-AA86
+
+// Both Players Can Hit Anywhere
+AB8A-AAH2
+AB8A-AASN
+
+// Doing Sub-Zero Fatality 2 The Opponent Head Disappear
+ARRA-AACC
+
+// Sub-Zero Ice Doesn't Move
+ACTA-AAW0
+
+// You or The Opponent Turns In To Shang Tsung After The Fight
+AGBA-AAHW
+
+// You or The Opponent Turn In To Shang Tsung After 2 Rounds
+AGBA-AAHY
+
+// The Cpu Almost Can Controls You When Finishing The Opponent
+AGBA-AAFY
+
+// The Opponent Can Move When You Trying To Finish Him/Her
+AGBA-AAFC
+
+// You Fall Down When The Round Ends
+AGBA-AAF8
+
+// Kano Cannon Ball Goes Down When Hitting The Opponent
+ARFA-AAV6
+
+// Kano Cannon Ball Doesn't Go Anywhere
+ARFA-AAVA
+
+// Kano Cannon Ball Doesn't Bounce Up When Hitting The Opponent
+ARFA-AAWJ
+
+// Kano Cannon Ball Doesn't Rotate When Hitting The Opponent
+ARFA-AAWN
+
+// Kano Stays In The Cannon Ball Roll When Landing From His Cannon Ball Attack
+ARFA-AAWY
+
+// Kano Doesn't Move When Landing From His Cannon Ball Attack
+ARFA-AAW2
+
+// Kano Gets Hit In The Face When Landing From His Cannon Ball Attack
+ARFA-AAW8
+
+// Kano Stop Rolling When Doing His Cannon Ball Attack
+ARFA-AATC
+
+// Kano Cannon Ball Does A High Punch Attack
+ARFA-AATJ
+
+// Kano Cannon Ball Doesn't Hit The Opponent
+ARFA-AATL
+
+// Kano Stands When Doing His Cannon Ball Attack
+ARFA-AATY
+
+// It Doesn't Get Dark When Doing Kano Fatality And He Can Still Grab The Opponents Heart When You Run Out Of Time
+AREA-AAAC
+
+// Kano Grab The Opponents Heart Fast
+AREA-AAAG
+
+// Kano Just Walks When Doing His Fatality
+AREA-AAAN
+
+// Kano Grab The Opponent Heart When Walking
+AREA-AAAT
+
+// The Opponent Still Standing When You Do Kano Fatality
+AREA-AABA
+
+// Kano Only Grab The Opponent Chest When You Do His Fatality
+AREA-AABE
+
+// Kano Grab The Opponent Heart Fast
+AREA-AABG
+
+// Kano Grab The Opponent Heart With His Hand In There Chest Still When Doing His Fatality
+AREA-AABW
+
+// The Heart Doesn't Show In Kano Hand When Doing His Fatality
+AREA-AAB6
+
+// Kano Grab The Opponent Heart And Fall Down While The Heart is In The Air When Doing His Fatality
+AREA-AACE
+
+// Kano Grab The Opponent Heart Sending Him or Her To The Other Side Of The Screen In Mid Air When Doing Kano Fatality
+AREA-AACJ
+
+// Kano Grab The Opponent Heart Pushing Him or Her Backwards When Doing Kano Fatality
+AREA-AACN
+
+// Kano Grab The Opponent Heart Making Him or Her Ducking When Doing Kano Fatality
+AREA-AACT
+
+// Scorpion Body Appears On The Floor When You Hit The Opponent With The Spear
+ARDA-AAAE
+
+// Scorpion Spear Always Keep The Opponent Stun
+ARCA-AAGC
+
+// Johnny Cage Shadow Kick Doesn't Stay Up Long
+ARHA-AAAA
+
+// Do A Finish Move On Your Opponent And You Have Defeated Reptile 10000000
+ABXA-AAPC
+
+// Sub-Zero Ice Ball Doesn't Hit The Opponents
+AARA-CAJR
+
+// Always Fight on Pit Stage
+ANJT-DA9W
+9T8T-DCBN
+AN8T-CVBR
+1Y8T-CZKT
+
+// Scorpion's spear go threw opponents
+ARPA-AANA
+
+// scorpion's spear goes across the screen when missing the opponent
+ARPA-AANW
+
+// all fighters can do a round house auto sweep attack
+AR8A-AADE
+
+// fatality 100000
+AKXA-AARJ
+
+// CPU can't follow you
+AXFA-AA34
+
+// CPU follows you slow
+AXFA-AA32
+
+// CPU doesn't fight back sometimes
+EXFA-AB00
+
+// CPU always hit in the nuts
+BXFA-AA00
+
+// CPU always pushed hard
+YXFA-AP00
+
+// CPU always get there head knocked off (Mid air)
+5DFA-AB00
+
+// automatic morphin nut punch for CPU
+ADFA-AA00
+
+// CPU jump in the air (standing animation)
+1DFA-AA00
+
+// CPU jump backwards flipping automatically
+CDFA-AA00
+
+// CPU always do winning pose and automatic fatality bouns
+HDFA-AB00
+
+// CPU always get there head knocked off (better then the other one i made)
+MDFA-AB00
+
+// CPU head always explode
+PDFA-AB00
+
+// CPU head always explode with no blood
+TDFA-AB00
+
+// CPU always do winning pose
+HXFA-AB00
+
+// CPU always teleports
+GXFA-AS00
+
+// CPU always jump away (standing animation)
+MXFA-AS00
+
+// CPU can't jump away from you (standing animation)
+NXFA-AS00
+
+// CPU side punch you
+XXFA-AS00
+
+// CPU always do fly kicks
+DXFA-AM00
+
+// CPU always do fly punch
+DDFA-AZ00
+
+// game doesn't shake in battle
+YWZA-AVCT
+
+// finish sonya only
+AFSA-ABAR
+
+// the announcer say finish her on male opponents
+AFSA-ABAG
+
+// Dark battle
+AYWA-ABAC
+
+// you or the CPU or player 2 can't go anywhere
+AEJA-AMGE
+
+// player 2 always enter the match
+AMBT-AAS4
+
+// player 1 always enter the match
+AMBT-AAH8
+
+// hold down to morphin
+AMAT-AATC
+
+// weird music playing at the credit screen
+AJGT-ABAA
+
+// the right side make you face the wrong way
+ABDT-ABM0
+
+// Fight or finish him or her stay on screen
+APHT-ABYL
+
+// Dark characters at the choose your fighter screen
+AYLT-ABT0
+
+// always fight at goro's lair
+AYLA-ABTR
+
+// music still play at the end of the rounds
+AACT-AA5N
+
+// fight or finish him or her does show up on screen
+AVJA-AAPW
+
+// sub-zero ice ball is a clone
+AWSA-AALN
+
+// sub-zero can't get frozen from double ice back fire
+ALLA-AA78
+
+// opponents have no shadow
+ABEA-AB9W
+
+// both opponents are invincible
+AB8T-AA2W
+
+// both opponents can still be attacked when blocking
+AB8T-AAA0
+
+// CPU is green like reptile
+A31T-AA4A
+
+// both opponents are green like reptile
+A31T-AC4A
+
+// player 1 is green like reptile
+A31T-AD4A
+
+// player 1 is green like reptile when you choose your fighter
+A31T-AE4A
+
+// player 1 is the mirror match color
+A31T-AD5A
+
+// you or the CPU can move when finishing off your opponents
+ACBA-AAPA
+
+// Shang Tsung always wins
+A3WT-AAWW
+
+// reptile always wins
+A3WT-AAWA
+
+// reptile always wins for player 1 only
+B3WT-AAWW
+
+// johnny cage always wins for player 2 or CPU only
+B3WT-AAWL
+
+// the winning names always black
+A3WT-AA6A
+
+// no bouns
+A3WT-AA7A
+
+// reptile always wins for player 2 or CPU only
+A3WT-AA4A
+
+// liu kang [BLACK]
+A31T-AA8T
+
+// kano [BLACK]
+A31T-AA8J
+
+// johnny cage [BLACK]
+A31T-AA8E
+
+// sub-zero [BLACK]
+831T-AA82
+
+// raiden [BLACK]
+831T-AA8N
+
+// sonya [BLACK]
+A31T-AA86
+
+// CPU or player 2 always win
+A3RT-AAPN
+
+// game over
+A3RT-AAAN
+
+// health decrease to danger when hit for both opponents
+A3ET-AA74
+
+// health goes straight to danger when hit for both opponents
+A3ET-AA76
+
+// infinite health for both opponents
+A3ET-AA78
+
+// both opponents health decrease to danger
+A3ET-AA7T
+
+// both opponents take less damage
+A3ET-BA7C
+
+// both opponents take less damage and get 99999999 hi-score with one hit
+A3ET-BA7E
+
+// player 1 is a shadow
+A3DT-AA74
+
+// fuzzy TV
+A3DT-AA56
+
+// both opponents are invisible and invincible
+ABBT-AAT4
+
+// player 1 is invisible and invincible
+ABBT-AAT2
+
+// Slow animation
+ABCT-AB96
+
+// player 2 or CPU  never wins
+ABRT-AA8A
+
+// both opponents always get pushed back from hits
+AV8T-AA30
+
+// both opponents are invincible
+BV8T-AA80
+
+// both opponents can't grab
+A86T-AAR4
+AGMA-AABW
+
+// player 1 can't go anywhere
+AK9T-AA02
+
+// Darkness
+A2PA-AA8W
+
+// raiden has less gravity when doing his doing his flying torpedo
+AC0A-AAR6
+
+// raiden doesn't flip back when doing his flying torpedo
+AC0A-AAR4
+
+// raiden has no gravity when doing his flying torpedo
+AC0A-AAR2
+
+// raiden doesn't rotate when doing his flying torpedo
+AC0A-AARL
+
+// raiden flip forward when doing his flying torpedo
+AC0A-AARG
+
+// raiden doesn't flip back far when doing his flying torpedo
+AC0A-AARA
+
+// raiden's flying torpedo doesn't push the opponents
+AC0A-AA3Y
+
+// raiden can morphs in to sub-zero when doing his flying torpedo
+AC0A-AA34
+
+// infinite time for (test your might)
+A7RT-CAAC
+
+// pieces doesn't fly everywhere in (test your might)
+A3RT-CAAW
+
+// character doesn't move in (test your might)
+A3RT-CAA4
+
+// times up in (test your might)
+A3RT-CABR
+
+// time never up even when it hit 0 in (test your might)
+A3RT-CAB8
+
+// skip (test your might)
+AT3T-CAVE
+
+// you fight right after midway presents
+ABDT-CAMJ
+
+// (wood) doesn't break in (test your might)
+A7WT-CASY
+
+// characters invisible in (test your might)
+AKYA-CADA
+
+// always wood in (test your might)
+AP4A-CAPA
+
+// always stone in (test your might)
+BP4A-CAPA
+
+// all objects doesn't break when you go pass the red line in (test your might)
+A3RT-CAPN
+
+// the bar meter doesn't stop moving in (test your might)
+A3RA-CAPN
+
+// choose your fighter at (test your might)
+A3RA-CH78
+
+// Players fall through the screen constantly
+FHCA-ACDR
+
+// Brown border surrounding screen on Courtyard Stage
+PEGA-ADLC
+
+// Always Fight Shang Tsung
+BC2T-B67C
+BAJT-DA4E
+RG2T-A6ZA
+
+// Player 1 fights on the upper half of the screen
+9W6B-9CBG
+AC6B-8ABJ
+AG6B-81VL
+
+// all characters have sonya voice in (test your might)
+A3RT-CARE
+
+// sonya has male a voice in (test your might)
+A3RT-CARW
+
+// Player 2 gets killed with 1-hit
+MEHT-AKZN
+
+// Shang-Zero
+7WXA-AC32
+
+// Play as Reptile
+9W6B-9CBG
+AG6B-8ABJ
+AL6B-81VL
+
+// Players &quot;Enter the Tournament&quot;
+9W6B-9CBG
+AL6B-8ABJ
+AR6B-81VL
+
+// Losing character doesn't stand up for fatality
+NBSA-ADBR
+
+// Opponents don't turn blue when frozen by Sub-Zero's Ice Ball
+SALA-AKCN
+
+// CPU can't block your attacks
+ACAA-AB7T
+
+// game gets bigger at choose your fighter screen and in battle
+ATPA-A3RR
+
+// Hit Anywhere Both Players
+CV8A-AA9R
+
+// Always Fight Johnny Cage
+AC2T-B67C
+AAJT-DA4E
+RG2T-A6ZA
+
+// Always Fight Kano
+AG2T-B67C
+AEJT-DA4E
+RG2T-A6ZA
+
+// Always Fight Rayden
+AL2T-B67C
+AJJT-DA4E
+RG2T-A6ZA
+
+// Always Fight Liu Kang
+AR2T-B67C
+ANJT-DA4E
+RG2T-A6ZA
+
+// Always Fight Scorpion
+AW2T-B67C
+ATJT-DA4E
+RG2T-A6ZA
+
+// Always Fight Sub-Zero
+A02T-B67C
+AYJT-DA4E
+RG2T-A6ZA
+
+// Always Fight Sonya Blade
+A42T-B67C
+A2JT-DA4E
+RG2T-A6ZA
+
+// Always Fight Goro
+A82T-B67C
+A6JT-DA4E
+RG2T-A6ZA
+
+// Midget Characters
+BBCA-AA26
+
+// Invisible Characters With Shadows
+ABCA-BBAA
+
+// Set Match Modifier
+FFAABA:0001
+
+// Enable &quot;Cheat Enabled&quot; Option on Menu
+FFFF5A:0001
+
+// Stage Modifier
+FFAABC:0000
+
+// Cheat Menu Flag Toggle
+FFFF5A:00BE
+
+// Silhouettes Always Appear On Pit Level
+FFAAAC:0001
+
+// FAKE Infinite Bonus Round Time
+FFAAFE:0009
+
+// Cheat menu is always enabled.
+RFDT-C6WG
+
+// Can choose up to 99 credits in the Options screen
+NGJA-CEAE
+NNJT-CADC
+
+// Makes Medium the default difficulty (instead of Easy)
+AAZA-CEFN
+
+// Makes Hard the default difficulty
+AAZA-CGFN
+
+// Makes Very Hard the default difficulty
+AAZA-CJFN
+
+// Skip Intro Screens
+ATXT-CA3R
+B28A-CA90
+AJ8T-CA4T
+
+// Skip VS Screen
+RZKA-C6XN
+
+// Liu Kang - Press Down
+ALHT-AA2L
+
+// Johnny Cage - Press HP or LP
+CWFA-AA62
+
+// Kano Press - Press HP or LP
+B4DT-AA9A
+
+// Sonya - Press Block
+ALKT-AA6C
+
+// Sub Zero - Press HP or LP
+B4PT-AA32
+
+// Raiden - Press HP or LP
+DLXT-AA26
+
+// Scorpion - Press Up
+DCNT-AA2Y
+
+// Scorpion's Spear Attack recovers slighty faster
+GCPA-AAB8
+
+// Scorpion's Spear Attack recovers much faster
+FCPA-AAB8

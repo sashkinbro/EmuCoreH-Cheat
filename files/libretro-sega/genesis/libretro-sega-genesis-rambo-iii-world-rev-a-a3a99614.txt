@@ -1,0 +1,20 @@
+// Infinite Lives
+CKET-AA44
+CJ1A-AA22
+
+// Infinite Weapons
+AKEA-AA44
+AKEA-AA9R
+
+// Invincibility
+CBAT-AN22
+GBAT-AN2G
+
+// Infinite Lives For Bosses
+AA1A-AAA0
+
+// Infinite Lives
+ABET-AAC4
+
+// Invincibility (Disable Hit Detection)
+RZRA-A614

@@ -1,0 +1,243 @@
+// Infinite Time Without Freezing The Game
+FFAB8E:0015
+
+// Background Layers Does Cool Things When Players Move Around
+FFAC30:0001
+
+// Floor Camera Angle
+FFAB64:0035
+
+// Character Sprites Are A little Higher In Select Screen
+FFAB5E:0014
+
+// Magic Carpet Ride(Background)
+FFAB5A:0001
+
+// Move Off Screen
+FFAB56:00C8
+
+// Round Announcement Modifier
+FFAB3C:0001
+
+// Added Background Layers Overlap Original Background
+FFABB4:00FF
+
+// Kombat Tomb &amp; Pit 2 Fatality Are Edited
+FFBA86:0001
+
+// CPU/Player 2 Is Confined To One Spot
+FFBAD2:0026
+
+// Background Color Modifier(s)
+FFB718:0000
+FFB752:0000
+
+// Dead Pool Acid Color Modifier
+FFB78E:0000
+FFB790:0000
+FFB792:0000
+FFB794:0000
+
+// Liu Kang's High Fireball Does Massive Damage.
+A33A-CA88
+
+// Kung Lao's Hat Throw Does Massive Damage.
+A34T-CA6E
+
+// Cage's Shadow Kick Does Massive Damage.
+A33A-CA9E
+
+// Reptile's Force Ball Does Massive Damage.
+AVYT-CA48
+
+// Shang Tsung's Flaming Skull Attack Does Massive Damage.
+AV0T-CA38
+
+// Kitana's Fan Throw Does Massive Damage.
+AV1A-CA88
+
+// Mileena's Sai Throw Does Massive Damage.
+AV1A-CA9T
+
+// Rayden's Lighting Bolt Does Massive Damage.
+AV2T-CA7L
+
+// In second round, the loser from first round lies on floor.
+AS9T-BA2J
+
+// First player lies on floor.
+AM9T-BA2J
+
+// Second player lies on floor.
+AH9T-BA2J
+
+// Full Room Fighting.
+AD2A-AA3W
+
+// Instead of Finish Him/Her text, it saids Friendship.
+A5WA-AJG8
+
+// No Finish Him/Her text.
+A5WA-AGG8
+
+// Finishing moves can be done at the end of any round.
+RHVT-A6X8
+
+// Revenge, On the Dead Pool stage when Shao Kahn saids Finish Him/Her, the loser will be able to move,
+RHVT-A6X8
+AS9T-BA2T
+
+// Auto Fatalities (Founded By Tony Hedstrom)
+ADZT-CA4C
+AC7T-CA6E
+
+// Auto Friendships
+ADZT-CA4C
+BW7T-CA6N
+
+// Auto Babalities
+ADZT-CA4C
+RG7T-C6YN
+
+// Auto Kombat Tomb &amp; Pit 2 Fatality
+ADZT-CA4C
+AC7T-CAAE
+
+// Timer is 2x as fast.
+CXXT-BA5A
+
+// Timer is 2x as slow.
+LDXT-BA5A
+
+// Infinite Time.
+ADVA-BE52
+
+// 10 Minute Fatality Time.
+A5WA-BBHY
+
+// Immortal Kombat
+CALA-DE4J
+
+// You Only Have To Win One Fight To Win The Match, B
+SDVT-BJT6
+
+// The CPU Will Never Win The Match
+AMVT-AA3N
+
+// Enable Secret Cheat Menu!
+RGTT-A6T2
+
+// Gives You More Time To Do Fatalities
+A5WA-AJHY
+
+// Shadow Fighters
+AAMA-CADL
+
+// Air Fighting
+AAMA-CAD6
+
+// Shadow Air Fighting
+BJMA-CAD6
+
+// Disfigured Backgrounds
+AGMA-AAHJ
+
+// Backgrounds Out Of Line
+YLMA-ACHJ
+
+// Background Effects Out Of Place
+YLMA-ATHJ
+
+// No Backgrounds
+ACMA-AAH8
+
+// Total Blackout
+XGMT-AAWA
+
+// When Both Players Choose The Same Character, Both  ?
+AEFT-DELC
+
+// When Both Players Choose The Same Character, Both  ?2
+AEFT-DEKY
+
+// Jump Across The Entire Length of The Screen
+AD5A-BTD0
+
+// Jump Farther Across The Screen
+AD5A-BAM0
+
+// Super High Jump
+AD3T-AAPE
+
+// High Jump
+AD3T-AAZE
+
+// Always Fight Smoke
+B2LT-DE4J
+
+// Always Fight Noob Saibot
+B6LT-DE4J
+
+// Always Fight Jade
+CALT-DE4J
+
+// Always Fight Kintaro
+BTLT-DE4J
+
+// Always Fight Shao Kahn
+BYLT-DE4J
+
+// Always Fight Reptile
+BELT-DE4J
+
+// Always Fight Kung Lao
+AALT-DE4J
+
+// Always Fight Liu Kang
+AELT-DE4J
+
+// Always Fight Johnny Cage
+AJLT-DE4J
+
+// Always Fight Baraka
+ANLT-DE4J
+
+// Always Fight Kitana
+ATLT-DE4J
+
+// Always Fight Mileena
+AYLT-DE4J
+
+// Always Fight Shang Tsung
+A2LT-DE4J
+
+// Always Fight Raiden
+A6LT-DE4J
+
+// Always Fight Sub-Zero
+BALT-DE4J
+
+// Always Fight Scorpion
+BJLT-DE4J
+
+// Always Fight Jax
+BNLT-DE4J
+
+// Hit Anywhere Both Players
+AD8T-AA3A
+CX8T-AABC
+
+// Infinite Credits
+AL6T-AA2E
+
+// Infinite Time
+ADVA-BE3G
+
+// P1 Enable 6 Button Mode when using a 6 Button Controller
+AMPT-AA22
+
+// P2 Enable 6 Button Mode when using a 6 Button Controller
+AMPT-AA32
+
+// P1 Enable 6 Button Mode when using a 6 Button Controller
+FFF736:0001

@@ -1,0 +1,5 @@
+// Infinite Health
+FFAA16:0040
+
+// Infinite Air
+FFAA18:0400

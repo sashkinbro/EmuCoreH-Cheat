@@ -1,0 +1,97 @@
+// Have Bombs
+00C0-8B01
+
+// Bonus Stage After Every Level
+00C0-9F50
+
+// Have Key From Start
+00C0-8C01
+
+// Invulnerability
+00C2-272C
+
+// Invulnerability
+013-D35-E69
+
+// Start with 999 time
+99B-ACE-E6A
+09B-ADE-F7A
+
+// Infinite Lives
+7E9-BDB-3B7
+
+// Infinite Energy
+7E1-065-3B7
+
+// Have Rocks
+00C0-8B02
+
+// Have Cement
+00C0-8B03
+
+// Have Fire Potion
+00C0-8B04
+
+// Flying
+00C2-0B11
+
+// Bonus Stage From The Start
+00C0-8F94
+
+// Character Select
+00C2-4800
+
+// Round Select
+00C0-8F80
+
+// Infinite Time - Seconds Digits
+00C0-A309
+
+// Infinite Time - Seconds Digits
+00C0-A299
+
+// Infinite Lives
+00C0-9D09
+
+// Round Select Menu
+00C0-8B00
+
+// Infinite Energy
+B61-095-3BE
+
+// Infinite Time
+00D-90F-3BE
+
+// Invincibility
+183-BD5-6EA
+
+// Multi-Jump
+86B-BA5-F71
+86D-86D-F71
+
+// Jump Height Modifier
+FBB-A25-199
+
+// Round Select after Title Screen (Start a new game)
+002-14E-E68
+
+// Invincibility (blinking)
+00C2-2601
+
+// Multi-Jump
+00C2-2200
+
+// Jump to any Height (Hold Jump to go higher, release to descend)
+00C2-2A10
+
+// Bonus Stage after Every Level
+009-F7B-A2B
+
+// Freeze Timer
+00C0-A116
+
+// Infinite Health
+00C0-9A06
+
+// Round Select after Title Screen (Start a new game)
+00C0-8F00

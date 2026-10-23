@@ -1,0 +1,14 @@
+// Infinite Health P1
+00C1-28A0
+
+// Infinite Time - Seconds (One's Digit)
+00C1-3309
+
+// No Health P2
+00C1-2900
+
+// Automatic T.K.O.
+00C4-220A
+
+// Infinite Points
+00C1-1C09

@@ -1,0 +1,86 @@
+// Infinite Lives
+AA5A-0AGW
+
+// Infinite Energy
+AA4T-0AGW
+
+// Invincibility
+D3AT-0N9A
+DXNT-0N46
+
+// Invincibility
+A63A-137R
+
+// Ultra High Jump
+AKAT-0AAW
+
+// Super Slow Descent
+WVBT-0GDR
+
+// Each Moon You Collect is Worth 4 [Instead Of Only 1]
+SCWA-1TWC
+
+// Each Moon You Collect is Worth 8 [Instead Of Only 1]
+SCWA-1AWC
+
+// Infinite Crescents
+FFFCD0:0063
+
+// Infinite Lives
+FFFA9E:0009
+
+// Infinite Orange Fish (Health Bar)
+FFFAA0:0004
+
+// Invincibility
+FFFA9C:0010
+
+// Enabled Cheat Code Level Select - All Map Game Open
+BTVA-YA4C
+AAWT-YA30
+
+// Enabled Cheat Code Start Game Invincibility
+RFAT-060Y
+
+// Enabled Cheat Code Start Game With 9 Lives
+RFAT-06ZC
+
+// Enabled Cheat Code Start Game With 5 Fish
+FFFCFE:00FF
+
+// Start a new game with springs
+RFJT-06VY
+
+// Enabled Cheat Code Play As Frog
+RE2A-06WC
+
+// Enabled Cheat Code Music Test/Sfx Test/Start Level/In Options
+RH7T-W600
+RH8A-W6W8
+RH8A-W6TT
+RH8A-W6XG
+RF2T-06W0
+
+// Enabled Cheat Code Start Game With 5 Fish
+RF2T-06VT
+
+// Enabled Cheat Code Play As Frog
+FFFD00:00FF
+
+// Enabled Cheat Code Start Game With 1 Fish
+RF2T-06V8
+
+// Enabled Cheat Code Cheese/Mines Destroyed- All/Stiltonium Machines Disabled-All
+FFFD04:00FF
+
+// Enabled Cheat Code Cheese/Mines Destroyed- All/Stiltonium Machines Disabled-All
+RF2T-06WL
+
+// Enabled Cheat Code Start Game With Homing Cupcakes/Need To Have A Weapon
+RF2T-06VG
+
+// Enabled Cheat Code Start Game The X-Ray Specs
+RE2T-06T0
+
+// Enabled Unused Feature Cheat Code Moon Gravity
+RG2T-06X8

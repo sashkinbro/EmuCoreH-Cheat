@@ -1,0 +1,30 @@
+// Infinite Lives
+00D9-5C63
+
+// Infinite Health
+00D9-5914
+
+// Invulnerability
+20A-24E-4CA
+
+// Invulnerability
+00CB-66FF
+
+// Infinite Lives
+00CE-7A09
+
+// Infinite Time
+00D0-3A55
+00D9-6455
+
+// Don't Blink From Taking Damage
+183-83D-6EA
+
+// Infinite Time (Ignore Timer)
+182-A07-6EA
+
+// Invincibility
+C94-BED-E69
+
+// Jump Higher
+FA8-E1A-199

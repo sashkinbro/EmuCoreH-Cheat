@@ -1,0 +1,23 @@
+// Infinite Energy P1
+FF03B4:0060
+
+// Infinite Energy P2
+FF0428:0060
+
+// No Energy P1
+FF03B4:0000
+
+// No Energy P2
+FF0428:0000
+
+// Speed Modifier
+FF030C:0000
+
+// Difficulty Select
+FF02FA:0000
+
+// Character Select P1 + P2
+FF0352:0000
+
+// P1 Win Modifier
+FF03E6:0000

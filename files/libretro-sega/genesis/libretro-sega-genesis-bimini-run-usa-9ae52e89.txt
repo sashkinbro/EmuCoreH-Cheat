@@ -1,0 +1,84 @@
+// Start with 1 boat
+ACDT-DA4N
+
+// Start with 2 boats
+AGDT-DA4N
+
+// Start with 10 boats
+BGDT-DA4N
+
+// Top speed is 80 mph instead of 93
+BDHA-AYB2
+BDHA-AYB8
+
+// Top speed is 105 mph
+FDHA-A4B2
+FDHA-A4B8
+
+// Top speed is 125 mph
+ZDHA-A8B2
+ZDHA-A8B8
+
+// Don't lose boats from accidents and enemy fire
+RGVT-C6TY
+
+// Infinite fuel supply
+RHKT-A61L
+
+// 0 continues instead of 4
+ACDA-CAB6
+ACET-CAHE
+
+// 1 continue
+AGDA-CAB6
+AGET-CAHE
+
+// 2 continues
+ALDA-CAB6
+ALET-CAHE
+
+// 9 continues
+BGDA-CAB6
+BGET-CAHE
+
+// Infinite continues
+RGJA-C60G
+
+// Start at chapter 2
+ACDA-CAEJ
+
+// Start at chapter 3
+AGDA-CAEJ
+
+// Start at chapter 4
+ALDA-CAEJ
+
+// Start at chapter 5
+ARDA-CAEJ
+
+// Start at chapter 6
+AWDA-CAEJ
+
+// Infinite Continues
+FF53BC:0009
+
+// Top Speed Is 80 Mph Instead Of 93
+BDHA-AYB2
+
+// Top Speed Is 80 Mph Instead Of 93
+BDHA-AYB8
+
+// Top Speed Is 105 Mph
+FDHA-A4B2
+
+// Top Speed Is 105 Mph
+FDHA-A4B8
+
+// Top Speed Is 125 Mph
+ZDHA-A8B2
+
+// Top Speed Is 125 Mph
+ZDHA-A8B8
+
+// Infinite Lives
+ALVT-CA20

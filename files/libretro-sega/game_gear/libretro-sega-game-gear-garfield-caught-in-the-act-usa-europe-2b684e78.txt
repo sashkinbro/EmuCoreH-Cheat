@@ -1,0 +1,34 @@
+// Infinite Lives
+00D9-AB09
+
+// Infinite Throwing Items
+00D9-AA63
+
+// Infinite Health
+00D9-AC0A
+
+// Debug Menu
+018-EE6-F72
+
+// Infinite Throwing Items
+006-FA7-3BE
+
+// Infinite Lives
+001-B97-3BE
+
+// Infinite Health
+007-16B-3BE
+
+// Jump Higher
+3EB-D3A-082
+FFB-D4A-7F0
+00B-D5A-80D
+
+// Take throwing items anywhere
+C38-099-A2C
+718-0A9-6EA
+688-0B9-7FF
+008-DC9-6EA
+008-DE9-6E6
+008-E59-4CA
+008-E69-802

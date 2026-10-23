@@ -1,0 +1,5 @@
+// Infinite Lives
+FF3FF6:0008
+
+// Infinite Energy Capsules
+FF9786:0008

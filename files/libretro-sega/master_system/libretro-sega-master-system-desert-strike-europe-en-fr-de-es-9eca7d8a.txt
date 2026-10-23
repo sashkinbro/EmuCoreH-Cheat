@@ -1,0 +1,66 @@
+// Infinite Lives
+00CE-D509
+
+// Infinite Armor
+00CE-D7E7
+00CE-D803
+
+// Infinite Fuel
+00CE-D98F
+
+// Infinite Bullets
+00CE-DB0F
+00CE-DC27
+
+// Infinite Hydras
+00CE-DD37
+
+// Infinite Hellfires
+00CE-DE09
+
+// Campaign 2 - Scud Buster
+00CE-EF01
+
+// Campaign 3 - Embassy City
+00CE-EF02
+
+// Campaign 4 - Nuclear Storm
+00CE-EF03
+
+// Campaign 1 - Air Supremacy
+00CE-EF00
+
+// Infinite Load
+00CF-8200
+
+// Infinite Lives
+B63-E2E-3BE
+
+// Infinite Armor
+2AC-7DE-6E2
+
+// Infinite Fuel
+B6C-0BE-3BE
+B6C-0CE-3BE
+
+// Infinite Bullets
+2A9-E7E-6E2
+
+// Infinite Hydras
+3A9-19E-2A2
+
+// Infinite Hellfires
+3A8-4FE-2A2
+
+// Campaign Select
+00CE-EF00
+
+// Copilot Select
+00CE-EA00
+
+// Start with and have a capacity of 856 armor, instead of 600 (after 1st life)
+034-2AE-E62
+
+// Start with and have a capacity of 999 armor (after 1st life)
+E74-29E-80B
+034-2AE-E62

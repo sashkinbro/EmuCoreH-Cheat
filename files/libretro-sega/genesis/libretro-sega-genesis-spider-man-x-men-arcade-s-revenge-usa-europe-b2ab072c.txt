@@ -1,0 +1,254 @@
+// Always get option of playing Spider-Man Security Level
+BAXA-AA52
+
+// Start with 2 lives
+AFJA-AAC8
+
+// Start with 6 lives
+AZJA-AAC8
+
+// Start with 11 lives
+BKJA-AAC8
+
+// Start with 51 lives
+GKJA-AAC8
+
+// Start with 100 lives
+NVJA-AAC8
+
+// Gambit has infinite lives
+ADYT-AABN
+
+// Wolverine and Cyclops jump a little higher
+AB2A-BZ62
+
+// Wolverine and Cyclops jump much higher
+TB2A-BV62
+
+// Gambit jumps a little higher
+AD2A-BX3A
+
+// Gambit jumps much higher
+AD2A-BP3A
+
+// Storm loses air faster under water
+BXFT-AAF8
+
+// Storm loses air more slowly under water
+AXFT-AAF8
+
+// Storm doesn't lose air swimming under water
+ADFT-AAF8
+
+// Storm's air is replenished immediately at surface
+RHFT-A6YL
+
+// Cyclops and Wolverine are almost invincible
+AK5T-AA6T
+
+// Gambit is almost invincible
+ATYA-CA26
+
+// Hearts and rubies restore full energy for Cyclops and Wolverine
+RF3A-A608
+
+// Always have power blast
+986T-B880
+ADAT-AACL
+
+// Spider-Man is invincible after being hit once
+ACBT-GAAG
+
+// Infinite lives
+A4AT-GA5G
+
+// Jump a little higher
+9G8T-H94J
+
+// Spider-Man jumps much higher
+8W8T-H94J
+
+// Start with 3x normal energy
+TCAT-GCBW
+
+// Start with 2x normal energy
+ECAT-GCBW
+
+// Start with 1/2x normal energy
+GCAT-GABW
+
+// Start with 1/3x normal energy
+ECAT-GABW
+
+// Start with almost 0 energy
+A0AT-GABW
+
+// Maximum energy is 3x normal
+TH7T-GCBR
+TD7T-GCB2
+
+// Maximum energy is 2x normal
+AH7T-GCBR
+AD7T-GCB2
+
+// Maximum energy is 1/2x normal
+JH7T-GABR
+JD7T-GAB2
+
+// Maximum energy is 1/3x normal
+FX7T-GABR
+FX7T-GAB2
+
+// Maximum energy is almost 0
+AM7T-GABR
+AH7T-GAB2
+
+// Heart worth nothing to energy
+AD7T-GABG
+
+// Heart worth 1/2x normal to energy
+BM7T-GABG
+
+// Heart worth 2x normal to energy
+FD7T-GABG
+
+// Heart worth 3x normal to energy
+HX7T-GABG
+
+// Heart restores full energy
+TH7T-GCBG
+
+// Protection from most hits
+AD6T-GAGN
+
+// Most hits hurt 1/2x normal
+A56T-GAGN
+
+// Most hits hurt 2x normal
+DD6T-GAGN
+
+// Most hits hurt 3x normal
+EX6T-GAGN
+
+// Most hits are lethal
+TH6T-GCGN
+
+// Spikes don't hurt
+ACYT-GAGA
+
+// Spikes hurt 1/2x normal
+ARYT-GAGA
+
+// Spikes hurt 2x normal
+BWYT-GAGA
+
+// Spikes hurt 3x normal
+CLYT-GAGA
+
+// Spikes are lethal
+TGYT-GCGA
+
+// Infinite Lives For Spider-Man
+ACAT-GADJ
+
+// Invincibility
+C4BA-GN96
+
+// Maximum Energy Is 3X Normal
+TH7T-GCBR
+TD7T-GCB2
+
+// Maximum Energy Is 2X Normal
+AH7T-GCBR
+AD7T-GCB2
+
+// Maximum Energy Is 1/2X Normal
+JH7T-GABR
+JD7T-GAB2
+
+// Maximum Energy Is 1/3X Normal
+FX7T-GABR
+FX7T-GAB2
+
+// Maximum Energy Is Almost 0
+AM7T-GABR
+AH7T-GAB2
+
+// Cyclops, Wolverine And Storm Have Infinite Lives
+ABZT-AAAJ
+
+// Always Have Power Blast
+986T-B880
+ADAT-AACL
+
+// Infinite Health (Everyone)
+FF0224:005C
+
+// Infinite Lives (Spider-Man)
+FF0F74:0009
+
+// Infinite Lives (Cyclops, Storm, Gambit)
+FF0088:0009
+
+// Have Blue/Red Alarm Modifier
+FF0552:0000
+
+// Infinite Energy/Breath (Storm)
+FF1828:007F
+
+// Have Lots of Yellow Stars (Gambit)
+FF3F98:0063
+
+// Infinite Health (Gambit)
+FF3F94:006E
+
+// Infinite Card Attack (Gambit)
+FF3F76:0063
+
+// Infinite Energy Gambit
+ATYA-CA26
+
+// Infinite Cards Attack Gambit
+AAYA-D2K8
+
+// Infinite Cpecial Attack Gambit
+WAYA-CRZR
+
+// Infinite Energy Storm
+AMFT-AA6A
+
+// Invincibility Storm, Cyclop, Wolwerine
+RZ5T-A6YC
+
+// Invincibility Gambit Fake
+FF180A:00FF
+
+// Invincibility Storm Against Electricity
+R1GT-A604
+
+// Infinite Jump (Spider-Man)
+ALZA-GA5T
+
+// 1 Shot Kill Enemies And Bosses (Spider-Man)
+A49T-GA48
+
+// Infinite Oxygen Storm
+AMFT-AA8G
+
+// Enables built-in memory viewer/ROM viewer/debugger. See notes.
+L80T-GA2E
+
+// Electric tracks in Cyclops levels won't kill you. See notes.
+L31T-AA6N
+
+// Spider-man's invincibility lasts 5x longer when hit (about 5 seconds)
+JD6T-GCCG
+
+// When Spider-man is climbing up a wall, he can climb thru anything (overhangs, beams, etc)
+PC1T-GJB0
+
+// Cyclops and Wolverine's invincibility lasts 8x longer when hit (about 5 seconds)
+JB5T-ACE0
+
+// Spider-man's web shots (A button) can shoot thru walls, beams, etc
+AL9A-GA8R

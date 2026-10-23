@@ -1,0 +1,16 @@
+// Infinite Time
+00DF-ACB3
+
+// Infinite Time (One's Digit)
+00DE-D809
+
+// Infinite Time
+00D-7BF-19E
+
+// Able To Choose Starting Level
+006-05F-C46
+006-0CF-F7A
+
+// Unlock Starting Level Option on Title Screen
+00DF-BB0C
+00DF-BC06

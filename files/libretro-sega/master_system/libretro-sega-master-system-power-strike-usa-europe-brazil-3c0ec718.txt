@@ -1,0 +1,66 @@
+// Invincibility
+FE2-7FB-190
+
+// Invulnerability
+C32-5AB-C41
+
+// Invulnerability
+00C4-163C
+
+// Infinite Lives
+00C8-1209
+
+// Infinite Lives
+001-0F9-3BE
+
+// Start with ?? Lives, instead of 3
+04C-E0F-E66
+
+// Infinite Special Weapon
+005-22B-3BE
+003-F2B-3BE
+
+// Regular Weapon Powers-up ?? faster
+04A-73B-F7E
+
+// Special Weapon Pickups that are Different than your Current Special Weapon don't Decrease Special Weapon Power
+3A8-94B-2A2
+
+// Keep Regular Weapon Power after Dying
+3A1-D49-2A2
+
+// Keep Special Weapon Power after Dying and Special Weapon Pickups that are Different than your Current Special Weapon don't Decrease Special Weapon Power
+3A8-66B-2A2
+3A8-94B-2A2
+
+// Keep Regular Weapon Power and Special Weapon Power after Continuing
+006-77F-5DD
+006-78F-2A8
+
+// Temporary Invincibility after Dying and at Start of Level Lasts ?? Longer
+5A1-43B-19A
+
+// Infinite Special Weapon
+00C8-3E64
+
+// Max Regular Weapon Power
+00C8-1308
+00C8-1503
+00C8-1604
+
+// Max Special Weapon Power
+00C8-4003
+
+// Special Weapon Modifier
+00C8-3C00
+
+// Round Modifier
+00C8-8100
+
+// Invincibility
+442-5BB-E68
+412-5CB-E63
+
+// Invincibility
+00C4-0580
+00C4-163C

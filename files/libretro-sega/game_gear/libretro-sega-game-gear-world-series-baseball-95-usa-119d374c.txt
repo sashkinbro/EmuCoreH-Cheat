@@ -1,0 +1,36 @@
+// Count always no Strikes
+00C6-C000
+
+// Count always 2 Strikes
+00C6-C002
+
+// Count always no Balls
+00C6-C100
+
+// Count always 3 Balls
+00C6-C103
+
+// Always no Outs in Inning
+00C6-BF00
+
+// Always 2 Outs in Inning
+00C6-BF02
+
+// Strikes don't Count
+3A1-C09-2A2
+3AF-F7E-2A2
+
+// Balls don't Count
+3A1-FB9-2A2
+
+// Strikeouts don't Count
+3A1-6E9-2A2
+
+// Outs on Balls-in-Play and the Bases don't Count
+3A5-1AA-2A2
+
+// Away Team can't Score
+3A6-34A-2A2
+
+// Home Team can't Score
+3A6-4BA-2A2

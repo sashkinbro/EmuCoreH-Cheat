@@ -1,0 +1,8 @@
+// Infinite Lives For Both Players (On A Real PAR)
+002B66:4E71
+
+// Infinite Time On Each Section (On A Real PAR)
+010CE0:1C80
+
+// Constant Supply of Special Weapons
+00402E:4E71

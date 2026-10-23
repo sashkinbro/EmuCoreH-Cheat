@@ -1,0 +1,8 @@
+// Infinite Lives
+FF9FFC:0009
+
+// Infinite Energy
+FF9F8E:0005
+
+// 99 Clocks
+FF9F92:0063

@@ -1,0 +1,37 @@
+// Infinite Energy
+ALHA-AA48
+
+// Invincibility
+ACHA-AN2W
+
+// Infinite L Power of Extra Weapons After Touching Enemies
+ALHA-AA4T
+
+// Infinite Magic
+CLMT-AA28
+
+// Infinite Credit
+AKFT-AA6T
+
+// Infinite Energy After Falling Into The Abyss
+AJET-CA36
+
+// Automatically go to the level select screen when you start the game
+AKEA-AA7N
+
+// Freeze Time Continue
+AJXT-AA34
+A2GT-CA68
+
+// Invincibility
+R0HA-A6TT
+RYFA-C6VA
+RYET-C6V8
+
+// Level 2 Power for All Weapons
+HWMT-BANL
+AGMT-AAEN
+
+// Level 3 Power for All Weapons
+HWMT-BANL
+ALMT-AAEN

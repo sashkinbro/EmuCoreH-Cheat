@@ -1,0 +1,8 @@
+// Infinite Hearts (Hits)
+00C2-3203
+
+// Infinite Lives
+00C2-0009
+
+// Detach Some of Sailor Moon's Leg
+00DC-5445

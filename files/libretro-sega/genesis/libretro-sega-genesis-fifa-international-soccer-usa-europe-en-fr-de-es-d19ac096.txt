@@ -1,0 +1,29 @@
+// Each Goal Worth 2 (Both players)
+GBVA-DJZY
+
+// Each goal worth 3 (both players)
+GBVA-DNZY
+
+// Each goal worth 5 (both players)
+GBVA-DYZY
+
+// Each goal worth 8 (both players)
+GBVA-DAZY
+
+// Player 1 starts each game with 2 more pts.
+PYNA-DEYJ
+
+// Player 1 starts each game with 6 more pts.
+PYNA-DNYJ
+
+// Player 1 starts each game with 10 more pts.
+PYNA-DYYJ
+
+// Player 1 starts each game with 16 more pts.
+PYNA-DAYJ
+
+// Team 1 Score Modifier (P1)
+FFFC46:0000
+
+// Team 2 Score Modifier (P2/CPU)
+FFFC48:0000

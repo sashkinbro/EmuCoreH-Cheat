@@ -1,0 +1,102 @@
+// Infinite Energy
+00CC-F317
+
+// Send Opponents 'Flying'
+00CF-98FB
+
+// Infinite Timer
+00CE-EE01
+
+// Level Select [0-4]
+00C6-6700
+
+// Enable 2 Hidden Options in the options menu
+00CF-2905
+
+// Infinite Health
+00C6-6901
+
+// Acess stage select and damage options
+058-9F5-E66
+
+// Start With 2 Lives
+027-3CF-E66
+
+// Start With 5 Lives
+057-3CF-E66
+
+// Start With 8 Lives
+087-3CF-E66
+
+// Infinite time
+3A9-667-2A2
+
+// Start With 90 Seconds Instead Of 40 In Round 1
+090-6E7-F7A
+
+// Start With 20 Seconds In Round 1
+020-6E7-F7A
+
+// Start With 90 Seconds Instead Of 50 In Rounds 2 Through 4
+090-737-F7E
+
+// Start With 20 Seconds In Rounds 2 Through 4
+020-737-F7E
+
+// Start With 90 Seconds Instead Of 50 In Round 5
+090-787-F7E
+
+// Start With 20 Seconds In Round 5
+020-787-F7E
+
+// Infinite lives
+008-DD6-19E
+
+// Infinite energy
+009-0A6-3B7
+
+// Start on Round 2
+677-CC9-913
+
+// Start on Round 3
+677-CC9-913
+027-CA9-E6E
+
+// Start on Round 4
+677-CC9-913
+037-CA9-E6E
+
+// Start on Round 5
+677-CC9-913
+047-CA9-E6E
+
+// Hit Anywhere
+00D-664-6EE
+
+// Infinite Lives
+00CD-0909
+
+// Level Select (0-4)
+00C6-6700
+
+// Access Stage Select and Damage Options
+059-745-D55
+0A9-735-4CE
+
+// Infinite Health
+C98-EC6-E69
+
+// Infinite Time
+3A9-6B7-2A2
+
+// Infinite Continues
+00CD-0A09
+
+// Infinite Continues
+B62-E77-3BE
+
+// Start with ?? Continues, instead of 3
+047-44F-E66
+
+// Freeze Timer
+00CE-F04B

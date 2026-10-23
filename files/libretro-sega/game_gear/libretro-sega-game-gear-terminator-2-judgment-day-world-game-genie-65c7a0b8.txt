@@ -1,0 +1,8 @@
+// Infinite Lives
+00CF-5F09
+
+// Infinite Energy
+00CF-3F38
+
+// Infinite Ammo
+00CB-A638

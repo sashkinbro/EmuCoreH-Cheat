@@ -1,0 +1,8 @@
+// Begin Each Life With 10 Bombs
+003EB6:000A
+
+// Begin Your Game With 20 Lives
+000A5A:7014
+
+// Begin Your Game With 127 Lives
+000A5A:707F

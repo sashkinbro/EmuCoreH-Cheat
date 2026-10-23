@@ -1,0 +1,50 @@
+// Infinite Energy
+FF9F12:0064
+
+// Infinite Lives
+FF9E88:0003
+
+// Infinite Lives
+RFZT-A6TG
+
+// Infinite Energy
+AKSA-AA6J
+
+// Invincibility
+DVVT-AN62
+
+// Invincibility
+FF9E82:0014
+
+// No Health Mini-Boss 1
+FFA91A:0000
+
+// No Health Mini-Boss 2
+FFA9F0:0000
+
+// No Health Boss
+FFAC72:0000
+
+// Low Health Mini-Boss
+FFA51C:0000
+
+// No Health Boss
+FFA4EC:0000
+
+// Level Modifier
+FF248A:0000
+
+// Start With 250 Energy
+9KVA-AAEN
+
+// Continue With 250 Energy
+9LHA-AAF8
+
+// Invincibility/Untouchable
+RZRA-A6Z6
+
+// Freeze Time When Choosing Characters After The Death
+AJGT-CA96
+
+// Infinite Characters After The Death
+A3ZT-AA2G

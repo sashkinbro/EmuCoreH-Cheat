@@ -1,0 +1,87 @@
+// Select up to +60 seconds in the options screen
+HWHA-AAA0
+
+// Select up to -60 seconds in the options screen
+2WHA-AABN
+
+// Player 1 has infinite time
+EMVA-AA9W
+
+// Player 2 has infinite time
+EMVT-AA3A
+
+// Player 1 has 90 seconds
+CWNA-BYVT
+
+// Player 1 has 60 seconds
+CWNA-B2KT
+
+// Player 1 has 50 seconds
+CWNA-BEKT
+
+// Player 1 has 45 seconds
+CWNA-A4KT
+
+// Player 1 has 35 seconds (Ignore Counter)
+CWNA-AGKT
+
+// Player 1 has 30 seconds (Ignore Counter)
+CWNA-B6BT
+
+// Player 2 has 90 seconds (Ignore Counter)
+CWNT-BYVW
+
+// Player 2 has 60 seconds (Ignore Counter)
+CWNT-B2KW
+
+// Player 2 has 50 seconds (Ignore Counter)
+CWNT-BEKW
+
+// Player 2 has 45 seconds (Ignore Counter)
+CWNT-A4KW
+
+// Player 2 has 35 seconds (Ignore Counter)
+CWNT-AGKW
+
+// Player 2 has 30 seconds (Ignore Counter)
+CWNT-B6BW
+
+// Infinite Time To Choose A Car P1
+FFB6B0:0099
+
+// Infinite Time To Choose A Car P2
+FFB6B0:0099
+
+// Car Modifier P1
+FFB69E:0000
+
+// Car Modifier P2
+FFB6A6:0000
+
+// Infinite Time To Race P1
+FF81CC:0099
+
+// Infinite Time To Race P2
+FF81D4:0099
+
+// Speed Modifier P1
+FF8154:0000
+
+// Speed Modifier P2/CPU
+FF8158:0000
+
+// Auto Accelerate
+ADTT-AR2R
+
+// Enable Virtua Formula And Extra Songs
+ABGT-AA7Y
+ACFA-AA7T
+
+// 60 seconds to choose your car in Arcade mode
+HZAA-AADJ
+
+// 60 seconds to choose your car in Original mode
+HZLA-LADJ
+
+// Infinite time to choose your car (Arcade and Original modes)
+AKPT-AA44

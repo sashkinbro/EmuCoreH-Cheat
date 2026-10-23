@@ -1,0 +1,89 @@
+// Start with 2 lives
+AHAA-AAEE
+
+// Start with 3 lives
+AMAA-AAEE
+
+// Start with 5 lives
+AXAA-AAEE
+
+// Start with 6 lives
+A1AA-AAEE
+
+// Start with 8 lives
+A9AA-AAEE
+
+// Start with 11 lives
+BMAA-AAEE
+
+// Fuel burns 2x faster than normal
+1B7T-BLYW
+
+// Fuel burns 4x faster than normal
+1B7T-BRYW
+
+// Afterburner fuel consumption 2x normal
+1B7T-BGZA
+
+// Afterburner fuel consumption 3x normal
+1B7T-BLZA
+
+// Afterburner fuel consumption 5x normal
+1B7T-BWZA
+
+// Afterburner fuel consumption 6x normal
+1B7T-B0ZA
+
+// Start with 400 ammo
+WCPA-GCA8
+
+// Start with 500 ammo
+8WPA-GCA8
+
+// Start with 600 ammo
+MCPA-GEA8
+
+// Start with 700 ammo
+1WPA-GEA8
+
+// Start with 800 ammo
+ECPA-GGA8
+
+// Start with 900 ammo
+TWPA-GGA8
+
+// Start with 1000 ammo
+7CPA-GGA8
+
+// Start with 40 chaff
+FC1A-GAAG
+
+// Start with 50 chaff
+GL1A-GAAG
+
+// Start with 60 chaff
+HW1A-GAAG
+
+// Start with 70 chaff
+J41A-GAAG
+
+// Start with 80 chaff
+LC1A-GAAG
+
+// Start with 90 chaff
+ML1A-GAAG
+
+// Start with 100 chaff
+NW1A-GAAG
+
+// Infinite Chaffs
+FFA570:00FF
+
+// Infinite Sidewinders
+FFA55C:00FF
+
+// Infinite Cannon Ammo
+FFA550:00FF
+
+// Fake Infinite Sidewinders
+FFA554:00FF

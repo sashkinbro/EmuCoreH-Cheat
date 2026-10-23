@@ -1,0 +1,32 @@
+// Infinite Health/Hits
+00C3-9803
+
+// Infinite Bombs
+00C3-960F
+
+// Invincible
+00C3-9732
+
+// Always Have Speed Power-Up
+00C3-9102
+
+// Always Have Gun Power-Up
+00C3-9300
+
+// Super Rapid Fire
+00C3-9200
+
+// Invulnerability
+007-E3C-3B4
+
+// FAKE Infinite Health
+00D4-C614
+
+// Infinite Lives
+7EC-2FD-3B7
+
+// Enable FM Audio
+200-1E7-F7F
+
+// Enable FM Audio
+00DD-0001

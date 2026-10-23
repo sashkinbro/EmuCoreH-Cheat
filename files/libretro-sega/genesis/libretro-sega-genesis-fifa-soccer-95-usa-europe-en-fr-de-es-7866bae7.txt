@@ -1,0 +1,9 @@
+// Unlock all cheats
+FFE2DA:00FF
+FFE2DA:00FF
+
+// Team 1 Score Modifier (P1)
+FFFA50:0000
+
+// Team 2 Score Modifier (P2/CPU)
+FFFA52:0000

@@ -1,0 +1,23 @@
+// 1P Infinite Life
+FFE1B2:0050
+
+// Infinite Time
+FF0404:000F
+
+// 1P Dies With One Hit
+FFE1B2:00AA
+
+// Take Less Damage P1
+FFE1B2:0070
+
+// Take Less Damage P2
+FFE212:0070
+
+// No Energy P1
+FFE1B2:0000
+
+// No Energy P2
+FFE212:0000
+
+// Infinite Time
+FF0404:003B

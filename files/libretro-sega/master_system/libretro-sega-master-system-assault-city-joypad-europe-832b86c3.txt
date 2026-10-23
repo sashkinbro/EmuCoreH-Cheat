@@ -1,0 +1,13 @@
+// Infinite Energy [Switch Off A The End of The Level]
+00C0-D90A
+
+// Infinite Energy
+3AB-26D-2A2
+3A2-8DC-2A2
+3A0-137-2A2
+
+// Good Android Score
+00C2-FF15
+
+// Enemies Can't Hit You
+00C0-D910

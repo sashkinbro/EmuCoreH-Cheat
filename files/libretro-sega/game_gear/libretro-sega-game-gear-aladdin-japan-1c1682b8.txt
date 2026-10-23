@@ -1,0 +1,17 @@
+// Infinite Life
+00C1-1606
+
+// Boot Game Into Test Mode
+00C2-0001
+
+// Invulnerability (Blinking)
+00C4-67FF
+
+// Boot Game Into Test Mode
+3CA-769-5D4
+
+// Invulnerability
+C9E-B7C-E69
+
+// Infinite Health
+3AE-DDC-2A2

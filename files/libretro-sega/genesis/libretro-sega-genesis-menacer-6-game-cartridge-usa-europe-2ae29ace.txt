@@ -1,0 +1,198 @@
+// Infinite missiles
+RGPA-W6YJ
+
+// Invincibility against some tanks
+A4TT-WA50
+
+// Invincibility against other tanks, combine with Code 3 for full tank invincibility
+A4TT-WA4A
+
+// Invincibility against some aircraft
+AWTT-WA72
+
+// Keep gun from overheating
+ATGA-YA7W
+
+// Stop timer
+AT1A-6A2A
+
+// Infinite lives
+AV1A-6A6A
+RE5T-66Y8
+
+// Infinite Lives
+AV9A-2A5G
+AV5A-2A3G
+
+// Infinite power
+AXFA-YA34
+
+// Infinite lives
+B5HT-YA80
+
+// Start with rapid fire tomatoes
+97AA-BA9L
+
+// Invincibility
+BJ2T-AA8T
+
+// Infinite tomatoes
+AJ2T-AA8E
+
+// Start with 99 tomatoes
+NPAA-AAGR
+
+// Start on level 2
+AKAA-AAF6
+
+// Start on level 3
+APAA-AAF6
+
+// Start on level 4
+AVAA-AAF6
+
+// Start on level 5
+AZAA-AAF6
+
+// Start on level 6
+A3AA-AAF6
+
+// Start on level 7
+A7AA-AAF6
+
+// Start on level 8
+BBAA-AAF6
+
+// Start on level 9
+BFAA-AAF6
+
+// Start on level 10
+BKAA-AAF6
+
+// Start on level 11
+BPAA-AAF6
+
+// Start on level 12
+BVAA-AAF6
+
+// Start on level 13
+BZAA-AAF6
+
+// Start on level 14
+B3AA-AAF6
+
+// Start on level 15
+B7AA-AAF6
+
+// Start on level 16
+CBAA-AAF6
+
+// Start on level 17
+CFAA-AAF6
+
+// Start on level 18
+CKAA-AAF6
+
+// Start on level 19
+CPAA-AAF6
+
+// Start on level 20
+CVAA-AAF6
+
+// Start on level 21
+CZAA-AAF6
+
+// Start on level 22
+C3AA-AAF6
+
+// Start on level 23
+C7AA-AAF6
+
+// Start on level 24
+DBAA-AAF6
+
+// Start on level 25
+DFAA-AAF6
+
+// Start on level 26
+DKAA-AAF6
+
+// Start on level 27
+DPAA-AAF6
+
+// Start on level 28
+DVAA-AAF6
+
+// Start on level 29
+DZAA-AAF6
+
+// Start on level 30
+D3AA-AAF6
+
+// Start on level 31
+D7AA-AAF6
+
+// Start on level 32
+EBAA-AAF6
+
+// Start on level 33
+EFAA-AAF6
+
+// Start on level 34
+EKAA-AAF6
+
+// Start on level 35
+EPAA-AAF6
+
+// Start on level 36
+EVAA-AAF6
+
+// Start on level 37
+EZAA-AAF6
+
+// Start on level 38
+E3AA-AAF6
+
+// Start on level 39
+E7AA-AAF6
+
+// Start on level 40
+FBAA-AAF6
+
+// Start on level 41
+FFAA-AAF6
+
+// Start on level 42
+FKAA-AAF6
+
+// Start on level 43
+FPAA-AAF6
+
+// Start on level 44
+FVAA-AAF6
+
+// Start on level 45
+FZAA-AAF6
+
+// Start on level 46
+F3AA-AAF6
+
+// Start on level 47
+F7AA-AAF6
+
+// Infinite Time To Choose Level
+AVRT-TA4T
+
+// Level Never Goes Up
+RZRT-T6ZG
+
+// Level Never Goes Up
+RZSA-T6WT
+
+// Infinite Lives
+AV1A-6A6A
+RE5T-66Y8
+
+// Infinite Lives
+AV9A-2A5G
+AV5A-2A3G

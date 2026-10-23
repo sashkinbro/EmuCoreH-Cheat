@@ -1,0 +1,21 @@
+// Infinite Game Time
+009-D3B-E6E
+
+// Timer Counts By 2
+029-D3B-E6E
+
+// Each Period Is 2 Minutes Long
+02E-40F-A2A
+
+// Each Period Is 1 Minute Long
+01E-40F-A2A
+
+// Each Period Is 99 Minutes Long
+99E-40F-A2A
+
+// No Scoring
+00F-BE8-19A
+
+// Always 1st Period
+00F-2E8-B39
+010-53A-F7A

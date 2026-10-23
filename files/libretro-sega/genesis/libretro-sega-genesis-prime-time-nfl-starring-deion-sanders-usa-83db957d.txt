@@ -1,0 +1,53 @@
+// Infinite time outs visiting team
+ACZT-CAA4
+
+// Visiting team starts with 0 time outs
+ACPT-AAA4
+
+// Visiting team starts with 1 time out
+AGPT-AAA4
+
+// Visiting team starts with 5 time outs
+A0PT-AAA4
+
+// Visiting team starts with 9 time outs
+BGPT-AAA4
+
+// Home team starts with 0 time outs
+ACPT-AAAW
+
+// Home team starts with 1 time out
+AGPT-AAAW
+
+// Home team starts with 5 time outs
+A0PT-AAAW
+
+// Home team starts with 9 time outs
+BGPT-AAAW
+
+// Start with 10 seconds on play clock
+AFWT-AAG8
+
+// Start with 20 seconds on play clock
+AKWT-AAG8
+
+// Start with 50 seconds on play clock
+AZWT-AAG8
+
+// Start with 80 seconds on play clock
+BBWT-AAG8
+
+// Start with mega time on play clock
+9FWT-AAG8
+
+// Always 2nd down on first drive
+AR2A-AABT
+
+// Safeties are worth 0
+AG1A-AAC8
+
+// Extra points are worth 0
+BG8T-AAE4
+
+// Game clock counts faster
+AA1T-CACG

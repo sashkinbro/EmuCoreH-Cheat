@@ -1,0 +1,50 @@
+// Team 2 Never Scores
+00CA-D600
+
+// Team 1 Scores 153
+00CA-D499
+
+// Infinite Turbo P1
+00CA-FB20
+
+// Infinite Shot Clock
+00DC-1E0A
+
+// Infinite Time
+00DA-DD01
+
+// P1 Infinite Turbo
+00CA-FB20
+
+// P2 Infinite Turbo
+00CB-7020
+
+// P3 Infinite Turbo
+00CB-E520
+
+// P4 Infinite Turbo
+00CC-5A20
+
+// Infinite Shot Clock
+00DC-1E18
+
+// P1 Defense Powerup
+00CA-ED01
+
+// P1 Interception Powerup
+00CA-EE01
+
+// P1 Infinite Turbo Powerup
+00CA-EF01
+
+// P1 Super Dunk Powerup
+00CA-F001
+
+// P1 On-Fire Powerup
+00CA-F101
+
+// Display Shot% Powerup
+00CA-F201
+
+// Juice Mode Powerup
+00CA-F301

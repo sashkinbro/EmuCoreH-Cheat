@@ -1,0 +1,96 @@
+// Beavis doesn't take damage from shopping carts, mice, frozen yoghourt cones, oil, bowling balls, skateboards, thugs, Anderson sewer acid, rats, birds
+AXPT-CA7L
+
+// Beavis doesn't take damage from policemen, and cool girls
+AT3A-CA7Y
+
+// Beavis doesn't take damage from more sewer acid
+AWRA-CA6N
+
+// Beavis doesn't take damage from Anderson's dog
+ATSA-CA8R
+
+// Beavis doesn't take damage from junkyard sewer acid
+AWVT-CA60
+
+// Beavis doesn't take damage from getting sick
+AVAT-CA2G
+
+// Beavis doesn't take damage from electricity
+ATFT-CA78
+
+// Butt-head doesn't take damage from shopping carts, mice, frozen yoghourt cones, oil, bowling balls, skateboards, thugs, Anderson, sewer acid, rats, birds
+AXRA-CA8L
+
+// Butt-head doesn't take damage from policemen, cool girls
+AT3T-CA6R
+
+// Butt-head doesn't take damage from more sewer acid
+AWRT-CA24
+
+// Butt-head doesn't take damage from Anderson dog
+ATSA-CA88
+
+// Butt-head doesn't take damage from junkyard sewer acid
+AWWA-CA4C
+
+// Butt-head doesn't take damage from getting sick
+AVAT-CA2W
+
+// Beavis &amp; Butt-head don't take damage from getting sick
+E3AT-CA2G
+
+// Food restores all of Beavis' attention span
+AJYA-CA96
+
+// Food restores all of Butt-head's attention span
+AJYT-CA6J
+
+// Snake is free
+CAEA-CA5A
+
+// Toy gun is free
+CJDT-CA7E
+
+// Bat is free
+CAEA-CA2C
+
+// Movie tickets are free
+CLFT-CA5Y
+
+// Always have $6.40
+AM1A-CA7T
+
+// Hospital ride is easier to win
+ABLT-CNF6
+
+// Always win the hospital ride
+AA0A-CACA
+
+// Ticket pieces that are returned to the poster are not lost when you die
+AT8T-CA54
+
+// Invincibility
+ABJT-CAHT
+FDKA-CN9A
+FBJT-DG12
+
+// Infinite Beavis Energy
+9T9T-DGFN
+EA9T-CAFR
+
+// Infinite Butt-Head Energy
+9T9T-DGF2
+EA9T-CAF4
+
+// Enemies Commit Suicide
+NA4T-CA6E
+
+// Invulnerability To Police (Beavis)
+AA3A-CA2N
+
+// Remove Enemies (Police, Shopping Carts etc.)
+ABAT-CA78
+
+// Remove Enemies v2 (Rats Can't Move Around Too)
+ABYA-EA74

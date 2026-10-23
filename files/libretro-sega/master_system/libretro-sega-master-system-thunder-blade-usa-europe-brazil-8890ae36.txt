@@ -1,0 +1,17 @@
+// Start with ?? lives
+004-DCF-E66
+
+// Infinite Lives
+2A5-07D-6EE
+
+// Infinite Continues
+001-0A8-3BA
+
+// Have ?? Continues
+001-078-E62
+
+// Infinite Lives
+00C0-0A09
+
+// Infinite Lives
+B65-0AD-3BE

@@ -1,0 +1,383 @@
+// CPU always runs to the top left of the screen
+GMAV-2A4G
+
+// Visitor's baskets worth 1 point more
+SGFB-3EVN
+NWFB-36BT
+
+// Visitor's baskets worth 2 points more
+SGFB-3JVN
+NWFB-36BT
+
+// Visitor's baskets worth 3 points more points more
+SGFB-3NVN
+NWFB-36BT
+
+// Visitor's baskets worth 4 points more
+SGFB-3TVN
+NWFB-36BT
+
+// Visitor's baskets worth 5 points more
+SGFB-3YVN
+NWFB-36BT
+
+// Visitor's baskets worth 6 points more
+SGFB-32VN
+NWFB-36BT
+
+// Visitor's baskets worth 7 points more
+SGFB-36VN
+NWFB-36BT
+
+// Visitor's baskets worth 8 points more
+SGFB-3AVN
+NWFB-36BT
+
+// Home's baskets worth 1 point more
+SGFB-3EV6
+NWFB-36CA
+
+// Home's baskets worth 2 points more
+SGFB-3JV6
+NWFB-36CA
+
+// Home's baskets worth 3 points more
+SGFB-3NV6
+NWFB-36CA
+
+// Home's baskets worth 4 points more
+SGFB-3TV6
+NWFB-36CA
+
+// Home's baskets worth 5 points more
+SGFB-3YV6
+NWFB-36CA
+
+// Home's baskets worth 6 points more
+SGFB-32V6
+NWFB-36CA
+
+// Home's baskets worth 7 points more
+SGFB-36V6
+NWFB-36CA
+
+// Home's baskets worth 8 points more
+SGFB-3AV6
+NWFB-36CA
+
+// All players have super defensive ability
+RGPV-46Y2
+
+// All players have super interception ability
+BWPV-4A74
+
+// All players have super dunk ability
+BWPV-4A8W
+
+// All players are always &quot;on fire&quot;
+BWPV-4A7C
+
+// All players have infinite turbo
+BWRB-4A2C
+
+// &quot;Juice&quot; mode
+BWRB-4A24
+
+// Shot success percentages displayed for all non-dunk shots
+BWPV-4A9J
+
+// Timer counts down slower than setting 1 (Leave Speed on 3)
+AA4V-J8N0
+
+// Timer counts down VERY slowly (Leave Speed on 3)
+AA4V-K8E0
+
+// Timer counts down faster than setting 5 (Leave Speed on 3)
+AA4V-J860
+
+// Timer counts down very fast (Leave Speed on 3)
+AA4V-K860
+
+// Only need 1 basket to be &quot;on fire&quot;
+AAEV-LADR
+
+// Only need 2 baskets to be &quot;on fire&quot;
+AEEV-LADR
+
+// Need 4 baskets to be &quot;on fire&quot;
+AWEV-2AFG
+ANEV-LADR
+
+// Need 5 baskets to be &quot;on fire&quot;
+A0EV-2AFG
+ATEV-LADR
+
+// Need 6 baskets to be &quot;on fire&quot;
+A4EV-2AFG
+AYEV-LADR
+
+// Need 7 baskets to be &quot;on fire&quot;
+A8EV-2AFG
+A2EV-LADR
+
+// Need 8 baskets to be &quot;on fire&quot;
+BCEV-2AFG
+A6EV-LADR
+
+// Need 9 baskets to be &quot;on fire&quot;
+BGEV-2AFG
+BAEV-LADR
+
+// Need 10 baskets to be &quot;on fire&quot;
+BLEV-2AFG
+BEEV-LADR
+
+// Players 1 and 3 stay &quot;on fire&quot; when the other team scores
+BLEV-2A9T
+
+// Players 2 and 4 stay &quot;on fire&quot; when the other team scores
+BLFB-2A2A
+
+// Turbo bar never goes up
+AC2B-JACT
+
+// Turbo bar restores extremely slowly
+AC2B-J6CT
+
+// Turbo bar restores much slower
+AC2B-KLCT
+
+// Turbo bar restores slower
+AC2B-K4CT
+
+// Turbo bar restores faster
+AC2B-JAWT
+
+// Turbo bar restores much faster
+AC2B-KAWT
+
+// Turbo bar restores extremely fast
+AC2B-JDCT
+
+// Enter AA in the initial entry screen and all power-ups will be enabled (Defense, Interception, Dunk, Fire, Turbo)
+TBXV-4DC4
+97XV-4BC6
+RFBB-46X6
+
+// Player 1's turbo drains very slowly
+ABWB-LJA6
+
+// Player 1's turbo drains slower
+ABWB-LWA6
+
+// Player 1's turbo drains slightly slower
+ABWB-MAA6
+
+// Player 1's turbo drains slightly faster
+ABWB-LEJ6
+
+// Player 1's turbo drains faster
+ABWB-L4J6
+
+// Player 1's turbo drains very fast
+ABWB-MTJ6
+
+// Player 2's turbo drains very slowly
+ABWB-LJDT
+
+// Player 2's turbo drains slower
+ABWB-LWDT
+
+// Player 2's turbo drains slightly slower
+ABWB-MADT
+
+// Player 2's turbo drains slightly faster
+ABWB-LEMT
+
+// Player 2's turbo drains faster
+ABWB-L4MT
+
+// Player 2's turbo drains very fast
+ABWB-MTMT
+
+// Player 3's turbo drains very slowly
+ABWB-LJGE
+
+// Player 3's turbo drains slower
+ABWB-LWGE
+
+// Player 3's turbo drains slightly slower
+ABWB-MAGE
+
+// Player 3's turbo drains slightly faster
+ABWB-LERE
+
+// Player 3's turbo drains faster
+ABWB-L4RE
+
+// Player 3's turbo drains very fast
+ABWB-MTRE
+
+// Player 4's turbo drains very slowly
+ABWV-LJA2
+
+// Player 4's turbo drains slower
+ABWV-LWA2
+
+// Player 4's turbo drains slightly slower
+ABWV-MAA2
+
+// Player 4's turbo drains slightly faster
+ABWV-LEJ2
+
+// Player 4's turbo drains faster
+ABWV-L4J2
+
+// Player 4's turbo drains very fast
+ABWV-MTJ2
+
+// Visitor's Baskets Worth 1 Point More
+SGFB-3EVN
+NWFB-36BT
+
+// Visitor's Baskets Worth 2 Points More
+SGFB-3JVN
+NWFB-36BT
+
+// Visitor's Baskets Worth 3 Points More Points More
+SGFB-3NVN
+NWFB-36BT
+
+// Visitor's Baskets Worth 4 Points More
+SGFB-3TVN
+NWFB-36BT
+
+// Visitor's Baskets Worth 5 Points More
+SGFB-3YVN
+NWFB-36BT
+
+// Visitor's Baskets Worth 6 Points More
+SGFB-32VN
+NWFB-36BT
+
+// Visitor's Baskets Worth 7 Points More
+SGFB-36VN
+NWFB-36BT
+
+// Visitor's Baskets Worth 8 Points More
+SGFB-3AVN
+NWFB-36BT
+
+// Home's Baskets Worth 1 Point More
+SGFB-3EV6
+NWFB-36CA
+
+// Home's Baskets Worth 2 Points More
+SGFB-3JV6
+NWFB-36CA
+
+// Home's Baskets Worth 3 Points More
+SGFB-3NV6
+NWFB-36CA
+
+// Home's Baskets Worth 4 Points More
+SGFB-3TV6
+NWFB-36CA
+
+// Home's Baskets Worth 5 Points More
+SGFB-3YV6
+NWFB-36CA
+
+// Home's Baskets Worth 6 Points More
+SGFB-32V6
+NWFB-36CA
+
+// Home's Baskets Worth 7 Points More
+SGFB-36V6
+NWFB-36CA
+
+// Home's Baskets Worth 8 Points More
+SGFB-3AV6
+NWFB-36CA
+
+// Need 4 Baskets To Be &quot;On Fire&quot;
+AWEV-2AFG
+ANEV-LADR
+
+// Need 5 Baskets To Be &quot;On Fire&quot;
+A0EV-2AFG
+ATEV-LADR
+
+// Need 6 Baskets To Be &quot;On Fire&quot;
+A4EV-2AFG
+AYEV-LADR
+
+// Need 7 Baskets To Be &quot;On Fire&quot;
+A8EV-2AFG
+A2EV-LADR
+
+// Need 8 Baskets To Be &quot;On Fire&quot;
+BCEV-2AFG
+A6EV-LADR
+
+// Need 9 Baskets To Be &quot;On Fire&quot;
+BGEV-2AFG
+BAEV-LADR
+
+// Need 10 Baskets To Be &quot;On Fire&quot;
+BLEV-2AFG
+BEEV-LADR
+
+// Enter AA In The Initial Entry Screen And All Power-Ups Will Be Enabled
+TBXV-4DC4
+97XV-4BC6
+RFBB-46X6
+
+// Dunk and Layup From Anywhere
+ABKV-LA7T
+PKKV-LCFW
+
+// P1 Always On-Fire
+FF3C4A:0001
+
+// P2 Always On-Fire
+FF3D6A:0001
+
+// P3 Always On-Fire
+FF3E8A:0001
+
+// P4 Always On-Fire
+FF3FAA:0001
+
+// P1 Defense Powerup
+FF1D28:0001
+
+// P1 Super Dunk Powerup
+FF1E12:0001
+
+// P1 On-Fire Powerup
+FF1E16:0001
+
+// P1 Infinite Turbo Powerup
+FF1E1A:0001
+
+// P2 Defense Powerup
+FF1D2A:0001
+
+// P3 Defense Powerup
+FF1D2C:0001
+
+// P3 Super Dunk Powerup
+FF1E14:0001
+
+// P3 On-Fire Powerup
+FF1E18:0001
+
+// P3 Infinite Turbo Powerup
+FF1E1C:0001
+
+// P4 Defense Powerup
+FF1D2E:0001
+
+// Skip Intro Screens
+JTYV-JA66

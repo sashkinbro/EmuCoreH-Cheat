@@ -1,0 +1,14 @@
+// Infinite Lives
+00CF-6209
+
+// FAKE Infinite Lives
+00CE-8809
+
+// Infinite Hits
+00C8-0B03
+
+// Invincibility
+00C8-1D21
+
+// Always Have Key
+00C8-0E01

@@ -1,0 +1,68 @@
+// Invulnerability
+00CB-2D02
+
+// Start with 3 lives
+02F-31D-E66
+
+// Start with 5 lives
+04F-31D-E66
+
+// Start with 7 lives
+06F-31D-E66
+
+// Start with 9 lives
+08F-31D-E66
+
+// Start with 11 lives
+0AF-31D-E66
+
+// Infinite lives
+009-FAD-E6E
+
+// Infinite Time
+002-4CE-E6E
+
+// Infinite Energy
+00C-337-E69
+
+// Infinite Lives
+00C0-9F09
+
+// Infinite Circles (Hits)
+00C0-9902
+
+// Infinite Time
+00C0-A299
+
+// Invulnerability After Taking Damage (Blinking)
+00C2-2726
+
+// Invulnerability
+18D-027-6EA
+
+// Level Select
+00C0-B000
+
+// Start On Level 2
+707-1AA-3B7
+
+// Freeze Timer
+00C0-A119
+
+// Infinite Air
+001-33E-3BE
+
+// Start a new game with ?? health units
+03F-22D-E62
+
+// Infinite Air
+00C0-AD06
+
+// Jump Height Modifier
+FBA-CE6-199
+
+// High Jump
+00C2-2AFF
+
+// Invincibility (blinking)
+00C2-2601

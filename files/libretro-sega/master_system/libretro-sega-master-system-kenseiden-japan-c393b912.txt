@@ -1,0 +1,17 @@
+// Infinite Lives
+00C0-9009
+
+// Infinite Health
+00C1-1114
+
+// Invincibility (after being hit)
+3A1-EBE-2A2
+
+// Infinite Health
+3A3-78A-2A2
+
+// Infinite Lives
+3A7-C0E-2A2
+
+// Start with ?? Lives, instead of 2
+030-07E-E62

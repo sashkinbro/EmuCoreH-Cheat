@@ -1,0 +1,20 @@
+// Infinite Credits (Continues)
+00C9-9309
+
+// Infinite Health
+00C4-1850
+
+// Infinite Ammo - Hundred's Digit
+00C9-8409
+
+// Infinite Ammo - Ten's Digit
+00C9-8509
+
+// Infinite Ammo - One's Digit
+00C9-8609
+
+// Infinite D-Punches
+00C9-8205
+
+// Normal Gun Acts Like Rapid Fire Shot
+00C4-1CFF

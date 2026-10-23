@@ -1,0 +1,5 @@
+// Infinite Rests
+00CA-2A09
+
+// Always On First Shot
+00C1-F801

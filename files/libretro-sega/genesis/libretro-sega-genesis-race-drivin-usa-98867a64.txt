@@ -1,0 +1,102 @@
+// Start Super Stunt course with 0:25 instead of 3:25
+AAVT-RACN
+
+// Start Super Stunt course with 1:25
+AEVT-RACN
+
+// Start Super Stunt course with 2:25
+AJVT-RACN
+
+// Start Super Stunt course with 4:25
+ATVT-RACN
+
+// Start Super Stunt course with 5:25
+AYVT-RACN
+
+// Start Super Stunt course with 7:25
+A6VT-RACN
+
+// Start Super Stunt course with 10:25 (ignore counter for 1st 25 seconds)
+BJVT-RACN
+
+// Start Original course with 0:45 instead of 1:45
+AAVT-RACE
+
+// Start Original course with 2:45
+AJVT-RACE
+
+// Start Original course with 4:45
+ATVT-RACE
+
+// Start Original course with 7:45
+A6VT-RACE
+
+// Start Original course with 10:45 (ignore counter for 1st 45 seconds)
+BJVT-RACE
+
+// Infinite time to run race
+RF6T-N60Y
+DK6T-NA7R
+
+// Infinite time to get back on road
+AK6T-NA86
+
+// 60 seconds to get back on road instead of 10
+ADRA-NA5L
+
+// 30 seconds to get back on road
+ADRA-PAML
+
+// 20 seconds to get back on road
+ADRA-NAML
+
+// 5 seconds to get back on road
+ADRA-NLDL
+
+// Get 10 more seconds when you pass a checkpoint
+ATGT-RA30
+ABLT-KAE4
+
+// Get 20 more seconds when you pass a checkpoint
+ATGT-RA30
+ABLT-JAN4
+
+// Get 30 more seconds when you pass a checkpoint
+ATGT-RA30
+ABLT-KAN4
+
+// Get 40 more seconds when you pass a checkpoint
+ATGT-RA30
+ABLT-JAY4
+
+// Get 50 more seconds when you pass a checkpoint
+ATGT-RA30
+ABLT-KAY4
+
+// Get 60 more seconds when you pass a checkpoint
+ATGT-RA30
+ABLT-JA64
+
+// Infinite Time (Minutes)
+FF2688:0089
+
+// Infinite Time (Seconds)
+FF268A:0099
+
+// Zero Lap Time (Minutes - Tens Digit)
+FF8E42:0000
+
+// Zero Lap Time (Minutes - Ones Digit)
+FF8E44:0000
+
+// Zero Lap Time (Seconds - Tens Digit)
+FF8E44:0000
+
+// Zero Lap Time (Seconds - Ones Digit)
+FF8E46:0000
+
+// Zero Lap Time (Micro-Seconds - Tens Digit)
+FF8E46:0000
+
+// Zero Lap Time (Micro-Seconds - Ones Digit)
+FF8E48:0000

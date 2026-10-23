@@ -1,0 +1,19 @@
+// Unlimited Special Attacks
+FF00FC:0009
+
+// Unlimited Health
+FF7216:0309
+
+// Sun Medallions Worth A 1Up
+FF7212:270F
+
+// Infinite Lives
+WCDT-BRMN
+
+// Infinite Energy
+WCFT-BGK8
+ADXA-AA82
+
+// Invincibility
+R0FT-A6TG
+R1XA-A60J

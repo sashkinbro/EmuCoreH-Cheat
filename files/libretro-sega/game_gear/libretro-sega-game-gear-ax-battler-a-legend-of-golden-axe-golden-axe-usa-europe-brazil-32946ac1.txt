@@ -1,0 +1,17 @@
+// Infinite Energy
+00C0-5506
+
+// Enemy Energy At Zero, One Blow Kills
+00C8-6300
+
+// Infinite Vases
+00C0-591F
+
+// 31 vases on pick-up
+3E7-23B-80E
+
+// Hotels, weapons, etc. cost nothing
+3A4-C1D-2A2
+
+// Infinite Health
+3A0-EE9-2A2

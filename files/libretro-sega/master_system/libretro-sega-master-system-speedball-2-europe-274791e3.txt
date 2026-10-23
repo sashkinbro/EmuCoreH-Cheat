@@ -1,0 +1,33 @@
+// Unlimited Money
+00DA-0B14
+
+// FAKE Team 2 Score Modifier (The Team On The Right-Hand Side Of The Screen!)
+00C0-9200
+
+// Infinite Money - Both Players
+00DA-0B0F
+00DA-0C27
+
+// Infinite Time
+00DA-A390
+
+// P1 Score Multiplier
+00D9-3900
+
+// P2 Score Multiplier
+00D9-3A00
+
+// Electro Mode
+00D9-3708
+
+// Can't Score - Both Teams
+7E0-0FD-3B7
+
+// Infinite Money - Both Players
+2AC-A7F-6E2
+
+// Infinite Time
+B6C-9CD-3BE
+
+// Freeze Timer
+00DA-A232

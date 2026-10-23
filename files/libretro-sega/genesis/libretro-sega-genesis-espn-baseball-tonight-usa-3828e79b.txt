@@ -1,0 +1,11 @@
+// Strikes Modifier
+FF40F4:0000
+
+// Outs Modifier
+FF40F8:0000
+
+// Team 1 Score Modifier
+FF005E:0000
+
+// Team 2 Score Modifier
+FF0060:0000

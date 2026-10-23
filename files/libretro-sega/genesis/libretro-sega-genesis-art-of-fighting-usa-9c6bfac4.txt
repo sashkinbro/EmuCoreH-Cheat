@@ -1,0 +1,61 @@
+// Infinite Energy
+FF90B0:0060
+
+// Infinite Energy
+9TTT-BCCY
+NATT-AAC0
+0ATT-BBC2
+
+// Infinite Time
+FF02B2:0600
+
+// Infinite Power
+FF90B2:0060
+
+// Region Bypass
+BB5A-AR2T
+
+// Player 1 Selected Character Modifier
+FF9056:0000
+
+// Player 2 Selected Character Modifier
+FF9256:0000
+
+// Infinite Credits
+FF8EC6:0009
+
+// Infinite Time In &quot;Bottle Cut&quot; &amp; &quot;Ice Pilar Smash&quot; Bonus Games.
+FF1130:0009
+
+// Only Need To Do 1 Haow-Ken Super Death Blow In Bonus Game
+FF9290:0001
+
+// Player 1 Has Haow-Ken Super Death Blow
+FF90E2:00FF
+
+// Player 2 Has Haow-Ken Super Death Blow
+FF92E2:00FF
+
+// Stage Modifier
+FF029C:0000
+
+// Player 1 - Character Control Modifier
+FF9030:0000
+
+// Player 2 - Character Control Modifier
+FF9230:0001
+
+// Both Players Have Infinite Energy
+FF11B6:0001
+
+// Every Hit Refills Your Life
+9X2T-BGPT
+ND2T-AAFW
+992T-AAFY
+0D2T-BBF0
+
+// P1 Wins Modifier
+FF11B2:0000
+
+// Enable Level Select
+AAHT-AN3J

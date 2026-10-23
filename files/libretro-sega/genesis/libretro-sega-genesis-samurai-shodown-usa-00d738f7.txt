@@ -1,0 +1,95 @@
+// Infinite Time
+FFAA34:0099
+
+// Player 1 Freezes
+FF47CE:00FF
+
+// Player 2 Freezes
+FF491E:00FF
+
+// Have 0 Targets Left In Bonus Rounds [Ends Bonus Stage]
+FFAA5A:0000
+
+// Infinite Targets In Down-Left
+FF60CC:0003
+
+// Infinite Targets In Down-Middle
+FF621C:0003
+
+// Infinite Targets In Down-Right
+FF636C:0003
+
+// Infinite Targets In Up-Left
+FF675C:0003
+
+// Infinite Targets In Up-Middle
+FF660C:0003
+
+// Infinite Targets In Up-Right
+FF68AC:0003
+
+// Impossible To Hit Targets ([Own-Right]
+FF637A:0003
+
+// Player 1 Selected Character Modifier
+FFAB84:0000
+
+// Player 2 Selected Character Modifier
+FFABA4:0000
+
+// Hit Anywhere Both Players
+RGRT-G61A
+
+// Galford Becomes Amakusa On Single Player Character Selection Screen
+BT6T-AAXC
+
+// Infinite Energy P1
+FF483E:0080
+
+// Infinite Energy P2
+FF498E:0080
+
+// No Energy P1
+FF483E:0000
+
+// No Energy P2
+FF498E:0000
+
+// Full POW Meter P1
+FF4878:0021
+
+// Full POW Meter P2
+FF49C8:0021
+
+// No POW Meter P1
+FF4878:0000
+
+// No POW Meter P2
+FF49C8:0000
+
+// Infinite Time
+FFAA66:0099
+
+// P1 Name/Characteristics Code
+FF4876:00BE
+
+// P2 Name/Characteristics Code
+FF49C6:0000
+
+// P1 Character Modifier (Both Modes)
+FF47CA:00BE
+FF47CE:00BE
+
+// P1 Character Modifier (Both Modes)
+FF491A:0000
+FF491E:0000
+
+// Level Modifier (VS Mode)
+FF685A:0002
+
+// Level Modifier (Alternate VS Mode Modifier)
+FF7564:0000
+
+// Places Amakusa on Single Player Character  Select Screen
+BA6T-AANC
+BT6T-ATEA

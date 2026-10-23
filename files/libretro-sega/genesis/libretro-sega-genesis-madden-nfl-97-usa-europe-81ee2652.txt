@@ -1,0 +1,35 @@
+// Infinite Points
+FFBE60:0063
+
+// Max Speed
+FFBE66:0063
+
+// Max Scrambling
+FFBE64:0063
+
+// Max Pass Accuracy
+FFBE68:0063
+
+// Max Pass Range
+FFBE6A:0063
+
+// Max Break Tackles
+FFBE6C:0063
+
+// Enable all Hidden Teams
+AXSA-EA24
+
+// Bypass Salary Cap
+HDST-EA8W
+
+// Press any Button except Start on Title Screen for Build Date, Checksum Viewer, and Sound Test
+RHVA-E6XW
+
+// Press B on Title Screen for Build Date, Checksum Viewer, and Sound Test
+FFEE9A:5656
+
+// Cannot Be Tackled
+HD5A-GTF2
+AX5A-GVF4
+GD5A-HSZ6
+AM5A-GA78

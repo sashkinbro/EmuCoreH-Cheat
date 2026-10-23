@@ -1,0 +1,26 @@
+// Infinite Toys
+00D8-B509
+
+// Infinite Tar
+00D8-B109
+
+// Infinite Torches
+00D8-AF09
+
+// Infinite Ice
+00D8-B709
+
+// Infinite Marbles
+00D8-B909
+
+// Infinite B.B. Guns Pellets
+00D5-7910
+
+// Infinite Tires
+00C5-FD09
+
+// Infinite Snowballs
+00D3-6209
+
+// Infinite "C" (Sled Charge)
+00C5-FC2B

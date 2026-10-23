@@ -1,0 +1,112 @@
+// Start a New Game with 9 Lives
+BFLT-CAFR
+
+// Start a New Game with 25 Lives
+EZLT-CAFR
+
+// Infinite Boogers
+AD2A-AAFR
+
+// Infinite Regular Burps
+AD3A-AAGJ
+
+// Infinite Super Burps
+AD4A-AAAL
+
+// Infinite Super Fire Breathing
+AAWT-CAAT
+
+// Infinite Fire Breathing
+AAVT-CAEA
+
+// Infinite Lugies
+AD2T-AAFT
+
+// Infinite Super Farts
+AD7A-AAAN
+
+// Infinite Regular Farts
+AD6A-AAGE
+
+// Invincibility
+AAET-AAEC
+
+// High jump
+ZCKA-ACH6
+
+// Super high jump
+6WKA-ACH6
+
+// Alternate Invincibility
+RYET-A6YA
+
+// Infinite Lives
+AT4T-AA86
+
+// Infinite Lives
+FF022E:0002
+
+// Infinite Energy
+FF1A3E:0002
+
+// Invincibility
+FF0248:0030
+
+// Infinite Mucus
+FF023C:0020
+
+// Infinite Farts And Burps
+FF023E:0020
+
+// Max Plungers
+FF0232:0099
+
+// Controllable Jump/Jump In Mid Air
+BRKA-AYH6
+
+// Walk across any opening without falling (&quot;Walk on air&quot;).
+AKCT-AA70
+
+// Debug Movement Mode
+AB0T-AA64
+
+// Instantly Beat Stage
+ACGA-AA4N
+
+// Automatically Flick Boogers When Holding Right or Left
+ACFT-AA52
+
+// Untouchable
+RY5T-A6XY
+RY5T-A6VJ
+RY5A-A60W
+
+// Infinite Energy
+AA5T-AAEA
+AA5T-AABY
+AA5A-AAHC
+ACTA-AAEL
+
+// Infinite M
+AM2T-AA7W
+
+// Keep M After The Death
+HGTT-A2DR
+
+// Keep Peper After The Death
+HGTT-A2D0
+
+// Keep M After Touching Enemies
+HGTA-AACJ
+
+// Keep Peper After Touching Enemies
+HGTA-AACT
+
+// 1 Jump And 1 Shot Kill Some Enemies And Bosses
+PA5A-AE1E
+
+// Keep Plungers After The Death
+A4TT-AA48
+
+// Infinite everything
+SAFA-AA3G

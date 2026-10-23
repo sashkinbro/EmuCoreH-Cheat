@@ -1,0 +1,301 @@
+// Infinite lives (except when using Jitsu of Mijin)
+ACRT-BA32
+
+// Infinite shurikins
+BMTT-GA4L
+
+// Infinite life bar
+BXTA-GA7E
+
+// Some bombs, enemy shurikins and swords don't hurt
+ABCA-BA90
+RFCA-A612
+
+// No life lost when using Jitsu of Mijin
+AC3A-BA44
+
+// Start with 100 shurikins
+NTBA-AAC0
+
+// Start with 500 shurikins
+8TBA-ACC0
+
+// Start with 9 continues
+BGHA-AAG0
+
+// Start with 1 continue
+AGHA-AAG0
+
+// Start with 5 continues
+A0HA-AAG0
+
+// Start in District 1, level 2
+AGHA-AAG6
+
+// Start in District 1, level 3
+ALHA-AAG6
+
+// Start in District 2, level 1
+ARHA-AAG6
+
+// Start in District 2, level 2
+AWHA-AAG6
+
+// Start in District 2, level 3
+A0HA-AAG6
+
+// Start in District 3, level 1
+A4HA-AAG6
+
+// Start in District 3, level 2
+A8HA-AAG6
+
+// Start in District 3, level 3
+BCHA-AAG6
+
+// Start in District 4, level 1
+BGHA-AAG6
+
+// Start in District 4, level 2
+BLHA-AAG6
+
+// Start in District 4, level 3
+BRHA-AAG6
+
+// Start in District 5, level 1
+BWHA-AAG6
+
+// Start in District 5, level 2
+B0HA-AAG6
+
+// Start in District 5, level 3
+B4HA-AAG6
+
+// Start in District 6, level 1
+B8HA-AAG6
+
+// Start in District 6, level 3
+CGHA-AAG6
+
+// Start in District 7, level 1
+CLHA-AAG6
+
+// Start in District 7, level 2
+CRHA-AAG6
+
+// Start in District 7, level 3
+CWHA-AAG6
+
+// Start in District 8, level 1
+C0HA-AAG6
+
+// Start in District 8, level 2
+C4HA-AAG6
+
+// Start in District 8, level 3
+C8HA-AAG6
+
+// Infinite lives (except when using Jitsu of Mijin)
+ACSA-BA86
+
+// Some bombs, enemy shurikins and swords don't hurt
+ABCT-BA90
+RFCT-A612
+
+// No life lost when using Jitsu of Mijin
+AC4A-BA4R
+
+// Start with 100 shurikins
+NTBT-AAC0
+
+// Start with 200 shurikins
+3ABT-AAC0
+
+// Start with 500 shurikins
+8TBT-ACC0
+
+// Start with 9 continues
+BGHT-AACT
+
+// Start with 1 continue
+AGHT-AACT
+
+// Start with 5 continues
+A0HT-AACT
+
+// Start in District 1, level 2
+AGHT-AAC0
+
+// Start in District 1, level 3
+ALHT-AAC0
+
+// Start in District 2, level 1
+ARHT-AAC0
+
+// Start in District 2, level 2
+AWHT-AAC0
+
+// Start in District 2, level 3
+A0HT-AAC0
+
+// Start in District 3, level 1
+A4HT-AAC0
+
+// Start in District 3, level 2
+A8HT-AAC0
+
+// Start in District 3, level 3
+BCHT-AAC0
+
+// Start in District 4, level 1
+BGHT-AAC0
+
+// Start in District 4, level 2
+BLHT-AAC0
+
+// Start in District 4, level 3
+BRHT-AAC0
+
+// Start in District 5, level 1
+BWHT-AAC0
+
+// Start in District 5, level 2
+B0HT-AAC0
+
+// Start in District 5, level 3
+B4HT-AAC0
+
+// Start in District 6, level 1
+B8HT-AAC0
+
+// Start in District 6, level 2
+CCHT-AAC0
+
+// Start in District 6, level 3
+CGHT-AAC0
+
+// Start in District 7, level 1
+CLHT-AAC0
+
+// Start in District 7, level 2
+CRHT-AAC0
+
+// Start in District 7, level 3
+CWHT-AAC0
+
+// Start in District 8, level 1
+C0HT-AAC0
+
+// Start in District 8, level 2
+C4HT-AAC0
+
+// Start in District 8, level 3
+C8HT-AAC0
+
+// Some Bombs, Enemy Shurikins And Swords Don't Hurt
+ABCA-BA90
+RFCA-A612
+
+// Start With 200 Shurikins
+3ABA-AAC0
+
+// Some Bombs, Enemy Shurikins And Swords Don't Hurt
+ABCT-BA90
+RFCT-A612
+
+// Gives You 99 Lives In The Easy Setting of The Game
+NRJA-AAHY
+
+// Infinite Lives
+ALSA-AA4G
+
+// Invulnerable In One Direction
+AC4A-AA9J
+
+// Invulnerable In The Other Direction
+AC4T-AA58
+
+// Unlimited Normal Shurikens
+AL6T-AA38
+
+// Unlimited Super Shurikens
+RHAA-A61C
+
+// Infinite Magic
+FFE144:0001
+
+// Invincible
+FFC03E:001B
+
+// Invincibility
+RZBA-A61Y
+RZBT-A6Z6
+RZTA-A6WC
+R09A-A6VG
+RY5A-A6TC
+R1LA-A6TE
+RYDA-A60A
+RYET-A61A
+RZ0T-A6ZN
+RZLT-A6ZA
+RZMA-A6TG
+RZ3A-A61R
+
+// Some Bosses One Hit Kill
+FFC42A:0000
+FFC430:0000
+
+// 1 Hit And Shot Kill Enemies
+ABDA-AADC
+
+// 1 Hit And Shot Kill Bosses
+FFC42A:0001
+
+// 1 Hit And Shot Kill Enemies
+FFC430:0001
+
+// 1 Hit And Shot Kill Bosses
+ADLA-AAF4
+ADLT-AAAE
+
+// High moon jump with slower descent
+AC7T-B2CE
+
+// Higher moon jump with slower descent
+AC7T-BACE
+
+// Pause the game to refill your health
+HLEA-AD5N
+
+// Pause the game to refill your Shurikens
+GRCT-AAFN
+H8CT-AD7R
+
+// Start a New Game With 5 Magic
+A0PT-AADE
+
+// Pause the game to get powered-up Shurikens
+BWCT-AB82
+
+// Once you get powered-up Shurikens, you will keep them for the rest of the game, as well as having infinite health
+AHTA-GAE8
+
+// Kariu doesn't use up any magic
+AL2A-AA9W
+
+// Always shoot powered-up fire shurikens
+RG9T-A6WT
+RG9T-A6W6
+
+// Walk thru walls
+R08T-A6TC
+
+// Invincibility
+AXXA-GN24
+
+// Ikazuchi doesn't use up any magic
+AL2A-AA68
+
+// Hit Anywhere Normal Enemies
+F3BT-AYZT
+AKBT-AAFW

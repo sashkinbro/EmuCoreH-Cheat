@@ -1,0 +1,23 @@
+// Infinite Health
+00D-88C-B32
+
+// Invincibility
+3AD-87C-2A2
+
+// Start with about 75% health
+4B7-72E-7FB
+
+// Start with about 50% health
+327-72E-7FB
+
+// Start with about 25% health
+197-72E-7FB
+
+// Infinite time
+002-A7A-19E
+
+// Infinite Energy
+00CC-1664
+
+// Level Select
+00CF-2500

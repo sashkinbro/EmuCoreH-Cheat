@@ -1,0 +1,35 @@
+// Infinite Lives
+FFD112:000B
+
+// Enable Round Level Select In Options
+REWT-A6V2
+REYA-A6TJ
+REWT-A61A
+
+// Infinite Lives
+AKRA-AA2R
+
+// Infinite Special Power of  Weapon
+AKVT-AA9R
+
+// Invincibility ON
+FFD128:0040
+
+// Invincibility OFF
+FFD128:0000
+
+// Invincibility (blinking)
+FFE01E:0078
+
+// Max Secondary Weapon Power
+FFD110:0004
+
+// Pause the Game and Press A for Max Primary Weapon Power
+FFD164:1010
+FFD166:2010
+FFD168:1020
+FFD16A:0102
+FFFE12:0000
+
+// Enable Round Select in Options Menu
+FFFE0C:00FF

@@ -1,0 +1,83 @@
+// Start With Max Gold
+96ZT-F99Y
+
+// Infinite Gold
+AL4A-CA84
+
+// Start With All The Equipment
+96ZT-F99A
+96ZT-F99C
+
+// Infinite Magic
+R1RT-A61L
+
+// Any Heal method (Food or Magic) restores full HP
+G6TA-CAF4
+
+// Start with Sextant and Boots
+E60A-EGJ2
+
+// Start With Costume And Crest
+G60A-FLJ4
+
+// Infinite Boots effect
+F1ST-ATCW
+
+// Enable Debug Menu
+A34A-EN9W
+A34T-EN6N
+
+// Expand Mode Menu
+A3XA-EADW
+
+// Items In Shops Are Free, Even If You Don't Have Enough Gold
+AL4T-CA4A
+
+// Start A New Game With Twice As Much Life/Health
+3A0A-EADA
+
+// Fake Infinite Health
+FFAA00:00FF
+
+// Infinite Health
+FFD058:00FF
+
+// Fake No Health Some Enemies
+FFAA02:0000
+
+// Debug Load
+TBSA-FWLN
+
+// Start A New Game With Green And Odd Potions
+BA0A-EREA
+
+// Walk Through Walls
+AKFA-AA98
+BBAA-AA2J
+
+// Jump Higher
+A1RA-AABJ
+
+// Jump much higher
+A5RA-AABJ
+
+// Take No Damage From Most Enemies
+AJDA-CA7N
+
+// Take No Damage From Floor Spikes Or Flames Shooting Out Of Pillars.
+AAVT-CAFW
+
+// Long Sword (Starting Weapon) Does Twice As Much Damage
+DKTT-BART
+
+// Long Sword (Starting Weapon) Does 5x As Much Damage
+DKTT-BT8T
+
+// 1 Hit Kills Most Enemies
+AESA-DA5E
+
+// Walk Though Locked Doors And Barriers
+BKJA-AA3J
+
+// Invincibility
+R1WA-A61L

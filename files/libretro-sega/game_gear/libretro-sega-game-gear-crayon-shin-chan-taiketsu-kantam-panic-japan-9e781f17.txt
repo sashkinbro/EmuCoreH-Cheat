@@ -1,0 +1,5 @@
+// 2P Number Modifier (In Log-Worm Game)
+00C2-8B00
+
+// Infinite Time (In Log-Worm Game)
+00C2-8909

@@ -1,0 +1,11 @@
+// Infinite Lives
+00D9-3009
+
+// Infinite Health
+00DA-BC40
+
+// All Knuckles Or Ninjas Die Instantaneously (Upon Approach) - Part 1 of 2
+00DB-4000
+
+// All Knuckles Or Ninjas Die Instantaneously (Upon Approach) - Part 2 of 2 - See Note Above
+00DC-4800

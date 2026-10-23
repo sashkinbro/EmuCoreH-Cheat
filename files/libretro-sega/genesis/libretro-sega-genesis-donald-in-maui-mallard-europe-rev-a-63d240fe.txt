@@ -1,0 +1,83 @@
+// Infinite Lives
+ALBW-WA6Y
+
+// Infinite Energy
+D8NW-WAA4
+
+// Invincibility
+CKJC-YN3G
+
+// Enable Debug Menu
+A2EW-WN2G
+
+// Enable Alternate Map Mode
+A4GW-WR3W
+
+// Infinite Lives
+FF1344:0009
+
+// Infinite Energy
+FF1346:0001
+FF1346:0000
+
+// Infinite Ammo For All Weapons
+CBGW-XT7A
+
+// Super Moon Jump with a very slow decline
+BBHW-YA3T
+
+// Keep Special Weapons After The Death
+ALCC-WA2C
+ALBW-WA90
+ALBW-WA96
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Invincibility
+FFE1D4:0010
+
+// Invincibility
+R0NW-W6Y0
+R0PC-W6T4
+R0NW-W6VW
+RYAC-Y6TG
+R1AC-W60N
+R17W-W6TE
+R11W-W61J
+R1TW-Y61L
+RYWW-Y6V2
+R0PW-W6ZJ
+R0RC-W6TW
+
+// Super Moon Jump with fast decline
+ABHW-ZTBT
+
+// 1 Shot Kill Enemies/Bosses
+AJ0C-YA5Y
+
+// Jump higher
+CASW-XV30
+
+// Jump much higher
+CASW-XP30
+
+// Invincibility (walk thru enemies)
+JCPC-WA2W
+
+// Enabled Password Code Debug/Another Commands During Gameplay
+FF2180:0001
+
+// Infinite Continue
+AWBW-WA76
+
+// Another Commands During Gameplay
+RGGC-W6W8
+
+// Freeze Time In The Mode Of The Ninja
+AWEW-WA6L
+ALKC-WA86
+AT7W-WA98

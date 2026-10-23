@@ -1,0 +1,32 @@
+// Infinite Lives
+00D9-3009
+
+// Infinite Health
+00DA-BC3F
+
+// Invincibility
+00D9-3E16
+
+// Infinite Health
+00DA-BC40
+
+// All Knuckles Or Ninjas Die Instantaneously (Upon Approach) - Part 1 of 2
+00DB-4000
+
+// All Knuckles Or Ninjas Die Instantaneously (Upon Approach) - Part 2 of 2 - See Note Above
+00DC-4800
+
+// Infinite Health From Normal Attacks
+002-2D4-A2C
+
+// Infinite Health From Throws
+001-BC7-D5A
+
+// Infinite Lives
+002-407-19E
+
+// Cheats Menu
+C9A-9F9-C49
+
+// View Ending
+18A-A69-4CA

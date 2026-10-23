@@ -1,0 +1,181 @@
+// Regional Lockout
+RE7T-A61G
+RFVT-A60E
+
+// Infinite Time
+FF986E:0099
+
+// Guile - Back 2 Seconds, Forward + Punch, Blanka - Back 2 Seconds, Forward + Punch, Balrog - Back 2 Seconds, Forward + Punch
+FF81C0:0006
+
+// Guile - Down 2 Seconds, Up + Quick, Honda - Back 2 Seconds, Forward + Punch, Chun Li - Back 2 Seconds, Forward + Punch
+FF81D0:0006
+
+// Blanka - Back 2 Seconds, Forward + Quick
+FF8208:0006
+
+// Blanka - Down 2 Seconds, Up + Quick, Bison - Down 2 Seconds, Up + Punch
+FF81F0:0006
+
+// Vega - Back 2 Seconds, Forward + Quick
+FF81D8:0006
+
+// Bison - Back 2 Seconds, Forward + Quick, Dee Jay - Down 2 Seconds, Up + Punch
+FF81E0:0006
+
+// Balrog - Down 2 Seconds, Up + Punch
+FF8220:0006
+
+// Honda - Down 2 Seconds, Up + Quick
+FF8210:0006
+
+// Dee Jay - Back 2 Seconds, Forward + Quick
+FF81C8:0006
+
+// Dee Jay - Back 2 Seconds, Forward + Punch
+FF81FC:0006
+
+// Allows up to 7 turbo stars on Start Game screen
+CCTT-AAAR
+
+// Choose Same Character up to 8 Times in Group Mode
+FFFCF0:0008
+
+// Select Options on Title Screen for Debug Menu
+7WVA-BW4N
+
+// Regional Lockout Bypass (USA and European Systems)
+PKVT-AA8G
+
+// Choose Same Character up to 8 Times in Group Mode
+RHLT-E61G
+RHLT-A610
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Infinite Energy
+9VET-BCBC
+0BET-AABE
+HZET-ABBG
+
+// P1 Color Modifier - Color 1
+9VET-BCDE
+ABET-AADG
+VZET-AFDJ
+
+// P1 Color Modifier - Color 2
+9VET-BCDE
+EBET-AADG
+VZET-AFDJ
+
+// P1 Color Modifier - Color 3
+9VET-BCDE
+JBET-AADG
+VZET-AFDJ
+
+// P1 Color Modifier - Color 4
+9VET-BCDE
+NBET-AADG
+VZET-AFDJ
+
+// P1 Color Modifier - Color 5
+9VET-BCDE
+TBET-AADG
+VZET-AFDJ
+
+// P1 Color Modifier - Color 6
+9VET-BCDE
+YBET-AADG
+VZET-AFDJ
+
+// P1 Color Modifier - Color 7
+9VET-BCDE
+2BET-AADG
+VZET-AFDJ
+
+// P1 Color Modifier - Color 8
+9VET-BCDE
+6BET-AADG
+VZET-AFDJ
+
+// P2 Color Modifier - Color 1
+9VET-BCDW
+ABET-AADY
+VZET-AMD0
+
+// P2 Color Modifier - Color 2
+9VET-BCDW
+EBET-AADY
+VZET-AMD0
+
+// P2 Color Modifier - Color 3
+9VET-BCDW
+JBET-AADY
+VZET-AMD0
+
+// P2 Color Modifier - Color 4
+9VET-BCDW
+NBET-AADY
+VZET-AMD0
+
+// P2 Color Modifier - Color 5
+9VET-BCDW
+TBET-AADY
+VZET-AMD0
+
+// P2 Color Modifier - Color 6
+9VET-BCDW
+YBET-AADY
+VZET-AMD0
+
+// P2 Color Modifier - Color 7
+9VET-BCDW
+2BET-AADY
+VZET-AMD0
+
+// P2 Color Modifier - Color 8
+9VET-BCDW
+6BET-AADY
+VZET-AMD0
+
+// Infinite Time
+AM8T-AA7W
+
+// Disable Throws - Both Players
+RYMT-A6W8
+
+// Fix incorrect damage value (too high) assigned to Guile's Hip Toss Throw
+BRGA-DJ70
+
+// Fix incorrect damage value (too high) assigned to Chun Li's Ground Throw
+BRLA-DJ4T
+
+// Fix incorrect damage value (too high) assigned to Vega's Throw
+BRYA-CAH6
+
+// Fix incorrect damage value (too high) assigned to Zangief's Piledriver and Brain Buster Throws
+BS9A-CABY
+BS9T-CAB2
+
+// No Charging required for most Special Moves
+CMPA-DTYW
+
+// Fix incorrect recovery time (too fast) assigned to Guile's Sonic Boom
+DWJA-CAEN
+
+// Fix incorrect recovery time (too slow) assigned to Sagat's High Tiger Shot
+E35A-CAE4
+
+// P1 Infinite Health
+9VET-BCBC
+0BET-AABE
+HZET-ABBG
+
+// P2 Infinite Health
+9VET-BCBT
+0BET-AABW
+HZET-AHBY
+
+// Game Speed Modifier
+FF9932:0000

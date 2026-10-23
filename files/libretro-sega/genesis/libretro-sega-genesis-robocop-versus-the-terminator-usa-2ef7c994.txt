@@ -1,0 +1,193 @@
+// Infinite Lives
+FF009C:0002
+
+// Invincibility
+FFF1B8:00FF
+
+// Turbo Mode
+FFF1B6:00FF
+
+// Enable Violent Mode
+FFF1B6:00FF
+
+// Phase Mode
+FFF0F0:00FF
+
+// Don't get hurt by touching the enemies
+A4CB-T3RA
+
+// Don't flash when you come back to life
+A4NB-TJD4
+
+// Never stop flashing when you come back to life
+A4NB-TJD2
+
+// Your health decreases
+A4MB-T55T
+
+// Almost Invincible
+R0MB-T6XW
+
+// Die Instantly
+C4MB-TP22
+
+// White Robocop
+DRSB-TAER
+
+// Turbo cop
+C8VV-V3SG
+
+// Robolegs
+XNHB-TYRW
+
+// Invincibility
+A4MB-TA6C
+
+// Start with life at near 0
+AEGB-TAD4
+AEJB-TAFL
+
+// Start with life at 1/4 full
+CAGB-TAD4
+CAJB-TAFL
+
+// Start with life at 1/2 full
+EAGB-TAD4
+EAJB-TAFL
+
+// Start with life at 3/4 full
+GAGB-TAD4
+GAJB-TAFL
+
+// Start with life at 2x full
+TAGB-TAD4
+TAJB-TAFL
+
+// Infinite lives
+RHEV-R60A
+
+// Start with 1 life
+ACLB-TAC8
+
+// Start with 3 lives
+ALLB-TAC8
+
+// Start with 11 lives
+BLLB-TAC8
+
+// Start with 61 lives
+HWLB-TAC8
+
+// Start with 100 lives
+NRLB-TAC8
+
+// Each Robocop head worth 0 extra lives
+RGAV-T6TR
+
+// Each Robocop head worth 2 extra lives
+ACAV-VJTR
+
+// Each Robocop head worth 4 extra lives
+ACAV-VTTR
+
+// Each Robocop head worth 8 extra lives
+ACAV-VATR
+
+// Start with 0 continues
+AC4V-RABR
+
+// Start with 1 continues
+AG4V-RABR
+
+// Start with 5 continues
+A04V-RABR
+
+// Start with 9 continues
+BG4V-RABR
+
+// Infinite continues
+A4RB-TA20
+
+// Super jump
+AD8B-S16J
+
+// Mega-jump
+AD8B-SV6J
+
+// Enemies killed with 1 shot, except boss enemies
+AJ5B-TA32
+
+// Don't lose special weapons when you die
+DLLB-TA3N
+
+// Infinite Energy
+AC7B-RN4T
+
+// Walk Faster
+HELB-VYWE
+
+// Super Jump
+AX7V-RA7A
+
+// When You Come Back To Life, Only The Top Part Of You Is Flashing
+A4MB-T55C
+
+// When You Come Back To Life Only The Bottom Of You Is Flashing
+A4MB-T55L
+
+// Can Fall Thru Floors (Push Down And Jump)
+FFF1BA:00FF
+
+// Infinite Health
+FFF08C:0040
+
+// Infinite Lives
+FF009C:0009
+
+// Enable Weapon Select
+FFF1B4:00FF
+
+// Disable Weapon Select
+FFF1B4:0000
+
+// Allow Jump Down From Platforms
+FFF1BA:00FF
+
+// Disable Jump Down From Platforms
+FFF1BA:0000
+
+// Enable Alternate/Original Graphics
+FFF1B6:00FF
+
+// Disable Alternate/Original Graphics
+FFF1B6:0000
+
+// Activate debug menu.
+AL5B-RA3A
+
+// Press Down + A + B + C together to cycle through all the weapons.
+AM7V-RA36
+
+// Hold 'Down' then press C to drop through floor.
+RH7V-R61Y
+
+// Pause the game and press A B to clear the stage (go to next level).
+ABET-B92E
+
+// Pause the game and press C B to activate the violent mode.
+ABET-B94Y
+
+// Press Down + A + B + C together to cycle through all the weapons.
+FFF1B4:00FF
+
+// Invincibility After The Death
+FFF1F8:0010
+
+// Enabled Cheat Code Violence Mode
+AK4V-TA7J
+
+// Invincibility (Disable Hit Detection)
+RY0B-T6WJ
+
+// Invincibility against Flames
+ACGB-TA9R

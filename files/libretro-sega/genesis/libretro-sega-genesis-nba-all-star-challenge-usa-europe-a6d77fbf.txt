@@ -1,0 +1,23 @@
+// Infinite Ball Possession Time
+FF90CC:00FF
+
+// Infinite Time (Seconds - Ones Digit)
+FF90C8:0009
+
+// Infinite Time (Seconds - Tens Digit)
+FF90C6:0009
+
+// Infinite Time (&quot;:&quot; Digit)
+FF90C6:0009
+
+// Infinite Time (Thousands Digit)
+FF90C4:0009
+
+// Infinite Time (Ten Thousands Digit)
+FF90C4:0009
+
+// Team 1 Score Modifier (P1)
+FF90BE:0063
+
+// Team 2 Score Modifier (P2/CPU)
+FF90CA:0000

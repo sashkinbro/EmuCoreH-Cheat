@@ -1,0 +1,23 @@
+// Immune To Everything
+006-46F-F7A
+
+// Start With 2 Lives
+01B-AD9-F7E
+
+// Start With 8 Lives
+07B-AD9-F7E
+
+// Start With 10 Lives
+09B-AD9-F7E
+
+// Infinite Lives
+3A4-D1F-2A2
+
+// Start With 1/4 Energy
+3AB-9F9-195
+
+// Start With 1/2 Energy
+7AB-9F9-195
+
+// Start With 3/4 Energy
+BBB-9F9-195

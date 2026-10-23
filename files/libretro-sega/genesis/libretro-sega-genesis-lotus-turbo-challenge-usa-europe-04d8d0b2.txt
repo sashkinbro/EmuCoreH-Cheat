@@ -1,0 +1,14 @@
+// Freeze Time
+AKVT-AA5N
+
+// Freeze Time
+FF7CB4:0046
+
+// Infinite Time
+FF7CB4:0099
+
+// Decent Acceleration
+FF7CA2:0019
+
+// Great Acceleration
+FF7CA2:0028

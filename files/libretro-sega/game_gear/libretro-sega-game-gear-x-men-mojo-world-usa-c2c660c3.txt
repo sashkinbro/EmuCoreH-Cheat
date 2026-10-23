@@ -1,0 +1,29 @@
+// Mutant Power Always On
+00DF-8A09
+
+// Invulnerability
+00C3-0302
+
+// Infinite Health
+00DF-8BFF
+
+// Infinite Mutant Power
+00DF-8CFF
+
+// Invulnerability
+188-C47-6EA
+
+// FAKE Mutant Power (Blue Bar) Modifier
+00C3-2123
+
+// Infinite Mutant Power (Blue Bar)
+00DF-8C4B
+
+// Infinite Health
+00DF-8B79
+
+// Infinite Mutant Power
+003-ED7-19E
+
+// Infinite Health
+009-007-A28

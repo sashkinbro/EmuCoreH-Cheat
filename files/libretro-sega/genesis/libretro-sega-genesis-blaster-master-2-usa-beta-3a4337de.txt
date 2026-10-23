@@ -1,0 +1,35 @@
+// Infinite Lives - Blaster Master 2 (USA) (Beta)
+AWBT-GA48
+
+// Infinite Energy - Blaster Master 2 (USA) (Beta)
+A3LA-JA84
+A5VA-GA5Y
+ALDA-AA5A
+
+// Invincibility - Blaster Master 2 (USA) (Beta)
+RZLA-J6YT
+R1VA-G6V6
+R0CT-A6WL
+
+// Infinite Fuel - Blaster Master 2 (USA) (Beta)
+BD4T-GA7Y
+BD5A-GA7E
+
+// Infinite 3-Way Missiles - Blaster Master 2 (USA) (Beta)
+A5ZT-GA5J
+A5ZT-GA92
+
+// Infinite Homing Missiles - Blaster Master 2 (USA) (Beta)
+A50T-GA56
+A51T-GA6T
+
+// Infinite Lightnings - Blaster Master 2 (USA) (Beta)
+A51A-GA48
+A51A-GA3G
+
+// Infinite Shield - Blaster Master 2 (USA) (Beta)
+A4FT-GA3G
+A4FT-GA5J
+
+// Infinite Credits - Blaster Master 2 (USA) (Beta)
+A3FT-AA8J

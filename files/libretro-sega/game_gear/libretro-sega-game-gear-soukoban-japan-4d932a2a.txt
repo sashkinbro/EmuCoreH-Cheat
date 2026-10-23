@@ -1,0 +1,17 @@
+// Start On Stage Modifier
+00C0-7100
+
+// Only Moved Once
+00C0-7900
+
+// Walk Through Walls?
+00C0-1D09
+
+// No Moves Counted When Not Pushing Blocks
+000-F4E-6E6
+
+// No Moves Counted When Pushing Blocks
+001-8CE-6E6
+
+// Walk Thru Walls and Blocks (Disable to push blocks)
+012-04E-E6A

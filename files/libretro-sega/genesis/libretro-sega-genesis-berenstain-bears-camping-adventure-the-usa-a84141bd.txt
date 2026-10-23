@@ -1,0 +1,42 @@
+// Infinite Hearts
+FFAEDA:000C
+
+// Infinite White Crystals
+FFA19A:0099
+
+// Infinite Lives
+FFA1A2:0009
+
+// Infinite Lives 1P 2P
+AKST-AA9T
+AKHA-CA7C
+AKTT-AA66
+AKJA-CA8W
+AKVT-AA26
+AKTA-AA76
+AKHA-CA9J
+AKVA-AA3L
+AKJA-CA5Y
+AKVT-AA60
+
+// Infinite Hearts 1P 2P
+AKST-AA8G
+AKHA-CA6J
+AKTT-AA6J
+AKJA-CA7Y
+AKVA-AA9W
+AKTA-AA6L
+AKHA-CA8E
+AKVA-AA2N
+AKJA-CA4L
+AKVT-AA48
+
+// Invincibility P1 P2
+RZST-A6TT
+RZHT-C6XT
+
+// Infinite Hearts Fake
+FFE0C6:000C
+
+// Keep heaving weapon after losing a life
+AKST-AA9G

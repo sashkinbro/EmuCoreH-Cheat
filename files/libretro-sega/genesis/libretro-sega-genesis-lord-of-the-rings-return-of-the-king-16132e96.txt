@@ -1,0 +1,5 @@
+// Infinite Time
+FF0708:0064
+
+// 1P Infinite Health
+FF031A:0005

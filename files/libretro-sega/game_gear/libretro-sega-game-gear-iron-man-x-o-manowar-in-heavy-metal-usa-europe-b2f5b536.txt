@@ -1,0 +1,23 @@
+// Infinite Health
+00DA-B8FF
+
+// Invulnerability
+00D6-9600
+
+// Invulnerability (Blinking)
+002-A4D-E6E
+
+// Infinite Lives
+00DA-B709
+
+// Character Select Modifier
+00DA-B500
+
+// Level Select
+00DF-13FF
+
+// Infinite Health
+00E-FBF-B30
+
+// Infinite Lives
+00F-C8E-C46

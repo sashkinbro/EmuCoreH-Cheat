@@ -1,0 +1,18 @@
+// Start With 1 Lives
+014-FAF-E66
+
+// Start With 5 Lives
+054-FAF-E66
+
+// Start With 9 Lives
+094-FAF-E66
+
+// Infinite Lives
+008-E2D-E69
+
+// Infinite Energy
+004-56C-D5A
+
+// Start On Toys In The Hood
+344-F3F-3BE
+344-EFF-3BE

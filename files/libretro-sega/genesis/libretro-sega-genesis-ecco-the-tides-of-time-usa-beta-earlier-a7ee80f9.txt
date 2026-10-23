@@ -1,0 +1,29 @@
+// Invincibility (Stars)
+FFAA48:0258
+
+// Infinite Air
+FFA8F4:0380
+
+// Invincibility (Stars)
+FFAB68:0258
+
+// Infinite Air
+FFAA14:0380
+
+// Pause the game and press C for Debug Menu
+APBA-SA1E
+RFBA-R61W
+
+// Infinite Air
+FFAA14:0380
+
+// Invincibility (Star)
+FFAB68:0258
+
+// Pause the game and press C for Debug Menu
+AR6A-VAXJ
+RG6A-T6X4
+
+// Pause the game and press C for Debug Menu
+ASRT-VAVT
+RHRT-T6WC

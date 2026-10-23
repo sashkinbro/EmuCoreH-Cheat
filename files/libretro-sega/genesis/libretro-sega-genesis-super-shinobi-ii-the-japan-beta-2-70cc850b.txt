@@ -1,0 +1,33 @@
+// Infinite Lives
+FF46C4:0009
+
+// Infinite Shurikens
+FF46C6:03E7
+
+// Infinite Ninjitsu Items
+FF46CA:0009
+
+// Enable 6-Button Mode
+FF000A:0080
+
+// Enabled Cheat Code Infinite 999 Shurikens
+BWFT-AA9A
+ALXA-AA3R
+RGLA-C6YC
+
+// Infinite Lives
+AW1A-AA2Y
+
+// Infinite Life
+AWBT-CA2C
+
+// Enabled Cheat Code 6-Button Mode
+AB7A-CA28
+
+// Enable 6-Button Mode
+AB7A-CA20
+E4LA-CA5G
+
+// Enable Infinite Shuriken Cheat
+ACWT-AA9N
+B4LA-CA54

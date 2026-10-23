@@ -1,0 +1,14 @@
+// Infinite 120 mm Rounds
+00C5-2732
+
+// Infinite 7.62 mm Rounds
+00C5-2A96
+
+// Infinite Smoke Bombs
+00C5-2901
+
+// Infinite Lasers
+00C5-2801
+
+// Infinite Ammo (All Types)
+00D-54C-3BE

@@ -1,0 +1,12 @@
+// Infinite Time To Buzz In
+FF4084:0009
+
+// Player 1 Has A Great Score
+FF3EA2:00FF
+FF3EA2:00FF
+
+// Player 2 Has No Score
+FF3EA6:0000
+
+// Player 3 Has No Score
+FF3EAA:0000

@@ -1,0 +1,177 @@
+// Start with 1 plane instead of 3
+AANA-AABL
+
+// Start with 2 planes
+AENA-AABL
+
+// Start with 4 planes
+ANNA-AABL
+
+// Start with 5 planes
+ATNA-AABL
+
+// Continue with 1 plane instead of 3
+AE2A-AAD6
+
+// Continue with 2 planes
+AJ2A-AAD6
+
+// Continue with 4 planes
+AT2A-AAD6
+
+// Continue with 5 planes
+AY2A-AAD6
+
+// Almost infinite planes
+AT0T-AA4T
+
+// Start With 0 Missiles Instead Of 50
+AANA-AABW
+AANA-AAB4
+
+// Start With 10 Missiles
+BJNA-AABW
+BJNA-AAB4
+
+// Start With 25 Missiles
+DENA-AABW
+DENA-AAB4
+
+// Start With 75 Missiles
+KNNA-AABW
+KNNA-AAB4
+
+// Start With 100 Missiles
+NTNA-AABW
+NTNA-AAB4
+
+// Continue With No Extra Missiles
+AA2A-AAET
+
+// Continue With 10 Extra Missiles
+BJ2A-AAET
+
+// Continue With 25 Extra Missiles
+DE2A-AAET
+
+// Continue with 75 extra missiles
+KN2A-AAET
+
+// Continue With 100 Extra Missiles
+NT2A-AAET
+
+// Infinite missiles
+BJ6A-AA26
+
+// 0 continues instead of 3
+AAZA-AAEE
+
+// 1 continue
+AEZA-AAEE
+
+// 5 continues
+AYZA-AAEE
+
+// 9 continues
+BEZA-AAEE
+
+// Infinite continues
+AT2A-AA6C
+
+// Start on stage 2
+AKYT-AAHT
+
+// Start on stage 3
+APYT-AAHT
+
+// Start on stage 4
+AVYT-AAHT
+
+// Start on stage 5
+AZYT-AAHT
+
+// Start on stage 6
+A3YT-AAHT
+
+// Start on stage 7
+A7YT-AAHT
+
+// Start on stage 8
+BBYT-AAHT
+
+// Start on stage 9
+BFYT-AAHT
+
+// Start on stage 10
+BKYT-AAHT
+
+// Start on stage 11
+BPYT-AAHT
+
+// Start on stage 12
+BVYT-AAHT
+
+// Start on stage 13
+BZYT-AAHT
+
+// Start on stage 14
+B3YT-AAHT
+
+// Start on stage 15
+B7YT-AAHT
+
+// Start on stage 16
+CBYT-AAHT
+
+// Start on stage 17
+CFYT-AAHT
+
+// Start on stage 18
+CKYT-AAHT
+
+// Start on stage 19
+CPYT-AAHT
+
+// Start on stage 20
+CVYT-AAHT
+
+// Start on stage 21
+CZYT-AAHT
+
+// Start on stage 22
+C3YT-AAHT
+
+// Start on stage 23
+C7YT-AAHT
+
+// Lose 1 Life To Beat The Game
+AT0T-AANR
+
+// Infinite Lives
+FF06C2:0002
+
+// Infinite Missiles
+FF06C4:0032
+
+// Infinite Missiles
+AE6A-AAA8
+
+// Invincibility
+FF0B30:0000
+
+// Cpu Can't Shoot
+AVWA-AA62
+
+// Invincibility
+AVDT-AA4Y
+AVBT-AA96
+A3LA-AA6G
+
+// Infinite Lives (Alternate)
+AT0T-AA4T
+
+// Infinite Missiles (Alternate)
+BJ6A-AA26
+
+// Untouchable
+RZDT-A6W0

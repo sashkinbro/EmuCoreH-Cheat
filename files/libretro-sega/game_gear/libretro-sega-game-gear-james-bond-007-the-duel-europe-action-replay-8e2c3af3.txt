@@ -1,0 +1,11 @@
+// Infinite Lives
+00C7-4409
+
+// Infinite Missiles (Ignore Menu Display)
+00D9-B409
+
+// Infinite Grenades
+00C7-5209
+
+// Infinite Life
+00C1-1304

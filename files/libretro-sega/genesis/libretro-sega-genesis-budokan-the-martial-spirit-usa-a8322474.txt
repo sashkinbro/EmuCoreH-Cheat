@@ -1,0 +1,5 @@
+// Your opponent (the CPU) starts with only half his normal stamina.
+H6WA-AAB0
+
+// Your opponent (the CPU) starts with almost no stamina.
+BJWA-AAB0

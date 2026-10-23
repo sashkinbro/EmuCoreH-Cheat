@@ -1,0 +1,17 @@
+// Regional lockout bypass code.
+ANBT-BA2J
+
+// Regional Lockout Bypass
+EAAT-BL1T
+
+// Regional Lockout Bypass
+EAAT-AY1T
+
+// Brutality with one button X is always after the Finish Him/Her (you need to come close to the fighter
+AT0T-EA2W
+
+// Automatically Fatality 1-2 (If at the end of the fight punch the hand will be a fatality 1, if at the end of the fight punch the leg will be a fatality 2
+ACCA-EN6G
+
+// Freeze Time
+AJAA-CA5L

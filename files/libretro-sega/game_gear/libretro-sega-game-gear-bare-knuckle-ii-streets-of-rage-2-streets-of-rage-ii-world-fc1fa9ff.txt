@@ -1,0 +1,143 @@
+// Infinite Energy
+00C9-8617
+
+// Acess stage select and damage options
+056-904-F76
+
+// Start with only 1 life
+012-BEF-E66
+
+// Start with 6 lives
+062-BEF-E66
+
+// Start with 9 lives
+092-BEF-E66
+
+// Infinite lives
+218-15C-91D
+
+// Start 1st life with only 1/2 energy
+0BE-F79-B36
+
+// Start 1st life with 2x energy
+3CE-F79-B36
+
+// Infinite energy
+21A-FBC-91D
+
+// Infinite time
+00A-05B-E6E
+
+// Mega-power attacks
+3E8-83A-91D
+098-84A-193
+008-85A-E6F
+
+// Start on stage 2
+012-C3F-E6E
+832-C5F-F74
+
+// Start on stage 3
+022-C3F-E6E
+832-C5F-F74
+
+// Start on stage 4
+032-C3F-E6E
+832-C5F-F74
+
+// Start on stage 5
+042-C3F-E6E
+832-C5F-F74
+
+// Start on stage 6
+052-C3F-E6E
+832-C5F-F74
+
+// Hit Anywhere
+03F-01B-C4E
+
+// Infinite Lives
+00C9-A609
+
+// Infinite Health
+7EA-FCC-3B7
+
+// Infinite Lives
+008-16C-3BE
+
+// Infinite Super Attacks
+00C9-B309
+
+// Infinite Super Attacks
+B6E-95D-3BE
+
+// Infinite Super Attacks (alt)
+21E-94D-91D
+
+// Infinite Continues
+00C9-A709
+
+// Infinite Continues
+B6F-837-3BE
+
+// Apple replenishes ?? health
+0EE-E19-F76
+
+// Special Attack Charges 2x Faster
+0FE-B1D-912
+
+// Start with ?? Health
+23E-F79-B36
+234-A5B-B36
+
+// Start with ?? Continues, instead of 3
+043-24D-E66
+
+// Freeze Timer
+00C7-3B35
+
+// Enable Infinite Health Cheat
+00C3-8901
+
+// Disable Infinite Health Cheat
+00C3-8900
+
+// Stage Modifier
+00C3-8300
+
+// Infinite Lives
+B68-16C-3BE
+
+// Infinite Time
+3AA-5AB-2A2
+
+// Enable Extra Options (Round Select and Infinite Health Option) in Options Menu
+1D4-244-6EA
+204-344-91E
+
+// Enable Extra Options (Round Select and Infinite Health Option) in Options Menu
+00D3-2001
+
+// Enable Infinite Health Cheat
+C9A-CCC-E69
+
+// Invincibility against most attacks
+C90-9BA-C49
+
+// Invincibility against grabs
+C90-D7A-C49
+
+// Invincibility against projectiles
+C91-4CA-C49
+
+// Invincibility against explosions
+C90-6CA-C49
+
+// 1-Hit Kills Enemies and Bosses
+7E8-989-3B7
+
+// Invincibility against partner's regular attacks
+C3F-36B-C41
+
+// Invincibility against partner's grabs
+C9D-F6B-C49

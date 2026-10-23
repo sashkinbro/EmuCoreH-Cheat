@@ -1,0 +1,5 @@
+// Infinite Time (Ten's Digit)
+00C8-2D09
+
+// Infinite Lives
+00C8-2F09

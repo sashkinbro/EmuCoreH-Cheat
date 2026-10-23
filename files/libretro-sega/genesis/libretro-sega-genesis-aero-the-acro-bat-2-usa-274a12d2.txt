@@ -1,0 +1,87 @@
+// Infinite Lives
+AT7T-AA44
+
+// Infinite Energy
+D8AT-CAC6
+
+// Infinite Stars
+D97A-AAER
+
+// Invincibility
+CKYT-AN7J
+
+// Infinite Lives
+FF0046:0003
+
+// Infinite Energy
+FF0200:0003
+
+// Invincibility
+FF0368:004B
+
+// Infinite Stars
+FF0048:0009
+
+// Level Modifier
+FF0030:0000
+
+// Start With More Energy 4 Hits
+AXJT-AACJ
+
+// Start With More Energy 5 Hits
+A1JT-AACJ
+
+// Start With 9 Lives
+BE1T-AADL
+
+// Start With 20 Lives
+EA1T-AADL
+
+// Start With 50 Lives
+LA1T-AADL
+
+// Jump in midair (as many times as you want).
+RF2T-A6X0
+
+// When you walk into a wall, you will be teleported up to the next ledge, floor, or hidden area.
+DLMT-AA82
+
+// Enabled Cheat Code Level Select In Pause Press Down+A+C
+FF0026:0001
+
+// Enabled Cheat Code Level Select In Pause Press Down+A+C
+AJ6A-AA3N
+
+// Freeze Time Z
+AXKA-AA76
+
+// Invincibility
+R0AT-C6V6
+R0CA-A6XR
+
+// Pause the game for level select menu
+BT6A-AA3N
+
+// Pause the game and press A for level select menu
+AJ6A-AA3N
+JA6A-AABW
+
+// When you're at the level select menu, press Left for infinite energy and infinite lives options
+RHDA-E6ZG
+
+// Invincibility
+P4AT-CA36
+
+// Regional Lockout Bypass (European and Japanese Systems)
+AABT-AA3G
+
+// Infinite Health
+ACAT-CA40
+
+// Infinite Stars
+RH7A-A6YL
+
+// Stars worth 2
+ALRT-B66E
+XCRT-AAER
+ACRT-AJ6T

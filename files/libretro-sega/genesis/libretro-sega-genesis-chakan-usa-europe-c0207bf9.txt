@@ -1,0 +1,107 @@
+// Protection from most hits
+AKZA-TA7L
+
+// Invincibility Lasts Longer After Getting Hit
+AB3A-TCF2
+
+// Invincibility Does Not Last As Long
+DB3A-TAF2
+
+// Invincibility (Falling still kills you)
+RLGA-TA4C
+
+// Using An Alchemy Does Not Use Up Potions
+ALJA-WA74
+ALJA-WA8J
+
+// Start With 4 Blue Potions
+P0AT-XTVR
+
+// Start With 4 Green Potions
+P0AT-XTVW
+
+// Start With 4 Red Potions
+P0AT-XTV0
+
+// Start With 4 Clear Potions
+P0AT-XTV4
+
+// Super jump
+RGJA-W600
+
+// Infinite Time
+ACGT-VE7W
+
+// Scythe Always Available
+RGRT-W6TG
+
+// Grappling Hook Always Available
+RGRA-W604
+
+// Battering mallet always available
+RGRA-W61N
+
+// Battle axe always available
+RGRT-W6T6
+
+// Invincibility
+RLGA-TR4C
+
+// Moon Jump
+EP5A-NAFJ
+
+// Infinite Health
+FFC0D0:0012
+
+// Weapon Modifier
+FFC046:0000
+
+// Float Jump
+FFC0EA:00FF
+
+// Have Spronged Weapon In Inventory
+FFC054:0001
+
+// Have Two-Handed Axe Weapon In Inventory
+FFC052:0001
+
+// Have Scrythe/Sickle Weapon In Inventory
+FFC050:0001
+
+// Have Spiked-Hammer Weapon In Inventory
+FFC04E:0001
+
+// Have Red Eye
+FFC056:0001
+
+// Have Red Eye, Red Arrow, And Red ?
+FFC058:0001
+
+// Have Red Eye, Red Arrow, Red ?, 4-Way Red Arrows, Red Fire, Red Mound (?)
+FFC05A:0001
+
+// Have All Red Inventory Items
+FFC05C:0001
+
+// Invincible Towards Falling Off The Screen
+FBJT-NA36
+
+// Invincible Towards Falling Off The Screen #2
+RFJT-N6T6
+
+// Infinite Jump
+ACSA-WAA0
+
+// Cheat Mode
+FFBAC6:0001
+
+// Enable Cheat Mode
+AL6T-0A68
+AMAT-0A3A
+
+// 1 Hit Kill Enemies
+FF3DA6:0000
+
+// Don't fall when you walk off ledges (walk on air)
+RFCT-N6T2
+RFCA-N6Z4

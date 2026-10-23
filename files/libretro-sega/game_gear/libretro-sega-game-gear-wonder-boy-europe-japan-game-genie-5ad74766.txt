@@ -1,0 +1,14 @@
+// Start With 5 Lives
+05D-DDF-E66
+
+// Start With 8 Lives
+08D-DDF-E66
+
+// Start With 12 Lives
+0CD-DDF-E66
+
+// Start With 5 Health/Vitality Units
+055-7E9-D5A
+
+// Start With 8 Health/Vitality Units
+085-7E9-D5A

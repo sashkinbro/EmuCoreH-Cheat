@@ -1,0 +1,9 @@
+// P2 Never Wins
+00D2-BA00
+
+// Freeze P1's Animations
+00CE-7C2C
+00CF-0224
+
+// Infinite Credits
+00D2-F809

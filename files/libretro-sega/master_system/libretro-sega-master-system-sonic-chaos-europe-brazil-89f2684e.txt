@@ -1,0 +1,51 @@
+// Higher Jumps
+00D5-0C95
+
+// Invulnerability
+00D3-B16A
+
+// Don't Lose Rings When Hit
+3A9-37B-2A2
+
+// Infinite Lives
+005-F5E-082
+
+// Invulnerability
+C99-FEB-2A2
+
+// Level Select enabled
+C6A-D4F-D53
+
+// Jump In Midair
+185-EDB-91D
+115-EEB-C45
+
+// Infinite Lives
+00D2-9999
+
+// Infinite Rings (99 - Get 1 Ring To Go To &quot;Bonus&quot; Stage )
+00D2-9A99
+
+// Infinite Rings (07 - Use If You Don't Want To Go To &quot;Bonus&quot; Stage)
+00D2-9A07
+
+// Infinite Rings
+00D2-9A99
+
+// Level Select
+00D2-9700
+
+// Infinite Fly Time Tails
+00D3-A199
+
+// Zone Select after Title Screen
+00D2-CE01
+
+// Sound Test after Title Screen
+00D2-CE02
+
+// Infinite Lives
+3A5-FBE-2A2
+
+// Don't Die When Hit With No Rings
+379-1AB-F78

@@ -1,0 +1,11 @@
+// Invulnerability
+00C4-2439
+
+// Invulnerability
+005-EAB-3B4
+
+// FAKE Infinite Life Modifier
+00C4-6406
+
+// Infinite Life
+00CC-1514

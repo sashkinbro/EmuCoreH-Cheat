@@ -1,0 +1,60 @@
+// Invincibility
+00C0-1703
+
+// Start On Final Level
+00C1-4A15
+
+// Have All Items
+00C0-01FF
+
+// Invincibility
+C9E-887-2A2
+
+// Infinite Energy
+3AE-9E7-2A2
+
+// Infinite Continues
+00C2-C404
+
+// Infinite Health
+00C0-20F0
+
+// Max Health
+00C0-21F0
+
+// Invincibility
+C9E-7E7-E69
+
+// Infinite Continues
+00C-29E-3BE
+
+// Start a new game with ?? Health
+968-2BE-7FB
+968-2FE-7FB
+
+// Super Jump (Hold Up at the start of the Jump)
+FAA-C37-19D
+FAA-C47-19D
+FAA-C57-19D
+FAA-C67-19D
+FAA-C77-19D
+FBA-C87-191
+FAA-C97-19D
+FBA-CA7-191
+FBA-CB7-191
+FAA-CC7-19D
+FBA-CD7-191
+FBA-CE7-191
+FBA-CF7-191
+FBA-D07-191
+FCA-D17-195
+FBA-D27-191
+FBA-D37-191
+FCA-D47-195
+FBA-D57-191
+FCA-D67-195
+FCA-D77-195
+FCA-D87-195
+FCA-D97-195
+FCA-DC7-195
+FCA-DD7-195

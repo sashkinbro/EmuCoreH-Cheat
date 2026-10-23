@@ -1,0 +1,11 @@
+// Infinite Lives (Player Levels)
+00C0-3009
+
+// Infinite Continues
+00C0-3409
+
+// Infinite Health (Player Levels)
+00C1-EA03
+
+// Infinite Energy (Car Levels)
+00CA-0003

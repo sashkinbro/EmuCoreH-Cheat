@@ -1,0 +1,61 @@
+// Boot Into Configuration Mode
+FFF1B6:00F0
+
+// Access Hidden Option In Configuration Mode
+BAJT-AAER
+BAJT-AAFL
+
+// Press Start on Title Screen for Hidden Options/Configuration Menu (Disable when finished)
+RGTT-A6Z0
+
+// Change Table Music to Knights of Legend from Thunder Force II
+HTDT-BARE
+CEDT-AAGG
+
+// Change Table Music to A Breach of Contract from Herzog Zwei
+HTDT-BARE
+CJDT-AAGG
+
+// Change Table Music to Venus Fire from Thunder Force III
+HTDT-BARE
+CNDT-AAGG
+
+// Change Table Music to Blood-Stained Lake from Elemental Master
+HTDT-BARE
+CTDT-AAGG
+
+// Change Table Music to Etude of Wind from Shin Kyuugyokuden
+HTDT-BARE
+CYDT-AAGG
+
+// Infinite Balls (except Final Boss Level) - Both Players
+REZT-A6WN
+
+// Bonus points never reset when bonus is collected
+AVNT-AA8G
+
+// Bonus multiplier never resets when bonus is collected
+AVNT-AA8T
+
+// Automatically play the final boss level
+RENT-A6TJ
+
+// Start A New Game With ?? Balls, Instead Of 3
+AECT-BA3L
+
+// Infinite Balls - Final Boss Level - Both Players
+RGLA-A6T0
+
+// Bonus multiplier always resets to ?? after bonus is collected
+AKNT-AAGW
+
+// Bonus points always reset to ??, instead of 100, after bonus is collected
+AKNT-AAGJ
+
+// Continue A Password Game With ?? Balls
+1V1A-BTK6
+AP1A-AAB8
+
+// Replace Password Menu with Hidden Options/Configuration Menu
+9CVA-A6WR
+JCVA-A6CT

@@ -1,0 +1,21 @@
+// Debug Option Modifier
+FF00FC:0000
+
+// Ntsc Modifier
+FF0036:0000
+
+// Enable Test Mode
+A52A-AR2W
+CM1T-AN72
+
+// Region Lockout Bypass
+RECA-A6W0
+
+// P1 Easy Win
+FF0C60:0003
+
+// P2 Or Computer Easy Win
+FF0C60:0003
+
+// P1 Can't Win
+FF0C60:0000

@@ -1,0 +1,8 @@
+// Strikes Modifier
+00C1-360A
+
+// P1 Always Scores 55
+00C1-25FF
+
+// P2/CPU Never Scores
+00C1-2600

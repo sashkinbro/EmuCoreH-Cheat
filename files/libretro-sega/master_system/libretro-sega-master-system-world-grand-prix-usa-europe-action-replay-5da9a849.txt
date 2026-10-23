@@ -1,0 +1,8 @@
+// Infinite Time (Seconds)
+00D0-9100
+
+// Infinite Time (Minutes)
+00D0-9200
+
+// Use With Infinite Time Code To Prevent Screen From Shaking
+00D6-3606

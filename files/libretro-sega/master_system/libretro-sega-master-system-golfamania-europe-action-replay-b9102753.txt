@@ -1,0 +1,17 @@
+// P1 Always On Shot Zero
+00C7-7800
+
+// FAKE? - P1 Always On Shot Zero
+00C7-A000
+
+// Power At Maximum
+00C7-AA06
+
+// Accuracy At Maximum
+00C7-AB06
+
+// Luck At Maximum
+00C7-AC06
+
+// Level At Maximum (18)
+00C7-AE11

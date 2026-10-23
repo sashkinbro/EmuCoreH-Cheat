@@ -1,0 +1,2 @@
+// CPU Player Gets Stuck At Start of Level
+FF8A20:FFFF

@@ -1,0 +1,23 @@
+// Proton Energy recharges much faster and gives you more proton energy
+SBHT-D61A
+
+// Infinite Time
+FF93CA:0199
+
+// Infinite Shields
+FF93D0:0007
+
+// Infinite Proton Energy
+FF93CE:0019
+
+// Start with 15 shields in 32x mode, Pilot mode (instead of 7 shields).
+B8ZA-AAA4
+
+// Infinite shields (ie. infinite energy).  See notes.
+FF2DE0:6002
+
+// Kill 5 Tie Fighters for every 1 you shoot down.
+SC9A-D0V8
+
+// Start each level with 300 seconds (instead of 200).
+AGYA-AGB8

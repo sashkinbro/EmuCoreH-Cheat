@@ -1,0 +1,69 @@
+// Infinite Credits [Only Works On Dumped Rom 'B']
+00D0-4002
+
+// Infinite Cash [Alternate Code]
+00D0-3F09
+
+// Accelerator Stuck Down, Achieve Nitro Speed, Turns
+00C2-1BFF
+
+// Permanent Nitro Speed With No Brakes, Car Can Boun
+00C2-1EFF
+
+// Start with 5 nitros
+05A-D8F-80E
+
+// Start with 10 nitros
+0AA-D8F-80E
+
+// Start with 15 nitros
+0FA-D8F-80E
+
+// Infinite nitros
+215-B0C-91D
+
+// Almost infinite money
+001-98B-A2C
+
+// Infinite Time
+004-50E-A22
+
+// Start With At Least $1,150,000
+7A4-18E-087
+
+// P1 Infinite Nitros
+00C2-0363
+
+// P1 Infinite Credits
+00D0-4009
+
+// P1 Infinite Money
+00D0-3E99
+00D0-3F99
+
+// P1 Max Accel Upgrade
+00C2-0007
+
+// P1 Max Tires Upgrade
+00C1-FF07
+
+// P1 Max Top Spd Upgrade
+00C2-0207
+
+// P1 Max Shocks Upgrade
+00C2-0107
+
+// P2 No Nitros
+00C2-3800
+
+// P3 No Nitros
+00C2-6D00
+
+// P4 No Nitros
+00C2-A200
+
+// Infinite Credits
+00B-86E-3BE
+
+// Start with ?? Credits, instead of 2
+03F-1BC-E62

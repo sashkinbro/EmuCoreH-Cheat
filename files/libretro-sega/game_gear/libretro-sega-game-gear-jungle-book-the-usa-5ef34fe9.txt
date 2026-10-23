@@ -1,0 +1,74 @@
+// Invincible
+00C8-B102
+
+// Infinite Energy
+00C8-2F06
+
+// Banana Gun From Start
+00C8-3332
+
+// Boomerang From Start
+00C8-3081
+
+// Invulnerability
+00C8-B1FF
+
+// Invulnerability
+00C8-B2FF
+
+// Level Select Enabled
+00C8-0E01
+
+// Invulnerability
+003-F0C-F7A
+
+// Very little flash time after getting hit
+19C-26E-7FB
+
+// More flash time after getting hit
+99C-26E-7FB
+
+// Infinite energy
+3AC-20E-2A2
+
+// 1 hit and you die
+AFC-1FE-19E
+
+// Invincible
+C3B-7DE-E61
+
+// Infinite Time (Ten's Digit)
+00C8-2D09
+
+// Infinite Lives
+00C8-2F09
+
+// Gem Modifier
+00C8-3300
+
+// Infinite Lives
+00C8-2E04
+
+// Instantly Beat Stage
+C8F-1DC-E69
+
+// Needed Gem's Modifier
+1CC-C4A
+
+// Infinite Lives
+007-89A-19E
+
+// Infinite Health
+00C8-3006
+
+// Infinite Health
+00C-1FE-19E
+
+// Infinite Time
+002-449-19E
+
+// Stage Select
+CD5-88A-F79
+
+// Jump Higher
+805-9CC-A29

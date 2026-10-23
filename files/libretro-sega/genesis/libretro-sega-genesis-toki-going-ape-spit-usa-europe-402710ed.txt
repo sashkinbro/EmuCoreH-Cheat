@@ -1,0 +1,221 @@
+// Infinite Time
+ATTT-CA5R
+
+// Infinite Lives
+ATWT-CA88
+
+// Infinite Credits
+BC3T-AA4T
+
+// Infinite Time To Decide If You Want To Continue
+AW4T-AA72
+
+// Infinite Time To Complete Each Round
+AATT-CA44
+
+// 8 Minutes To Complete Round
+9TST-DGJE
+MEST-CRAG
+
+// 6 Minutes To Complete Round
+9TST-DGJE
+MEST-CLAG
+
+// 4 Minutes To Complete Round
+9TST-DGJE
+MEST-CGAG
+
+// Never Lose Extra Energy Spitballs On Dying
+A2VT-CA74
+
+// Never Lose Extra Energy Spitballs When Time Runs Out
+AATT-CAGA
+
+// Extra Life For Every Piece Of Food
+E11A-CCD6
+
+// Extra Life For Every 10 Pieces Of Food
+E11A-DAD6
+
+// Extra Life For Every 20 Pieces Of Food
+E11A-CAM6
+
+// Extra Life For Every 30 Pieces Of Food
+E11A-DAM6
+
+// Extra Life For Every 40 Pieces Of Food
+E11A-CAX6
+
+// Extra Life For Every 60 Pieces Of Food
+E11A-CA56
+
+// Extra Life For Every 70 Pieces Of Food
+E11A-DA56
+
+// Extra Life For Every 80 Pieces Of Food
+E11A-CBD6
+
+// Extra Life For Every 90 Pieces Of Food
+E11A-DBD6
+
+// Extra Life For Every 99 Pieces Of Food
+E11A-DXD6
+
+// Never Lose Shoes Due To Time (But Still Lose Them On Dying Or Advancing To Next Stage)
+CCVT-AA90
+
+// Shoes Last 32X Normal Time
+ACWA-ABFN
+
+// Shoes Last 16X Normal Time
+ACWA-AAZN
+
+// Shoes Last 8X Normal Time
+ACWA-AAPN
+
+// Shoes Last 4X Normal Time
+ACWA-BAFN
+
+// Shoes Last 2X Normal Time
+ACWA-ATFN
+
+// Shoes Last 1/2X Normal Time
+ACWA-AEFN
+
+// Shoes Last 1/4X Normal Time
+ACWA-ACFN
+
+// Never Lose Invincibility Due To Time (But Still Lose It On Advancing To Next Stage)
+BLVT-AA72
+
+// Invincibility Lasts 32X Normal Time
+ACWA-ABF8
+
+// Invincibility Lasts 16X Normal Time
+ACWA-AAZ8
+
+// Invincibility Lasts 8X Normal Time
+ACWA-AAP8
+
+// Invincibility Lasts 4X Normal Time
+ACWA-BAF8
+
+// Invincibility Lasts 2X Normal Time
+ACWA-ATF8
+
+// Invincibility Lasts 1/2X Normal Time
+ACWA-AEF8
+
+// Invincibility Lasts 1/4X Normal Time
+ACWA-ACF8
+
+// Palace Guards Are Automatically Defeated
+AL7A-CA58
+
+// Takes 1 Shot To Kill Palace Guards
+AL7A-CA58
+AG7A-DE56
+
+// Takes 5 Shots To Kill Palace Guards
+AL7A-CA58
+A07A-DE56
+
+// Takes 10 Shots To Kill Palace Guards
+AL7A-CA58
+CC7A-DE56
+
+// Takes 20 Shots To Kill Palace Guards
+AL7A-CA58
+EC7A-DE56
+
+// Takes 30 Shots To Kill Palace Guards
+AL7A-CA58
+GC7A-DE56
+
+// Takes 50 Shots To Kill Palace Guards
+AL7A-CA58
+LC7A-DE56
+
+// Takes 70 Shots To Kill Palace Guards
+AL7A-CA58
+RC7A-DE56
+
+// Takes 99 Shots To Kill Palace Guards
+AL7A-CA58
+XG7A-DE56
+
+// Unlimited Men
+FF1B86:0005
+
+// Infinite Time (Alternate - Minutes Digits)
+FF1B82:0009
+
+// Infinite Time (Alternate - Seconds Digits)
+FF1B82:0058
+
+// Food Modifier
+FF1B86:0000
+
+// Weapon Modifier (Read Note)
+FF1B88:0000
+
+// Infinite Credits (Continues)
+FF1B8C:0009
+
+// Infinite Time At Credit/Continue Screen
+FF023A:0009
+
+// Stage Modifier
+FF1B8A:00BE
+
+// Start On Level/Stage Modifier (Combined)
+FF1B8A:0001
+FF1BB6:0001
+
+// Fake Boss Health Modifier
+FF3600:0000
+
+// Always Have Higher Jump (Forces White Running Shoes Ability)
+FF1D24:00A7
+
+// Always Invincible (Forces Star Ability)
+FF1D26:00E1
+
+// Invincible
+ACSA-AA6T
+RGSA-A6YC
+R00T-A61W
+
+// Invincibility
+BWST-AA26
+
+// Jump shoes are always active (makes you jump higher)
+RGRT-A6YY
+
+// High jump
+AACA-B2DR
+
+// Slow moon descent when jumping
+ALST-BE44
+
+// Super slow moon descent when jumping
+AGST-BE44
+
+// Select any weapon
+ALNA-AA7N
+
+// Select any weapon, and there are 2 new weapons to choose from
+ALNA-AA7N
+BGNA-AAGE
+
+// Select any level
+ALNA-AA3R
+
+// 1 hit kills enemies and hazards
+AKSA-CA40
+
+// Power Meter Special Weapon Always On Maximum
+AM4A-AA5E
+
+// Kill Bosses in one shot
+PC6T-CEYA

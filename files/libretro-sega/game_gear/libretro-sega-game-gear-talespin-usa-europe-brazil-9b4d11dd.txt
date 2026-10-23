@@ -1,0 +1,44 @@
+// Invulnerability
+00C9-5637
+
+// Invulnerability
+187-3FD-6EA
+
+// Start with 2 lives
+013-43F-E66
+
+// Start with 7 lives
+063-43F-E66
+
+// Start with 10 lives
+093-43F-E66
+
+// Start with 1 credit
+013-48F-E66
+
+// Start with 6 credits
+063-48F-E66
+
+// Start with 9 credits
+093-48F-E66
+
+// Infinite lives
+3AB-B5D-2A2
+
+// Infinite continues
+3A6-3CB-2A2
+
+// Infinite Lives
+00D7-2D09
+
+// Infinite Credits (Continues)
+00D7-3209
+
+// 99 Cargo
+00D7-9299
+
+// Infinite Lives
+00B-B4D-19E
+
+// Jump Higher
+CC8-70A-919
